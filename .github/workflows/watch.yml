@@ -1,0 +1,37 @@
+name: Drop Radar - Check Stores
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # every 15 minutes
+  workflow_dispatch:          # lets you manually trigger a run from GitHub's UI
+
+permissions:
+  contents: write            # needed so the workflow can commit updated state.json
+
+jobs:
+  check-stores:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run watcher
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python watcher.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "drop-radar-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --cached --quiet && echo "No state changes" || git commit -m "Update state [skip ci]"
+          git push
