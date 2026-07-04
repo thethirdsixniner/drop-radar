@@ -2,11 +2,15 @@ name: Drop Radar - Check Stores
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # every 15 minutes
-  workflow_dispatch:          # lets you manually trigger a run from GitHub's UI
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write            # needed so the workflow can commit updated state.json
+  contents: write
+
+concurrency:
+  group: drop-radar-watcher
+  cancel-in-progress: false
 
 jobs:
   check-stores:
@@ -34,4 +38,5 @@ jobs:
           git config user.email "actions@github.com"
           git add state.json
           git diff --cached --quiet && echo "No state changes" || git commit -m "Update state [skip ci]"
+          git pull --rebase origin main
           git push
