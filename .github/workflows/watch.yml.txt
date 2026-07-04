@@ -29,7 +29,8 @@ jobs:
 
       - name: Run watcher
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_VIP: ${{ secrets.DISCORD_WEBHOOK_VIP }}
+          DISCORD_WEBHOOK_FREE: ${{ secrets.DISCORD_WEBHOOK_FREE }}
         run: python watcher.py
 
       - name: Commit and push updated state
