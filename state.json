@@ -2578,7 +2578,7 @@
       "10660673159435": {
         "title": "Asics GEL-Quantum™ 360 I",
         "handle": "asics-gelquantum-360-i-graphite-grey-hazard-green",
-        "in_stock": true
+        "in_stock": false
       },
       "10537630269707": {
         "title": "Salomon Genesis Advanced",
@@ -2638,7 +2638,7 @@
       "10098645336331": {
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-hyacinth-violet",
-        "in_stock": true
+        "in_stock": false
       },
       "10077519184139": {
         "title": "Autry Reelwind Low W *Suede / Net*",
@@ -2703,7 +2703,7 @@
       "10116811620619": {
         "title": "Hiking Patrol Light Soft Shell Shorts",
         "handle": "hiking-patrol-light-soft-shell-shorts-dark-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "8443029422347": {
         "title": "Lacoste Light Quick Dry Swim Shorts",
@@ -2968,7 +2968,7 @@
       "10167634886923": {
         "title": "Dime Pleated Twill Pants",
         "handle": "dime-pleated-twill-pants-camel",
-        "in_stock": true
+        "in_stock": false
       },
       "10218332619019": {
         "title": "Marni Mixed Media Hoodie",
@@ -3847,11 +3847,6 @@
         "handle": "nike-zoom-streak-3-black-volt",
         "in_stock": true
       },
-      "9270923722940": {
-        "title": "Stussy Permanent Collection Pigment Dyed Tee - Natural",
-        "handle": "stussy-permanent-collection-pigment-dyed-tee-natural",
-        "in_stock": false
-      },
       "9095675969724": {
         "title": "Nike Air Flightposite 'Jason Kidd' - Multi-Color/Midnight Navy",
         "handle": "nike-air-flightposite-jason-kidd-multi-color-midnight-navy",
@@ -3965,7 +3960,7 @@
       "9149323346108": {
         "title": "Godspeed New York Gatti Miami Superrun Tee - Grey Wash",
         "handle": "godspeed-new-york-gatti-miami-superrun-tee-grey-wash",
-        "in_stock": true
+        "in_stock": false
       },
       "9140951941308": {
         "title": "Malbon Golf x Torrey Pines Dad Hat - Moss",
@@ -3992,11 +3987,6 @@
         "handle": "billionaire-boys-club-helmet-tee-eden",
         "in_stock": true
       },
-      "8968209072316": {
-        "title": "Pleasures Supplements L/S Tee - Heather",
-        "handle": "pleasures-supplements-l-s-tee-heather",
-        "in_stock": false
-      },
       "8913383227580": {
         "title": "Barriers Worldwide Voodoo Tee - Charcoal",
         "handle": "barriers-worldwide-voodoo-tee-charcoal",
@@ -4010,7 +4000,7 @@
       "8762278936764": {
         "title": "Billionaire Boys Club UFO Knit Tee - Black",
         "handle": "billionaire-boys-club-ufo-knit-tee-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8762258882748": {
         "title": "Ice Cream Squeeze Trucker Hat - Black",
@@ -5005,6 +4995,16 @@
       "9313577599164": {
         "title": "Billionaire Boys Club Great Outdoors Knit Tee - Sesame",
         "handle": "billionaire-boys-club-great-outdoors-knit-tee-sesame",
+        "in_stock": true
+      },
+      "9324816498876": {
+        "title": "Asics Gel-K1011 - White/Pure Silver",
+        "handle": "asics-gel-k1011-white-pure-silver-1",
+        "in_stock": true
+      },
+      "9324817645756": {
+        "title": "Asics Gel-K1011 - Pink Cloud/Pure Silver",
+        "handle": "asics-gel-k1011-pink-cloud-pure-silver",
         "in_stock": true
       }
     },
@@ -7872,7 +7872,7 @@
       "9052523135181": {
         "title": "Men's Trailwind Storm-FIT ADV Waterproof Running Jacket Anthracite",
         "handle": "nike-clothing-m-nk-sfadv-trailwnd-wtrprf-jkt-multicolor-j323146",
-        "in_stock": true
+        "in_stock": false
       },
       "9044229587149": {
         "title": "Supervsn Clifton One9 Sneakers Green Flash / Limelight",
@@ -7922,7 +7922,7 @@
       "9031749402829": {
         "title": "Men's Trail Dri-FIT 1/2-Zip Longsleeve T-Shirt Black / Summit White",
         "handle": "nike-clothing-m-nk-df-trail-midlayer-hz-black-j323066",
-        "in_stock": true
+        "in_stock": false
       },
       "8981468610765": {
         "title": "Superstar 82 Sneakers Cloud White / Core Black",
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-K1011 - White/Pure Silver\nhttps://sneakerpolitics.com/products/asics-gel-k1011-white-pure-silver-1",
+      "detected_at": "2026-07-05T09:46:48.798811+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-K1011 - Pink Cloud/Pure Silver\nhttps://sneakerpolitics.com/products/asics-gel-k1011-pink-cloud-pure-silver",
+      "detected_at": "2026-07-05T09:46:48.798811+00:00"
+    }
+  ]
 }
