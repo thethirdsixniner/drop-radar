@@ -3872,11 +3872,6 @@
         "handle": "jacquemus-x-france-x-nike-reissue-track-pants-blackened-blue-white",
         "in_stock": true
       },
-      "9363145916604": {
-        "title": "Jacquemus x France x Nike Academy Pro Soccer Top - Game Royal/University Red",
-        "handle": "jacquemus-x-france-x-nike-academy-pro-soccer-top-game-royal-university-red",
-        "in_stock": false
-      },
       "9364389691580": {
         "title": "Vans LX Authentic 44 'Mohair' - Black/Multi",
         "handle": "vans-lx-authentic-44-mohair-black-multi",
@@ -4020,7 +4015,7 @@
       "8998886604988": {
         "title": "Rhude Regatta Club Tee - Vintage White/Black",
         "handle": "rhude-regatta-club-tee-vintage-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9341184868540": {
         "title": "Billionaire Boys Club Miami Knit Baseball Tee - Whisper White",
@@ -5005,6 +5000,11 @@
       "9265374003388": {
         "title": "Boredom Kills Trust Camo Waffle Thermal L/S Tee - Camo",
         "handle": "boredom-kills-trust-camo-waffle-thermal-l-s-tee-camo",
+        "in_stock": true
+      },
+      "9265365090492": {
+        "title": "Boredom Kills Collegiate Sweats - Grey",
+        "handle": "boredom-kills-collegiate-sweats-grey",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Boredom Kills Purpose Double L/S Tee - Orange\nhttps://sneakerpolitics.com/products/boredom-kills-purpose-double-l-s-tee-orange",
-      "detected_at": "2026-07-11T20:28:44.805878+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Boredom Kills Trust Camo Waffle Thermal L/S Tee - Camo\nhttps://sneakerpolitics.com/products/boredom-kills-trust-camo-waffle-thermal-l-s-tee-camo",
-      "detected_at": "2026-07-11T20:28:44.805878+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Boredom Kills Collegiate Sweats - Grey\nhttps://sneakerpolitics.com/products/boredom-kills-collegiate-sweats-grey",
+      "detected_at": "2026-07-11T23:37:17.424519+00:00"
     }
   ]
 }
