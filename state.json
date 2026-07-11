@@ -1,10 +1,60 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286580768896": {
+        "title": "Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Varsity Full-Snap Jacket - Blue / White",
+        "handle": "jk21529-nyyblwh",
+        "in_stock": true
+      },
+      "8286580965504": {
+        "title": "Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Satin Full-Snap Jacket - Navy",
+        "handle": "jk21609-nyynavy",
+        "in_stock": true
+      },
+      "8286580932736": {
+        "title": "Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Navy Pro Pinch Snapback Cap - Navy",
+        "handle": "hp21518-nyynavy",
+        "in_stock": false
+      },
+      "8286580801664": {
+        "title": "Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Mesh Baseball Jersey -Navy",
+        "handle": "tp21528-nyynavy",
+        "in_stock": true
+      },
+      "8286580736128": {
+        "title": "Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Baseball Jersey - Navy / White",
+        "handle": "tp21527-nyywhit",
+        "in_stock": true
+      },
+      "8286580899968": {
+        "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Varsity Full-Snap Jacket - Black",
+        "handle": "jk21524-nyyblck",
+        "in_stock": false
+      },
+      "8286580867200": {
+        "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Tee - Black",
+        "handle": "5521541-nyyblck",
+        "in_stock": false
+      },
+      "8286580834432": {
+        "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Pro Pinch Snapback Hat - Black",
+        "handle": "hp21518-nyyblck",
+        "in_stock": false
+      },
+      "8286580703360": {
+        "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Mesh Baseball Jersey - Black",
+        "handle": "tp21523-nyyblck",
+        "in_stock": true
+      },
+      "8286580670592": {
+        "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Baseball Jersey - Black",
+        "handle": "tp21521-nyyblck",
+        "in_stock": true
+      },
       "8286244962432": {
         "title": "Nike x Soulgoods Homescape Woven SP - Medium Orewood / Brown",
         "handle": "nkhm6961-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286581719168": {
         "title": "Saucony x Engineered Garments Shadow Original Wingtip - Black / White",
@@ -1199,56 +1249,6 @@
       "8286579196032": {
         "title": "Nike Vomero Plus - White / Atomic Pink / Racer Blue / Black",
         "handle": "nkhv8150-108",
-        "in_stock": true
-      },
-      "8286579458176": {
-        "title": "Nike Air Force 1 Low Retro - Coastal Blue / Black",
-        "handle": "nkim5757-400",
-        "in_stock": true
-      },
-      "8286579425408": {
-        "title": "New Balance 740 - Rosewood / White",
-        "handle": "nbu74078z",
-        "in_stock": true
-      },
-      "8286579359872": {
-        "title": "New Balance Gator Run - Pink Chalk / Pink Granite",
-        "handle": "nbugtr2b7",
-        "in_stock": true
-      },
-      "8286579327104": {
-        "title": "Nike WMNS Dunk Low SE - White / Metallic Silver / Pink Rise",
-        "handle": "nkiv5104-100",
-        "in_stock": true
-      },
-      "8286579261568": {
-        "title": "Nike Ava X Mesh - College Grey / Anthracite / Black / Laser Orange",
-        "handle": "nkiq7633-002",
-        "in_stock": true
-      },
-      "8286579163264": {
-        "title": "Nike Air Force 1 '07 LX Vibram® - Volt / Black / Speed Yellow / Black",
-        "handle": "nkih1943-700",
-        "in_stock": true
-      },
-      "8286579130496": {
-        "title": "Nike Air Force 1 '07 LV8 - Black / Sail / Phantom",
-        "handle": "nkim5751-001",
-        "in_stock": true
-      },
-      "8286579097728": {
-        "title": "Nike WMNS Air Force 1 '07 - Baroque Brown / Sesame / Sail",
-        "handle": "nkib7695-200",
-        "in_stock": true
-      },
-      "8286579064960": {
-        "title": "Nike Air Force 1 '07 Edge - Black / Metallic Silver",
-        "handle": "nkim5750-001",
-        "in_stock": true
-      },
-      "8286579032192": {
-        "title": "Nike Air Force 1 '07 LV8 - Beach / Coconut Milk / Sail",
-        "handle": "nkim5751-200",
         "in_stock": true
       }
     },
@@ -3108,7 +3108,7 @@
       "8187462713611": {
         "title": "47 MLB New York Yankees *Base Runner* Cap",
         "handle": "47-mlb-new-york-yankees-base-runner-cap-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "10996967342347": {
         "title": "Adidas Powerphase",
@@ -3168,7 +3168,7 @@
       "10845224796427": {
         "title": "Nike Air Jordan 4 OG *Flight Club*",
         "handle": "nike-air-jordan-4-og-flight-club-sail-black-university-red",
-        "in_stock": true
+        "in_stock": false
       },
       "10809185370379": {
         "title": "Adidas adizero Evo SL M",
@@ -3583,7 +3583,7 @@
       "8778761666827": {
         "title": "Asphaltgold Essential Track Shorts",
         "handle": "asphaltgold-essential-track-shorts-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "8778747805963": {
         "title": "Asphaltgold Essential Track Shorts",
@@ -3598,7 +3598,7 @@
       "8778676404491": {
         "title": "Asphaltgold Essential Track Shorts",
         "handle": "asphaltgold-essential-track-shorts-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8935519453451": {
         "title": "HAY Colour Crate Mini-Set of 2",
@@ -3760,7 +3760,7 @@
       "9363148669116": {
         "title": "Jacquemus x France x Nike Soccer Shorts - White/White",
         "handle": "jacquemus-x-france-x-nike-soccer-shorts-white-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9363149521084": {
         "title": "Women's Slawn x Nigeria x Nike Soccer Top - Black/White",
@@ -8768,16 +8768,28 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike x Soulgoods Homescape Woven SP - Medium Orewood / Brown\nhttps://kith.com/products/nkhm6961-001",
-      "detected_at": "2026-07-11T14:37:04.468880+00:00"
+      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Varsity Full-Snap Jacket - Blue / White\nhttps://kith.com/products/jk21529-nyyblwh",
+      "detected_at": "2026-07-11T17:42:43.521353+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE SB AIR MAX 95 'CLUB 58' - SAIL/ BLACK\nhttps://undefeated.com/products/nike-sb-air-max-95-club-58-sail-black",
-      "detected_at": "2026-07-11T14:37:04.468880+00:00"
+      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Satin Full-Snap Jacket - Navy\nhttps://kith.com/products/jk21609-nyynavy",
+      "detected_at": "2026-07-11T17:42:43.521353+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Crosby Shortsleeve Shirt White\nhttps://www.slamjam.com/products/visvim-clothing-crosby-shirt-s-s-white-j330416",
-      "detected_at": "2026-07-11T14:37:04.468880+00:00"
+      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Mesh Baseball Jersey -Navy\nhttps://kith.com/products/tp21528-nyynavy",
+      "detected_at": "2026-07-11T17:42:43.521353+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Baseball Jersey - Navy / White\nhttps://kith.com/products/tp21527-nyywhit",
+      "detected_at": "2026-07-11T17:42:43.521353+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Mesh Baseball Jersey - Black\nhttps://kith.com/products/tp21523-nyyblck",
+      "detected_at": "2026-07-11T17:42:43.521353+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Baseball Jersey - Black\nhttps://kith.com/products/tp21521-nyyblck",
+      "detected_at": "2026-07-11T17:42:43.521353+00:00"
     }
   ]
 }
