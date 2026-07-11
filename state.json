@@ -24,7 +24,7 @@
       "8286580736128": {
         "title": "Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Baseball Jersey - Navy / White",
         "handle": "tp21527-nyywhit",
-        "in_stock": true
+        "in_stock": false
       },
       "8286580899968": {
         "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Varsity Full-Snap Jacket - Black",
@@ -1986,7 +1986,7 @@
       "6701189628165": {
         "title": "UNDEFEATED WEBBING BELT - BLACK",
         "handle": "undefeated-webbing-belt-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6701189562629": {
         "title": "UNDEFEATED SCREW U PIN - ANTIQUE NICKEL",
@@ -2653,7 +2653,7 @@
       "10273474904331": {
         "title": "Adidas SL 72 RS",
         "handle": "adidas-sl-72-rs",
-        "in_stock": true
+        "in_stock": false
       },
       "8740823335179": {
         "title": "Reebok x Whim Classic Leather",
@@ -2723,7 +2723,7 @@
       "8666585989387": {
         "title": "Our Legacy Third Cut",
         "handle": "our-legacy-third-cut-digital-denim-print",
-        "in_stock": true
+        "in_stock": false
       },
       "10169999982859": {
         "title": "CHITO International Paris Tee",
@@ -2913,7 +2913,7 @@
       "10694687129867": {
         "title": "Nike Wmns Air Rift",
         "handle": "nike-wmns-air-rift-pearl-white-pearl-white-pearl-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10654628446475": {
         "title": "Adidas Samba OG W",
@@ -4702,11 +4702,6 @@
         "handle": "ice-cream-diamond-knit-tee-stretch-limo",
         "in_stock": true
       },
-      "8675743072444": {
-        "title": "Fear Of God Essentials Jersey Crewneck Tee - Marine",
-        "handle": "fear-of-god-essentials-jersey-crewneck-tee-marine",
-        "in_stock": false
-      },
       "8383575261372": {
         "title": "A Bathing Ape 1st Camo Bomber Jacket - Black",
         "handle": "a-bathing-ape-1st-camo-bomber-jacket-black",
@@ -4902,11 +4897,6 @@
         "handle": "purple-brand-hickory-denim-shorts-light-indigo",
         "in_stock": true
       },
-      "9176911872188": {
-        "title": "Pleasures Girl Is A Gun Tee - White",
-        "handle": "pleasures-girl-is-a-gun-tee-white-1",
-        "in_stock": false
-      },
       "9154774040764": {
         "title": "Pleasures Ritual Heavyweight Tee - Black",
         "handle": "pleasures-ritual-heavyweight-tee-black",
@@ -5005,6 +4995,16 @@
       "9134321434812": {
         "title": "Nike Air Max Goadome Low SP - Taupe/Black",
         "handle": "nike-air-max-goadome-low-sp-taupe-black",
+        "in_stock": true
+      },
+      "9265382785212": {
+        "title": "Boredom Kills Purpose Double L/S Tee - Orange",
+        "handle": "boredom-kills-purpose-double-l-s-tee-orange",
+        "in_stock": true
+      },
+      "9265374003388": {
+        "title": "Boredom Kills Trust Camo Waffle Thermal L/S Tee - Camo",
+        "handle": "boredom-kills-trust-camo-waffle-thermal-l-s-tee-camo",
         "in_stock": true
       }
     },
@@ -8768,28 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Varsity Full-Snap Jacket - Blue / White\nhttps://kith.com/products/jk21529-nyyblwh",
-      "detected_at": "2026-07-11T17:42:43.521353+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Boredom Kills Purpose Double L/S Tee - Orange\nhttps://sneakerpolitics.com/products/boredom-kills-purpose-double-l-s-tee-orange",
+      "detected_at": "2026-07-11T20:28:44.805878+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Satin Full-Snap Jacket - Navy\nhttps://kith.com/products/jk21609-nyynavy",
-      "detected_at": "2026-07-11T17:42:43.521353+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Mesh Baseball Jersey -Navy\nhttps://kith.com/products/tp21528-nyynavy",
-      "detected_at": "2026-07-11T17:42:43.521353+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Baseball Jersey - Navy / White\nhttps://kith.com/products/tp21527-nyywhit",
-      "detected_at": "2026-07-11T17:42:43.521353+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Mesh Baseball Jersey - Black\nhttps://kith.com/products/tp21523-nyyblck",
-      "detected_at": "2026-07-11T17:42:43.521353+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Baseball Jersey - Black\nhttps://kith.com/products/tp21521-nyyblck",
-      "detected_at": "2026-07-11T17:42:43.521353+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Boredom Kills Trust Camo Waffle Thermal L/S Tee - Camo\nhttps://sneakerpolitics.com/products/boredom-kills-trust-camo-waffle-thermal-l-s-tee-camo",
+      "detected_at": "2026-07-11T20:28:44.805878+00:00"
     }
   ]
 }
