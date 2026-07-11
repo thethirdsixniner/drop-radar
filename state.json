@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286244962432": {
+        "title": "Nike x Soulgoods Homescape Woven SP - Medium Orewood / Brown",
+        "handle": "nkhm6961-001",
+        "in_stock": true
+      },
       "8286581719168": {
         "title": "Saucony x Engineered Garments Shadow Original Wingtip - Black / White",
         "handle": "sas71046-4",
@@ -1245,11 +1250,6 @@
         "title": "Nike Air Force 1 '07 LV8 - Beach / Coconut Milk / Sail",
         "handle": "nkim5751-200",
         "in_stock": true
-      },
-      "8285848666240": {
-        "title": "Timberland Authentic Three-Eye Lug Handsewn Boat Shoe - Brown Full Grain",
-        "handle": "tb030003214",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -1278,20 +1278,30 @@
         "handle": "chuck-70-hi-obsidian-egret-black",
         "in_stock": true
       },
-      "6701187760389": {
-        "title": "SAUCONY PROGRID OMNI 9 - PINK/ PURPLE",
-        "handle": "saucony-progrid-omni-9-pink-purple",
-        "in_stock": true
-      },
       "6700381307141": {
         "title": "NIKE SB AIR MAX ISHOD - BLACK/ WHITE",
         "handle": "nike-sb-air-max-ishod-black-white",
+        "in_stock": true
+      },
+      "6701187760389": {
+        "title": "SAUCONY PROGRID OMNI 9 - PINK/ PURPLE",
+        "handle": "saucony-progrid-omni-9-pink-purple",
         "in_stock": true
       },
       "6700127944965": {
         "title": "ASICS X MIN-NANO GEL-NIMBUS 10.1 - WHITE/ SHEET ROCK",
         "handle": "asics-x-min-nano-gel-nimbus-10-1-white-sheet-rock",
         "in_stock": false
+      },
+      "6677432467717": {
+        "title": "NEW BALANCE 2002R - STEEL",
+        "handle": "new-balance-2002r-steel",
+        "in_stock": true
+      },
+      "2248271953993": {
+        "title": "CONVERSE CHUCK 70 HI - VIVIDSULFUR/BLACK/EGRET",
+        "handle": "chuck-70-hi-vividsulfur-black-egret",
+        "in_stock": true
       },
       "6689980449029": {
         "title": "NIKE WOMEN'S CORTEZ - BAROQUEBROWN/ SAIL/ KHAKI",
@@ -1308,19 +1318,9 @@
         "handle": "nike-killshot-2-leather-sail-lucidgreen-gum",
         "in_stock": true
       },
-      "6677432467717": {
-        "title": "NEW BALANCE 2002R - STEEL",
-        "handle": "new-balance-2002r-steel",
-        "in_stock": true
-      },
       "6569928917065": {
         "title": "NIKE SB ZOOM BLAZER MID - BLACK/ WHITE",
         "handle": "sb-zoom-blazer-mid-black-white-1",
-        "in_stock": true
-      },
-      "2248271953993": {
-        "title": "CONVERSE CHUCK 70 HI - VIVIDSULFUR/BLACK/EGRET",
-        "handle": "chuck-70-hi-vividsulfur-black-egret",
         "in_stock": true
       },
       "6702619492613": {
@@ -1351,6 +1351,11 @@
       "6702619328773": {
         "title": "ADIDAS X SP5DER CAP - BLACK",
         "handle": "adidas-x-sp5der-cap-black",
+        "in_stock": true
+      },
+      "6702614642949": {
+        "title": "NIKE SB AIR MAX 95 'CLUB 58' - SAIL/ BLACK",
+        "handle": "nike-sb-air-max-95-club-58-sail-black",
         "in_stock": true
       },
       "6702619820293": {
@@ -2497,11 +2502,6 @@
         "title": "UNDEFEATED ICON FLAG S/S TEE - GERMANY",
         "handle": "undefeated-icon-flag-s-s-tee-germany",
         "in_stock": true
-      },
-      "6702593016069": {
-        "title": "UNDEFEATED ICON FLAG S/S TEE - JAPAN",
-        "handle": "undefeated-icon-flag-s-s-tee-japan",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2573,7 +2573,7 @@
       "10852754850059": {
         "title": "Autry Embroidered Logo Tee",
         "handle": "autry-embroidered-logo-tee-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10853293228299": {
         "title": "Autry Two-Tone Baseball Cap With Embroidered Logo",
@@ -2688,7 +2688,7 @@
       "7122697486500": {
         "title": "Autry Medalist *Leather / Suede*",
         "handle": "autry-medalist-suede-white-amazon",
-        "in_stock": true
+        "in_stock": false
       },
       "10632016822539": {
         "title": "Autry Medalist *Solid Goat*",
@@ -3103,7 +3103,7 @@
       "8225495875851": {
         "title": "47 MLB New York Yankees *Clean Up* Cap",
         "handle": "47-mlb-new-york-yankees-clean-up-cap-vintage-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "8187462713611": {
         "title": "47 MLB New York Yankees *Base Runner* Cap",
@@ -3453,7 +3453,7 @@
       "10170478559499": {
         "title": "Adidas Gazelle Indoor",
         "handle": "adidas-gazelle-indoor-crystal-white-blue-grey-one",
-        "in_stock": true
+        "in_stock": false
       },
       "10595828695307": {
         "title": "47 New York Yankees Washed Chain Stitch *Hitch* Cap",
@@ -3558,7 +3558,7 @@
       "10174298751243": {
         "title": "Metalwood Metal Logo Stud Croc Tote",
         "handle": "metalwood-metal-logo-stud-croc-tote-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10077519184139": {
         "title": "Autry Reelwind Low W *Suede / Net*",
@@ -8202,7 +8202,7 @@
       "9121319616717": {
         "title": "Folbot Tactical Folding Sup Grey",
         "handle": "neighborhood-lifestyle-nh-x-folbot-tactical-folding-sup-grey-j353270",
-        "in_stock": true
+        "in_stock": false
       },
       "9121319354573": {
         "title": "Logo Monk Bag Black",
@@ -8253,11 +8253,6 @@
         "title": "Men's Mulholland Drive Washed Heavy Weight T-Shirt (Type-2) Black",
         "handle": "wacko-maria-clothing-mulholland-drive-washed-heavy-weight-crew-neck-t-shirt-type-2-black-j356342",
         "in_stock": true
-      },
-      "9081449185485": {
-        "title": "Air Force 1 '07 Sneakers Black",
-        "handle": "nike-footwear-air-force-1-07-black-j328715",
-        "in_stock": false
       },
       "9102088798413": {
         "title": "XT-6 GORE-TEX Sneakers Black / Silver",
@@ -8763,8 +8758,26 @@
         "title": "Men's Bertone Race Pants Navy",
         "handle": "visvim-clothing-bertone-race-pants-blue-j330407",
         "in_stock": true
+      },
+      "9026198929613": {
+        "title": "Men's Crosby Shortsleeve Shirt White",
+        "handle": "visvim-clothing-crosby-shirt-s-s-white-j330416",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Kith: Nike x Soulgoods Homescape Woven SP - Medium Orewood / Brown\nhttps://kith.com/products/nkhm6961-001",
+      "detected_at": "2026-07-11T14:37:04.468880+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE SB AIR MAX 95 'CLUB 58' - SAIL/ BLACK\nhttps://undefeated.com/products/nike-sb-air-max-95-club-58-sail-black",
+      "detected_at": "2026-07-11T14:37:04.468880+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Crosby Shortsleeve Shirt White\nhttps://www.slamjam.com/products/visvim-clothing-crosby-shirt-s-s-white-j330416",
+      "detected_at": "2026-07-11T14:37:04.468880+00:00"
+    }
+  ]
 }
