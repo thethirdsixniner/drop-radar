@@ -1,6 +1,46 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286581915776": {
+        "title": "Kith Treats Matcha Swirl Vintage Tee - Black - PH",
+        "handle": "khta030079-001-ph",
+        "in_stock": false
+      },
+      "8286582145152": {
+        "title": "Kith Treats Matcha Powder Tee - White - PH",
+        "handle": "khta030081-101-ph",
+        "in_stock": false
+      },
+      "8286581981312": {
+        "title": "Kith Treats Matcha Poster Tee - Black - PH",
+        "handle": "khta030080-001-ph",
+        "in_stock": false
+      },
+      "8286582177920": {
+        "title": "Kith Kids Treats Matcha Powder Tee - White - PH",
+        "handle": "khtk030005-101-ph",
+        "in_stock": false
+      },
+      "8286581751936": {
+        "title": "Kith for Fellow Matcha Set - White - PH",
+        "handle": "matmw-ph",
+        "in_stock": false
+      },
+      "8286582210688": {
+        "title": "Kith for Fellow Matcha Set - Pink Opal - PH",
+        "handle": "maydr-ph",
+        "in_stock": false
+      },
+      "8286581850240": {
+        "title": "Kith for Fellow Matcha Set - Farrow - PH",
+        "handle": "matby-ph",
+        "in_stock": false
+      },
+      "8286581948544": {
+        "title": "Kith for Fellow Matcha Set - Black - PH",
+        "handle": "matmb-ph",
+        "in_stock": false
+      },
       "8286580768896": {
         "title": "Mitchell & Ness x Jay-Z The Blueprint x New York Yankees Varsity Full-Snap Jacket - Blue / White",
         "handle": "jk21529-nyyblwh",
@@ -1209,46 +1249,6 @@
       "8286572871808": {
         "title": "Diesel 1996 D-Sire Relaxed Jean - White",
         "handle": "dia2340509p89",
-        "in_stock": true
-      },
-      "8286572839040": {
-        "title": "Gottlob Edition No. 2 Necklace - Turquoise / Red",
-        "handle": "got2-10edition2tr2",
-        "in_stock": true
-      },
-      "8286572806272": {
-        "title": "Diesel P-Arlor Bermuda Short - Grey",
-        "handle": "dia231940ljc",
-        "in_stock": true
-      },
-      "8286550196352": {
-        "title": "LAARVEE Watch Pea001R The Forbidden Fruit - Black / Multi",
-        "handle": "laapea001r-tff",
-        "in_stock": true
-      },
-      "8286547738752": {
-        "title": "Oliver Peoples x Jil Sander Edition 6 Sunglasses - Black / Carbon Grey",
-        "handle": "0ov5612su-1731p250",
-        "in_stock": true
-      },
-      "8286547705984": {
-        "title": "Oliver Peoples x Jil Sander Edition 6 Sunglasses - Dark Green / Green",
-        "handle": "0ov5612su-18115250",
-        "in_stock": true
-      },
-      "8286579392640": {
-        "title": "Nike WMNS Air Rift Breathe - White / Pure Platinum",
-        "handle": "nk848386-100",
-        "in_stock": true
-      },
-      "8286579228800": {
-        "title": "Nike Vomero Plus - Anthracite / Black / Bright Crimson / University Red",
-        "handle": "nkhv8150-017",
-        "in_stock": true
-      },
-      "8286579196032": {
-        "title": "Nike Vomero Plus - White / Atomic Pink / Racer Blue / Black",
-        "handle": "nkhv8150-108",
         "in_stock": true
       }
     },
@@ -2563,7 +2563,7 @@
       "10717465772299": {
         "title": "Nike Wmns Air Force 1 '07 Low",
         "handle": "nike-wmns-air-force-1-07-low-medium-ash-malt-off-noir",
-        "in_stock": true
+        "in_stock": false
       },
       "10853293228299": {
         "title": "Autry Two-Tone Baseball Cap With Embroidered Logo",
@@ -2933,7 +2933,7 @@
       "10762719920395": {
         "title": "Autry Ribbed Socks with Embroidered Logo",
         "handle": "autry-ribbed-socks-with-embroidered-logo-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "10733317456139": {
         "title": "Martine Rose Hooded Shirt",
@@ -2953,7 +2953,7 @@
       "10534216990987": {
         "title": "Adidas Harden Volume 9",
         "handle": "adidas-harden-volume-9-core-black-footwear-white-warm-van",
-        "in_stock": true
+        "in_stock": false
       },
       "10178171928843": {
         "title": "Adidas Gazelle Bold W",
@@ -3293,7 +3293,7 @@
       "10586702512395": {
         "title": "Adidas Handball Spezial W",
         "handle": "adidas-handball-spezial-w-preloved-brown-orange-tint-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "10194121228555": {
         "title": "Adidas Gazelle Indoor",
@@ -3638,7 +3638,7 @@
       "10839092986123": {
         "title": "New Amsterdam Surf Association Beach Sign Tee",
         "handle": "new-amsterdam-surf-association-beach-sign-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10738598773003": {
         "title": "Adidas Samba OG W",
@@ -4170,7 +4170,7 @@
       "9165018366140": {
         "title": "Anta Kai 3 '432Hz' - Pink/Purple",
         "handle": "anta-kai-3-432hz-pink-purple",
-        "in_stock": true
+        "in_stock": false
       },
       "9342087430332": {
         "title": "Pleasures Oral Mesh Shirt - Black",
@@ -8034,11 +8034,6 @@
         "handle": "hysteric-glamour-accessories-my-hysteric-mesh-cap-black-j353973",
         "in_stock": false
       },
-      "9104757620941": {
-        "title": "Men's Ash Canvas Jacket Washed Black",
-        "handle": "roa-clothing-ash-canvas-jacket-black-j325421",
-        "in_stock": false
-      },
       "9008299770061": {
         "title": "Men's Flower T-Shirt Snow White",
         "handle": "oamc-peacemaker-clothing-peacemaker-flower-s-s-tshirt-white-j305768",
@@ -8267,7 +8262,7 @@
       "9102058717389": {
         "title": "GEL-Kayano 14 Sneakers Cream / Pistachio",
         "handle": "asics-footwear-gel-kayano-14-beige-j340195",
-        "in_stock": true
+        "in_stock": false
       },
       "9120114475213": {
         "title": "Men's Nylon Metal Overshirt Black",
@@ -8763,13 +8758,18 @@
         "title": "Men's Crosby Shortsleeve Shirt White",
         "handle": "visvim-clothing-crosby-shirt-s-s-white-j330416",
         "in_stock": true
+      },
+      "9120485015757": {
+        "title": "Men's 13oz Denim STD Thunderbird Blouson (Kountry Dream Catch Remake) Indigo",
+        "handle": "kapital-clothing-13oz-denim-std-thunderbird-blouson-kountry-dream-catch-remake-blue-j339245",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Farah Japan Baseball Cap\nhttps://www.asphaltgold.de/products/farah-japan-baseball-cap-navy",
-      "detected_at": "2026-07-12T11:44:48.103192+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's 13oz Denim STD Thunderbird Blouson (Kountry Dream Catch Remake) Indigo\nhttps://www.slamjam.com/products/kapital-clothing-13oz-denim-std-thunderbird-blouson-kountry-dream-catch-remake-blue-j339245",
+      "detected_at": "2026-07-12T15:37:18.836093+00:00"
     }
   ]
 }
