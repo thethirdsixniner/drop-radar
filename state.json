@@ -84,12 +84,12 @@
       "8286580703360": {
         "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Mesh Baseball Jersey - Black",
         "handle": "tp21523-nyyblck",
-        "in_stock": true
+        "in_stock": false
       },
       "8286580670592": {
         "title": "Mitchell & Ness x Jay-Z Reasonable Doubt x New York Yankees Baseball Jersey - Black",
         "handle": "tp21521-nyyblck",
-        "in_stock": true
+        "in_stock": false
       },
       "8286244962432": {
         "title": "Nike x Soulgoods Homescape Woven SP - Medium Orewood / Brown",
@@ -2583,12 +2583,12 @@
       "10724991336715": {
         "title": "Asics GEL-Kayano 14",
         "handle": "asics-gelkayano-14-dried-leaf-green-pure-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10748139929867": {
         "title": "Arte Antwerp Ribstop Bag",
         "handle": "arte-antwerp-ripstop-bag-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10535547863307": {
         "title": "Adidas SL 72 OG W",
@@ -2708,7 +2708,7 @@
       "10655666438411": {
         "title": "47 MLB New York Yankees Foundational *Captain* Cap",
         "handle": "47-mlb-new-york-yankees-foundational-captain-cap-sandstone-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10174424318219": {
         "title": "Metalwood Ballon Shirt",
@@ -3093,7 +3093,7 @@
       "10823799865611": {
         "title": "Nike P-6000",
         "handle": "nike-p6000-anthracite-iron-grey-dark-smoke-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10836490223883": {
         "title": "Nike P-6000 SE",
@@ -3208,7 +3208,7 @@
       "10685387342091": {
         "title": "Adidas Samba LT W",
         "handle": "adidas-samba-lt-w-core-black-lucid-blue-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10653551952139": {
         "title": "Adidas Samba OG W",
@@ -3433,7 +3433,7 @@
       "10169426379019": {
         "title": "thisisneverthat Hamburger Tee",
         "handle": "thisisneverthat-hamburger-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "8989292495115": {
         "title": "Nike Wmns Air Pegasus 2005",
@@ -3728,7 +3728,7 @@
       "10666576642315": {
         "title": "Asics JOG 100S",
         "handle": "asics-jog-100s-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10631967408395": {
         "title": "Adidas Campus 00s W",
@@ -3757,11 +3757,6 @@
       }
     },
     "https://sneakerpolitics.com": {
-      "9363148669116": {
-        "title": "Jacquemus x France x Nike Soccer Shorts - White/White",
-        "handle": "jacquemus-x-france-x-nike-soccer-shorts-white-white",
-        "in_stock": false
-      },
       "9363149521084": {
         "title": "Women's Slawn x Nigeria x Nike Soccer Top - Black/White",
         "handle": "womens-slawn-x-nigeria-x-nike-soccer-top-black-white",
@@ -5005,6 +5000,11 @@
       "9265323540668": {
         "title": "Boredom Kills Spider Raw Denim - Blue",
         "handle": "boredom-kills-spider-raw-denim-blue",
+        "in_stock": true
+      },
+      "9265321509052": {
+        "title": "Boredom Kills Spider Type I Jacket - Blue",
+        "handle": "boredom-kills-spider-type-i-jacket-blue",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's 13oz Denim STD Thunderbird Blouson (Kountry Dream Catch Remake) Indigo\nhttps://www.slamjam.com/products/kapital-clothing-13oz-denim-std-thunderbird-blouson-kountry-dream-catch-remake-blue-j339245",
-      "detected_at": "2026-07-12T15:37:18.836093+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Boredom Kills Spider Type I Jacket - Blue\nhttps://sneakerpolitics.com/products/boredom-kills-spider-type-i-jacket-blue",
+      "detected_at": "2026-07-12T18:42:09.794868+00:00"
     }
   ]
 }
