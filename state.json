@@ -1506,7 +1506,7 @@
       "6699901812997": {
         "title": "PATTA METAL T-SHIRT - BLACK",
         "handle": "patta-metal-t-shirt-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702537769221": {
         "title": "UNDEFEATED X NE SCRIPT U FITTED",
@@ -2598,7 +2598,7 @@
       "10833253400843": {
         "title": "Adidas\tx Hermanos Koumori Bandana",
         "handle": "adidasx-hermanos-koumori-bandana-putty-grey-grey-one-reflective-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10659436626187": {
         "title": "Adidas Handball Spezial",
@@ -2688,7 +2688,7 @@
       "10623628574987": {
         "title": "Adidas Teamgeist Adicolor Long Sleeve Tee",
         "handle": "adidas-teamgeist-adicolor-long-sleeve-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10169999982859": {
         "title": "CHITO International Paris Tee",
@@ -3023,7 +3023,7 @@
       "10537644130571": {
         "title": "Autry Medalist W",
         "handle": "autry-medalist-w-white-tidfoam",
-        "in_stock": true
+        "in_stock": false
       },
       "8285570924811": {
         "title": "Autry Medalist W *Solid Goat*",
@@ -3298,7 +3298,7 @@
       "10194121228555": {
         "title": "Adidas Gazelle Indoor",
         "handle": "adidas-gazelle-indoor-silver-pebble-victory-blue-magic-beige",
-        "in_stock": true
+        "in_stock": false
       },
       "10578627002635": {
         "title": "Nike Wmns Air Max SNDR SE",
@@ -3653,7 +3653,7 @@
       "10732608323851": {
         "title": "Vans x Atiba Skate 2 Wayvee",
         "handle": "vans-x-atiba-skate-2-wayvee-gray",
-        "in_stock": true
+        "in_stock": false
       },
       "10744399069451": {
         "title": "Adidas Gazelle Indoor",
@@ -3708,7 +3708,7 @@
       "10748973220107": {
         "title": "Farah Japan Long Chester Coat",
         "handle": "farah-japan-long-chester-coat-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10732453495051": {
         "title": "Pas Normal Studios Balance Shorts *No Distance Left To Run*",
@@ -8047,7 +8047,7 @@
       "9104596369613": {
         "title": "XT-4 OG Sneakers White / Lunar Rock / Night Sky",
         "handle": "salomon-footwear-xt-4-og-white-j350612",
-        "in_stock": true
+        "in_stock": false
       },
       "9121350811853": {
         "title": "Nigeria x Slawn Dri-FIT Academy Pro Football Top Black / White",
@@ -8512,7 +8512,7 @@
       "9111033315533": {
         "title": "Stripe Raglan Crewneck Sweater Red",
         "handle": "stussy-clothing-stripe-raglan-crew-red-j357542",
-        "in_stock": true
+        "in_stock": false
       },
       "9121035157709": {
         "title": "Air Jordan 1 High OG 'Love Letter' Sneakers Shadow Brown / Soft Pearl",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Boredom Kills Spider Type I Jacket - Blue\nhttps://sneakerpolitics.com/products/boredom-kills-spider-type-i-jacket-blue",
-      "detected_at": "2026-07-12T18:42:09.794868+00:00"
-    }
-  ]
+  "pending_free": []
 }
