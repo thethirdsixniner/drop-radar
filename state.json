@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286584504448": {
+        "title": "Nike WMNS Shox Z Callistra - Pearl Pink",
+        "handle": "nkir5510-600",
+        "in_stock": true
+      },
+      "8286584438912": {
+        "title": "Nike WMNS Shox Z Callistra - Metallic Silver",
+        "handle": "nkir5510-002",
+        "in_stock": true
+      },
       "8286530928768": {
         "title": "Wind Vintage Rolex Two-Tone Champagne Dial Datejust Reference 16233 Unpolished - Silver / Gold",
         "handle": "wv-16233-5221",
@@ -109,7 +119,7 @@
       "8286549049472": {
         "title": "NAHMIAS Suede Baggy Carpenter Pant - Sand Suede",
         "handle": "l20-p61-270",
-        "in_stock": true
+        "in_stock": false
       },
       "8286549377152": {
         "title": "NAHMIAS Scribble Soccer Jersey - Blue Iris",
@@ -1239,16 +1249,6 @@
       "8286577229952": {
         "title": "Bottega Veneta Snap Oval Sunglasses - Burgundy / Brown",
         "handle": "bv1447s-003",
-        "in_stock": true
-      },
-      "8286577262720": {
-        "title": "Bottega Veneta Snap Cat-Eye Sunglasses - Black / Grey",
-        "handle": "bv1446s-001",
-        "in_stock": true
-      },
-      "8286575427712": {
-        "title": "Gottlob Edition No. 9 Necklace - Silver",
-        "handle": "got9-1edition9-neck",
         "in_stock": true
       }
     },
@@ -2668,7 +2668,7 @@
       "10738627969291": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-cream-white-silver-violet-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "10731677417739": {
         "title": "Lacoste Baseshot Winter W",
@@ -2698,7 +2698,7 @@
       "10795013996811": {
         "title": "Adidas x Fear Of God Athletics Meltaway Crewneck",
         "handle": "adidas-x-fear-of-god-athletics-meltaway-crewneck-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10806984966411": {
         "title": "On Ikon Track Jacket",
@@ -2848,17 +2848,17 @@
       "10210241675531": {
         "title": "Carhartt WIP Chase T-Shirt",
         "handle": "carhartt-wip-chase-tshirt-white-gold",
-        "in_stock": true
+        "in_stock": false
       },
       "10167574495499": {
         "title": "Adidas x Wales Bonner Terry Polo",
         "handle": "adidas-x-wales-bonner-terry-polo-collegiate-burgundy",
-        "in_stock": true
+        "in_stock": false
       },
       "9008380215563": {
         "title": "Courreges Football Jersey Longsleeve",
         "handle": "courreges-football-jersey-longsleeve-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "8469461860619": {
         "title": "Asphaltgold Summer of Joy Crochet Shorts",
@@ -2878,12 +2878,12 @@
       "9025292697867": {
         "title": "Lacoste Zippered Stand Up Collar Cotton Sweatshirt",
         "handle": "lacoste-zippered-stand-up-collar-cotton-sweatshirt-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9008255992075": {
         "title": "Courreges Football Jersey Shorts",
         "handle": "courreges-football-jersey-shorts-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "8860522971403": {
         "title": "032c ''Nighthawks'' Bomber Jacket",
@@ -3173,7 +3173,7 @@
       "10194441961739": {
         "title": "Adidas x Fear of God Athletics II",
         "handle": "adidas-x-fear-of-god-athletics-ii-ash-pearl",
-        "in_stock": true
+        "in_stock": false
       },
       "10094675362059": {
         "title": "New Balance 740",
@@ -3303,7 +3303,7 @@
       "10746829013259": {
         "title": "Adidas Tobacco",
         "handle": "adidas-tobacco-core-black-dark-brown-gum-5",
-        "in_stock": true
+        "in_stock": false
       },
       "10732570607883": {
         "title": "Adidas XLG Metawave",
@@ -3333,7 +3333,7 @@
       "10535547863307": {
         "title": "Adidas SL 72 OG W",
         "handle": "adidas-sl-72-og-w-blue-crew-white-gum-1",
-        "in_stock": true
+        "in_stock": false
       },
       "10659436626187": {
         "title": "Adidas Handball Spezial",
@@ -3608,7 +3608,7 @@
       "10537639543051": {
         "title": "Autry Hyperway *Suede / Mesh*",
         "handle": "autry-hyperway-suede-mesh-white-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10537647309067": {
         "title": "Autry Hyperway  W *Suedebic / Mesh*",
@@ -3658,7 +3658,7 @@
       "10833221288203": {
         "title": "Adidas Samba OG W *Rhinestone*",
         "handle": "adidas-samba-og-w-rhinestone-crystal-white-chalk-white-silver-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10747457896715": {
         "title": "Adidas SL 72 OG W",
@@ -3757,6 +3757,21 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8989525115068": {
+        "title": "Grateful Dead x Oregon x Nike Air Max 90 - Sail/Green Shock",
+        "handle": "grateful-dead-x-oregon-x-nike-air-max-90-sail-green-shock",
+        "in_stock": false
+      },
+      "9108124860604": {
+        "title": "Adidas Adistar XLG 2.0 - Cloud White/Solar Orange",
+        "handle": "adidas-adistar-xlg-2-0-cloud-white-solar-orange",
+        "in_stock": true
+      },
+      "9332830175420": {
+        "title": "Godspeed New York Freedoms Protocol Tee - Black",
+        "handle": "godspeed-new-york-freedoms-protocol-tee-black",
+        "in_stock": true
+      },
       "9459020824764": {
         "title": "Levi's Relaxed L/S Denim Worker Shirt - Washington Stripe III",
         "handle": "levis-relaxed-l-s-denim-worker-shirt-washington-stripe-iii",
@@ -4990,21 +5005,6 @@
       "8993321746620": {
         "title": "Billionaire Boys Club Zip Helmet Hoodie - Black",
         "handle": "billionaire-boys-club-zip-helmet-hoodie-black-1",
-        "in_stock": true
-      },
-      "8762258882748": {
-        "title": "Ice Cream Squeeze Trucker Hat - Black",
-        "handle": "ice-cream-squeeze-trucker-hat-black",
-        "in_stock": true
-      },
-      "8718473265340": {
-        "title": "A Bathing Ape 1st Camo Shark Mini Bag - Green",
-        "handle": "a-bathing-ape-1st-camo-shark-mini-bag-green",
-        "in_stock": true
-      },
-      "9324748669116": {
-        "title": "Asics Gel-Lyte III 07 Remastered - Orange/Cream",
-        "handle": "asics-gel-lyte-iii-07-remastered-orange-cream",
         "in_stock": true
       }
     },
@@ -7832,7 +7832,7 @@
       "9122642329805": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White",
         "handle": "nike-clothing-m-acg-df-radical-airflow-tank-white-j364333",
-        "in_stock": true
+        "in_stock": false
       },
       "9122642362573": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top White",
@@ -8768,340 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Wind Vintage Rolex Two-Tone Champagne Dial Datejust Reference 16233 Unpolished - Silver / Gold\nhttps://kith.com/products/wv-16233-5221",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
+      "message": "🆕 **New drop** at Kith: Nike WMNS Shox Z Callistra - Pearl Pink\nhttps://kith.com/products/nkir5510-600",
+      "detected_at": "2026-07-15T20:39:47.974131+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Wind Vintage Rolex IBM Datejust 16220 Unpolished - Silver\nhttps://kith.com/products/wv-16220-5266",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
+      "message": "🆕 **New drop** at Kith: Nike WMNS Shox Z Callistra - Metallic Silver\nhttps://kith.com/products/nkir5510-002",
+      "detected_at": "2026-07-15T20:39:47.974131+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Wind Vintage Rolex Silver Dial Datejust Reference 16030 Unpolished - Silver\nhttps://kith.com/products/wv-16030-5156",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Adidas Adistar XLG 2.0 - Cloud White/Solar Orange\nhttps://sneakerpolitics.com/products/adidas-adistar-xlg-2-0-cloud-white-solar-orange",
+      "detected_at": "2026-07-15T20:39:47.974131+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Wind Vintage Rolex Silver Dial Date Reference 15000 Unpolished - Silver\nhttps://kith.com/products/wv-15000-5267",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Wind Vintage Rolex Mosaic Date Reference 1501 Unpolished - Blue / Silver\nhttps://kith.com/products/wv-1501-5272",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Wind Vintage Rolex Datejust Reference 16200 Non-Luminous Roman Dial Unpolished - Silver\nhttps://kith.com/products/wv-16200-5184",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Wind Vintage Rolex Datejust Reference 16030 With Silver Dial Unpolished - Silver\nhttps://kith.com/products/wv-16030-5132",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Satisfy TechSilk™ Short - Shark\nhttps://kith.com/products/12074-72000",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Satisfy SoftCell™ Hoodie - Sun Bleached Rocky Road\nhttps://kith.com/products/11046-91e02",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Satisfy Rippy™ Cordura® Trail Short - Black\nhttps://kith.com/products/12052-00000",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Osoi Tote Brocle Mini Bag - Stone Black\nhttps://kith.com/products/os26fb05014249",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Osoi Boat Wide Bag - Cream\nhttps://kith.com/products/os24fwb010132003",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Osoi Boat Wide Bag - Black\nhttps://kith.com/products/os24fwb010132001",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: NAHMIAS Youth Basketball Boxy Tee - Optic White\nhttps://kith.com/products/y10-t23l4-100",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: NAHMIAS Uniform 24 Boxy Tee - Worn Navy\nhttps://kith.com/products/y5-t23n27-426",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: NAHMIAS Suede Baggy Carpenter Pant - Sand Suede\nhttps://kith.com/products/l20-p61-270",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: NAHMIAS Scribble Soccer Jersey - Blue Iris\nhttps://kith.com/products/y36-t46l12-407",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: NAHMIAS Scribble Check Soccer Short - Blue Iris\nhttps://kith.com/products/y42-r21-407",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: NAHMIAS Boardwalk Boxy Tee - Aged Black\nhttps://kith.com/products/y10-t23l1-007",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Metalwood Seersucker Spa Short - Navy\nhttps://kith.com/products/26ss-07-01-nvy",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: NAHMIAS Baggy Fit Color-Blocked Warm Up Track Pant - Red Nylon\nhttps://kith.com/products/w111-p50q1-603red",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Metalwood Seersucker Spa Short - Black\nhttps://kith.com/products/26ss-07-01-blk",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Metalwood Oscar Bravo Tee - Black\nhttps://kith.com/products/26ss-03-09-blk",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Metalwood Micro Grid Oversized Button Up Shirt - Sky\nhttps://kith.com/products/26ss-04-05-sky",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Metalwood Digital Hombre Short - Orange\nhttps://kith.com/products/26ss-07-04-org",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Metalwood Digital Hombre Short - Green\nhttps://kith.com/products/26ss-07-04-grn",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Metalwood Arowana Sport Polo - Black\nhttps://kith.com/products/26ss-04-09-blk",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Lemaire Twisted Workwear Pant - Slate\nhttps://kith.com/products/pa1102-ld1061-bk965",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Ksubi Klasse Halen Zip Hoodie Smoke - Grey\nhttps://kith.com/products/ksumpf26fl004-004",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jacquemus Pisco Sunglasses - Marble / Silver / Light Smoke\nhttps://kith.com/products/jac195c2sun",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jacquemus Havana Sunglasses - Black / Light Gold / Grey\nhttps://kith.com/products/jac225c1sun",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jacquemus Bambino Angular Metal Sunglasses - Metal Silver / Matt White / Silver\nhttps://kith.com/products/jac68c3sun",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: GOOD ART HLYWD Jack Skull Cross Pendant Necklace - Sterling Silver\nhttps://kith.com/products/4210jkc-2",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Essentials Denim Five Pocket Jean - Classic Blue\nhttps://kith.com/products/ess130sp264111f-212",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Elisa Johnson Val Sunglasses - Light Brown / Tortoise Blue\nhttps://kith.com/products/ej-vl-103-a",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Elisa Johnson Mini Vito Sunglasses - Black\nhttps://kith.com/products/ej-mv-101-m",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Elisa Johnson Val Sunglasses - Green Tortoise\nhttps://kith.com/products/ej-vl-104-a",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Elisa Johnson Jane Sunglasses - Green Tortoise\nhttps://kith.com/products/ej-j-118-a",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Elisa Johnson Jane Sunglasses - Gloss Black / Dark Brown\nhttps://kith.com/products/ej-j-119-a",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Coût De La Liberté Schanabel French Terry Jean - Indigo\nhttps://kith.com/products/m8443027kind",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Cartier Decor C Sunglasses - Silver / Blue\nhttps://kith.com/products/ct0550s-008",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Cartier Decor C Sunglasses - Gold / Green\nhttps://kith.com/products/ct0550s-009",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Cartier Decor C Sunglasses - Gold / Black / Grey\nhttps://kith.com/products/ct0622s-001",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Cartier Decor C Sunglasses - Gold / Black / Grey\nhttps://kith.com/products/ct0622s-004",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Cartier CT0644S Oval Sunglasses - Gold / Grey\nhttps://kith.com/products/ct0644s-001",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Cartier Clash CT0644S 004 Sunglasses - Gold / Green\nhttps://kith.com/products/ct0644s-004",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Cartier Clash CT0644S 002 Sunglasses - Gold / Violet\nhttps://kith.com/products/ct0644s-002",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: by Parra Forest Technical Pant - Blue\nhttps://kith.com/products/pa55442",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Acne Studios Logo Cap - Cornflower Blue\nhttps://kith.com/products/acnc40434-cdi",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance 204V - Neo Flame / Black / Black Cement\nhttps://kith.com/products/nbu204vmcv",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: SAUCONY PROGRID GUIDE 7 - SIENNA\nhttps://undefeated.com/products/saucony-progrid-guide-7-sienna",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: SAUCONY PROGRID RIDE 1 - WHITE/ BUTTERCUP\nhttps://undefeated.com/products/saucony-progrid-ride-1-white-buttercup",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: On Cloudsoma Hike 1\nhttps://www.asphaltgold.de/products/on-cloudsoma-hike-1-black-black",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: On Cloudsoma Hike 1\nhttps://www.asphaltgold.de/products/on-cloudsoma-hike-1-ox-eclipse",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: On Cloudsoma Hike 1 W\nhttps://www.asphaltgold.de/products/on-cloudsoma-hike-1-w-glacier-pearl",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: On Cloudsoma Hike 1 W\nhttps://www.asphaltgold.de/products/on-cloudsoma-hike-1-w-ox-eclipse",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tOversized Track Pants\nhttps://www.asphaltgold.de/products/adidasoversized-track-pants-night-indigo",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Landon Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-landon-pant-blue-marble-used-wash",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Sunsafety Cap\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-sunsafety-cap-black",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Eclipse Tee\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-eclipse-tee-white",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Double Layer Shirt\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-double-layer-shirt-green-white-check",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tAir Force 1 '01\nhttps://www.asphaltgold.de/products/nikeair-force-1-01-white-white",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Levi's Relaxed L/S Denim Worker Shirt - Washington Stripe III\nhttps://sneakerpolitics.com/products/levis-relaxed-l-s-denim-worker-shirt-washington-stripe-iii",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Levi's 568 Loose Strt Dbl Knee Pants - Diving Ducks DX Dbl Knee\nhttps://sneakerpolitics.com/products/levis-568-loose-strt-dbl-knee-pants-diving-ducks-dx-dbl-knee",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Virgil Abloh Archive x USA x Nike Anthem Jacket - White/Deep Royal Blue\nhttps://sneakerpolitics.com/products/virgil-abloh-archive-x-usa-x-nike-anthem-jacket-white-deep-royal-blue",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nigel Sylvester x Jordan Fleece Crewneck - Cinnabar\nhttps://sneakerpolitics.com/products/jordan-bike-fleece-crew-cinnabar",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Adimule 'Cow Print' - Off White/Preloved Brown\nhttps://sneakerpolitics.com/products/adidas-adimule-cow-print-off-white-preloved-brown",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Brooks Adrenaline GTS 10 - Quiet Grey/Black\nhttps://sneakerpolitics.com/products/brooks-adrenaline-gts-10-quiet-grey-black",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's ACG Radical AirFlow NXT Dri-FIT Longsleeve Trail Running Top White\nhttps://www.slamjam.com/products/nike-clothing-m-acg-df-ra-nxt-ls-white-j352555",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Leather Oxford Shoes Black\nhttps://www.slamjam.com/products/dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-black-j363836",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Suede Sneakers Dark Purple\nhttps://www.slamjam.com/products/dries-van-noten-footwear-ms262-1503-ml-shoes-q0132-dpu-purple-j363833",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Suede Sneakers Black / White\nhttps://www.slamjam.com/products/dries-van-noten-footwear-ms262-1503-ml-shoes-q0133-blawhi-black-j363834",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: JAH JAH Studio F50 Tunit Mega Sneakers Green / Core Black / Yellow\nhttps://www.slamjam.com/products/adidas-footwear-f50-tunit-mega-jah-green-j362470",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: BW Army Sneakers Core Black\nhttps://www.slamjam.com/products/adidas-footwear-bw-army-black-j362350",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: BW Army Sneakers Core Black / Gum\nhttps://www.slamjam.com/products/adidas-footwear-bw-army-black-j362382",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: ACG Zegama Hike Sneakers British Khaki / Linen / Light Crimson\nhttps://www.slamjam.com/products/nike-footwear-nike-acg-zegama-hike-multicolor-j367792",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: ACG Ultrafly Trail Sneakers Light Crimson / Summit White\nhttps://www.slamjam.com/products/nike-footwear-nike-acg-ultrafly-trail-red-j367791",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-4 GTX Sneakers Black\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-4-og-gtx-black-j366207",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Homura OG+ Sneakers Matte Silver / Heat Fire\nhttps://www.slamjam.com/products/puma-footwear-homura-og-grey-j363745",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Homura OG+ Sneakers Heat Fire / Electric Lime\nhttps://www.slamjam.com/products/puma-footwear-homura-og-orange-j363743",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Speedcat Ballet Dress-Up Sneakers Matte Bronze\nhttps://www.slamjam.com/products/puma-footwear-wmns-speedcat-ballet-dress-up-wns-brown-j363768",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cloudsurfer Max Sneakers Black / Eclipse\nhttps://www.slamjam.com/products/on-footwear-cloudsurfer-max-black-j334949",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Bad Bunny Book 2019-2025\nhttps://www.slamjam.com/products/stillz-lifestyle-bad-bunny-by-stillz-book-2019-2025-multicolor-j340019",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Women's SpaceLace Long Tee Black\nhttps://www.slamjam.com/products/satisfy-clothing-wmns-space-lace-long-tee-black-j356039",
-      "detected_at": "2026-07-15T16:53:37.745662+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Freedoms Protocol Tee - Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-freedoms-protocol-tee-black",
+      "detected_at": "2026-07-15T20:39:47.974131+00:00"
     }
   ]
 }
