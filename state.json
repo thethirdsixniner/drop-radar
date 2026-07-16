@@ -1,6 +1,41 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286531027072": {
+        "title": "Wind Vintage Rolex Mosaic Date Reference 1501 Unpolished - Blue / Silver",
+        "handle": "wv-1501-5272",
+        "in_stock": true
+      },
+      "8286530994304": {
+        "title": "Wind Vintage Rolex Silver Dial Datejust Reference 16030 Unpolished - Silver",
+        "handle": "wv-16030-5156",
+        "in_stock": false
+      },
+      "8286530896000": {
+        "title": "Wind Vintage Rolex Datejust Reference 16030 With Silver Dial Unpolished - Silver",
+        "handle": "wv-16030-5132",
+        "in_stock": true
+      },
+      "8286530830464": {
+        "title": "Wind Vintage Rolex Silver Dial Date Reference 15000 Unpolished - Silver",
+        "handle": "wv-15000-5267",
+        "in_stock": true
+      },
+      "8286585618560": {
+        "title": "VANS LX Authentic 44 Field - Black",
+        "handle": "vn000d9nblk1",
+        "in_stock": true
+      },
+      "8286585684096": {
+        "title": "VANS LX Authentic 44 - Woodland Camo Green",
+        "handle": "vn000d9nwvd1",
+        "in_stock": true
+      },
+      "8286585520256": {
+        "title": "PUMA x A$AP Rocky Suede 94 - Black / White",
+        "handle": "pu408735-01",
+        "in_stock": true
+      },
       "8286584504448": {
         "title": "Nike WMNS Shox Z Callistra - Pearl Pink",
         "handle": "nkir5510-600",
@@ -21,29 +56,9 @@
         "handle": "wv-16220-5266",
         "in_stock": true
       },
-      "8286530994304": {
-        "title": "Wind Vintage Rolex Silver Dial Datejust Reference 16030 Unpolished - Silver",
-        "handle": "wv-16030-5156",
-        "in_stock": false
-      },
-      "8286530830464": {
-        "title": "Wind Vintage Rolex Silver Dial Date Reference 15000 Unpolished - Silver",
-        "handle": "wv-15000-5267",
-        "in_stock": true
-      },
-      "8286531027072": {
-        "title": "Wind Vintage Rolex Mosaic Date Reference 1501 Unpolished - Blue / Silver",
-        "handle": "wv-1501-5272",
-        "in_stock": true
-      },
       "8286531059840": {
         "title": "Wind Vintage Rolex Datejust Reference 16200 Non-Luminous Roman Dial Unpolished - Silver",
         "handle": "wv-16200-5184",
-        "in_stock": true
-      },
-      "8286530896000": {
-        "title": "Wind Vintage Rolex Datejust Reference 16030 With Silver Dial Unpolished - Silver",
-        "handle": "wv-16030-5132",
         "in_stock": true
       },
       "8286578081920": {
@@ -1235,24 +1250,14 @@
         "title": "Gottlob Edition No. 8 Bracelet - Silver / Gold",
         "handle": "got8-2edition8-sg",
         "in_stock": true
-      },
-      "8286577492096": {
-        "title": "Coût De La Liberté Cedro Rigid Preshunk Denim Pleated Pocket Shirt - Buena Vista",
-        "handle": "m0077022bue",
-        "in_stock": true
-      },
-      "8286575460480": {
-        "title": "Gottlob Edition No. 2 Necklace - Pink / Dark Red",
-        "handle": "got2-14edition2-pdr",
-        "in_stock": true
-      },
-      "8286577229952": {
-        "title": "Bottega Veneta Snap Oval Sunglasses - Burgundy / Brown",
-        "handle": "bv1447s-003",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702639579397": {
+        "title": "NIKE SB DUNK LOW PRO - GREEN NOISE/ WATERMELON",
+        "handle": "nike-sb-dunk-low-pro-green-noise-watermelon",
+        "in_stock": true
+      },
       "6702628929797": {
         "title": "VANS PREMIUM OLD SKOOL 36 - FIELD BLACK",
         "handle": "vans-premium-old-skool-36-field-black",
@@ -1511,7 +1516,7 @@
       "6701187760389": {
         "title": "SAUCONY PROGRID OMNI 9 - PINK/ PURPLE",
         "handle": "saucony-progrid-omni-9-pink-purple",
-        "in_stock": true
+        "in_stock": false
       },
       "6677432467717": {
         "title": "NEW BALANCE 2002R - STEEL",
@@ -2497,14 +2502,39 @@
         "title": "NIKE WMNS X SLAWN NG PREMATCH JERSEY - BLACK/ WHITE",
         "handle": "nike-wmns-x-slawn-ng-prematch-jersey-black-white",
         "in_stock": true
-      },
-      "6702599766277": {
-        "title": "NIKE X SLAWN NG ACD PREMATCH JERSEY - BLACK/ WHITE",
-        "handle": "nike-x-slawn-ng-acd-prematch-jersey-black-white",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11001794461963": {
+        "title": "Nike\tJordan *Golf* Dri-Fit T-Shirt",
+        "handle": "nikejordan-golf-drifit-tshirt-white-black",
+        "in_stock": true
+      },
+      "11001872449803": {
+        "title": "Nike\tClub Rules Full-Zip Jacket",
+        "handle": "nikeclub-rules-fullzip-jacketjacket-white-black-black",
+        "in_stock": true
+      },
+      "11003778269451": {
+        "title": "New Balance 1954R",
+        "handle": "new-balance-u1954-sea-salt",
+        "in_stock": true
+      },
+      "11001512886539": {
+        "title": "Nike\tEveryday Plus Tabi Socks",
+        "handle": "nikeeveryday-plus-tabi-socks-black-white",
+        "in_stock": true
+      },
+      "11003093680395": {
+        "title": "Nike\tMiler Breathe Dri-Fit Long-Sleeved Running Shirt",
+        "handle": "nikemiler-breathe-drifit-longsleeved-running-shirt-smoke-grey-reflective-silver",
+        "in_stock": true
+      },
+      "11002899071243": {
+        "title": "Adidas 3-Stripes Oversized Crewneck",
+        "handle": "adidas-3stripes-oversized-crewneck-black-white",
+        "in_stock": true
+      },
       "10997645443339": {
         "title": "Saucony Pro Grid Ride 1",
         "handle": "saucony-pro-grid-ride-1-black-gunmetal",
@@ -2513,11 +2543,6 @@
       "10992813277451": {
         "title": "Nike Air Jordan 4 Retro *Comic*",
         "handle": "nike-air-jordan-4-retro-comic-off-white-anthracite-light-arctic-pink",
-        "in_stock": false
-      },
-      "10988814270731": {
-        "title": "Nike Air Jordan 13 Retro *Navy and Flint Green*",
-        "handle": "nike-air-jordan-13-retro-navy-and-flint-green-navy-university-blue-flint-grey-white",
         "in_stock": false
       },
       "10833349935371": {
@@ -3048,7 +3073,7 @@
       "8860522971403": {
         "title": "032c ''Nighthawks'' Bomber Jacket",
         "handle": "032c-nighthawks-bomber-jacket-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9780553679115": {
         "title": "Asphaltgold Leather Coin Purse",
@@ -3253,7 +3278,7 @@
       "10727133479179": {
         "title": "Nike\tSolo Swoosh Hoodie",
         "handle": "nikesolo-swoosh-hoodie-medium-olive-medium-olive-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10717465772299": {
         "title": "Nike Wmns Air Force 1 '07 Low",
@@ -3458,7 +3483,7 @@
       "10667719033099": {
         "title": "HAY Weekend Bag Medium",
         "handle": "hay-weekend-bag-organic-medium-dark-green-multi",
-        "in_stock": true
+        "in_stock": false
       },
       "8740823335179": {
         "title": "Reebok x Whim Classic Leather",
@@ -3729,34 +3754,49 @@
         "title": "Adidas SL 72 OG W",
         "handle": "adidas-sl-72-og-w-half-blue-off-white-gum-1",
         "in_stock": true
-      },
-      "10746684047627": {
-        "title": "Adidas Montreal RM",
-        "handle": "adidas-montreal-rm-grey-two-core-black-gum-5",
-        "in_stock": true
-      },
-      "10744388124939": {
-        "title": "Adidas Samba OG W",
-        "handle": "adidas-samba-og-w-core-black-grey-six-gum-3",
-        "in_stock": true
-      },
-      "10851924017419": {
-        "title": "Tekla Hand Towel",
-        "handle": "tekla-hand-towel-rust-stripes",
-        "in_stock": true
-      },
-      "10736926753035": {
-        "title": "Adidas Stan Smith Lo Pro W",
-        "handle": "adidas-stan-smith-lo-pro-w-footwear-white-footwear-white-footwear-white",
-        "in_stock": true
-      },
-      "10744385667339": {
-        "title": "Adidas Gazelle Indoor W",
-        "handle": "adidas-gazelle-indoor-w-wonder-mauve-red-gum-4",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9217036484796": {
+        "title": "A Bathing Ape 1st Camo Big Ape Head L/S Tee - White/Green",
+        "handle": "a-bathing-ape-1st-camo-big-ape-head-l-s-tee-white-green",
+        "in_stock": true
+      },
+      "9307088978108": {
+        "title": "Stussy Baggy Beach Short - Sand Camo",
+        "handle": "stussy-baggy-beach-short-sand-camo",
+        "in_stock": true
+      },
+      "9402906214588": {
+        "title": "A$AP Rocky x Puma Suede '94 - Black/White",
+        "handle": "a-ap-rocky-x-puma-suede-94-black-white",
+        "in_stock": true
+      },
+      "9372703391932": {
+        "title": "Nike Air Max Joga Bonito R9 - Metallic Silver/Varsity Maze",
+        "handle": "nike-air-max-joga-bonito-r9-metallic-silver-varsity-maze",
+        "in_stock": true
+      },
+      "9363892404412": {
+        "title": "Vans LX Authentic 44 'Combat' - Black",
+        "handle": "vans-lx-authentic-44-combat-black",
+        "in_stock": true
+      },
+      "9363894960316": {
+        "title": "Vans LX Authentic 44 'Combat' - Woodland Camo",
+        "handle": "vans-lx-authentic-44-combat-woodland-camo",
+        "in_stock": true
+      },
+      "9363896074428": {
+        "title": "Vans LX Old Skool 36 'Combat' - Woodland Camo",
+        "handle": "vans-lx-old-skool-36-combat-woodland-camo",
+        "in_stock": true
+      },
+      "9363895582908": {
+        "title": "Vans LX Old Skool 36 'Combat' - Black",
+        "handle": "vans-lx-old-skool-36-combat-black",
+        "in_stock": true
+      },
       "8992357351612": {
         "title": "Nike Cortez Premium - Black/Sail",
         "handle": "nike-cortez-premium-black-sail",
@@ -3800,7 +3840,7 @@
       "8443686191292": {
         "title": "Nike Air More Uptempo 96 'Olympic' - White/Midnight Navy",
         "handle": "nike-air-more-uptempo-96-olympic-white-midnight-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "9113798967484": {
         "title": "Jordan x Levi's Type III Trucker Jacket - Black",
@@ -3980,11 +4020,6 @@
       "9325719453884": {
         "title": "Stussy Cargo Short Ripstop - Woodland Camo",
         "handle": "stussy-cargo-short-ripstop-woodland-camo",
-        "in_stock": false
-      },
-      "8912906944700": {
-        "title": "Stussy Nylon Track Pant - Navy",
-        "handle": "stussy-nylon-track-pant-navy",
         "in_stock": false
       },
       "9160476623036": {
@@ -4827,11 +4862,6 @@
         "handle": "godspeed-new-york-front-runners-tee-black",
         "in_stock": true
       },
-      "9363168395452": {
-        "title": "Patta x Netherlands x Nike Academy Pro Soccer Top - Black/Orange",
-        "handle": "patta-x-netherlands-x-nike-academy-pro-soccer-top-black-orange",
-        "in_stock": false
-      },
       "9356928450748": {
         "title": "Women's Adidas Tokyo Mary Jane - Core Black/Cream White",
         "handle": "womens-adidas-tokyo-mary-jane-core-black-cream-white",
@@ -4975,36 +5005,6 @@
       "8644125294780": {
         "title": "Salehe Bembury x Crocs Juniper - Sudd",
         "handle": "salehe-bembury-x-crocs-juniper-sudd",
-        "in_stock": true
-      },
-      "8767691489468": {
-        "title": "Fear Of God Essentials Classic Fit Fleece Hoodie - Homestead Heather",
-        "handle": "fear-of-god-essentials-classic-fit-fleece-hoodie-homestead-heather",
-        "in_stock": true
-      },
-      "8753075912892": {
-        "title": "Ice Cream Diamond Knit Tee - Stretch Limo",
-        "handle": "ice-cream-diamond-knit-tee-stretch-limo",
-        "in_stock": true
-      },
-      "8383575261372": {
-        "title": "A Bathing Ape 1st Camo Bomber Jacket - Black",
-        "handle": "a-bathing-ape-1st-camo-bomber-jacket-black",
-        "in_stock": true
-      },
-      "8712410529980": {
-        "title": "Fucking Awesome Drunk Alien L/S Tee - Black",
-        "handle": "fucking-awesome-drunk-alien-l-s-tee-black",
-        "in_stock": true
-      },
-      "8605463445692": {
-        "title": "Malbon Golf Raglan Sleeve Mesh Polo - Black",
-        "handle": "malbon-golf-raglan-sleeve-mesh-polo-black",
-        "in_stock": true
-      },
-      "8468629225660": {
-        "title": "A Bathing Ape Bape Sta #3 - Black/White",
-        "handle": "a-bathing-ape-bape-sta-3-black-white",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,61 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9104757522637": {
+        "title": "Men's Ash Canvas Shorts Washed Black",
+        "handle": "roa-clothing-ash-canvas-shorts-black-j325418",
+        "in_stock": true
+      },
+      "9122872819917": {
+        "title": "Men's Sport Knit Golf Polo Obsidian",
+        "handle": "nike-jordan-clothing-m-j-sp-golf-knit-polo-blue-j364301",
+        "in_stock": true
+      },
+      "9122872787149": {
+        "title": "Women's Jordan Flight Fleece Corset Black / University Red",
+        "handle": "nike-jordan-clothing-wmns-w-j-flt-flc-corset-wngs-black-j364277",
+        "in_stock": true
+      },
+      "9122872754381": {
+        "title": "Women's Jordan Flight Mini Skort Black",
+        "handle": "nike-jordan-clothing-wmns-w-j-flt-mini-skort-black-j364279",
+        "in_stock": true
+      },
+      "9122872230093": {
+        "title": "Scuderia Ferrari HP Replica Drivers Authentic Bomber Jacket Red",
+        "handle": "puma-clothing-sf-replica-drivers-authentic-racing-jacket-red-j363805",
+        "in_stock": true
+      },
+      "9122872164557": {
+        "title": "Scuderia Ferrari HP Replica Drivers Authentic Hoodie Red",
+        "handle": "puma-clothing-sf-replica-drivers-authentic-hoodie-red-j363804",
+        "in_stock": true
+      },
+      "9122872099021": {
+        "title": "Scuderia Ferrari HP Replica T-Shirt Red",
+        "handle": "puma-clothing-sf-replica-tee-red-j363809",
+        "in_stock": true
+      },
+      "9122871967949": {
+        "title": "Men's Beckenbauer Premium Track Tops Night Indigo",
+        "handle": "adidas-clothing-beckenbauer-tt-blue-j362393",
+        "in_stock": true
+      },
+      "9122871902413": {
+        "title": "Women's Satin SST Bomber Jacket Team Victory Red / Night Indigo / Warm Vanilla",
+        "handle": "adidas-clothing-wmns-sst-jacket-red-j362531",
+        "in_stock": true
+      },
+      "9122871935181": {
+        "title": "Men's Beckenbauer Premium Track Pants Night Indigo",
+        "handle": "adidas-clothing-beckenbauer-tp-blue-j362394",
+        "in_stock": true
+      },
+      "9122871869645": {
+        "title": "Women's Firebird Crop Track Pants Night Indigo / Warm Vanilla",
+        "handle": "adidas-clothing-wmns-firebird-tp-blue-j362523",
+        "in_stock": true
+      },
       "9122637938893": {
         "title": "Men's Club Rules Trench Coat Mink Brown",
         "handle": "nike-clothing-m-nk-club-rules-trench-coat-brown-j364308",
@@ -7522,7 +7577,7 @@
       "9118678286541": {
         "title": "Canada x NOCTA Woven Track Jacket Black / Gym Red / Sonic Yellow",
         "handle": "nike-clothing-cax-m-nrg-nocta-trk-jkt-wvn-black-j364601",
-        "in_stock": true
+        "in_stock": false
       },
       "9031569113293": {
         "title": "Men's NOCTA Cardinal Nylon Shorts Black",
@@ -7712,7 +7767,7 @@
       "9122654716109": {
         "title": "Tyler, The Creator GOLF le FLEUR* 1908 Pro Leather Sneakers White",
         "handle": "converse-footwear-pro-leather-ox-white-j353895",
-        "in_stock": true
+        "in_stock": false
       },
       "9122654683341": {
         "title": "Tyler, The Creator GOLF le FLEUR* 1908 Pro Leather Sneakers Amazon",
@@ -8708,148 +8763,125 @@
         "title": "Men's Organic Cotton Fleece Crewneck Sweatshirt Black",
         "handle": "stone-island-clothing-sweatshirt-black-j362183",
         "in_stock": true
-      },
-      "9121324925133": {
-        "title": "Men's Uneven Pigment Dyed Vanisé Cotton Jersey Crewneck Sweatshirt Black",
-        "handle": "stone-island-clothing-sweatshirt-black-j362179",
-        "in_stock": true
-      },
-      "9121324859597": {
-        "title": "Men's Organic Cotton Ripstop Cargo Pants Black",
-        "handle": "stone-island-clothing-trousers-black-j362150",
-        "in_stock": true
-      },
-      "9121324794061": {
-        "title": "Men's Performance Volt Shorts Espresso",
-        "handle": "on-clothing-performance-volt-shorts-brown-j363098",
-        "in_stock": true
-      },
-      "9121322664141": {
-        "title": "Netherlands x Patta Everyday Essential Crew Socks White / Hyper Crimson",
-        "handle": "nike-clothing-u-nk-ed-ess-crw-2pr-144-knvx-white-j364613",
-        "in_stock": true
-      },
-      "9121322729677": {
-        "title": "Nigeria x Slawn Football Anthem Jacket Black / White",
-        "handle": "nike-clothing-nfx-m-nk-df-kmd-x2-ant-jkt-white-j364584",
-        "in_stock": true
-      },
-      "9121321844941": {
-        "title": "UNDERCOVER SK8-Hi Sneakers Egret",
-        "handle": "vans-footwear-otw-sk8-hi-white-j361922",
-        "in_stock": true
-      },
-      "9121321877709": {
-        "title": "UNDERCOVER SK8-Hi Sneakers Black",
-        "handle": "vans-footwear-otw-sk8-hi-black-j361923",
-        "in_stock": true
-      },
-      "9121321779405": {
-        "title": "UNDERCOVER Slip-On 98 Sneakers Black",
-        "handle": "vans-footwear-otw-classic-slip-on-98-black-j361924",
-        "in_stock": true
-      },
-      "9121319485645": {
-        "title": "Men's Two Tuck Pants Grey",
-        "handle": "neighborhood-clothing-two-tuck-pants-grey-j353350",
-        "in_stock": true
-      },
-      "9121319387341": {
-        "title": "Mesh Tote Bag Black",
-        "handle": "neighborhood-accessories-mesh-tote-bag-black-j353286",
-        "in_stock": true
-      },
-      "9121319518413": {
-        "title": "Men's SS-15 T-Shirt White",
-        "handle": "neighborhood-clothing-nh-tee-ss-15-white-j353316",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM OLD SKOOL 36 - FIELD BLACK\nhttps://undefeated.com/products/vans-premium-old-skool-36-field-black",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Kith: VANS LX Authentic 44 Field - Black\nhttps://kith.com/products/vn000d9nblk1",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM AUTHENTIC 44 - WOODLAND CAMO\nhttps://undefeated.com/products/vans-premium-authentic-44-woodland-camo",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Kith: VANS LX Authentic 44 - Woodland Camo Green\nhttps://kith.com/products/vn000d9nwvd1",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Ride 1\nhttps://www.asphaltgold.de/products/saucony-pro-grid-ride-1-black-gunmetal",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Kith: PUMA x A$AP Rocky Suede 94 - Black / White\nhttps://kith.com/products/pu408735-01",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Converse\tx Golf le Fleur 1908 Pro Leather OX\nhttps://www.asphaltgold.de/products/conversex-golf-le-fleur-1908-pro-leather-ox-white-amazon-ivory-white-amazon-natural-ivory",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE SB DUNK LOW PRO - GREEN NOISE/ WATERMELON\nhttps://undefeated.com/products/nike-sb-dunk-low-pro-green-noise-watermelon",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Converse\tx Golf le Fleur 1908 Pro Leather OX\nhttps://www.asphaltgold.de/products/conversex-golf-le-fleur-1908-pro-leather-ox-amazon-banana-crepe-lavender",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tJordan *Golf* Dri-Fit T-Shirt\nhttps://www.asphaltgold.de/products/nikejordan-golf-drifit-tshirt-white-black",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Converse x Golf le Fleur 1908 Jogger OX\nhttps://www.asphaltgold.de/products/converse-x-golf-le-fleur-1908-jogger-ox-black-bison-pristine",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules Full-Zip Jacket\nhttps://www.asphaltgold.de/products/nikeclub-rules-fullzip-jacketjacket-white-black-black",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Converse x Golf le Fleur 1908 Jogger OX\nhttps://www.asphaltgold.de/products/converse-x-golf-le-fleur-1908-jogger-ox-white-white-vanilla-white-white-vanilla-custard",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 1954R\nhttps://www.asphaltgold.de/products/new-balance-u1954-sea-salt",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Club Rules Trench Coat Mink Brown\nhttps://www.slamjam.com/products/nike-clothing-m-nk-club-rules-trench-coat-brown-j364308",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tEveryday Plus Tabi Socks\nhttps://www.asphaltgold.de/products/nikeeveryday-plus-tabi-socks-black-white",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Canada x NOCTA Woven Track Jacket Black / Gym Red / Sonic Yellow\nhttps://www.slamjam.com/products/nike-clothing-cax-m-nrg-nocta-trk-jkt-wvn-black-j364601",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tMiler Breathe Dri-Fit Long-Sleeved Running Shirt\nhttps://www.asphaltgold.de/products/nikemiler-breathe-drifit-longsleeved-running-shirt-smoke-grey-reflective-silver",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's NOCTA Cardinal Nylon Shorts Black\nhttps://www.slamjam.com/products/nike-clothing-m-nrg-nocta-cs-short-wvn-black-j323053",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas 3-Stripes Oversized Crewneck\nhttps://www.asphaltgold.de/products/adidas-3stripes-oversized-crewneck-black-white",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Clapton Tote Bag Camo Feather Tree / Black\nhttps://www.slamjam.com/products/carhartt-wip-accessories-clapton-tote-bag-multicolor-j359182",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: A Bathing Ape 1st Camo Big Ape Head L/S Tee - White/Green\nhttps://sneakerpolitics.com/products/a-bathing-ape-1st-camo-big-ape-head-l-s-tee-white-green",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Kickflip Backpack Camo Feather Tree / Black\nhttps://www.slamjam.com/products/carhartt-wip-accessories-kickflip-backpack-multicolor-j359118",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Stussy Baggy Beach Short - Sand Camo\nhttps://sneakerpolitics.com/products/stussy-baggy-beach-short-sand-camo",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Slam Jam \"Image and Motion Capture\" T-Shirt Black\nhttps://www.slamjam.com/products/stillz-clothing-stillz-x-slam-jam-t-shirt-black-j367834",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: A$AP Rocky x Puma Suede '94 - Black/White\nhttps://sneakerpolitics.com/products/a-ap-rocky-x-puma-suede-94-black-white",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Ordinary Jacquard Knit Sweater Black\nhttps://www.slamjam.com/products/stillz-clothing-ordinary-jacquard-knit-sweater-black-j367543",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Joga Bonito R9 - Metallic Silver/Varsity Maze\nhttps://sneakerpolitics.com/products/nike-air-max-joga-bonito-r9-metallic-silver-varsity-maze",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Josewong Mask Pink\nhttps://www.slamjam.com/products/stillz-accessories-josewong-collab-mask-pink-pink-j367540",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Authentic 44 'Combat' - Black\nhttps://sneakerpolitics.com/products/vans-lx-authentic-44-combat-black",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Love Socks Pink\nhttps://www.slamjam.com/products/stillz-clothing-love-socks-pink-pink-j367538",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Authentic 44 'Combat' - Woodland Camo\nhttps://sneakerpolitics.com/products/vans-lx-authentic-44-combat-woodland-camo",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Love Socks Black\nhttps://www.slamjam.com/products/stillz-clothing-love-socks-black-black-j367537",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Old Skool 36 'Combat' - Woodland Camo\nhttps://sneakerpolitics.com/products/vans-lx-old-skool-36-combat-woodland-camo",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Josewong Mask Black\nhttps://www.slamjam.com/products/stillz-accessories-josewong-collab-mask-black-black-j367539",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Old Skool 36 'Combat' - Black\nhttps://sneakerpolitics.com/products/vans-lx-old-skool-36-combat-black",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Danger Zone Embroidered Cap Green\nhttps://www.slamjam.com/products/stillz-accessories-stillz-danger-zone-embroidered-cap-green-j367536",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Ash Canvas Shorts Washed Black\nhttps://www.slamjam.com/products/roa-clothing-ash-canvas-shorts-black-j325418",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Cut-Out Embroidered Cap Black\nhttps://www.slamjam.com/products/stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Sport Knit Golf Polo Obsidian\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-sp-golf-knit-polo-blue-j364301",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White\nhttps://www.slamjam.com/products/nike-clothing-m-acg-df-radical-airflow-tank-white-j364333",
-      "detected_at": "2026-07-16T13:06:23.771030+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Jordan Flight Fleece Corset Black / University Red\nhttps://www.slamjam.com/products/nike-jordan-clothing-wmns-w-j-flt-flc-corset-wngs-black-j364277",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Jordan Flight Mini Skort Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-wmns-w-j-flt-mini-skort-black-j364279",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Scuderia Ferrari HP Replica Drivers Authentic Bomber Jacket Red\nhttps://www.slamjam.com/products/puma-clothing-sf-replica-drivers-authentic-racing-jacket-red-j363805",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Scuderia Ferrari HP Replica Drivers Authentic Hoodie Red\nhttps://www.slamjam.com/products/puma-clothing-sf-replica-drivers-authentic-hoodie-red-j363804",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Scuderia Ferrari HP Replica T-Shirt Red\nhttps://www.slamjam.com/products/puma-clothing-sf-replica-tee-red-j363809",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Beckenbauer Premium Track Tops Night Indigo\nhttps://www.slamjam.com/products/adidas-clothing-beckenbauer-tt-blue-j362393",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Satin SST Bomber Jacket Team Victory Red / Night Indigo / Warm Vanilla\nhttps://www.slamjam.com/products/adidas-clothing-wmns-sst-jacket-red-j362531",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Beckenbauer Premium Track Pants Night Indigo\nhttps://www.slamjam.com/products/adidas-clothing-beckenbauer-tp-blue-j362394",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Firebird Crop Track Pants Night Indigo / Warm Vanilla\nhttps://www.slamjam.com/products/adidas-clothing-wmns-firebird-tp-blue-j362523",
+      "detected_at": "2026-07-16T17:48:17.446923+00:00"
     }
   ]
 }
