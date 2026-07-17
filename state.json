@@ -2505,6 +2505,36 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11002587349259": {
+        "title": "Polo Ralph Lauren Polo Sport Cotton Chino Baseball Cap",
+        "handle": "polo-ralph-lauren-polo-sport-cotton-chino-baseball-cap-pale-russet",
+        "in_stock": true
+      },
+      "11002586136843": {
+        "title": "Polo Ralph Lauren Cotton Chino Baseball Cap",
+        "handle": "polo-ralph-lauren-cotton-chino-baseball-cap-moss-agate",
+        "in_stock": true
+      },
+      "11001871794443": {
+        "title": "Nike\tClub Rules T-Shirt",
+        "handle": "nikeclub-rules-tshirt-summit-white",
+        "in_stock": true
+      },
+      "11001868550411": {
+        "title": "Nike\tClub Rules Track Pants",
+        "handle": "nikeclub-rules-track-pants-white-black-sail",
+        "in_stock": true
+      },
+      "11003093909771": {
+        "title": "Nike\tClub Rules Track Pants",
+        "handle": "nikeclub-rules-track-pants-college-grey-black-black",
+        "in_stock": true
+      },
+      "11001851609355": {
+        "title": "Nike\tACG 6\" Brief-Lined Trail Running Shorts",
+        "handle": "nikeacg-6-brieflined-trail-running-shorts-sequoia-light-army-summit-white",
+        "in_stock": true
+      },
       "10747474575627": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-chalk-white-core-black-gum-3",
@@ -2678,7 +2708,7 @@
       "10218823024907": {
         "title": "Birkenstock Boston",
         "handle": "birkenstock-boston-dark-tea-tonal",
-        "in_stock": true
+        "in_stock": false
       },
       "9017059705099": {
         "title": "Veja Paulistana",
@@ -2788,7 +2818,7 @@
       "10747465269515": {
         "title": "Adidas ZX 600",
         "handle": "adidas-zx-600-core-black-grey-four-grey-six",
-        "in_stock": true
+        "in_stock": false
       },
       "10746805092619": {
         "title": "Adidas Samba OG",
@@ -2828,7 +2858,7 @@
       "10817465221387": {
         "title": "Sunflower Loose Jeans",
         "handle": "sunflower-loose-jeans",
-        "in_stock": true
+        "in_stock": false
       },
       "10657520288011": {
         "title": "Asics GEL-Cumulus 16",
@@ -3168,7 +3198,7 @@
       "10748090450187": {
         "title": "Arte Antwerp Ripped Arte Side Beanie",
         "handle": "arte-antwerp-ripped-arte-side-beanie-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10611762823435": {
         "title": "New Balance 1000",
@@ -3228,7 +3258,7 @@
       "9779272810763": {
         "title": "New Balance 574",
         "handle": "new-balance-u574rus-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10539331649803": {
         "title": "Autry Reelwind Low *Suede / Net*",
@@ -3438,12 +3468,12 @@
       "10731476877579": {
         "title": "Vans Old Skool LX *Shag Suede*",
         "handle": "vans-old-skool-lx-shag-suede-bay-leaf",
-        "in_stock": true
+        "in_stock": false
       },
       "10852749279499": {
         "title": "Adidas\tBaggy Track Pants",
         "handle": "adidasbaggy-track-pants-black-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10750838767883": {
         "title": "Carhartt WIP Vista Sweat",
@@ -3518,7 +3548,7 @@
       "10169616531723": {
         "title": "Asphaltgold Vision T-Shirt",
         "handle": "asphaltgold-vision-tshirt-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10124121243915": {
         "title": "Parel Studios Naru Shorts",
@@ -3723,36 +3753,6 @@
       "10997659042059": {
         "title": "New Era MLB New York Yankees Patchwork 9FIFTY Cap",
         "handle": "new-era-mlb-new-york-yankees-patchwork-9fifty-cap-brown",
-        "in_stock": true
-      },
-      "10993493278987": {
-        "title": "Adidas\tQuality T-Shirts",
-        "handle": "adidasquality-tshirts-black",
-        "in_stock": true
-      },
-      "10997621489931": {
-        "title": "Carhartt WIP Madison Logo Cap",
-        "handle": "carhartt-wip-madison-logo-cap-tobacco-white",
-        "in_stock": true
-      },
-      "10998252339467": {
-        "title": "Adidas\tCushioned Crew Socks 3-Pack",
-        "handle": "adidascushioned-crew-socks-3pack-maroon-ivory-magic-mauve-white",
-        "in_stock": true
-      },
-      "10998249783563": {
-        "title": "Adidas\t3-Stripes Cushioned Crew Socks 3 Pair Pack",
-        "handle": "adidas3stripes-cushioned-crew-socks-3-pair-pack-magic-mauve-white-halo-green-grey-four",
-        "in_stock": true
-      },
-      "10992049488139": {
-        "title": "Lacoste Wool Jacquard Crocodile Beanie",
-        "handle": "lacoste-wool-jacquard-crocodile-beanie-navy-blue-white",
-        "in_stock": true
-      },
-      "10997622046987": {
-        "title": "Lacoste Cable Knit Cotton Sweater",
-        "handle": "lacoste-cable-knit-cotton-sweater-navy-blue-green",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,136 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9123000746189": {
+        "title": "SOULGOODS Homescape Woven Sneakers Dark Field Brown / Medium Orewood Brown",
+        "handle": "nike-footwear-nike-homescape-woven-x-soulgoods-brown-j367939",
+        "in_stock": false
+      },
+      "9123000680653": {
+        "title": "Men's Graphic T-Shirt White",
+        "handle": "undercover-clothing-tee-white-j367765",
+        "in_stock": true
+      },
+      "9123000713421": {
+        "title": "Men's Graphic T-Shirt Black",
+        "handle": "undercover-clothing-tee-black-j367763",
+        "in_stock": true
+      },
+      "9123000647885": {
+        "title": "Men's Graphic T-Shirt White",
+        "handle": "undercover-clothing-tee-white-j367764",
+        "in_stock": true
+      },
+      "9123000582349": {
+        "title": "Men's Jacquard Wool Cardigan Black Stripe",
+        "handle": "undercover-clothing-knit-multicolor-j367757",
+        "in_stock": true
+      },
+      "9123000549581": {
+        "title": "Men's Wool Twill Pants Black",
+        "handle": "undercover-clothing-pants-black-j367751",
+        "in_stock": true
+      },
+      "9123000516813": {
+        "title": "Men's Field Shirt Khaki Green",
+        "handle": "undercover-clothing-shirt-blouse-green-j367750",
+        "in_stock": true
+      },
+      "9123000615117": {
+        "title": "Men's Pinstripe Mod Coat Navy",
+        "handle": "undercover-clothing-coat-blue-j367749",
+        "in_stock": true
+      },
+      "9123000484045": {
+        "title": "Men's Side Zipper Cotton Chino Pants Khaki",
+        "handle": "undercover-clothing-pants-green-j367752",
+        "in_stock": true
+      },
+      "9123000352973": {
+        "title": "Keyboard PVC Pouch Black",
+        "handle": "undercover-accessories-acc-black-j367762",
+        "in_stock": true
+      },
+      "9123000287437": {
+        "title": "Rose PVC Pouch Black",
+        "handle": "undercover-accessories-acc-black-j367761",
+        "in_stock": true
+      },
+      "9123000320205": {
+        "title": "Paintbrush PVC Pouch Black",
+        "handle": "undercover-accessories-acc-black-j367760",
+        "in_stock": true
+      },
+      "9123000156365": {
+        "title": "Signature PVC Pouch Black",
+        "handle": "undercover-accessories-signature-card-holder-multicolor-j347374",
+        "in_stock": true
+      },
+      "9122998911181": {
+        "title": "Slam Jam Wool Roundneck Military Sweater Red",
+        "handle": "mackintosh-x-slam-jam-wool-roundneck-military-sweater-w000kni0007",
+        "in_stock": false
+      },
+      "9122998878413": {
+        "title": "Longsleeve Button Up Bandana Shirt Blue",
+        "handle": "unrivaled-long-sleeve-button-up-bandana-shirt-w000shi0115",
+        "in_stock": false
+      },
+      "9122998845645": {
+        "title": "Paint Splatter Coated Denim Pants White / Black",
+        "handle": "people-paint-splatter-coated-denim-pants-w000pan0152",
+        "in_stock": false
+      },
+      "9122998812877": {
+        "title": "Hairy Calf Skin Pants Burgundy Red",
+        "handle": "1017-alyx-9sm-hairy-calf-skin-pants-w000pan0182",
+        "in_stock": false
+      },
+      "9122998747341": {
+        "title": "Portable Record Player Gp-3r Red",
+        "handle": "columbia-denon-portable-record-player-gp-3r-w300tec0005",
+        "in_stock": false
+      },
+      "9122998714573": {
+        "title": "Pillow Black",
+        "handle": "hysteric-glamour-pillow-w300hom0056",
+        "in_stock": false
+      },
+      "9122998681805": {
+        "title": "Urban Stockman Denim Jacket Blue",
+        "handle": "neighborhood-urban-stockman-denim-jacket-w000out0408",
+        "in_stock": false
+      },
+      "9122998649037": {
+        "title": "Highland Jacket Camo",
+        "handle": "stussy-highland-jacket-camo-w000out0216",
+        "in_stock": false
+      },
+      "9122998616269": {
+        "title": "Scorpios Short Sleeve T-Shirt Black",
+        "handle": "undercover-scorpios-short-sleeve-t-shirt-w000tee0532",
+        "in_stock": false
+      },
+      "9122998583501": {
+        "title": "Double Parka Long Jacket White",
+        "handle": "sacai-double-parka-long-jacket-w000out0484",
+        "in_stock": false
+      },
+      "9122651832525": {
+        "title": "Tylor Belt Black / Silver",
+        "handle": "carhartt-wip-accessories-tylor-belt-multicolor-j359147",
+        "in_stock": true
+      },
+      "9122998190285": {
+        "title": "Women's Weka Shirt Wood Brown Stripe",
+        "handle": "kiko-kostadinov-clothing-wmns-weka-shirt-brown-j359631",
+        "in_stock": true
+      },
+      "9122998124749": {
+        "title": "Women's Linnet Wrap Culottes Crow Black",
+        "handle": "kiko-kostadinov-clothing-wmns-linnet-wrap-culottes-black-j359625",
+        "in_stock": true
+      },
       "9104757522637": {
         "title": "Men's Ash Canvas Shorts Washed Black",
         "handle": "roa-clothing-ash-canvas-shorts-black-j325418",
@@ -7652,12 +7782,12 @@
       "9122712551629": {
         "title": "Setsumasa Kobayashi Wave Prophecy Ring Moc Sneakers Black",
         "handle": "mizuno-footwear-shoe-sl-wave-prophecy-ring-mo-multicolor-j367549",
-        "in_stock": false
+        "in_stock": true
       },
       "9122712518861": {
         "title": "Setsumasa Kobayashi Wave Prophecy Ring Moc Sneakers Chicory Coffee",
         "handle": "mizuno-footwear-shoe-sl-wave-prophecy-ring-mo-multicolor-j367548",
-        "in_stock": false
+        "in_stock": true
       },
       "9122712584397": {
         "title": "Suede Sneakers Black / White",
@@ -7767,12 +7897,12 @@
       "9122654716109": {
         "title": "Tyler, The Creator GOLF le FLEUR* 1908 Pro Leather Sneakers White",
         "handle": "converse-footwear-pro-leather-ox-white-j353895",
-        "in_stock": false
+        "in_stock": true
       },
       "9122654683341": {
         "title": "Tyler, The Creator GOLF le FLEUR* 1908 Pro Leather Sneakers Amazon",
         "handle": "converse-footwear-pro-leather-ox-green-j353896",
-        "in_stock": false
+        "in_stock": true
       },
       "9117562306765": {
         "title": "Men's D.D. Shell Hooded Medium Down Jacket Black",
@@ -7952,12 +8082,12 @@
       "9122642329805": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White",
         "handle": "nike-clothing-m-acg-df-radical-airflow-tank-white-j364333",
-        "in_stock": false
+        "in_stock": true
       },
       "9122642362573": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top White",
         "handle": "nike-clothing-m-acg-df-rad-airflow-ss-top-white-j364327",
-        "in_stock": false
+        "in_stock": true
       },
       "9122642395341": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top Anthracite",
@@ -8132,7 +8262,7 @@
       "9122515353805": {
         "title": "Air Max Plus VII Sneakers Black / Illusion Green",
         "handle": "nike-footwear-nike-air-max-plus-vii-black-j364258",
-        "in_stock": false
+        "in_stock": true
       },
       "9104757391565": {
         "title": "Men's Helder 5 Inch Shorts Black",
@@ -8202,7 +8332,7 @@
       "9118677401805": {
         "title": "USA x V.A.A. Woven Staff Jacket White / Deep Royal Blue",
         "handle": "nike-clothing-usx-m-staff-wvn-jkt-white-j364589",
-        "in_stock": true
+        "in_stock": false
       },
       "9038524383437": {
         "title": "Men's Cargo Longsleeve T-Shirt Snow White",
@@ -8217,12 +8347,12 @@
       "9122172797133": {
         "title": "Air Jordan 8 Sneakers Black Chrome",
         "handle": "nike-jordan-footwear-air-jordan-8-retro-black-j365623",
-        "in_stock": false
+        "in_stock": true
       },
       "9122170470605": {
         "title": "Air Jordan 5 'Black Carolina' Sneakers Black / University Blue",
         "handle": "nike-jordan-footwear-air-jordan-5-retro-mens-shoes-multicolor-j359797",
-        "in_stock": false
+        "in_stock": true
       },
       "9122170339533": {
         "title": "Men's Evening Polo Soft Sage",
@@ -8633,375 +8763,129 @@
         "title": "Men's Votive Trousers Jet Black",
         "handle": "kiko-kostadinov-clothing-votive-trousers-black-j359810",
         "in_stock": true
-      },
-      "9121630191821": {
-        "title": "Men's Erdiko Trousers Crow Black",
-        "handle": "kiko-kostadinov-clothing-erdiko-trousers-black-j359811",
-        "in_stock": true
-      },
-      "9121630093517": {
-        "title": "Sigo Knit Scarf Black",
-        "handle": "kiko-kostadinov-accessories-sigo-knit-scarf-black-j359800",
-        "in_stock": true
-      },
-      "9121630126285": {
-        "title": "Men's Bruin Trousers Crow Black",
-        "handle": "kiko-kostadinov-clothing-bruin-trousers-black-j359812",
-        "in_stock": true
-      },
-      "9121629962445": {
-        "title": "Laan Loafers Black",
-        "handle": "kiko-kostadinov-footwear-laan-loafers-black-j359799",
-        "in_stock": true
-      },
-      "9081457344717": {
-        "title": "P-6000 Sneakers Metallic Silver / Sail / Black",
-        "handle": "nike-footwear-nike-p-6000-shoes-black-j334879",
-        "in_stock": false
-      },
-      "9108025409741": {
-        "title": "Men's Panel Shoulder Crewneck Sweatshirt Beige",
-        "handle": "cav-empt-clothing-panel-shoulder-crew-neck-beige-j355862",
-        "in_stock": true
-      },
-      "9008299770061": {
-        "title": "Men's Flower T-Shirt Snow White",
-        "handle": "oamc-peacemaker-clothing-peacemaker-flower-s-s-tshirt-white-j305768",
-        "in_stock": true
-      },
-      "9113871876301": {
-        "title": "Plaid Longsleeve T-Shirt Grey",
-        "handle": "racer-worldwide-clothing-plaid-long-sleeve-multicolor-j356286",
-        "in_stock": true
-      },
-      "9104596369613": {
-        "title": "XT-4 OG Sneakers White / Lunar Rock / Night Sky",
-        "handle": "salomon-footwear-xt-4-og-white-j350612",
-        "in_stock": false
-      },
-      "9121350811853": {
-        "title": "Nigeria x Slawn Dri-FIT Academy Pro Football Top Black / White",
-        "handle": "nike-clothing-nfx-mnk-df-acdpr-x2-sspmtop-black-j364579",
-        "in_stock": true
-      },
-      "9121350942925": {
-        "title": "England x Palace Football Anthem Jacket Pewter Grey / Bright Crimson",
-        "handle": "nike-clothing-enx-m-nk-df-kmd-x2-ant-jkt-grey-j364581",
-        "in_stock": false
-      },
-      "8945327210701": {
-        "title": "Men's Padded Bomber Jacket Black",
-        "handle": "umbro-clothing-padded-bomber-jacket-black-j294749",
-        "in_stock": true
-      },
-      "9058352595149": {
-        "title": "Tor Summit Sneakers Cast Iron / Walnut",
-        "handle": "hoka-one-one-footwear-u-tor-summit-multicolor-j332407",
-        "in_stock": true
-      },
-      "9104596107469": {
-        "title": "XA PRO 3D GORE-TEX Sneakers Black / Silver",
-        "handle": "salomon-footwear-xa-pro-3d-gtx-black-j350616",
-        "in_stock": true
-      },
-      "9101672415437": {
-        "title": "XT 15 OG Backpack Black",
-        "handle": "salomon-accessories-xt-15-og-black-j350629",
-        "in_stock": true
-      },
-      "9101672513741": {
-        "title": "ACS 2 Revised Shoulder Bag Black",
-        "handle": "salomon-accessories-acs-2-revised-black-j350627",
-        "in_stock": false
-      },
-      "9121326760141": {
-        "title": "GEL-1130 Sneakers White / Pure Silver",
-        "handle": "asics-footwear-gel-1130-white-j359639",
-        "in_stock": true
-      },
-      "9121325154509": {
-        "title": "Men's Crinkle Reps NY Down Jacket Black",
-        "handle": "stone-island-clothing-bomber-black-j362164",
-        "in_stock": true
-      },
-      "9121325023437": {
-        "title": "Men's Organic Cotton Fleece Full-Zip Sweatshirt Black",
-        "handle": "stone-island-clothing-zip-up-cardigan-black-j362187",
-        "in_stock": true
-      },
-      "9121325121741": {
-        "title": "Men's Organic Cotton Fleece Zip Hoodie Black",
-        "handle": "stone-island-clothing-hoodie-sweater-black-j362188",
-        "in_stock": true
-      },
-      "9121325088973": {
-        "title": "Men's Organic Cotton Fleece Hoodie Coal Grey",
-        "handle": "stone-island-clothing-hoodie-sweater-grey-j362181",
-        "in_stock": true
-      },
-      "9121325056205": {
-        "title": "Men's Organic Cotton Fleece Hoodie Black",
-        "handle": "stone-island-clothing-hoodie-sweater-black-j362180",
-        "in_stock": true
-      },
-      "9121324990669": {
-        "title": "Men's Organic Cotton Fleece Crewneck Sweatshirt Lead Grey",
-        "handle": "stone-island-clothing-sweatshirt-grey-j362176",
-        "in_stock": true
-      },
-      "9121324957901": {
-        "title": "Men's Organic Cotton Fleece Crewneck Sweatshirt Black",
-        "handle": "stone-island-clothing-sweatshirt-black-j362183",
-        "in_stock": true
-      },
-      "9121324925133": {
-        "title": "Men's Uneven Pigment Dyed Vanisé Cotton Jersey Crewneck Sweatshirt Black",
-        "handle": "stone-island-clothing-sweatshirt-black-j362179",
-        "in_stock": true
-      },
-      "9121324859597": {
-        "title": "Men's Organic Cotton Ripstop Cargo Pants Black",
-        "handle": "stone-island-clothing-trousers-black-j362150",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE X VAA USA ANTHEM JACKET - WHITE\nhttps://undefeated.com/products/nike-x-vaa-usa-anthem-jacket-white",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Polo Sport Cotton Chino Baseball Cap\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-polo-sport-cotton-chino-baseball-cap-pale-russet",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE X VAA USA STAFF JACKET - WHITE\nhttps://undefeated.com/products/nike-x-vaa-usa-staff-jacket-white",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Cotton Chino Baseball Cap\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-cotton-chino-baseball-cap-moss-agate",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG\nhttps://www.asphaltgold.de/products/adidas-samba-og-chalk-white-core-black-gum-3",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules T-Shirt\nhttps://www.asphaltgold.de/products/nikeclub-rules-tshirt-summit-white",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Japan\nhttps://www.asphaltgold.de/products/adidas-japan-off-white-core-black-wonder-white",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules Track Pants\nhttps://www.asphaltgold.de/products/nikeclub-rules-track-pants-white-black-sail",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Arc'teryx Sylan Pro\nhttps://www.asphaltgold.de/products/arcteryx-sylan-pro-dark-euphoria-dark-euphoria",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules Track Pants\nhttps://www.asphaltgold.de/products/nikeclub-rules-track-pants-college-grey-black-black",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas F50 Graphic T-Shirt\nhttps://www.asphaltgold.de/products/adidas-f50-graphic-tshirt-black-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tACG 6\" Brief-Lined Trail Running Shorts\nhttps://www.asphaltgold.de/products/nikeacg-6-brieflined-trail-running-shorts-sequoia-light-army-summit-white",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics JOG 100S\nhttps://www.asphaltgold.de/products/asics-jog-100s-pale-oak-pure-silver",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Graphic T-Shirt White\nhttps://www.slamjam.com/products/undercover-clothing-tee-white-j367765",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Pegasus Premium\nhttps://www.asphaltgold.de/products/nike-pegasus-premium-college-grey-dark-grey-dark-smoke-grey",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Graphic T-Shirt Black\nhttps://www.slamjam.com/products/undercover-clothing-tee-black-j367763",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat\tPERTEX Overdyed T Down Jacket\nhttps://www.asphaltgold.de/products/thisisneverthatpertex-overdyed-t-down-jacket-stone",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Graphic T-Shirt White\nhttps://www.slamjam.com/products/undercover-clothing-tee-white-j367764",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma x Represent Graphic Tee\nhttps://www.asphaltgold.de/products/puma-x-represent-graphic-tee-flat-dark-grey",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Jacquard Wool Cardigan Black Stripe\nhttps://www.slamjam.com/products/undercover-clothing-knit-multicolor-j367757",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Work Trousers\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-work-trousers-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Wool Twill Pants Black\nhttps://www.slamjam.com/products/undercover-clothing-pants-black-j367751",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Hermanos Koumori Adi365 Running 2in1 Shorts\nhttps://www.asphaltgold.de/products/adidasx-hermanos-koumori-adi365-running-2in1-shorts-shadow-fig",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Field Shirt Khaki Green\nhttps://www.slamjam.com/products/undercover-clothing-shirt-blouse-green-j367750",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP L/S Torion Pocket T-Shirt\nhttps://www.asphaltgold.de/products/carhartt-wip-ls-torion-pocket-tshirt-office-blue",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Pinstripe Mod Coat Navy\nhttps://www.slamjam.com/products/undercover-clothing-coat-blue-j367749",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: CHITO International Bloody Longsleeve Tee\nhttps://www.asphaltgold.de/products/chito-internationa-bloody-longsleeve-tee-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Side Zipper Cotton Chino Pants Khaki\nhttps://www.slamjam.com/products/undercover-clothing-pants-green-j367752",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Aaron Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-aaron-pant-blue-dark-used-wash",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Keyboard PVC Pouch Black\nhttps://www.slamjam.com/products/undercover-accessories-acc-black-j367762",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Hyperway  *Suede / Mesh*\nhttps://www.asphaltgold.de/products/autry-hyperway-suede-mesh-malach-silver",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Rose PVC Pouch Black\nhttps://www.slamjam.com/products/undercover-accessories-acc-black-j367761",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Consortium T-Shirt\nhttps://www.asphaltgold.de/products/adidas-consortium-tshirt-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Paintbrush PVC Pouch Black\nhttps://www.slamjam.com/products/undercover-accessories-acc-black-j367760",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Farah Japan Baseball Cap\nhttps://www.asphaltgold.de/products/farah-japan-baseball-cap-navy",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Signature PVC Pouch Black\nhttps://www.slamjam.com/products/undercover-accessories-signature-card-holder-multicolor-j347374",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tSolo Swoosh Fleece Crewneck\nhttps://www.asphaltgold.de/products/nike-solo-swoosh-fleece-crewneck-celestine-blue-white",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Tylor Belt Black / Silver\nhttps://www.slamjam.com/products/carhartt-wip-accessories-tylor-belt-multicolor-j359147",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tAir Half Zip Jacket\nhttps://www.asphaltgold.de/products/nikeair-half-zip-jacket-anthracite-black-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Weka Shirt Wood Brown Stripe\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-weka-shirt-brown-j359631",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-pepper",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Linnet Wrap Culottes Crow Black\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-linnet-wrap-culottes-black-j359625",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance M1906AF *Concrete Pack*\nhttps://www.asphaltgold.de/products/new-balance-m1906af-concrete-pack-black-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Setsumasa Kobayashi Wave Prophecy Ring Moc Sneakers Black\nhttps://www.slamjam.com/products/mizuno-footwear-shoe-sl-wave-prophecy-ring-mo-multicolor-j367549",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Saucony Trainer 80\nhttps://www.asphaltgold.de/products/saucony-trainer-80-pink-green",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Setsumasa Kobayashi Wave Prophecy Ring Moc Sneakers Chicory Coffee\nhttps://www.slamjam.com/products/mizuno-footwear-shoe-sl-wave-prophecy-ring-mo-multicolor-j367548",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba LT W\nhttps://www.asphaltgold.de/products/adidas-samba-lt-w-core-black-lucid-blue-gold-metallic",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Tyler, The Creator GOLF le FLEUR* 1908 Pro Leather Sneakers White\nhttps://www.slamjam.com/products/converse-footwear-pro-leather-ox-white-j353895",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 1906R\nhttps://www.asphaltgold.de/products/new-balance-m1906ree-silver-metallic",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Tyler, The Creator GOLF le FLEUR* 1908 Pro Leather Sneakers Amazon\nhttps://www.slamjam.com/products/converse-footwear-pro-leather-ox-green-j353896",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance M1906AG *Concrete Pack*\nhttps://www.asphaltgold.de/products/new-balance-m1906ag-concrete-pack-grey-grey",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White\nhttps://www.slamjam.com/products/nike-clothing-m-acg-df-radical-airflow-tank-white-j364333",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Sky High Farm Universe\tCrewneck Knit\nhttps://www.asphaltgold.de/products/sky-high-farm-universecrewneck-knit-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top White\nhttps://www.slamjam.com/products/nike-clothing-m-acg-df-rad-airflow-ss-top-white-j364327",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance U1906AC\nhttps://www.asphaltgold.de/products/new-balance-u1906ac-slate-grey-raincloud-drift-red",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Air Max Plus VII Sneakers Black / Illusion Green\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-plus-vii-black-j364258",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas adizero Evo SL M\nhttps://www.asphaltgold.de/products/adidas-adizero-evo-sl-m-core-black-footwear-white-core-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Air Jordan 8 Sneakers Black Chrome\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-8-retro-black-j365623",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-almost-pink-blue-spark-gum",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: HOKA Mafate Three2\nhttps://www.asphaltgold.de/products/hoka-one-one-mafate-three2-stardust-skyward-blue",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Cortez\nhttps://www.asphaltgold.de/products/nike-wmns-cortez-sail-arctic-orange-ocean-bliss",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-u90-60gry-grey",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Brooks Cascadia 1\nhttps://www.asphaltgold.de/products/brooks-cascadia-1-yellow-black-moonbeam",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Dunk Low *Photon Dust*\nhttps://www.asphaltgold.de/products/nike-wmns-dunk-low-photon-dust-white-photon-dust-white",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Birkenstock Boston\nhttps://www.asphaltgold.de/products/birkenstock-boston-dark-tea-tonal",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Veja Paulistana\nhttps://www.asphaltgold.de/products/veja-paulistana-natural-cyprus",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-suede-net-vapor-amazon",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Veja Volley *O.T. Leather*\nhttps://www.asphaltgold.de/products/veja-volley-ot-leather-white-kiwi-bark",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-suede-net-taffy-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low *Nylon / Cracked Leather*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-nylon-cracked-leather-white-brnsug",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Veja Volley W *Canvas*\nhttps://www.asphaltgold.de/products/veja-volley-w-canvas-white-umber",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: HAL Studios Studio T-Shirt\nhttps://www.asphaltgold.de/products/hal-studios-studio-t-shirt-off-white",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: HAL Studios HSDT Padded Vest\nhttps://www.asphaltgold.de/products/hal-studios-hsdt-padded-vest-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: HAL Studios Haus Hooded Zip Sweatshirt\nhttps://www.asphaltgold.de/products/hal-studios-haus-hooded-zip-sweatshirt-washed-black",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Dime Pleated Twill Pants\nhttps://www.asphaltgold.de/products/dime-pleated-twill-pants-camel",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Lacoste Light Quick Dry Swim Shorts\nhttps://www.asphaltgold.de/products/lacoste-light-quick-dry-swim-shorts-navy-blue-green",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB Los Angeles Dodgers *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-los-angeles-dodgers-base-runner-cap-royal",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Asphaltgold: Karhu Fusion 2.0\nhttps://www.asphaltgold.de/products/karhu-fusion-20-sea-foam-pineneedle",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Asphaltgold: Karhu Legacy 96\nhttps://www.asphaltgold.de/products/karhu-legacy-96-foggy-dew-hematite",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Asphaltgold: Karhu Mestari Run\nhttps://www.asphaltgold.de/products/karhu-mestari-run-drizzle-alfalfa",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Asphaltgold: Karhu Fusion 2.0\nhttps://www.asphaltgold.de/products/karhu-fusion-20-blanc-de-blanc-hematite",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Krewe Williams Sunglasses - Poppy/Crystal\nhttps://sneakerpolitics.com/products/krewe-williams-sunglasses-poppy-crystal",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Hoka Clifton 11 - Black/White\nhttps://sneakerpolitics.com/products/hoka-clifton-11-black-white",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Stratus MC - White/Raspberry\nhttps://sneakerpolitics.com/products/asics-gel-stratus-mc-white-raspberry",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 14 - White/Pure Silver\nhttps://sneakerpolitics.com/products/asics-gel-kayano-14-white-pure-silver",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Crocs x Spiderman Classic Clog\nhttps://www.afew-store.com/products/crocs-x-spiderman-classic-clog-multi",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Uneven Pigment Dyed Vanisé Cotton Jersey Crewneck Sweatshirt Black\nhttps://www.slamjam.com/products/stone-island-clothing-sweatshirt-black-j362179",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Organic Cotton Ripstop Cargo Pants Black\nhttps://www.slamjam.com/products/stone-island-clothing-trousers-black-j362150",
-      "detected_at": "2026-07-17T06:29:36.423814+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Air Jordan 5 'Black Carolina' Sneakers Black / University Blue\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-5-retro-mens-shoes-multicolor-j359797",
+      "detected_at": "2026-07-17T11:46:02.113930+00:00"
     }
   ]
 }
