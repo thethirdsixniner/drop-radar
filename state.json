@@ -1253,6 +1253,26 @@
       }
     },
     "https://undefeated.com": {
+      "6702628864261": {
+        "title": "JORDAN AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE",
+        "handle": "jordan-aj-3-retro-white-fire-red-true-blue",
+        "in_stock": true
+      },
+      "6702628962565": {
+        "title": "JORDAN GS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE",
+        "handle": "jordan-gs-aj-3-retro-white-fire-red-true-blue",
+        "in_stock": true
+      },
+      "6702629126405": {
+        "title": "JORDAN PS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE",
+        "handle": "jordan-ps-aj-3-retro-white-fire-red-true-blue",
+        "in_stock": true
+      },
+      "6702629159173": {
+        "title": "ADIDAS X BAD BUNNY F50 GHOST SPRINT - BLUE",
+        "handle": "adidas-x-bad-bunny-f50-ghost-sprint-blue",
+        "in_stock": true
+      },
       "6702624571653": {
         "title": "NEW BALANCE 1954R - BLACK",
         "handle": "new-balance-1954r-black",
@@ -1288,6 +1308,16 @@
         "handle": "nike-x-vaa-usa-ls-rugby-top-white",
         "in_stock": false
       },
+      "6702601011461": {
+        "title": "NIKE WMNS X VAA USA POLO - WHITE",
+        "handle": "nike-wmns-x-vaa-usa-polo-white",
+        "in_stock": true
+      },
+      "6702600782085": {
+        "title": "NIKE WMNS X VAA USA PREMATCH JERSEY - WHITE",
+        "handle": "nike-wmns-x-vaa-usa-prematch-jersey-white",
+        "in_stock": true
+      },
       "6701499580677": {
         "title": "UNDEFEATED HOLIDAY STOCKING",
         "handle": "undefeated-holiday-stocking",
@@ -1296,6 +1326,11 @@
       "6702628929797": {
         "title": "VANS PREMIUM OLD SKOOL 36 - FIELD BLACK",
         "handle": "vans-premium-old-skool-36-field-black",
+        "in_stock": true
+      },
+      "6702598750469": {
+        "title": "NIKE X JACQUEMUS FR  TRACK PANT - BLACKENED BLUE",
+        "handle": "nike-x-jacquemus-fr-track-pant-blackened-blue",
         "in_stock": true
       },
       "6702407483653": {
@@ -1601,16 +1636,6 @@
       "6702619721989": {
         "title": "NEW BALANCE 992 'MADE IN USA' - INCENSE",
         "handle": "new-balance-992-made-in-usa-incense",
-        "in_stock": true
-      },
-      "6702598750469": {
-        "title": "NIKE X JACQUEMUS FR  TRACK PANT - BLACKENED BLUE",
-        "handle": "nike-x-jacquemus-fr-track-pant-blackened-blue",
-        "in_stock": true
-      },
-      "6702600782085": {
-        "title": "NIKE WMNS X VAA USA PREMATCH JERSEY - WHITE",
-        "handle": "nike-wmns-x-vaa-usa-prematch-jersey-white",
         "in_stock": true
       },
       "6702624932101": {
@@ -2477,31 +2502,6 @@
         "title": "NIKE X SLAWN NG ANTHEM JACKET - BLACK/ WHITE",
         "handle": "nike-x-slawn-ng-anthem-jacket-black-white",
         "in_stock": true
-      },
-      "6702600028421": {
-        "title": "NIKE X SLAWN NG HOODIE - BLACK/ POISON GREEN",
-        "handle": "nike-x-slawn-ng-hoodie-black-poison-green",
-        "in_stock": true
-      },
-      "6702600225029": {
-        "title": "NIKE X SLAWN NG FLEECE PANT - BLACK/ POISON GREEN",
-        "handle": "nike-x-slawn-ng-fleece-pant-black-poison-green",
-        "in_stock": true
-      },
-      "6702599995653": {
-        "title": "NIKE X SLAWN NG TRACK PANT WHITE/ BLACK",
-        "handle": "nike-x-slawn-ng-track-pant-white-black",
-        "in_stock": true
-      },
-      "6702600126725": {
-        "title": "NIKE X SLAWN NG PREMIUM TEE -  - WHITE",
-        "handle": "nike-x-slawn-ng-premium-tee-white",
-        "in_stock": true
-      },
-      "6702599733509": {
-        "title": "NIKE WMNS X SLAWN NG PREMATCH JERSEY - BLACK/ WHITE",
-        "handle": "nike-wmns-x-slawn-ng-prematch-jersey-black-white",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2653,7 +2653,7 @@
       "10274109423883": {
         "title": "Adidas x MLS Gazelle *New England Revolution*",
         "handle": "adidas-gazelle-birght-red-footwear-white-nightsky",
-        "in_stock": true
+        "in_stock": false
       },
       "10223957836043": {
         "title": "Asics GEL-NYC",
@@ -2768,7 +2768,7 @@
       "8518645514507": {
         "title": "Autry Medalist W *Honey / Canvas*",
         "handle": "autry-medalist-w-honey-canvas-white-pow",
-        "in_stock": true
+        "in_stock": false
       },
       "10180290314507": {
         "title": "Adidas x Wales Bonner Wmns Piqué Track Pants",
@@ -2958,7 +2958,7 @@
       "10685387342091": {
         "title": "Adidas Samba LT W",
         "handle": "adidas-samba-lt-w-core-black-lucid-blue-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "8391815364875": {
         "title": "New Balance 1906R",
@@ -2993,7 +2993,7 @@
       "10120441299211": {
         "title": "HOKA Mafate Three2",
         "handle": "hoka-one-one-mafate-three2-stardust-skyward-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10534545064203": {
         "title": "Nike Wmns Cortez",
@@ -3148,7 +3148,7 @@
       "10724804493579": {
         "title": "Salomon Snowclog Corduroy",
         "handle": "salomon-snowclog-corduroy-delicioso-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10657520288011": {
         "title": "Asics GEL-Cumulus 16",
@@ -3288,7 +3288,7 @@
       "8468589281547": {
         "title": "Byredo Rose Of No Man's Land Body Wash 225ml",
         "handle": "byredo-rose-of-no-man-s-land-body-wash-225ml",
-        "in_stock": true
+        "in_stock": false
       },
       "11002865746187": {
         "title": "On Cloudsoma Hike 1",
@@ -8207,7 +8207,7 @@
       "9121745862861": {
         "title": "A$AP Rocky Suede 94 Sneakers Black / White",
         "handle": "puma-footwear-a-ap-rocky-x-puma-suede-94-black-j363735",
-        "in_stock": true
+        "in_stock": false
       },
       "9122638627021": {
         "title": "ABZORB 2002S Sneakers Fresh Air / Aluminum Grey",
@@ -8768,20 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Nike\tAir Jordan 3 Retro *True Blue* *PS*\nhttps://www.asphaltgold.de/products/nikeair-jordan-3-retro-true-blue-ps-white-varsity-red-true-blue-cement-grey-anthracite",
-      "detected_at": "2026-07-18T10:49:03.726967+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE\nhttps://undefeated.com/products/jordan-aj-3-retro-white-fire-red-true-blue",
+      "detected_at": "2026-07-18T14:37:28.589747+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Air Jordan 3 Retro\nhttps://www.afew-store.com/products/air-jordan-3-retro-white-fire-red-true-blue",
-      "detected_at": "2026-07-18T10:49:03.726967+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE\nhttps://undefeated.com/products/jordan-gs-aj-3-retro-white-fire-red-true-blue",
+      "detected_at": "2026-07-18T14:37:28.589747+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Air Jordan 3 Retro (GS)\nhttps://www.afew-store.com/products/air-jordan-3-retro-gs-white-fire-red-true-blue",
-      "detected_at": "2026-07-18T10:49:03.726967+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN PS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE\nhttps://undefeated.com/products/jordan-ps-aj-3-retro-white-fire-red-true-blue",
+      "detected_at": "2026-07-18T14:37:28.589747+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Bad Bunny F50 Ghost Sprint Sneakers Dark Marine\nhttps://www.slamjam.com/products/adidas-footwear-bb-f50-ghost-sprint-blue-j367848",
-      "detected_at": "2026-07-18T10:49:03.726967+00:00"
+      "message": "🆕 **New drop** at Undefeated: ADIDAS X BAD BUNNY F50 GHOST SPRINT - BLUE\nhttps://undefeated.com/products/adidas-x-bad-bunny-f50-ghost-sprint-blue",
+      "detected_at": "2026-07-18T14:37:28.589747+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE WMNS X VAA USA POLO - WHITE\nhttps://undefeated.com/products/nike-wmns-x-vaa-usa-polo-white",
+      "detected_at": "2026-07-18T14:37:28.589747+00:00"
     }
   ]
 }
