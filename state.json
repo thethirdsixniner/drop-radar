@@ -1336,7 +1336,7 @@
       "6702407483653": {
         "title": "NIKE KOBE AIR FORCE 1 LOW - WHITE/ TEAM RED",
         "handle": "nike-kobe-air-force-1-low-white-team-red",
-        "in_stock": true
+        "in_stock": false
       },
       "6701171605765": {
         "title": "NEW BALANCE 1906L - WOODLAND",
@@ -2533,7 +2533,7 @@
       "10746829635851": {
         "title": "Adidas Tobacco",
         "handle": "adidas-tobacco-maroon-maroon-gum-5",
-        "in_stock": true
+        "in_stock": false
       },
       "10857953263883": {
         "title": "Asics GEL-1130",
@@ -2553,7 +2553,7 @@
       "10632000962827": {
         "title": "Nike Ava Rover",
         "handle": "nike-ava-rover-fossil-black-cosmic-clay-canyon-rust",
-        "in_stock": true
+        "in_stock": false
       },
       "10676316438795": {
         "title": "New Balance 1906R",
@@ -2873,7 +2873,7 @@
       "10827811979531": {
         "title": "Adidas F50 Graphic T-Shirt",
         "handle": "adidas-f50-graphic-tshirt-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10716161802507": {
         "title": "Asics JOG 100S",
@@ -3757,6 +3757,31 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9405699326140": {
+        "title": "Bad Bunny x Adidas F50 Ghost Sprint - Dark Marine/Light Blue",
+        "handle": "bad-bunny-x-adidas-f50-ghost-sprint-dark-marine-light-blue",
+        "in_stock": true
+      },
+      "9342187765948": {
+        "title": "Jordan 3 Retro 'True Blue' (TD) - White/True Blue",
+        "handle": "jordan-3-retro-true-blue-td-white-true-blue",
+        "in_stock": true
+      },
+      "9342176362684": {
+        "title": "Jordan 3 Retro 'True Blue' (PS) - White/True Blue",
+        "handle": "jordan-3-retro-true-blue-ps-white-true-blue",
+        "in_stock": true
+      },
+      "9342167351484": {
+        "title": "Air Jordan 3 Retro 'True Blue' (GS) - White/True Blue",
+        "handle": "air-jordan-3-retro-true-blue-gs-white-true-blue",
+        "in_stock": true
+      },
+      "9342221516988": {
+        "title": "Air Jordan 3 Retro 'True Blue' - White/True Blue",
+        "handle": "air-jordan-3-retro-true-blue-white-true-blue",
+        "in_stock": true
+      },
       "9397664678076": {
         "title": "Fear Of God Essentials Cut Off 90's Tee - Chalk",
         "handle": "fear-of-god-essentials-cut-off-90s-tee-chalk",
@@ -4107,11 +4132,6 @@
         "handle": "nike-cortez-premium-black-sail",
         "in_stock": true
       },
-      "8949405712572": {
-        "title": "New Balance 740 - White/Alpine Green",
-        "handle": "new-balance-740-white-alpine-green",
-        "in_stock": false
-      },
       "8932892573884": {
         "title": "Vans LX Old Skool 36 Zip - Aspen Black",
         "handle": "vans-lx-old-skool-36-zip-aspen-black",
@@ -4150,7 +4170,7 @@
       "9363159843004": {
         "title": "Virgil Abloh Archive x USA x Nike Anthem Jacket - White/Deep Royal Blue",
         "handle": "virgil-abloh-archive-x-usa-x-nike-anthem-jacket-white-deep-royal-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "9340468166844": {
         "title": "Nigel Sylvester x Jordan Fleece Crewneck - Cinnabar",
@@ -4986,26 +5006,6 @@
         "title": "Kids Billionaire Boys Club Captain Polo - Fiery Red",
         "handle": "kids-billionaire-boys-club-captain-polo-fiery-red",
         "in_stock": true
-      },
-      "9343119524028": {
-        "title": "Kids Billionaire Boys Club Captain Polo - Olympian Blue",
-        "handle": "kids-billionaire-boys-club-captain-polo-olympian-blue",
-        "in_stock": true
-      },
-      "9343121948860": {
-        "title": "Kids Billionaire Boys Club Striker Polo - Whisper White",
-        "handle": "kids-billionaire-boys-club-striker-polo-whisper-white",
-        "in_stock": true
-      },
-      "9343123718332": {
-        "title": "Kids Billionaire Boys Club Finals 03 Knit Tee - Whisper White",
-        "handle": "kids-billionaire-boys-club-finals-03-knit-tee-whisper-white",
-        "in_stock": true
-      },
-      "9081129894076": {
-        "title": "Paly Hollywood Joshua Tree Double Zip Hoodie - Heather Grey/Multi",
-        "handle": "paly-hollywood-joshua-tree-double-zip-hoodie-heather-grey-multi",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5192,7 +5192,7 @@
       "15038388568440": {
         "title": "Formes Mini Porto Abyss",
         "handle": "mini-porto-abyss",
-        "in_stock": true
+        "in_stock": false
       },
       "15038388535672": {
         "title": "Formes Mini Adapt Verdal",
@@ -8768,24 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE\nhttps://undefeated.com/products/jordan-aj-3-retro-white-fire-red-true-blue",
-      "detected_at": "2026-07-18T14:37:28.589747+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Bad Bunny x Adidas F50 Ghost Sprint - Dark Marine/Light Blue\nhttps://sneakerpolitics.com/products/bad-bunny-x-adidas-f50-ghost-sprint-dark-marine-light-blue",
+      "detected_at": "2026-07-18T17:43:21.544774+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE\nhttps://undefeated.com/products/jordan-gs-aj-3-retro-white-fire-red-true-blue",
-      "detected_at": "2026-07-18T14:37:28.589747+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 3 Retro 'True Blue' (TD) - White/True Blue\nhttps://sneakerpolitics.com/products/jordan-3-retro-true-blue-td-white-true-blue",
+      "detected_at": "2026-07-18T17:43:21.544774+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN PS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE\nhttps://undefeated.com/products/jordan-ps-aj-3-retro-white-fire-red-true-blue",
-      "detected_at": "2026-07-18T14:37:28.589747+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 3 Retro 'True Blue' (PS) - White/True Blue\nhttps://sneakerpolitics.com/products/jordan-3-retro-true-blue-ps-white-true-blue",
+      "detected_at": "2026-07-18T17:43:21.544774+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: ADIDAS X BAD BUNNY F50 GHOST SPRINT - BLUE\nhttps://undefeated.com/products/adidas-x-bad-bunny-f50-ghost-sprint-blue",
-      "detected_at": "2026-07-18T14:37:28.589747+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'True Blue' (GS) - White/True Blue\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-true-blue-gs-white-true-blue",
+      "detected_at": "2026-07-18T17:43:21.544774+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE WMNS X VAA USA POLO - WHITE\nhttps://undefeated.com/products/nike-wmns-x-vaa-usa-polo-white",
-      "detected_at": "2026-07-18T14:37:28.589747+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'True Blue' - White/True Blue\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-true-blue-white-true-blue",
+      "detected_at": "2026-07-18T17:43:21.544774+00:00"
     }
   ]
 }
