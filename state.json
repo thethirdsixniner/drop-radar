@@ -2908,7 +2908,7 @@
       "10804049117451": {
         "title": "Carhartt WIP L/S Torion Pocket T-Shirt",
         "handle": "carhartt-wip-ls-torion-pocket-tshirt-office-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10749111271691": {
         "title": "CHITO International Bloody Longsleeve Tee",
@@ -3548,7 +3548,7 @@
       "10497901527307": {
         "title": "Museum of Peace & Quiet Wordmark T-Shirt",
         "handle": "museum-of-peace-quiet-wordmark-tshirt-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10170693550347": {
         "title": "Museum of Peace & Quiet Chateau T-Shirt",
@@ -7562,7 +7562,7 @@
       "9106555830477": {
         "title": "Men's Graphic T-Shirt Black",
         "handle": "undercover-clothing-tee-black-j347378",
-        "in_stock": true
+        "in_stock": false
       },
       "9108282376397": {
         "title": "Men's Seagull Embroidery T-Shirt White",
@@ -8284,11 +8284,6 @@
         "handle": "nike-clothing-m-nk-club-rules-trk-pant-aop-blue-j364307",
         "in_stock": true
       },
-      "9112093720781": {
-        "title": "Men's ACG 'Smith Summit' Cargo Shorts Black",
-        "handle": "nike-clothing-nike-acg-smith-summit-mens-cargo-shorts-black-j356666",
-        "in_stock": false
-      },
       "9116574679245": {
         "title": "Willy Chavarria Megaride Bone Sneakers Core Black / Cream White",
         "handle": "adidas-footwear-willy-chavarria-meg-black-j362357",
@@ -8597,7 +8592,7 @@
       "9122169127117": {
         "title": "ACS Packable Tote Bag Black",
         "handle": "salomon-accessories-acs-packable-tote-bag-black-j366231",
-        "in_stock": true
+        "in_stock": false
       },
       "9122169094349": {
         "title": "XT-10 Backpack Black",
@@ -8763,29 +8758,18 @@
         "title": "Collina Strada Chuck 70 Sneakers Mellow Yellow / Lemon Meringue",
         "handle": "converse-footwear-chuck-70-ox-yellow-j353902",
         "in_stock": true
+      },
+      "9121631928525": {
+        "title": "Collina Strada Chuck 70 Sneakers Black",
+        "handle": "converse-footwear-chuck-70-ox-black-j353887",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Bad Bunny x Adidas F50 Ghost Sprint - Dark Marine/Light Blue\nhttps://sneakerpolitics.com/products/bad-bunny-x-adidas-f50-ghost-sprint-dark-marine-light-blue",
-      "detected_at": "2026-07-18T17:43:21.544774+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 3 Retro 'True Blue' (TD) - White/True Blue\nhttps://sneakerpolitics.com/products/jordan-3-retro-true-blue-td-white-true-blue",
-      "detected_at": "2026-07-18T17:43:21.544774+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 3 Retro 'True Blue' (PS) - White/True Blue\nhttps://sneakerpolitics.com/products/jordan-3-retro-true-blue-ps-white-true-blue",
-      "detected_at": "2026-07-18T17:43:21.544774+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'True Blue' (GS) - White/True Blue\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-true-blue-gs-white-true-blue",
-      "detected_at": "2026-07-18T17:43:21.544774+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'True Blue' - White/True Blue\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-true-blue-white-true-blue",
-      "detected_at": "2026-07-18T17:43:21.544774+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Collina Strada Chuck 70 Sneakers Black\nhttps://www.slamjam.com/products/converse-footwear-chuck-70-ox-black-j353887",
+      "detected_at": "2026-07-18T20:27:21.535521+00:00"
     }
   ]
 }
