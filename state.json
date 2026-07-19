@@ -1656,7 +1656,7 @@
       "6702351974661": {
         "title": "UNDEFEATED X WBC JAPAN TEE - WHITE",
         "handle": "undefeated-x-wbc-japan-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6702352138501": {
         "title": "UNDEFEATED X WBC DOMINICAN REPUBLIC TEE - WHITE",
@@ -2518,7 +2518,7 @@
       "10796604948747": {
         "title": "Puma x San San Gear Talon",
         "handle": "puma-x-san-san-gear-talon-puma-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10814326538507": {
         "title": "HOKA Tor Summit",
@@ -2633,7 +2633,7 @@
       "10223957836043": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gelnyc-cloud-grey-cement-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10216687173899": {
         "title": "Adidas SL 72 RS",
@@ -3453,7 +3453,7 @@
       "10539983765771": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-ecru-mountain",
-        "in_stock": true
+        "in_stock": false
       },
       "8469461860619": {
         "title": "Asphaltgold Summer of Joy Crochet Shorts",
@@ -4150,7 +4150,7 @@
       "9108124860604": {
         "title": "Adidas Adistar XLG 2.0 - Cloud White/Solar Orange",
         "handle": "adidas-adistar-xlg-2-0-cloud-white-solar-orange",
-        "in_stock": true
+        "in_stock": false
       },
       "9332830175420": {
         "title": "Godspeed New York Freedoms Protocol Tee - Black",
@@ -4505,7 +4505,7 @@
       "9363146965180": {
         "title": "Jacquemus x France x Nike Reissue Track Pants - Blackened Blue/White",
         "handle": "jacquemus-x-france-x-nike-reissue-track-pants-blackened-blue-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9363170295996": {
         "title": "Big Kids Canada x Nike NOCTA Soccer Top - Black/University Red",
@@ -7514,6 +7514,11 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9106451005645": {
+        "title": "Cloudtilt Remix Sneakers Dew / Pebble",
+        "handle": "on-footwear-cloudtilt-remix-multicolor-j341106",
+        "in_stock": true
+      },
       "9123007004877": {
         "title": "Bad Bunny F50 Ghost Sprint Sneakers Dark Marine",
         "handle": "adidas-footwear-bb-f50-ghost-sprint-blue-j367848",
@@ -7947,7 +7952,7 @@
       "9118678581453": {
         "title": "England x Palace Academy Pro Shortsleeve Soccer Top Pewter Grey / Bright Crimson",
         "handle": "nike-clothing-enx-m-nk-df-acdpr-ss-pm-top-black-j352031",
-        "in_stock": false
+        "in_stock": true
       },
       "9122654781645": {
         "title": "Air Jordan 3 Retro Sneakers True Blue",
@@ -8402,7 +8407,7 @@
       "9122172797133": {
         "title": "Air Jordan 8 Sneakers Black Chrome",
         "handle": "nike-jordan-footwear-air-jordan-8-retro-black-j365623",
-        "in_stock": true
+        "in_stock": false
       },
       "9122170470605": {
         "title": "Air Jordan 5 'Black Carolina' Sneakers Black / University Blue",
@@ -8758,90 +8763,17 @@
         "title": "Collina Strada Chuck 70 Sneakers Mellow Yellow / Lemon Meringue",
         "handle": "converse-footwear-chuck-70-ox-yellow-j353902",
         "in_stock": true
-      },
-      "9121631928525": {
-        "title": "Collina Strada Chuck 70 Sneakers Black",
-        "handle": "converse-footwear-chuck-70-ox-black-j353887",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Adicolor Blokecore Polo\nhttps://www.asphaltgold.de/products/adidas-adicolor-blokecore-polo-black-medium-grey-heather",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Cloudtilt Remix Sneakers Dew / Pebble\nhttps://www.slamjam.com/products/on-footwear-cloudtilt-remix-multicolor-j341106",
+      "detected_at": "2026-07-19T07:49:49.183782+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG\nhttps://www.asphaltgold.de/products/adidas-samba-og-wonder-white-shadow-red-gum-3",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike x Nocta Cardinal Fleeceshorts\nhttps://www.asphaltgold.de/products/nikex-nocta-cardinal-fleeceshorts-dark-grey-heather-matte-silver-black",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns V2K Run *GTX*\nhttps://www.asphaltgold.de/products/nike-wmns-v2k-run-gtx-light-iron-ore-light-iron-ore-light-bone-khaki",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Off-Race Heavy Knit Beanie\nhttps://www.asphaltgold.de/products/pas-normal-studios-offrace-heavy-knit-beanie-light-brown",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance T500\nhttps://www.asphaltgold.de/products/new-balance-t500nav-sea-salt",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Suede / Mesh*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-suede-mesh-lava-ibis",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Hyperway W *Suede / Mesh*\nhttps://www.asphaltgold.de/products/autry-hyperway-w-suede-mesh-cigar-silver",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Parel Studios Naru Shorts\nhttps://www.asphaltgold.de/products/parel-studios-naru-shorts-dark-grey",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Museum of Peace & Quiet Signature 2 Tone Dad Hat\nhttps://www.asphaltgold.de/products/museum-of-peace-quiet-signature-2-tone-dad-hat-olive",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance Pro Run Crew Socks 1 Pair\nhttps://www.asphaltgold.de/products/new-balance-pro-run-crew-socks-1-pair-pink-heat",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Multicolor Embroidered Logo Sweatshirt\nhttps://www.asphaltgold.de/products/autry-multicolor-embroidered-logo-sweatshirt-dark-grey-melange",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance Classic Tri-Logo French Terry Crew\nhttps://www.asphaltgold.de/products/new-balance-classic-trilogo-french-terry-crew-black-cement",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance Athletics Premium Logo Crew\nhttps://www.asphaltgold.de/products/new-balance-athletics-premium-logo-crew-cherry-leather",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Stan Smith 80s *Croc*\nhttps://www.asphaltgold.de/products/adidas-stan-smith-80s-croc-off-white-off-white-maroon",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Handball Spezial\nhttps://www.asphaltgold.de/products/adidas-handball-spezial-collegiate-red-night-indigo-bold-gold",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Handball Spezial Loafer\nhttps://www.asphaltgold.de/products/adidas-handball-spezial-loafer-core-black-core-black-grey-three",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Kids Billionaire Boys Club Captain Polo - Olympian Blue\nhttps://sneakerpolitics.com/products/kids-billionaire-boys-club-captain-polo-olympian-blue",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Kids Billionaire Boys Club Striker Polo - Whisper White\nhttps://sneakerpolitics.com/products/kids-billionaire-boys-club-striker-polo-whisper-white",
-      "detected_at": "2026-07-18T23:36:47.087484+00:00"
+      "message": "🔥 **Restock** at Slam Jam: England x Palace Academy Pro Shortsleeve Soccer Top Pewter Grey / Bright Crimson\nhttps://www.slamjam.com/products/nike-clothing-enx-m-nk-df-acdpr-ss-pm-top-black-j352031",
+      "detected_at": "2026-07-19T07:49:49.183782+00:00"
     }
   ]
 }
