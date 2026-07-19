@@ -1,6 +1,46 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286585454720": {
+        "title": "MADE-TO-ORDER | Kith for Nike Air Max 95 \"Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkjj9681-200-ph",
+        "in_stock": false
+      },
+      "8286585487488": {
+        "title": "MADE-TO-ORDER | Kith for Nike Air Force 1 \"Un-Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkjj9680-600-ph",
+        "in_stock": false
+      },
+      "8286585159808": {
+        "title": "Kith Kids for Nike TD Air Max 95 \"Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkio4643-201-ph",
+        "in_stock": false
+      },
+      "8286585192576": {
+        "title": "Kith Kids for Nike TD Air Force 1 \"Un-Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkim6038-200-ph",
+        "in_stock": false
+      },
+      "8286585389184": {
+        "title": "Kith Kids for Nike PS Air Force 1 \"Un-Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkim6036-200-ph",
+        "in_stock": false
+      },
+      "8286585356416": {
+        "title": "Kith Kids for Nike PS Air Max 95 \"Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkio4642-201-ph",
+        "in_stock": false
+      },
+      "8286585258112": {
+        "title": "Kith Kids for Nike GS Air Max 95 \"Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkim6039-201-ph",
+        "in_stock": false
+      },
+      "8286585094272": {
+        "title": "Kith Kids for Nike GS Air Force 1 \"Un-Linen\" - Linen / Atmosphere / White - PH",
+        "handle": "nkim6037-200-ph",
+        "in_stock": false
+      },
       "8286589780096": {
         "title": "G.H. Bass Larson Weejuns® Penny Loafer - Oyster",
         "handle": "gh14336949-157",
@@ -1210,46 +1250,6 @@
         "title": "Studio Nicholson Marylebone Denim Short - Black / White Weft",
         "handle": "snlmarylebone1536blk",
         "in_stock": true
-      },
-      "8286576541824": {
-        "title": "Jil Sander Cotton Drill Trouser - Black",
-        "handle": "jilj22ka0360-001",
-        "in_stock": true
-      },
-      "8286576312448": {
-        "title": "Studio Nicholson Andies Tee - Black Grape",
-        "handle": "snlandiessnm-1571blk",
-        "in_stock": true
-      },
-      "8286576443520": {
-        "title": "Jil Sander 238 Classic Button-Up Shirt - Black",
-        "handle": "jilj22dl0395-001",
-        "in_stock": true
-      },
-      "8286576279680": {
-        "title": "Loewe Anagram Short - Washed Blue",
-        "handle": "lweh526y1gw11-8438",
-        "in_stock": true
-      },
-      "8286577000576": {
-        "title": "Gucci Women GG2038S Metal Rectangle Sunglasses - Silver / Transparent",
-        "handle": "gg2038s-003",
-        "in_stock": true
-      },
-      "8286577033344": {
-        "title": "Gucci Rectangular Frame Sunglasses - Havana / Red",
-        "handle": "gg2152s-004",
-        "in_stock": true
-      },
-      "8286576246912": {
-        "title": "Loewe Turn-Up Cotton Short - Beige",
-        "handle": "lweh526y1aw52-2140",
-        "in_stock": true
-      },
-      "8286576902272": {
-        "title": "Gucci GG2044SA Cat-Eye Sunglasses - Havana / Brown",
-        "handle": "gg2044sa-002",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -1676,7 +1676,7 @@
       "6702351909125": {
         "title": "UNDEFEATED X WBC JAPAN JERSEY - NAVY",
         "handle": "undefeated-x-wbc-japan-jersey-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "6702351941893": {
         "title": "UNDEFEATED X WBC USA JERSEY - NAVY",
@@ -2598,7 +2598,7 @@
       "10693873631499": {
         "title": "Phileo 073 Derby",
         "handle": "phileo-073-derby-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10803963429131": {
         "title": "Carhartt WIP Punched Sweat",
@@ -2618,7 +2618,7 @@
       "10715973812491": {
         "title": "thisisneverthat\tArch-Logo Crewneck",
         "handle": "thisisneverthatarchlogo-hoodie-dark-chocolate",
-        "in_stock": true
+        "in_stock": false
       },
       "10732453495051": {
         "title": "Pas Normal Studios Balance Shorts *No Distance Left To Run*",
@@ -2648,7 +2648,7 @@
       "10655089361163": {
         "title": "47 MLB New York Yankees Base Runner Two Tone *Clean Up* Cap",
         "handle": "47-mlb-new-york-yankees-base-runner-two-tone-clean-up-cap-natural-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "10667719033099": {
         "title": "HAY Weekend Bag Medium",
@@ -2858,7 +2858,7 @@
       "10833241374987": {
         "title": "Adidas\tx Hermanos Koumori Adi365 Running 2in1 Shorts",
         "handle": "adidasx-hermanos-koumori-adi365-running-2in1-shorts-shadow-fig",
-        "in_stock": true
+        "in_stock": false
       },
       "10749111271691": {
         "title": "CHITO International Bloody Longsleeve Tee",
@@ -2893,7 +2893,7 @@
       "10727120208139": {
         "title": "Nike\tAir Half Zip Jacket",
         "handle": "nikeair-half-zip-jacket-anthracite-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8833100677387": {
         "title": "New Balance M1906AF *Concrete Pack*",
@@ -2998,7 +2998,7 @@
       "10676144406795": {
         "title": "HAL Studios Haus Hooded Zip Sweatshirt",
         "handle": "hal-studios-haus-hooded-zip-sweatshirt-washed-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10167634886923": {
         "title": "Dime Pleated Twill Pants",
@@ -3163,7 +3163,7 @@
       "10684655239435": {
         "title": "Sefr Lee Cardigan",
         "handle": "sefr-lee-cardigan-neptune-alpaca",
-        "in_stock": true
+        "in_stock": false
       },
       "10649191514379": {
         "title": "Sporty & Rich\tx New York Yankees Serif Track Jacket",
@@ -3408,12 +3408,12 @@
       "10694507004171": {
         "title": "ERL Puffer Coat Woven",
         "handle": "erl-puffer-coat-woven-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10691162571019": {
         "title": "The North Face Red Box Wind Jacket",
         "handle": "the-north-face-red-box-wind-jacket-hunter-green",
-        "in_stock": true
+        "in_stock": false
       },
       "10677629485323": {
         "title": "Nike x Nocta Cardinal Fleeceshorts",
@@ -3438,7 +3438,7 @@
       "8449295286539": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-ghost-gray-ghost-gray-gray-fog",
-        "in_stock": true
+        "in_stock": false
       },
       "10219879891211": {
         "title": "New Balance WRPD Runner",
@@ -3698,7 +3698,7 @@
       "10540491997451": {
         "title": "Autry Reelwind Low W *Suede / Mesh*",
         "handle": "autry-reelwind-low-w-suede-mesh-lava-ibis",
-        "in_stock": true
+        "in_stock": false
       },
       "10537644917003": {
         "title": "Autry Hyperway W *Suede / Mesh*",
@@ -3718,7 +3718,7 @@
       "10174284726539": {
         "title": "Museum of Peace & Quiet Signature 2 Tone Dad Hat",
         "handle": "museum-of-peace-quiet-signature-2-tone-dad-hat-olive",
-        "in_stock": true
+        "in_stock": false
       },
       "10980882252043": {
         "title": "New Balance Pro Run Crew Socks 1 Pair",
@@ -4156,11 +4156,6 @@
         "title": "Godspeed New York Freedoms Protocol Tee - Black",
         "handle": "godspeed-new-york-freedoms-protocol-tee-black",
         "in_stock": true
-      },
-      "9363159843004": {
-        "title": "Virgil Abloh Archive x USA x Nike Anthem Jacket - White/Deep Royal Blue",
-        "handle": "virgil-abloh-archive-x-usa-x-nike-anthem-jacket-white-deep-royal-blue",
-        "in_stock": false
       },
       "9340468166844": {
         "title": "Nigel Sylvester x Jordan Fleece Crewneck - Cinnabar",
@@ -5005,6 +5000,11 @@
       "9343121948860": {
         "title": "Kids Billionaire Boys Club Striker Polo - Whisper White",
         "handle": "kids-billionaire-boys-club-striker-polo-whisper-white",
+        "in_stock": true
+      },
+      "9343123718332": {
+        "title": "Kids Billionaire Boys Club Finals 03 Knit Tee - Whisper White",
+        "handle": "kids-billionaire-boys-club-finals-03-knit-tee-whisper-white",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Collina Strada Chuck 70 Sneakers Black\nhttps://www.slamjam.com/products/converse-footwear-chuck-70-ox-black-j353887",
-      "detected_at": "2026-07-19T11:40:58.831211+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Collina Strada Chuck 70 Sneakers Mellow Rose / Fir Green / Spinach\nhttps://www.slamjam.com/products/converse-footwear-chuck-70-hi-pink-j353886",
-      "detected_at": "2026-07-19T11:40:58.831211+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Kids Billionaire Boys Club Finals 03 Knit Tee - Whisper White\nhttps://sneakerpolitics.com/products/kids-billionaire-boys-club-finals-03-knit-tee-whisper-white",
+      "detected_at": "2026-07-19T15:32:27.504090+00:00"
     }
   ]
 }
