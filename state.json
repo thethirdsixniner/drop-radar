@@ -1516,7 +1516,7 @@
       "6702405026053": {
         "title": "SALOMON XT-6 - BISTRO GREEN/ BLACK",
         "handle": "salomon-xt-6-bistro-green-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702637252869": {
         "title": "SAUCONY TRAINER 80 - BLACK/ WHITE",
@@ -2608,7 +2608,7 @@
       "10686360748299": {
         "title": "Adidas x Liberty London Handball Spezial J",
         "handle": "adidas-x-liberty-london-handball-spezial-j-supplier-color-off-white-semi-lucid-red",
-        "in_stock": true
+        "in_stock": false
       },
       "10828920914187": {
         "title": "thisisneverthat\t*Gore-Tex* 2L Reversible Jacket",
@@ -8379,11 +8379,6 @@
         "handle": "cav-empt-clothing-diagonal-flap-puff-jacket-black-j338282",
         "in_stock": true
       },
-      "9118677401805": {
-        "title": "USA x V.A.A. Woven Staff Jacket White / Deep Royal Blue",
-        "handle": "nike-clothing-usx-m-staff-wvn-jkt-white-j364589",
-        "in_stock": false
-      },
       "9038524383437": {
         "title": "Men's Cargo Longsleeve T-Shirt Snow White",
         "handle": "oamc-peacemaker-clothing-peacemaker-sl-cargo-l-s-white-j305796",
@@ -8763,13 +8758,18 @@
         "title": "Collina Strada Chuck 70 Sneakers Mellow Rose / Fir Green / Spinach",
         "handle": "converse-footwear-chuck-70-hi-pink-j353886",
         "in_stock": true
+      },
+      "9121631666381": {
+        "title": "Women's Air Superfly Sneakers Light Khaki / Light Army",
+        "handle": "nike-footwear-wmns-w-nike-air-superfly-brown-j364331",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Kids Billionaire Boys Club Finals 03 Knit Tee - Whisper White\nhttps://sneakerpolitics.com/products/kids-billionaire-boys-club-finals-03-knit-tee-whisper-white",
-      "detected_at": "2026-07-19T15:32:27.504090+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Air Superfly Sneakers Light Khaki / Light Army\nhttps://www.slamjam.com/products/nike-footwear-wmns-w-nike-air-superfly-brown-j364331",
+      "detected_at": "2026-07-19T18:42:52.314607+00:00"
     }
   ]
 }
