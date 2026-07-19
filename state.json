@@ -2668,7 +2668,7 @@
       "8263075660043": {
         "title": "New Balance 530",
         "handle": "new-balance-mr530ck-raincloud-shadow-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10209824309515": {
         "title": "Nike Project F.R.O.G. Woven Shorts",
@@ -2698,7 +2698,7 @@
       "8983421387019": {
         "title": "Asics x Hidden NY GEL-Venture 6 Shield",
         "handle": "asics-x-hidden-ny-gelventure-6-shield-white-wasabi",
-        "in_stock": true
+        "in_stock": false
       },
       "10126075691275": {
         "title": "Asics JOG 100S",
@@ -2928,7 +2928,7 @@
       "8931895410955": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-core-black-footwear-white-core-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10653542285579": {
         "title": "Adidas Samba OG W",
@@ -7829,11 +7829,6 @@
         "handle": "stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
         "in_stock": true
       },
-      "9115852800205": {
-        "title": "Men's ACG Radical AirFlow NXT Dri-FIT Longsleeve Trail Running Top White",
-        "handle": "nike-clothing-m-acg-df-ra-nxt-ls-white-j352555",
-        "in_stock": false
-      },
       "9122712715469": {
         "title": "Leather Oxford Shoes Black",
         "handle": "dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-black-j363836",
@@ -8152,7 +8147,7 @@
       "9122642362573": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top White",
         "handle": "nike-clothing-m-acg-df-rad-airflow-ss-top-white-j364327",
-        "in_stock": true
+        "in_stock": false
       },
       "9122642395341": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top Anthracite",
@@ -8357,11 +8352,6 @@
       "9106548654285": {
         "title": "and wander 2Way Camouflage Tote Bag Camo",
         "handle": "roa-accessories-r09-roa-and-wander-2way-tote-bag-camouflage-multicolor-j338481",
-        "in_stock": false
-      },
-      "9097995059405": {
-        "title": "Club Structured OG Flame Cap Black",
-        "handle": "nike-accessories-nike-club-structured-og-flame-cap-multicolor-j337154",
         "in_stock": false
       },
       "9097440100557": {
@@ -8763,17 +8753,27 @@
         "title": "Collina Strada Chuck 70 Sneakers Mellow Yellow / Lemon Meringue",
         "handle": "converse-footwear-chuck-70-ox-yellow-j353902",
         "in_stock": true
+      },
+      "9121631928525": {
+        "title": "Collina Strada Chuck 70 Sneakers Black",
+        "handle": "converse-footwear-chuck-70-ox-black-j353887",
+        "in_stock": true
+      },
+      "9121631895757": {
+        "title": "Collina Strada Chuck 70 Sneakers Mellow Rose / Fir Green / Spinach",
+        "handle": "converse-footwear-chuck-70-hi-pink-j353886",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Cloudtilt Remix Sneakers Dew / Pebble\nhttps://www.slamjam.com/products/on-footwear-cloudtilt-remix-multicolor-j341106",
-      "detected_at": "2026-07-19T07:49:49.183782+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Collina Strada Chuck 70 Sneakers Black\nhttps://www.slamjam.com/products/converse-footwear-chuck-70-ox-black-j353887",
+      "detected_at": "2026-07-19T11:40:58.831211+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: England x Palace Academy Pro Shortsleeve Soccer Top Pewter Grey / Bright Crimson\nhttps://www.slamjam.com/products/nike-clothing-enx-m-nk-df-acdpr-ss-pm-top-black-j352031",
-      "detected_at": "2026-07-19T07:49:49.183782+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Collina Strada Chuck 70 Sneakers Mellow Rose / Fir Green / Spinach\nhttps://www.slamjam.com/products/converse-footwear-chuck-70-hi-pink-j353886",
+      "detected_at": "2026-07-19T11:40:58.831211+00:00"
     }
   ]
 }
