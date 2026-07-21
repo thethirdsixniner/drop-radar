@@ -1044,7 +1044,7 @@
       "8286579622016": {
         "title": "Jordan TD Jordan 1 Low Alt SE - True Blue / University Red / Kinetic Green / Black",
         "handle": "jbio2064-401",
-        "in_stock": true
+        "in_stock": false
       },
       "8286579589248": {
         "title": "Dr. Martens Aurix Satin Finish Leather Mule - Oxblood",
@@ -3328,7 +3328,7 @@
       "10228626915595": {
         "title": "Veja Panenka W *O.T. Leather*",
         "handle": "veja-panenka-w-ot-leather-white-black-bark",
-        "in_stock": true
+        "in_stock": false
       },
       "10534365167883": {
         "title": "Autry Reelwind Low",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9352523743420": {
+        "title": "Nike Dunk Low Retro Premium - Light British Tan/Cinnamon",
+        "handle": "nike-dunk-low-retro-premium-light-british-tan-cinnamon",
+        "in_stock": true
+      },
       "9352513618108": {
         "title": "Nike Dunk Low Retro 'Donut' - Pink Rise/Velvet Brown",
         "handle": "nike-dunk-low-retro-donut-pink-rise-velvet-brown",
@@ -3780,11 +3785,6 @@
       "9373353771196": {
         "title": "Nike Air Max Moto 2K - Grey Fog/Black",
         "handle": "nike-air-max-moto-2k-grey-fog-black",
-        "in_stock": true
-      },
-      "9469812310204": {
-        "title": "Godspeed New York OG Logo Slides V2 - Red",
-        "handle": "godspeed-new-york-og-logo-slides-v2-red",
         "in_stock": true
       },
       "9103557591228": {
@@ -8768,96 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: New Balance Made in USA 992 - Pink Chalk / Pink Lemonade / Cherry Leather\nhttps://kith.com/products/nbu992pk",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance Made in UK 991v2 - Mahogany Rose / Silver\nhttps://kith.com/products/nbu991rb2",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance Made in USA 990v4 - Pumpernickel / Pink Chalk / Alabaster\nhttps://kith.com/products/nbu990ic4",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike Air Max 95 Big Bubble - Pearl Grey / Light Charcoal\nhttps://kith.com/products/nkir0802-100",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: ASICS GEL-KAYANO 14 - Birch / Pure Silver\nhttps://kith.com/products/ai1203a537-200",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Undefeated: NIKE KOBE AIR FORCE 1 LOW - WHITE/ TEAM RED\nhttps://undefeated.com/products/nike-kobe-air-force-1-low-white-team-red",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro 'Donut' - Pink Rise/Velvet Brown\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-donut-pink-rise-velvet-brown",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro 'Varsity' - Metallic Silver/Black\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-varsity-metallic-silver-black",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Zoom Vomero 5 - Old Royal/Pink Rise\nhttps://sneakerpolitics.com/products/womens-nike-zoom-vomero-5-old-royal-pink-rise",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike ReactX Rejuven8 - Volt/Black\nhttps://sneakerpolitics.com/products/nike-reactx-rejuven8-volt-black",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Moto 2K - Grey Fog/Black\nhttps://sneakerpolitics.com/products/nike-air-max-moto-2k-grey-fog-black",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York OG Logo Slides V2 - Red\nhttps://sneakerpolitics.com/products/godspeed-new-york-og-logo-slides-v2-red",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Grid Legacy - Silver/Pine\nhttps://sneakerpolitics.com/products/saucony-grid-legacy-silver-pine",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 -Edamame Green/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-edamame-green-black",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 - Dragon Fruit/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-dragon-fruit-black",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Relaxed Fleece Cutoff Sweatshirt - Washed Seal\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-relaxed-fleece-cutoff-sweatshirt-washed-seal",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Half Zip Baseball Shirt - Vintage Black\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-half-zip-baseball-shirt-vintage-black",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Half Zip Baseball Shirt - Seal\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-half-zip-baseball-shirt-seal",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Flare Sweatpants - Washed Vanilla Heather\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-flare-sweatpants-washed-vanilla-heather",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Fleece Cargo Field Pants - Iron Grey\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-fleece-cargo-field-pants-iron-grey",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Padded Vest - Black\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-padded-vest-black",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Mauve\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-mauve",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Iris\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-iris",
-      "detected_at": "2026-07-21T20:39:57.946938+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro Premium - Light British Tan/Cinnamon\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-premium-light-british-tan-cinnamon",
+      "detected_at": "2026-07-21T21:45:46.050717+00:00"
     }
   ]
 }
