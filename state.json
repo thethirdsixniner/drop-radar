@@ -1,6 +1,31 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286594498688": {
+        "title": "New Balance Made in USA 992 - Pink Chalk / Pink Lemonade / Cherry Leather",
+        "handle": "nbu992pk",
+        "in_stock": true
+      },
+      "8286594465920": {
+        "title": "New Balance Made in UK 991v2 - Mahogany Rose / Silver",
+        "handle": "nbu991rb2",
+        "in_stock": true
+      },
+      "8286594433152": {
+        "title": "New Balance Made in USA 990v4 - Pumpernickel / Pink Chalk / Alabaster",
+        "handle": "nbu990ic4",
+        "in_stock": true
+      },
+      "8286570315904": {
+        "title": "Nike Air Max 95 Big Bubble - Pearl Grey / Light Charcoal",
+        "handle": "nkir0802-100",
+        "in_stock": true
+      },
+      "8285014098048": {
+        "title": "ASICS GEL-KAYANO 14 - Birch / Pure Silver",
+        "handle": "ai1203a537-200",
+        "in_stock": true
+      },
       "8286562975872": {
         "title": "Nike Air Force 1 '07 - White / White / Barely Volt / Black",
         "handle": "nkir1982-100",
@@ -1225,31 +1250,6 @@
         "title": "Kiko Kostadinov Kest Pouch Bag - Palm",
         "handle": "kikkkss26bg04-135",
         "in_stock": true
-      },
-      "8286576607360": {
-        "title": "Jil Sander Shell Blouson Jacket - Navy",
-        "handle": "jilj22sw0122-401",
-        "in_stock": true
-      },
-      "8286576377984": {
-        "title": "Studio Nicholson Marylebone Denim Short - Bleached Wash",
-        "handle": "snlmarylebone1536ble",
-        "in_stock": true
-      },
-      "8286578802816": {
-        "title": "Jil Sander Pleated Wool Trouser - Midnight",
-        "handle": "jilj22ka0381-402",
-        "in_stock": true
-      },
-      "8286576574592": {
-        "title": "Jil Sander Panelled Crewneck Sweater - Nightfall",
-        "handle": "jilj22gp0294-412",
-        "in_stock": true
-      },
-      "8286576509056": {
-        "title": "Jil Sander Loose Lightweight Denim Trouser - Medium Denim",
-        "handle": "jilj22ka0357-476",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -1356,7 +1356,7 @@
       "6702407483653": {
         "title": "NIKE KOBE AIR FORCE 1 LOW - WHITE/ TEAM RED",
         "handle": "nike-kobe-air-force-1-low-white-team-red",
-        "in_stock": false
+        "in_stock": true
       },
       "6701171605765": {
         "title": "NEW BALANCE 1906L - WOODLAND",
@@ -2563,7 +2563,7 @@
       "10792981758219": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-wonder-beige-cream-white-better-scarlet",
-        "in_stock": true
+        "in_stock": false
       },
       "10567370408203": {
         "title": "Adidas Gazelle Indoor W",
@@ -2613,7 +2613,7 @@
       "10855615889675": {
         "title": "Nike\tClub Washed Cap",
         "handle": "nike-club-washed-cap-light-khaki-court-blue-court-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10831356952843": {
         "title": "Adidas Adi365 Spray Dye 2in1 Shorts",
@@ -2693,7 +2693,7 @@
       "10606640529675": {
         "title": "Perplex Core Shorts",
         "handle": "perplex-core-shorts-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10167908663563": {
         "title": "Dime Classic Denim Shorts",
@@ -2703,12 +2703,12 @@
       "10121785180427": {
         "title": "Hiking Patrol Light Technical Jacket",
         "handle": "hiking-patrol-light-technical-jacket-dark-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "9008380215563": {
         "title": "Courreges Football Jersey Longsleeve",
         "handle": "courreges-football-jersey-longsleeve-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "10745633603851": {
         "title": "By Parra Scripted 6 Panel Hat",
@@ -2978,7 +2978,7 @@
       "10169811337483": {
         "title": "CHITO International Stactic Finesse Pup Tee",
         "handle": "chito-international-stactic-finesse-pup-tee-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10148426088715": {
         "title": "Reebok x Botter Reverse Soccer Tee",
@@ -3533,7 +3533,7 @@
       "10817412530443": {
         "title": "Metalwood Mini Metal Logo Thermal Shirt",
         "handle": "metalwood-mini-metal-logo-thermal-shirt-tar",
-        "in_stock": true
+        "in_stock": false
       },
       "10762847617291": {
         "title": "Autry College Check Sweatshirt",
@@ -3543,7 +3543,7 @@
       "10806984966411": {
         "title": "On Ikon Track Jacket",
         "handle": "on-ikon-track-jacket",
-        "in_stock": true
+        "in_stock": false
       },
       "10762966270219": {
         "title": "Autry Trench",
@@ -3583,7 +3583,7 @@
       "10150393938187": {
         "title": "Adidas Samba LT W",
         "handle": "adidas-samba-lt-w-footwear-white-core-black-footwear-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10219879891211": {
         "title": "New Balance WRPD Runner",
@@ -3757,6 +3757,91 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9352513618108": {
+        "title": "Nike Dunk Low Retro 'Donut' - Pink Rise/Velvet Brown",
+        "handle": "nike-dunk-low-retro-donut-pink-rise-velvet-brown",
+        "in_stock": true
+      },
+      "9352454504636": {
+        "title": "Nike Dunk Low Retro 'Varsity' - Metallic Silver/Black",
+        "handle": "nike-dunk-low-retro-varsity-metallic-silver-black",
+        "in_stock": true
+      },
+      "9372620882108": {
+        "title": "Women's Nike Zoom Vomero 5 - Old Royal/Pink Rise",
+        "handle": "womens-nike-zoom-vomero-5-old-royal-pink-rise",
+        "in_stock": true
+      },
+      "9357561823420": {
+        "title": "Nike ReactX Rejuven8 - Volt/Black",
+        "handle": "nike-reactx-rejuven8-volt-black",
+        "in_stock": true
+      },
+      "9373353771196": {
+        "title": "Nike Air Max Moto 2K - Grey Fog/Black",
+        "handle": "nike-air-max-moto-2k-grey-fog-black",
+        "in_stock": true
+      },
+      "9469812310204": {
+        "title": "Godspeed New York OG Logo Slides V2 - Red",
+        "handle": "godspeed-new-york-og-logo-slides-v2-red",
+        "in_stock": true
+      },
+      "9103557591228": {
+        "title": "Saucony Grid Legacy - Silver/Pine",
+        "handle": "saucony-grid-legacy-silver-pine",
+        "in_stock": true
+      },
+      "9365200863420": {
+        "title": "Asics Gel-Kayano 12.1 -Edamame Green/Black",
+        "handle": "asics-gel-kayano-12-1-edamame-green-black",
+        "in_stock": true
+      },
+      "9365192671420": {
+        "title": "Asics Gel-Kayano 12.1 - Dragon Fruit/Black",
+        "handle": "asics-gel-kayano-12-1-dragon-fruit-black",
+        "in_stock": true
+      },
+      "9397653733564": {
+        "title": "Fear Of God Essentials Relaxed Fleece Cutoff Sweatshirt - Washed Seal",
+        "handle": "fear-of-god-essentials-relaxed-fleece-cutoff-sweatshirt-washed-seal",
+        "in_stock": true
+      },
+      "9397647442108": {
+        "title": "Fear Of God Essentials Half Zip Baseball Shirt - Vintage Black",
+        "handle": "fear-of-god-essentials-half-zip-baseball-shirt-vintage-black",
+        "in_stock": true
+      },
+      "9397646983356": {
+        "title": "Fear Of God Essentials Half Zip Baseball Shirt - Seal",
+        "handle": "fear-of-god-essentials-half-zip-baseball-shirt-seal",
+        "in_stock": true
+      },
+      "9397565915324": {
+        "title": "Fear Of God Essentials Flare Sweatpants - Washed Vanilla Heather",
+        "handle": "fear-of-god-essentials-flare-sweatpants-washed-vanilla-heather",
+        "in_stock": true
+      },
+      "9396988412092": {
+        "title": "Fear Of God Essentials Fleece Cargo Field Pants - Iron Grey",
+        "handle": "fear-of-god-essentials-fleece-cargo-field-pants-iron-grey",
+        "in_stock": true
+      },
+      "9280220856508": {
+        "title": "Willy Chavarria x Adidas Padded Vest - Black",
+        "handle": "willy-chavarria-x-adidas-padded-vest-black",
+        "in_stock": true
+      },
+      "9403551318204": {
+        "title": "Politics x '47 20th Anniversary Hitch Snapback - Mauve",
+        "handle": "politics-x-47-20th-anniversary-hitch-snapback-mauve",
+        "in_stock": true
+      },
+      "9403548008636": {
+        "title": "Politics x '47 20th Anniversary Hitch Snapback - Iris",
+        "handle": "politics-x-47-20th-anniversary-hitch-snapback-iris",
+        "in_stock": true
+      },
       "9436827877564": {
         "title": "thisisneverthat x Casio G-Shock 5600 Series Digital Watch - Clear",
         "handle": "thisisneverthat-x-casio-g-shock-5600-series-digital-watch-clear",
@@ -3775,7 +3860,7 @@
       "9363145916604": {
         "title": "Jacquemus x France x Nike Academy Pro Soccer Top - Game Royal/University Red",
         "handle": "jacquemus-x-france-x-nike-academy-pro-soccer-top-game-royal-university-red",
-        "in_stock": true
+        "in_stock": false
       },
       "9403542798524": {
         "title": "Politics x '47 20th Anniversary Hitch Snapback - Bone",
@@ -3826,11 +3911,6 @@
         "title": "Hoka Mafate Speed 4 Lite - Black/Stardust",
         "handle": "hoka-mafate-speed-4-lite-black-stardust",
         "in_stock": true
-      },
-      "9348679172284": {
-        "title": "Travis Scott x Jordan 1 Low OG SP (PS) - Muslin/Shy Pink",
-        "handle": "travis-scott-x-jordan-1-low-og-sp-ps-muslin-shy-pink",
-        "in_stock": false
       },
       "9405428170940": {
         "title": "Hoka Mafate Speed 2 TS - Galactic Grey/Black",
@@ -4090,12 +4170,12 @@
       "9154700050620": {
         "title": "Purple Brand Cities Tee - Brown",
         "handle": "purple-brand-cities-tee-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "9126513213628": {
         "title": "Asics Gel-1130 - Cream/Mahogany",
         "handle": "asics-gel-1130-cream-mahogany",
-        "in_stock": true
+        "in_stock": false
       },
       "8468656914620": {
         "title": "A Bathing Ape Bape Sta #1 M2 - Blue/Pink",
@@ -4702,11 +4782,6 @@
         "handle": "nike-air-griffey-max-1-hbcu-swingman-classic-midnight-navy-team-gold",
         "in_stock": true
       },
-      "9262068564156": {
-        "title": "BEAMS x Timberland 6\" Buckle GORE-TEX Boot - Wheat",
-        "handle": "beams-x-timberland-6-buckle-gore-tex-boot-wheat",
-        "in_stock": false
-      },
       "9341184868540": {
         "title": "Billionaire Boys Club Miami Knit Baseball Tee - Whisper White",
         "handle": "billionaire-boys-club-miami-knit-baseball-tee-whisper-white",
@@ -4930,81 +5005,6 @@
       "9341351559356": {
         "title": "Pleasures On Film Tee - White",
         "handle": "pleasures-on-film-tee-white",
-        "in_stock": true
-      },
-      "9341351133372": {
-        "title": "Pleasures On Film Tee - Black",
-        "handle": "pleasures-on-film-tee-black",
-        "in_stock": true
-      },
-      "9341361553596": {
-        "title": "Pleasures Animals Tee - White",
-        "handle": "pleasures-animals-tee-white",
-        "in_stock": true
-      },
-      "9341350805692": {
-        "title": "Pleasures Hole V-Neck Jersey - Blue",
-        "handle": "pleasures-hole-v-neck-jersey-blue",
-        "in_stock": true
-      },
-      "9341362897084": {
-        "title": "Pleasures Atmosphere Snapback - Black",
-        "handle": "pleasures-atmosphere-snapback-black",
-        "in_stock": true
-      },
-      "9286329434300": {
-        "title": "Born x Raised The Town Snapback - Black",
-        "handle": "born-x-raised-the-town-snapback-black",
-        "in_stock": true
-      },
-      "9407051235516": {
-        "title": "Nike Air Force 1 Retro 'Patent Denim' - Coastal Blue/Coastal",
-        "handle": "nike-air-force-1-retro-coastal-blue-coastal",
-        "in_stock": true
-      },
-      "9397876392124": {
-        "title": "Politics x '47 Alternate Script Logo Hitch Snapback - Sandalwood",
-        "handle": "politics-x-47-alternate-script-logo-hitch-snapback-sandalwood",
-        "in_stock": true
-      },
-      "9397876261052": {
-        "title": "Politics x '47 Alternate Script Logo Hitch Snapback - Navy",
-        "handle": "politics-x-47-alternate-script-logo-hitch-snapback-navy",
-        "in_stock": true
-      },
-      "9397875540156": {
-        "title": "Politics x '47 Alternate Script Logo Hitch Snapback - Burnt Orange",
-        "handle": "politics-x-47-alternate-script-logo-hitch-snapback-burnt-orange",
-        "in_stock": true
-      },
-      "9397876031676": {
-        "title": "Politics x '47 Alternate Script Logo Hitch Snapback - Brown",
-        "handle": "politics-x-47-alternate-script-logo-hitch-snapback-brown",
-        "in_stock": true
-      },
-      "8943178416316": {
-        "title": "Politics x '47 Alternate Script Logo Hitch Snapback - Black",
-        "handle": "politics-x-47-alternate-script-logo-hitch-snapback-black",
-        "in_stock": true
-      },
-      "9337783746748": {
-        "title": "Politics Acadiana Sunglasses - Clear/Blue",
-        "handle": "politics-acadiana-sunglasses-clear-blue",
-        "in_stock": true
-      },
-      "9337783550140": {
-        "title": "Politics Acadiana Sunglasses - Black/Black",
-        "handle": "politics-acadiana-sunglasses-black-black-1",
-        "in_stock": true
-      },
-      "9337785188540": {
-        "title": "Politics Acadiana Sunglasses - Tortoise/Yellow",
-        "handle": "politics-acadiana-sunglasses-tortoise-yellow",
-        "in_stock": true
-      },
-      "9325532971196": {
-        "title": "Asics Gel-NYC - White/Roasted Coffee",
-        "handle": "asics-gel-nyc-white-roasted-coffee",
         "in_stock": true
       }
     },
@@ -8768,120 +8768,96 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike Air Force 1 '07 - White / White / Barely Volt / Black\nhttps://kith.com/products/nkir1982-100",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance Made in USA 992 - Pink Chalk / Pink Lemonade / Cherry Leather\nhttps://kith.com/products/nbu992pk",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Clarks Alixea Walk\nhttps://www.asphaltgold.de/products/clarks-alixea-walk-brown",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance Made in UK 991v2 - Mahogany Rose / Silver\nhttps://kith.com/products/nbu991rb2",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba ST\nhttps://www.asphaltgold.de/products/adidas-samba-st-grey-two-footwear-white-cream-white",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance Made in USA 990v4 - Pumpernickel / Pink Chalk / Alabaster\nhttps://kith.com/products/nbu990ic4",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tMiler Dri-Fit 1/2-Zip Running Top\nhttps://www.asphaltgold.de/products/nikemiler-drifit-12zip-running-top-black-reflective-silver",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Kith: Nike Air Max 95 Big Bubble - Pearl Grey / Light Charcoal\nhttps://kith.com/products/nkir0802-100",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Timberland Stormbuck Waterproof\nhttps://www.asphaltgold.de/products/timberland-stormbuck-waterproof-black",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Kith: ASICS GEL-KAYANO 14 - Birch / Pure Silver\nhttps://kith.com/products/ai1203a537-200",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-driftwood",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🔥 **Restock** at Undefeated: NIKE KOBE AIR FORCE 1 LOW - WHITE/ TEAM RED\nhttps://undefeated.com/products/nike-kobe-air-force-1-low-white-team-red",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance U1954\nhttps://www.asphaltgold.de/products/new-balance-u1954-slate-grey",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro 'Donut' - Pink Rise/Velvet Brown\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-donut-pink-rise-velvet-brown",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Timberland Heritage Mid Lace Up *Gore-Tex* Boot\nhttps://www.asphaltgold.de/products/timberland-heritage-mid-lace-up-goretex-boot-black",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro 'Varsity' - Metallic Silver/Black\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-varsity-metallic-silver-black",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: New Balance U1906LAE\nhttps://www.asphaltgold.de/products/new-balance-u1906lae-magnet",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Zoom Vomero 5 - Old Royal/Pink Rise\nhttps://sneakerpolitics.com/products/womens-nike-zoom-vomero-5-old-royal-pink-rise",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: thisisneverthat x Casio G-Shock 5600 Series Digital Watch - Clear\nhttps://sneakerpolitics.com/products/thisisneverthat-x-casio-g-shock-5600-series-digital-watch-clear",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike ReactX Rejuven8 - Volt/Black\nhttps://sneakerpolitics.com/products/nike-reactx-rejuven8-volt-black",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro - Medium Olive/Sequoia\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-medium-olive-sequoia",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Moto 2K - Grey Fog/Black\nhttps://sneakerpolitics.com/products/nike-air-max-moto-2k-grey-fog-black",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf Punch Shot Tee - Green\nhttps://sneakerpolitics.com/products/malbon-golf-punch-shot-tee-green",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York OG Logo Slides V2 - Red\nhttps://sneakerpolitics.com/products/godspeed-new-york-og-logo-slides-v2-red",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: New Balance 204V\nhttps://www.afew-store.com/products/new-balance-204v-fan-blue-vintage-indigo-black",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Saucony Grid Legacy - Silver/Pine\nhttps://sneakerpolitics.com/products/saucony-grid-legacy-silver-pine",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: New Balance 204V\nhttps://www.afew-store.com/products/new-balance-204v-neo-flame-black-black-cement",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 -Edamame Green/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-edamame-green-black",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: New Balance 204L\nhttps://www.afew-store.com/products/new-balance-204l-grey-matter-silver",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 - Dragon Fruit/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-dragon-fruit-black",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: New Balance 1954R\nhttps://www.afew-store.com/products/new-balance-1954r-slate-grey-castlerock",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Relaxed Fleece Cutoff Sweatshirt - Washed Seal\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-relaxed-fleece-cutoff-sweatshirt-washed-seal",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)\nhttps://www.afew-store.com/products/birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-dark-tea-black",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Half Zip Baseball Shirt - Vintage Black\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-half-zip-baseball-shirt-vintage-black",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)\nhttps://www.afew-store.com/products/birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-gray-taupe",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Half Zip Baseball Shirt - Seal\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-half-zip-baseball-shirt-seal",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Karhu Fusion 2.0\nhttps://www.afew-store.com/products/karhu-fusion-2-0-blanc-de-blanc-hematite",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Flare Sweatpants - Washed Vanilla Heather\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-flare-sweatpants-washed-vanilla-heather",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Converse x GOLF le FLEUR* Jogger\nhttps://www.afew-store.com/products/converse-jogger-white-white-vanilla-custard",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Fleece Cargo Field Pants - Iron Grey\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-fleece-cargo-field-pants-iron-grey",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Converse x GOLF le FLEUR* PRO LEATHER\nhttps://www.afew-store.com/products/converse-pro-leather-amazon-banana-crepe-lavendar",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Padded Vest - Black\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-padded-vest-black",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: The North Face GLACIER FLEECE 1/4 ZIP JACKET\nhttps://www.afew-store.com/products/the-north-face-m-glcr-flc-1-4-zip-jkt-summit-navy",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Mauve\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-mauve",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: The North Face GLACIER FLEECE 1/4 ZIP JACKET\nhttps://www.afew-store.com/products/the-north-face-glacier-fleece-1-4-zip-jacket-tnf-black",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Converse x GOLF le FLEUR* Jogger\nhttps://www.afew-store.com/products/converse-jogger-black-bison-pristine",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Lacoste TURTLENECK SWEATER\nhttps://www.afew-store.com/products/lacoste-turtleneck-sweater-black",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Lacoste CREWNECKS SWEATER\nhttps://www.afew-store.com/products/lacoste-crewnecks-sweater-navy-blue-green",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Lacoste TURTLENECK SWEATER\nhttps://www.afew-store.com/products/lacoste-turtleneck-sweater-navy-blue",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: P-6000 Sneakers Metallic Silver / Sail / Black\nhttps://www.slamjam.com/products/nike-footwear-nike-p-6000-shoes-black-j334879",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Vomero Premium Sneakers White / Black / Bright Crimson / Photon Dust\nhttps://www.slamjam.com/products/nike-footwear-nike-vomero-premium-multicolor-j336144",
-      "detected_at": "2026-07-21T15:55:37.474799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Iris\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-iris",
+      "detected_at": "2026-07-21T20:39:57.946938+00:00"
     }
   ]
 }
