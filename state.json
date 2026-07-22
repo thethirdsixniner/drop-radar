@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11008003801355": {
+        "title": "Carhartt WIP Oakland Pant",
+        "handle": "carhartt-wip-oakland-pant-blue-worn-used-wash",
+        "in_stock": true
+      },
       "10993489576203": {
         "title": "Adidas\tManchester United Originals Graphic Tee",
         "handle": "adidasmanchester-united-originals-graphic-tee-carbon",
@@ -2623,7 +2628,7 @@
       "10736894279947": {
         "title": "Autry Medalist W *Glitter Leather*",
         "handle": "autry-medalist-w-glitter-leather-white-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10744514445579": {
         "title": "Gramicci Loose Tapered Ridge Pant",
@@ -3128,7 +3133,7 @@
       "10662892863755": {
         "title": "Vans OTW Utility Field Pant",
         "handle": "vans-otw-utility-field-pant-incense",
-        "in_stock": true
+        "in_stock": false
       },
       "10667719033099": {
         "title": "HAY Weekend Bag Medium",
@@ -3293,7 +3298,7 @@
       "10793687089419": {
         "title": "Adidas Consortium T-Shirt",
         "handle": "adidas-consortium-tshirt-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10727157301515": {
         "title": "Nike\tSolo Swoosh Fleece Crewneck",
@@ -3378,7 +3383,7 @@
       "10676331938059": {
         "title": "HAL Studios Studio T-Shirt",
         "handle": "hal-studios-studio-t-shirt-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10676289208587": {
         "title": "HAL Studios HSDT Padded Vest",
@@ -3748,11 +3753,6 @@
       "10219879891211": {
         "title": "New Balance WRPD Runner",
         "handle": "new-balance-wrpd-runner-sea-salt",
-        "in_stock": true
-      },
-      "10539331649803": {
-        "title": "Autry Reelwind Low *Suede / Net*",
-        "handle": "autry-reelwind-low-suede-net-blue-koi",
         "in_stock": true
       }
     },
@@ -7359,7 +7359,7 @@
       "10559606489354": {
         "title": "Arte Antwerp Emblem T-shirt",
         "handle": "arte-antwerp-emblem-t-shirt-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10559605014794": {
         "title": "Arte Antwerp Single Use T-shirt",
@@ -7514,6 +7514,76 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9103956738253": {
+        "title": "Men's ACG 'Wolf Tree' Fleece Crewneck Sweatshirt Black / Anthracite",
+        "handle": "nike-clothing-acg-wolf-tree-crew-multicolor-j337084",
+        "in_stock": false
+      },
+      "9104596533453": {
+        "title": "T.W.O. Boots-Folk Black",
+        "handle": "visvim-footwear-t-w-o-boots-folk-brown-j328769",
+        "in_stock": false
+      },
+      "9082801881293": {
+        "title": "Men's Smooth Jersey Stuntman & Woman Baggy Track Pants Black",
+        "handle": "kapital-clothing-smooth-jersey-stantman-woman-baggy-track-pants-black-j338142",
+        "in_stock": false
+      },
+      "9106787795149": {
+        "title": "Basic Stock Thermal Longsleeve T-Shirt Bone",
+        "handle": "stussy-clothing-raglan-thermal-basic-stock-white-j356091",
+        "in_stock": false
+      },
+      "9104743825613": {
+        "title": "Men's Lio UPF 50+ Baselayer Moth Print Long Sleeve Hoodie Brown",
+        "handle": "roa-clothing-lio-upf-plus-50-baselayer-moth-print-long-sleeve-hoodie-brown-j325401",
+        "in_stock": false
+      },
+      "9096566538445": {
+        "title": "CRW-001G-9ER Ringwatch Gold",
+        "handle": "g-shock-accessories-crw-001g-9er-yellow-j350205",
+        "in_stock": false
+      },
+      "9095312736461": {
+        "title": "Inner Logo Socks Dark Blue / White",
+        "handle": "mental-athletic-clothing-mental-athletic-socks-blue-j338090",
+        "in_stock": false
+      },
+      "9100456132813": {
+        "title": "Summit Series Verto SA GORE-TEX Boots Black",
+        "handle": "the-north-face-footwear-wmns-summit-verto-sa-gore-tex-blackout-black-j341036",
+        "in_stock": false
+      },
+      "9097995059405": {
+        "title": "Club Structured OG Flame Cap Black",
+        "handle": "nike-accessories-nike-club-structured-og-flame-cap-multicolor-j337154",
+        "in_stock": false
+      },
+      "9101847036109": {
+        "title": "Men's Ezra Pocket T-Shirt Black / Wax",
+        "handle": "carhartt-wip-clothing-ss-ezra-pocket-t-shirt-multicolor-j345651",
+        "in_stock": false
+      },
+      "9056203079885": {
+        "title": "Men's Carlson Cut Jeans Rodeo Wash",
+        "handle": "our-legacy-clothing-carlson-cut-blue-j322565",
+        "in_stock": false
+      },
+      "9023678152909": {
+        "title": "Men's Teamgeist Adicolor Track Top Black / Signal Green",
+        "handle": "adidas-clothing-teamgeist-tt-black-j328173",
+        "in_stock": false
+      },
+      "9056437534925": {
+        "title": "Pegasus Premium Sneakers Black / White",
+        "handle": "nike-footwear-pegasus-premium-sp-black-j331308",
+        "in_stock": false
+      },
+      "9095312703693": {
+        "title": "Inner Logo Socks White / Fluo Blue",
+        "handle": "mental-athletic-clothing-mental-athletic-socks-white-j338091",
+        "in_stock": false
+      },
       "9123337535693": {
         "title": "Air Jordan 4 'Comic' Sneakers Off White / Fire Pink",
         "handle": "nike-jordan-footwear-air-jordan-4-retro-white-j367521",
@@ -8057,7 +8127,7 @@
       "9122711961805": {
         "title": "Oklou Tracks Headphones Grey / Light Blue",
         "handle": "aiaiai-lifestyle-tracks-usb-c-oklou-edition-grey-j367550",
-        "in_stock": true
+        "in_stock": false
       },
       "9050663911629": {
         "title": "Men's Cloudsurfer Max Sneakers Black / Eclipse",
@@ -8693,99 +8763,17 @@
         "title": "XT-10 Backpack Black",
         "handle": "salomon-accessories-xt-10-black-j366232",
         "in_stock": true
-      },
-      "9122169061581": {
-        "title": "XT-6 GORE-TEX Sneakers Black / Asphalt",
-        "handle": "salomon-footwear-shoes-xt-6-gtx-black-j366206",
-        "in_stock": true
-      },
-      "9122169028813": {
-        "title": "Deviate NITRO 4 Sneakers Buttercream / Inky Depths",
-        "handle": "puma-footwear-deviate-nitro-4-brown-j363727",
-        "in_stock": true
-      },
-      "9122168996045": {
-        "title": "Deviate NITRO 4 Sneakers Slate Sky / Moody Gray",
-        "handle": "puma-footwear-deviate-nitro-4-blue-j363726",
-        "in_stock": true
-      },
-      "9122168963277": {
-        "title": "Deviate NITRO 4 Sneakers Soft Grass / Créme De Mint",
-        "handle": "puma-footwear-deviate-nitro-4-green-j363725",
-        "in_stock": true
-      },
-      "9122168930509": {
-        "title": "Women's Stan Smith 80s Sneakers Cloud White / Green",
-        "handle": "adidas-footwear-wmns-stan-smith-80s-w-white-j362533",
-        "in_stock": true
-      },
-      "9109102821581": {
-        "title": "Made in UK 991v2 Sneakers Limoges / Pageant Blue",
-        "handle": "new-balance-footwear-u991vb2-blue-j353212",
-        "in_stock": true
-      },
-      "9121747599565": {
-        "title": "Men's Ghost Stretch Cotton Fleece Crewneck Sweatshirt Black",
-        "handle": "stone-island-clothing-sweatshirt-black-j362191",
-        "in_stock": true
-      },
-      "9121747665101": {
-        "title": "Men's Ghost Nylon Smerigliato Short Parka Black",
-        "handle": "stone-island-clothing-short-parka-black-j362203",
-        "in_stock": true
-      },
-      "9121747632333": {
-        "title": "Men's Ghost Light Pure RWS Wool Crewneck Sweater Black",
-        "handle": "stone-island-clothing-crew-neck-black-j362175",
-        "in_stock": true
-      },
-      "9121344880845": {
-        "title": "Air Jordan 3 'BIN 23' Sneakers Team Red / Burgundy Crush",
-        "handle": "nike-jordan-footwear-air-jordan-3-retro-og-prm-red-j352453",
-        "in_stock": false
-      },
-      "9121746157773": {
-        "title": "XT-6 Sneakers Pearl Blue / Grisaille / Vanilla Ice",
-        "handle": "salomon-footwear-shoes-xt-6-pearl-blue-j366208",
-        "in_stock": true
-      },
-      "9121746190541": {
-        "title": "XT-6 Sneakers Walnut / Maritime Blue / Huckleberry",
-        "handle": "salomon-footwear-shoes-xt-6-brown-j366203",
-        "in_stock": true
-      },
-      "9121746223309": {
-        "title": "Tepiaz Advanced Sneakers Earth Brown / Black / Cloudburst",
-        "handle": "salomon-footwear-shoes-tepiaz-advanced-multicolor-j366201",
-        "in_stock": true
-      },
-      "9121746092237": {
-        "title": "XT-Whisper Sneakers Vanilla Ice / White / Grisaille",
-        "handle": "salomon-footwear-shoes-xt-whisper-yellow-j366205",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tManchester United Originals Graphic Tee\nhttps://www.asphaltgold.de/products/adidasmanchester-united-originals-graphic-tee-carbon",
-      "detected_at": "2026-07-22T09:16:04.957286+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Oakland Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-oakland-pant-blue-worn-used-wash",
+      "detected_at": "2026-07-22T11:25:28.013121+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Active Jacket\nhttps://www.afew-store.com/products/carhartt-wip-active-jacket-hamilton-brown-rigid",
-      "detected_at": "2026-07-22T09:16:04.957286+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Oklou Tracks Headphones Grey / Light Blue\nhttps://www.slamjam.com/products/aiaiai-lifestyle-tracks-usb-c-oklou-edition-grey-j367550",
-      "detected_at": "2026-07-22T09:16:04.957286+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: A$AP Rocky Suede 94 Sneakers Black / White\nhttps://www.slamjam.com/products/puma-footwear-a-ap-rocky-x-puma-suede-94-black-j363735",
-      "detected_at": "2026-07-22T09:16:04.957286+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Air Jordan 8 Sneakers Black Chrome\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-8-retro-black-j365623",
-      "detected_at": "2026-07-22T09:16:04.957286+00:00"
+      "message": "🔥 **Restock** at Afew Store: Arte Antwerp Emblem T-shirt\nhttps://www.afew-store.com/products/arte-antwerp-emblem-t-shirt-black",
+      "detected_at": "2026-07-22T11:25:28.013121+00:00"
     }
   ]
 }
