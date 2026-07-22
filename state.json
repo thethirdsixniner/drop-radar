@@ -659,7 +659,7 @@
       "8286589714560": {
         "title": "Pennon Concho Duck Boot - Noir",
         "handle": "pnn256-02-cono",
-        "in_stock": false
+        "in_stock": true
       },
       "8286589583488": {
         "title": "G.H. Bass Larson Weejuns® Penny Loafer - Tan Multi",
@@ -669,7 +669,7 @@
       "8286589288576": {
         "title": "Pennon High Boots Low - Brown Suede",
         "handle": "pnn241-09-lobr",
-        "in_stock": false
+        "in_stock": true
       },
       "8286589190272": {
         "title": "G.H. Bass Larson Lug Weejuns® Penny Loafer - Wine",
@@ -689,12 +689,12 @@
       "8286588633216": {
         "title": "Pennon High Boots Low Wingtip - Black",
         "handle": "pnn256-09-wtbk",
-        "in_stock": false
+        "in_stock": true
       },
       "8286588600448": {
         "title": "Pennon Concho Duck Boot - Rodeo",
         "handle": "pnn256-02-coro",
-        "in_stock": false
+        "in_stock": true
       },
       "8286588403840": {
         "title": "VANS TD Old Skool V - Check Camo Black / Light Grey",
@@ -2863,7 +2863,7 @@
       "10754359394571": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-bottle-rutabaga",
-        "in_stock": true
+        "in_stock": false
       },
       "10844325347595": {
         "title": "The North Face Red Box Large Tote Bag",
@@ -2953,7 +2953,7 @@
       "10745633603851": {
         "title": "By Parra Scripted 6 Panel Hat",
         "handle": "by-parra-scripted-6-panel-hat-navy-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10676323844363": {
         "title": "AMI Paris\tAmi De Coeur T-Shirt",
@@ -8768,16 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE X PALACE ENG PREMIUM TEE - LIGHT CRIMSON\nhttps://undefeated.com/products/nike-x-palace-eng-premium-tee-light-crimson",
-      "detected_at": "2026-07-22T19:48:19.687154+00:00"
+      "message": "🔥 **Restock** at Kith: Pennon Concho Duck Boot - Noir\nhttps://kith.com/products/pnn256-02-cono",
+      "detected_at": "2026-07-22T21:17:25.704497+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Oral Mesh Shirt - Black\nhttps://sneakerpolitics.com/products/pleasures-oral-mesh-shirt-black",
-      "detected_at": "2026-07-22T19:48:19.687154+00:00"
+      "message": "🔥 **Restock** at Kith: Pennon High Boots Low - Brown Suede\nhttps://kith.com/products/pnn241-09-lobr",
+      "detected_at": "2026-07-22T21:17:25.704497+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: XT-6 GORE-TEX Sneakers Black / Asphalt\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-6-gtx-black-j366206",
-      "detected_at": "2026-07-22T19:48:19.687154+00:00"
+      "message": "🔥 **Restock** at Kith: Pennon High Boots Low Wingtip - Black\nhttps://kith.com/products/pnn256-09-wtbk",
+      "detected_at": "2026-07-22T21:17:25.704497+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Pennon Concho Duck Boot - Rodeo\nhttps://kith.com/products/pnn256-02-coro",
+      "detected_at": "2026-07-22T21:17:25.704497+00:00"
     }
   ]
 }
