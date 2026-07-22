@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286594531456": {
+        "title": "Pennon High Boots Low - Dark Brown",
+        "handle": "pnn241-09-lodk",
+        "in_stock": true
+      },
       "8286573199488": {
         "title": "St. Agni Carpenter Jean - Dark Indigo",
         "handle": "agnw26-29274dind",
@@ -1244,11 +1249,6 @@
       "8286582374528": {
         "title": "Blundstone Aerocork #2688 Clog - Deepest Brown",
         "handle": "bl2688",
-        "in_stock": true
-      },
-      "8286582341760": {
-        "title": "Jordan PS Jordan 4 Retro - Sweet Beet / Off Noir / Chalk / Desert Pink",
-        "handle": "jbio2831-600",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8790241542332": {
+        "title": "Godspeed New York Courtside Shorts - Black",
+        "handle": "godspeed-new-york-courtside-shorts-black",
+        "in_stock": true
+      },
       "9341187031228": {
         "title": "Nike ACG Smith Summit Cargo Shorts - Black/Anthracite",
         "handle": "nike-acg-smith-summit-cargo-shorts-black-anthracite",
@@ -4237,11 +4242,6 @@
         "handle": "nike-air-max-95-og-premium-infrared-anthracite-solar-red",
         "in_stock": true
       },
-      "9154700050620": {
-        "title": "Purple Brand Cities Tee - Brown",
-        "handle": "purple-brand-cities-tee-brown",
-        "in_stock": false
-      },
       "9126513213628": {
         "title": "Asics Gel-1130 - Cream/Mahogany",
         "handle": "asics-gel-1130-cream-mahogany",
@@ -4535,7 +4535,7 @@
       "9160476623036": {
         "title": "Stussy S Box Tee - White",
         "handle": "stussy-s-box-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9160467218620": {
         "title": "Stussy S Box Tee - Black",
@@ -8768,64 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: St. Agni Carpenter Jean - Dark Indigo\nhttps://kith.com/products/agnw26-29274dind",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
+      "message": "🆕 **New drop** at Kith: Pennon High Boots Low - Dark Brown\nhttps://kith.com/products/pnn241-09-lodk",
+      "detected_at": "2026-07-22T18:13:58.181109+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE MOON SHOE OG - MIDNIGHT NAVY/ SAIL\nhttps://undefeated.com/products/nike-moon-shoe-og-midnight-navy-sail",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE MOON SHOE OG - SAIL/ BLACK\nhttps://undefeated.com/products/nike-moon-shoe-og-sail-black",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE MOON SHOE OG - CACAO WOW/ SAIL\nhttps://undefeated.com/products/nike-moon-shoe-og-cacao-wow-sail",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 RETRO - COASTAL BLUE/ NATURAL\nhttps://undefeated.com/products/nike-air-force-1-retro-coastal-blue-natural",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE WMNS PEGASUS PREMIUM - BLACK/ METALLIC SILVER\nhttps://undefeated.com/products/nike-wmns-pegasus-premium-black-metallic-silver",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM AUTHENTIC 44 - BEADED CHECKERBOARD\nhttps://undefeated.com/products/vans-premium-authentic-44-beaded-checkerboard",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: ASICS GEL-CUMULUS 16 - BLACK\nhttps://undefeated.com/products/asics-gel-cumulus-16-black-1",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 - DESERT MOSS/ FIERCE PINK\nhttps://undefeated.com/products/nike-air-force-1-desert-moss-fierce-pink",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE SB DUNK LOW PRO - BAROQUE BROWN/ ADOBE/ MIDNIGHT NAVY\nhttps://undefeated.com/products/nike-sb-dunk-low-pro-baroque-brown-adobe-midnight-navy",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: ASICS GEL-1130 - WHITE/ CLAY CANYON\nhttps://undefeated.com/products/asics-gel-1130-white-claycanyon",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE X JACQUEMUS FR ANTHEM JACKET - WHITE\nhttps://undefeated.com/products/nike-x-jacquemus-fr-anthem-jacket-white",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: ADIDAS X BRAIN DEAD LS JERSEY -  RED/ BGREEN/ BLUE\nhttps://undefeated.com/products/adidas-x-brain-dead-ls-jersey-red-bgreen-blue",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike ACG Smith Summit Cargo Shorts - Black/Anthracite\nhttps://sneakerpolitics.com/products/nike-acg-smith-summit-cargo-shorts-black-anthracite",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's ACG Radical AirFlow NXT Dri-FIT Longsleeve Trail Running Top White\nhttps://www.slamjam.com/products/nike-clothing-m-acg-df-ra-nxt-ls-white-j352555",
-      "detected_at": "2026-07-22T16:56:30.865474+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Courtside Shorts - Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-courtside-shorts-black",
+      "detected_at": "2026-07-22T18:13:58.181109+00:00"
     }
   ]
 }
