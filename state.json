@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702599602437": {
+        "title": "NIKE X PALACE ENG PREMIUM TEE - LIGHT CRIMSON",
+        "handle": "nike-x-palace-eng-premium-tee-light-crimson",
+        "in_stock": true
+      },
       "6701635272965": {
         "title": "NEW BALANCE ABZORB 2000 - IRIDESCENT/ BLACK",
         "handle": "new-balance-abzorb-2000-iridescent-black",
@@ -2421,7 +2426,7 @@
       "4467212386377": {
         "title": "BAPE 1ST CAMO MILITARY SHOULDER BAG",
         "handle": "bape-1st-camo-military-shoulder-bag",
-        "in_stock": true
+        "in_stock": false
       },
       "6702623817989": {
         "title": "NIKE AIR FORCE 1 '07 - WHITE/ METALLIC SILVER",
@@ -2496,11 +2501,6 @@
       "6702598881541": {
         "title": "NIKE X JACQUEMUS FR ANTHEM JACKET - WHITE",
         "handle": "nike-x-jacquemus-fr-anthem-jacket-white",
-        "in_stock": true
-      },
-      "6702614577413": {
-        "title": "ADIDAS X BRAIN DEAD LS JERSEY -  RED/ BGREEN/ BLUE",
-        "handle": "adidas-x-brain-dead-ls-jersey-red-bgreen-blue",
         "in_stock": true
       }
     },
@@ -2613,7 +2613,7 @@
       "10795501715723": {
         "title": "Carhartt WIP Clover Cap",
         "handle": "carhartt-wip-clover-cap-wax-palisander",
-        "in_stock": true
+        "in_stock": false
       },
       "10716185297163": {
         "title": "Asics GEL-DS Trainer 14",
@@ -3468,7 +3468,7 @@
       "10657520288011": {
         "title": "Asics GEL-Cumulus 16",
         "handle": "asics-gelcumulus-16-cream-clay-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10762892771595": {
         "title": "Autry College Check Sweatshirt",
@@ -3498,7 +3498,7 @@
       "10168027808011": {
         "title": "Nike Air Pegasus 2005",
         "handle": "nike-air-pegasus-2005-phantom-ironstone-college-grey-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10122174988555": {
         "title": "Adidas Tokyo W",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9470933336252": {
+        "title": "Off-White Politics Store Tee - Black",
+        "handle": "off-white-politics-store-tee-black",
+        "in_stock": false
+      },
       "8790241542332": {
         "title": "Godspeed New York Courtside Shorts - Black",
         "handle": "godspeed-new-york-courtside-shorts-black",
@@ -3930,11 +3935,6 @@
       "8702532059324": {
         "title": "Malbon Golf Punch Shot Tee - Green",
         "handle": "malbon-golf-punch-shot-tee-green",
-        "in_stock": false
-      },
-      "9363145916604": {
-        "title": "Jacquemus x France x Nike Academy Pro Soccer Top - Game Royal/University Red",
-        "handle": "jacquemus-x-france-x-nike-academy-pro-soccer-top-game-royal-university-red",
         "in_stock": false
       },
       "9403542798524": {
@@ -4241,11 +4241,6 @@
         "title": "Nike Air Max 95 OG Premium 'Infrared' - Anthracite/Solar Red",
         "handle": "nike-air-max-95-og-premium-infrared-anthracite-solar-red",
         "in_stock": true
-      },
-      "9126513213628": {
-        "title": "Asics Gel-1130 - Cream/Mahogany",
-        "handle": "asics-gel-1130-cream-mahogany",
-        "in_stock": false
       },
       "9274294370492": {
         "title": "Air Jordan 6 Retro 'Cap And Gown' - Black/Reflect Silver",
@@ -5005,6 +5000,11 @@
       "9391902982332": {
         "title": "Crocs Ripple - Steel/Moonlight",
         "handle": "crocs-ripple-steel-moonlight",
+        "in_stock": true
+      },
+      "9342087430332": {
+        "title": "Pleasures Oral Mesh Shirt - Black",
+        "handle": "pleasures-oral-mesh-shirt-black",
         "in_stock": true
       }
     },
@@ -7769,11 +7769,6 @@
         "handle": "demon-footwear-dalmara-suede-brown-brown-j356128",
         "in_stock": true
       },
-      "9100191137997": {
-        "title": "Shin Loafers Black",
-        "handle": "_j-l-a-l_-footwear-shin-loafer-black-j326829",
-        "in_stock": false
-      },
       "8983011786957": {
         "title": "Men's Palaeo Shirt Azure Stripe",
         "handle": "_j-l-a-l_-clothing-palaeo-shirt-blue-j300593",
@@ -8763,17 +8758,26 @@
         "title": "XT-10 Backpack Black",
         "handle": "salomon-accessories-xt-10-black-j366232",
         "in_stock": true
+      },
+      "9122169061581": {
+        "title": "XT-6 GORE-TEX Sneakers Black / Asphalt",
+        "handle": "salomon-footwear-shoes-xt-6-gtx-black-j366206",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Pennon High Boots Low - Dark Brown\nhttps://kith.com/products/pnn241-09-lodk",
-      "detected_at": "2026-07-22T18:13:58.181109+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE X PALACE ENG PREMIUM TEE - LIGHT CRIMSON\nhttps://undefeated.com/products/nike-x-palace-eng-premium-tee-light-crimson",
+      "detected_at": "2026-07-22T19:48:19.687154+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Courtside Shorts - Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-courtside-shorts-black",
-      "detected_at": "2026-07-22T18:13:58.181109+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Oral Mesh Shirt - Black\nhttps://sneakerpolitics.com/products/pleasures-oral-mesh-shirt-black",
+      "detected_at": "2026-07-22T19:48:19.687154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: XT-6 GORE-TEX Sneakers Black / Asphalt\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-6-gtx-black-j366206",
+      "detected_at": "2026-07-22T19:48:19.687154+00:00"
     }
   ]
 }
