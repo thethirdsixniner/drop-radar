@@ -2588,7 +2588,7 @@
       "10857765372171": {
         "title": "Nike Club 3/4-Sleeve Raglan Top",
         "handle": "nike-club-34sleeve-raglan-top-black-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10817472364811": {
         "title": "Sunflower Front Logo Tee",
@@ -2763,7 +2763,7 @@
       "10174347608331": {
         "title": "Metalwood Textured Caddie Shirt",
         "handle": "metalwood-textured-caddie-shirt-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10644382875915": {
         "title": "Perplex Two-Way Zip Hoodie",
@@ -3128,7 +3128,7 @@
       "10216687173899": {
         "title": "Adidas SL 72 RS",
         "handle": "adidas-sl-72-rs-cloud-white-aurora-ivy-crystal-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10662892863755": {
         "title": "Vans OTW Utility Field Pant",
@@ -3393,7 +3393,7 @@
       "10167634886923": {
         "title": "Dime Pleated Twill Pants",
         "handle": "dime-pleated-twill-pants-camel",
-        "in_stock": true
+        "in_stock": false
       },
       "8443029422347": {
         "title": "Lacoste Light Quick Dry Swim Shorts",
@@ -5277,7 +5277,7 @@
       "15038388568440": {
         "title": "Formes Mini Porto Abyss",
         "handle": "mini-porto-abyss",
-        "in_stock": false
+        "in_stock": true
       },
       "15038388535672": {
         "title": "Formes Mini Adapt Verdal",
@@ -5287,7 +5287,7 @@
       "15038388502904": {
         "title": "Formes Classic Wallet Nero",
         "handle": "classic-wallet-nero",
-        "in_stock": false
+        "in_stock": true
       },
       "15038388470136": {
         "title": "Formes Porto Sling Abyss",
@@ -5327,7 +5327,7 @@
       "15038388240760": {
         "title": "Formes Porto Duffle Magna",
         "handle": "porto-duffle-magna",
-        "in_stock": false
+        "in_stock": true
       },
       "15038388207992": {
         "title": "Formes Tecnica Magna",
@@ -8768,12 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Oakland Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-oakland-pant-blue-worn-used-wash",
-      "detected_at": "2026-07-22T11:25:28.013121+00:00"
+      "message": "🔥 **Restock** at Kick Game: Formes Mini Porto Abyss\nhttps://www.kickgame.co.uk/products/mini-porto-abyss",
+      "detected_at": "2026-07-22T13:00:42.878841+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Arte Antwerp Emblem T-shirt\nhttps://www.afew-store.com/products/arte-antwerp-emblem-t-shirt-black",
-      "detected_at": "2026-07-22T11:25:28.013121+00:00"
+      "message": "🔥 **Restock** at Kick Game: Formes Classic Wallet Nero\nhttps://www.kickgame.co.uk/products/classic-wallet-nero",
+      "detected_at": "2026-07-22T13:00:42.878841+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Formes Porto Duffle Magna\nhttps://www.kickgame.co.uk/products/porto-duffle-magna",
+      "detected_at": "2026-07-22T13:00:42.878841+00:00"
     }
   ]
 }
