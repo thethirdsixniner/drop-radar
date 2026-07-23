@@ -1,6 +1,21 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286594695296": {
+        "title": "adidas Hyperboost EPHR LT - Yellow / Cloud White / Silver Metallic",
+        "handle": "aakz8507",
+        "in_stock": true
+      },
+      "8286594662528": {
+        "title": "adidas Hyperboost EPHR LT - Core Black / Lucid Blue / Solar Red",
+        "handle": "aakz8511",
+        "in_stock": true
+      },
+      "8286594564224": {
+        "title": "Pennon Concho Duck Boot - Butter",
+        "handle": "pnn256-02-cobu",
+        "in_stock": true
+      },
       "8286594596992": {
         "title": "VANS LX Old Skool 36 - Souvenir Oatmeal Beige",
         "handle": "vn000e8v2n1",
@@ -1235,24 +1250,39 @@
         "title": "Black Suede Studio Crystal Sandal - Red Stripe / Red PVC",
         "handle": "bscrystal-rdstr",
         "in_stock": true
-      },
-      "8286582472832": {
-        "title": "Nike Zoom Skylon 11 - Volt / Black / Light Smoke Grey / Metallic Silver",
-        "handle": "nkiu1869-700",
-        "in_stock": true
-      },
-      "8286582440064": {
-        "title": "Reebok x Icecream Board Flip - Blue / Black / Yellow",
-        "handle": "ree100282065-451",
-        "in_stock": true
-      },
-      "8286582407296": {
-        "title": "Blundstone Aerocork #2686 Clog - Sahara Tan",
-        "handle": "bl2686",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702411350277": {
+        "title": "NIKE FFF 2026 STADIUM HOME JERSEY - GAME ROYAL",
+        "handle": "nike-fff-2026-stadium-home-jersey-game-royal",
+        "in_stock": true
+      },
+      "6702411186437": {
+        "title": "NIKE FFF 2026 STADIUM AWAY JERSEY - IGLOO/ MONARCH",
+        "handle": "nike-fff-2026-stadium-away-jersey-igloo-monarch",
+        "in_stock": true
+      },
+      "6702411153669": {
+        "title": "NIKE NIGERIA 2026 STADIUM HOME JERSEY - PINE GREEN",
+        "handle": "nike-nigeria-2026-stadium-home-jersey-pine-green",
+        "in_stock": true
+      },
+      "6702379106565": {
+        "title": "JORDAN ANTHEM JACKET - OLD ROYAL/ YELLOW PULSE",
+        "handle": "jordan-anthem-jacket-old-royal-yellow-pulse",
+        "in_stock": true
+      },
+      "6702599504133": {
+        "title": "NIKE X PALACE ENG PREMIUM TEE - PEWTER GREY",
+        "handle": "nike-x-palace-eng-premium-tee-pewter-grey",
+        "in_stock": false
+      },
+      "6702599274757": {
+        "title": "NIKE X PALACE ENG ACD X2 JERSEY - PEWTER GREY",
+        "handle": "nike-x-palace-eng-acd-x2-jersey-pewter-grey",
+        "in_stock": false
+      },
       "6702652457221": {
         "title": "NIKE AVA EDGE - BLACK/ NEWSPRINT",
         "handle": "nike-ava-edge-black-newsprint",
@@ -2471,36 +2501,6 @@
       "6701500006661": {
         "title": "UNDEFEATED BARK CAMO SCARF",
         "handle": "undefeated-bark-camo-scarf",
-        "in_stock": true
-      },
-      "4467212386377": {
-        "title": "BAPE 1ST CAMO MILITARY SHOULDER BAG",
-        "handle": "bape-1st-camo-military-shoulder-bag",
-        "in_stock": false
-      },
-      "6702623817989": {
-        "title": "NIKE AIR FORCE 1 '07 - WHITE/ METALLIC SILVER",
-        "handle": "nike-air-force-1-07-white-metallic-silver",
-        "in_stock": true
-      },
-      "6702623686917": {
-        "title": "NIKE LD-1000 FLYKNIT - LIGHT BONE/ EARTH",
-        "handle": "nike-ld-1000-flyknit-light-bone-earth",
-        "in_stock": true
-      },
-      "6700929057029": {
-        "title": "PATTA STRIPED LS FOOTBALL JERSEY - FORGEDIRON",
-        "handle": "patta-striped-ls-football-jersey-forgediron",
-        "in_stock": true
-      },
-      "6702623752453": {
-        "title": "NIKE AIR FORCE 1 '07 - BLACK/ METALLIC SILVER",
-        "handle": "nike-air-force-1-07-black-metallic-silver",
-        "in_stock": true
-      },
-      "6702623785221": {
-        "title": "NIKE MOON SHOE OG - MIDNIGHT NAVY/ SAIL",
-        "handle": "nike-moon-shoe-og-midnight-navy-sail",
         "in_stock": true
       }
     },
@@ -3733,7 +3733,7 @@
       "10792136147211": {
         "title": "Reebok Premier Road Ultra",
         "handle": "reebok-premier-road-ultra-purple-hairy",
-        "in_stock": true
+        "in_stock": false
       },
       "10762892771595": {
         "title": "Autry College Check Sweatshirt",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9363152830652": {
+        "title": "Slawn x Nigeria x Nike Tee - White",
+        "handle": "slawn-x-nigeria-x-nike-tee-white",
+        "in_stock": true
+      },
       "9363157876924": {
         "title": "Women's PEACEMINUSONE x Korea x Nike Soccer Top - Black/White",
         "handle": "womens-peaceminusone-x-korea-x-nike-soccer-top-black-white",
@@ -5000,11 +5005,6 @@
       "9342087430332": {
         "title": "Pleasures Oral Mesh Shirt - Black",
         "handle": "pleasures-oral-mesh-shirt-black",
-        "in_stock": true
-      },
-      "9342092214460": {
-        "title": "Pleasures Cup Heavyweight Tee - Ash Grey",
-        "handle": "pleasures-cup-heavyweight-tee-ash-grey",
         "in_stock": true
       }
     },
@@ -7522,7 +7522,7 @@
       "9032280572109": {
         "title": "Alpinway Advanced Sneakers Pale Olive Green / Black / Ice",
         "handle": "salomon-footwear-alpinway-advanced-green-j328872",
-        "in_stock": true
+        "in_stock": false
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8768,36 +8768,36 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Oral Mesh Shirt - Black\nhttps://sneakerpolitics.com/products/pleasures-oral-mesh-shirt-black",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Kith: adidas Hyperboost EPHR LT - Yellow / Cloud White / Silver Metallic\nhttps://kith.com/products/aakz8507",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Cup Heavyweight Tee - Ash Grey\nhttps://sneakerpolitics.com/products/pleasures-cup-heavyweight-tee-ash-grey",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Kith: adidas Hyperboost EPHR LT - Core Black / Lucid Blue / Solar Red\nhttps://kith.com/products/aakz8511",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Axel Arigato Dice Lo\nhttps://www.afew-store.com/products/axel-arigato-dice-lo-tan-light-beige",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Kith: Pennon Concho Duck Boot - Butter\nhttps://kith.com/products/pnn256-02-cobu",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Clarks Originals WMNS Wallabee\nhttps://www.afew-store.com/products/clarks-originals-wmns-wallabee-black-sde",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE FFF 2026 STADIUM HOME JERSEY - GAME ROYAL\nhttps://undefeated.com/products/nike-fff-2026-stadium-home-jersey-game-royal",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Axel Arigato Clean 90 Split\nhttps://www.afew-store.com/products/axel-arigato-clean-90-split-black-off-white",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE FFF 2026 STADIUM AWAY JERSEY - IGLOO/ MONARCH\nhttps://undefeated.com/products/nike-fff-2026-stadium-away-jersey-igloo-monarch",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Axel Arigato Dice Lo\nhttps://www.afew-store.com/products/axel-arigato-dice-lo-beige-light-beige",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE NIGERIA 2026 STADIUM HOME JERSEY - PINE GREEN\nhttps://undefeated.com/products/nike-nigeria-2026-stadium-home-jersey-pine-green",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Axel Arigato Dice T-Toe\nhttps://www.afew-store.com/products/axel-arigato-dice-t-toe-black-dark-grey",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN ANTHEM JACKET - OLD ROYAL/ YELLOW PULSE\nhttps://undefeated.com/products/jordan-anthem-jacket-old-royal-yellow-pulse",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Third Cut Jeans Digital Denim Print\nhttps://www.slamjam.com/products/our-legacy-clothing-third-cut-blue-j355574",
-      "detected_at": "2026-07-23T17:47:02.253878+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Slawn x Nigeria x Nike Tee - White\nhttps://sneakerpolitics.com/products/slawn-x-nigeria-x-nike-tee-white",
+      "detected_at": "2026-07-23T19:22:42.964786+00:00"
     }
   ]
 }
