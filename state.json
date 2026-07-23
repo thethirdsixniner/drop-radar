@@ -3638,7 +3638,7 @@
       "10534545064203": {
         "title": "Nike Wmns Cortez",
         "handle": "nike-wmns-cortez-sail-arctic-orange-ocean-bliss",
-        "in_stock": true
+        "in_stock": false
       },
       "7366637420708": {
         "title": "New Balance 90/60",
@@ -3801,11 +3801,6 @@
         "title": "Adidas HYPERBOOST EPHR LT - Core Black/Lucid Blue",
         "handle": "adidas-hyperboost-ephr-lt-core-black-lucid-blue",
         "in_stock": true
-      },
-      "9470933336252": {
-        "title": "Off-White Politics Store Tee - Black",
-        "handle": "off-white-politics-store-tee-black",
-        "in_stock": false
       },
       "8790241542332": {
         "title": "Godspeed New York Courtside Shorts - Black",
@@ -4562,11 +4557,6 @@
         "handle": "jordan-1-mid-td-black-phantom",
         "in_stock": true
       },
-      "9160476623036": {
-        "title": "Stussy S Box Tee - White",
-        "handle": "stussy-s-box-tee-white",
-        "in_stock": false
-      },
       "9407077941436": {
         "title": "Women's Nike T90 Shox Magia WC - White/Metallic Silver",
         "handle": "womens-nike-t90-shox-magia-wc-white-metallic-silver",
@@ -5005,6 +4995,16 @@
       "9391902982332": {
         "title": "Crocs Ripple - Steel/Moonlight",
         "handle": "crocs-ripple-steel-moonlight",
+        "in_stock": true
+      },
+      "9342087430332": {
+        "title": "Pleasures Oral Mesh Shirt - Black",
+        "handle": "pleasures-oral-mesh-shirt-black",
+        "in_stock": true
+      },
+      "9342092214460": {
+        "title": "Pleasures Cup Heavyweight Tee - Ash Grey",
+        "handle": "pleasures-cup-heavyweight-tee-ash-grey",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,31 @@
       }
     },
     "https://www.afew-store.com": {
+      "10576047538442": {
+        "title": "Axel Arigato Dice Lo",
+        "handle": "axel-arigato-dice-lo-tan-light-beige",
+        "in_stock": true
+      },
+      "10576047472906": {
+        "title": "Clarks Originals WMNS Wallabee",
+        "handle": "clarks-originals-wmns-wallabee-black-sde",
+        "in_stock": true
+      },
+      "10576047210762": {
+        "title": "Axel Arigato Clean 90 Split",
+        "handle": "axel-arigato-clean-90-split-black-off-white",
+        "in_stock": true
+      },
+      "10576046850314": {
+        "title": "Axel Arigato Dice Lo",
+        "handle": "axel-arigato-dice-lo-beige-light-beige",
+        "in_stock": true
+      },
+      "10576046457098": {
+        "title": "Axel Arigato Dice T-Toe",
+        "handle": "axel-arigato-dice-t-toe-black-dark-grey",
+        "in_stock": true
+      },
       "10575926722826": {
         "title": "Clarks Originals WMNS Wallabee",
         "handle": "clarks-originals-wmns-wallabee-cola-suede",
@@ -7485,31 +7510,6 @@
         "title": "Stanley 1913 The Café-To-Go Travel Mug 16 oz / 0.47 L",
         "handle": "stanley-1913-the-caf-to-go-travel-mug-16-oz-0-47-lblack-2-0",
         "in_stock": true
-      },
-      "10561628209418": {
-        "title": "Stanley 1913 The Easy-Carry Outdoor Cooler 15.1 L / 16 QT",
-        "handle": "stanley-1913-the-easy-carry-outdoor-cooler-15-1-l-16-qtdried-pine",
-        "in_stock": true
-      },
-      "10561624342794": {
-        "title": "Asics GEL-CUMULUS 16",
-        "handle": "asics-gel-cumulus-16-pink-cloud-pure-silver",
-        "in_stock": true
-      },
-      "10561617953034": {
-        "title": "Stanley 1913 The Transit FlipTop Mug 20 oz / 0.59 L",
-        "handle": "stanley-1913-the-transit-fliptop-mug-20-oz-0-59-lblack-2-0",
-        "in_stock": true
-      },
-      "10561564442890": {
-        "title": "adidas Originals ADIMULE",
-        "handle": "adidas-originals-adimule-owhite-prebrn-auco",
-        "in_stock": true
-      },
-      "10561535049994": {
-        "title": "Brooks  x AFEW Adrenaline GTS 10 TWAGD",
-        "handle": "brooks-adrenaline-gts-10-fig-bridal-rose-fiery-coral",
-        "in_stock": false
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7938,11 +7938,6 @@
         "title": "Women's Backless Hoodie Black",
         "handle": "prototypes-clothing-backless-hoodie-black-j310117",
         "in_stock": true
-      },
-      "9106555830477": {
-        "title": "Men's Graphic T-Shirt Black",
-        "handle": "undercover-clothing-tee-black-j347378",
-        "in_stock": false
       },
       "9108282376397": {
         "title": "Men's Seagull Embroidery T-Shirt White",
@@ -8477,7 +8472,7 @@
       "9122642362573": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top White",
         "handle": "nike-clothing-m-acg-df-rad-airflow-ss-top-white-j364327",
-        "in_stock": true
+        "in_stock": false
       },
       "9122642395341": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top Anthracite",
@@ -8763,85 +8758,46 @@
         "title": "Men's Full Zip Hoodie Black",
         "handle": "our-legacy-clothing-full-zip-hood-black-j355576",
         "in_stock": true
+      },
+      "9122170044621": {
+        "title": "Men's Third Cut Jeans Digital Denim Print",
+        "handle": "our-legacy-clothing-third-cut-blue-j355574",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's PEACEMINUSONE x Korea x Nike Soccer Top - Black/White\nhttps://sneakerpolitics.com/products/womens-peaceminusone-x-korea-x-nike-soccer-top-black-white",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Oral Mesh Shirt - Black\nhttps://sneakerpolitics.com/products/pleasures-oral-mesh-shirt-black",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: PEACEMINUSONE x Korea x Nike Academy Pro Soccer Top - Black/White\nhttps://sneakerpolitics.com/products/peaceminusone-x-korea-x-nike-academy-pro-soccer-top-black-white-1",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Cup Heavyweight Tee - Ash Grey\nhttps://sneakerpolitics.com/products/pleasures-cup-heavyweight-tee-ash-grey",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Clarks Originals WMNS Wallabee\nhttps://www.afew-store.com/products/clarks-originals-wmns-wallabee-cola-suede",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Afew Store: Axel Arigato Dice Lo\nhttps://www.afew-store.com/products/axel-arigato-dice-lo-tan-light-beige",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Clarks Originals WMNS Wallabee\nhttps://www.afew-store.com/products/clarks-originals-wmns-wallabee-maple-suede",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Afew Store: Clarks Originals WMNS Wallabee\nhttps://www.afew-store.com/products/clarks-originals-wmns-wallabee-black-sde",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Clarks Originals WMNS Straven2 Step\nhttps://www.afew-store.com/products/clarks-originals-wmns-straven2-step-burgundy-patent",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Afew Store: Axel Arigato Clean 90 Split\nhttps://www.afew-store.com/products/axel-arigato-clean-90-split-black-off-white",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Clarks Originals WMNS Straven2 Step\nhttps://www.afew-store.com/products/clarks-originals-wmns-straven2-step-black-pat",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Afew Store: Axel Arigato Dice Lo\nhttps://www.afew-store.com/products/axel-arigato-dice-lo-beige-light-beige",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Autry Action Shoes MALGA MID\nhttps://www.afew-store.com/products/autry-action-shoes-malga-mid-sue-nab-cor-palud-pea",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Afew Store: Axel Arigato Dice T-Toe\nhttps://www.afew-store.com/products/axel-arigato-dice-t-toe-black-dark-grey",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Down Sweater Hooded Jacket Black\nhttps://www.slamjam.com/products/patagonia-clothing-ms-down-sweater-hoody-black-j324921",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Alpinway Advanced Sneakers Pale Olive Green / Black / Ice\nhttps://www.slamjam.com/products/salomon-footwear-alpinway-advanced-green-j328872",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Zafar Knitted Top Chinese Purple / Dusty Blue\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-zafar-knitted-top-purple-j310255",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's M65 Jacket Black\nhttps://www.slamjam.com/products/silas-clothing-m65-jacket-black-j356194",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Centennial Jacket Washed Anthracite\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-centennial-jacket-black-j349095",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Cingino Boots Silver / Black\nhttps://www.slamjam.com/products/roa-footwear-cingino-multicolor-j318383",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-Whisper Sneakers Walnut / Bitter Chocolate / Vanilla Ice\nhttps://www.slamjam.com/products/salomon-footwear-xt-whisper-brown-j350621",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Ash Canvas Jacket Washed Black\nhttps://www.slamjam.com/products/roa-clothing-ash-canvas-jacket-black-j325421",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Côte d'Ivoire x Salehe Bembury KING Jersey Dark Poppy\nhttps://www.slamjam.com/products/puma-clothing-puma-x-fif-x-salehe-bembury-king-jersey-red-j349951",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Wool Twill Pants Black\nhttps://www.slamjam.com/products/undercover-clothing-pants-black-j367751",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Side Zipper Cotton Chino Pants Khaki\nhttps://www.slamjam.com/products/undercover-clothing-pants-green-j367752",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top White\nhttps://www.slamjam.com/products/nike-clothing-m-acg-df-rad-airflow-ss-top-white-j364327",
-      "detected_at": "2026-07-23T16:08:40.208407+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Third Cut Jeans Digital Denim Print\nhttps://www.slamjam.com/products/our-legacy-clothing-third-cut-blue-j355574",
+      "detected_at": "2026-07-23T17:47:02.253878+00:00"
     }
   ]
 }
