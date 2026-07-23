@@ -2718,7 +2718,7 @@
       "10537646522635": {
         "title": "Autry Hyperway W *Suede / Mesh*",
         "handle": "autry-hyperway-w-suede-mesh-white-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10537645244683": {
         "title": "Autry Hyperway W *Suede / Mesh*",
@@ -3728,7 +3728,7 @@
       "10122174988555": {
         "title": "Adidas Tokyo W",
         "handle": "adidas-tokyo-w-green-pure-silfur-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "8998798557451": {
         "title": "Nike P-6000",
@@ -4365,7 +4365,7 @@
       "8765101703356": {
         "title": "Vans LX Authentic 44 - Faded Paisley Black",
         "handle": "vans-lx-authentic-44-faded-paisley-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8762334314684": {
         "title": "Ksubi Poolside S/S Resort Shirt - Multi",
@@ -6264,7 +6264,7 @@
       "10574532444426": {
         "title": "Nike Air Liquid Max",
         "handle": "nike-air-liquid-max-black-black-radiant-blue-sapphire",
-        "in_stock": false
+        "in_stock": true
       },
       "10574529986826": {
         "title": "Carhartt WIP Active Jacket",
@@ -6654,12 +6654,12 @@
       "10567951352074": {
         "title": "Nike LEBRON XXIII PER",
         "handle": "nike-lebron-xxiii-per-baltic-blue-white-bluegrass",
-        "in_stock": false
+        "in_stock": true
       },
       "10567943815434": {
         "title": "Nike JA 3 'ANIMAL PACK'",
         "handle": "nike-ja-3-animal-pack-safety-orange-black-university-red",
-        "in_stock": false
+        "in_stock": true
       },
       "10567173964042": {
         "title": "Autry Action Shoes WMNS REELWIND LOW",
@@ -8766,5 +8766,18 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Liquid Max\nhttps://www.afew-store.com/products/nike-air-liquid-max-black-black-radiant-blue-sapphire",
+      "detected_at": "2026-07-23T07:20:04.890853+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike LEBRON XXIII PER\nhttps://www.afew-store.com/products/nike-lebron-xxiii-per-baltic-blue-white-bluegrass",
+      "detected_at": "2026-07-23T07:20:04.890853+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike JA 3 'ANIMAL PACK'\nhttps://www.afew-store.com/products/nike-ja-3-animal-pack-safety-orange-black-university-red",
+      "detected_at": "2026-07-23T07:20:04.890853+00:00"
+    }
+  ]
 }
