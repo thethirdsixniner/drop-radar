@@ -5082,7 +5082,7 @@
       "15042627928440": {
         "title": "Saucony Progrid Omni 9 OG 'Quartz Eggshell'",
         "handle": "saucony-progrid-omni-9-og-quartz-eggshell",
-        "in_stock": false
+        "in_stock": true
       },
       "15042626978168": {
         "title": "Saucony Grid Legacy 'Silver Black'",
@@ -6264,7 +6264,7 @@
       "10575626895626": {
         "title": "Jason Markk Essential Kit Deep Cleaning Solution 118ml / 4 oz.",
         "handle": "jason-markk-essential-kit-deep-cleaning-solution-118ml-4-oz-misc",
-        "in_stock": false
+        "in_stock": true
       },
       "10575583609098": {
         "title": "Brooks Adrenaline GTS 4",
@@ -6279,12 +6279,12 @@
       "10575578792202": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gel-nyc-cream-umeboshi",
-        "in_stock": false
+        "in_stock": true
       },
       "10575577547018": {
         "title": "Paraboot MICHAEL",
         "handle": "paraboot-michael-lisse-cafe",
-        "in_stock": false
+        "in_stock": true
       },
       "10575570764042": {
         "title": "On Running Cloudzone",
@@ -7514,6 +7514,21 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9123636510925": {
+        "title": "Men's Denim Jorts Cloud White",
+        "handle": "adidas-clothing-jorts-white-j362402",
+        "in_stock": true
+      },
+      "9123636543693": {
+        "title": "Men's Wool Chore Coat Black",
+        "handle": "y-3-clothing-m-chore-ct-black-j359529",
+        "in_stock": true
+      },
+      "9123636478157": {
+        "title": "F50 AOP Sneakers Silver Metallic / Black / Utility Black",
+        "handle": "y-3-footwear-y-3-f50-tunit-chito-grey-j359524",
+        "in_stock": true
+      },
       "9123631399117": {
         "title": "Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White",
         "handle": "nike-clothing-kox-m-nk-df-acdpr-x2-ss-pm-top-black-j364587",
@@ -8748,136 +8763,37 @@
         "title": "Women's Evil Woman Camisole Black",
         "handle": "hysteric-glamour-clothing-evil-woman-camisole-black-j353958",
         "in_stock": true
-      },
-      "9122169585869": {
-        "title": "Vinyl Junkie Mesh Cap Brown",
-        "handle": "hysteric-glamour-accessories-vinyl-junkie-mesh-cap-brown-j362096",
-        "in_stock": true
-      },
-      "9122169553101": {
-        "title": "Black Cat Woman Mesh Cap Pink",
-        "handle": "hysteric-glamour-accessories-wmns-black-cat-woman-mesh-cap-pink-j362071",
-        "in_stock": true
-      },
-      "9122169487565": {
-        "title": "His Gloves Black",
-        "handle": "our-legacy-accessories-his-gloves-black-j355568",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Handball Spezial W\nhttps://www.asphaltgold.de/products/adidas-handball-spezial-w-sand-strata-off-white-gum-5",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'Quartz Eggshell'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-quartz-eggshell",
+      "detected_at": "2026-07-23T11:58:43.504422+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: On Running Cloudzone\nhttps://www.afew-store.com/products/on-running-cloudzone-alloy-rock",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
+      "message": "🔥 **Restock** at Afew Store: Jason Markk Essential Kit Deep Cleaning Solution 118ml / 4 oz.\nhttps://www.afew-store.com/products/jason-markk-essential-kit-deep-cleaning-solution-118ml-4-oz-misc",
+      "detected_at": "2026-07-23T11:58:43.504422+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Lacoste SLAM BREAK 226 4 SMA\nhttps://www.afew-store.com/products/lacoste-slam-break-226-4-sma-wht-off-wht",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
+      "message": "🔥 **Restock** at Afew Store: Asics GEL-NYC\nhttps://www.afew-store.com/products/asics-gel-nyc-cream-umeboshi",
+      "detected_at": "2026-07-23T11:58:43.504422+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Nike ACG Ultrafly Trail\nhttps://www.afew-store.com/products/nike-acg-ultrafly-trail-spruce-fog-black-spruce-sea-glass",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
+      "message": "🔥 **Restock** at Afew Store: Paraboot MICHAEL\nhttps://www.afew-store.com/products/paraboot-michael-lisse-cafe",
+      "detected_at": "2026-07-23T11:58:43.504422+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Nike ACG Pegasus Trail\nhttps://www.afew-store.com/products/nike-acg-pegasus-trail-spruce-fog-black-spruce-sea-glass",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Denim Jorts Cloud White\nhttps://www.slamjam.com/products/adidas-clothing-jorts-white-j362402",
+      "detected_at": "2026-07-23T11:58:43.504422+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Puma Hali 1\nhttps://www.afew-store.com/products/puma-hali-1-cobalt-glaze-zen-blue",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Wool Chore Coat Black\nhttps://www.slamjam.com/products/y-3-clothing-m-chore-ct-black-j359529",
+      "detected_at": "2026-07-23T11:58:43.504422+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Puma Hali 1\nhttps://www.afew-store.com/products/puma-hali-1-fresh-mint-green-moon",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Puma Speedcat Snake\nhttps://www.afew-store.com/products/puma-speedcat-snake-silver-fog-vapor-gray",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Puma Speedcat Snake\nhttps://www.afew-store.com/products/puma-speedcat-snake-bitter-chocolate-toasted-almond",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Puma WMNS Speedcat Wedge\nhttps://www.afew-store.com/products/puma-wmns-speedcat-wedge-totally-taupe-chocolate",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Puma WMNS Speedcat Wedge\nhttps://www.afew-store.com/products/puma-wmns-speedcat-wedge-gray-sky-puma-black",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: New Balance Quilted Bomber\nhttps://www.afew-store.com/products/new-balance-quilted-bomber-brk",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: New Balance Quilted Bomber\nhttps://www.afew-store.com/products/new-balance-quilted-bomber-dnt",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Nike ACG Dri-FIT T-Shirt\nhttps://www.afew-store.com/products/nike-acg-summit-white",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: adidas Originals Denim Firebird Track Top\nhttps://www.afew-store.com/products/adidas-originals-denim-firebird-tt-worblu",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White\nhttps://www.slamjam.com/products/nike-clothing-kox-m-nk-df-acdpr-x2-ss-pm-top-black-j364587",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Nigeria x Slawn Dri-FIT Academy Pro Football T-Shirt Black / White\nhttps://www.slamjam.com/products/nike-clothing-nfx-m-nk-df-acdpr-ss-pm-top-black-j352035",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Canada x NOCTA Dri-FIT Academy ProFootball T-Shirt Black / University Red\nhttps://www.slamjam.com/products/nike-clothing-cax-m-nk-df-acdpr-x2-ss-pm-top-black-j352030",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: ACG Radical AirFlow Fly Cap Anthracite\nhttps://www.slamjam.com/products/nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: ACG Radical AirFlow Fly Cap White\nhttps://www.slamjam.com/products/nike-accessories-u-nk-df-fly-cap-ab-acg-radair-white-j364342",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 'Your Message Here' Jeans Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-ymh-black-jeans-black-j364315",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 'Your Message Here' Jeans Indigo\nhttps://www.slamjam.com/products/nike-clothing-m-nk-ymh-indigo-jeans-blue-j364291",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Total 90 Shox Magia Sneakers White / Metallic Silver / Black\nhttps://www.slamjam.com/products/nike-footwear-nike-total-90-shox-magia-green-j367841",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Total 90 Shox Magia Sneakers Black / Green / Yellow\nhttps://www.slamjam.com/products/nike-footwear-nike-total-90-shox-magia-white-j367838",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Cloudrock Low WP Sneakers Earth / Black\nhttps://www.slamjam.com/products/on-footwear-cloudrock-low-waterproof-brown-j363104",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Lightweight Cap Black\nhttps://www.slamjam.com/products/on-accessories-lightweight-cap-black-j363931",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Performance T-Shirt Black\nhttps://www.slamjam.com/products/on-clothing-performance-t-black-j363095",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cloudsurfer Next Sneakers Stone / Marsh\nhttps://www.slamjam.com/products/on-footwear-cloudsurfer-next-grey-j363103",
-      "detected_at": "2026-07-23T09:59:54.738762+00:00"
+      "message": "🆕 **New drop** at Slam Jam: F50 AOP Sneakers Silver Metallic / Black / Utility Black\nhttps://www.slamjam.com/products/y-3-footwear-y-3-f50-tunit-chito-grey-j359524",
+      "detected_at": "2026-07-23T11:58:43.504422+00:00"
     }
   ]
 }
