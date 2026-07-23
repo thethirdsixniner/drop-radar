@@ -1371,7 +1371,7 @@
       "6702652489989": {
         "title": "CONVERSE X DRAGON BALL Z CHUCK 70 HI - BLACK/ CYBER YELLOW",
         "handle": "converse-x-dragon-ball-z-chuck-70-hi-black-cyber-yellow",
-        "in_stock": true
+        "in_stock": false
       },
       "6702354235653": {
         "title": "ASICS GEL-1130 - CREAM/ MAHOGANY",
@@ -7752,22 +7752,22 @@
       "9123333963981": {
         "title": "Women's First Sight Shadow Low Sneakers Metallic Silver / Black",
         "handle": "nike-footwear-wmns-w-nike-first-sight-shadow-sp-grey-j364261",
-        "in_stock": false
+        "in_stock": true
       },
       "9123333931213": {
         "title": "Women's First Sight Shadow Low Sneakers Black / Metallic Dark Grey",
         "handle": "nike-footwear-wmns-w-nike-first-sight-shadow-sp-black-j364260",
-        "in_stock": false
+        "in_stock": true
       },
       "9123329999053": {
         "title": "Kiko Kostadinov Ilargi FF Sneakers Driftwood / Dioptase",
         "handle": "asics-footwear-ilargi-ff-ii-brown-j359719",
-        "in_stock": false
+        "in_stock": true
       },
       "9123329966285": {
         "title": "Kiko Kostadinov Ilargi FF Sneakers Sage Frost / Tatami Green",
         "handle": "asics-footwear-ilargi-ff-ii-green-j359720",
-        "in_stock": false
+        "in_stock": true
       },
       "9081457344717": {
         "title": "P-6000 Sneakers Metallic Silver / Sail / Black",
@@ -8768,12 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Birkenstock Boston EVA - Eggshell\nhttps://sneakerpolitics.com/products/birkenstock-boston-eva-eggshell",
-      "detected_at": "2026-07-23T21:44:21.961488+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Women's First Sight Shadow Low Sneakers Metallic Silver / Black\nhttps://www.slamjam.com/products/nike-footwear-wmns-w-nike-first-sight-shadow-sp-grey-j364261",
+      "detected_at": "2026-07-23T22:40:53.513069+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike ReactX Rejuven8 Slide - Sea Glass/Light Orewood Brown\nhttps://sneakerpolitics.com/products/womens-nike-reactx-rejuven8-slide-sea-glass-light-orewood-brown",
-      "detected_at": "2026-07-23T21:44:21.961488+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Women's First Sight Shadow Low Sneakers Black / Metallic Dark Grey\nhttps://www.slamjam.com/products/nike-footwear-wmns-w-nike-first-sight-shadow-sp-black-j364260",
+      "detected_at": "2026-07-23T22:40:53.513069+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Kiko Kostadinov Ilargi FF Sneakers Driftwood / Dioptase\nhttps://www.slamjam.com/products/asics-footwear-ilargi-ff-ii-brown-j359719",
+      "detected_at": "2026-07-23T22:40:53.513069+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Kiko Kostadinov Ilargi FF Sneakers Sage Frost / Tatami Green\nhttps://www.slamjam.com/products/asics-footwear-ilargi-ff-ii-green-j359720",
+      "detected_at": "2026-07-23T22:40:53.513069+00:00"
     }
   ]
 }
