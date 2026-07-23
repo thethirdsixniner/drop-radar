@@ -394,7 +394,7 @@
       "8286591844480": {
         "title": "by Parra Slanted P 6 Panel Cap - Pink",
         "handle": "pa55570",
-        "in_stock": true
+        "in_stock": false
       },
       "8286590861440": {
         "title": "by Parra Signature 6 Panel Cap - Black",
@@ -2236,7 +2236,7 @@
       "4583347617865": {
         "title": "BAPE X UNDEFEATED X ADIDAS ZX 8000 - GREEN/ CWHITE/ GUM",
         "handle": "bape-x-undefeated-x-adidas-zx-8000-green-cwhite-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "6662700302597": {
         "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - BLACKIRIS/ PARCHMENT",
@@ -2838,7 +2838,7 @@
       "8381336453387": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-amazon",
-        "in_stock": true
+        "in_stock": false
       },
       "9043571704075": {
         "title": "Autry Medalist W Goat / Scrub *Super Vintage*",
@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9402909786300": {
+        "title": "Birkenstock Boston EVA - Eggshell",
+        "handle": "birkenstock-boston-eva-eggshell",
+        "in_stock": true
+      },
+      "9343004016828": {
+        "title": "Women's Nike ReactX Rejuven8 Slide - Sea Glass/Light Orewood Brown",
+        "handle": "womens-nike-reactx-rejuven8-slide-sea-glass-light-orewood-brown",
+        "in_stock": true
+      },
       "9397646819516": {
         "title": "Fear Of God Essentials Cropped Relaxed Paneled Hoodie - Seal Heather/Iron Grey",
         "handle": "fear-of-god-essentials-cropped-relaxed-paneled-hoodie-seal-heather-iron-grey",
@@ -4995,16 +5005,6 @@
       "9341174153404": {
         "title": "Billionaire Boys Club Varsity Knit Jersey - Black",
         "handle": "billionaire-boys-club-varsity-knit-jersey-black-1",
-        "in_stock": true
-      },
-      "9146439434428": {
-        "title": "Parra Hardly Hiked Ripstop Shorts - Grey",
-        "handle": "parra-hardly-hiked-ripstop-shorts-grey",
-        "in_stock": true
-      },
-      "9146504708284": {
-        "title": "Parra Spiked Logo Crew Socks - Blue/Dark Mallard Green",
-        "handle": "parra-spiked-logo-crew-socks-blue-dark-mallard-green",
         "in_stock": true
       }
     },
@@ -8768,28 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike Zoom Skylon 11 - Volt / Black / Light Smoke Grey / Metallic Silver\nhttps://kith.com/products/nkiu1869-700",
-      "detected_at": "2026-07-23T20:36:59.213129+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Birkenstock Boston EVA - Eggshell\nhttps://sneakerpolitics.com/products/birkenstock-boston-eva-eggshell",
+      "detected_at": "2026-07-23T21:44:21.961488+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Cropped Relaxed Paneled Hoodie - Seal Heather/Iron Grey\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-cropped-relaxed-paneled-hoodie-seal-heather-iron-grey",
-      "detected_at": "2026-07-23T20:36:59.213129+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Raw Cut Denim Shorts - Overdyed Dune\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-raw-cut-denim-shorts-overdyed-dune",
-      "detected_at": "2026-07-23T20:36:59.213129+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Paneled Lounge Pants - Seal Heather/Iron Grey\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-paneled-lounge-pants-seal-heather-iron-grey",
-      "detected_at": "2026-07-23T20:36:59.213129+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Paneled Lounge Pants - Iron Grey/Seal Heather\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-paneled-lounge-pants-iron-grey-seal-heather",
-      "detected_at": "2026-07-23T20:36:59.213129+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Cropped Relaxed Paneled Hoodie - Iron Grey Heather/Seal Heather\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-cropped-relaxed-paneled-hoodie-iron-grey-heather-seal-heather",
-      "detected_at": "2026-07-23T20:36:59.213129+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike ReactX Rejuven8 Slide - Sea Glass/Light Orewood Brown\nhttps://sneakerpolitics.com/products/womens-nike-reactx-rejuven8-slide-sea-glass-light-orewood-brown",
+      "detected_at": "2026-07-23T21:44:21.961488+00:00"
     }
   ]
 }
