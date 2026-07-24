@@ -1019,7 +1019,7 @@
       "8286577950848": {
         "title": "Sandy Liang Soba Poncho Top - White",
         "handle": "slh26t165-f362",
-        "in_stock": true
+        "in_stock": false
       },
       "8286582767744": {
         "title": "Osoi Tote Brocle Mini Bag - Stone Black",
@@ -3757,6 +3757,46 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9407038423228": {
+        "title": "On Cloud 6 - Midnight/White",
+        "handle": "on-cloud-6-midnight-white",
+        "in_stock": true
+      },
+      "9103602581692": {
+        "title": "Saucony Progrid Omni 9 - White/Fuego",
+        "handle": "saucony-progrid-omni-9-white-fuego",
+        "in_stock": true
+      },
+      "9301947220156": {
+        "title": "Women's Nike Air Force 1 '07 'Cow Print' - Field Brown/Sail",
+        "handle": "womens-nike-air-force-1-07-cow-print-field-brown-sail",
+        "in_stock": true
+      },
+      "9346400485564": {
+        "title": "Nike Air Force 1 '07 LX Vibram - Volt/Black",
+        "handle": "nike-air-force-1-07-lx-vibram-volt-black",
+        "in_stock": true
+      },
+      "9470933336252": {
+        "title": "Off-White Politics Store Tee - Black",
+        "handle": "off-white-politics-store-tee-black",
+        "in_stock": true
+      },
+      "9372657746108": {
+        "title": "Women's Nike Air Max 95 OG - Black/Old Royal",
+        "handle": "womens-nike-air-max-95-og-black-old-royal",
+        "in_stock": true
+      },
+      "9372532539580": {
+        "title": "Women's Nike Zoom Vomero 5 - Cacao Wow/Light Khaki",
+        "handle": "womens-nike-zoom-vomero-5-cacao-wow-light-khaki",
+        "in_stock": true
+      },
+      "9346414543036": {
+        "title": "Nike Air Force 1 '07 LV8 - University Red/Black",
+        "handle": "nike-air-force-1-07-lv8-university-red-black",
+        "in_stock": true
+      },
       "9341274259644": {
         "title": "Jordan 1 Mid (PS) - Black/Phantom",
         "handle": "jordan-1-mid-ps-black-phantom",
@@ -3793,8 +3833,8 @@
         "in_stock": true
       },
       "9324764889276": {
-        "title": "Asics Gel-Cumulus 16 - Black/Black",
-        "handle": "asics-gel-cumulus-16-black-black-1",
+        "title": "Asics Gel-Cumulus 16 by Griff - Black/Black",
+        "handle": "asics-gel-cumulus-16-by-griff-black-black",
         "in_stock": true
       },
       "9357016006844": {
@@ -4965,46 +5005,6 @@
       "9339790426300": {
         "title": "Billionaire Boys Club Camo Cargo Shorts - Sesame",
         "handle": "billionaire-boys-club-camo-cargo-shorts-sesame",
-        "in_stock": true
-      },
-      "9341187326140": {
-        "title": "Billionaire Boys Club Wild Knit Tee - Whisper White",
-        "handle": "billionaire-boys-club-wild-knit-tee-whisper-white-1",
-        "in_stock": true
-      },
-      "9341222355132": {
-        "title": "Billionaire Boys Club Wild Knit Tee - Black",
-        "handle": "billionaire-boys-club-wild-knit-tee-black-1",
-        "in_stock": true
-      },
-      "9341199777980": {
-        "title": "Billionaire Boys Club Onibaba Shorts - Astra",
-        "handle": "billionaire-boys-club-onibaba-shorts-astra",
-        "in_stock": true
-      },
-      "9341157048508": {
-        "title": "Billionaire Boys Club Roar Tee - Navy Blazer",
-        "handle": "billionaire-boys-club-roar-tee-navy-blazer",
-        "in_stock": true
-      },
-      "9339794030780": {
-        "title": "Billionaire Boys Club Fair Tee - Black",
-        "handle": "billionaire-boys-club-fair-tee-black",
-        "in_stock": true
-      },
-      "9341333536956": {
-        "title": "Billionaire Boys Club Next Shorts - Black",
-        "handle": "billionaire-boys-club-next-shorts-black",
-        "in_stock": true
-      },
-      "9339794522300": {
-        "title": "Billionaire Boys Club Prism Tee - White",
-        "handle": "billionaire-boys-club-prism-tee-white",
-        "in_stock": true
-      },
-      "9341335666876": {
-        "title": "Billionaire Boys Club Prism Tee - Black",
-        "handle": "billionaire-boys-club-prism-tee-black",
         "in_stock": true
       }
     },
@@ -8102,7 +8102,7 @@
       "9104757522637": {
         "title": "Men's Ash Canvas Shorts Washed Black",
         "handle": "roa-clothing-ash-canvas-shorts-black-j325418",
-        "in_stock": true
+        "in_stock": false
       },
       "9122872819917": {
         "title": "Men's Sport Knit Golf Polo Obsidian",
@@ -8766,5 +8766,38 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: On Cloud 6 - Midnight/White\nhttps://sneakerpolitics.com/products/on-cloud-6-midnight-white",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - White/Fuego\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-white-fuego",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Cow Print' - Field Brown/Sail\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-cow-print-field-brown-sail",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LX Vibram - Volt/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lx-vibram-volt-black",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Off-White Politics Store Tee - Black\nhttps://sneakerpolitics.com/products/off-white-politics-store-tee-black",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Max 95 OG - Black/Old Royal\nhttps://sneakerpolitics.com/products/womens-nike-air-max-95-og-black-old-royal",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Zoom Vomero 5 - Cacao Wow/Light Khaki\nhttps://sneakerpolitics.com/products/womens-nike-zoom-vomero-5-cacao-wow-light-khaki",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 - University Red/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-university-red-black",
+      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+    }
+  ]
 }
