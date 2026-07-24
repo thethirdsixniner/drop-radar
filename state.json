@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6702647869701": {
+        "title": "JORDAN NBHD PACK TEE - SAIL/ BLACK",
+        "handle": "jordan-nbhd-pack-tee-sail-black",
+        "in_stock": true
+      },
+      "6702647804165": {
+        "title": "JORDAN NBHD PACK THERMAL - SAIL/ DARK TEAM RED",
+        "handle": "jordan-nbhd-pack-thermal-sail-dark-team-red",
+        "in_stock": true
+      },
       "6702658191621": {
         "title": "KOBE NIKE DUNK LOW PROTRO - BLACK/ MULTI-COLOR/ HOT PUNCH",
         "handle": "kobe-nike-dunk-low-protro-black-multi-color-hot-punch",
@@ -2491,16 +2501,6 @@
       "6701498695941": {
         "title": "UNDEFEATED TRACK CREWNECK",
         "handle": "undefeated-track-crewneck-1",
-        "in_stock": true
-      },
-      "6701498794245": {
-        "title": "UNDEFEATED L/S FOOTBALL JERSEY",
-        "handle": "undefeated-l-s-football-jersey",
-        "in_stock": true
-      },
-      "6701499678981": {
-        "title": "UNDEFEATED X NE BIG U SNAPBACK",
-        "handle": "undefeated-x-ne-big-u-snapback",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,21 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9342969282748": {
+        "title": "Jordan Spizike Low (GS) - Phantom/University Red",
+        "handle": "jordan-spizike-low-gs-phantom-university-red",
+        "in_stock": true
+      },
+      "9351468449980": {
+        "title": "Air Jordan 1 Low (GS) - Black/Summit White",
+        "handle": "air-jordan-1-low-gs-black-summit-white",
+        "in_stock": true
+      },
+      "9354264150204": {
+        "title": "Nike Force 1 Low (TD) - Black/Laser Orange",
+        "handle": "nike-force-1-low-td-black-laser-orange",
+        "in_stock": true
+      },
       "9407038423228": {
         "title": "On Cloud 6 - Midnight/White",
         "handle": "on-cloud-6-midnight-white",
@@ -3780,7 +3795,7 @@
       "9470933336252": {
         "title": "Off-White Politics Store Tee - Black",
         "handle": "off-white-politics-store-tee-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9372657746108": {
         "title": "Women's Nike Air Max 95 OG - Black/Old Royal",
@@ -4096,11 +4111,6 @@
         "title": "Fear Of God Essentials Fleece Cargo Field Pants - Iron Grey",
         "handle": "fear-of-god-essentials-fleece-cargo-field-pants-iron-grey",
         "in_stock": true
-      },
-      "9280220856508": {
-        "title": "Willy Chavarria x Adidas Padded Vest - Black",
-        "handle": "willy-chavarria-x-adidas-padded-vest-black",
-        "in_stock": false
       },
       "9403551318204": {
         "title": "Politics x '47 20th Anniversary Hitch Snapback - Mauve",
@@ -4767,11 +4777,6 @@
         "handle": "womens-slawn-x-nigeria-x-nike-soccer-top-black-white",
         "in_stock": true
       },
-      "9189340184764": {
-        "title": "Jordan Brazil Mesh Diamond Shorts - Old Royal/Yellow Pulse",
-        "handle": "jordan-brazil-mesh-diamond-shorts-old-royal-yellow-pulse",
-        "in_stock": false
-      },
       "9349952995516": {
         "title": "Politics Hat Trick Tee - Black",
         "handle": "politics-hat-trick-tee-black",
@@ -5000,11 +5005,6 @@
       "9341179592892": {
         "title": "Billionaire Boys Club Parks Knit Jersey - White",
         "handle": "billionaire-boys-club-parks-knit-jersey-white",
-        "in_stock": true
-      },
-      "9339790426300": {
-        "title": "Billionaire Boys Club Camo Cargo Shorts - Sesame",
-        "handle": "billionaire-boys-club-camo-cargo-shorts-sesame",
         "in_stock": true
       }
     },
@@ -8768,36 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: On Cloud 6 - Midnight/White\nhttps://sneakerpolitics.com/products/on-cloud-6-midnight-white",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN NBHD PACK TEE - SAIL/ BLACK\nhttps://undefeated.com/products/jordan-nbhd-pack-tee-sail-black",
+      "detected_at": "2026-07-24T21:37:48.480851+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - White/Fuego\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-white-fuego",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN NBHD PACK THERMAL - SAIL/ DARK TEAM RED\nhttps://undefeated.com/products/jordan-nbhd-pack-thermal-sail-dark-team-red",
+      "detected_at": "2026-07-24T21:37:48.480851+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Cow Print' - Field Brown/Sail\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-cow-print-field-brown-sail",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Spizike Low (GS) - Phantom/University Red\nhttps://sneakerpolitics.com/products/jordan-spizike-low-gs-phantom-university-red",
+      "detected_at": "2026-07-24T21:37:48.480851+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LX Vibram - Volt/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lx-vibram-volt-black",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low (GS) - Black/Summit White\nhttps://sneakerpolitics.com/products/air-jordan-1-low-gs-black-summit-white",
+      "detected_at": "2026-07-24T21:37:48.480851+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Off-White Politics Store Tee - Black\nhttps://sneakerpolitics.com/products/off-white-politics-store-tee-black",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Max 95 OG - Black/Old Royal\nhttps://sneakerpolitics.com/products/womens-nike-air-max-95-og-black-old-royal",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Zoom Vomero 5 - Cacao Wow/Light Khaki\nhttps://sneakerpolitics.com/products/womens-nike-zoom-vomero-5-cacao-wow-light-khaki",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 - University Red/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-university-red-black",
-      "detected_at": "2026-07-24T20:22:29.161521+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Force 1 Low (TD) - Black/Laser Orange\nhttps://sneakerpolitics.com/products/nike-force-1-low-td-black-laser-orange",
+      "detected_at": "2026-07-24T21:37:48.480851+00:00"
     }
   ]
 }
