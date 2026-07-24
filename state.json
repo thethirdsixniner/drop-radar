@@ -681,16 +681,6 @@
         "handle": "nkir1982-100",
         "in_stock": true
       },
-      "8286582538368": {
-        "title": "MADE-TO-ORDER | Kith for Nike Air Max 95 \"Linen\" - Linen / Atmosphere / White",
-        "handle": "air-max-95-bb-prm-k",
-        "in_stock": true
-      },
-      "8286582571136": {
-        "title": "MADE-TO-ORDER | Kith for Nike Air Force 1 \"Un-Linen\" - Linen / Atmosphere / White",
-        "handle": "air-force-1-low-prm-k",
-        "in_stock": true
-      },
       "8286583980160": {
         "title": "Kith Kids for Nike GS Air Max 95 \"Linen\" - Linen / Atmosphere / White",
         "handle": "nkim6039-201",
@@ -1249,6 +1239,16 @@
       "8286584275072": {
         "title": "New Balance PS 204L - Driftwood / Sandstone",
         "handle": "nbp204l8k2",
+        "in_stock": true
+      },
+      "8286584242304": {
+        "title": "New Balance GS 204L - Driftwood / Sandstone",
+        "handle": "nbg204l5cb",
+        "in_stock": true
+      },
+      "8286584209536": {
+        "title": "Black Suede Studio Crystal Sandal - Snake / Brown PVC",
+        "handle": "bscrystal-brsnp",
         "in_stock": true
       }
     },
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11007982403851": {
+        "title": "Adidas Powerphase",
+        "handle": "adidas-powerphase-footwear-white-night-indigo-chalk-white",
+        "in_stock": true
+      },
       "10862045167883": {
         "title": "Nike Air Force 1 '07",
         "handle": "nike-air-force-1-07-photon-dust-dark-grey-white",
@@ -2588,7 +2593,7 @@
       "10754359394571": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-bottle-rutabaga",
-        "in_stock": true
+        "in_stock": false
       },
       "10715387134219": {
         "title": "Autry Reelwind Low W *Ripstop / Suede*",
@@ -3678,7 +3683,7 @@
       "10797370933515": {
         "title": "Puma x Represent Graphic Tee",
         "handle": "puma-x-represent-graphic-tee-flat-dark-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10839097508107": {
         "title": "New Amsterdam Surf Association Work Trousers",
@@ -3748,11 +3753,6 @@
       "10150079693067": {
         "title": "Brooks Cascadia 1",
         "handle": "brooks-cascadia-1-yellow-black-moonbeam",
-        "in_stock": true
-      },
-      "6634301292708": {
-        "title": "Nike Wmns Dunk Low *Photon Dust*",
-        "handle": "nike-wmns-dunk-low-photon-dust-white-photon-dust-white",
         "in_stock": true
       }
     },
@@ -4457,11 +4457,6 @@
         "handle": "adidas-gazelle-indoor-night-indigo-off-white",
         "in_stock": true
       },
-      "8765101703356": {
-        "title": "Vans LX Authentic 44 - Faded Paisley Black",
-        "handle": "vans-lx-authentic-44-faded-paisley-black",
-        "in_stock": false
-      },
       "8762334314684": {
         "title": "Ksubi Poolside S/S Resort Shirt - Multi",
         "handle": "ksubi-poolside-s-s-resort-shirt-multi",
@@ -5005,6 +5000,11 @@
       "9341227794620": {
         "title": "Billionaire Boys Club Spaceship Tee - White",
         "handle": "billionaire-boys-club-spaceship-tee-white",
+        "in_stock": true
+      },
+      "9341200531644": {
+        "title": "Billionaire Boys Club Wildlife Tee - Black",
+        "handle": "billionaire-boys-club-wildlife-tee-black",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,11 @@
       }
     },
     "https://www.afew-store.com": {
+      "10576273277194": {
+        "title": "Nike Book 2 'Tigers'",
+        "handle": "nike-book-2-midnight-navy-midnight-navy-white",
+        "in_stock": false
+      },
       "10576047538442": {
         "title": "Axel Arigato Dice Lo",
         "handle": "axel-arigato-dice-lo-tan-light-beige",
@@ -6534,12 +6539,12 @@
       "10573847200010": {
         "title": "Nike WMNS FIRST SIGHT SHADOW SP",
         "handle": "nike-wmns-first-sight-shadow-sp-black-multi-color-mtlc-dark-grey",
-        "in_stock": false
+        "in_stock": true
       },
       "10573842219274": {
         "title": "Nike WMNS First Sight Shadow",
         "handle": "nike-wmns-first-sight-metallic-silver-metallic-silver-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10573833502986": {
         "title": "Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)",
@@ -7504,11 +7509,6 @@
       "10561630306570": {
         "title": "Salomon XT 15 OG Backpack",
         "handle": "salomon-xt-15-og-backpack-black",
-        "in_stock": true
-      },
-      "10561629454602": {
-        "title": "Stanley 1913 The Café-To-Go Travel Mug 16 oz / 0.47 L",
-        "handle": "stanley-1913-the-caf-to-go-travel-mug-16-oz-0-47-lblack-2-0",
         "in_stock": true
       }
     },
@@ -8768,36 +8768,28 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike WMNS Total 90 Shox Magia - White / Black\nhttps://kith.com/products/nkir8176-100",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance GS 204L - Driftwood / Sandstone\nhttps://kith.com/products/nbg204l5cb",
+      "detected_at": "2026-07-24T07:19:15.712164+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike WMNS Total 90 Shox Magia - Black / Yellow Diamond\nhttps://kith.com/products/nkir8176-002",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+      "message": "🆕 **New drop** at Kith: Black Suede Studio Crystal Sandal - Snake / Brown PVC\nhttps://kith.com/products/bscrystal-brsnp",
+      "detected_at": "2026-07-24T07:19:15.712164+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbdm0968-104",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Powerphase\nhttps://www.asphaltgold.de/products/adidas-powerphase-footwear-white-night-indigo-chalk-white",
+      "detected_at": "2026-07-24T07:19:15.712164+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbdm0966-104",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Wildlife Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-wildlife-tee-black",
+      "detected_at": "2026-07-24T07:19:15.712164+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbdm0967-104",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS FIRST SIGHT SHADOW SP\nhttps://www.afew-store.com/products/nike-wmns-first-sight-shadow-sp-black-multi-color-mtlc-dark-grey",
+      "detected_at": "2026-07-24T07:19:15.712164+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbif4396-104",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: adidas x Bad Bunny F50 Ghost Sprint - Dark Marine / Light Blue / Clear Sky\nhttps://kith.com/products/aaki9450",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Spaceship Tee - White\nhttps://sneakerpolitics.com/products/billionaire-boys-club-spaceship-tee-white",
-      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS First Sight Shadow\nhttps://www.afew-store.com/products/nike-wmns-first-sight-metallic-silver-metallic-silver-black",
+      "detected_at": "2026-07-24T07:19:15.712164+00:00"
     }
   ]
 }
