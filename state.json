@@ -1,6 +1,41 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286595383424": {
+        "title": "Nike WMNS Total 90 Shox Magia - White / Black",
+        "handle": "nkir8176-100",
+        "in_stock": true
+      },
+      "8286595416192": {
+        "title": "Nike WMNS Total 90 Shox Magia - Black / Yellow Diamond",
+        "handle": "nkir8176-002",
+        "in_stock": true
+      },
+      "8286590304384": {
+        "title": "Jordan TD Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red",
+        "handle": "jbdm0968-104",
+        "in_stock": true
+      },
+      "8286590271616": {
+        "title": "Jordan PS Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red",
+        "handle": "jbdm0966-104",
+        "in_stock": true
+      },
+      "8286590337152": {
+        "title": "Jordan GS Air Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red",
+        "handle": "jbdm0967-104",
+        "in_stock": true
+      },
+      "8286590206080": {
+        "title": "Jordan Air Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red",
+        "handle": "jbif4396-104",
+        "in_stock": true
+      },
+      "8286590238848": {
+        "title": "adidas x Bad Bunny F50 Ghost Sprint - Dark Marine / Light Blue / Clear Sky",
+        "handle": "aaki9450",
+        "in_stock": true
+      },
       "8286594695296": {
         "title": "adidas Hyperboost EPHR LT - Yellow / Cloud White / Silver Metallic",
         "handle": "aakz8507",
@@ -1215,41 +1250,6 @@
         "title": "New Balance PS 204L - Driftwood / Sandstone",
         "handle": "nbp204l8k2",
         "in_stock": true
-      },
-      "8286584242304": {
-        "title": "New Balance GS 204L - Driftwood / Sandstone",
-        "handle": "nbg204l5cb",
-        "in_stock": true
-      },
-      "8286584209536": {
-        "title": "Black Suede Studio Crystal Sandal - Snake / Brown PVC",
-        "handle": "bscrystal-brsnp",
-        "in_stock": true
-      },
-      "8286584176768": {
-        "title": "Black Suede Studio Crystal Sandal - Navy / Black PVC",
-        "handle": "bscrystal-navy",
-        "in_stock": true
-      },
-      "8286584144000": {
-        "title": "Black Suede Studio Crystal Sandal - Chestnut PVC",
-        "handle": "bscrystal-chspv",
-        "in_stock": true
-      },
-      "8286584111232": {
-        "title": "New Balance 1954R - Slate Grey / Castlerock",
-        "handle": "nbu195438r",
-        "in_stock": true
-      },
-      "8286584078464": {
-        "title": "Black Suede Studio Crystal Sandal - Red Stripe / Red PVC",
-        "handle": "bscrystal-rdstr",
-        "in_stock": true
-      },
-      "8286582472832": {
-        "title": "Nike Zoom Skylon 11 - Volt / Black / Light Smoke Grey / Metallic Silver",
-        "handle": "nkiu1869-700",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -1486,7 +1486,7 @@
       "6702407483653": {
         "title": "NIKE KOBE AIR FORCE 1 LOW - WHITE/ TEAM RED",
         "handle": "nike-kobe-air-force-1-low-white-team-red",
-        "in_stock": true
+        "in_stock": false
       },
       "6701171605765": {
         "title": "NEW BALANCE 1906L - WOODLAND",
@@ -4627,11 +4627,6 @@
         "handle": "womens-nike-t90-shox-magia-wc-black-spinach-green",
         "in_stock": true
       },
-      "9295869903036": {
-        "title": "Nike Air Max 90 - Coconut Milk/Deep Royal Blue",
-        "handle": "nike-air-max-90-coconut-milk-deep-royal-blue",
-        "in_stock": false
-      },
       "9342107648188": {
         "title": "Jungles Nowhere To Go Tee - Vintage Blue",
         "handle": "jungles-nowhere-to-go-tee-vintage-blue",
@@ -5005,6 +5000,11 @@
       "9341159047356": {
         "title": "Billionaire Boys Club Space Race Tee - White",
         "handle": "billionaire-boys-club-space-race-tee-white",
+        "in_stock": true
+      },
+      "9341227794620": {
+        "title": "Billionaire Boys Club Spaceship Tee - White",
+        "handle": "billionaire-boys-club-spaceship-tee-white",
         "in_stock": true
       }
     },
@@ -7797,7 +7797,7 @@
       "9106334548173": {
         "title": "Vomero Premium Sneakers White / Black / Bright Crimson / Photon Dust",
         "handle": "nike-footwear-nike-vomero-premium-multicolor-j336144",
-        "in_stock": true
+        "in_stock": false
       },
       "9033822732493": {
         "title": "Men's Tasman II Sandals Chestnut",
@@ -8766,5 +8766,38 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Kith: Nike WMNS Total 90 Shox Magia - White / Black\nhttps://kith.com/products/nkir8176-100",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Nike WMNS Total 90 Shox Magia - Black / Yellow Diamond\nhttps://kith.com/products/nkir8176-002",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbdm0968-104",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbdm0966-104",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbdm0967-104",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 3 Retro - White / True Blue / Cement Grey / Fire Red\nhttps://kith.com/products/jbif4396-104",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: adidas x Bad Bunny F50 Ghost Sprint - Dark Marine / Light Blue / Clear Sky\nhttps://kith.com/products/aaki9450",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Spaceship Tee - White\nhttps://sneakerpolitics.com/products/billionaire-boys-club-spaceship-tee-white",
+      "detected_at": "2026-07-24T04:34:22.729671+00:00"
+    }
+  ]
 }
