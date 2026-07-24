@@ -1,6 +1,31 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286595678336": {
+        "title": "ASICS x Kiko Kostadinov Ilargi FF II - Sage Frost / Tatami Green",
+        "handle": "ai1203b111-300",
+        "in_stock": true
+      },
+      "8286595580032": {
+        "title": "ASICS x Kiko Kostadinov Ilargi FF II - Driftwood / Dioptase",
+        "handle": "ai1203b111-200",
+        "in_stock": true
+      },
+      "8286595612800": {
+        "title": "Nike WMNS First Sight Shadow - Metallic Silver",
+        "handle": "nkhq2410-002",
+        "in_stock": true
+      },
+      "8286595547264": {
+        "title": "Nike WMNS First Sight Shadow - Triple Black",
+        "handle": "nkhq2410-001",
+        "in_stock": true
+      },
+      "8286595514496": {
+        "title": "Nike Air Zoom Huarache 2K4 - Deep Forest / White / Canyon Gold",
+        "handle": "nkiw1884-100",
+        "in_stock": true
+      },
       "8286585487488": {
         "title": "MADE-TO-ORDER | Kith for Nike Air Force 1 \"Un-Linen\" - Linen / Atmosphere / White - PH",
         "handle": "nkjj9680-600-ph",
@@ -1225,34 +1250,49 @@
         "title": "New Balance 204V - Neo Flame / Black / Black Cement",
         "handle": "nbu204vmcv",
         "in_stock": true
-      },
-      "8286584406144": {
-        "title": "New Balance 1890A - Morel / Black",
-        "handle": "nbu18907p8",
-        "in_stock": true
-      },
-      "8286584373376": {
-        "title": "New Balance RC56 - Silver Metallic / NB Navy",
-        "handle": "nburc569rw",
-        "in_stock": true
-      },
-      "8286584340608": {
-        "title": "New Balance RC56 - Silver Metallic / Black",
-        "handle": "nburc562l1",
-        "in_stock": true
-      },
-      "8286584307840": {
-        "title": "New Balance 1906E - Black",
-        "handle": "nbu19069br",
-        "in_stock": true
-      },
-      "8286584275072": {
-        "title": "New Balance PS 204L - Driftwood / Sandstone",
-        "handle": "nbp204l8k2",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702658191621": {
+        "title": "KOBE NIKE DUNK LOW PROTRO - BLACK/ MULTI-COLOR/ HOT PUNCH",
+        "handle": "kobe-nike-dunk-low-protro-black-multi-color-hot-punch",
+        "in_stock": true
+      },
+      "6702659404037": {
+        "title": "NIKE KOBE III LOW PROTRO - SAIL/ HOT PUNCH",
+        "handle": "nike-kobe-iii-low-protro-sail-hot-punch",
+        "in_stock": true
+      },
+      "6702639710469": {
+        "title": "NIKE WMNS ZOOM SKYLON 11 - UNIVERSITY RED/ BLACK / METALLIC SILVER",
+        "handle": "nike-wmns-zoom-skylon-11-university-red-black-metallic-silver",
+        "in_stock": true
+      },
+      "6702658158853": {
+        "title": "NIKE WMNS ZOOM SKYLON 11 - VOLT/ METALLIC SILVER",
+        "handle": "nike-wmns-zoom-skylon-11-volt-metallic-silver",
+        "in_stock": true
+      },
+      "6702628897029": {
+        "title": "NIKE ZOOM SKYLON 11 - VOLT/ METALLIC SILVER",
+        "handle": "nike-zoom-skylon-11-volt-metallic-silver",
+        "in_stock": true
+      },
+      "6702658093317": {
+        "title": "NIKE WMNS FIRST SIGHT - METALLIC SILVER/ BLACK",
+        "handle": "nike-wmns-first-sight-metallic-silver-black",
+        "in_stock": true
+      },
+      "6702639743237": {
+        "title": "NIKE WMNS FIRST SIGHT - BLACK/ MULTI-COLOR",
+        "handle": "nike-wmns-first-sight-black-multi-color",
+        "in_stock": true
+      },
+      "6702658060549": {
+        "title": "NIKE AIR ZOOM HUARACHE - WHITE/ DEEP FOREST/ CANYON GOLD",
+        "handle": "nike-air-zoom-huarache-white-deep-forest-canyon-gold",
+        "in_stock": true
+      },
       "6671245672709": {
         "title": "UNDEFEATED BARBER CAPE -BLACK/OLIVE",
         "handle": "undefeated-barber-cape-black-olive",
@@ -1571,7 +1611,7 @@
       "6689438728453": {
         "title": "NIKE CORTEZ TEXTILE - BLACK/ WHITE",
         "handle": "nike-cortez-txt-black-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6702638104837": {
         "title": "NIKE AIR MAX JOGA BONITO R9 - METALLIC SILVER/ VARSITY MAIZE",
@@ -2462,46 +2502,6 @@
         "title": "UNDEFEATED DIRTY STATE S/S TEE",
         "handle": "undefeated-dirty-state-s-s-tee",
         "in_stock": true
-      },
-      "6701499646213": {
-        "title": "UNDEFEATED FOIL PHOTO ICON S/S TEE - OLIVE",
-        "handle": "undefeated-foil-photo-icon-s-s-tee-olive",
-        "in_stock": true
-      },
-      "6701499351301": {
-        "title": "UNDEFEATED I-BAR S/S TEE",
-        "handle": "undefeated-i-bar-s-s-tee",
-        "in_stock": true
-      },
-      "6701499154693": {
-        "title": "UNDEFEATED ICON S/S TEE",
-        "handle": "undefeated-icon-s-s-tee-15",
-        "in_stock": true
-      },
-      "6701499318533": {
-        "title": "UNDEFEATED SPIRAL S/S TEE",
-        "handle": "undefeated-spiral-s-s-tee",
-        "in_stock": true
-      },
-      "6701498695941": {
-        "title": "UNDEFEATED TRACK CREWNECK",
-        "handle": "undefeated-track-crewneck-1",
-        "in_stock": true
-      },
-      "6701498794245": {
-        "title": "UNDEFEATED L/S FOOTBALL JERSEY",
-        "handle": "undefeated-l-s-football-jersey",
-        "in_stock": true
-      },
-      "6701499678981": {
-        "title": "UNDEFEATED X NE BIG U SNAPBACK",
-        "handle": "undefeated-x-ne-big-u-snapback",
-        "in_stock": true
-      },
-      "6701499941125": {
-        "title": "UNDEFEATED X NE MONOCHROME ICON FITTED",
-        "handle": "undefeated-x-ne-monochrome-icon-fitted",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2528,7 +2528,7 @@
       "10999588716811": {
         "title": "Asics GEL-Kinetic 2.0",
         "handle": "asics-gelkinetic-20-cocoa-powder-oatmeal",
-        "in_stock": false
+        "in_stock": true
       },
       "11003895808267": {
         "title": "Nike Wmns Nike Zoom Skylon 11",
@@ -3757,6 +3757,36 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9356904923324": {
+        "title": "New Era x Politics New York Mets 59FIFTY Fitted - Black",
+        "handle": "new-era-x-politics-new-york-mets-59fifty-fitted-black",
+        "in_stock": true
+      },
+      "9412232773820": {
+        "title": "EDGLRD x Converse Chuck 70 Hi - Black/Yellow",
+        "handle": "edglrd-x-converse-chuck-70-hi-black-yellow",
+        "in_stock": true
+      },
+      "9412241359036": {
+        "title": "EDGLRD x Converse Chuck 70 Ox - White/Black",
+        "handle": "edglrd-x-converse-chuck-70-ox-white-black",
+        "in_stock": true
+      },
+      "9324764889276": {
+        "title": "Asics Gel-Cumulus 16 - Black/Black",
+        "handle": "asics-gel-cumulus-16-black-black-1",
+        "in_stock": true
+      },
+      "9357016006844": {
+        "title": "Nike Air Zoom Huarache 2K4 'Sue Bird' - White/Deep Forest",
+        "handle": "nike-air-zoom-huarache-2k4-sue-bird-white-deep-forest",
+        "in_stock": true
+      },
+      "9357571326140": {
+        "title": "Nike Zoom Skylon 11 - Volt/Metallic Silver",
+        "handle": "nike-zoom-skylon-11-volt-metallic-silver",
+        "in_stock": true
+      },
       "9283419177148": {
         "title": "Vans LX Authentic 44 'Beaded' - Checkerboard Black",
         "handle": "vans-lx-authentic-44-beaded-checkerboard-black",
@@ -3825,7 +3855,7 @@
       "9363156074684": {
         "title": "PEACEMINUSONE x Korea x Nike Academy Pro Soccer Top - Black/White",
         "handle": "peaceminusone-x-korea-x-nike-academy-pro-soccer-top-black-white-1",
-        "in_stock": true
+        "in_stock": false
       },
       "9406860984508": {
         "title": "Dragon Ball Z x Converse Chuck 70 'Shenron' - Black/Cyber Yellow",
@@ -4976,39 +5006,19 @@
         "title": "Billionaire Boys Club Camo Tee - Black",
         "handle": "billionaire-boys-club-camo-tee-black",
         "in_stock": true
-      },
-      "9341167009980": {
-        "title": "Billionaire Boys Club Camo Tee - Apricot",
-        "handle": "billionaire-boys-club-camo-tee-apricot",
-        "in_stock": true
-      },
-      "9341339369660": {
-        "title": "Billionaire Boys Club Helmet Tee - White",
-        "handle": "billionaire-boys-club-helmet-tee-white-1",
-        "in_stock": true
-      },
-      "9341206036668": {
-        "title": "Billionaire Boys Club Helmet Tee - Black",
-        "handle": "billionaire-boys-club-helmet-tee-black-1",
-        "in_stock": true
-      },
-      "9341159047356": {
-        "title": "Billionaire Boys Club Space Race Tee - White",
-        "handle": "billionaire-boys-club-space-race-tee-white",
-        "in_stock": true
-      },
-      "9341227794620": {
-        "title": "Billionaire Boys Club Spaceship Tee - White",
-        "handle": "billionaire-boys-club-spaceship-tee-white",
-        "in_stock": true
-      },
-      "9341200531644": {
-        "title": "Billionaire Boys Club Wildlife Tee - Black",
-        "handle": "billionaire-boys-club-wildlife-tee-black",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
+      "15043822190968": {
+        "title": "ASICS Gel NYC 2.0 'Slate Blue Graphite Grey'",
+        "handle": "asics-gel-nyc-2-0-slate-blue-graphite-grey",
+        "in_stock": false
+      },
+      "15043821863288": {
+        "title": "ASICS Gel NYC 2.0 'Graphite Grey Loden Green'",
+        "handle": "asics-gel-nyc-2-0-graphite-grey-loden-green",
+        "in_stock": false
+      },
       "15043098870136": {
         "title": "Mizuno Wave Mustang LS Sport 'Black Fuchsia Purple Blackberry Cordial'",
         "handle": "mizuno-wave-mustang-ls-sport-black-fuchsia-purple-blackberry-cordial",
@@ -6248,53 +6258,43 @@
         "title": "Air Jordan 4 RM Fire Red",
         "handle": "air-jordan-4-rm-fire-red",
         "in_stock": false
-      },
-      "15029173584248": {
-        "title": "Jordan 4 Retro Seafoam Sail W",
-        "handle": "jordan-4-retro-seafoam-sail-w",
-        "in_stock": false
-      },
-      "15029173551480": {
-        "title": "Air Jordan 4 Retro Cave Stone GS",
-        "handle": "air-jordan-4-retro-cave-stone-gs",
-        "in_stock": false
       }
     },
     "https://www.afew-store.com": {
       "10576641458442": {
         "title": "Hoka One One WMNS TRANSPORT 2",
         "handle": "hoka-one-one-wmns-transport-2-black-alabaster",
-        "in_stock": false
+        "in_stock": true
       },
       "10576640835850": {
         "title": "Hoka One One WMNS TRANSPORT 2",
         "handle": "hoka-one-one-wmns-transport-2-glimmering-blue-glimmering-blue",
-        "in_stock": false
+        "in_stock": true
       },
       "10576640246026": {
         "title": "Hoka One One TRANSPORT 2",
         "handle": "hoka-one-one-transport-2-black-alabaster",
-        "in_stock": false
+        "in_stock": true
       },
       "10576630087946": {
         "title": "Asics GEL-DS TRAINER 14",
         "handle": "asics-gel-ds-trainer-14-light-sage-cream",
-        "in_stock": false
+        "in_stock": true
       },
       "10576628941066": {
         "title": "Timberland Heritage Clog",
         "handle": "timberland-hrtg-clog-shoe-wheat-nubuck",
-        "in_stock": false
+        "in_stock": true
       },
       "10576627532042": {
         "title": "adidas Originals WMNS ADIZERO ADIOS OG",
         "handle": "adidas-originals-wmns-adizero-adios-og-utiyel-ironmt-cblack",
-        "in_stock": false
+        "in_stock": true
       },
       "10576626843914": {
         "title": "adidas Originals SAMBA OG",
         "handle": "adidas-originals-samba-og-shared-warvan-gum4",
-        "in_stock": false
+        "in_stock": true
       },
       "10576373678346": {
         "title": "G-SHOCK GA-700CF-1AER",
@@ -7514,6 +7514,21 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9110404858061": {
+        "title": "Men's Stencil Print Pocket T-Shirt Grey",
+        "handle": "oamc-peacemaker-clothing-pocket-tee-stencil-print-grey-j333551",
+        "in_stock": true
+      },
+      "9038524842189": {
+        "title": "Men's Leaf Loose Fit Longsleeve T-Shirt Black",
+        "handle": "oamc-peacemaker-clothing-peacemaker-leaf-loose-fit-crewneck-black-j305757",
+        "in_stock": true
+      },
+      "9095532347597": {
+        "title": "Men's Nylon Metal Swim Shorts Oleander",
+        "handle": "stone-island-clothing-nylon-metal-contrast-swimshorts-pink-j345699",
+        "in_stock": true
+      },
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
@@ -8748,40 +8763,129 @@
         "title": "Men's Borrowed Shirt Stella Check Print",
         "handle": "our-legacy-clothing-borrowed-shirt-beige-j355577",
         "in_stock": true
-      },
-      "9122170241229": {
-        "title": "Men's Box T-Shirt Worn Black",
-        "handle": "our-legacy-clothing-box-t-shirt-black-j355572",
-        "in_stock": true
-      },
-      "9122170142925": {
-        "title": "Men's Mini Leather Jacket Black",
-        "handle": "our-legacy-clothing-mini-jacket-black-j355575",
-        "in_stock": true
-      },
-      "9122170077389": {
-        "title": "Men's Full Zip Hoodie Black",
-        "handle": "our-legacy-clothing-full-zip-hood-black-j355576",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gel-nyc-cream-umeboshi",
-      "detected_at": "2026-07-24T13:50:39.530008+00:00"
+      "message": "🆕 **New drop** at Kith: ASICS x Kiko Kostadinov Ilargi FF II - Sage Frost / Tatami Green\nhttps://kith.com/products/ai1203b111-300",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kinetic 2.0\nhttps://www.asphaltgold.de/products/asics-gelkinetic-20-obsidian-grey-olive-canvas",
-      "detected_at": "2026-07-24T13:50:39.530008+00:00"
+      "message": "🆕 **New drop** at Kith: ASICS x Kiko Kostadinov Ilargi FF II - Driftwood / Dioptase\nhttps://kith.com/products/ai1203b111-200",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kayano 14\nhttps://www.asphaltgold.de/products/asics-gelkayano-14-ivory-cream",
-      "detected_at": "2026-07-24T13:50:39.530008+00:00"
+      "message": "🆕 **New drop** at Kith: Nike WMNS First Sight Shadow - Metallic Silver\nhttps://kith.com/products/nkhq2410-002",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kayano 14\nhttps://www.asphaltgold.de/products/asics-gelkayano-14-piedmont-grey-black",
-      "detected_at": "2026-07-24T13:50:39.530008+00:00"
+      "message": "🆕 **New drop** at Kith: Nike WMNS First Sight Shadow - Triple Black\nhttps://kith.com/products/nkhq2410-001",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Nike Air Zoom Huarache 2K4 - Deep Forest / White / Canyon Gold\nhttps://kith.com/products/nkiw1884-100",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: KOBE NIKE DUNK LOW PROTRO - BLACK/ MULTI-COLOR/ HOT PUNCH\nhttps://undefeated.com/products/kobe-nike-dunk-low-protro-black-multi-color-hot-punch",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE KOBE III LOW PROTRO - SAIL/ HOT PUNCH\nhttps://undefeated.com/products/nike-kobe-iii-low-protro-sail-hot-punch",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE WMNS ZOOM SKYLON 11 - UNIVERSITY RED/ BLACK / METALLIC SILVER\nhttps://undefeated.com/products/nike-wmns-zoom-skylon-11-university-red-black-metallic-silver",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE WMNS ZOOM SKYLON 11 - VOLT/ METALLIC SILVER\nhttps://undefeated.com/products/nike-wmns-zoom-skylon-11-volt-metallic-silver",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE ZOOM SKYLON 11 - VOLT/ METALLIC SILVER\nhttps://undefeated.com/products/nike-zoom-skylon-11-volt-metallic-silver",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE WMNS FIRST SIGHT - METALLIC SILVER/ BLACK\nhttps://undefeated.com/products/nike-wmns-first-sight-metallic-silver-black",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE WMNS FIRST SIGHT - BLACK/ MULTI-COLOR\nhttps://undefeated.com/products/nike-wmns-first-sight-black-multi-color",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR ZOOM HUARACHE - WHITE/ DEEP FOREST/ CANYON GOLD\nhttps://undefeated.com/products/nike-air-zoom-huarache-white-deep-forest-canyon-gold",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-Kinetic 2.0\nhttps://www.asphaltgold.de/products/asics-gelkinetic-20-cocoa-powder-oatmeal",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Politics New York Mets 59FIFTY Fitted - Black\nhttps://sneakerpolitics.com/products/new-era-x-politics-new-york-mets-59fifty-fitted-black",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: EDGLRD x Converse Chuck 70 Hi - Black/Yellow\nhttps://sneakerpolitics.com/products/edglrd-x-converse-chuck-70-hi-black-yellow",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: EDGLRD x Converse Chuck 70 Ox - White/Black\nhttps://sneakerpolitics.com/products/edglrd-x-converse-chuck-70-ox-white-black",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Cumulus 16 - Black/Black\nhttps://sneakerpolitics.com/products/asics-gel-cumulus-16-black-black-1",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Zoom Huarache 2K4 'Sue Bird' - White/Deep Forest\nhttps://sneakerpolitics.com/products/nike-air-zoom-huarache-2k4-sue-bird-white-deep-forest",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Zoom Skylon 11 - Volt/Metallic Silver\nhttps://sneakerpolitics.com/products/nike-zoom-skylon-11-volt-metallic-silver",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Hoka One One WMNS TRANSPORT 2\nhttps://www.afew-store.com/products/hoka-one-one-wmns-transport-2-black-alabaster",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Hoka One One WMNS TRANSPORT 2\nhttps://www.afew-store.com/products/hoka-one-one-wmns-transport-2-glimmering-blue-glimmering-blue",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Hoka One One TRANSPORT 2\nhttps://www.afew-store.com/products/hoka-one-one-transport-2-black-alabaster",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Asics GEL-DS TRAINER 14\nhttps://www.afew-store.com/products/asics-gel-ds-trainer-14-light-sage-cream",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Timberland Heritage Clog\nhttps://www.afew-store.com/products/timberland-hrtg-clog-shoe-wheat-nubuck",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS ADIZERO ADIOS OG\nhttps://www.afew-store.com/products/adidas-originals-wmns-adizero-adios-og-utiyel-ironmt-cblack",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals SAMBA OG\nhttps://www.afew-store.com/products/adidas-originals-samba-og-shared-warvan-gum4",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Stencil Print Pocket T-Shirt Grey\nhttps://www.slamjam.com/products/oamc-peacemaker-clothing-pocket-tee-stencil-print-grey-j333551",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Leaf Loose Fit Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/oamc-peacemaker-clothing-peacemaker-leaf-loose-fit-crewneck-black-j305757",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Nylon Metal Swim Shorts Oleander\nhttps://www.slamjam.com/products/stone-island-clothing-nylon-metal-contrast-swimshorts-pink-j345699",
+      "detected_at": "2026-07-24T15:26:40.652244+00:00"
     }
   ]
 }
