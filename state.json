@@ -2883,7 +2883,7 @@
       "10691375661323": {
         "title": "Asics GT-2160",
         "handle": "asics-gt2160-white-sun-coral",
-        "in_stock": true
+        "in_stock": false
       },
       "10763156586763": {
         "title": "Autry Reelwind Low W *Suede / Net*",
@@ -8766,50 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED FOIL PHOTO ICON S/S TEE - OLIVE\nhttps://undefeated.com/products/undefeated-foil-photo-icon-s-s-tee-olive",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED I-BAR S/S TEE\nhttps://undefeated.com/products/undefeated-i-bar-s-s-tee",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON S/S TEE\nhttps://undefeated.com/products/undefeated-icon-s-s-tee-15",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SPIRAL S/S TEE\nhttps://undefeated.com/products/undefeated-spiral-s-s-tee",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED TRACK CREWNECK\nhttps://undefeated.com/products/undefeated-track-crewneck-1",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED L/S FOOTBALL JERSEY\nhttps://undefeated.com/products/undefeated-l-s-football-jersey",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X NE BIG U SNAPBACK\nhttps://undefeated.com/products/undefeated-x-ne-big-u-snapback",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Mid (PS) - Black/Phantom\nhttps://sneakerpolitics.com/products/jordan-1-mid-ps-black-phantom",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Mid (GS) - Black/Phantom\nhttps://sneakerpolitics.com/products/air-jordan-1-mid-gs-black-phantom",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low SE (GS) - Lime Blast/Anthracite\nhttps://sneakerpolitics.com/products/air-jordan-1-low-se-gs-lime-blast-anthracite",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Paramount - White/Gold\nhttps://sneakerpolitics.com/products/saucony-progrid-paramount-white-gold-1",
-      "detected_at": "2026-07-24T17:07:40.871428+00:00"
-    }
-  ]
+  "pending_free": []
 }
