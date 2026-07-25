@@ -3348,7 +3348,7 @@
       "10150063505675": {
         "title": "New Balance U1906LGR",
         "handle": "new-balance-u1906lgr-raincloud",
-        "in_stock": true
+        "in_stock": false
       },
       "8913747771659": {
         "title": "Asics GT-2160",
@@ -8766,46 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Vest - Mid Indigo\nhttps://kith.com/products/lev006d3-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Trucker Jacket - Rinse\nhttps://kith.com/products/lev005rh-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Pocket Tee - Multi Color\nhttps://kith.com/products/lev005rk-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Overalls - Mid Indigo\nhttps://kith.com/products/lev005s4-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Loose Jeans - Mid Indigo\nhttps://kith.com/products/lev005s3-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Garden Tote Bag - Multi Color\nhttps://kith.com/products/lev005s6-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Chore Coat - Rinse\nhttps://kith.com/products/lev005ri-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Baggy Utility Shorts - Mid Indigo\nhttps://kith.com/products/lev005s2-0000",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Authentic 44 EXT 'Copa' - Racing Red\nhttps://sneakerpolitics.com/products/vans-lx-authentic-44-ext-copa-racing-red",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - Eggshell/Touch\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-eggshell-touch",
-      "detected_at": "2026-07-25T15:47:10.410163+00:00"
-    }
-  ]
+  "pending_free": []
 }
