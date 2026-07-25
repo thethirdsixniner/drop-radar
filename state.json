@@ -169,7 +169,7 @@
       "8286593220736": {
         "title": "ReDone 50s Boxy Swirl Tee - Washed Black",
         "handle": "re024-02wbxt010",
-        "in_stock": false
+        "in_stock": true
       },
       "8286592368768": {
         "title": "Oseree Lumière Candy Two Piece Bikini Set - Candy",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "10724804821259": {
+        "title": "Salomon X-Alp Mid Leather GTX",
+        "handle": "salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
+        "in_stock": true
+      },
       "10845224796427": {
         "title": "Nike Air Jordan 4 OG *Flight Club*",
         "handle": "nike-air-jordan-4-og-flight-club-sail-black-university-red",
@@ -3293,7 +3298,7 @@
       "10685387342091": {
         "title": "Adidas Samba LT W",
         "handle": "adidas-samba-lt-w-core-black-lucid-blue-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10167567581451": {
         "title": "Adidas x Wales Bonner Karintha Suede",
@@ -3748,11 +3753,6 @@
       "10841051824395": {
         "title": "Adidas Japan",
         "handle": "adidas-japan-off-white-core-black-wonder-white",
-        "in_stock": true
-      },
-      "10716161802507": {
-        "title": "Asics JOG 100S",
-        "handle": "asics-jog-100s-pale-oak-pure-silver",
         "in_stock": true
       }
     },
@@ -8768,48 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: 47 x Tommy Hilfiger *Miami Heat* Courtside 47 Clean Up Cap\nhttps://www.asphaltgold.de/products/47-x-tommy-hilfiger-miami-heat-courtside-47-clean-up-cap-red",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
+      "message": "🔥 **Restock** at Kith: ReDone 50s Boxy Swirl Tee - Washed Black\nhttps://kith.com/products/re024-02wbxt010",
+      "detected_at": "2026-07-25T23:43:50.230917+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: HAY Tube Candleholder Small\nhttps://www.asphaltgold.de/products/hay-tube-candleholder-small-off-white",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Polo Sport Cotton Chino Baseball Cap\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-polo-sport-cotton-chino-baseball-cap-pale-russet",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Cotton Chino Baseball Cap\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-cotton-chino-baseball-cap-moss-agate",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules T-Shirt\nhttps://www.asphaltgold.de/products/nikeclub-rules-tshirt-summit-white",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules Track Pants\nhttps://www.asphaltgold.de/products/nikeclub-rules-track-pants-white-black-sail",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules Track Pants\nhttps://www.asphaltgold.de/products/nikeclub-rules-track-pants-college-grey-black-black",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tACG 6\" Brief-Lined Trail Running Shorts\nhttps://www.asphaltgold.de/products/nikeacg-6-brieflined-trail-running-shorts-sequoia-light-army-summit-white",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG\nhttps://www.asphaltgold.de/products/adidas-samba-og-chalk-white-core-black-gum-3",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Japan\nhttps://www.asphaltgold.de/products/adidas-japan-off-white-core-black-wonder-white",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics JOG 100S\nhttps://www.asphaltgold.de/products/asics-jog-100s-pale-oak-pure-silver",
-      "detected_at": "2026-07-25T22:38:13.557453+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Salomon X-Alp Mid Leather GTX\nhttps://www.asphaltgold.de/products/salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
+      "detected_at": "2026-07-25T23:43:50.230917+00:00"
     }
   ]
 }
