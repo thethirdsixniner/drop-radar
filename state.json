@@ -169,7 +169,7 @@
       "8286593220736": {
         "title": "ReDone 50s Boxy Swirl Tee - Washed Black",
         "handle": "re024-02wbxt010",
-        "in_stock": true
+        "in_stock": false
       },
       "8286592368768": {
         "title": "Oseree Lumière Candy Two Piece Bikini Set - Candy",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Full Zip Hoodie Black\nhttps://www.slamjam.com/products/our-legacy-clothing-full-zip-hood-black-j355576",
-      "detected_at": "2026-07-25T19:04:00.697980+00:00"
-    }
-  ]
+  "pending_free": []
 }
