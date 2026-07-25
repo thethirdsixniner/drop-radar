@@ -2451,7 +2451,7 @@
       "6700580143365": {
         "title": "UNDEFEATED X BCFC X NIKE STADIUM AWAY JERSEY - WHITE",
         "handle": "undefeated-x-bcfc-x-nike-stadium-away-jersey-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6700580208901": {
         "title": "UNDEFEATED X BCFC X NIKE STADIUM THIRD JERSEY - BLACK",
@@ -3987,11 +3987,6 @@
         "handle": "slawn-x-nigeria-x-nike-tee-white",
         "in_stock": true
       },
-      "9363157876924": {
-        "title": "Women's PEACEMINUSONE x Korea x Nike Soccer Top - Black/White",
-        "handle": "womens-peaceminusone-x-korea-x-nike-soccer-top-black-white",
-        "in_stock": false
-      },
       "9363156074684": {
         "title": "PEACEMINUSONE x Korea x Nike Academy Pro Soccer Top - Black/White",
         "handle": "peaceminusone-x-korea-x-nike-academy-pro-soccer-top-black-white-1",
@@ -5005,6 +5000,11 @@
       "9399245930684": {
         "title": "Timberland Premium 6\" Lace Up Waterproof Boot (TD) - Wheat",
         "handle": "timberland-premium-6-lace-up-waterproof-boot-td-wheat",
+        "in_stock": true
+      },
+      "9399245013180": {
+        "title": "Timberland Premium 6\" Lace Up Waterproof Boot (PS) - Wheat",
+        "handle": "timberland-premium-6-lace-up-waterproof-boot-ps-wheat",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Timberland Premium 6\" Lace Up Waterproof Boot (PS) - Wheat\nhttps://sneakerpolitics.com/products/timberland-premium-6-lace-up-waterproof-boot-ps-wheat",
+      "detected_at": "2026-07-25T12:45:16.605337+00:00"
+    }
+  ]
 }
