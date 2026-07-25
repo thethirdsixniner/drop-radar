@@ -2928,7 +2928,7 @@
       "10745295601931": {
         "title": "Brooks Cascadia 19",
         "handle": "brooks-cascadia-19-blue-gray-bellwether",
-        "in_stock": true
+        "in_stock": false
       },
       "10798541668619": {
         "title": "Wales Bonner Calm Polo",
@@ -3013,7 +3013,7 @@
       "10691398598923": {
         "title": "Asics GEL-1130",
         "handle": "asics-gel1130-white-pepper",
-        "in_stock": true
+        "in_stock": false
       },
       "10760456929547": {
         "title": "AMI Paris College Sweater",
@@ -3323,7 +3323,7 @@
       "10122200514827": {
         "title": "Adidas Adizero Aruku",
         "handle": "adidas-adizero-aruku-crystal-white-footwear-white-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10685387342091": {
         "title": "Adidas Samba LT W",
@@ -7584,11 +7584,6 @@
         "handle": "puma-clothing-puma-x-fif-x-salehe-bembury-king-jersey-red-j349951",
         "in_stock": true
       },
-      "9118678581453": {
-        "title": "England x Palace Academy Pro Shortsleeve Soccer Top Pewter Grey / Bright Crimson",
-        "handle": "nike-clothing-enx-m-nk-df-acdpr-ss-pm-top-black-j352031",
-        "in_stock": false
-      },
       "9123644539085": {
         "title": "Klim OG Sneakers Brandy / Amber",
         "handle": "puma-footwear-klim-og-mu-brown-j363747",
@@ -8763,25 +8758,18 @@
         "title": "Men's Box T-Shirt Worn Black",
         "handle": "our-legacy-clothing-box-t-shirt-black-j355572",
         "in_stock": true
+      },
+      "9122170142925": {
+        "title": "Men's Mini Leather Jacket Black",
+        "handle": "our-legacy-clothing-mini-jacket-black-j355575",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Nike Air Jordan 4 Retro *Comic* *TD*\nhttps://www.asphaltgold.de/products/nike-air-jordan-4-retro-comic-td-off-white-fire-pink-anthraricte",
-      "detected_at": "2026-07-25T08:10:24.455386+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals ZX 8000\nhttps://www.afew-store.com/products/adidas-originals-zx-8000-gretwo-purple-sefrle",
-      "detected_at": "2026-07-25T08:10:24.455386+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: AIR JORDAN 4 RETRO 'Comic'\nhttps://www.afew-store.com/products/air-jordan-4-retro-off-white-fire-pink-anthracite1",
-      "detected_at": "2026-07-25T08:10:24.455386+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Box T-Shirt Worn Black\nhttps://www.slamjam.com/products/our-legacy-clothing-box-t-shirt-black-j355572",
-      "detected_at": "2026-07-25T08:10:24.455386+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Mini Leather Jacket Black\nhttps://www.slamjam.com/products/our-legacy-clothing-mini-jacket-black-j355575",
+      "detected_at": "2026-07-25T10:02:14.028775+00:00"
     }
   ]
 }
