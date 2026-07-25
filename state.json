@@ -1,6 +1,46 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286595121280": {
+        "title": "Levi's x Sky High Farm Goods Vest - Mid Indigo",
+        "handle": "lev006d3-0000",
+        "in_stock": true
+      },
+      "8286594990208": {
+        "title": "Levi's x Sky High Farm Goods Trucker Jacket - Rinse",
+        "handle": "lev005rh-0000",
+        "in_stock": true
+      },
+      "8286595088512": {
+        "title": "Levi's x Sky High Farm Goods Pocket Tee - Multi Color",
+        "handle": "lev005rk-0000",
+        "in_stock": true
+      },
+      "8286595154048": {
+        "title": "Levi's x Sky High Farm Goods Overalls - Mid Indigo",
+        "handle": "lev005s4-0000",
+        "in_stock": true
+      },
+      "8286595055744": {
+        "title": "Levi's x Sky High Farm Goods Loose Jeans - Mid Indigo",
+        "handle": "lev005s3-0000",
+        "in_stock": true
+      },
+      "8286594957440": {
+        "title": "Levi's x Sky High Farm Goods Garden Tote Bag - Multi Color",
+        "handle": "lev005s6-0000",
+        "in_stock": true
+      },
+      "8286594924672": {
+        "title": "Levi's x Sky High Farm Goods Chore Coat - Rinse",
+        "handle": "lev005ri-0000",
+        "in_stock": true
+      },
+      "8286595022976": {
+        "title": "Levi's x Sky High Farm Goods Baggy Utility Shorts - Mid Indigo",
+        "handle": "lev005s2-0000",
+        "in_stock": true
+      },
       "8286595678336": {
         "title": "ASICS x Kiko Kostadinov Ilargi FF II - Sage Frost / Tatami Green",
         "handle": "ai1203b111-300",
@@ -1210,62 +1250,12 @@
         "title": "Cartier Decor C Sunglasses - Gold / Green",
         "handle": "ct0550s-009",
         "in_stock": true
-      },
-      "8286582997120": {
-        "title": "Cartier Decor C Sunglasses - Gold / Black / Grey",
-        "handle": "ct0622s-001",
-        "in_stock": true
-      },
-      "8286582931584": {
-        "title": "Cartier Decor C Sunglasses - Gold / Black / Grey",
-        "handle": "ct0622s-004",
-        "in_stock": true
-      },
-      "8286583029888": {
-        "title": "Cartier CT0644S Oval Sunglasses - Gold / Grey",
-        "handle": "ct0644s-001",
-        "in_stock": true
-      },
-      "8286582964352": {
-        "title": "Cartier Clash CT0644S 004 Sunglasses - Gold / Green",
-        "handle": "ct0644s-004",
-        "in_stock": true
-      },
-      "8286582866048": {
-        "title": "Cartier Clash CT0644S 002 Sunglasses - Gold / Violet",
-        "handle": "ct0644s-002",
-        "in_stock": true
-      },
-      "8286550589568": {
-        "title": "by Parra Forest Technical Pant - Blue",
-        "handle": "pa55442",
-        "in_stock": true
-      },
-      "8286462148736": {
-        "title": "Acne Studios Logo Cap - Cornflower Blue",
-        "handle": "acnc40434-cdi",
-        "in_stock": true
-      },
-      "8286584471680": {
-        "title": "New Balance 204V - Neo Flame / Black / Black Cement",
-        "handle": "nbu204vmcv",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
-      "6702659272965": {
-        "title": "NIKE SB X BEYOND DUNK HIGH PRO QS - WHITE/ IVORY/ SAND DUNE",
-        "handle": "nike-sb-x-beyond-dunk-high-pro-qs-white-ivory-sand-dune",
-        "in_stock": true
-      },
-      "6702659207429": {
-        "title": "JORDAN TD AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE",
-        "handle": "jordan-td-aj-4-retro-off-white-fire-pink-anthracite",
-        "in_stock": true
-      },
-      "6702659338501": {
-        "title": "JORDAN PS AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE",
-        "handle": "jordan-ps-aj-4-retro-off-white-fire-pink-anthracite",
+      "6702659371269": {
+        "title": "JORDAN AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE",
+        "handle": "jordan-aj-4-retro-off-white-fire-pink-anthracite",
         "in_stock": true
       },
       "6702659240197": {
@@ -1273,9 +1263,19 @@
         "handle": "jordan-gs-aj-4-retro-off-white-fire-pink-anthracite",
         "in_stock": true
       },
-      "6702659371269": {
-        "title": "JORDAN AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE",
-        "handle": "jordan-aj-4-retro-off-white-fire-pink-anthracite",
+      "6702659338501": {
+        "title": "JORDAN PS AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE",
+        "handle": "jordan-ps-aj-4-retro-off-white-fire-pink-anthracite",
+        "in_stock": true
+      },
+      "6702659207429": {
+        "title": "JORDAN TD AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE",
+        "handle": "jordan-td-aj-4-retro-off-white-fire-pink-anthracite",
+        "in_stock": true
+      },
+      "6702659272965": {
+        "title": "NIKE SB X BEYOND DUNK HIGH PRO QS - WHITE/ IVORY/ SAND DUNE",
+        "handle": "nike-sb-x-beyond-dunk-high-pro-qs-white-ivory-sand-dune",
         "in_stock": true
       },
       "6702647869701": {
@@ -2728,7 +2728,7 @@
       "10840735351051": {
         "title": "Carhartt WIP Mitch Jacket",
         "handle": "carhartt-wip-mitch-jacket-brass-dusky-canvas",
-        "in_stock": true
+        "in_stock": false
       },
       "10725816795403": {
         "title": "Adidas Italia 60s *Made in Italy*",
@@ -2753,7 +2753,7 @@
       "10762942841099": {
         "title": "Autry Edelweiss Back Graphic Tee",
         "handle": "autry-edelweiss-back-graphic-tee-melange",
-        "in_stock": true
+        "in_stock": false
       },
       "10810542555403": {
         "title": "Our Legacy Belt 2 CM",
@@ -3887,11 +3887,6 @@
         "handle": "nike-air-force-1-07-lx-vibram-volt-black",
         "in_stock": true
       },
-      "9470933336252": {
-        "title": "Off-White Politics Store Tee - Black",
-        "handle": "off-white-politics-store-tee-black",
-        "in_stock": false
-      },
       "9372657746108": {
         "title": "Women's Nike Air Max 95 OG - Black/Old Royal",
         "handle": "womens-nike-air-max-95-og-black-old-royal",
@@ -4016,11 +4011,6 @@
         "title": "Slawn x Nigeria x Nike Tee - White",
         "handle": "slawn-x-nigeria-x-nike-tee-white",
         "in_stock": true
-      },
-      "9363156074684": {
-        "title": "PEACEMINUSONE x Korea x Nike Academy Pro Soccer Top - Black/White",
-        "handle": "peaceminusone-x-korea-x-nike-academy-pro-soccer-top-black-white-1",
-        "in_stock": false
       },
       "9406860984508": {
         "title": "Dragon Ball Z x Converse Chuck 70 'Shenron' - Black/Cyber Yellow",
@@ -5005,6 +4995,16 @@
       "9363898007740": {
         "title": "Vans LX Authentic 44 EXT 'Copa' - Green",
         "handle": "vans-lx-authentic-44-ext-copa-green",
+        "in_stock": true
+      },
+      "9363898532028": {
+        "title": "Vans LX Authentic 44 EXT 'Copa' - Racing Red",
+        "handle": "vans-lx-authentic-44-ext-copa-racing-red",
+        "in_stock": true
+      },
+      "9103551594684": {
+        "title": "Saucony Progrid Omni 9 - Eggshell/Touch",
+        "handle": "saucony-progrid-omni-9-eggshell-touch",
         "in_stock": true
       }
     },
@@ -8768,48 +8768,44 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE SB X BEYOND DUNK HIGH PRO QS - WHITE/ IVORY/ SAND DUNE\nhttps://undefeated.com/products/nike-sb-x-beyond-dunk-high-pro-qs-white-ivory-sand-dune",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Vest - Mid Indigo\nhttps://kith.com/products/lev006d3-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN TD AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE\nhttps://undefeated.com/products/jordan-td-aj-4-retro-off-white-fire-pink-anthracite",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Trucker Jacket - Rinse\nhttps://kith.com/products/lev005rh-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN PS AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE\nhttps://undefeated.com/products/jordan-ps-aj-4-retro-off-white-fire-pink-anthracite",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Pocket Tee - Multi Color\nhttps://kith.com/products/lev005rk-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE\nhttps://undefeated.com/products/jordan-gs-aj-4-retro-off-white-fire-pink-anthracite",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Overalls - Mid Indigo\nhttps://kith.com/products/lev005s4-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE\nhttps://undefeated.com/products/jordan-aj-4-retro-off-white-fire-pink-anthracite",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Loose Jeans - Mid Indigo\nhttps://kith.com/products/lev005s3-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG 'Lawson' - Blue Sapphire/Metallic Silver\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-lawson-blue-sapphire-metallic-silver",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Garden Tote Bag - Multi Color\nhttps://kith.com/products/lev005s6-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 4 Retro 'Comic' (TD) - Off White/ Fire Pink\nhttps://sneakerpolitics.com/products/jordan-4-retro-comic-td-off-white-fire-pink",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Chore Coat - Rinse\nhttps://kith.com/products/lev005ri-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 4 Retro 'Comic' (PS) - Off White/Fire Pink\nhttps://sneakerpolitics.com/products/jordan-4-retro-comic-ps-off-white-fire-pink",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Kith: Levi's x Sky High Farm Goods Baggy Utility Shorts - Mid Indigo\nhttps://kith.com/products/lev005s2-0000",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Comic' (GS) - Off White/Fire Pink\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-comic-gs-off-white-fire-pink",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Authentic 44 EXT 'Copa' - Racing Red\nhttps://sneakerpolitics.com/products/vans-lx-authentic-44-ext-copa-racing-red",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Comic' - Off White/Fire Pink\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-comic-off-white-fire-pink",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: CLOT x Adidas Superstar - Cloud White/Coffee\nhttps://sneakerpolitics.com/products/clot-x-adidas-superstar-cloud-white-coffee",
-      "detected_at": "2026-07-25T14:38:37.480794+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - Eggshell/Touch\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-eggshell-touch",
+      "detected_at": "2026-07-25T15:47:10.410163+00:00"
     }
   ]
 }
