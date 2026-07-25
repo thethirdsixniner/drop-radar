@@ -1346,7 +1346,7 @@
       "6702411186437": {
         "title": "NIKE FFF 2026 STADIUM AWAY JERSEY - IGLOO/ MONARCH",
         "handle": "nike-fff-2026-stadium-away-jersey-igloo-monarch",
-        "in_stock": true
+        "in_stock": false
       },
       "6702411153669": {
         "title": "NIKE NIGERIA 2026 STADIUM HOME JERSEY - PINE GREEN",
@@ -1446,7 +1446,7 @@
       "6702599602437": {
         "title": "NIKE X PALACE ENG PREMIUM TEE - LIGHT CRIMSON",
         "handle": "nike-x-palace-eng-premium-tee-light-crimson",
-        "in_stock": true
+        "in_stock": false
       },
       "6701635272965": {
         "title": "NEW BALANCE ABZORB 2000 - IRIDESCENT/ BLACK",
@@ -3163,7 +3163,7 @@
       "8818145624331": {
         "title": "Autry Medalist Brushed W *Super Vintage*",
         "handle": "autry-medalist-brushed-w-super-vintage-white-gold",
-        "in_stock": true
+        "in_stock": false
       },
       "9043571704075": {
         "title": "Autry Medalist W Goat / Scrub *Super Vintage*",
@@ -8684,11 +8684,6 @@
         "handle": "asics-footwear-gel-cumulus-16-pink-j359657",
         "in_stock": true
       },
-      "9097440100557": {
-        "title": "Men's A Ma Maniére Pants Black",
-        "handle": "nike-jordan-clothing-m-j-amm-pant-black-j349181",
-        "in_stock": false
-      },
       "7218804752568": {
         "title": "Washed Terry Sweatpants Red",
         "handle": "guess-usa-clothing-gusa-washed-terry-sweatpant-multicolor-j243633",
@@ -8763,8 +8758,18 @@
         "title": "Men's Mini Leather Jacket Black",
         "handle": "our-legacy-clothing-mini-jacket-black-j355575",
         "in_stock": true
+      },
+      "9122170077389": {
+        "title": "Men's Full Zip Hoodie Black",
+        "handle": "our-legacy-clothing-full-zip-hood-black-j355576",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Full Zip Hoodie Black\nhttps://www.slamjam.com/products/our-legacy-clothing-full-zip-hood-black-j355576",
+      "detected_at": "2026-07-25T19:04:00.697980+00:00"
+    }
+  ]
 }
