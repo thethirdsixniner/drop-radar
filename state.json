@@ -1301,7 +1301,7 @@
       "6702658060549": {
         "title": "NIKE AIR ZOOM HUARACHE - WHITE/ DEEP FOREST/ CANYON GOLD",
         "handle": "nike-air-zoom-huarache-white-deep-forest-canyon-gold",
-        "in_stock": true
+        "in_stock": false
       },
       "6671245672709": {
         "title": "UNDEFEATED BARBER CAPE -BLACK/OLIVE",
@@ -2883,7 +2883,7 @@
       "11005521559819": {
         "title": "Nike Air Jordan 4 Retro *Comic* *TD*",
         "handle": "nike-air-jordan-4-retro-comic-td-off-white-fire-pink-anthraricte",
-        "in_stock": false
+        "in_stock": true
       },
       "11007964905739": {
         "title": "Puma Speedcat Wedge Wmns *Tonal*",
@@ -6719,7 +6719,7 @@
       "10573855064330": {
         "title": "adidas Originals ZX 8000",
         "handle": "adidas-originals-zx-8000-gretwo-purple-sefrle",
-        "in_stock": false
+        "in_stock": true
       },
       "10573854310666": {
         "title": "adidas Originals ZX 8000",
@@ -6744,7 +6744,7 @@
       "10573831209226": {
         "title": "AIR JORDAN 4 RETRO 'Comic'",
         "handle": "air-jordan-4-retro-off-white-fire-pink-anthracite1",
-        "in_stock": false
+        "in_stock": true
       },
       "10573827637514": {
         "title": "Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)",
@@ -8319,11 +8319,6 @@
         "handle": "converse-footwear-pro-leather-ox-green-j353896",
         "in_stock": false
       },
-      "9117562306765": {
-        "title": "Men's D.D. Shell Hooded Medium Down Jacket Black",
-        "handle": "c-p-company-clothing-d-d-shell-hooded-down-jacket-black-j360694",
-        "in_stock": false
-      },
       "9094867353805": {
         "title": "Women's Long Patchwork Skirt Multicolor",
         "handle": "jean-paul-gaultier-clothing-wmns-mesh-long-skirt-with-patchworks-in-printed-mesh-multicolor-j338933",
@@ -8332,7 +8327,7 @@
       "9096407941325": {
         "title": "Women's Mesh Otto T-Shirt Racing Plaid",
         "handle": "ottolinger-clothing-wmns-mesh-otto-t-shirt-multicolor-j335367",
-        "in_stock": true
+        "in_stock": false
       },
       "9087419744461": {
         "title": "Men's Chore Jacket Military Green",
@@ -8717,7 +8712,7 @@
       "9097545515213": {
         "title": "Men's Diagonal Flap Puff Jacket Black",
         "handle": "cav-empt-clothing-diagonal-flap-puff-jacket-black-j338282",
-        "in_stock": true
+        "in_stock": false
       },
       "9038524383437": {
         "title": "Men's Cargo Longsleeve T-Shirt Snow White",
@@ -8763,8 +8758,30 @@
         "title": "Men's Borrowed Shirt Stella Check Print",
         "handle": "our-legacy-clothing-borrowed-shirt-beige-j355577",
         "in_stock": true
+      },
+      "9122170241229": {
+        "title": "Men's Box T-Shirt Worn Black",
+        "handle": "our-legacy-clothing-box-t-shirt-black-j355572",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike Air Jordan 4 Retro *Comic* *TD*\nhttps://www.asphaltgold.de/products/nike-air-jordan-4-retro-comic-td-off-white-fire-pink-anthraricte",
+      "detected_at": "2026-07-25T08:10:24.455386+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals ZX 8000\nhttps://www.afew-store.com/products/adidas-originals-zx-8000-gretwo-purple-sefrle",
+      "detected_at": "2026-07-25T08:10:24.455386+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: AIR JORDAN 4 RETRO 'Comic'\nhttps://www.afew-store.com/products/air-jordan-4-retro-off-white-fire-pink-anthracite1",
+      "detected_at": "2026-07-25T08:10:24.455386+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Box T-Shirt Worn Black\nhttps://www.slamjam.com/products/our-legacy-clothing-box-t-shirt-black-j355572",
+      "detected_at": "2026-07-25T08:10:24.455386+00:00"
+    }
+  ]
 }
