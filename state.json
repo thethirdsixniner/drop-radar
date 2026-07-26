@@ -2818,7 +2818,7 @@
       "10606640529675": {
         "title": "Perplex Core Shorts",
         "handle": "perplex-core-shorts-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8930421571851": {
         "title": "Perplex Puffer Jacket Obsidian",
@@ -8766,18 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Slam Jam: Juneau Tote (M) Ivory\nhttps://www.slamjam.com/products/visvim-accessories-juneau-tote-m-white-j348647",
-      "detected_at": "2026-07-26T09:46:41.675849+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Dot Surf T-Shirt White\nhttps://www.slamjam.com/products/stussy-clothing-dot-surf-tee-white-j361918",
-      "detected_at": "2026-07-26T09:46:41.675849+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Goodyear II Cap T.Q. Ivory\nhttps://www.slamjam.com/products/visvim-accessories-goodyear-ii-cap-t-q-white-j348642",
-      "detected_at": "2026-07-26T09:46:41.675849+00:00"
-    }
-  ]
+  "pending_free": []
 }
