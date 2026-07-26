@@ -3203,7 +3203,7 @@
       "10857018720523": {
         "title": "New Balance 991 v2 *Made in England*",
         "handle": "new-balance-991-v2-made-in-england-polignac-toadstool-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10833221288203": {
         "title": "Adidas Samba OG W *Rhinestone*",
@@ -3453,7 +3453,7 @@
       "10077511516427": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-black-orange",
-        "in_stock": true
+        "in_stock": false
       },
       "10077519184139": {
         "title": "Autry Reelwind Low W *Suede / Net*",
@@ -7537,7 +7537,7 @@
       "9038524842189": {
         "title": "Men's Leaf Loose Fit Longsleeve T-Shirt Black",
         "handle": "oamc-peacemaker-clothing-peacemaker-leaf-loose-fit-crewneck-black-j305757",
-        "in_stock": true
+        "in_stock": false
       },
       "9095532347597": {
         "title": "Men's Nylon Metal Swim Shorts Oleander",
@@ -7817,11 +7817,6 @@
       "9123328655565": {
         "title": "Old Skool 36 Souvenir Sneakers Oatmeal",
         "handle": "vans-footwear-lx-old-skool-36-beige-j361939",
-        "in_stock": false
-      },
-      "9095442727117": {
-        "title": "Air Force 1 Low Sneakers Pink Cooler / Mulberry Rose",
-        "handle": "nike-footwear-air-force-1-low-qs-black-j339989",
         "in_stock": false
       },
       "9106334548173": {
@@ -8763,8 +8758,18 @@
         "title": "Men's Borrowed Shirt Stella Check Print",
         "handle": "our-legacy-clothing-borrowed-shirt-beige-j355577",
         "in_stock": true
+      },
+      "9122170241229": {
+        "title": "Men's Box T-Shirt Worn Black",
+        "handle": "our-legacy-clothing-box-t-shirt-black-j355572",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Box T-Shirt Worn Black\nhttps://www.slamjam.com/products/our-legacy-clothing-box-t-shirt-black-j355572",
+      "detected_at": "2026-07-26T12:38:45.031349+00:00"
+    }
+  ]
 }
