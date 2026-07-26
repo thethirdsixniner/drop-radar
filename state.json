@@ -1616,7 +1616,7 @@
       "6701647266053": {
         "title": "NIKE AIR FOAMPOSITE PRO - PINEGREEN/ BLACK",
         "handle": "nike-air-foamposite-pro-pinegreen-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702638104837": {
         "title": "NIKE AIR MAX JOGA BONITO R9 - METALLIC SILVER/ VARSITY MAIZE",
@@ -2513,7 +2513,7 @@
       "10845224796427": {
         "title": "Nike Air Jordan 4 OG *Flight Club*",
         "handle": "nike-air-jordan-4-og-flight-club-sail-black-university-red",
-        "in_stock": true
+        "in_stock": false
       },
       "10139984593163": {
         "title": "Nike Wmns Aqua Turf",
@@ -3048,7 +3048,7 @@
       "10632129511691": {
         "title": "Autry Hyperway *Suede / Mesh*",
         "handle": "autry-hyperway-suede-mesh-sand-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10667712872715": {
         "title": "HAY Splash Vase Roll Neck Medium",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Triumph 4 - Dazzle/Silver\nhttps://sneakerpolitics.com/products/saucony-progrid-triumph-4-dazzle-silver",
-      "detected_at": "2026-07-26T04:59:31.813476+00:00"
-    }
-  ]
+  "pending_free": []
 }
