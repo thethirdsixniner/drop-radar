@@ -3787,11 +3787,6 @@
         "handle": "clot-x-adidas-superstar-cloud-white-coffee",
         "in_stock": true
       },
-      "9140950171836": {
-        "title": "Malbon Golf x Torrey Pines Bermuda Eagle Tee - Baritone Blue",
-        "handle": "malbon-golf-x-torrey-pines-bermuda-eagle-tee-baritone-blue",
-        "in_stock": false
-      },
       "9457285464252": {
         "title": "Godspeed New York Squadron Tee - Grey Wash",
         "handle": "godspeed-new-york-squadron-tee-grey-wash",
@@ -5005,6 +5000,11 @@
       "9103551594684": {
         "title": "Saucony Progrid Omni 9 - Eggshell/Touch",
         "handle": "saucony-progrid-omni-9-eggshell-touch",
+        "in_stock": true
+      },
+      "9103553691836": {
+        "title": "Saucony Progrid Triumph 4 - Dazzle/Silver",
+        "handle": "saucony-progrid-triumph-4-dazzle-silver",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Triumph 4 - Dazzle/Silver\nhttps://sneakerpolitics.com/products/saucony-progrid-triumph-4-dazzle-silver",
+      "detected_at": "2026-07-26T04:59:31.813476+00:00"
+    }
+  ]
 }
