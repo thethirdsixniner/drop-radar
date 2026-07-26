@@ -7514,6 +7514,21 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9119570297037": {
+        "title": "Juneau Tote (M) Ivory",
+        "handle": "visvim-accessories-juneau-tote-m-white-j348647",
+        "in_stock": true
+      },
+      "9119394529485": {
+        "title": "Dot Surf T-Shirt White",
+        "handle": "stussy-clothing-dot-surf-tee-white-j361918",
+        "in_stock": true
+      },
+      "9119570755789": {
+        "title": "Goodyear II Cap T.Q. Ivory",
+        "handle": "visvim-accessories-goodyear-ii-cap-t-q-white-j348642",
+        "in_stock": true
+      },
       "9110404858061": {
         "title": "Men's Stencil Print Pocket T-Shirt Grey",
         "handle": "oamc-peacemaker-clothing-pocket-tee-stencil-print-grey-j333551",
@@ -8748,23 +8763,21 @@
         "title": "Men's Borrowed Shirt Stella Check Print",
         "handle": "our-legacy-clothing-borrowed-shirt-beige-j355577",
         "in_stock": true
-      },
-      "9122170241229": {
-        "title": "Men's Box T-Shirt Worn Black",
-        "handle": "our-legacy-clothing-box-t-shirt-black-j355572",
-        "in_stock": true
-      },
-      "9122170142925": {
-        "title": "Men's Mini Leather Jacket Black",
-        "handle": "our-legacy-clothing-mini-jacket-black-j355575",
-        "in_stock": true
-      },
-      "9122170077389": {
-        "title": "Men's Full Zip Hoodie Black",
-        "handle": "our-legacy-clothing-full-zip-hood-black-j355576",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Juneau Tote (M) Ivory\nhttps://www.slamjam.com/products/visvim-accessories-juneau-tote-m-white-j348647",
+      "detected_at": "2026-07-26T09:46:41.675849+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Dot Surf T-Shirt White\nhttps://www.slamjam.com/products/stussy-clothing-dot-surf-tee-white-j361918",
+      "detected_at": "2026-07-26T09:46:41.675849+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Goodyear II Cap T.Q. Ivory\nhttps://www.slamjam.com/products/visvim-accessories-goodyear-ii-cap-t-q-white-j348642",
+      "detected_at": "2026-07-26T09:46:41.675849+00:00"
+    }
+  ]
 }
