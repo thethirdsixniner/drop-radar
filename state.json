@@ -1,6 +1,21 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286595350656": {
+        "title": "Kith & '47 for the New York Yankees Waxed Cotton Franchise LS Cap - Nocturnal - PH",
+        "handle": "khma050077-413-ph",
+        "in_stock": false
+      },
+      "8286595219584": {
+        "title": "Kith & '47 for the New York Mets Waxed Cotton Franchise LS Cap - Kindling - PH",
+        "handle": "khma050078-211-ph",
+        "in_stock": false
+      },
+      "8286595317888": {
+        "title": "Kith & '47 for the Los Angeles Dodgers Waxed Cotton Franchise LS Cap - Cypress - PH",
+        "handle": "khma050079-311-ph",
+        "in_stock": false
+      },
       "8286595121280": {
         "title": "Levi's x Sky High Farm Goods Vest - Mid Indigo",
         "handle": "lev006d3-0000",
@@ -1234,21 +1249,6 @@
       "8286583390336": {
         "title": "Elisa Johnson Jane Sunglasses - Gloss Black / Dark Brown",
         "handle": "ej-j-119-a",
-        "in_stock": true
-      },
-      "8286583488640": {
-        "title": "Coût De La Liberté Schanabel French Terry Jean - Indigo",
-        "handle": "m8443027kind",
-        "in_stock": true
-      },
-      "8286582505600": {
-        "title": "Cartier Decor C Sunglasses - Silver / Blue",
-        "handle": "ct0550s-008",
-        "in_stock": true
-      },
-      "8286582833280": {
-        "title": "Cartier Decor C Sunglasses - Gold / Green",
-        "handle": "ct0550s-009",
         "in_stock": true
       }
     },
@@ -2538,7 +2538,7 @@
       "8449295286539": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-ghost-gray-ghost-gray-gray-fog",
-        "in_stock": true
+        "in_stock": false
       },
       "10736926753035": {
         "title": "Adidas Stan Smith Lo Pro W",
