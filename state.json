@@ -3443,7 +3443,7 @@
       "8187462910219": {
         "title": "47 MLB New York Yankees *Base Runner* Cap",
         "handle": "47-mlb-new-york-yankees-base-runner-cap-natural",
-        "in_stock": true
+        "in_stock": false
       },
       "8225495875851": {
         "title": "47 MLB New York Yankees *Clean Up* Cap",
@@ -3623,7 +3623,7 @@
       "10098642354443": {
         "title": "Autry Medalist",
         "handle": "autry-medalist-white-sand-storm",
-        "in_stock": true
+        "in_stock": false
       },
       "10180290314507": {
         "title": "Adidas x Wales Bonner Wmns Piqué Track Pants",
@@ -3757,6 +3757,41 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9413577244860": {
+        "title": "New Era x Diet Starts Monday Oakland Athletics 19TWENTY Hat - Green",
+        "handle": "new-era-x-diet-starts-monday-oakland-athletics-19twenty-hat-green",
+        "in_stock": true
+      },
+      "9413566595260": {
+        "title": "New Era x Diet Starts Monday Seattle Mariners 19TWENTY Hat - Teal",
+        "handle": "new-era-x-diet-starts-monday-seattle-mariners-19twenty-hat-teal",
+        "in_stock": true
+      },
+      "9413562892476": {
+        "title": "New Era x Diet Starts Monday New York Yankees 19TWENTY Hat - Navy",
+        "handle": "new-era-x-diet-starts-monday-new-york-yankees-19twenty-hat-navy",
+        "in_stock": true
+      },
+      "9413556568252": {
+        "title": "New Era x Diet Starts Monday Los Angeles Dodgers 19TWENTY Hat - Royal",
+        "handle": "new-era-x-diet-starts-monday-los-angeles-dodgers-19twenty-hat-royal",
+        "in_stock": true
+      },
+      "9413552210108": {
+        "title": "New Era x Diet Starts Monday Boston Red Sox 19TWENTY Hat - Navy",
+        "handle": "new-era-x-diet-starts-monday-boston-red-sox-19twenty-hat-navy",
+        "in_stock": true
+      },
+      "9413541298364": {
+        "title": "New Era x Diet Starts Monday Atlanta Braves 19TWENTY Hat - Navy",
+        "handle": "new-era-x-diet-starts-monday-atlanta-braves-19twenty-hat-navy",
+        "in_stock": true
+      },
+      "9314456174780": {
+        "title": "Criminal Damage Fist Of Gold Tee - Black",
+        "handle": "criminal-damage-fist-of-gold-tee-black",
+        "in_stock": true
+      },
       "9407059558588": {
         "title": "Nike Air Max 95 OG 'Lawson' - Blue Sapphire/Metallic Silver",
         "handle": "nike-air-max-95-og-lawson-blue-sapphire-metallic-silver",
@@ -4001,11 +4036,6 @@
         "title": "Fear Of God Essentials Cropped Relaxed Paneled Hoodie - Iron Grey Heather/Seal Heather",
         "handle": "fear-of-god-essentials-cropped-relaxed-paneled-hoodie-iron-grey-heather-seal-heather",
         "in_stock": true
-      },
-      "9363152830652": {
-        "title": "Slawn x Nigeria x Nike Tee - White",
-        "handle": "slawn-x-nigeria-x-nike-tee-white",
-        "in_stock": false
       },
       "9406860984508": {
         "title": "Dragon Ball Z x Converse Chuck 70 'Shenron' - Black/Cyber Yellow",
@@ -4975,36 +5005,6 @@
       "9326922137788": {
         "title": "Asics Gel-NYC 2.0 - Oatmeal/Umeboshi",
         "handle": "asics-gel-nyc-2-0-oatmeal-umeboshi",
-        "in_stock": true
-      },
-      "9326930985148": {
-        "title": "Asics Gel-Stratus MC - Cream/Pure Silver",
-        "handle": "asics-gel-stratus-mc-cream-pure-silver",
-        "in_stock": true
-      },
-      "9326918336700": {
-        "title": "Asics Gel-Kayano 20 - Smoke Grey/Black",
-        "handle": "asics-gel-kayano-20-smoke-grey-black",
-        "in_stock": true
-      },
-      "9363898007740": {
-        "title": "Vans LX Authentic 44 EXT 'Copa' - Green",
-        "handle": "vans-lx-authentic-44-ext-copa-green",
-        "in_stock": true
-      },
-      "9363898532028": {
-        "title": "Vans LX Authentic 44 EXT 'Copa' - Racing Red",
-        "handle": "vans-lx-authentic-44-ext-copa-racing-red",
-        "in_stock": true
-      },
-      "9103551594684": {
-        "title": "Saucony Progrid Omni 9 - Eggshell/Touch",
-        "handle": "saucony-progrid-omni-9-eggshell-touch",
-        "in_stock": true
-      },
-      "9103553691836": {
-        "title": "Saucony Progrid Triumph 4 - Dazzle/Silver",
-        "handle": "saucony-progrid-triumph-4-dazzle-silver",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,32 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: ADIDAS X BAD BUNNY HEAVY TEE - CREW WHITE\nhttps://undefeated.com/products/adidas-x-bad-bunny-heavy-tee-crew-white",
-      "detected_at": "2026-07-27T20:24:50.774667+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Diet Starts Monday Oakland Athletics 19TWENTY Hat - Green\nhttps://sneakerpolitics.com/products/new-era-x-diet-starts-monday-oakland-athletics-19twenty-hat-green",
+      "detected_at": "2026-07-27T21:40:44.929400+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: ADIDAS MEXICO 26 HOME AUTHENTIC JERSEY - BGREEN\nhttps://undefeated.com/products/adidas-mexico-26-home-authentic-jersey-bgreen",
-      "detected_at": "2026-07-27T20:24:50.774667+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Diet Starts Monday Seattle Mariners 19TWENTY Hat - Teal\nhttps://sneakerpolitics.com/products/new-era-x-diet-starts-monday-seattle-mariners-19twenty-hat-teal",
+      "detected_at": "2026-07-27T21:40:44.929400+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Diet Starts Monday New York Yankees 19TWENTY Hat - Navy\nhttps://sneakerpolitics.com/products/new-era-x-diet-starts-monday-new-york-yankees-19twenty-hat-navy",
+      "detected_at": "2026-07-27T21:40:44.929400+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Diet Starts Monday Los Angeles Dodgers 19TWENTY Hat - Royal\nhttps://sneakerpolitics.com/products/new-era-x-diet-starts-monday-los-angeles-dodgers-19twenty-hat-royal",
+      "detected_at": "2026-07-27T21:40:44.929400+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Diet Starts Monday Boston Red Sox 19TWENTY Hat - Navy\nhttps://sneakerpolitics.com/products/new-era-x-diet-starts-monday-boston-red-sox-19twenty-hat-navy",
+      "detected_at": "2026-07-27T21:40:44.929400+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Diet Starts Monday Atlanta Braves 19TWENTY Hat - Navy\nhttps://sneakerpolitics.com/products/new-era-x-diet-starts-monday-atlanta-braves-19twenty-hat-navy",
+      "detected_at": "2026-07-27T21:40:44.929400+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Criminal Damage Fist Of Gold Tee - Black\nhttps://sneakerpolitics.com/products/criminal-damage-fist-of-gold-tee-black",
+      "detected_at": "2026-07-27T21:40:44.929400+00:00"
     }
   ]
 }
