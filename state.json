@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11010682913035": {
+        "title": "Adidas x Pharrell Williams Adistar Jellyfish",
+        "handle": "adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown",
+        "in_stock": false
+      },
       "10724804821259": {
         "title": "Salomon X-Alp Mid Leather GTX",
         "handle": "salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
@@ -2713,7 +2718,7 @@
       "10817412530443": {
         "title": "Metalwood Mini Metal Logo Thermal Shirt",
         "handle": "metalwood-mini-metal-logo-thermal-shirt-tar",
-        "in_stock": true
+        "in_stock": false
       },
       "10856366899467": {
         "title": "Lacoste *Lacoste on Tennis* T-Shirt",
@@ -3748,11 +3753,6 @@
       "10150079693067": {
         "title": "Brooks Cascadia 1",
         "handle": "brooks-cascadia-1-yellow-black-moonbeam",
-        "in_stock": true
-      },
-      "6634301292708": {
-        "title": "Nike Wmns Dunk Low *Photon Dust*",
-        "handle": "nike-wmns-dunk-low-photon-dust-white-photon-dust-white",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,16 @@
       }
     },
     "https://www.afew-store.com": {
+      "10577703993610": {
+        "title": "adidas Originals WMNS HANDBALL SPEZIAL",
+        "handle": "adidas-originals-wmns-handball-spezial-sanstr-owhite-gum5",
+        "in_stock": false
+      },
+      "10577703797002": {
+        "title": "Clarks Originals Yukoner Boat",
+        "handle": "clarks-originals-yukoner-boat-black-brown-leather",
+        "in_stock": true
+      },
       "10576867033354": {
         "title": "New Balance 204L",
         "handle": "new-balance-204l-magnet",
@@ -7500,16 +7510,6 @@
         "title": "Hoka One One CLIFTON 11",
         "handle": "hoka-one-one-clifton-11-black-white",
         "in_stock": true
-      },
-      "10562881618186": {
-        "title": "Mizuno WAVE PROPHECY 1",
-        "handle": "mizuno-wave-prophecy-1-artisan-s-gold",
-        "in_stock": true
-      },
-      "10562612232458": {
-        "title": "adidas Originals WMNS GHOST SPRINT",
-        "handle": "adidas-originals-wmns-ghost-sprint-halgrn-halgrn-auco",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7910,7 +7910,7 @@
         "in_stock": true
       },
       "9123176775885": {
-        "title": "Men's Garment Dyed Logo Longsleeve T-Shirt White",
+        "title": "Men's 60/2 Cotton Jersey Longsleeve T-Shirt White",
         "handle": "stone-island-clothing-ls-t-shirt-white-j362148",
         "in_stock": true
       },
@@ -8768,20 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM AUTHENTIC 44 - WOODLAND CAMO\nhttps://undefeated.com/products/vans-premium-authentic-44-woodland-camo",
-      "detected_at": "2026-07-27T04:53:05.701586+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE SB DUNK LOW PRO - GREEN NOISE/ WATERMELON\nhttps://undefeated.com/products/nike-sb-dunk-low-pro-green-noise-watermelon",
-      "detected_at": "2026-07-27T04:53:05.701586+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Undefeated: KOBE NIKE DUNK LOW PROTRO - BLACK/ MULTI-COLOR/ HOT PUNCH\nhttps://undefeated.com/products/kobe-nike-dunk-low-protro-black-multi-color-hot-punch",
-      "detected_at": "2026-07-27T04:53:05.701586+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Undefeated: NIKE AIR ZOOM HUARACHE - WHITE/ DEEP FOREST/ CANYON GOLD\nhttps://undefeated.com/products/nike-air-zoom-huarache-white-deep-forest-canyon-gold",
-      "detected_at": "2026-07-27T04:53:05.701586+00:00"
+      "message": "🆕 **New drop** at Afew Store: Clarks Originals Yukoner Boat\nhttps://www.afew-store.com/products/clarks-originals-yukoner-boat-black-brown-leather",
+      "detected_at": "2026-07-27T08:33:13.859949+00:00"
     }
   ]
 }
