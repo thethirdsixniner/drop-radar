@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6702628995333": {
+        "title": "VANS PREMIUM AUTHENTIC 44 - WOODLAND CAMO",
+        "handle": "vans-premium-authentic-44-woodland-camo",
+        "in_stock": true
+      },
+      "6702639579397": {
+        "title": "NIKE SB DUNK LOW PRO - GREEN NOISE/ WATERMELON",
+        "handle": "nike-sb-dunk-low-pro-green-noise-watermelon",
+        "in_stock": true
+      },
       "6702659371269": {
         "title": "JORDAN AJ 4 RETRO - OFF WHITE/ FIRE PINK/ ANTHRACITE",
         "handle": "jordan-aj-4-retro-off-white-fire-pink-anthracite",
@@ -1291,7 +1301,7 @@
       "6702658191621": {
         "title": "KOBE NIKE DUNK LOW PROTRO - BLACK/ MULTI-COLOR/ HOT PUNCH",
         "handle": "kobe-nike-dunk-low-protro-black-multi-color-hot-punch",
-        "in_stock": false
+        "in_stock": true
       },
       "6702659404037": {
         "title": "NIKE KOBE III LOW PROTRO - SAIL/ HOT PUNCH",
@@ -1326,7 +1336,7 @@
       "6702658060549": {
         "title": "NIKE AIR ZOOM HUARACHE - WHITE/ DEEP FOREST/ CANYON GOLD",
         "handle": "nike-air-zoom-huarache-white-deep-forest-canyon-gold",
-        "in_stock": false
+        "in_stock": true
       },
       "6671245672709": {
         "title": "UNDEFEATED BARBER CAPE -BLACK/OLIVE",
@@ -2492,16 +2502,6 @@
         "title": "MALBON X UNDEFEATED BALL MARKER - ANTIQUE BRASS",
         "handle": "malbon-x-undefeated-ball-marker-antique-brass",
         "in_stock": true
-      },
-      "6701499187461": {
-        "title": "UNDEFEATED PLAY DIRTY S/S TEE",
-        "handle": "undefeated-play-dirty-s-s-tee",
-        "in_stock": true
-      },
-      "6701499121925": {
-        "title": "UNDEFEATED DIRTY STATE S/S TEE",
-        "handle": "undefeated-dirty-state-s-s-tee",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -3613,7 +3613,7 @@
       "8614301597963": {
         "title": "Veja Volley *O.T. Leather*",
         "handle": "veja-volley-o-t-leather-white-tent-bark",
-        "in_stock": true
+        "in_stock": false
       },
       "8904678211851": {
         "title": "VEJA Volley O.T.",
@@ -4630,7 +4630,7 @@
       "8896856785084": {
         "title": "Adidas Gazelle Indoor - Night Indigo/Off White",
         "handle": "adidas-gazelle-indoor-night-indigo-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "8762334314684": {
         "title": "Ksubi Poolside S/S Resort Shirt - Multi",
@@ -7527,7 +7527,7 @@
       "9119570755789": {
         "title": "Goodyear II Cap T.Q. Ivory",
         "handle": "visvim-accessories-goodyear-ii-cap-t-q-white-j348642",
-        "in_stock": true
+        "in_stock": false
       },
       "9110404858061": {
         "title": "Men's Stencil Print Pocket T-Shirt Grey",
@@ -8766,5 +8766,22 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM AUTHENTIC 44 - WOODLAND CAMO\nhttps://undefeated.com/products/vans-premium-authentic-44-woodland-camo",
+      "detected_at": "2026-07-27T04:53:05.701586+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE SB DUNK LOW PRO - GREEN NOISE/ WATERMELON\nhttps://undefeated.com/products/nike-sb-dunk-low-pro-green-noise-watermelon",
+      "detected_at": "2026-07-27T04:53:05.701586+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: KOBE NIKE DUNK LOW PROTRO - BLACK/ MULTI-COLOR/ HOT PUNCH\nhttps://undefeated.com/products/kobe-nike-dunk-low-protro-black-multi-color-hot-punch",
+      "detected_at": "2026-07-27T04:53:05.701586+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: NIKE AIR ZOOM HUARACHE - WHITE/ DEEP FOREST/ CANYON GOLD\nhttps://undefeated.com/products/nike-air-zoom-huarache-white-deep-forest-canyon-gold",
+      "detected_at": "2026-07-27T04:53:05.701586+00:00"
+    }
+  ]
 }
