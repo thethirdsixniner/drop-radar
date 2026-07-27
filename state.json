@@ -2505,11 +2505,6 @@
       }
     },
     "https://www.asphaltgold.de": {
-      "11010682913035": {
-        "title": "Adidas x Pharrell Williams Adistar Jellyfish",
-        "handle": "adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown",
-        "in_stock": false
-      },
       "10724804821259": {
         "title": "Salomon X-Alp Mid Leather GTX",
         "handle": "salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
@@ -2778,7 +2773,7 @@
       "10748973220107": {
         "title": "Farah Japan Long Chester Coat",
         "handle": "farah-japan-long-chester-coat-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10649900810507": {
         "title": "Adidas Woven Firebird Track Pants",
@@ -3753,6 +3748,11 @@
       "10150079693067": {
         "title": "Brooks Cascadia 1",
         "handle": "brooks-cascadia-1-yellow-black-moonbeam",
+        "in_stock": true
+      },
+      "6634301292708": {
+        "title": "Nike Wmns Dunk Low *Photon Dust*",
+        "handle": "nike-wmns-dunk-low-photon-dust-white-photon-dust-white",
         "in_stock": true
       }
     },
@@ -5102,7 +5102,7 @@
       "15042625929592": {
         "title": "On Cloudtilt Remix 'Autumn Ivory'",
         "handle": "on-cloudtilt-remix-autumn-ivory",
-        "in_stock": false
+        "in_stock": true
       },
       "15041702035832": {
         "title": "Saucony Progrid Omni 9 OG 'Vizired Multi'",
@@ -7514,6 +7514,116 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9123873095885": {
+        "title": "Double Coated Cotton Ripstop Wallet Black",
+        "handle": "stone-island-accessories-wallet-black-j362197",
+        "in_stock": true
+      },
+      "9123873161421": {
+        "title": "Men's Organic Cotton Fleece Crewneck Sweatshirt Antique Rose",
+        "handle": "stone-island-clothing-sweatshirt-pink-j362185",
+        "in_stock": true
+      },
+      "9123873259725": {
+        "title": "Men's Speckled Wool Nylon Sweater Dark Green",
+        "handle": "stone-island-clothing-crew-neck-green-j362169",
+        "in_stock": true
+      },
+      "9123873194189": {
+        "title": "Men's RWS Geelong Wool Zip Cardigan Lead Grey",
+        "handle": "stone-island-clothing-cardigan-grey-j362168",
+        "in_stock": true
+      },
+      "9123873292493": {
+        "title": "Men's Organic Panama Cotton + Nylon Overshirt Military Green",
+        "handle": "stone-island-clothing-shirts-green-j362140",
+        "in_stock": true
+      },
+      "9123872997581": {
+        "title": "Wasted Youth Penton Leather Loafers Black",
+        "handle": "dr-martens-footwear-wasted-youth-penton-loafer-black-j364651",
+        "in_stock": false
+      },
+      "9123872932045": {
+        "title": "Wasted Youth Penton Leather Loafers Green",
+        "handle": "dr-martens-footwear-wasted-youth-penton-loafer-green-j364653",
+        "in_stock": false
+      },
+      "9123872964813": {
+        "title": "Wasted Youth Penton Leather Loafers Pink",
+        "handle": "dr-martens-footwear-wasted-youth-penton-loafer-pink-j364652",
+        "in_stock": false
+      },
+      "9123870965965": {
+        "title": "CHITO City Graphic T-Shirt Black",
+        "handle": "adidas-clothing-city-gfx-ss-tee-black-j359526",
+        "in_stock": true
+      },
+      "9123870933197": {
+        "title": "Heart Pocket Mirror Silver",
+        "handle": "carhartt-wip-lifestyle-heart-pocket-mirror-grey-j359231",
+        "in_stock": true
+      },
+      "9123870769357": {
+        "title": "Wool Work Cap Black Check",
+        "handle": "undercover-accessories-acc-black-j367779",
+        "in_stock": true
+      },
+      "9123870736589": {
+        "title": "New York Yankees MLB Cooperstown Pin Beret Dark Green",
+        "handle": "new-era-accessories-img-coops-pin-beret-grey-j356259",
+        "in_stock": true
+      },
+      "9123870671053": {
+        "title": "New York Yankees MLB Check 9TWENTY Adjustable Cap Beige",
+        "handle": "new-era-accessories-img-wr-check-9twenty-grey-j356258",
+        "in_stock": true
+      },
+      "9123870638285": {
+        "title": "New York Yankees Animal Print 9TWENTY Adjustable Cap Beige",
+        "handle": "new-era-accessories-animal-print-9twenty-multicolor-j356255",
+        "in_stock": true
+      },
+      "9123870572749": {
+        "title": "LA Dodgers Animal Print 9TWENTY Adjustable Cap Dark Beige",
+        "handle": "new-era-accessories-animal-print-9twenty-multicolor-j356254",
+        "in_stock": true
+      },
+      "9123870539981": {
+        "title": "New York Yankees Faux Suede 9FORTY E-Frame Cap Black",
+        "handle": "new-era-accessories-faux-suede-e-frame-black-j356252",
+        "in_stock": true
+      },
+      "9123870703821": {
+        "title": "New York Yankees MLB Cooperstown Pin Pillbox Adjustable Cap Black",
+        "handle": "new-era-accessories-img-coops-pin-pillbox-black-j356247",
+        "in_stock": true
+      },
+      "9123870474445": {
+        "title": "New York Yankees MLB Cord 9TWENTY Adjustable Cap Black",
+        "handle": "new-era-accessories-cord-midi-9twenty-black-j356256",
+        "in_stock": true
+      },
+      "9123870507213": {
+        "title": "LA Dodgers Faux Suede 9FORTY E-Frame Cap Dark Green",
+        "handle": "new-era-accessories-faux-suede-e-frame-grey-j356251",
+        "in_stock": true
+      },
+      "9123870408909": {
+        "title": "New York Yankees MLB Cooperstown Cord 19TWENTY Adjustable Cap Navy",
+        "handle": "new-era-accessories-coops-cord-19twenty-multicolor-j356250",
+        "in_stock": true
+      },
+      "9123870376141": {
+        "title": "Detroit Tigers MLB Cooperstown Cord 19TWENTY Adjustable Cap Black",
+        "handle": "new-era-accessories-coops-cord-19twenty-black-j356249",
+        "in_stock": true
+      },
+      "9123870343373": {
+        "title": "Chicago Cubs MLB Cooperstown Cord 19TWENTY Adjustable Cap Dark Brown",
+        "handle": "new-era-accessories-coops-cord-19twenty-multicolor-j356248",
+        "in_stock": true
+      },
       "9123868934349": {
         "title": "Zoom Skylon 11 Sneakers Black / Anthracite",
         "handle": "nike-footwear-nike-zoom-skylon-11-black-j364321",
@@ -8302,7 +8412,7 @@
       "9082242171085": {
         "title": "Women's Frayed Cardigan Warm Milk",
         "handle": "guess-usa-clothing-wmns-gusa-frayed-cardigan-white-j338922",
-        "in_stock": true
+        "in_stock": false
       },
       "9107034112205": {
         "title": "Men's Dry Easy Denim Wide Pants Navy",
@@ -8627,7 +8737,7 @@
       "9104757391565": {
         "title": "Men's Helder 5 Inch Shorts Black",
         "handle": "roa-clothing-helder-5-inch-shorts-black-j325821",
-        "in_stock": true
+        "in_stock": false
       },
       "9122515222733": {
         "title": "Waffle Racer Sneakers Sail / Pine Green / Beach",
@@ -8653,175 +8763,93 @@
         "title": "GEL-Cumulus 16 Sneakers Pink Cloud / Pure Silver",
         "handle": "asics-footwear-gel-cumulus-16-pink-j359657",
         "in_stock": true
-      },
-      "7218804752568": {
-        "title": "Washed Terry Sweatpants Red",
-        "handle": "guess-usa-clothing-gusa-washed-terry-sweatpant-multicolor-j243633",
-        "in_stock": true
-      },
-      "9038523269325": {
-        "title": "Men's Combat Shorts Ice Flow",
-        "handle": "oamc-peacemaker-clothing-combat-short-white-j305697",
-        "in_stock": true
-      },
-      "9094653280461": {
-        "title": "Novalis Mirbelioids Trousers Black",
-        "handle": "asics-clothing-mirbelioids-trousers-black-j322342",
-        "in_stock": false
-      },
-      "9097545515213": {
-        "title": "Men's Diagonal Flap Puff Jacket Black",
-        "handle": "cav-empt-clothing-diagonal-flap-puff-jacket-black-j338282",
-        "in_stock": false
-      },
-      "9038524383437": {
-        "title": "Men's Cargo Longsleeve T-Shirt Snow White",
-        "handle": "oamc-peacemaker-clothing-peacemaker-sl-cargo-l-s-white-j305796",
-        "in_stock": true
-      },
-      "9122172797133": {
-        "title": "Air Jordan 8 Sneakers Black Chrome",
-        "handle": "nike-jordan-footwear-air-jordan-8-retro-black-j365623",
-        "in_stock": false
-      },
-      "9122170470605": {
-        "title": "Air Jordan 5 'Black Carolina' Sneakers Black / University Blue",
-        "handle": "nike-jordan-footwear-air-jordan-5-retro-mens-shoes-multicolor-j359797",
-        "in_stock": false
-      },
-      "9122170339533": {
-        "title": "Men's Evening Polo Soft Sage",
-        "handle": "our-legacy-clothing-evening-polo-beige-j355578",
-        "in_stock": true
-      },
-      "9122170372301": {
-        "title": "Men's Evening Polo Charcoal Melange",
-        "handle": "our-legacy-clothing-evening-polo-grey-j355573",
-        "in_stock": true
-      },
-      "9122170273997": {
-        "title": "Men's New Box T-Shirt Ziggy Stripe",
-        "handle": "our-legacy-clothing-new-box-t-shirt-multicolor-j355581",
-        "in_stock": true
-      },
-      "9122170208461": {
-        "title": "Men's Third Cut Jeans Wolfpack Wash",
-        "handle": "our-legacy-clothing-third-cut-beige-j355580",
-        "in_stock": true
-      },
-      "9122170175693": {
-        "title": "Men's Third Cut Jeans Azure Print",
-        "handle": "our-legacy-clothing-third-cut-blue-j355579",
-        "in_stock": true
-      },
-      "9122170306765": {
-        "title": "Men's Borrowed Shirt Stella Check Print",
-        "handle": "our-legacy-clothing-borrowed-shirt-beige-j355577",
-        "in_stock": true
-      },
-      "9122170241229": {
-        "title": "Men's Box T-Shirt Worn Black",
-        "handle": "our-legacy-clothing-box-t-shirt-black-j355572",
-        "in_stock": true
-      },
-      "9122170142925": {
-        "title": "Men's Mini Leather Jacket Black",
-        "handle": "our-legacy-clothing-mini-jacket-black-j355575",
-        "in_stock": true
-      },
-      "9122170077389": {
-        "title": "Men's Full Zip Hoodie Black",
-        "handle": "our-legacy-clothing-full-zip-hood-black-j355576",
-        "in_stock": true
-      },
-      "9122170044621": {
-        "title": "Men's Third Cut Jeans Digital Denim Print",
-        "handle": "our-legacy-clothing-third-cut-blue-j355574",
-        "in_stock": true
-      },
-      "9122170110157": {
-        "title": "Men's Mini Jacket Black",
-        "handle": "our-legacy-clothing-mini-jacket-black-j355571",
-        "in_stock": true
-      },
-      "9122169979085": {
-        "title": "Women's Mazzy Polo Charcoal Melange",
-        "handle": "our-legacy-clothing-wmns-mazzy-polo-grey-j355583",
-        "in_stock": true
-      },
-      "9122170011853": {
-        "title": "Women's Compact Hoodie Black",
-        "handle": "our-legacy-clothing-wmns-compact-hood-black-j355586",
-        "in_stock": true
-      },
-      "9122169782477": {
-        "title": "Men's Ribbed Wool Sweater Red",
-        "handle": "dries-van-noten-clothing-mazyr-4708-mksweater-red-red-j363829",
-        "in_stock": true
-      },
-      "9122169880781": {
-        "title": "Women's Craft Skirt Azure Print",
-        "handle": "our-legacy-clothing-wmns-craft-skirt-blue-j355649",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Zoom Skylon 11 Sneakers Black / Anthracite\nhttps://www.slamjam.com/products/nike-footwear-nike-zoom-skylon-11-black-j364321",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Dunk Low *Photon Dust*\nhttps://www.asphaltgold.de/products/nike-wmns-dunk-low-photon-dust-white-photon-dust-white",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Tasman II Sandals Black\nhttps://www.slamjam.com/products/ugg-footwear-tasman-ii-brown-j368183",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🔥 **Restock** at Kick Game: On Cloudtilt Remix 'Autumn Ivory'\nhttps://www.kickgame.co.uk/products/on-cloudtilt-remix-autumn-ivory",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Air Rift Sandals Light Khaki / Light Army\nhttps://www.slamjam.com/products/nike-footwear-wmns-wmns-nike-air-rift-brown-j364330",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Double Coated Cotton Ripstop Wallet Black\nhttps://www.slamjam.com/products/stone-island-accessories-wallet-black-j362197",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Clifton UTL Sneakers Frost / Varsity Navy\nhttps://www.slamjam.com/products/hoka-one-one-footwear-u-clifton-utl-blue-j362625",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Organic Cotton Fleece Crewneck Sweatshirt Antique Rose\nhttps://www.slamjam.com/products/stone-island-clothing-sweatshirt-pink-j362185",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Wave Mujin TL GORE-TEX Sneakers Black / Royal Blue\nhttps://www.slamjam.com/products/mizuno-footwear-shoe-s-l-wave-mujin-tl-gtx-black-j364995",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Speckled Wool Nylon Sweater Dark Green\nhttps://www.slamjam.com/products/stone-island-clothing-crew-neck-green-j362169",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Wave Prophecy LS Sneakers Black\nhttps://www.slamjam.com/products/mizuno-footwear-shoe-s-l-wave-prophecy-ls-black-j364989",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's RWS Geelong Wool Zip Cardigan Lead Grey\nhttps://www.slamjam.com/products/stone-island-clothing-cardigan-grey-j362168",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Mini Leather Jacket Black\nhttps://www.slamjam.com/products/our-legacy-clothing-mini-jacket-black-j355575",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Organic Panama Cotton + Nylon Overshirt Military Green\nhttps://www.slamjam.com/products/stone-island-clothing-shirts-green-j362140",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Full Zip Hoodie Black\nhttps://www.slamjam.com/products/our-legacy-clothing-full-zip-hood-black-j355576",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: CHITO City Graphic T-Shirt Black\nhttps://www.slamjam.com/products/adidas-clothing-city-gfx-ss-tee-black-j359526",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Third Cut Jeans Digital Denim Print\nhttps://www.slamjam.com/products/our-legacy-clothing-third-cut-blue-j355574",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Heart Pocket Mirror Silver\nhttps://www.slamjam.com/products/carhartt-wip-lifestyle-heart-pocket-mirror-grey-j359231",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Mini Jacket Black\nhttps://www.slamjam.com/products/our-legacy-clothing-mini-jacket-black-j355571",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Wool Work Cap Black Check\nhttps://www.slamjam.com/products/undercover-accessories-acc-black-j367779",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Mazzy Polo Charcoal Melange\nhttps://www.slamjam.com/products/our-legacy-clothing-wmns-mazzy-polo-grey-j355583",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cooperstown Pin Beret Dark Green\nhttps://www.slamjam.com/products/new-era-accessories-img-coops-pin-beret-grey-j356259",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Compact Hoodie Black\nhttps://www.slamjam.com/products/our-legacy-clothing-wmns-compact-hood-black-j355586",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Check 9TWENTY Adjustable Cap Beige\nhttps://www.slamjam.com/products/new-era-accessories-img-wr-check-9twenty-grey-j356258",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Ribbed Wool Sweater Red\nhttps://www.slamjam.com/products/dries-van-noten-clothing-mazyr-4708-mksweater-red-red-j363829",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees Animal Print 9TWENTY Adjustable Cap Beige\nhttps://www.slamjam.com/products/new-era-accessories-animal-print-9twenty-multicolor-j356255",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Craft Skirt Azure Print\nhttps://www.slamjam.com/products/our-legacy-clothing-wmns-craft-skirt-blue-j355649",
-      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+      "message": "🆕 **New drop** at Slam Jam: LA Dodgers Animal Print 9TWENTY Adjustable Cap Dark Beige\nhttps://www.slamjam.com/products/new-era-accessories-animal-print-9twenty-multicolor-j356254",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees Faux Suede 9FORTY E-Frame Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-faux-suede-e-frame-black-j356252",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cooperstown Pin Pillbox Adjustable Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-img-coops-pin-pillbox-black-j356247",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cord 9TWENTY Adjustable Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-cord-midi-9twenty-black-j356256",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: LA Dodgers Faux Suede 9FORTY E-Frame Cap Dark Green\nhttps://www.slamjam.com/products/new-era-accessories-faux-suede-e-frame-grey-j356251",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cooperstown Cord 19TWENTY Adjustable Cap Navy\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-multicolor-j356250",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Detroit Tigers MLB Cooperstown Cord 19TWENTY Adjustable Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-black-j356249",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Chicago Cubs MLB Cooperstown Cord 19TWENTY Adjustable Cap Dark Brown\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-multicolor-j356248",
+      "detected_at": "2026-07-27T14:55:59.373755+00:00"
     }
   ]
 }
