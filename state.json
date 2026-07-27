@@ -1064,12 +1064,12 @@
       "8286547771520": {
         "title": "Satisfy MothTech™ Tee - Silver Foil",
         "handle": "11006-80k02",
-        "in_stock": false
+        "in_stock": true
       },
       "8286547869824": {
         "title": "Satisfy MothTech™ Tee - Aged Black",
         "handle": "11006-00a16",
-        "in_stock": false
+        "in_stock": true
       },
       "8286577950848": {
         "title": "Sandy Liang Soba Poncho Top - White",
@@ -1104,7 +1104,7 @@
       "8286548983936": {
         "title": "NAHMIAS Summerland Brim Trucker Hat - White / Blue",
         "handle": "tr2-l16-100",
-        "in_stock": false
+        "in_stock": true
       },
       "8286549049472": {
         "title": "NAHMIAS Suede Baggy Carpenter Pant - Sand Suede",
@@ -1204,7 +1204,7 @@
       "8286567137408": {
         "title": "Kiko Kostadinov Lur Leather Jacket - Smokey Black",
         "handle": "kikkkss26j12-57",
-        "in_stock": false
+        "in_stock": true
       },
       "8286503600256": {
         "title": "Jacquemus Havana Sunglasses - Black / Light Gold / Grey",
@@ -2588,7 +2588,7 @@
       "9779272810763": {
         "title": "New Balance 574",
         "handle": "new-balance-u574rus-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10727923319051": {
         "title": "Dr. Martens Lowell Archive",
@@ -3393,12 +3393,12 @@
       "10586702512395": {
         "title": "Adidas Handball Spezial W",
         "handle": "adidas-handball-spezial-w-preloved-brown-orange-tint-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "10077519184139": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-bottle-orange",
-        "in_stock": true
+        "in_stock": false
       },
       "8408821367051": {
         "title": "Autry Medalist W *Leather / Suede*",
@@ -4525,7 +4525,7 @@
       "8030854217916": {
         "title": "Krewe Williams Sunglasses - Poppy/Crystal",
         "handle": "krewe-williams-sunglasses-poppy-crystal",
-        "in_stock": true
+        "in_stock": false
       },
       "9405441835196": {
         "title": "Hoka Clifton 11 - Black/White",
@@ -8768,52 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Yankees Waxed Cotton Franchise LS Cap - Nocturnal\nhttps://kith.com/products/khma050077-413",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
+      "message": "🔥 **Restock** at Kith: Satisfy MothTech™ Tee - Silver Foil\nhttps://kith.com/products/11006-80k02",
+      "detected_at": "2026-07-27T18:48:03.970351+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Mets Waxed Cotton Franchise LS Cap - Kindling\nhttps://kith.com/products/khma050078-211",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
+      "message": "🔥 **Restock** at Kith: Satisfy MothTech™ Tee - Aged Black\nhttps://kith.com/products/11006-00a16",
+      "detected_at": "2026-07-27T18:48:03.970351+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the Los Angeles Dodgers Waxed Cotton Franchise LS Cap - Cypress\nhttps://kith.com/products/khma050079-311",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
+      "message": "🔥 **Restock** at Kith: NAHMIAS Summerland Brim Trucker Hat - White / Blue\nhttps://kith.com/products/tr2-l16-100",
+      "detected_at": "2026-07-27T18:48:03.970351+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED PLAY DIRTY S/S TEE\nhttps://undefeated.com/products/undefeated-play-dirty-s-s-tee",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED DIRTY STATE S/S TEE\nhttps://undefeated.com/products/undefeated-dirty-state-s-s-tee",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Tuff Sneakers Sand\nhttps://www.slamjam.com/products/roa-footwear-tuff-beige-j334362",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cotton Caban Jacket Black\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-sportsjacket-black-j363161",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Jacquard Wool Cardigan Olive\nhttps://www.slamjam.com/products/dries-van-noten-clothing-mesa-4746-mkcardigan-oli-green-j363826",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Straight-Leg Jeans Black\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-pants-5-pockets-black-j363167",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Checkered Flannel Shirt Brown / Off White\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-longsleeved-shirt-brown-j363163",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Turtleneck Wool Cardigan White\nhttps://www.slamjam.com/products/dries-van-noten-clothing-mettur-4743-mkcardigan-whi-white-j363825",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Loose Cotton Shirt Purple\nhttps://www.slamjam.com/products/dries-van-noten-clothing-croom-4063-mwshirt-pur-purple-j363820",
-      "detected_at": "2026-07-27T17:02:06.288855+00:00"
+      "message": "🔥 **Restock** at Kith: Kiko Kostadinov Lur Leather Jacket - Smokey Black\nhttps://kith.com/products/kikkkss26j12-57",
+      "detected_at": "2026-07-27T18:48:03.970351+00:00"
     }
   ]
 }
