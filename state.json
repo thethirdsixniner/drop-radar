@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6702411809029": {
+        "title": "ADIDAS X BAD BUNNY HEAVY TEE - CREW WHITE",
+        "handle": "adidas-x-bad-bunny-heavy-tee-crew-white",
+        "in_stock": true
+      },
+      "6701557055749": {
+        "title": "ADIDAS MEXICO 26 HOME AUTHENTIC JERSEY - BGREEN",
+        "handle": "adidas-mexico-26-home-authentic-jersey-bgreen",
+        "in_stock": true
+      },
       "6702628995333": {
         "title": "VANS PREMIUM AUTHENTIC 44 - WOODLAND CAMO",
         "handle": "vans-premium-authentic-44-woodland-camo",
@@ -2492,16 +2502,6 @@
         "title": "MALBON X UNDEFEATED BALL MARKER - ANTIQUE BRASS",
         "handle": "malbon-x-undefeated-ball-marker-antique-brass",
         "in_stock": true
-      },
-      "6701499187461": {
-        "title": "UNDEFEATED PLAY DIRTY S/S TEE",
-        "handle": "undefeated-play-dirty-s-s-tee",
-        "in_stock": true
-      },
-      "6701499121925": {
-        "title": "UNDEFEATED DIRTY STATE S/S TEE",
-        "handle": "undefeated-dirty-state-s-s-tee",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2548,7 +2548,7 @@
       "10685540794635": {
         "title": "Salomon XT-Quest GTX",
         "handle": "salomon-xtquest-gtx-almond-milk-aloe-wash-vintage-khaki",
-        "in_stock": true
+        "in_stock": false
       },
       "10647298310411": {
         "title": "HOKA Mafate Speed 4 Lite",
@@ -2963,7 +2963,7 @@
       "10749028794635": {
         "title": "Farah Japan Two Tuck Wide Tapered Pants",
         "handle": "farah-japan-two-tuck-wide-tapered-pants-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10754347041035": {
         "title": "Autry Reelwind Low *Ripstop / Suede*",
@@ -8768,20 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Satisfy MothTech™ Tee - Silver Foil\nhttps://kith.com/products/11006-80k02",
-      "detected_at": "2026-07-27T18:48:03.970351+00:00"
+      "message": "🆕 **New drop** at Undefeated: ADIDAS X BAD BUNNY HEAVY TEE - CREW WHITE\nhttps://undefeated.com/products/adidas-x-bad-bunny-heavy-tee-crew-white",
+      "detected_at": "2026-07-27T20:24:50.774667+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Satisfy MothTech™ Tee - Aged Black\nhttps://kith.com/products/11006-00a16",
-      "detected_at": "2026-07-27T18:48:03.970351+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: NAHMIAS Summerland Brim Trucker Hat - White / Blue\nhttps://kith.com/products/tr2-l16-100",
-      "detected_at": "2026-07-27T18:48:03.970351+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kiko Kostadinov Lur Leather Jacket - Smokey Black\nhttps://kith.com/products/kikkkss26j12-57",
-      "detected_at": "2026-07-27T18:48:03.970351+00:00"
+      "message": "🆕 **New drop** at Undefeated: ADIDAS MEXICO 26 HOME AUTHENTIC JERSEY - BGREEN\nhttps://undefeated.com/products/adidas-mexico-26-home-authentic-jersey-bgreen",
+      "detected_at": "2026-07-27T20:24:50.774667+00:00"
     }
   ]
 }
