@@ -2633,7 +2633,7 @@
       "8468601635083": {
         "title": "Byredo Vetyver Handlotion 450ml",
         "handle": "byredo-vetyver-handlotion-450ml",
-        "in_stock": true
+        "in_stock": false
       },
       "11010711191819": {
         "title": "Asics GEL-NYC",
@@ -2923,12 +2923,12 @@
       "10800269033739": {
         "title": "Wales Bonner Eclipse Shirt",
         "handle": "wales-bonner-eclipse-shirt-white-blue-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10746784612619": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-wonder-aluminum-footwear-white-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "10795478941963": {
         "title": "Ugg Wmns Classic Ultra Mini Dipper",
@@ -3248,7 +3248,7 @@
       "10597073551627": {
         "title": "Adidas Ultra Boost 5 Strung",
         "handle": "adidas-ultra-boost-5-strung-grey-one-pure-teal-carbon",
-        "in_stock": true
+        "in_stock": false
       },
       "10167567581451": {
         "title": "Adidas x Wales Bonner Karintha Suede",
@@ -6261,6 +6261,11 @@
       }
     },
     "https://www.afew-store.com": {
+      "10577823662346": {
+        "title": "Nike Kobe III Low Protro 'Atomic Pink'",
+        "handle": "nike-kobe-low-atomic-pink-bright-crimson",
+        "in_stock": false
+      },
       "10577703993610": {
         "title": "adidas Originals WMNS HANDBALL SPEZIAL",
         "handle": "adidas-originals-wmns-handball-spezial-sanstr-owhite-gum5",
@@ -7505,15 +7510,40 @@
         "title": "adidas Originals WMNS GHOST SPRINT",
         "handle": "adidas-originals-wmns-ghost-sprint-crsk-crsk-nindig",
         "in_stock": true
-      },
-      "10562885910794": {
-        "title": "Hoka One One CLIFTON 11",
-        "handle": "hoka-one-one-clifton-11-black-white",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9123868934349": {
+        "title": "Zoom Skylon 11 Sneakers Black / Anthracite",
+        "handle": "nike-footwear-nike-zoom-skylon-11-black-j364321",
+        "in_stock": true
+      },
+      "9123868868813": {
+        "title": "Men's Tasman II Sandals Black",
+        "handle": "ugg-footwear-tasman-ii-brown-j368183",
+        "in_stock": true
+      },
+      "9123868901581": {
+        "title": "Women's Air Rift Sandals Light Khaki / Light Army",
+        "handle": "nike-footwear-wmns-wmns-nike-air-rift-brown-j364330",
+        "in_stock": true
+      },
+      "9123868836045": {
+        "title": "Clifton UTL Sneakers Frost / Varsity Navy",
+        "handle": "hoka-one-one-footwear-u-clifton-utl-blue-j362625",
+        "in_stock": true
+      },
+      "9123868082381": {
+        "title": "Wave Mujin TL GORE-TEX Sneakers Black / Royal Blue",
+        "handle": "mizuno-footwear-shoe-s-l-wave-mujin-tl-gtx-black-j364995",
+        "in_stock": true
+      },
+      "9123868049613": {
+        "title": "Wave Prophecy LS Sneakers Black",
+        "handle": "mizuno-footwear-shoe-s-l-wave-prophecy-ls-black-j364989",
+        "in_stock": true
+      },
       "9119570297037": {
         "title": "Juneau Tote (M) Ivory",
         "handle": "visvim-accessories-juneau-tote-m-white-j348647",
@@ -7620,7 +7650,7 @@
         "in_stock": true
       },
       "9123636478157": {
-        "title": "Chito F50 Sneakers Silver Metallic / Black / Utility Black",
+        "title": "CHITO F50 Tunit Sneakers Silver Metallic / Black / Utility Black",
         "handle": "y-3-footwear-y-3-f50-tunit-chito-grey-j359524",
         "in_stock": true
       },
@@ -7703,76 +7733,6 @@
         "title": "Overlogo Sleeveless Sweat Hoodie Grey Melange",
         "handle": "mental-athletic-clothing-raw-cut-sleeveless-sweat-hoodie-grey-j355366",
         "in_stock": true
-      },
-      "9103956738253": {
-        "title": "Men's ACG 'Wolf Tree' Fleece Crewneck Sweatshirt Black / Anthracite",
-        "handle": "nike-clothing-acg-wolf-tree-crew-multicolor-j337084",
-        "in_stock": false
-      },
-      "9104596533453": {
-        "title": "T.W.O. Boots-Folk Black",
-        "handle": "visvim-footwear-t-w-o-boots-folk-brown-j328769",
-        "in_stock": false
-      },
-      "9082801881293": {
-        "title": "Men's Smooth Jersey Stuntman & Woman Baggy Track Pants Black",
-        "handle": "kapital-clothing-smooth-jersey-stantman-woman-baggy-track-pants-black-j338142",
-        "in_stock": false
-      },
-      "9106787795149": {
-        "title": "Basic Stock Thermal Longsleeve T-Shirt Bone",
-        "handle": "stussy-clothing-raglan-thermal-basic-stock-white-j356091",
-        "in_stock": false
-      },
-      "9104743825613": {
-        "title": "Men's Lio UPF 50+ Baselayer Moth Print Long Sleeve Hoodie Brown",
-        "handle": "roa-clothing-lio-upf-plus-50-baselayer-moth-print-long-sleeve-hoodie-brown-j325401",
-        "in_stock": false
-      },
-      "9096566538445": {
-        "title": "CRW-001G-9ER Ringwatch Gold",
-        "handle": "g-shock-accessories-crw-001g-9er-yellow-j350205",
-        "in_stock": false
-      },
-      "9095312736461": {
-        "title": "Inner Logo Socks Dark Blue / White",
-        "handle": "mental-athletic-clothing-mental-athletic-socks-blue-j338090",
-        "in_stock": false
-      },
-      "9100456132813": {
-        "title": "Summit Series Verto SA GORE-TEX Boots Black",
-        "handle": "the-north-face-footwear-wmns-summit-verto-sa-gore-tex-blackout-black-j341036",
-        "in_stock": false
-      },
-      "9097995059405": {
-        "title": "Club Structured OG Flame Cap Black",
-        "handle": "nike-accessories-nike-club-structured-og-flame-cap-multicolor-j337154",
-        "in_stock": false
-      },
-      "9101847036109": {
-        "title": "Men's Ezra Pocket T-Shirt Black / Wax",
-        "handle": "carhartt-wip-clothing-ss-ezra-pocket-t-shirt-multicolor-j345651",
-        "in_stock": false
-      },
-      "9056203079885": {
-        "title": "Men's Carlson Cut Jeans Rodeo Wash",
-        "handle": "our-legacy-clothing-carlson-cut-blue-j322565",
-        "in_stock": false
-      },
-      "9023678152909": {
-        "title": "Men's Teamgeist Adicolor Track Top Black / Signal Green",
-        "handle": "adidas-clothing-teamgeist-tt-black-j328173",
-        "in_stock": false
-      },
-      "9056437534925": {
-        "title": "Pegasus Premium Sneakers Black / White",
-        "handle": "nike-footwear-pegasus-premium-sp-black-j331308",
-        "in_stock": false
-      },
-      "9095312703693": {
-        "title": "Inner Logo Socks White / Fluo Blue",
-        "handle": "mental-athletic-clothing-mental-athletic-socks-white-j338091",
-        "in_stock": false
       },
       "9123337535693": {
         "title": "Air Jordan 4 'Comic' Sneakers Off White / Fire Pink",
@@ -8590,7 +8550,7 @@
         "in_stock": true
       },
       "9122637643981": {
-        "title": "Men's Your Message Here T-Shirt White",
+        "title": "Men's 'Your Message Here' T-Shirt White",
         "handle": "nike-clothing-u-nsw-tee-lse-ymh-1-white-j364298",
         "in_stock": true
       },
@@ -8707,7 +8667,7 @@
       "9094653280461": {
         "title": "Novalis Mirbelioids Trousers Black",
         "handle": "asics-clothing-mirbelioids-trousers-black-j322342",
-        "in_stock": true
+        "in_stock": false
       },
       "9097545515213": {
         "title": "Men's Diagonal Flap Puff Jacket Black",
@@ -8763,13 +8723,105 @@
         "title": "Men's Box T-Shirt Worn Black",
         "handle": "our-legacy-clothing-box-t-shirt-black-j355572",
         "in_stock": true
+      },
+      "9122170142925": {
+        "title": "Men's Mini Leather Jacket Black",
+        "handle": "our-legacy-clothing-mini-jacket-black-j355575",
+        "in_stock": true
+      },
+      "9122170077389": {
+        "title": "Men's Full Zip Hoodie Black",
+        "handle": "our-legacy-clothing-full-zip-hood-black-j355576",
+        "in_stock": true
+      },
+      "9122170044621": {
+        "title": "Men's Third Cut Jeans Digital Denim Print",
+        "handle": "our-legacy-clothing-third-cut-blue-j355574",
+        "in_stock": true
+      },
+      "9122170110157": {
+        "title": "Men's Mini Jacket Black",
+        "handle": "our-legacy-clothing-mini-jacket-black-j355571",
+        "in_stock": true
+      },
+      "9122169979085": {
+        "title": "Women's Mazzy Polo Charcoal Melange",
+        "handle": "our-legacy-clothing-wmns-mazzy-polo-grey-j355583",
+        "in_stock": true
+      },
+      "9122170011853": {
+        "title": "Women's Compact Hoodie Black",
+        "handle": "our-legacy-clothing-wmns-compact-hood-black-j355586",
+        "in_stock": true
+      },
+      "9122169782477": {
+        "title": "Men's Ribbed Wool Sweater Red",
+        "handle": "dries-van-noten-clothing-mazyr-4708-mksweater-red-red-j363829",
+        "in_stock": true
+      },
+      "9122169880781": {
+        "title": "Women's Craft Skirt Azure Print",
+        "handle": "our-legacy-clothing-wmns-craft-skirt-blue-j355649",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Afew Store: Clarks Originals Yukoner Boat\nhttps://www.afew-store.com/products/clarks-originals-yukoner-boat-black-brown-leather",
-      "detected_at": "2026-07-27T08:33:13.859949+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Zoom Skylon 11 Sneakers Black / Anthracite\nhttps://www.slamjam.com/products/nike-footwear-nike-zoom-skylon-11-black-j364321",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Tasman II Sandals Black\nhttps://www.slamjam.com/products/ugg-footwear-tasman-ii-brown-j368183",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Air Rift Sandals Light Khaki / Light Army\nhttps://www.slamjam.com/products/nike-footwear-wmns-wmns-nike-air-rift-brown-j364330",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Clifton UTL Sneakers Frost / Varsity Navy\nhttps://www.slamjam.com/products/hoka-one-one-footwear-u-clifton-utl-blue-j362625",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Wave Mujin TL GORE-TEX Sneakers Black / Royal Blue\nhttps://www.slamjam.com/products/mizuno-footwear-shoe-s-l-wave-mujin-tl-gtx-black-j364995",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Wave Prophecy LS Sneakers Black\nhttps://www.slamjam.com/products/mizuno-footwear-shoe-s-l-wave-prophecy-ls-black-j364989",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Mini Leather Jacket Black\nhttps://www.slamjam.com/products/our-legacy-clothing-mini-jacket-black-j355575",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Full Zip Hoodie Black\nhttps://www.slamjam.com/products/our-legacy-clothing-full-zip-hood-black-j355576",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Third Cut Jeans Digital Denim Print\nhttps://www.slamjam.com/products/our-legacy-clothing-third-cut-blue-j355574",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Mini Jacket Black\nhttps://www.slamjam.com/products/our-legacy-clothing-mini-jacket-black-j355571",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Mazzy Polo Charcoal Melange\nhttps://www.slamjam.com/products/our-legacy-clothing-wmns-mazzy-polo-grey-j355583",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Compact Hoodie Black\nhttps://www.slamjam.com/products/our-legacy-clothing-wmns-compact-hood-black-j355586",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Ribbed Wool Sweater Red\nhttps://www.slamjam.com/products/dries-van-noten-clothing-mazyr-4708-mksweater-red-red-j363829",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Craft Skirt Azure Print\nhttps://www.slamjam.com/products/our-legacy-clothing-wmns-craft-skirt-blue-j355649",
+      "detected_at": "2026-07-27T11:58:28.144372+00:00"
     }
   ]
 }
