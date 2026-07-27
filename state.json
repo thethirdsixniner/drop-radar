@@ -1,20 +1,20 @@
 {
   "stores": {
     "https://kith.com": {
-      "8286595350656": {
-        "title": "Kith & '47 for the New York Yankees Waxed Cotton Franchise LS Cap - Nocturnal - PH",
-        "handle": "khma050077-413-ph",
-        "in_stock": false
+      "8286594859136": {
+        "title": "Kith & '47 for the New York Yankees Waxed Cotton Franchise LS Cap - Nocturnal",
+        "handle": "khma050077-413",
+        "in_stock": true
       },
-      "8286595219584": {
-        "title": "Kith & '47 for the New York Mets Waxed Cotton Franchise LS Cap - Kindling - PH",
-        "handle": "khma050078-211-ph",
-        "in_stock": false
+      "8286594793600": {
+        "title": "Kith & '47 for the New York Mets Waxed Cotton Franchise LS Cap - Kindling",
+        "handle": "khma050078-211",
+        "in_stock": true
       },
-      "8286595317888": {
-        "title": "Kith & '47 for the Los Angeles Dodgers Waxed Cotton Franchise LS Cap - Cypress - PH",
-        "handle": "khma050079-311-ph",
-        "in_stock": false
+      "8286594760832": {
+        "title": "Kith & '47 for the Los Angeles Dodgers Waxed Cotton Franchise LS Cap - Cypress",
+        "handle": "khma050079-311",
+        "in_stock": true
       },
       "8286595121280": {
         "title": "Levi's x Sky High Farm Goods Vest - Mid Indigo",
@@ -139,7 +139,7 @@
       "8286594564224": {
         "title": "Pennon Concho Duck Boot - Butter",
         "handle": "pnn256-02-cobu",
-        "in_stock": true
+        "in_stock": false
       },
       "8286594531456": {
         "title": "Pennon High Boots Low - Dark Brown",
@@ -1368,11 +1368,6 @@
         "handle": "jordan-anthem-jacket-old-royal-yellow-pulse",
         "in_stock": true
       },
-      "6702599504133": {
-        "title": "NIKE X PALACE ENG PREMIUM TEE - PEWTER GREY",
-        "handle": "nike-x-palace-eng-premium-tee-pewter-grey",
-        "in_stock": false
-      },
       "6702599274757": {
         "title": "NIKE X PALACE ENG ACD X2 JERSEY - PEWTER GREY",
         "handle": "nike-x-palace-eng-acd-x2-jersey-pewter-grey",
@@ -1452,11 +1447,6 @@
         "title": "NIKE WMNS X VAA USA POLO - WHITE",
         "handle": "nike-wmns-x-vaa-usa-polo-white",
         "in_stock": true
-      },
-      "6702599602437": {
-        "title": "NIKE X PALACE ENG PREMIUM TEE - LIGHT CRIMSON",
-        "handle": "nike-x-palace-eng-premium-tee-light-crimson",
-        "in_stock": false
       },
       "6701635272965": {
         "title": "NEW BALANCE ABZORB 2000 - IRIDESCENT/ BLACK",
@@ -2502,6 +2492,16 @@
         "title": "MALBON X UNDEFEATED BALL MARKER - ANTIQUE BRASS",
         "handle": "malbon-x-undefeated-ball-marker-antique-brass",
         "in_stock": true
+      },
+      "6701499187461": {
+        "title": "UNDEFEATED PLAY DIRTY S/S TEE",
+        "handle": "undefeated-play-dirty-s-s-tee",
+        "in_stock": true
+      },
+      "6701499121925": {
+        "title": "UNDEFEATED DIRTY STATE S/S TEE",
+        "handle": "undefeated-dirty-state-s-s-tee",
+        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2943,7 +2943,7 @@
       "10763156586763": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-hide-chipmunk",
-        "in_stock": true
+        "in_stock": false
       },
       "10793559884043": {
         "title": "Adidas x Wales Bonner Football Tee",
@@ -3678,7 +3678,7 @@
       "10841051824395": {
         "title": "Adidas Japan",
         "handle": "adidas-japan-off-white-core-black-wonder-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10716161802507": {
         "title": "Asics JOG 100S",
@@ -7514,6 +7514,51 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9104742777037": {
+        "title": "Tuff Sneakers Sand",
+        "handle": "roa-footwear-tuff-beige-j334362",
+        "in_stock": true
+      },
+      "9123881451725": {
+        "title": "Men's Cotton Caban Jacket Black",
+        "handle": "mm6-maison-margiela-clothing-sportsjacket-black-j363161",
+        "in_stock": true
+      },
+      "9123881353421": {
+        "title": "Men's Jacquard Wool Cardigan Olive",
+        "handle": "dries-van-noten-clothing-mesa-4746-mkcardigan-oli-green-j363826",
+        "in_stock": true
+      },
+      "9123881386189": {
+        "title": "Men's Straight-Leg Jeans Black",
+        "handle": "mm6-maison-margiela-clothing-pants-5-pockets-black-j363167",
+        "in_stock": true
+      },
+      "9123881418957": {
+        "title": "Men's Checkered Flannel Shirt Brown / Off White",
+        "handle": "mm6-maison-margiela-clothing-longsleeved-shirt-brown-j363163",
+        "in_stock": true
+      },
+      "9123881320653": {
+        "title": "Men's Turtleneck Wool Cardigan White",
+        "handle": "dries-van-noten-clothing-mettur-4743-mkcardigan-whi-white-j363825",
+        "in_stock": true
+      },
+      "9123881255117": {
+        "title": "Men's Loose Cotton Shirt Purple",
+        "handle": "dries-van-noten-clothing-croom-4063-mwshirt-pur-purple-j363820",
+        "in_stock": true
+      },
+      "9123880632525": {
+        "title": "US8-S GEL-SJ33 Sneakers Roasted Coffee / Periwinkle Blue",
+        "handle": "asics-footwear-us8-s-gel-sj33-black-j359722",
+        "in_stock": false
+      },
+      "9123880665293": {
+        "title": "US8-S GEL-SJ33 Sneakers Black Coffee / Orange Lily",
+        "handle": "asics-footwear-us8-s-gel-sj33-black-j359721",
+        "in_stock": false
+      },
       "9123873095885": {
         "title": "Double Coated Cotton Ripstop Wallet Black",
         "handle": "stone-island-accessories-wallet-black-j362197",
@@ -7662,7 +7707,7 @@
       "9119394529485": {
         "title": "Dot Surf T-Shirt White",
         "handle": "stussy-clothing-dot-surf-tee-white-j361918",
-        "in_stock": true
+        "in_stock": false
       },
       "9119570755789": {
         "title": "Goodyear II Cap T.Q. Ivory",
@@ -8237,7 +8282,7 @@
       "9031569113293": {
         "title": "Men's NOCTA Cardinal Nylon Shorts Black",
         "handle": "nike-clothing-m-nrg-nocta-cs-short-wvn-black-j323053",
-        "in_stock": true
+        "in_stock": false
       },
       "9122651799757": {
         "title": "Clapton Tote Bag Camo Feather Tree / Black",
@@ -8718,138 +8763,57 @@
         "title": "Saint Mxxxxxx Varsity Jacket University Red",
         "handle": "nike-jordan-clothing-m-j-sm-varsity-jkt-red-j360046",
         "in_stock": true
-      },
-      "9122515058893": {
-        "title": "GEL-NYC 2.0 Sneakers Pink Cloud / Pure Silver",
-        "handle": "asics-footwear-gel-nyc-2-0-pink-j359698",
-        "in_stock": true
-      },
-      "9122515386573": {
-        "title": "Vomero Premium Sneakers Black / Rush Violet",
-        "handle": "nike-footwear-nike-vomero-prm-qs-black-j367534",
-        "in_stock": true
-      },
-      "9122515353805": {
-        "title": "Air Max Plus VII Sneakers Black / Illusion Green",
-        "handle": "nike-footwear-nike-air-max-plus-vii-black-j364258",
-        "in_stock": true
-      },
-      "9104757391565": {
-        "title": "Men's Helder 5 Inch Shorts Black",
-        "handle": "roa-clothing-helder-5-inch-shorts-black-j325821",
-        "in_stock": false
-      },
-      "9122515222733": {
-        "title": "Waffle Racer Sneakers Sail / Pine Green / Beach",
-        "handle": "nike-footwear-waffle-racer-white-j364282",
-        "in_stock": true
-      },
-      "9122515157197": {
-        "title": "ABZORB 1890 Sneakers Linen / Pumpernickel / Basil Oil",
-        "handle": "new-balance-footwear-u18904as-beige-j359268",
-        "in_stock": true
-      },
-      "9122515026125": {
-        "title": "GEL-NYC 2.0 Sneakers Smoke Grey / Pure Silver",
-        "handle": "asics-footwear-gel-nyc-2-0-grey-j359697",
-        "in_stock": true
-      },
-      "9122514960589": {
-        "title": "Hypersync Sneakers  Piedmont Grey / Pink Cloud",
-        "handle": "asics-footwear-hypersync-grey-j359717",
-        "in_stock": true
-      },
-      "9122514993357": {
-        "title": "GEL-Cumulus 16 Sneakers Pink Cloud / Pure Silver",
-        "handle": "asics-footwear-gel-cumulus-16-pink-j359657",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Dunk Low *Photon Dust*\nhttps://www.asphaltgold.de/products/nike-wmns-dunk-low-photon-dust-white-photon-dust-white",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Yankees Waxed Cotton Franchise LS Cap - Nocturnal\nhttps://kith.com/products/khma050077-413",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kick Game: On Cloudtilt Remix 'Autumn Ivory'\nhttps://www.kickgame.co.uk/products/on-cloudtilt-remix-autumn-ivory",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Mets Waxed Cotton Franchise LS Cap - Kindling\nhttps://kith.com/products/khma050078-211",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Double Coated Cotton Ripstop Wallet Black\nhttps://www.slamjam.com/products/stone-island-accessories-wallet-black-j362197",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Kith: Kith & '47 for the Los Angeles Dodgers Waxed Cotton Franchise LS Cap - Cypress\nhttps://kith.com/products/khma050079-311",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Organic Cotton Fleece Crewneck Sweatshirt Antique Rose\nhttps://www.slamjam.com/products/stone-island-clothing-sweatshirt-pink-j362185",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED PLAY DIRTY S/S TEE\nhttps://undefeated.com/products/undefeated-play-dirty-s-s-tee",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Speckled Wool Nylon Sweater Dark Green\nhttps://www.slamjam.com/products/stone-island-clothing-crew-neck-green-j362169",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED DIRTY STATE S/S TEE\nhttps://undefeated.com/products/undefeated-dirty-state-s-s-tee",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's RWS Geelong Wool Zip Cardigan Lead Grey\nhttps://www.slamjam.com/products/stone-island-clothing-cardigan-grey-j362168",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Tuff Sneakers Sand\nhttps://www.slamjam.com/products/roa-footwear-tuff-beige-j334362",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Organic Panama Cotton + Nylon Overshirt Military Green\nhttps://www.slamjam.com/products/stone-island-clothing-shirts-green-j362140",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Cotton Caban Jacket Black\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-sportsjacket-black-j363161",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: CHITO City Graphic T-Shirt Black\nhttps://www.slamjam.com/products/adidas-clothing-city-gfx-ss-tee-black-j359526",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Jacquard Wool Cardigan Olive\nhttps://www.slamjam.com/products/dries-van-noten-clothing-mesa-4746-mkcardigan-oli-green-j363826",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Heart Pocket Mirror Silver\nhttps://www.slamjam.com/products/carhartt-wip-lifestyle-heart-pocket-mirror-grey-j359231",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Straight-Leg Jeans Black\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-pants-5-pockets-black-j363167",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Wool Work Cap Black Check\nhttps://www.slamjam.com/products/undercover-accessories-acc-black-j367779",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Checkered Flannel Shirt Brown / Off White\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-longsleeved-shirt-brown-j363163",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cooperstown Pin Beret Dark Green\nhttps://www.slamjam.com/products/new-era-accessories-img-coops-pin-beret-grey-j356259",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Turtleneck Wool Cardigan White\nhttps://www.slamjam.com/products/dries-van-noten-clothing-mettur-4743-mkcardigan-whi-white-j363825",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Check 9TWENTY Adjustable Cap Beige\nhttps://www.slamjam.com/products/new-era-accessories-img-wr-check-9twenty-grey-j356258",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: New York Yankees Animal Print 9TWENTY Adjustable Cap Beige\nhttps://www.slamjam.com/products/new-era-accessories-animal-print-9twenty-multicolor-j356255",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: LA Dodgers Animal Print 9TWENTY Adjustable Cap Dark Beige\nhttps://www.slamjam.com/products/new-era-accessories-animal-print-9twenty-multicolor-j356254",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: New York Yankees Faux Suede 9FORTY E-Frame Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-faux-suede-e-frame-black-j356252",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cooperstown Pin Pillbox Adjustable Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-img-coops-pin-pillbox-black-j356247",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cord 9TWENTY Adjustable Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-cord-midi-9twenty-black-j356256",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: LA Dodgers Faux Suede 9FORTY E-Frame Cap Dark Green\nhttps://www.slamjam.com/products/new-era-accessories-faux-suede-e-frame-grey-j356251",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cooperstown Cord 19TWENTY Adjustable Cap Navy\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-multicolor-j356250",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Detroit Tigers MLB Cooperstown Cord 19TWENTY Adjustable Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-black-j356249",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Chicago Cubs MLB Cooperstown Cord 19TWENTY Adjustable Cap Dark Brown\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-multicolor-j356248",
-      "detected_at": "2026-07-27T14:55:59.373755+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Loose Cotton Shirt Purple\nhttps://www.slamjam.com/products/dries-van-noten-clothing-croom-4063-mwshirt-pur-purple-j363820",
+      "detected_at": "2026-07-27T17:02:06.288855+00:00"
     }
   ]
 }
