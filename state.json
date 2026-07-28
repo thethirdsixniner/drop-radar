@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "6535510589568": {
+        "title": "New Balance WMNS Made in USA 993 - Black / Grey / White",
+        "handle": "nbwr993bk",
+        "in_stock": true
+      },
       "8286594859136": {
         "title": "Kith & '47 for the New York Yankees Waxed Cotton Franchise LS Cap - Nocturnal",
         "handle": "khma050077-413",
@@ -1244,11 +1249,6 @@
       "8286583455872": {
         "title": "Elisa Johnson Jane Sunglasses - Green Tortoise",
         "handle": "ej-j-118-a",
-        "in_stock": true
-      },
-      "8286583390336": {
-        "title": "Elisa Johnson Jane Sunglasses - Gloss Black / Dark Brown",
-        "handle": "ej-j-119-a",
         "in_stock": true
       }
     },
@@ -2505,6 +2505,41 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11008722796811": {
+        "title": "Clarks Alixea Walk",
+        "handle": "clarks-alixea-walk-black",
+        "in_stock": true
+      },
+      "11008719290635": {
+        "title": "Clarks Originals Godney Boat W",
+        "handle": "clarks-originals-godney-boat-w-black",
+        "in_stock": true
+      },
+      "11008736821515": {
+        "title": "Adidas Japan W",
+        "handle": "adidas-japan-w-footwear-white-dual-yellow-cream-white",
+        "in_stock": true
+      },
+      "11008732659979": {
+        "title": "Adidas Samba OG *Snake*",
+        "handle": "adidas-samba-og-snake-brown-khaki-three-gum-5",
+        "in_stock": true
+      },
+      "11010711159051": {
+        "title": "Asics GEL-Resolution 5",
+        "handle": "asics-gelresolution-slate-blue-pure-silver",
+        "in_stock": false
+      },
+      "11012075684107": {
+        "title": "Asics GEL-Resolution 5",
+        "handle": "asics-gelresolution-5-cocoa-powder-cream",
+        "in_stock": false
+      },
+      "11008716439819": {
+        "title": "Clarks Originals Wallabee W",
+        "handle": "clarks-originals-wallabee-w-brown-cow",
+        "in_stock": true
+      },
       "10857073770763": {
         "title": "New Balance 90/60",
         "handle": "new-balance-9060-lone-star-grey-stoneware",
@@ -3158,7 +3193,7 @@
       "10731677417739": {
         "title": "Lacoste Baseshot Winter W",
         "handle": "lacoste-baseshot-winter-w-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10587509948683": {
         "title": "Adidas Italia 70s",
@@ -3283,7 +3318,7 @@
       "10216689762571": {
         "title": "Puma x KidSuper Studios Al-Hilal SFC Jersey Replica",
         "handle": "puma-x-kidsuper-studios-alhilal-sfc-jersey-replica-alpine-snow-club-navy",
-        "in_stock": false
+        "in_stock": true
       },
       "9043510690059": {
         "title": "Autry Viscose Jogger",
@@ -3718,41 +3753,6 @@
       "10803963429131": {
         "title": "Carhartt WIP Punched Sweat",
         "handle": "carhartt-wip-punched-sweat-puddle",
-        "in_stock": true
-      },
-      "10828920914187": {
-        "title": "thisisneverthat\t*Gore-Tex* 2L Reversible Jacket",
-        "handle": "thisisneverthatgoretex-2l-reversible-jacket-brown",
-        "in_stock": true
-      },
-      "10667719033099": {
-        "title": "HAY Weekend Bag Medium",
-        "handle": "hay-weekend-bag-organic-medium-dark-green-multi",
-        "in_stock": true
-      },
-      "10644419838219": {
-        "title": "Adidas EQT Jersey",
-        "handle": "adidas-eqt-jersey-equipment-green",
-        "in_stock": true
-      },
-      "10209824309515": {
-        "title": "Nike Project F.R.O.G. Woven Shorts",
-        "handle": "nike-project-frog-woven-shorts-olive-aura-white-grey-strike",
-        "in_stock": true
-      },
-      "10125285425419": {
-        "title": "Adidas Adizero Aruku",
-        "handle": "adidas-adizero-aruku-grey-three-grey-five-aurora-ruby",
-        "in_stock": true
-      },
-      "8812816924939": {
-        "title": "New Balance U1906LAE",
-        "handle": "new-balance-u1906lae-magnet",
-        "in_stock": true
-      },
-      "8442962608395": {
-        "title": "New Balance 90/60",
-        "handle": "new-balance-u90-60nrj-white",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,66 @@
       }
     },
     "https://www.afew-store.com": {
+      "10578569625866": {
+        "title": "Asics GEL-KINETIC 2.0",
+        "handle": "asics-gel-kinetic-2-0-obsidian-grey-olive-canvas",
+        "in_stock": true
+      },
+      "10578569265418": {
+        "title": "Asics GEL-KAYANO 14",
+        "handle": "asics-gel-kayano-14-ivory-cream",
+        "in_stock": true
+      },
+      "10578568904970": {
+        "title": "Asics GEL-NYC 2.0",
+        "handle": "asics-gel-nyc-2-0-clay-grey-cement-grey",
+        "in_stock": false
+      },
+      "10578568806666": {
+        "title": "Asics GEL-NYC 2.0",
+        "handle": "asics-gel-nyc-2-0-slate-blue-graphite-grey",
+        "in_stock": false
+      },
+      "10578568708362": {
+        "title": "Asics GEL-NYC 2.0",
+        "handle": "asics-gel-nyc-2-0-graphite-grey-loden-green",
+        "in_stock": false
+      },
+      "10578566906122": {
+        "title": "Timberland AUTH LOAFER SHOE",
+        "handle": "timberland-authentic-loafer-shoe-burgundy-f-grain",
+        "in_stock": true
+      },
+      "10578566119690": {
+        "title": "Timberland WMNS STST 6 IN LACE WATERPROOF BOOT",
+        "handle": "timberland-wmns-stst-6-in-lace-waterproof-boot-wheat",
+        "in_stock": true
+      },
+      "10578564317450": {
+        "title": "Salomon XT-QUEST",
+        "handle": "salomon-xt-quest-vanillaice-black-bistgn",
+        "in_stock": false
+      },
+      "10578563629322": {
+        "title": "Salomon XT-4 OG",
+        "handle": "salomon-xt-4-og-white-black-whitepepper",
+        "in_stock": false
+      },
+      "10578562547978": {
+        "title": "Salomon XT-4 OG",
+        "handle": "salomon-xt-4-og-black-desert-tan-vanila",
+        "in_stock": false
+      },
+      "10578560057610": {
+        "title": "Timberland AUTH LOAFER SHOE",
+        "handle": "timberland-authentic-loafer-shoe-blk-full-grain",
+        "in_stock": true
+      },
+      "10578559172874": {
+        "title": "Saucony PROGRID RIDE 1",
+        "handle": "saucony-progrid-ride-1-ivory-silver",
+        "in_stock": true
+      },
       "10435994878218": {
         "title": "Afew Goods Save The Birds Longsleeve",
         "handle": "afew-goods-save-the-birds-tee-black",
@@ -6269,37 +6329,37 @@
       "10578322915594": {
         "title": "Lacoste CASUAL SHIRT",
         "handle": "lacoste-casual-shirt-turquin-blue-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10578322227466": {
         "title": "Lacoste CASUAL SHIRT",
         "handle": "lacoste-casual-shirt-flamingo-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10578321604874": {
         "title": "Lacoste CREWNECKS",
         "handle": "lacoste-crewnecks-navy-blue",
-        "in_stock": false
+        "in_stock": true
       },
       "10578320130314": {
         "title": "Oakley LUNAR ELLIPSE TEE",
         "handle": "oakley-lunar-ellipse-tee-pitch-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10578319540490": {
         "title": "Oakley RESERVE STRATO TRACK PANT",
         "handle": "oakley-reserve-strato-track-pant-rain-camo-mist",
-        "in_stock": false
+        "in_stock": true
       },
       "10578315510026": {
         "title": "Oakley ECHO MOD OVERSHIRT",
         "handle": "oakley-echo-mod-overshirt-granite-gray",
-        "in_stock": false
+        "in_stock": true
       },
       "10578309546250": {
         "title": "Oakley ECHO MOD OVERSHIRT",
         "handle": "oakley-echo-mod-overshirt-mist",
-        "in_stock": false
+        "in_stock": true
       },
       "10577823662346": {
         "title": "Nike Kobe III Low Protro 'Atomic Pink'",
@@ -7450,70 +7510,145 @@
         "title": "Nike WMNS P-6000",
         "handle": "nike-wmns-p-6000-metallic-silver-steam-white-black",
         "in_stock": true
-      },
-      "10565679513866": {
-        "title": "New Balance 9060",
-        "handle": "new-balance-9060-driftwood-sea-salt",
-        "in_stock": true
-      },
-      "10565678629130": {
-        "title": "Crocs x Spiderman Classic Clog",
-        "handle": "crocs-x-spiderman-classic-clog-multi",
-        "in_stock": false
-      },
-      "10565677515018": {
-        "title": "Nike WMNS P-6000",
-        "handle": "nike-wmns-p-6000-vast-grey-dark-raisin-metallic-silver",
-        "in_stock": true
-      },
-      "10565676761354": {
-        "title": "Air Jordan 4 Retro",
-        "handle": "air-jordan-4-retro-coconut-milk-muslin-bright-mango",
-        "in_stock": true
-      },
-      "10565671977226": {
-        "title": "Nike ZOOM SKYLON 11",
-        "handle": "nike-zoom-skylon-11-university-red-black-metallic-silver",
-        "in_stock": true
-      },
-      "10565666570506": {
-        "title": "Nike ZOOM SKYLON 11",
-        "handle": "nike-zoom-skylon-11-volt-metallic-silver-black-lt-smoke-grey",
-        "in_stock": true
-      },
-      "10564139712778": {
-        "title": "Arte Antwerp Sunfade Track Jacket",
-        "handle": "arte-antwerp-sunfade-track-jacket-green",
-        "in_stock": true
-      },
-      "10564138041610": {
-        "title": "NEW AMSTERDAM SURF ASSOCIATION ECLIPSE TEE",
-        "handle": "new-amsterdam-surf-association-eclipse-tee-black",
-        "in_stock": true
-      },
-      "10564136894730": {
-        "title": "NEW AMSTERDAM SURF ASSOCIATION CITY OF WATER TEE",
-        "handle": "new-amsterdam-surf-association-city-of-water-tee-washed-white",
-        "in_stock": true
-      },
-      "10562909110538": {
-        "title": "adidas Originals WMNS 2-1 Denim Pant",
-        "handle": "adidas-originals-wmns-2-1-denim-pant-worblu",
-        "in_stock": true
-      },
-      "10562907635978": {
-        "title": "The North Face QUEST JACKET",
-        "handle": "the-north-face-quest-jacket-summit-navy",
-        "in_stock": false
-      },
-      "10562906620170": {
-        "title": "Nike Kobe Hoodie",
-        "handle": "nike-kobe-hoodie-cedar-cedar",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9123991191757": {
+        "title": "Women's Moon Shoe Sneakers Italy Blue / White",
+        "handle": "nike-footwear-wmns-nike-moon-racer-blue-j368312",
+        "in_stock": true
+      },
+      "9112093622477": {
+        "title": "Men's Dri-FIT 3in Brief-Lined Running Shorts Medium Ash",
+        "handle": "nike-clothing-nike-inline-disrupt-mens-dri-fit-3-brief-lined-running-shorts-brown-j352189",
+        "in_stock": true
+      },
+      "9107033718989": {
+        "title": "Ecopak 18L Backpack Black",
+        "handle": "and-wander-accessories-112-ecopak-18l-backpack-black-j338554",
+        "in_stock": true
+      },
+      "9118678450381": {
+        "title": "England x Palace T-Shirt Light Crimson",
+        "handle": "nike-clothing-ent-m-nk-prem-tee-red-j364605",
+        "in_stock": false
+      },
+      "9108125384909": {
+        "title": "Men's MothTech Muscle Tee Faded Black",
+        "handle": "satisfy-clothing-mothtech-muscle-tee-black-j355996",
+        "in_stock": true
+      },
+      "9106802868429": {
+        "title": "Men's Pigment Bleed Crewneck Sweater Navy",
+        "handle": "neighborhood-clothing-pigment-bleed-crewneck-sweater-blue-j353267",
+        "in_stock": true
+      },
+      "9118677401805": {
+        "title": "USA x V.A.A. Woven Staff Jacket White / Deep Royal Blue",
+        "handle": "nike-clothing-usx-m-staff-wvn-jkt-white-j364589",
+        "in_stock": true
+      },
+      "9097440100557": {
+        "title": "Men's A Ma Maniére Pants Black",
+        "handle": "nike-jordan-clothing-m-j-amm-pant-black-j349181",
+        "in_stock": true
+      },
+      "9107034734797": {
+        "title": "Women's EQT Tight Top Night Indigo",
+        "handle": "adidas-clothing-wmns-eqt-tight-ss-blue-j345894",
+        "in_stock": true
+      },
+      "9108025442509": {
+        "title": "Men's AS Cdisc2_1 Crewneck Sweatshirt Black",
+        "handle": "cav-empt-clothing-as-cdisc2-1-crew-neck-black-j355866",
+        "in_stock": true
+      },
+      "9082801881293": {
+        "title": "Men's Smooth Jersey Stuntman & Woman Baggy Track Pants Black",
+        "handle": "kapital-clothing-smooth-jersey-stantman-woman-baggy-track-pants-black-j338142",
+        "in_stock": true
+      },
+      "9123989717197": {
+        "title": "TF100 Sneakers New Spruce / Black",
+        "handle": "new-balance-footwear-utfoa1pgd12-green-j353231",
+        "in_stock": true
+      },
+      "9123988373709": {
+        "title": "LTTT Gel-Resolution 5 Sneakers White / Red",
+        "handle": "asics-footwear-gel-resolution-5-white-j359704",
+        "in_stock": false
+      },
+      "9123988406477": {
+        "title": "LTTT Gel-Resolution 5 Sneakers Parrot Green / Pure Silver",
+        "handle": "asics-footwear-gel-resolution-5-green-j359703",
+        "in_stock": false
+      },
+      "9121035157709": {
+        "title": "Air Jordan 1 High OG 'Love Letter' Sneakers Shadow Brown / Soft Pearl",
+        "handle": "nike-jordan-footwear-air-jordan-1-retro-high-og-brown-j365624",
+        "in_stock": false
+      },
+      "9123988275405": {
+        "title": "Air Jordan 13 Retro Sneakers Navy / Flint Grey",
+        "handle": "nike-jordan-footwear-air-jordan-13-retro-blue-j352828",
+        "in_stock": false
+      },
+      "9123987554509": {
+        "title": "Black Hole Duffel 40L Smolder Blue / Redtail Rust",
+        "handle": "patagonia-accessories-black-hole-duffel-40l-blue-j362325",
+        "in_stock": true
+      },
+      "8990019944653": {
+        "title": "Spikes Cap Army Green",
+        "handle": "umbro-accessories-spikes-cap-green-j300408",
+        "in_stock": false
+      },
+      "9041125507277": {
+        "title": "Men's Down Sweater Hooded Jacket Black",
+        "handle": "patagonia-clothing-ms-down-sweater-hoody-black-j324921",
+        "in_stock": true
+      },
+      "9123987652813": {
+        "title": "Black Hole Cube 3L Black",
+        "handle": "patagonia-accessories-black-hole-cube-3l-black-j362240",
+        "in_stock": true
+      },
+      "9123987685581": {
+        "title": "Black Hole Cube 3L Smolder Blue / Redtail Rust",
+        "handle": "patagonia-accessories-black-hole-cube-3l-blue-j362326",
+        "in_stock": true
+      },
+      "9123987751117": {
+        "title": "Men's Classic Retro-X Jacket Smolder Blue / New Navy",
+        "handle": "patagonia-clothing-men-classic-retro-x-jkt-blue-j362322",
+        "in_stock": true
+      },
+      "9123987849421": {
+        "title": "Men's Torrentshell 3L Jacket Dark Ruby Brown",
+        "handle": "patagonia-clothing-men-torrentshell-3l-rain-jkt-brown-j362241",
+        "in_stock": true
+      },
+      "9123987783885": {
+        "title": "Men's Classic Retro-X Jacket Dark Natural",
+        "handle": "patagonia-clothing-men-classic-retro-x-jkt-beige-j362316",
+        "in_stock": true
+      },
+      "9123987816653": {
+        "title": "Men's Nano Puff Jacket Forge Grey",
+        "handle": "patagonia-clothing-men-nano-puff-jkt-grey-j362237",
+        "in_stock": true
+      },
+      "9123987718349": {
+        "title": "Men's Retro Pile Jacket Pine Needle / Classic Tan",
+        "handle": "patagonia-clothing-men-retro-pile-jkt-beige-j362232",
+        "in_stock": true
+      },
+      "9123987882189": {
+        "title": "Men's Oakland Shirt Jacket Blue / Dark Navy",
+        "handle": "carhartt-wip-clothing-oakland-shirt-jac-blue-j359234",
+        "in_stock": true
+      },
       "9123987620045": {
         "title": "Black Hole Tote Bag 25L Black",
         "handle": "patagonia-accessories-black-hole-tote-25l-black-j362238",
@@ -7522,16 +7657,6 @@
       "9123987587277": {
         "title": "Black Hole Pack 25L Black",
         "handle": "patagonia-accessories-black-hole-pack-25l-black-j362239",
-        "in_stock": true
-      },
-      "9123987521741": {
-        "title": "Black Hole Duffel 40L Black",
-        "handle": "patagonia-accessories-black-hole-duffel-40l-black-j362236",
-        "in_stock": true
-      },
-      "9123987554509": {
-        "title": "Black Hole Duffel 40L Smolder Blue / Redtail Rust",
-        "handle": "patagonia-accessories-black-hole-duffel-40l-blue-j362325",
         "in_stock": true
       },
       "9123984736461": {
@@ -7777,12 +7902,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": true
-      },
-      "9041125507277": {
-        "title": "Men's Down Sweater Hooded Jacket Black",
-        "handle": "patagonia-clothing-ms-down-sweater-hoody-black-j324921",
-        "in_stock": true
+        "in_stock": false
       },
       "9032280572109": {
         "title": "Alpinway Advanced Sneakers Pale Olive Green / Black / Ice",
@@ -7807,16 +7927,6 @@
       "9046020915405": {
         "title": "Cingino Boots Silver / Black",
         "handle": "roa-footwear-cingino-multicolor-j318383",
-        "in_stock": false
-      },
-      "9110408560845": {
-        "title": "XT-Whisper Sneakers Walnut / Bitter Chocolate / Vanilla Ice",
-        "handle": "salomon-footwear-xt-whisper-brown-j350621",
-        "in_stock": false
-      },
-      "9105014915277": {
-        "title": "Column Carabiner Silver / Gold",
-        "handle": "aries-accessories-column-carabiner-grey-j333039",
         "in_stock": false
       },
       "9104757620941": {
@@ -8653,135 +8763,165 @@
         "title": "Men's ACG Radical AirFlow Dri-FIT Short-Sleeve Trail Running Top Anthracite",
         "handle": "nike-clothing-m-acg-df-rad-airflow-ss-top-grey-j364326",
         "in_stock": false
-      },
-      "9122642231501": {
-        "title": "Men's ACG Dri-FIT T-Shirt Summit White",
-        "handle": "nike-clothing-m-acg-df-tee-lse-168-white-j364275",
-        "in_stock": true
-      },
-      "9122642034893": {
-        "title": "Men's ACG Dri-FIT T-Shirt Black",
-        "handle": "nike-clothing-m-acg-df-tee-lse-mystery-snail-black-j364276",
-        "in_stock": true
-      },
-      "9100808618189": {
-        "title": "Cloudtilt Sneakers Eclipse / Black",
-        "handle": "on-footwear-cloudtilt-grey-j341093",
-        "in_stock": true
-      },
-      "9046797713613": {
-        "title": "Men's Cloudrock Low WP Sneakers Black",
-        "handle": "on-footwear-cloudrock-low-wp-black-j334946",
-        "in_stock": true
-      },
-      "9100565709005": {
-        "title": "Cloudtilt Sneakers Black / Ivory",
-        "handle": "on-footwear-cloudtilt-black-j341094",
-        "in_stock": true
-      },
-      "9122639347917": {
-        "title": "Women's Sport Golf Knit Polo Shirt Sail / Khaki",
-        "handle": "nike-jordan-clothing-wmns-w-j-spt-golf-knit-ss-polo-white-j364296",
-        "in_stock": true
-      },
-      "9122639478989": {
-        "title": "Men's Flight Zip Hoodie Black / University Red",
-        "handle": "nike-jordan-clothing-m-j-flt-spcr-flc-po-black-j364294",
-        "in_stock": true
-      },
-      "9122639413453": {
-        "title": "Men's Oversized Flight T-Shirt Black",
-        "handle": "nike-jordan-clothing-m-j-flt-s-96-os-gfx-ss-crew-black-j364288",
-        "in_stock": true
-      },
-      "9122639380685": {
-        "title": "Men's Oversized Flight T-Shirt University Red",
-        "handle": "nike-jordan-clothing-m-j-flt-s-96-os-gfx-ss-crew-red-j364289",
-        "in_stock": true
-      },
-      "9122639446221": {
-        "title": "Men's Flight Wings Fleece Hoodie Black / University Red",
-        "handle": "nike-jordan-clothing-m-j-flt-wings-flc-po-black-j364285",
-        "in_stock": true
-      },
-      "9121745862861": {
-        "title": "A$AP Rocky Suede 94 Sneakers Black / White",
-        "handle": "puma-footwear-a-ap-rocky-x-puma-suede-94-black-j363735",
-        "in_stock": true
-      },
-      "9122638627021": {
-        "title": "ABZORB 2002S Sneakers Fresh Air / Aluminum Grey",
-        "handle": "new-balance-footwear-u20008da-grey-j359402",
-        "in_stock": true
-      },
-      "9122638659789": {
-        "title": "ABZORB 2002S Sneakers Fennel Seed / Pistachio Butter",
-        "handle": "new-balance-footwear-u2000460-green-j359397",
-        "in_stock": true
-      },
-      "9122637807821": {
-        "title": "Men's Club Rules Long-Sleeve Oxford Top Summit White",
-        "handle": "nike-clothing-m-nk-club-rules-oxford-ls-ball-white-j364318",
-        "in_stock": true
-      },
-      "9122637840589": {
-        "title": "Men's Sportswear Club Rugby Polo Black / Phantom",
-        "handle": "nike-clothing-m-nk-club-ls-rugby-top-black-j364272",
-        "in_stock": true
-      },
-      "9122637873357": {
-        "title": "Men's Club Rules Track Jacket Work Blue / Obsidian",
-        "handle": "nike-clothing-m-nk-club-rules-fz-jkt-aop-blue-j364305",
-        "in_stock": true
-      },
-      "9122637742285": {
-        "title": "Men's Club Rules Track Pants College Grey / Black",
-        "handle": "nike-clothing-m-nk-club-rules-trk-pant-aop-grey-j364306",
-        "in_stock": true
-      },
-      "9122637676749": {
-        "title": "Men's Tech Dri-FIT ADV T-Shirt Black",
-        "handle": "nike-clothing-m-nk-dfadv-tch-pro-mgna-ss-top-black-j364273",
-        "in_stock": true
-      },
-      "9122637643981": {
-        "title": "Men's 'Your Message Here' T-Shirt White",
-        "handle": "nike-clothing-u-nsw-tee-lse-ymh-1-white-j364298",
-        "in_stock": true
-      },
-      "9122637512909": {
-        "title": "SHAI 001 Premium Sneakers Slither",
-        "handle": "converse-footwear-shai-001-premium-brown-j367815",
-        "in_stock": true
-      },
-      "9122637611213": {
-        "title": "Men's Club Rules T-Shirt White",
-        "handle": "nike-clothing-u-nsw-tee-lse-club-rules-logo2-white-j364324",
-        "in_stock": true
-      },
-      "9122637578445": {
-        "title": "Men's Good vs Evil T-Shirt Black",
-        "handle": "nike-clothing-u-nsw-tee-lse-good-vs-evil-black-j364317",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Black Hole Tote Bag 25L Black\nhttps://www.slamjam.com/products/patagonia-accessories-black-hole-tote-25l-black-j362238",
-      "detected_at": "2026-07-28T13:02:06.753361+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance WMNS Made in USA 993 - Black / Grey / White\nhttps://kith.com/products/nbwr993bk",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Black Hole Pack 25L Black\nhttps://www.slamjam.com/products/patagonia-accessories-black-hole-pack-25l-black-j362239",
-      "detected_at": "2026-07-28T13:02:06.753361+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Clarks Alixea Walk\nhttps://www.asphaltgold.de/products/clarks-alixea-walk-black",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Black Hole Duffel 40L Black\nhttps://www.slamjam.com/products/patagonia-accessories-black-hole-duffel-40l-black-j362236",
-      "detected_at": "2026-07-28T13:02:06.753361+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Clarks Originals Godney Boat W\nhttps://www.asphaltgold.de/products/clarks-originals-godney-boat-w-black",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Black Hole Duffel 40L Smolder Blue / Redtail Rust\nhttps://www.slamjam.com/products/patagonia-accessories-black-hole-duffel-40l-blue-j362325",
-      "detected_at": "2026-07-28T13:02:06.753361+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Japan W\nhttps://www.asphaltgold.de/products/adidas-japan-w-footwear-white-dual-yellow-cream-white",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG *Snake*\nhttps://www.asphaltgold.de/products/adidas-samba-og-snake-brown-khaki-three-gum-5",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Clarks Originals Wallabee W\nhttps://www.asphaltgold.de/products/clarks-originals-wallabee-w-brown-cow",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Puma x KidSuper Studios Al-Hilal SFC Jersey Replica\nhttps://www.asphaltgold.de/products/puma-x-kidsuper-studios-alhilal-sfc-jersey-replica-alpine-snow-club-navy",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Asics GEL-KINETIC 2.0\nhttps://www.afew-store.com/products/asics-gel-kinetic-2-0-obsidian-grey-olive-canvas",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Asics GEL-KAYANO 14\nhttps://www.afew-store.com/products/asics-gel-kayano-14-ivory-cream",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Timberland AUTH LOAFER SHOE\nhttps://www.afew-store.com/products/timberland-authentic-loafer-shoe-burgundy-f-grain",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Timberland WMNS STST 6 IN LACE WATERPROOF BOOT\nhttps://www.afew-store.com/products/timberland-wmns-stst-6-in-lace-waterproof-boot-wheat",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Timberland AUTH LOAFER SHOE\nhttps://www.afew-store.com/products/timberland-authentic-loafer-shoe-blk-full-grain",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Saucony PROGRID RIDE 1\nhttps://www.afew-store.com/products/saucony-progrid-ride-1-ivory-silver",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Lacoste CASUAL SHIRT\nhttps://www.afew-store.com/products/lacoste-casual-shirt-turquin-blue-white",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Lacoste CASUAL SHIRT\nhttps://www.afew-store.com/products/lacoste-casual-shirt-flamingo-white",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Lacoste CREWNECKS\nhttps://www.afew-store.com/products/lacoste-crewnecks-navy-blue",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Oakley LUNAR ELLIPSE TEE\nhttps://www.afew-store.com/products/oakley-lunar-ellipse-tee-pitch-black",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Oakley RESERVE STRATO TRACK PANT\nhttps://www.afew-store.com/products/oakley-reserve-strato-track-pant-rain-camo-mist",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Oakley ECHO MOD OVERSHIRT\nhttps://www.afew-store.com/products/oakley-echo-mod-overshirt-granite-gray",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Oakley ECHO MOD OVERSHIRT\nhttps://www.afew-store.com/products/oakley-echo-mod-overshirt-mist",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Moon Shoe Sneakers Italy Blue / White\nhttps://www.slamjam.com/products/nike-footwear-wmns-nike-moon-racer-blue-j368312",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Dri-FIT 3in Brief-Lined Running Shorts Medium Ash\nhttps://www.slamjam.com/products/nike-clothing-nike-inline-disrupt-mens-dri-fit-3-brief-lined-running-shorts-brown-j352189",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Ecopak 18L Backpack Black\nhttps://www.slamjam.com/products/and-wander-accessories-112-ecopak-18l-backpack-black-j338554",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MothTech Muscle Tee Faded Black\nhttps://www.slamjam.com/products/satisfy-clothing-mothtech-muscle-tee-black-j355996",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Pigment Bleed Crewneck Sweater Navy\nhttps://www.slamjam.com/products/neighborhood-clothing-pigment-bleed-crewneck-sweater-blue-j353267",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: USA x V.A.A. Woven Staff Jacket White / Deep Royal Blue\nhttps://www.slamjam.com/products/nike-clothing-usx-m-staff-wvn-jkt-white-j364589",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's A Ma Maniére Pants Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-amm-pant-black-j349181",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's EQT Tight Top Night Indigo\nhttps://www.slamjam.com/products/adidas-clothing-wmns-eqt-tight-ss-blue-j345894",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's AS Cdisc2_1 Crewneck Sweatshirt Black\nhttps://www.slamjam.com/products/cav-empt-clothing-as-cdisc2-1-crew-neck-black-j355866",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Smooth Jersey Stuntman & Woman Baggy Track Pants Black\nhttps://www.slamjam.com/products/kapital-clothing-smooth-jersey-stantman-woman-baggy-track-pants-black-j338142",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: TF100 Sneakers New Spruce / Black\nhttps://www.slamjam.com/products/new-balance-footwear-utfoa1pgd12-green-j353231",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Black Hole Cube 3L Black\nhttps://www.slamjam.com/products/patagonia-accessories-black-hole-cube-3l-black-j362240",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Black Hole Cube 3L Smolder Blue / Redtail Rust\nhttps://www.slamjam.com/products/patagonia-accessories-black-hole-cube-3l-blue-j362326",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Classic Retro-X Jacket Smolder Blue / New Navy\nhttps://www.slamjam.com/products/patagonia-clothing-men-classic-retro-x-jkt-blue-j362322",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Torrentshell 3L Jacket Dark Ruby Brown\nhttps://www.slamjam.com/products/patagonia-clothing-men-torrentshell-3l-rain-jkt-brown-j362241",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Classic Retro-X Jacket Dark Natural\nhttps://www.slamjam.com/products/patagonia-clothing-men-classic-retro-x-jkt-beige-j362316",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Nano Puff Jacket Forge Grey\nhttps://www.slamjam.com/products/patagonia-clothing-men-nano-puff-jkt-grey-j362237",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Retro Pile Jacket Pine Needle / Classic Tan\nhttps://www.slamjam.com/products/patagonia-clothing-men-retro-pile-jkt-beige-j362232",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Oakland Shirt Jacket Blue / Dark Navy\nhttps://www.slamjam.com/products/carhartt-wip-clothing-oakland-shirt-jac-blue-j359234",
+      "detected_at": "2026-07-28T15:34:58.982637+00:00"
     }
   ]
 }
