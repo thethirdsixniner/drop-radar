@@ -1446,7 +1446,7 @@
       "6702434156805": {
         "title": "JORDAN AJ S/S TEE - WHITE",
         "handle": "jordan-aj-s-s-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6702600814853": {
         "title": "NIKE X VAA USA STAFF JACKET - WHITE",
@@ -4657,11 +4657,6 @@
         "handle": "nike-cortez-premium-black-sail",
         "in_stock": true
       },
-      "8896856785084": {
-        "title": "Adidas Gazelle Indoor - Night Indigo/Off White",
-        "handle": "adidas-gazelle-indoor-night-indigo-off-white",
-        "in_stock": false
-      },
       "8762334314684": {
         "title": "Ksubi Poolside S/S Resort Shirt - Multi",
         "handle": "ksubi-poolside-s-s-resort-shirt-multi",
@@ -5005,6 +5000,11 @@
       "9326922137788": {
         "title": "Asics Gel-NYC 2.0 - Oatmeal/Umeboshi",
         "handle": "asics-gel-nyc-2-0-oatmeal-umeboshi",
+        "in_stock": true
+      },
+      "9326930985148": {
+        "title": "Asics Gel-Stratus MC - Cream/Pure Silver",
+        "handle": "asics-gel-stratus-mc-cream-pure-silver",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Stratus MC - White/Clay Canyon\nhttps://sneakerpolitics.com/products/asics-gel-stratus-mc-white-clay-canyon",
-      "detected_at": "2026-07-28T02:45:29.960319+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-NYC 2.0 - Oatmeal/Umeboshi\nhttps://sneakerpolitics.com/products/asics-gel-nyc-2-0-oatmeal-umeboshi",
-      "detected_at": "2026-07-28T02:45:29.960319+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Stratus MC - Cream/Pure Silver\nhttps://sneakerpolitics.com/products/asics-gel-stratus-mc-cream-pure-silver",
+      "detected_at": "2026-07-28T05:49:11.287815+00:00"
     }
   ]
 }
