@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286611832960": {
+        "title": "New Balance Gator Run - Cream",
+        "handle": "nbugtr4dy",
+        "in_stock": true
+      },
+      "8286611800192": {
+        "title": "Rick Owens Vintage Sneaks - Grease / Milk / Milk",
+        "handle": "ricru02f4897lvslco84",
+        "in_stock": true
+      },
       "6535510589568": {
         "title": "New Balance WMNS Made in USA 993 - Black / Grey / White",
         "handle": "nbwr993bk",
@@ -1240,19 +1250,14 @@
         "title": "Elisa Johnson Mini Vito Sunglasses - Black",
         "handle": "ej-mv-101-m",
         "in_stock": true
-      },
-      "8286583324800": {
-        "title": "Elisa Johnson Val Sunglasses - Green Tortoise",
-        "handle": "ej-vl-104-a",
-        "in_stock": true
-      },
-      "8286583455872": {
-        "title": "Elisa Johnson Jane Sunglasses - Green Tortoise",
-        "handle": "ej-j-118-a",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702599897349": {
+        "title": "NIKE X PEACEMINUSONE KR ANTHEM JACKET - BLACK/ WHITE",
+        "handle": "nike-x-peaceminusone-kr-anthem-jacket-black-white",
+        "in_stock": false
+      },
       "6701895352581": {
         "title": "ADIDAS WORLD CUP MEXICO JERSEY REMIX - BGREEN",
         "handle": "adidas-world-cup-mexico-jersey-remix-bgreen",
@@ -1371,7 +1376,7 @@
       "6702411350277": {
         "title": "NIKE FFF 2026 STADIUM HOME JERSEY - GAME ROYAL",
         "handle": "nike-fff-2026-stadium-home-jersey-game-royal",
-        "in_stock": true
+        "in_stock": false
       },
       "6702411186437": {
         "title": "NIKE FFF 2026 STADIUM AWAY JERSEY - IGLOO/ MONARCH",
@@ -1871,7 +1876,7 @@
       "6702351941893": {
         "title": "UNDEFEATED X WBC USA JERSEY - NAVY",
         "handle": "undefeated-x-wbc-usa-jersey-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "6702352072965": {
         "title": "UNDEFEATED X WBC PUERTO RICO CREWNECK - GREY",
@@ -2497,11 +2502,6 @@
         "title": "UNDEFEATED X BCFC X NIKE STADIUM AWAY JERSEY - WHITE",
         "handle": "undefeated-x-bcfc-x-nike-stadium-away-jersey-white",
         "in_stock": false
-      },
-      "6700580208901": {
-        "title": "UNDEFEATED X BCFC X NIKE STADIUM THIRD JERSEY - BLACK",
-        "handle": "undefeated-x-bcfc-x-nike-goalkeeper-jersey-black",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2738,7 +2738,7 @@
       "8461007192331": {
         "title": "Nike x Nocta Fleece Hoodie",
         "handle": "nike-x-nocta-fleece-hoodie-dark-greyheather-matte-silver-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8457130639627": {
         "title": "Tekla Pyjamas Shorts",
@@ -3053,7 +3053,7 @@
       "9781108736267": {
         "title": "Asphaltgold Leather Card Holder",
         "handle": "asphaltgold-leather-card-holder-orange",
-        "in_stock": true
+        "in_stock": false
       },
       "8869505892619": {
         "title": "The North Face M66 Down Vest",
@@ -3258,7 +3258,7 @@
       "8931895410955": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-core-black-footwear-white-core-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10223957836043": {
         "title": "Asics GEL-NYC",
@@ -3423,7 +3423,7 @@
       "10694657966347": {
         "title": "Nike Pegasus Premium SP",
         "handle": "nike-pegasus-premium-sp-mushroom-metallic-silver-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10733333577995": {
         "title": "Martine Rose Utility Trouser",
@@ -3757,6 +3757,61 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9336508547260": {
+        "title": "Anti Social Social Club Devilish Cap - Black",
+        "handle": "anti-social-social-club-devilish-cap-black",
+        "in_stock": true
+      },
+      "9349856035004": {
+        "title": "Kobe Bryant x Nike Dunk Low Protro 'Draft Pack' - Fierce Purple/Blue Lagoon",
+        "handle": "kobe-bryant-x-nike-dunk-low-protro-draft-pack-fierce-purple-blue-lagoon",
+        "in_stock": true
+      },
+      "9119587467452": {
+        "title": "New Balance 740 - Timberwolf/Afterglow",
+        "handle": "new-balance-u740n8qa-timberwolf",
+        "in_stock": true
+      },
+      "9372555346108": {
+        "title": "Nike Air Max 95 OG 'Tech' - Iron Grey/Illusion Green",
+        "handle": "nike-air-max-95-og-tech-iron-grey-illusion-green",
+        "in_stock": true
+      },
+      "9352453849276": {
+        "title": "Nike Dunk Low Retro 'Varsity' - Sail/University Gold",
+        "handle": "nike-dunk-low-retro-varsity-sail-university-gold",
+        "in_stock": true
+      },
+      "9255875281084": {
+        "title": "Nike Air DT Max '96 Low - Black/Metallic Gold",
+        "handle": "nike-air-dt-max-96-low-black-metallic-gold",
+        "in_stock": false
+      },
+      "9363157876924": {
+        "title": "Women's PEACEMINUSONE x Korea x Nike Soccer Top - Black/White",
+        "handle": "womens-peaceminusone-x-korea-x-nike-soccer-top-black-white",
+        "in_stock": true
+      },
+      "9336502649020": {
+        "title": "Anti Social Social Club KKotch Tee - Blue",
+        "handle": "anti-social-social-club-kkotch-tee-blue",
+        "in_stock": true
+      },
+      "9336500289724": {
+        "title": "Anti Social Social Club Bored Shorts - Black",
+        "handle": "anti-social-social-club-bored-shorts-black",
+        "in_stock": true
+      },
+      "9336492589244": {
+        "title": "Anti Social Social Club Pinstriped Baseball Jersey - Black/White",
+        "handle": "anti-social-social-club-pinstriped-baseball-jersey-black-white",
+        "in_stock": true
+      },
+      "9349910102204": {
+        "title": "Women's Nike Air Force 1 '07 'Game Day' - Malachite/Coconut Milk",
+        "handle": "womens-nike-air-force-1-07-game-day-malachite-coconut-milk",
+        "in_stock": true
+      },
       "9363140083900": {
         "title": "Palace x England x Nike Varsity Jacket - Cool Grey/White",
         "handle": "palace-x-england-x-nike-varsity-jacket-cool-grey-white",
@@ -4950,61 +5005,6 @@
       "9405439148220": {
         "title": "Women's Hoka Clifton 11 - Black/White",
         "handle": "womens-clifton-11-black-white",
-        "in_stock": true
-      },
-      "9405699326140": {
-        "title": "Bad Bunny x Adidas F50 Ghost Sprint - Dark Marine/Light Blue",
-        "handle": "bad-bunny-x-adidas-f50-ghost-sprint-dark-marine-light-blue",
-        "in_stock": true
-      },
-      "9342187765948": {
-        "title": "Jordan 3 Retro 'True Blue' (TD) - White/True Blue",
-        "handle": "jordan-3-retro-true-blue-td-white-true-blue",
-        "in_stock": true
-      },
-      "9342176362684": {
-        "title": "Jordan 3 Retro 'True Blue' (PS) - White/True Blue",
-        "handle": "jordan-3-retro-true-blue-ps-white-true-blue",
-        "in_stock": true
-      },
-      "9342167351484": {
-        "title": "Air Jordan 3 Retro 'True Blue' (GS) - White/True Blue",
-        "handle": "air-jordan-3-retro-true-blue-gs-white-true-blue",
-        "in_stock": true
-      },
-      "9342221516988": {
-        "title": "Air Jordan 3 Retro 'True Blue' - White/True Blue",
-        "handle": "air-jordan-3-retro-true-blue-white-true-blue",
-        "in_stock": true
-      },
-      "9397664678076": {
-        "title": "Fear Of God Essentials Cut Off 90's Tee - Chalk",
-        "handle": "fear-of-god-essentials-cut-off-90s-tee-chalk",
-        "in_stock": true
-      },
-      "9397633417404": {
-        "title": "Fear Of God Essentials Tri-Blend Essential Tee - Seal Heather",
-        "handle": "fear-of-god-essentials-essential-tee-seal-heather",
-        "in_stock": true
-      },
-      "9397631910076": {
-        "title": "Fear Of God Essentials Cut Off 90's Tee - Seal",
-        "handle": "fear-of-god-essentials-cut-off-90s-tee-seal",
-        "in_stock": true
-      },
-      "9397631320252": {
-        "title": "Fear Of God Essentials Merch Tee - Iron Grey",
-        "handle": "fear-of-god-essentials-merch-tee-iron-grey-1",
-        "in_stock": true
-      },
-      "9397630763196": {
-        "title": "Fear Of God Essentials Nylon Swim Shorts - Vintage Black",
-        "handle": "fear-of-god-essentials-nylon-swim-shorts-vintage-black",
-        "in_stock": true
-      },
-      "9397630501052": {
-        "title": "Fear Of God Essentials Nylon Swim Shorts - Moss",
-        "handle": "fear-of-god-essentials-nylon-swim-shorts-moss",
         "in_stock": true
       }
     },
@@ -8768,316 +8768,52 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Palace x England x Nike Varsity Jacket - Cool Grey/White\nhttps://sneakerpolitics.com/products/palace-x-england-x-nike-varsity-jacket-cool-grey-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance Gator Run - Cream\nhttps://kith.com/products/nbugtr4dy",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Uptempo 'Lakers' - White/Court Purple\nhttps://sneakerpolitics.com/products/nike-air-max-uptempo-lakers-white-court-purple",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Kith: Rick Owens Vintage Sneaks - Grease / Milk / Milk\nhttps://kith.com/products/ricru02f4897lvslco84",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Dunk Low 'Game Day' - Court Purple/Coconut Milk\nhttps://sneakerpolitics.com/products/womens-nike-dunk-low-game-day-court-purple-coconut-milk",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Anti Social Social Club Devilish Cap - Black\nhttps://sneakerpolitics.com/products/anti-social-social-club-devilish-cap-black",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Force 1 Low Patent Leather (PS) - White/White\nhttps://sneakerpolitics.com/products/nike-force-1-low-patent-leather-ps-white-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Kobe Bryant x Nike Dunk Low Protro 'Draft Pack' - Fierce Purple/Blue Lagoon\nhttps://sneakerpolitics.com/products/kobe-bryant-x-nike-dunk-low-protro-draft-pack-fierce-purple-blue-lagoon",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG 'Granite' - Black/White\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-granite-black-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Balance 740 - Timberwolf/Afterglow\nhttps://sneakerpolitics.com/products/new-balance-u740n8qa-timberwolf",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Superfly - Linen/Black\nhttps://sneakerpolitics.com/products/womens-nike-air-superfly-linen-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG 'Tech' - Iron Grey/Illusion Green\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-tech-iron-grey-illusion-green",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley De La Salle - Light Matte Jade Opaline/Prizm Jade\nhttps://sneakerpolitics.com/products/oakley-de-la-salle-light-matte-jade-opaline-prizm-jade",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro 'Varsity' - Sail/University Gold\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-varsity-sail-university-gold",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Chaminade - Matte Transparent Lilac/Prizm Indigo\nhttps://sneakerpolitics.com/products/oakley-chaminade-matte-transparent-lilac-prizm-indigo",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's PEACEMINUSONE x Korea x Nike Soccer Top - Black/White\nhttps://sneakerpolitics.com/products/womens-peaceminusone-x-korea-x-nike-soccer-top-black-white",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Belleville - Matte Transparent Viridian/Prizm Jade\nhttps://sneakerpolitics.com/products/oakley-belleville-matte-transparent-viridian-prizm-jade",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Anti Social Social Club KKotch Tee - Blue\nhttps://sneakerpolitics.com/products/anti-social-social-club-kkotch-tee-blue",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Chaminade - Moon Dust/Prizm 24K Polarized\nhttps://sneakerpolitics.com/products/oakley-chaminade-moon-dust-prizm-24k-polarized",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Anti Social Social Club Bored Shorts - Black\nhttps://sneakerpolitics.com/products/anti-social-social-club-bored-shorts-black",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Force 1 Low 'Ice Cream' (PS) - Sail/Multi Color\nhttps://sneakerpolitics.com/products/nike-force-1-low-ice-cream-ps-sail-multi-color",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Anti Social Social Club Pinstriped Baseball Jersey - Black/White\nhttps://sneakerpolitics.com/products/anti-social-social-club-pinstriped-baseball-jersey-black-white",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Floral' - White/White\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-floral-white-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Eye Jacket Redux - Trans Vapor Bengal/Prizm Snow\nhttps://sneakerpolitics.com/products/oakley-eye-jacket-redux-trans-vapor-bengal-prizm-snow",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Eye Jacket Redux - Yellow Bengal/Prizm Black\nhttps://sneakerpolitics.com/products/oakley-eye-jacket-redux-yellow-bengal-prizm-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Eye Jacket Redux - Dark Amber Bengal/Prizm Tungsten\nhttps://sneakerpolitics.com/products/oakley-eye-jacket-redux-dark-amber-bengal-prizm-tungsten",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Eye Jacket Redux - Matte Moss/Prizm Tungsten\nhttps://sneakerpolitics.com/products/oakley-eye-jacket-redux-matte-moss-prizm-tungsten",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Eye Jacket Redux - Matte Brown Smoke/Prizm Deep Water\nhttps://sneakerpolitics.com/products/oakley-eye-jacket-redux-matte-brown-smoke-prizm-deep-water",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Training Classic Fit Flare Sweatpants - Faded Dune\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-training-classic-fit-flare-sweatpants-faded-dune",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Signature 90's Tee - Faded Seal\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-signature-90s-tee-faded-seal",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Logo Lighter - Black\nhttps://sneakerpolitics.com/products/politics-logo-lighter-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Logo Lighter - White\nhttps://sneakerpolitics.com/products/politics-logo-lighter-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Authentic 44 'Mohair' - Black/Multi\nhttps://sneakerpolitics.com/products/vans-lx-authentic-44-mohair-black-multi",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift Live For The Moments Tee - Black\nhttps://sneakerpolitics.com/products/honor-the-gift-live-for-the-moments-tee-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Carhartt WIP Prentis Liner Jacket - Camo Duck Jacquard/Green\nhttps://sneakerpolitics.com/products/carhartt-wip-prentis-liner-jacket-camo-duck-jacquard-green",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Chill Knit Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-chill-knit-tee-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Cargo Pant - Black\nhttps://sneakerpolitics.com/products/politics-cargo-pant-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Paisley Tray - Red\nhttps://sneakerpolitics.com/products/politics-paisley-tray-red",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 5 Retro (GS) - White/Metallic Silver\nhttps://sneakerpolitics.com/products/air-jordan-5-retro-gs-white-metallic-silver",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low Golf - White/Sequoia\nhttps://sneakerpolitics.com/products/air-jordan-1-low-golf-white-sequoia",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low SE (GS) - White/Old Royal\nhttps://sneakerpolitics.com/products/air-jordan-1-low-se-gs-white-old-royal",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's On Cloudmonster Void - Ivory/Pearl\nhttps://sneakerpolitics.com/products/womens-on-cloudmonster-void-ivory-pearl",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - Grey/Slime\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-grey-slime",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Authentic 44 - Diamond Check Blackout\nhttps://sneakerpolitics.com/products/vans-lx-authentic-44-diamond-check-blackout",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Timberland Premium 6\" Lace Up Waterproof Boot - Dark Red\nhttps://sneakerpolitics.com/products/timberland-premium-6-lace-up-waterproof-boot-dark-red",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike ReactX Rejuven8 - Blue Void/Indigo Burst\nhttps://sneakerpolitics.com/products/nike-reactx-rejuven8-blue-void-indigo-burst",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-1130 - White/Forest Night\nhttps://sneakerpolitics.com/products/asics-gel-1130-white-forest-night",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low SE 'Somos Eternos' - Denim Turquoise/Smoky Blue\nhttps://sneakerpolitics.com/products/air-jordan-1-low-se-somos-eternos-denim-turquoise-smoky-blue",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Gucci Rectangular Frame Sunglasses - Black/Solid Grey\nhttps://sneakerpolitics.com/products/gucci-rectangular-frame-sunglasses-black-solid-grey",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Vintage Frames Hustler Drill Mount - Black\nhttps://sneakerpolitics.com/products/vintage-frames-hustler-drill-mount-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Vintage Frames Detroit Player Drill Mount - Smoke Flash Blue\nhttps://sneakerpolitics.com/products/vintage-frames-detroit-player-drill-mount-smoke-flash-blue",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Vintage Frames Bal Harbour Drill Mount - Powder Green/Flash Purple\nhttps://sneakerpolitics.com/products/vintage-frames-bal-harbour-drill-mount-powder-green-flash-purple",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Ascension Ekcess Tee - Faded Black\nhttps://sneakerpolitics.com/products/ksubi-ascension-ekcess-tee",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: James Oro Serpent Authentic - Brown Tint/Gold\nhttps://sneakerpolitics.com/products/james-oro-serpent-authentic-brown-tint-gold",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: James Oro Dune - Amber/Black\nhttps://sneakerpolitics.com/products/james-oro-dune-amber-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf Eagle Buckets Pocket Tee - Navy\nhttps://sneakerpolitics.com/products/malbon-golf-eagle-buckets-pocket-tee-navy",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Heaven On Earth Tee - Vintage White\nhttps://sneakerpolitics.com/products/rhude-heaven-on-earth-tee-vintage-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Acadiana Sunglasses - Green\nhttps://sneakerpolitics.com/products/politics-acadiana-sunglasses-green",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Soccer Tee - Off White\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-soccer-tee-off-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Salehe Bembury x Puma Portugal KING Tee - Emerald Ice\nhttps://sneakerpolitics.com/products/salehe-bembury-x-puma-portugal-king-tee-emerald-ice",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf & Bass Club Golf Towel - Forest\nhttps://sneakerpolitics.com/products/malbon-golf-bass-club-golf-towel-forest",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Diet Starts Monday D Star Shorts - Black\nhttps://sneakerpolitics.com/products/diet-starts-monday-d-star-shorts-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Textured Nylon 5 Pocket Shorts - Vintage Black\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-textured-nylon-5-pocket-shorts-vintage-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Training Classic Fit Shorts - Faded Dune\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-training-classic-fit-shorts-faded-dune",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York GS E Pluribus Trucker Hat - White/Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-gs-e-pluribus-trucker-hat-white-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Lifted Anchors Blue Diamond Snapback - Blue/Black\nhttps://sneakerpolitics.com/products/lifted-anchors-blue-diamond-snapback-blue-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Campus Classic Tee - Faded Black\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-campus-classic-tee-faded-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: SP5DER x Adidas Tee - White\nhttps://sneakerpolitics.com/products/sp5der-x-adidas-tee-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Vandal Thermal L/S Tee - Grey Wash\nhttps://sneakerpolitics.com/products/godspeed-new-york-vandal-thermal-l-s-tee-grey-wash",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Anti Social Social Club Distressed Tee - Black\nhttps://sneakerpolitics.com/products/anti-social-social-club-distressed-tee-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Denim Graphic Track Jacket - White/Dark Blue\nhttps://sneakerpolitics.com/products/adidas-denim-graphic-track-jacket-white-dark-blue",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: New Balance 1906L - Silver Metallic/Black\nhttps://sneakerpolitics.com/products/new-balance-1906l-silver-metallic-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Mizuno Wave Rider 10 - Harbor Mist/Black\nhttps://sneakerpolitics.com/products/mizuno-wave-rider-10-harbor-mist-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Birkenstock Boston EVA - Black\nhttps://sneakerpolitics.com/products/birkenstock-boston-eva-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Carhartt WIP Chase Hoodie - Velvet Green/Gold\nhttps://sneakerpolitics.com/products/carhartt-wip-chase-hoodie-velvet-green-gold",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Pit Stop Tee - Vintage Black/Red\nhttps://sneakerpolitics.com/products/rhude-pit-stop-tee-vintage-black-red",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Curve Tee - Cypress\nhttps://sneakerpolitics.com/products/billionaire-boys-club-curve-tee-cypress",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Market x Grateful Dead Tie Dye Tee - White/Blue\nhttps://sneakerpolitics.com/products/market-x-grateful-dead-tie-dye-tee-white-blue",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Lounge Sweatpant - Oatmeal Heather\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-lounge-sweatpant-oatmeal-heather",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Embroidered Tee - Vintage Black\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-embroidered-tee-vintage-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Classic Tee - Charcoal Heather\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-classic-tee-charcoal-heather",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Cones N Cash Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-cones-n-cash-tee-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift 1998 Drive In Crewneck - Black\nhttps://sneakerpolitics.com/products/honor-the-gift-1998-drive-in-crewneck-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Shine L/S Tee - White\nhttps://sneakerpolitics.com/products/pleasures-shine-l-s-tee-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Piano Bar Snapback - Black\nhttps://sneakerpolitics.com/products/pleasures-piano-bar-snapback-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Supplements Tee - White\nhttps://sneakerpolitics.com/products/pleasures-supplements-tee-white",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Diet Starts Monday Ignition Tee - Vintage Black\nhttps://sneakerpolitics.com/products/diet-starts-monday-ignition-tee-vintage-black",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf Tour Divot Polo - Bark Camo\nhttps://sneakerpolitics.com/products/malbon-golf-tour-divot-polo-bark-camo",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Sneaker Politics: Palace x England x Nike Tee - Pewter Grey\nhttps://sneakerpolitics.com/products/palace-x-england-x-nike-tee-pewter-grey",
-      "detected_at": "2026-07-28T20:17:22.521185+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Game Day' - Malachite/Coconut Milk\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-game-day-malachite-coconut-milk",
+      "detected_at": "2026-07-28T21:39:43.795649+00:00"
     }
   ]
 }
