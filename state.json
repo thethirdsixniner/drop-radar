@@ -1794,7 +1794,7 @@
         "in_stock": true
       },
       "2195148636233": {
-        "title": "NIKE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK",
+        "title": "CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK",
         "handle": "chuck-70-hi-obsidian-egret-black",
         "in_stock": true
       },
@@ -2783,7 +2783,7 @@
       "10686360748299": {
         "title": "Adidas x Liberty London Handball Spezial J",
         "handle": "adidas-x-liberty-london-handball-spezial-j-supplier-color-off-white-semi-lucid-red",
-        "in_stock": true
+        "in_stock": false
       },
       "10077570203915": {
         "title": "Autry Reelwind Low W *Nylon / Cracked Leather*",
@@ -3618,7 +3618,7 @@
       "8888898060555": {
         "title": "Carhartt WIP Half Zip American Script Sweat",
         "handle": "carhartt-wip-half-zip-american-script-sweat-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10221832175883": {
         "title": "Nike\tx Patta Track Pants",
@@ -5587,7 +5587,7 @@
       "15035590017400": {
         "title": "Saucony Progrid Omni 9 OG 'White Cadet'",
         "handle": "saucony-progrid-omni-9-og-white-cadet",
-        "in_stock": true
+        "in_stock": false
       },
       "15035431518584": {
         "title": "Saucony Progrid Omni 9 OG 'Carbon Cadet'",
@@ -8414,11 +8414,6 @@
         "handle": "kiko-kostadinov-clothing-wmns-linnet-wrap-culottes-black-j359625",
         "in_stock": true
       },
-      "9104757522637": {
-        "title": "Men's Ash Canvas Shorts Washed Black",
-        "handle": "roa-clothing-ash-canvas-shorts-black-j325418",
-        "in_stock": false
-      },
       "9122872819917": {
         "title": "Men's Sport Knit Golf Polo Obsidian",
         "handle": "nike-jordan-clothing-m-j-sp-golf-knit-polo-blue-j364301",
@@ -8763,85 +8758,18 @@
         "title": "Women's SST Track Top Warm Vanilla / Team Victory Red",
         "handle": "adidas-clothing-wmns-sst-tt-beige-j362526",
         "in_stock": true
+      },
+      "9122651570381": {
+        "title": "Women's SST Wide Leg Track Pants Warm Vanilla / Team Victory Red",
+        "handle": "adidas-clothing-wmns-sst-wide-leg-tp-beige-j362527",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike Air Force 1 '07 Patent Leather - White\nhttps://kith.com/products/nkiv2857-100",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance Made in USA 992 - Incense / White / Grey 006\nhttps://kith.com/products/nbu992ta",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance Made in USA 993 - Black\nhttps://kith.com/products/nbu993bl",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance Made in UK 991v2 - Green Banana / Moss\nhttps://kith.com/products/nbu991wg2",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: ASICS GEL-1130 - Cream / Pink Cloud\nhttps://kith.com/products/ai1203a899-105",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike Air Max Joga Bonito R9 - Metallic Silver / Varsity Royal / Black / Varsity Maize\nhttps://kith.com/products/nkix8646-001",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike WMNS Zoom Skylon 11 - Volt / Metallic Silver / Black / Summit White\nhttps://kith.com/products/nkiu7360-700",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike Air Max 90 - White / Cool Grey / University Red\nhttps://kith.com/products/nkdm0029-117",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike WMNS Air Force 1 '07 - White / Wolf Grey / Metallic Silver\nhttps://kith.com/products/nkir8637-100",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike WMNS Air Rift Mesh - Black / White\nhttps://kith.com/products/nkiw8074-001",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike Air Force 1 '07 - Newsprint / College Grey\nhttps://kith.com/products/nkiv5732-001",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance 204V - Fan Blue / Vintage Indigo / Black\nhttps://kith.com/products/nbu204vcmv",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Rick Owens Kids Sneaks - Black / Milk / Milk\nhttps://kith.com/products/bg01f3895lmu-911",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Salehe Bembury x Puma Portugal KING Polo - Gray Sky\nhttps://sneakerpolitics.com/products/salehe-bembury-x-puma-portugal-king-polo-gray-sky",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: PEACEMINUSONE x Korea x Nike Over The Calf Socks - White/Black\nhttps://sneakerpolitics.com/products/peaceminusone-x-korea-x-nike-over-the-calf-socks-white-black",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Patta x Netherlands x Nike Tech Fleece Joggers - Black/White\nhttps://sneakerpolitics.com/products/patta-x-netherlands-x-nike-tech-fleece-joggers-black-white",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Patta x Netherlands x Nike Crew Socks (2 Pack) - White/Orange\nhttps://sneakerpolitics.com/products/patta-x-netherlands-x-nike-crew-socks-2-pack-white-orange",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: KidSuper Spaceship Tee - Natural\nhttps://sneakerpolitics.com/products/kidsuper-spaceship-tee-natural",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Longridge SPZL - Wonder Silver/Halo Green\nhttps://sneakerpolitics.com/products/adidas-longridge-spzl-wonder-silver-halo-green",
-      "detected_at": "2026-07-29T19:21:01.894381+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's SST Wide Leg Track Pants Warm Vanilla / Team Victory Red\nhttps://www.slamjam.com/products/adidas-clothing-wmns-sst-wide-leg-tp-beige-j362527",
+      "detected_at": "2026-07-29T20:31:01.956470+00:00"
     }
   ]
 }
