@@ -1253,6 +1253,51 @@
       }
     },
     "https://undefeated.com": {
+      "6702411645189": {
+        "title": "NIKE AIR MAX 95 'GREEDY' - HYPER TURQUOISE/ VOLT",
+        "handle": "nike-air-max-95-greedy-hyper-turquoise-volt",
+        "in_stock": true
+      },
+      "6702457553157": {
+        "title": "NIKE KOBE XI ELITE PROTRO - BLACK",
+        "handle": "nike-kobe-xi-elite-protro-black",
+        "in_stock": true
+      },
+      "6702479540485": {
+        "title": "NIKE KOBE VIII PROTRO - TWINE/ BAROQUE BROWN",
+        "handle": "nike-kobe-viii-protro-twine-baroque-brown",
+        "in_stock": true
+      },
+      "6701479559429": {
+        "title": "NIKE AIR MAX 95 BIG BUBBLE - BLACK/ SMOKEGREY",
+        "handle": "nike-air-max-95-big-bubble-black-smokegrey",
+        "in_stock": true
+      },
+      "6702434287877": {
+        "title": "NIKE AIR FORCE 1 LOW RETRO - BLACK/ RACER BLUE/ VOLT ICE",
+        "handle": "nike-air-force-1-low-retro-black-racer-blue-volt-ice",
+        "in_stock": true
+      },
+      "6702407418117": {
+        "title": "NIKE KOBE AIR FORCE 1 LOW - TEAM RED/ WHITE",
+        "handle": "nike-kobe-air-force-1-low-team-red-white",
+        "in_stock": true
+      },
+      "6700682871045": {
+        "title": "NIKE WMNS AIR MAX 95 BIG BUBBLE - BLACK/ PINK FOAM",
+        "handle": "nike-womens-air-max-95-og-black-pinkfoam",
+        "in_stock": true
+      },
+      "6701827981573": {
+        "title": "NIKE AIR FORCE 1 '07 - WHITE/ MALACHITE/ WHITE",
+        "handle": "nike-air-force-1-07-white-malachite-white",
+        "in_stock": true
+      },
+      "6702477279493": {
+        "title": "NIKE AIR MAX UPTEMPO - WHITE / COURT PURPLE / WHITE / WHITE",
+        "handle": "nike-air-max-uptempo-white-court-purple-white-white",
+        "in_stock": true
+      },
       "6702238499077": {
         "title": "NIKE AIR MAX GOADOME LOW SP - TAUPE/ UNIVERSITY RED",
         "handle": "nike-air-max-goadome-low-sp-taupe",
@@ -1261,7 +1306,7 @@
       "6702598848773": {
         "title": "NIKE X JACQUEMUS FR TRACK JACKET - BLACKENED BLUE",
         "handle": "nike-x-jacquemus-fr-track-jacket-blackened-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "6702599897349": {
         "title": "NIKE X PEACEMINUSONE KR ANTHEM JACKET - BLACK/ WHITE",
@@ -2456,51 +2501,6 @@
       "6701499711749": {
         "title": "UNDEFEATED 5 SNAPBACK - BLACK",
         "handle": "undefeated-5-snapback-black",
-        "in_stock": true
-      },
-      "6701499908357": {
-        "title": "UNDEFEATED LOGO BEANIE",
-        "handle": "undefeated-logo-beanie",
-        "in_stock": true
-      },
-      "6701499777285": {
-        "title": "UNDEFEATED NECK GAITER",
-        "handle": "undefeated-neck-gaiter",
-        "in_stock": true
-      },
-      "6701499547909": {
-        "title": "UNDEFEATED FLIGHT SATIN SHOULDER BAG",
-        "handle": "undefeated-flight-satin-shoulder-bag",
-        "in_stock": true
-      },
-      "6701498728709": {
-        "title": "UNDEFEATED 2-PLY PULLOVER HOOD",
-        "handle": "undefeated-2-ply-pullover-hood",
-        "in_stock": true
-      },
-      "6701498827013": {
-        "title": "UNDEFEATED QUARTER ZIP PULLOVER HOOD",
-        "handle": "undefeated-quarter-zip-pullover-hood",
-        "in_stock": true
-      },
-      "6701498925317": {
-        "title": "UNDEFEATED HOODED LIGHTWEIGHT WOVEN JACKET - BLACK",
-        "handle": "undefeated-hooded-lightweight-woven-jacket-black",
-        "in_stock": true
-      },
-      "6701498859781": {
-        "title": "UNDEFEATED BARK CAMO SWEATER",
-        "handle": "undefeated-bark-camo-sweater",
-        "in_stock": true
-      },
-      "6701499285765": {
-        "title": "UNDEFEATED UTILITY PANT",
-        "handle": "undefeated-utility-pant-1",
-        "in_stock": true
-      },
-      "6701499023621": {
-        "title": "UNDEFEATED CARGO SWEATSHORT",
-        "handle": "undefeated-cargo-sweatshort",
         "in_stock": true
       }
     },
@@ -4130,7 +4130,7 @@
       "9156274323644": {
         "title": "SP5DER x Adidas Tee - White",
         "handle": "sp5der-x-adidas-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9149364437180": {
         "title": "Godspeed New York Vandal Thermal L/S Tee - Grey Wash",
@@ -8768,192 +8768,40 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas BW Army\nhttps://www.asphaltgold.de/products/adidas-bw-army-silver-pebble-silver-pebble-brown",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR MAX 95 'GREEDY' - HYPER TURQUOISE/ VOLT\nhttps://undefeated.com/products/nike-air-max-95-greedy-hyper-turquoise-volt",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Vomero Plus\nhttps://www.asphaltgold.de/products/nike-vomero-plus-platinum-tint-reflect-silver-grey-fog",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE KOBE XI ELITE PROTRO - BLACK\nhttps://undefeated.com/products/nike-kobe-xi-elite-protro-black",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Wilson Pro Staff 87 Nubuck\nhttps://www.asphaltgold.de/products/wilson-pro-staff-87-nubuck-white-white-evergreen",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE KOBE VIII PROTRO - TWINE/ BAROQUE BROWN\nhttps://undefeated.com/products/nike-kobe-viii-protro-twine-baroque-brown",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Jabbar Low W\nhttps://www.asphaltgold.de/products/adidas-jabbar-low-w-wonder-beige-off-white-gum-3",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR MAX 95 BIG BUBBLE - BLACK/ SMOKEGREY\nhttps://undefeated.com/products/nike-air-max-95-big-bubble-black-smokegrey",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 574\nhttps://www.asphaltgold.de/products/new-balance-u574bws-woodland",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 LOW RETRO - BLACK/ RACER BLUE/ VOLT ICE\nhttps://undefeated.com/products/nike-air-force-1-low-retro-black-racer-blue-volt-ice",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Indoor W\nhttps://www.asphaltgold.de/products/adidas-gazelle-indoor-w-core-black-cream-white-gum-3",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE KOBE AIR FORCE 1 LOW - TEAM RED/ WHITE\nhttps://undefeated.com/products/nike-kobe-air-force-1-low-team-red-white",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Air Rift\nhttps://www.asphaltgold.de/products/nike-wmns-air-rift-pearl-white-pearl-white-pearl-white",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE WMNS AIR MAX 95 BIG BUBBLE - BLACK/ PINK FOAM\nhttps://undefeated.com/products/nike-womens-air-max-95-og-black-pinkfoam",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tEveryday Lightweight Training Crew Socks 3-Pack\nhttps://www.asphaltgold.de/products/nikeeveryday-lightweight-training-crew-socks-3pack-black-white",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 '07 - WHITE/ MALACHITE/ WHITE\nhttps://undefeated.com/products/nike-air-force-1-07-white-malachite-white",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas F50 Graphic T-Shirt\nhttps://www.asphaltgold.de/products/adidas-f50-graphic-tshirt-black-black",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: HAL Studios Tank Top\nhttps://www.asphaltgold.de/products/hal-studios-tank-top-white",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Indoor\nhttps://www.asphaltgold.de/products/adidas-gazelle-indoor-night-indigo-off-white-gold-metallic",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Embossed Ami De Coeur Hoodie\nhttps://www.asphaltgold.de/products/ami-paris-embossed-ami-de-coeur-hoodie-anthracite",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Gramicci G-Pant\nhttps://www.asphaltgold.de/products/gramicci-gpant-oat",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Dallas W *Suede / Leather*\nhttps://www.asphaltgold.de/products/autry-dallas-w-suede-leather-cigar-marshmallow",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Venice Wind Pant\nhttps://www.asphaltgold.de/products/adidas-venice-wind-pant-maroon",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Red Box Nylon Hat\nhttps://www.asphaltgold.de/products/the-north-face-red-box-nylon-hat-tnf-black",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Arte Blocks Shirt\nhttps://www.asphaltgold.de/products/arte-antwerp-arte-blocks-shirt-striped",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Drole de Monsieur Le Jean Baggy Monogramme\nhttps://www.asphaltgold.de/products/drole-de-monsieur-le-jean-baggy-monogramme-stone-wash",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Balance Shorts *No Distance Left To Run*\nhttps://www.asphaltgold.de/products/pas-normal-studios-balance-shorts-no-distance-left-to-run-dark-olive",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Metalwood Seersucker Fishing Shirt\nhttps://www.asphaltgold.de/products/metalwood-seersucker-fishing-shirt-sky",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tACG *Death Bloom* Vest\nhttps://www.asphaltgold.de/products/nikeacg-death-bloom-vest-black-anthracite-summit-white",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Brain Dead x Brooks Brothers Glen Check Pleated Trouser\nhttps://www.asphaltgold.de/products/brain-dead-x-brooks-brothers-glen-check-pleated-trouser-grey",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Zoom Vomero 5\nhttps://www.asphaltgold.de/products/nike-wmns-zoom-vomero-5-phantom-summit-white-particle-beige",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-6\nhttps://www.asphaltgold.de/products/salomon-xt-6-vanilla-ice-vanilla-almond-milk",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon Genesis Advanced\nhttps://www.asphaltgold.de/products/salomon-genesis-advanced-black-black-black",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Adizero Aruku\nhttps://www.asphaltgold.de/products/adidas-adizero-aruku-silver-metallic-crystal-white-grey-three",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 530\nhttps://www.asphaltgold.de/products/new-balance-mr530sg-white",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Bold W\nhttps://www.asphaltgold.de/products/adidas-gazelle-bold-w-semi-lucid-fuchsia-solar-slime-gold-metallic",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: AMI Paris SN504\nhttps://www.asphaltgold.de/products/ami-paris-sn504-blanc",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-black-silver",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Liberty London Handball Spezial J\nhttps://www.asphaltgold.de/products/adidas-x-liberty-london-handball-spezial-j-supplier-color-off-white-semi-lucid-red",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Nylon / Cracked Leather*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-nylon-cracked-leather-white-vapor-blue",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Hairy Suede / Nylon*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-hairy-suede-nylon-bb-whs-wht",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W\nhttps://www.asphaltgold.de/products/autry-medalist-w-white-green",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Wales Bonner Terry Polo\nhttps://www.asphaltgold.de/products/adidas-x-wales-bonner-terry-polo-collegiate-burgundy",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Martine Rose Signature Cap\nhttps://www.asphaltgold.de/products/martine-rose-signature-cap-black",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Airdrome Shield Pants\nhttps://www.asphaltgold.de/products/adidas-airdrome-shield-pants-tech-mineral",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Teamgeist Adicolor Long Sleeve Tee\nhttps://www.asphaltgold.de/products/adidas-teamgeist-adicolor-long-sleeve-tee-white",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tx Patta T-Shirt GX\nhttps://www.asphaltgold.de/products/nikex-patta-tshirt-gx-black",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance x Drake Cereal Clock T-Shirt\nhttps://www.asphaltgold.de/products/new-balance-x-drake-cereal-clock-tshirt-ice-blue",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Metalwood Medieval Crewneck Sweatshirt\nhttps://www.asphaltgold.de/products/metalwood-medieval-crewneck-sweatshirt-midnight",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Third Cut\nhttps://www.asphaltgold.de/products/our-legacy-third-cut-supergrey-wash",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat Hamburger Tee\nhttps://www.asphaltgold.de/products/thisisneverthat-hamburger-tee-white",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Sunflower Stable Shirt\nhttps://www.asphaltgold.de/products/sunflower-stable-shirt-offwhite",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Norm Hat\nhttps://www.asphaltgold.de/products/the-north-face-norm-hat-tnf-black",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-cap-brown",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-cap-natural",
-      "detected_at": "2026-07-28T23:43:24.134645+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR MAX UPTEMPO - WHITE / COURT PURPLE / WHITE / WHITE\nhttps://undefeated.com/products/nike-air-max-uptempo-white-court-purple-white-white",
+      "detected_at": "2026-07-29T01:11:21.903736+00:00"
     }
   ]
 }
