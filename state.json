@@ -1256,17 +1256,17 @@
       "6702668349701": {
         "title": "BAPE RAMEN BOWL - WHITE",
         "handle": "bape-ramen-bowl-white",
-        "in_stock": false
+        "in_stock": true
       },
       "6702668382469": {
         "title": "BAPE 1ST CAMO KNIT CAP - GREEN",
         "handle": "bape-1st-camo-knit-cap-green-1",
-        "in_stock": false
+        "in_stock": true
       },
       "6702668284165": {
         "title": "BAPE A BATHING APE CAP - NAVY",
         "handle": "bape-a-bathing-ape-cap-navy",
-        "in_stock": false
+        "in_stock": true
       },
       "6702668316933": {
         "title": "BAPE COLOR CAMO TIGER SHARK TEE - BLACK",
@@ -2505,6 +2505,31 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11007976800523": {
+        "title": "Autry Medalist W",
+        "handle": "autry-medalist-w-white-silver-1",
+        "in_stock": true
+      },
+      "11007976702219": {
+        "title": "Autry Medalist W",
+        "handle": "autry-medalist-w-white-leopard",
+        "in_stock": true
+      },
+      "11007975358731": {
+        "title": "Autry Dallas Low W",
+        "handle": "autry-dallas-low-w-marshmallow-gold",
+        "in_stock": true
+      },
+      "11007974506763": {
+        "title": "Autry Dallas Low",
+        "handle": "autry-dallas-low-marshmallow-morel",
+        "in_stock": true
+      },
+      "11011732242699": {
+        "title": "Saucony Pro Grid Paramount",
+        "handle": "saucony-pro-grid-paramount-black",
+        "in_stock": true
+      },
       "8399358820619": {
         "title": "Salomon XA Pro 3D",
         "handle": "salomon-xa-pro-3d-alloy-footwear-silver-lunar-rock",
@@ -2578,7 +2603,7 @@
       "10148426088715": {
         "title": "Reebok x Botter Reverse Soccer Tee",
         "handle": "reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
-        "in_stock": false
+        "in_stock": true
       },
       "8888872567051": {
         "title": "ERL Silk Swirl Knit Hoodie",
@@ -3033,7 +3058,7 @@
       "10840735351051": {
         "title": "Carhartt WIP Mitch Jacket",
         "handle": "carhartt-wip-mitch-jacket-brass-dusky-canvas",
-        "in_stock": true
+        "in_stock": false
       },
       "10816953024779": {
         "title": "Carhartt WIP OG Detroit Jacket",
@@ -3063,7 +3088,7 @@
       "10738393317643": {
         "title": "New Amsterdam Surf Association Alpaca Blend Crewneck",
         "handle": "new-amsterdam-surf-association-alpaca-blend-crewneck-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10746805780747": {
         "title": "thisisneverthat DSN Oxford Shirt",
@@ -3123,7 +3148,7 @@
       "8996545495307": {
         "title": "Asphaltgold Pleated Shorts",
         "handle": "asphaltgold-pleated-shorts-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "8485946458379": {
         "title": "Asphaltgold Summer Essential Track Pants",
@@ -3633,7 +3658,7 @@
       "10170794770699": {
         "title": "Metalwood Madras Patch Explorer Shirt",
         "handle": "metalwood-madras-patch-explorer-shirt-multicolor",
-        "in_stock": true
+        "in_stock": false
       },
       "10167612113163": {
         "title": "Adidas x Wales Bonner Wmns Satin Track Top",
@@ -3728,31 +3753,6 @@
       "9016681234699": {
         "title": "Birkenstock Boston",
         "handle": "birkenstock-boston-sfb-taupe",
-        "in_stock": true
-      },
-      "10534363660555": {
-        "title": "Autry Reelwind Low",
-        "handle": "autry-reelwind-low-ecru-rubwine",
-        "in_stock": false
-      },
-      "8518645514507": {
-        "title": "Autry Medalist W *Honey / Canvas*",
-        "handle": "autry-medalist-w-honey-canvas-white-pow",
-        "in_stock": true
-      },
-      "10721428504843": {
-        "title": "Nike\tACG *Morpho* Storm-Fit ADV Rain Jackett",
-        "handle": "nikeacg-morpho-stormfit-adv-rain-jackett-black-black-summit-white",
-        "in_stock": true
-      },
-      "8771656909067": {
-        "title": "Sunflower Loose Jeans",
-        "handle": "sunflower-loose-jeans-black-stone",
-        "in_stock": true
-      },
-      "10149492621579": {
-        "title": "The North Face EVD Bomber Jacket",
-        "handle": "the-north-face-evd-bomber-jacket-new-taupe-green",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,31 @@
       }
     },
     "https://www.afew-store.com": {
+      "10579462750474": {
+        "title": "Asics US8-S GEL-SJ33",
+        "handle": "asics-x-kiko-us8-s-gel-sj33-black-coffee-orange-lily",
+        "in_stock": false
+      },
+      "10579461964042": {
+        "title": "Asics US8-S GEL-SJ33",
+        "handle": "asics-x-kiko-us8-s-gel-sj33-roasted-coffee-periwinkle-blue",
+        "in_stock": false
+      },
+      "10579451543818": {
+        "title": "Brooks  x AFEW Adrenaline GTS 10 TWAGD",
+        "handle": "brooks-adrenaline-gts-10-fig-bridal-rose-fiery-coral",
+        "in_stock": false
+      },
+      "10579449676042": {
+        "title": "Asics GEL-KAYANO 14",
+        "handle": "asics-gel-kayano-14-piedmont-grey-black",
+        "in_stock": false
+      },
+      "10579448660234": {
+        "title": "Nike ZOOM FLY 6",
+        "handle": "nike-zoom-fly-6-baroque-brown-black-smoke-grey-ironstone",
+        "in_stock": false
+      },
       "10579025953034": {
         "title": "Arte Antwerp Swirl Uniform Socks",
         "handle": "arte-antwerp-swirl-uniform-socks-white",
@@ -7485,35 +7510,30 @@
         "title": "Carhartt WIP Active Jacket",
         "handle": "carhartt-wip-active-jacket-black-rigid",
         "in_stock": true
-      },
-      "10566686998794": {
-        "title": "Carhartt WIP Shortsleeve Fromage T-Shirt",
-        "handle": "carhartt-wip-shortsleeve-fromage-t-shirt-white",
-        "in_stock": true
-      },
-      "10566686867722": {
-        "title": "Carhartt WIP Shortsleeve Booger T-Shirt",
-        "handle": "carhartt-wip-shortsleeve-booger-t-shirt-cozy-purple",
-        "in_stock": true
-      },
-      "10566685753610": {
-        "title": "Carhartt WIP Curtis Sweater Jacket",
-        "handle": "carhartt-wip-curtis-sweater-jacket-tangled-shungite",
-        "in_stock": true
-      },
-      "10566367871242": {
-        "title": "adidas Originals HYPERBOOST EUPHORIA",
-        "handle": "adidas-originals-hyperboost-euphoria-cblack-ftwwht-utiblk",
-        "in_stock": true
-      },
-      "10565966299402": {
-        "title": "Carhartt WIP Parker Jotter Heart Ballpen",
-        "handle": "carhartt-wip-parker-jotter-heart-ballpen-silver",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9124156113101": {
+        "title": "Air Max 3 Sneakers Light Iron Ore / Pale Ivory",
+        "handle": "nike-footwear-nike-air-max-iii-beige-j368352",
+        "in_stock": true
+      },
+      "9124156178637": {
+        "title": "Pharrel Williams Virginia Adistar Jellyfish Sneakers Chalk White / Off White / Bliss",
+        "handle": "adidas-footwear-pw-adistar-jellyfis-white-j362347",
+        "in_stock": false
+      },
+      "9124156047565": {
+        "title": "Zoom Skylon 11 Sneakers Summit White / Black",
+        "handle": "nike-footwear-nike-zoom-skylon-11-white-j364322",
+        "in_stock": true
+      },
+      "9124155949261": {
+        "title": "Women's Air Superfly Sneakers Anthracite / Hyper Pink",
+        "handle": "nike-footwear-wmns-nike-air-superfly-black-j368342",
+        "in_stock": true
+      },
       "9111979229389": {
         "title": "Men's Every Shirt Sacramento Cowboy",
         "handle": "our-legacy-clothing-every-shirt-multicolor-j337847",
@@ -8743,37 +8763,57 @@
         "title": "Crest-Embroidered Canvas Tote Bag Black",
         "handle": "polo-ralph-lauren-accessories-logo-tote-tote-large-black-j360766",
         "in_stock": true
-      },
-      "9122651635917": {
-        "title": "Women's Polo Dress Night Indigo / Power Red / Warm Vanilla",
-        "handle": "adidas-clothing-wmns-polo-dr-blue-j362520",
-        "in_stock": true
-      },
-      "9122651603149": {
-        "title": "Women's SST Track Top Warm Vanilla / Team Victory Red",
-        "handle": "adidas-clothing-wmns-sst-tt-beige-j362526",
-        "in_stock": true
-      },
-      "9122651570381": {
-        "title": "Women's SST Wide Leg Track Pants Warm Vanilla / Team Victory Red",
-        "handle": "adidas-clothing-wmns-sst-wide-leg-tp-beige-j362527",
-        "in_stock": true
-      },
-      "9122651537613": {
-        "title": "Men's 3-Stripes Polo Shirt Cloud White",
-        "handle": "adidas-clothing-3s-polo-white-j362453",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG 'Scorpion' - Black/Gamma Blue\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-scorpion-black-gamma-blue",
-      "detected_at": "2026-07-30T07:14:12.193995+00:00"
+      "message": "🔥 **Restock** at Undefeated: BAPE RAMEN BOWL - WHITE\nhttps://undefeated.com/products/bape-ramen-bowl-white",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS Moon Shoe OG SP\nhttps://www.afew-store.com/products/nike-wmns-moon-shoe-og-sp-italy-blue-white-neutral-grey-black",
-      "detected_at": "2026-07-30T07:14:12.193995+00:00"
+      "message": "🔥 **Restock** at Undefeated: BAPE 1ST CAMO KNIT CAP - GREEN\nhttps://undefeated.com/products/bape-1st-camo-knit-cap-green-1",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: BAPE A BATHING APE CAP - NAVY\nhttps://undefeated.com/products/bape-a-bathing-ape-cap-navy",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W\nhttps://www.asphaltgold.de/products/autry-medalist-w-white-silver-1",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W\nhttps://www.asphaltgold.de/products/autry-medalist-w-white-leopard",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Dallas Low W\nhttps://www.asphaltgold.de/products/autry-dallas-low-w-marshmallow-gold",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Dallas Low\nhttps://www.asphaltgold.de/products/autry-dallas-low-marshmallow-morel",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Paramount\nhttps://www.asphaltgold.de/products/saucony-pro-grid-paramount-black",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Reebok x Botter Reverse Soccer Tee\nhttps://www.asphaltgold.de/products/reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Air Max 3 Sneakers Light Iron Ore / Pale Ivory\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-iii-beige-j368352",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Zoom Skylon 11 Sneakers Summit White / Black\nhttps://www.slamjam.com/products/nike-footwear-nike-zoom-skylon-11-white-j364322",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Air Superfly Sneakers Anthracite / Hyper Pink\nhttps://www.slamjam.com/products/nike-footwear-wmns-nike-air-superfly-black-j368342",
+      "detected_at": "2026-07-30T09:45:40.635154+00:00"
     }
   ]
 }
