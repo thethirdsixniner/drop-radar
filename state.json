@@ -1286,7 +1286,7 @@
       "6702412005637": {
         "title": "BAPE ABC CAMO JACQUARD SOCKS",
         "handle": "bape-abc-camo-jacquard-socks",
-        "in_stock": true
+        "in_stock": false
       },
       "6702407483653": {
         "title": "NIKE KOBE AIR FORCE 1 LOW - WHITE/ TEAM RED",
@@ -1711,7 +1711,7 @@
       "6702326153477": {
         "title": "NIKE WMNS AIR MAX 95 OG - WHITE/ COURTPURPLE/ EMERALDGREEN",
         "handle": "nike-wmns-air-max-95-og-white-courtpurple-emeraldgreen",
-        "in_stock": true
+        "in_stock": false
       },
       "6701853180165": {
         "title": "NIKE WMNS AIR MAX 95 OG - BLACK/ FAUNABROWN/ WHITE",
@@ -3757,6 +3757,31 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9403739963580": {
+        "title": "Birkenstock Arizona Soft Footbed Suede - Taupe",
+        "handle": "birkenstock-arizona-soft-footbed-suede-taupe",
+        "in_stock": true
+      },
+      "9431930306748": {
+        "title": "Women's Japan Decon - Silver Metallic/Orange Tint",
+        "handle": "womens-japan-decon-silver-metallic-orange-tint",
+        "in_stock": true
+      },
+      "9431937319100": {
+        "title": "Adidas Handball Spezial - Off White/Shadow Red",
+        "handle": "adidas-handball-spezial-off-white-shadow-red",
+        "in_stock": true
+      },
+      "9431944495292": {
+        "title": "Adidas BW Army - Core Black/Gum",
+        "handle": "adidas-bw-army-core-black-gum",
+        "in_stock": true
+      },
+      "9357556318396": {
+        "title": "Nike Air Max 95 OG - Mink Brown/Filbert",
+        "handle": "nike-air-max-95-og-mink-brown-filbert",
+        "in_stock": true
+      },
       "9381359485116": {
         "title": "Nike Vomero Plus 'Cow Print' - Sail/Sail",
         "handle": "nike-vomero-plus-cow-print-sail-sail",
@@ -4000,7 +4025,7 @@
       "9364389691580": {
         "title": "Vans LX Authentic 44 'Mohair' - Black/Multi",
         "handle": "vans-lx-authentic-44-mohair-black-multi",
-        "in_stock": true
+        "in_stock": false
       },
       "8764114632892": {
         "title": "Honor The Gift Live For The Moments Tee - Black",
@@ -4140,11 +4165,6 @@
       "9334980313276": {
         "title": "Malbon Golf & Bass Club Golf Towel - Forest",
         "handle": "malbon-golf-bass-club-golf-towel-forest",
-        "in_stock": true
-      },
-      "9307009843388": {
-        "title": "Diet Starts Monday D Star Shorts - Black",
-        "handle": "diet-starts-monday-d-star-shorts-black",
         "in_stock": false
       },
       "9303674519740": {
@@ -4200,7 +4220,7 @@
       "9111031218364": {
         "title": "Birkenstock Boston EVA - Black",
         "handle": "birkenstock-boston-eva-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9108078493884": {
         "title": "Carhartt WIP Chase Hoodie - Velvet Green/Gold",
@@ -4231,11 +4251,6 @@
         "title": "Fear Of God Essentials Embroidered Tee - Vintage Black",
         "handle": "fear-of-god-essentials-embroidered-tee-vintage-black",
         "in_stock": true
-      },
-      "9002189783228": {
-        "title": "Fear Of God Essentials Classic Tee - Charcoal Heather",
-        "handle": "fear-of-god-essentials-classic-tee-charcoal-heather",
-        "in_stock": false
       },
       "8991041355964": {
         "title": "Ice Cream Cones N Cash Tee - Black",
@@ -4496,21 +4511,6 @@
         "title": "Jason Markk Premium Shoe Cleaner - Essential Kit",
         "handle": "jason-markk-premium-shoe-cleaner-essential-kit",
         "in_stock": true
-      },
-      "9413577244860": {
-        "title": "New Era x Diet Starts Monday Oakland Athletics 19TWENTY Hat - Green",
-        "handle": "new-era-x-diet-starts-monday-oakland-athletics-19twenty-hat-green",
-        "in_stock": false
-      },
-      "9413566595260": {
-        "title": "New Era x Diet Starts Monday Seattle Mariners 19TWENTY Hat - Teal",
-        "handle": "new-era-x-diet-starts-monday-seattle-mariners-19twenty-hat-teal",
-        "in_stock": false
-      },
-      "9413562892476": {
-        "title": "New Era x Diet Starts Monday New York Yankees 19TWENTY Hat - Navy",
-        "handle": "new-era-x-diet-starts-monday-new-york-yankees-19twenty-hat-navy",
-        "in_stock": false
       },
       "9413556568252": {
         "title": "New Era x Diet Starts Monday Los Angeles Dodgers 19TWENTY Hat - Royal",
@@ -8634,11 +8634,6 @@
         "handle": "jean-paul-gaultier-clothing-wmns-mesh-long-skirt-with-patchworks-in-printed-mesh-multicolor-j338933",
         "in_stock": true
       },
-      "9096407941325": {
-        "title": "Women's Mesh Otto T-Shirt Racing Plaid",
-        "handle": "ottolinger-clothing-wmns-mesh-otto-t-shirt-multicolor-j335367",
-        "in_stock": false
-      },
       "9087419744461": {
         "title": "Men's Chore Jacket Military Green",
         "handle": "oamc-peacemaker-clothing-chore-jacket-green-j320102",
@@ -8763,13 +8758,38 @@
         "title": "Women's SST Wide Leg Track Pants Warm Vanilla / Team Victory Red",
         "handle": "adidas-clothing-wmns-sst-wide-leg-tp-beige-j362527",
         "in_stock": true
+      },
+      "9122651537613": {
+        "title": "Men's 3-Stripes Polo Shirt Cloud White",
+        "handle": "adidas-clothing-3s-polo-white-j362453",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: On Cloudmonster 1 - Black/Black\nhttps://sneakerpolitics.com/products/on-cloudmonster-1-black-black",
-      "detected_at": "2026-07-30T01:04:29.592424+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Birkenstock Arizona Soft Footbed Suede - Taupe\nhttps://sneakerpolitics.com/products/birkenstock-arizona-soft-footbed-suede-taupe",
+      "detected_at": "2026-07-30T04:21:57.411566+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Japan Decon - Silver Metallic/Orange Tint\nhttps://sneakerpolitics.com/products/womens-japan-decon-silver-metallic-orange-tint",
+      "detected_at": "2026-07-30T04:21:57.411566+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Adidas Handball Spezial - Off White/Shadow Red\nhttps://sneakerpolitics.com/products/adidas-handball-spezial-off-white-shadow-red",
+      "detected_at": "2026-07-30T04:21:57.411566+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Adidas BW Army - Core Black/Gum\nhttps://sneakerpolitics.com/products/adidas-bw-army-core-black-gum",
+      "detected_at": "2026-07-30T04:21:57.411566+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG - Mink Brown/Filbert\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-mink-brown-filbert",
+      "detected_at": "2026-07-30T04:21:57.411566+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 3-Stripes Polo Shirt Cloud White\nhttps://www.slamjam.com/products/adidas-clothing-3s-polo-white-j362453",
+      "detected_at": "2026-07-30T04:21:57.411566+00:00"
     }
   ]
 }
