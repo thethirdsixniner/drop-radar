@@ -1341,7 +1341,7 @@
       "6702434287877": {
         "title": "NIKE AIR FORCE 1 LOW RETRO - BLACK/ RACER BLUE/ VOLT ICE",
         "handle": "nike-air-force-1-low-retro-black-racer-blue-volt-ice",
-        "in_stock": true
+        "in_stock": false
       },
       "6702407418117": {
         "title": "NIKE KOBE AIR FORCE 1 LOW - TEAM RED/ WHITE",
@@ -2578,7 +2578,7 @@
       "10148426088715": {
         "title": "Reebok x Botter Reverse Soccer Tee",
         "handle": "reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
-        "in_stock": true
+        "in_stock": false
       },
       "8888872567051": {
         "title": "ERL Silk Swirl Knit Hoodie",
@@ -3218,7 +3218,7 @@
       "10186866393355": {
         "title": "Asics GEL-Nimbus 10.1",
         "handle": "asics-gelnimbus-101-cream-pure-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10727923319051": {
         "title": "Dr. Martens Lowell Archive",
@@ -3733,7 +3733,7 @@
       "10534363660555": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-ecru-rubwine",
-        "in_stock": true
+        "in_stock": false
       },
       "8518645514507": {
         "title": "Autry Medalist W *Honey / Canvas*",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9372634185916": {
+        "title": "Nike Air Max 95 OG 'Scorpion' - Black/Gamma Blue",
+        "handle": "nike-air-max-95-og-scorpion-black-gamma-blue",
+        "in_stock": true
+      },
       "9403739963580": {
         "title": "Birkenstock Arizona Soft Footbed Suede - Taupe",
         "handle": "birkenstock-arizona-soft-footbed-suede-taupe",
@@ -5000,11 +5005,6 @@
       "9407032033468": {
         "title": "On Cloudboom Max - All Black",
         "handle": "on-cloudboom-max-all-black",
-        "in_stock": true
-      },
-      "9407029936316": {
-        "title": "On Cloudmonster 1 - Black/Black",
-        "handle": "on-cloudmonster-1-black-black",
         "in_stock": true
       }
     },
@@ -6404,7 +6404,7 @@
       "10578937381130": {
         "title": "Nike WMNS Moon Shoe OG SP",
         "handle": "nike-wmns-moon-shoe-og-sp-italy-blue-white-neutral-grey-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10578935415050": {
         "title": "Nike ZOOM SKYLON 11",
@@ -8768,28 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Birkenstock Arizona Soft Footbed Suede - Taupe\nhttps://sneakerpolitics.com/products/birkenstock-arizona-soft-footbed-suede-taupe",
-      "detected_at": "2026-07-30T04:21:57.411566+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG 'Scorpion' - Black/Gamma Blue\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-scorpion-black-gamma-blue",
+      "detected_at": "2026-07-30T07:14:12.193995+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Japan Decon - Silver Metallic/Orange Tint\nhttps://sneakerpolitics.com/products/womens-japan-decon-silver-metallic-orange-tint",
-      "detected_at": "2026-07-30T04:21:57.411566+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Handball Spezial - Off White/Shadow Red\nhttps://sneakerpolitics.com/products/adidas-handball-spezial-off-white-shadow-red",
-      "detected_at": "2026-07-30T04:21:57.411566+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas BW Army - Core Black/Gum\nhttps://sneakerpolitics.com/products/adidas-bw-army-core-black-gum",
-      "detected_at": "2026-07-30T04:21:57.411566+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG - Mink Brown/Filbert\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-mink-brown-filbert",
-      "detected_at": "2026-07-30T04:21:57.411566+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 3-Stripes Polo Shirt Cloud White\nhttps://www.slamjam.com/products/adidas-clothing-3s-polo-white-j362453",
-      "detected_at": "2026-07-30T04:21:57.411566+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Moon Shoe OG SP\nhttps://www.afew-store.com/products/nike-wmns-moon-shoe-og-sp-italy-blue-white-neutral-grey-black",
+      "detected_at": "2026-07-30T07:14:12.193995+00:00"
     }
   ]
 }
