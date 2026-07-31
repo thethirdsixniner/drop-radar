@@ -949,7 +949,7 @@
       "8286596235392": {
         "title": "NikeSKIMS 3-Pack Dri-FIT Crew Socks - Cobalt / Resin / Obsidian",
         "handle": "iq8104-911",
-        "in_stock": true
+        "in_stock": false
       },
       "8286596202624": {
         "title": "NikeSKIMS Stretch Knit Oversized V-Neck Top - Ivory",
@@ -2698,7 +2698,7 @@
       "10792981758219": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-wonder-beige-cream-white-better-scarlet",
-        "in_stock": true
+        "in_stock": false
       },
       "10824026751243": {
         "title": "Saucony Pro Grid v2",
@@ -3757,6 +3757,26 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9351495352508": {
+        "title": "Air Jordan 1 Low (GS) - Palomino/Phantom",
+        "handle": "air-jordan-1-low-gs-palomino-phantom",
+        "in_stock": true
+      },
+      "9135652307132": {
+        "title": "Nike Air Force 1 '07 'Easter' - Yellow Pulse/Pink Foam",
+        "handle": "nike-air-force-1-07-easter-yellow-pulse-pink-foam",
+        "in_stock": true
+      },
+      "9283110830268": {
+        "title": "Nike P-6000 - White/Metallic Cool Grey",
+        "handle": "nike-p-6000-white-black",
+        "in_stock": true
+      },
+      "9294108197052": {
+        "title": "Jordan 3 Retro 'World's Best Dad' (PS) - Sail/Black",
+        "handle": "jordan-3-retro-worlds-best-dad-ps-sail-black",
+        "in_stock": true
+      },
       "9470933336252": {
         "title": "Off-White Politics Store Tee - Black",
         "handle": "off-white-politics-store-tee-black",
@@ -4985,26 +5005,6 @@
       "9403539390652": {
         "title": "Politics x '47 20th Anniversary Hitch Snapback - Black",
         "handle": "politics-x-47-20th-anniversary-hitch-snapback-black",
-        "in_stock": true
-      },
-      "9068426756284": {
-        "title": "Politics Slides - Black/White",
-        "handle": "politics-slides-black-white",
-        "in_stock": true
-      },
-      "9407166251196": {
-        "title": "Salomon XT-6 Gore Tex - Black/Black",
-        "handle": "salomon-xt-6-gore-tex-black-black",
-        "in_stock": true
-      },
-      "9407032033468": {
-        "title": "On Cloudboom Max - All Black",
-        "handle": "on-cloudboom-max-all-black",
-        "in_stock": true
-      },
-      "9407029936316": {
-        "title": "On Cloudmonster 1 - Black/Black",
-        "handle": "on-cloudmonster-1-black-black",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Off-White Politics Store Tee - Black\nhttps://sneakerpolitics.com/products/off-white-politics-store-tee-black",
-      "detected_at": "2026-07-31T20:03:14.520748+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low (GS) - Palomino/Phantom\nhttps://sneakerpolitics.com/products/air-jordan-1-low-gs-palomino-phantom",
+      "detected_at": "2026-07-31T21:28:23.462717+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 'Easter' - Yellow Pulse/Pink Foam\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-easter-yellow-pulse-pink-foam",
+      "detected_at": "2026-07-31T21:28:23.462717+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike P-6000 - White/Metallic Cool Grey\nhttps://sneakerpolitics.com/products/nike-p-6000-white-black",
+      "detected_at": "2026-07-31T21:28:23.462717+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 3 Retro 'World's Best Dad' (PS) - Sail/Black\nhttps://sneakerpolitics.com/products/jordan-3-retro-worlds-best-dad-ps-sail-black",
+      "detected_at": "2026-07-31T21:28:23.462717+00:00"
     }
   ]
 }
