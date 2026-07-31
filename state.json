@@ -2505,6 +2505,21 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "10170693550347": {
+        "title": "Museum of Peace & Quiet Chateau T-Shirt",
+        "handle": "museum-of-peace-quiet-chateau-tshirt-olive",
+        "in_stock": false
+      },
+      "11012534796555": {
+        "title": "Adidas Oversize Track Pants",
+        "handle": "adidas-oversize-track-pants-black",
+        "in_stock": true
+      },
+      "11012532142347": {
+        "title": "Adidas Firebird Denim Needle Track Top",
+        "handle": "adidas-firebird-denim-needle-track-top-worn-blue-denim",
+        "in_stock": true
+      },
       "10809185370379": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-charcoal-cofmetallic-aurora-black",
@@ -2628,7 +2643,7 @@
       "10736894279947": {
         "title": "Autry Medalist W *Glitter Leather*",
         "handle": "autry-medalist-w-glitter-leather-white-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10814299177227": {
         "title": "Nike x Nocta Fleece Hoodie",
@@ -2728,7 +2743,7 @@
       "10666576642315": {
         "title": "Asics JOG 100S",
         "handle": "asics-jog-100s-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8470307701003": {
         "title": "New Balance BB550PWT",
@@ -3298,7 +3313,7 @@
       "10150395609355": {
         "title": "Adidas Gazelle Bold W",
         "handle": "adidas-gazelle-bold-w-semi-lucid-fuchsia-solar-slime-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10674400297227": {
         "title": "AMI Paris SN504",
@@ -3739,21 +3754,6 @@
         "title": "Adidas Woven Firebird Track Pants",
         "handle": "adidas-woven-firebird-track-pants-cardboard-black",
         "in_stock": true
-      },
-      "10732460835083": {
-        "title": "Pas Normal Studios Balance Shorts *No Distance Left To Run*",
-        "handle": "pas-normal-studios-balance-shorts-no-distance-left-to-run-medium-grey",
-        "in_stock": true
-      },
-      "10727132561675": {
-        "title": "Nike\tSolo Swoosh Hoodie",
-        "handle": "nikesolo-swoosh-hoodie-dark-grey-heather-light-smoke-grey-white",
-        "in_stock": true
-      },
-      "10646907584779": {
-        "title": "Courreges Light Twill Bootcut Pants",
-        "handle": "courreges-light-twill-bootcut-pants-chocolate",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -4095,7 +4095,7 @@
       "8659941556412": {
         "title": "Politics Cargo Pant - Black",
         "handle": "politics-cargo-pant-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8069670895804": {
         "title": "Politics Paisley Tray - Red",
@@ -6261,6 +6261,76 @@
       }
     },
     "https://www.afew-store.com": {
+      "10580229423370": {
+        "title": "New Balance 740",
+        "handle": "new-balance-740-streamsong-black",
+        "in_stock": false
+      },
+      "10580229390602": {
+        "title": "New Balance 1906W",
+        "handle": "new-balance-1906w-black-silver-metallic",
+        "in_stock": false
+      },
+      "10580229325066": {
+        "title": "New Balance 1906W",
+        "handle": "new-balance-1906w-castlerock-dark-silver-metallic",
+        "in_stock": false
+      },
+      "10580228768010": {
+        "title": "New Balance 740",
+        "handle": "new-balance-740-mint-water-silver-moss",
+        "in_stock": false
+      },
+      "10580226867466": {
+        "title": "Nike WMNS Zoom Streak 3",
+        "handle": "nike-wmns-zoom-streak-3-cream-ii-sail",
+        "in_stock": false
+      },
+      "10580226015498": {
+        "title": "Vans LX Classic Slip-On 98 Leather",
+        "handle": "vans-lx-classic-slip-on-98-leather-demitasse",
+        "in_stock": true
+      },
+      "10580225851658": {
+        "title": "Birkenstock Prescott Low (Regular Fit)",
+        "handle": "birkenstock-prescott-low-oiled-leather-oiled-leather-habana",
+        "in_stock": true
+      },
+      "10580225392906": {
+        "title": "Clarks Originals WMNS Meare Walla",
+        "handle": "clarks-originals-wmns-meare-walla-bronze-suede",
+        "in_stock": true
+      },
+      "10580223426826": {
+        "title": "Autry Action Shoes WMNS REELWIND LOW",
+        "handle": "autry-action-shoes-wmns-reelwind-low-suede-net-ecru-covgrn",
+        "in_stock": true
+      },
+      "10580223394058": {
+        "title": "Autry Action Shoes WMNS REELWIND LOW",
+        "handle": "autry-action-shoes-wmns-reelwind-low-suede-net-mocha-blk",
+        "in_stock": true
+      },
+      "10580223197450": {
+        "title": "Autry Action Shoes WMNS WINDSPIN LOW",
+        "handle": "autry-action-shoes-wmns-windspin-low-suede-leat-bluet-rut",
+        "in_stock": true
+      },
+      "10580219756810": {
+        "title": "Vans LX Classic Slip-On 98 Leather",
+        "handle": "vans-lx-classic-slip-on-98-leather-black-faded-bla",
+        "in_stock": true
+      },
+      "10580219625738": {
+        "title": "Puma WMNS Speedcat Ballet Nova",
+        "handle": "puma-wmns-speedcat-ballet-dress-up-chocolate-fondue-gum",
+        "in_stock": true
+      },
+      "10580219527434": {
+        "title": "Puma WMNS Speedcat Wedge",
+        "handle": "puma-wmns-speedcat-wedge-sand-dune-alpine-snow",
+        "in_stock": true
+      },
       "10579896598794": {
         "title": "New Balance Sport Legacy Jacket",
         "handle": "new-balance-sport-legacy-jacket-aa9",
@@ -7439,76 +7509,6 @@
       "10567173177610": {
         "title": "Asics GEL-NYC 2.0",
         "handle": "asics-gel-nyc-2-0-pink-cloud-pure-silver",
-        "in_stock": true
-      },
-      "10567172063498": {
-        "title": "Air Jordan 3 Retro",
-        "handle": "air-jordan-3-retro-white-fire-red-true-blue",
-        "in_stock": true
-      },
-      "10567171768586": {
-        "title": "adidas Originals HYPERBOOST EUPHORIA",
-        "handle": "adidas-originals-hyperboost-euphoria-cblack-ftwwht-silvmt",
-        "in_stock": true
-      },
-      "10566717538570": {
-        "title": "Mizuno WAVE RIDER 10 Sport",
-        "handle": "mizuno-wave-rider-10-sport-cloudscape-black-sand-harbor-mist",
-        "in_stock": true
-      },
-      "10566717473034": {
-        "title": "Mizuno MXR SPORT",
-        "handle": "mizuno-mxr-sport-black-sand-sycamore-metallic-gray",
-        "in_stock": true
-      },
-      "10566717210890": {
-        "title": "Mizuno WAVE RIDER 10 Sport",
-        "handle": "mizuno-wave-rider-10-sport-black-sand-black-spring-crocus",
-        "in_stock": true
-      },
-      "10566716719370": {
-        "title": "Hoka One One WMNS BONDI 7",
-        "handle": "hoka-one-one-wmns-bondi-7-white-black",
-        "in_stock": true
-      },
-      "10566714949898": {
-        "title": "Hoka One One HUAKA PRO",
-        "handle": "hoka-one-one-u-huaka-pro-cosmic-grey-satellite-grey",
-        "in_stock": true
-      },
-      "10566713311498": {
-        "title": "Salomon EVERYDAY CREW 3-PACK",
-        "handle": "salomon-everyday-crew-3-pack-black-white",
-        "in_stock": true
-      },
-      "10566693814538": {
-        "title": "Lacoste KNITTED CAP",
-        "handle": "lacoste-knitted-cap-oxalis",
-        "in_stock": true
-      },
-      "10566693650698": {
-        "title": "Lacoste KNITTED CAP",
-        "handle": "lacoste-knitted-cap-black-green",
-        "in_stock": true
-      },
-      "10566692864266": {
-        "title": "Lacoste KNITTED CAP",
-        "handle": "lacoste-knitted-cap-pitch-chine",
-        "in_stock": true
-      },
-      "10566688997642": {
-        "title": "Lacoste POLO",
-        "handle": "lacoste-polo-oxalis",
-        "in_stock": true
-      },
-      "10566688178442": {
-        "title": "Lacoste Track Pants",
-        "handle": "lacoste-track-pants-black2",
-        "in_stock": true
-      },
-      "10566687916298": {
-        "title": "Lacoste Track Pants",
-        "handle": "lacoste-track-pants-navy-blue",
         "in_stock": true
       }
     },
@@ -8768,48 +8768,48 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: VANS LX Old Skool 36 - Souvenir Oatmeal Beige\nhttps://kith.com/products/vn000e8v2n1",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Oversize Track Pants\nhttps://www.asphaltgold.de/products/adidas-oversize-track-pants-black",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: VANS LX Old Skool 36 - Souvenir Faded Black\nhttps://kith.com/products/vn000e8vemv",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Firebird Denim Needle Track Top\nhttps://www.asphaltgold.de/products/adidas-firebird-denim-needle-track-top-worn-blue-denim",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike Air Max 95 Big Bubble - Blue Sapphire / Metallic Silver / White / Light Smoke Grey\nhttps://kith.com/products/nkir1944-400",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Vans LX Classic Slip-On 98 Leather\nhttps://www.afew-store.com/products/vans-lx-classic-slip-on-98-leather-demitasse",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink\nhttps://kith.com/products/jbio2364-100",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Birkenstock Prescott Low (Regular Fit)\nhttps://www.afew-store.com/products/birkenstock-prescott-low-oiled-leather-oiled-leather-habana",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink\nhttps://kith.com/products/jbio2363-100",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Clarks Originals WMNS Meare Walla\nhttps://www.afew-store.com/products/clarks-originals-wmns-meare-walla-bronze-suede",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 4 Retro - Off-White / Anthracite / Fire Pink\nhttps://kith.com/products/jbja1135-100",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Autry Action Shoes WMNS REELWIND LOW\nhttps://www.afew-store.com/products/autry-action-shoes-wmns-reelwind-low-suede-net-ecru-covgrn",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink\nhttps://kith.com/products/jbio2361-100",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Autry Action Shoes WMNS REELWIND LOW\nhttps://www.afew-store.com/products/autry-action-shoes-wmns-reelwind-low-suede-net-mocha-blk",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: adidas x CLOT Superstar - Cloud White / Coffee / Unity Orange\nhttps://kith.com/products/aakk1388",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Autry Action Shoes WMNS WINDSPIN LOW\nhttps://www.afew-store.com/products/autry-action-shoes-wmns-windspin-low-suede-leat-bluet-rut",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Black\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-black",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Vans LX Classic Slip-On 98 Leather\nhttps://www.afew-store.com/products/vans-lx-classic-slip-on-98-leather-black-faded-bla",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Slides - Black/White\nhttps://sneakerpolitics.com/products/politics-slides-black-white",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Puma WMNS Speedcat Ballet Nova\nhttps://www.afew-store.com/products/puma-wmns-speedcat-ballet-dress-up-chocolate-fondue-gum",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Salomon XT-6 Gore Tex - Black/Black\nhttps://sneakerpolitics.com/products/salomon-xt-6-gore-tex-black-black",
-      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+      "message": "🆕 **New drop** at Afew Store: Puma WMNS Speedcat Wedge\nhttps://www.afew-store.com/products/puma-wmns-speedcat-wedge-sand-dune-alpine-snow",
+      "detected_at": "2026-07-31T07:37:16.325110+00:00"
     }
   ]
 }
