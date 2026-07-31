@@ -1,6 +1,46 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286594596992": {
+        "title": "VANS LX Old Skool 36 - Souvenir Oatmeal Beige",
+        "handle": "vn000e8v2n1",
+        "in_stock": true
+      },
+      "8286594629760": {
+        "title": "VANS LX Old Skool 36 - Souvenir Faded Black",
+        "handle": "vn000e8vemv",
+        "in_stock": true
+      },
+      "8286595874944": {
+        "title": "Nike Air Max 95 Big Bubble - Blue Sapphire / Metallic Silver / White / Light Smoke Grey",
+        "handle": "nkir1944-400",
+        "in_stock": true
+      },
+      "8286595973248": {
+        "title": "Jordan TD Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink",
+        "handle": "jbio2364-100",
+        "in_stock": true
+      },
+      "8286595940480": {
+        "title": "Jordan PS Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink",
+        "handle": "jbio2363-100",
+        "in_stock": true
+      },
+      "8286595907712": {
+        "title": "Jordan Air Jordan 4 Retro - Off-White / Anthracite / Fire Pink",
+        "handle": "jbja1135-100",
+        "in_stock": true
+      },
+      "8286595842176": {
+        "title": "Jordan GS Air Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink",
+        "handle": "jbio2361-100",
+        "in_stock": true
+      },
+      "8286490591360": {
+        "title": "adidas x CLOT Superstar - Cloud White / Coffee / Unity Orange",
+        "handle": "aakk1388",
+        "in_stock": true
+      },
       "8286622843008": {
         "title": "New Balance Made in UK Allerdale - White Pepper / Brindle",
         "handle": "nbuadwcrm",
@@ -1209,46 +1249,6 @@
       "8286616715392": {
         "title": "Kith Kids Classic Mott Tee - Nocturnal - PH",
         "handle": "khk031355-413-ph",
-        "in_stock": false
-      },
-      "8286616682624": {
-        "title": "Kith Kids Quinn II Tee - Fade - PH",
-        "handle": "khk031351-5040-ph",
-        "in_stock": false
-      },
-      "8286616617088": {
-        "title": "Kith Kids Mulberry II Tee - Silk - PH",
-        "handle": "khk031354-116-ph",
-        "in_stock": false
-      },
-      "8286616551552": {
-        "title": "Kith Baby Logo Nelson Coverall - Light Heather Grey - PH",
-        "handle": "khb110095-002-ph",
-        "in_stock": false
-      },
-      "8286616518784": {
-        "title": "Kith Baby Parachute Pant - Black - PH",
-        "handle": "khb060224-001-ph",
-        "in_stock": false
-      },
-      "8286616420480": {
-        "title": "Kith Baby Knit Teagan Short Sleeve Polo Dress - Silk - PH",
-        "handle": "khb080035-116-ph",
-        "in_stock": false
-      },
-      "8286616354944": {
-        "title": "Kith Baby Gabrielle Dress - Dusty Quartz - PH",
-        "handle": "khb080037-605-ph",
-        "in_stock": false
-      },
-      "8286616289408": {
-        "title": "Kith Baby Marled Yarn Classic Beanie - Preview - PH",
-        "handle": "khba050002-5011-ph",
-        "in_stock": false
-      },
-      "8286616256640": {
-        "title": "Kith Baby Gabrielle Dress - Medium Indigo - PH",
-        "handle": "khb080036-452-ph",
         "in_stock": false
       }
     },
@@ -4077,11 +4077,6 @@
         "handle": "politics-logo-lighter-white",
         "in_stock": true
       },
-      "9364389691580": {
-        "title": "Vans LX Authentic 44 'Mohair' - Black/Multi",
-        "handle": "vans-lx-authentic-44-mohair-black-multi",
-        "in_stock": false
-      },
       "8764114632892": {
         "title": "Honor The Gift Live For The Moments Tee - Black",
         "handle": "honor-the-gift-live-for-the-moments-tee-black",
@@ -4207,11 +4202,6 @@
         "handle": "salehe-bembury-x-puma-portugal-king-tee-emerald-ice",
         "in_stock": true
       },
-      "9334980313276": {
-        "title": "Malbon Golf & Bass Club Golf Towel - Forest",
-        "handle": "malbon-golf-bass-club-golf-towel-forest",
-        "in_stock": false
-      },
       "9303674519740": {
         "title": "Fear Of God Essentials Textured Nylon 5 Pocket Shorts - Vintage Black",
         "handle": "fear-of-god-essentials-textured-nylon-5-pocket-shorts-vintage-black",
@@ -4261,11 +4251,6 @@
         "title": "Mizuno Wave Rider 10 - Harbor Mist/Black",
         "handle": "mizuno-wave-rider-10-harbor-mist-black",
         "in_stock": true
-      },
-      "9111031218364": {
-        "title": "Birkenstock Boston EVA - Black",
-        "handle": "birkenstock-boston-eva-black",
-        "in_stock": false
       },
       "9108078493884": {
         "title": "Carhartt WIP Chase Hoodie - Velvet Green/Gold",
@@ -5005,6 +4990,21 @@
       "9403542798524": {
         "title": "Politics x '47 20th Anniversary Hitch Snapback - Bone",
         "handle": "politics-x-47-20th-anniversary-hitch-snapback-bone",
+        "in_stock": true
+      },
+      "9403539390652": {
+        "title": "Politics x '47 20th Anniversary Hitch Snapback - Black",
+        "handle": "politics-x-47-20th-anniversary-hitch-snapback-black",
+        "in_stock": true
+      },
+      "9068426756284": {
+        "title": "Politics Slides - Black/White",
+        "handle": "politics-slides-black-white",
+        "in_stock": true
+      },
+      "9407166251196": {
+        "title": "Salomon XT-6 Gore Tex - Black/Black",
+        "handle": "salomon-xt-6-gore-tex-black-black",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,48 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Bone\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-bone",
-      "detected_at": "2026-07-31T01:05:35.512952+00:00"
+      "message": "🆕 **New drop** at Kith: VANS LX Old Skool 36 - Souvenir Oatmeal Beige\nhttps://kith.com/products/vn000e8v2n1",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: VANS LX Old Skool 36 - Souvenir Faded Black\nhttps://kith.com/products/vn000e8vemv",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Nike Air Max 95 Big Bubble - Blue Sapphire / Metallic Silver / White / Light Smoke Grey\nhttps://kith.com/products/nkir1944-400",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink\nhttps://kith.com/products/jbio2364-100",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink\nhttps://kith.com/products/jbio2363-100",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 4 Retro - Off-White / Anthracite / Fire Pink\nhttps://kith.com/products/jbja1135-100",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 4 Retro - Off-White / Anthracite / Fire Pink / Fire Pink\nhttps://kith.com/products/jbio2361-100",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: adidas x CLOT Superstar - Cloud White / Coffee / Unity Orange\nhttps://kith.com/products/aakk1388",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Black\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-black",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Slides - Black/White\nhttps://sneakerpolitics.com/products/politics-slides-black-white",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Salomon XT-6 Gore Tex - Black/Black\nhttps://sneakerpolitics.com/products/salomon-xt-6-gore-tex-black-black",
+      "detected_at": "2026-07-31T04:42:12.144994+00:00"
     }
   ]
 }
