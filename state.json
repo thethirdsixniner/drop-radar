@@ -1531,7 +1531,7 @@
       "6702411088133": {
         "title": "NIKE ENGLAND 2026 STADIUM HOME JERSEY - WHITE/ SPEED RED",
         "handle": "nike-england-2026-stadium-home-jersey-white-speed-red",
-        "in_stock": true
+        "in_stock": false
       },
       "6702411153669": {
         "title": "NIKE NIGERIA 2026 STADIUM HOME JERSEY - PINE GREEN",
@@ -3478,7 +3478,7 @@
       "8687453176075": {
         "title": "Autry Reelwind Low W *Hairy Suede / Nylon*",
         "handle": "autry-reelwind-low-w-hairy-suede-nylon-bb-whs-wht",
-        "in_stock": true
+        "in_stock": false
       },
       "6844795977892": {
         "title": "Autry Medalist W",
@@ -3533,7 +3533,7 @@
       "8187462713611": {
         "title": "47 MLB New York Yankees *Base Runner* Cap",
         "handle": "47-mlb-new-york-yankees-base-runner-cap-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "8187462910219": {
         "title": "47 MLB New York Yankees *Base Runner* Cap",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9470933336252": {
+        "title": "Off-White Politics Store Tee - Black",
+        "handle": "off-white-politics-store-tee-black",
+        "in_stock": true
+      },
       "9007455436988": {
         "title": "Fear Of God Essentials Ponte 90's Tee - Ivory",
         "handle": "fear-of-god-essentials-ponte-90s-tee-ivory",
@@ -4217,11 +4222,6 @@
         "handle": "fear-of-god-essentials-training-classic-fit-shorts-faded-dune",
         "in_stock": true
       },
-      "9286309380284": {
-        "title": "Godspeed New York GS E Pluribus Trucker Hat - White/Black",
-        "handle": "godspeed-new-york-gs-e-pluribus-trucker-hat-white-black",
-        "in_stock": false
-      },
       "9279426953404": {
         "title": "Lifted Anchors Blue Diamond Snapback - Blue/Black",
         "handle": "lifted-anchors-blue-diamond-snapback-blue-black",
@@ -4515,7 +4515,7 @@
       "9413556568252": {
         "title": "New Era x Diet Starts Monday Los Angeles Dodgers 19TWENTY Hat - Royal",
         "handle": "new-era-x-diet-starts-monday-los-angeles-dodgers-19twenty-hat-royal",
-        "in_stock": true
+        "in_stock": false
       },
       "9413552210108": {
         "title": "New Era x Diet Starts Monday Boston Red Sox 19TWENTY Hat - Navy",
@@ -8768,12 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith for Cinelli Supercorsa Bike - Stadium\nhttps://kith.com/products/00scr2ch11scr2",
-      "detected_at": "2026-07-31T18:25:18.573351+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: On Cloudmonster 1 - Black/Black\nhttps://sneakerpolitics.com/products/on-cloudmonster-1-black-black",
-      "detected_at": "2026-07-31T18:25:18.573351+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Off-White Politics Store Tee - Black\nhttps://sneakerpolitics.com/products/off-white-politics-store-tee-black",
+      "detected_at": "2026-07-31T20:03:14.520748+00:00"
     }
   ]
 }
