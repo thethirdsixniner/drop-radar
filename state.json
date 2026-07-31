@@ -1,11 +1,6 @@
 {
   "stores": {
     "https://kith.com": {
-      "8286622351488": {
-        "title": "Kith for Cinelli Supercorsa Bike - Stadium",
-        "handle": "00scr2ch11scr2",
-        "in_stock": true
-      },
       "8286623268992": {
         "title": "Saucony TD Omni 9 KDZ - Black / Salmon",
         "handle": "sausl226x28",
@@ -1249,6 +1244,11 @@
       "8286608654464": {
         "title": "Port Tanger Ihya Acetate Sunglasses - Black",
         "handle": "pt-9301",
+        "in_stock": true
+      },
+      "8286608785536": {
+        "title": "Port Tanger Gambia Sunglasses - Myrrh / Olive",
+        "handle": "pt-6503",
         "in_stock": true
       }
     },
@@ -2505,6 +2505,181 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "10809052397835": {
+        "title": "Nike Air Force 1 '07 LV8",
+        "handle": "nike-air-force-1-07-lv8-summit-white-varsity-red-white",
+        "in_stock": true
+      },
+      "10788068983051": {
+        "title": "Adidas Jabbar Hi",
+        "handle": "adidas-jabbar-hi-supplier-color-supplier-color-night-indigo",
+        "in_stock": true
+      },
+      "10170571194635": {
+        "title": "Adidas Crazy IIInfinity",
+        "handle": "adidas-crazy-iiinfinity-screaming-green-core-black-lucid-blue",
+        "in_stock": true
+      },
+      "10738598773003": {
+        "title": "Adidas Samba OG W",
+        "handle": "adidas-samba-og-w-core-black-legend-earth-gum-5",
+        "in_stock": true
+      },
+      "10685387342091": {
+        "title": "Adidas Samba LT W",
+        "handle": "adidas-samba-lt-w-core-black-lucid-blue-gold-metallic",
+        "in_stock": true
+      },
+      "10744360796427": {
+        "title": "Adidas Samba LT *Cow Print*",
+        "handle": "adidas-samba-lt-off-white-lucid-pink-gum-4",
+        "in_stock": true
+      },
+      "10125386350859": {
+        "title": "Adidas Samba OG W",
+        "handle": "adidas-samba-og-w-core-black-sand-strata-sky-tint",
+        "in_stock": true
+      },
+      "10094675362059": {
+        "title": "New Balance 740",
+        "handle": "new-balance-u740sb2-slate-grey-blue-agate-black-silver-metallic",
+        "in_stock": true
+      },
+      "10866050367755": {
+        "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
+        "handle": "autry-reelwind-low-nylon-cracked-leather-white-salvia",
+        "in_stock": true
+      },
+      "10861894369547": {
+        "title": "Dr. Martens Lowell",
+        "handle": "dr-martens-lowell-olive-green",
+        "in_stock": true
+      },
+      "10694628671755": {
+        "title": "Nike Air Zoom Pegasus 41 SP",
+        "handle": "nike-air-zoom-pegasus-41-sp-summit-white-black-college-grey-sail",
+        "in_stock": true
+      },
+      "10121735373067": {
+        "title": "Adidas Taekwondo W",
+        "handle": "adidas-taekwondo-w-earth-strata-cream-white-gum",
+        "in_stock": true
+      },
+      "10534211584267": {
+        "title": "Adidas ZPONGE Flux",
+        "handle": "adidas-zponge-flux-carbon-iron-metallic-core-black",
+        "in_stock": true
+      },
+      "8989049913611": {
+        "title": "Adidas Samba XLG",
+        "handle": "adidas-samba-xlg-putty-grey-collegiate-green-gum-3",
+        "in_stock": true
+      },
+      "10125205307659": {
+        "title": "Adidas K 74",
+        "handle": "adidas-k-74-footwear-white-green-collegiate-green",
+        "in_stock": true
+      },
+      "10534216990987": {
+        "title": "Adidas Harden Volume 9",
+        "handle": "adidas-harden-volume-9-core-black-footwear-white-warm-van",
+        "in_stock": true
+      },
+      "10176228163851": {
+        "title": "New Balance 471",
+        "handle": "new-balance-u471ac-great-plains",
+        "in_stock": true
+      },
+      "10218846093579": {
+        "title": "New Balance T500",
+        "handle": "new-balance-t500da-sea-salt-infield-clay-rain-cloud",
+        "in_stock": true
+      },
+      "10223954460939": {
+        "title": "Asics GEL-1130",
+        "handle": "asics-gel1130-white-bisque",
+        "in_stock": true
+      },
+      "10721641169163": {
+        "title": "Birkenstock Tokio Shearling",
+        "handle": "birkenstock-tokio-shearling-taupe",
+        "in_stock": true
+      },
+      "10106501431563": {
+        "title": "Phileo 028 Agafay",
+        "handle": "phileo-028-agafay-black",
+        "in_stock": true
+      },
+      "10736893985035": {
+        "title": "Autry Medalist W",
+        "handle": "autry-medalist-w-beige",
+        "in_stock": true
+      },
+      "7148788875428": {
+        "title": "Autry Medalist W *Goat*",
+        "handle": "autry-medalist-w-goat-white",
+        "in_stock": true
+      },
+      "10817465221387": {
+        "title": "Sunflower Loose Jeans",
+        "handle": "sunflower-loose-jeans",
+        "in_stock": true
+      },
+      "8990343201035": {
+        "title": "Autry Medalist W",
+        "handle": "autry-medalist-w-virgin-diamond-white-dmn",
+        "in_stock": true
+      },
+      "10855632011531": {
+        "title": "Nike\tClub Unstructured Denim Cap",
+        "handle": "nikeclub-unstructured-denim-cap-aegean-storm-thunder-blue-white",
+        "in_stock": true
+      },
+      "10818831548683": {
+        "title": "Carhartt WIP Aaron Pant",
+        "handle": "carhartt-wip-aaron-pant-blue-worn-used-wash",
+        "in_stock": true
+      },
+      "8917703164171": {
+        "title": "Molebo Everyday Tip Belt",
+        "handle": "molebo-everyday-tip-belt-black",
+        "in_stock": true
+      },
+      "10714043646219": {
+        "title": "Nike\tClub Washed Cap",
+        "handle": "nike-club-washed-cap-mosswood-brown-white",
+        "in_stock": true
+      },
+      "10691459809547": {
+        "title": "Puma x ROSÉ Dad Cap",
+        "handle": "puma-x-ros-dad-cap-puma-black",
+        "in_stock": true
+      },
+      "8993700380939": {
+        "title": "Polo Ralph Lauren Cotton Chino Baseball Cap",
+        "handle": "polo-ralph-lauren-cotton-chino-baseball-cap-canopy-olive",
+        "in_stock": true
+      },
+      "8466417910027": {
+        "title": "47 MLB Los Angeles Dodgers *Base Runner* Cap",
+        "handle": "47-mlb-los-angeles-dodgers-base-runner-cap-natural",
+        "in_stock": true
+      },
+      "10655085166859": {
+        "title": "47 MLB New York Yankees Foundational *Captain* Cap",
+        "handle": "47-mlb-new-york-yankees-foundational-captain-cap-sandstone-brown",
+        "in_stock": true
+      },
+      "10148426088715": {
+        "title": "Reebok x Botter Reverse Soccer Tee",
+        "handle": "reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
+        "in_stock": true
+      },
+      "8466385142027": {
+        "title": "47 MLB New York Yankees *Clean Up* Cap w/ No Loop Label",
+        "handle": "47-mlb-new-york-yankees-clean-up-cap-w-no-loop-label-brown",
+        "in_stock": true
+      },
       "10992896213259": {
         "title": "Nike\tACG *Tuff Fleece* Dri-Fit Crew-Neck Sweatshirt",
         "handle": "nikeacg-tuff-fleece-drifit-crewneck-sweatshirt-summit-white-black",
@@ -3298,7 +3473,7 @@
       "10655638814987": {
         "title": "Adidas Gazelle Indoor",
         "handle": "adidas-gazelle-indoor-night-indigo-off-white-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10760575516939": {
         "title": "AMI Paris Embossed Ami De Coeur Hoodie",
@@ -3579,181 +3754,6 @@
         "title": "Our Legacy Udon Ladon",
         "handle": "our-legacy-udon-ladon-natural-leather",
         "in_stock": true
-      },
-      "10724804821259": {
-        "title": "Salomon X-Alp Mid Leather GTX",
-        "handle": "salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
-        "in_stock": true
-      },
-      "10754866807051": {
-        "title": "Nike Air Max 1 Essential",
-        "handle": "nike-air-max-1-essentials-phantom-sanded-purple-vast-grey-black",
-        "in_stock": true
-      },
-      "10738405802251": {
-        "title": "Adidas Gazelle Indoor",
-        "handle": "adidas-gazelle-indoor-cargo-brown-golden-beige-cloud-white",
-        "in_stock": true
-      },
-      "10694649151755": {
-        "title": "Nike Pegasus Premium",
-        "handle": "nike-pegasus-premium-anthracite-pure-platinum-ashen-slate",
-        "in_stock": true
-      },
-      "10744399069451": {
-        "title": "Adidas Gazelle Indoor",
-        "handle": "adidas-gazelle-indoor-core-black-focus-olive-carbon",
-        "in_stock": true
-      },
-      "10647298310411": {
-        "title": "HOKA Mafate Speed 4 Lite",
-        "handle": "hoka-mafate-speed-4-lite-electric-cobalt-dry-chili",
-        "in_stock": true
-      },
-      "9776147202315": {
-        "title": "New Balance 370",
-        "handle": "new-balance-u370pb-black-cement",
-        "in_stock": true
-      },
-      "10860105498891": {
-        "title": "Asics x KIMHĒKIM GEL-Nimbus 10.1",
-        "handle": "asics-x-kimhkim-gelnimbus-101-black-black",
-        "in_stock": true
-      },
-      "10753735950603": {
-        "title": "Dr. Martens Lowell Chukka",
-        "handle": "dr-martens-lowell-chukka-butterscotch-orleans",
-        "in_stock": true
-      },
-      "10788069179659": {
-        "title": "thisisneverthat\tHeart Logo Knit Sweater",
-        "handle": "thisisneverthatheart-logo-knit-sweater-multi",
-        "in_stock": true
-      },
-      "10828928549131": {
-        "title": "thisisneverthat *Gore-Tex Windstopper* Gear Jacket",
-        "handle": "thisisneverthat-goretex-windstopper-gear-jacket-black",
-        "in_stock": true
-      },
-      "11010711191819": {
-        "title": "Asics GEL-NYC",
-        "handle": "asics-gel-nyc-cream-umeboshi",
-        "in_stock": true
-      },
-      "11010888433931": {
-        "title": "Asics GEL-Kinetic 2.0",
-        "handle": "asics-gelkinetic-20-obsidian-grey-olive-canvas",
-        "in_stock": true
-      },
-      "10999589142795": {
-        "title": "Asics GEL-Kayano 14",
-        "handle": "asics-gelkayano-14-ivory-cream",
-        "in_stock": true
-      },
-      "10999589536011": {
-        "title": "Asics GEL-Kayano 14",
-        "handle": "asics-gelkayano-14-piedmont-grey-black",
-        "in_stock": true
-      },
-      "10999588716811": {
-        "title": "Asics GEL-Kinetic 2.0",
-        "handle": "asics-gelkinetic-20-cocoa-powder-oatmeal",
-        "in_stock": true
-      },
-      "11003895808267": {
-        "title": "Nike Wmns Nike Zoom Skylon 11",
-        "handle": "nike-wmns-nike-zoom-skylon-11-white-cacao-wow-metallic-silver",
-        "in_stock": false
-      },
-      "11008786923787": {
-        "title": "Asics US8-S GEL-SJ33",
-        "handle": "asics-us8s-gelsj33-black-coffee-orange-lily",
-        "in_stock": false
-      },
-      "11008791544075": {
-        "title": "Asics US8-S GEL-SJ33",
-        "handle": "asics-us8s-gelsj33-roasted-coffee-periwinkle-blue",
-        "in_stock": true
-      },
-      "11008781123851": {
-        "title": "Carhartt WIP Aaron Pant",
-        "handle": "carhartt-wip-aaron-pant-blue-marble-used-wash",
-        "in_stock": true
-      },
-      "11007998689547": {
-        "title": "Adidas\tEquipment Essentials Longsleeve Tee",
-        "handle": "adidasequipment-essentials-longsleeve-tee-cloud-white",
-        "in_stock": true
-      },
-      "11007998558475": {
-        "title": "Adidas\tEquipment Essentials Longsleeve Tee",
-        "handle": "adidasequipment-essentials-longsleeve-tee-black",
-        "in_stock": true
-      },
-      "11010009628939": {
-        "title": "Adidas Y-3 x CHITO Graphic Cali Tee",
-        "handle": "adidas-y3-x-chito-graphic-cali-tee-chalk-white",
-        "in_stock": true
-      },
-      "11010006876427": {
-        "title": "Adidas Y-3 x CHITO City Graphic Tee",
-        "handle": "adidas-y3-x-chito-city-graphic-tee-black",
-        "in_stock": true
-      },
-      "11007982403851": {
-        "title": "Adidas Powerphase",
-        "handle": "adidas-powerphase-footwear-white-night-indigo-chalk-white",
-        "in_stock": true
-      },
-      "10856366899467": {
-        "title": "Lacoste *Lacoste on Tennis* T-Shirt",
-        "handle": "lacoste-lacoste-on-tennis-tshirt-white",
-        "in_stock": true
-      },
-      "10725816795403": {
-        "title": "Adidas Italia 60s *Made in Italy*",
-        "handle": "adidas-italia-60s-made-in-italy-cardboard-brown-desert-cream-white",
-        "in_stock": true
-      },
-      "10795610112267": {
-        "title": "Carhartt WIP Brady Pant",
-        "handle": "carhartt-wip-brady-pant-black-rinsed",
-        "in_stock": true
-      },
-      "10810542555403": {
-        "title": "Our Legacy Belt 2 CM",
-        "handle": "our-legacy-belt-2-cm-shadow-berry-leather",
-        "in_stock": true
-      },
-      "10715387134219": {
-        "title": "Autry Reelwind Low W *Ripstop / Suede*",
-        "handle": "autry-reelwind-low-w-ripstop-suede-creolepink",
-        "in_stock": true
-      },
-      "10540029935883": {
-        "title": "Autry Reelwind Low W *Suede / Net*",
-        "handle": "autry-reelwind-low-w-suede-net-ecru-blue",
-        "in_stock": true
-      },
-      "10077515153675": {
-        "title": "Autry Windspin W *Perforated / Suede*",
-        "handle": "autry-windspin-w-perforated-suede-off-white",
-        "in_stock": true
-      },
-      "10649900810507": {
-        "title": "Adidas Woven Firebird Track Pants",
-        "handle": "adidas-woven-firebird-track-pants-cardboard-black",
-        "in_stock": true
-      },
-      "10732460835083": {
-        "title": "Pas Normal Studios Balance Shorts *No Distance Left To Run*",
-        "handle": "pas-normal-studios-balance-shorts-no-distance-left-to-run-medium-grey",
-        "in_stock": true
-      },
-      "10646907584779": {
-        "title": "Courreges Light Twill Bootcut Pants",
-        "handle": "courreges-light-twill-bootcut-pants-chocolate",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -3800,11 +3800,6 @@
       "9294108197052": {
         "title": "Jordan 3 Retro 'World's Best Dad' (PS) - Sail/Black",
         "handle": "jordan-3-retro-worlds-best-dad-ps-sail-black",
-        "in_stock": true
-      },
-      "9470933336252": {
-        "title": "Off-White Politics Store Tee - Black",
-        "handle": "off-white-politics-store-tee-black",
         "in_stock": true
       },
       "9007455436988": {
@@ -5005,6 +5000,11 @@
       "9403551318204": {
         "title": "Politics x '47 20th Anniversary Hitch Snapback - Mauve",
         "handle": "politics-x-47-20th-anniversary-hitch-snapback-mauve",
+        "in_stock": true
+      },
+      "9403548008636": {
+        "title": "Politics x '47 20th Anniversary Hitch Snapback - Iris",
+        "handle": "politics-x-47-20th-anniversary-hitch-snapback-iris",
         "in_stock": true
       }
     },
@@ -8768,300 +8768,152 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Adistar Jellyfish\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Kith: Port Tanger Gambia Sunglasses - Myrrh / Olive\nhttps://kith.com/products/pt-6503",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-Kinetic FR\nhttps://www.asphaltgold.de/products/asics-gelkinetic-fr-black-pure-silver",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Air Force 1 '07 LV8\nhttps://www.asphaltgold.de/products/nike-air-force-1-07-lv8-summit-white-varsity-red-white",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-Kinetic FR\nhttps://www.asphaltgold.de/products/asics-gelkinetic-fr-cocoa-powder-champagne",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Jabbar Hi\nhttps://www.asphaltgold.de/products/adidas-jabbar-hi-supplier-color-supplier-color-night-indigo",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: New Balance 204L\nhttps://www.asphaltgold.de/products/new-balance-204l-quicksand-bark",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Crazy IIInfinity\nhttps://www.asphaltgold.de/products/adidas-crazy-iiinfinity-screaming-green-core-black-lucid-blue",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: New Balance 991 v2 *Made in England*\nhttps://www.asphaltgold.de/products/new-balance-991-v2-made-in-england-wind-chime-brilliant-white-flint-gray",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-core-black-legend-earth-gum-5",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-Resolution 5\nhttps://www.asphaltgold.de/products/asics-gelresolution-slate-blue-pure-silver",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba LT W\nhttps://www.asphaltgold.de/products/adidas-samba-lt-w-core-black-lucid-blue-gold-metallic",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-Resolution 5\nhttps://www.asphaltgold.de/products/asics-gelresolution-5-cocoa-powder-cream",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba LT *Cow Print*\nhttps://www.asphaltgold.de/products/adidas-samba-lt-off-white-lucid-pink-gum-4",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 370\nhttps://www.asphaltgold.de/products/new-balance-u370pb-black-cement",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-core-black-sand-strata-sky-tint",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics x KIMHĒKIM GEL-Nimbus 10.1\nhttps://www.asphaltgold.de/products/asics-x-kimhkim-gelnimbus-101-black-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-u740sb2-slate-grey-blue-agate-black-silver-metallic",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Dr. Martens Lowell Chukka\nhttps://www.asphaltgold.de/products/dr-martens-lowell-chukka-butterscotch-orleans",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low *Nylon / Cracked Leather*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-nylon-cracked-leather-white-salvia",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat\tHeart Logo Knit Sweater\nhttps://www.asphaltgold.de/products/thisisneverthatheart-logo-knit-sweater-multi",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Dr. Martens Lowell\nhttps://www.asphaltgold.de/products/dr-martens-lowell-olive-green",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat *Gore-Tex Windstopper* Gear Jacket\nhttps://www.asphaltgold.de/products/thisisneverthat-goretex-windstopper-gear-jacket-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Air Zoom Pegasus 41 SP\nhttps://www.asphaltgold.de/products/nike-air-zoom-pegasus-41-sp-summit-white-black-college-grey-sail",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gel-nyc-cream-umeboshi",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Taekwondo W\nhttps://www.asphaltgold.de/products/adidas-taekwondo-w-earth-strata-cream-white-gum",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kinetic 2.0\nhttps://www.asphaltgold.de/products/asics-gelkinetic-20-obsidian-grey-olive-canvas",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas ZPONGE Flux\nhttps://www.asphaltgold.de/products/adidas-zponge-flux-carbon-iron-metallic-core-black",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kayano 14\nhttps://www.asphaltgold.de/products/asics-gelkayano-14-ivory-cream",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba XLG\nhttps://www.asphaltgold.de/products/adidas-samba-xlg-putty-grey-collegiate-green-gum-3",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kayano 14\nhttps://www.asphaltgold.de/products/asics-gelkayano-14-piedmont-grey-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas K 74\nhttps://www.asphaltgold.de/products/adidas-k-74-footwear-white-green-collegiate-green",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kinetic 2.0\nhttps://www.asphaltgold.de/products/asics-gelkinetic-20-cocoa-powder-oatmeal",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Harden Volume 9\nhttps://www.asphaltgold.de/products/adidas-harden-volume-9-core-black-footwear-white-warm-van",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics US8-S GEL-SJ33\nhttps://www.asphaltgold.de/products/asics-us8s-gelsj33-roasted-coffee-periwinkle-blue",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 471\nhttps://www.asphaltgold.de/products/new-balance-u471ac-great-plains",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Aaron Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-aaron-pant-blue-marble-used-wash",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Balance T500\nhttps://www.asphaltgold.de/products/new-balance-t500da-sea-salt-infield-clay-rain-cloud",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tEquipment Essentials Longsleeve Tee\nhttps://www.asphaltgold.de/products/adidasequipment-essentials-longsleeve-tee-cloud-white",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-bisque",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tEquipment Essentials Longsleeve Tee\nhttps://www.asphaltgold.de/products/adidasequipment-essentials-longsleeve-tee-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Birkenstock Tokio Shearling\nhttps://www.asphaltgold.de/products/birkenstock-tokio-shearling-taupe",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Y-3 x CHITO Graphic Cali Tee\nhttps://www.asphaltgold.de/products/adidas-y3-x-chito-graphic-cali-tee-chalk-white",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Phileo 028 Agafay\nhttps://www.asphaltgold.de/products/phileo-028-agafay-black",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Y-3 x CHITO City Graphic Tee\nhttps://www.asphaltgold.de/products/adidas-y3-x-chito-city-graphic-tee-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W\nhttps://www.asphaltgold.de/products/autry-medalist-w-beige",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Powerphase\nhttps://www.asphaltgold.de/products/adidas-powerphase-footwear-white-night-indigo-chalk-white",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W *Goat*\nhttps://www.asphaltgold.de/products/autry-medalist-w-goat-white",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Lacoste *Lacoste on Tennis* T-Shirt\nhttps://www.asphaltgold.de/products/lacoste-lacoste-on-tennis-tshirt-white",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Sunflower Loose Jeans\nhttps://www.asphaltgold.de/products/sunflower-loose-jeans",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Italia 60s *Made in Italy*\nhttps://www.asphaltgold.de/products/adidas-italia-60s-made-in-italy-cardboard-brown-desert-cream-white",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W\nhttps://www.asphaltgold.de/products/autry-medalist-w-virgin-diamond-white-dmn",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Brady Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-brady-pant-black-rinsed",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Unstructured Denim Cap\nhttps://www.asphaltgold.de/products/nikeclub-unstructured-denim-cap-aegean-storm-thunder-blue-white",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Belt 2 CM\nhttps://www.asphaltgold.de/products/our-legacy-belt-2-cm-shadow-berry-leather",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Aaron Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-aaron-pant-blue-worn-used-wash",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Ripstop / Suede*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-ripstop-suede-creolepink",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Molebo Everyday Tip Belt\nhttps://www.asphaltgold.de/products/molebo-everyday-tip-belt-black",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-suede-net-ecru-blue",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Washed Cap\nhttps://www.asphaltgold.de/products/nike-club-washed-cap-mosswood-brown-white",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Windspin W *Perforated / Suede*\nhttps://www.asphaltgold.de/products/autry-windspin-w-perforated-suede-off-white",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Puma x ROSÉ Dad Cap\nhttps://www.asphaltgold.de/products/puma-x-ros-dad-cap-puma-black",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Woven Firebird Track Pants\nhttps://www.asphaltgold.de/products/adidas-woven-firebird-track-pants-cardboard-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Cotton Chino Baseball Cap\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-cotton-chino-baseball-cap-canopy-olive",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Balance Shorts *No Distance Left To Run*\nhttps://www.asphaltgold.de/products/pas-normal-studios-balance-shorts-no-distance-left-to-run-medium-grey",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB Los Angeles Dodgers *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-los-angeles-dodgers-base-runner-cap-natural",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Courreges Light Twill Bootcut Pants\nhttps://www.asphaltgold.de/products/courreges-light-twill-bootcut-pants-chocolate",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees Foundational *Captain* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-foundational-captain-cap-sandstone-brown",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Up2Par Tee - Blue\nhttps://sneakerpolitics.com/products/godspeed-new-york-up2par-tee-blue",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Reebok x Botter Reverse Soccer Tee\nhttps://www.asphaltgold.de/products/reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Texas Skyline Tee - Bone\nhttps://sneakerpolitics.com/products/godspeed-new-york-texas-skyline-tee-bone",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Clean Up* Cap w/ No Loop Label\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-clean-up-cap-w-no-loop-label-brown",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York OG Logo Slides V2 - Blue\nhttps://sneakerpolitics.com/products/godspeed-new-york-og-logo-slides-v2-blue",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Green Reaper Tee - Bone\nhttps://sneakerpolitics.com/products/godspeed-new-york-green-reaper-tee-bone",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York OG Logo Slides V2 - Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-og-logo-slides-v2-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS MUENCHEN\nhttps://www.afew-store.com/products/adidas-originals-wmns-muenchen-gum4-magbei-clpink",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-1130\nhttps://www.afew-store.com/products/asics-gel-1130-cream-pink-cloud",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-RESOLUTION 5\nhttps://www.afew-store.com/products/asics-gel-resolution-5-cocoa-powder-cream",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-RESOLUTION 5\nhttps://www.afew-store.com/products/asics-gel-resolution-5-slate-blue-pure-silver",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals x Paris Basketball FIREBIRD Track Top\nhttps://www.afew-store.com/products/adidas-originals-x-paris-basketball-firebird-track-top-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 740\nhttps://www.afew-store.com/products/new-balance-740-streamsong-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 1906W\nhttps://www.afew-store.com/products/new-balance-1906w-black-silver-metallic",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 1906W\nhttps://www.afew-store.com/products/new-balance-1906w-castlerock-dark-silver-metallic",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-KAYANO 14\nhttps://www.afew-store.com/products/asics-gel-kayano-14-piedmont-grey-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: G-Shock x thisisneverthat DW-5600TNT-7\nhttps://www.afew-store.com/products/g-shock-x-thisisneverthat-dw-5600tnt-7-white",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 204L\nhttps://www.afew-store.com/products/new-balance-204l-pumpernickel-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals BW ARMY\nhttps://www.afew-store.com/products/adidas-originals-bw-army-halblu-halblu-gum5",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS ADISTAR MLD\nhttps://www.afew-store.com/products/adidas-originals-wmns-adistar-mld-ftwwht-grethr-cblack",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-wmns-handball-spezial-sanstr-owhite-gum5",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 204L\nhttps://www.afew-store.com/products/new-balance-204l-magnet",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 204L\nhttps://www.afew-store.com/products/new-balance-204l-quicksand-bark",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance Gator Run\nhttps://www.afew-store.com/products/new-balance-gator-run-cherry-leather-fast-track",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 9060\nhttps://www.afew-store.com/products/new-balance-9060-reflection-sea-salt",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 9060\nhttps://www.afew-store.com/products/new-balance-9060-driftwood-timberwolf",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-cblack-tmvire-gum5",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-warvan-owhite-dbrown",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS MUENCHEN\nhttps://www.afew-store.com/products/adidas-originals-wmns-muenchen-maroon-warvan-gum5",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: G-SHOCK GA-700CF-1AER\nhttps://www.afew-store.com/products/g-shock-ga-700cf-1aer-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Brooks Adrenaline GTS 4\nhttps://www.afew-store.com/products/brooks-adrenaline-gts-4-micro-chip-alloy-coconut-milk",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Brooks Adrenaline GTS 4\nhttps://www.afew-store.com/products/brooks-adrenaline-gts-4-coconut-milk-silver-eggnog",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: G-SHOCK DW-6900CF-1ER\nhttps://www.afew-store.com/products/g-shock-dw-6900cf-1er-black",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 991V2 - Made in England\nhttps://www.afew-store.com/products/new-balance-991v2-made-in-england-wind-chime",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance Gator Run\nhttps://www.afew-store.com/products/new-balance-gator-run-cider-amber-haze",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: 204L Sneakers Quicksand / Bark\nhttps://www.slamjam.com/products/new-balance-footwear-u204lfsp-beige-j359408",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: 204L Sneakers Pumpernickel / Black\nhttps://www.slamjam.com/products/new-balance-footwear-u204lfsg-brown-j359407",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: 204L Sneakers Magnet\nhttps://www.slamjam.com/products/new-balance-footwear-u204l1rc-grey-j359405",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: LTTT Gel-Resolution 5 Sneakers White / Red\nhttps://www.slamjam.com/products/asics-footwear-gel-resolution-5-white-j359704",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: LTTT Gel-Resolution 5 Sneakers Parrot Green / Pure Silver\nhttps://www.slamjam.com/products/asics-footwear-gel-resolution-5-green-j359703",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Air Jordan 1 High OG 'Love Letter' Sneakers Shadow Brown / Soft Pearl\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-1-retro-high-og-brown-j365624",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Air Jordan 13 Retro Sneakers Navy / Flint Grey\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-13-retro-blue-j352828",
-      "detected_at": "2026-07-31T22:35:31.434184+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 20th Anniversary Hitch Snapback - Iris\nhttps://sneakerpolitics.com/products/politics-x-47-20th-anniversary-hitch-snapback-iris",
+      "detected_at": "2026-07-31T23:42:58.723365+00:00"
     }
   ]
 }
