@@ -1323,11 +1323,6 @@
         "handle": "salomon-xt-4-og-gtx-black-1",
         "in_stock": true
       },
-      "6702673527045": {
-        "title": "ASICS X LTTT GEL-RESOLUTION 5 - PARROT GREEN/ PURE SILVER",
-        "handle": "asics-x-lttt-gel-resolution-5-parrot-green-pure-silver",
-        "in_stock": false
-      },
       "6702673592581": {
         "title": "ASICS X LTTT GEL-RESOLUTION 5 - WHITE/ RED",
         "handle": "asics-x-lttt-gel-resolution-5-white-red",
@@ -2501,6 +2496,11 @@
       "4166149734473": {
         "title": "UNDEFEATED X MEDICOM UMAN KEYCHAIN - GOLD",
         "handle": "undefeated-x-medicom-uman-keychain-gold",
+        "in_stock": true
+      },
+      "6702089044229": {
+        "title": "UNDEFEATED X BURTON M4 GOGGLES - TAN",
+        "handle": "undefeated-x-burton-m4-goggles-tan",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,11 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9104743334093": {
+        "title": "Paws Fishnet Five Fingers Socks Black",
+        "handle": "roa-clothing-paws-fishnet-five-fingers-socks-black-j325771",
+        "in_stock": false
+      },
       "9095312703693": {
         "title": "Inner Logo Socks White / Fluo Blue",
         "handle": "mental-athletic-clothing-mental-athletic-socks-white-j338091",
@@ -7924,11 +7929,6 @@
         "handle": "nike-footwear-air-force-1-retro-blue-j364274",
         "in_stock": true
       },
-      "9104742777037": {
-        "title": "Tuff Sneakers Sand",
-        "handle": "roa-footwear-tuff-beige-j334362",
-        "in_stock": true
-      },
       "9123881451725": {
         "title": "Men's Cotton Caban Jacket Black",
         "handle": "mm6-maison-margiela-clothing-sportsjacket-black-j363161",
@@ -8113,11 +8113,6 @@
         "title": "Juneau Tote (M) Ivory",
         "handle": "visvim-accessories-juneau-tote-m-white-j348647",
         "in_stock": true
-      },
-      "9119394529485": {
-        "title": "Dot Surf T-Shirt White",
-        "handle": "stussy-clothing-dot-surf-tee-white-j361918",
-        "in_stock": false
       },
       "9110404858061": {
         "title": "Men's Stencil Print Pocket T-Shirt Grey",
@@ -8639,11 +8634,6 @@
         "handle": "nike-clothing-m-nk-club-rules-trench-coat-brown-j364308",
         "in_stock": true
       },
-      "9031569113293": {
-        "title": "Men's NOCTA Cardinal Nylon Shorts Black",
-        "handle": "nike-clothing-m-nrg-nocta-cs-short-wvn-black-j323053",
-        "in_stock": false
-      },
       "9122651799757": {
         "title": "Clapton Tote Bag Camo Feather Tree / Black",
         "handle": "carhartt-wip-accessories-clapton-tote-bag-multicolor-j359182",
@@ -8763,13 +8753,27 @@
         "title": "Women's Speedcat Ballet Dress-Up Sneakers Matte Bronze",
         "handle": "puma-footwear-wmns-speedcat-ballet-dress-up-wns-brown-j363768",
         "in_stock": true
+      },
+      "9122711961805": {
+        "title": "Oklou Tracks Headphones Grey / Light Blue",
+        "handle": "aiaiai-lifestyle-tracks-usb-c-oklou-edition-grey-j367550",
+        "in_stock": false
+      },
+      "9050663911629": {
+        "title": "Men's Cloudsurfer Max Sneakers Black / Eclipse",
+        "handle": "on-footwear-cloudsurfer-max-black-j334949",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon X-Alp Mid Leather GTX\nhttps://www.asphaltgold.de/products/salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
-      "detected_at": "2026-08-01T16:13:30.645749+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BURTON M4 GOGGLES - TAN\nhttps://undefeated.com/products/undefeated-x-burton-m4-goggles-tan",
+      "detected_at": "2026-08-01T17:19:34.911858+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Cloudsurfer Max Sneakers Black / Eclipse\nhttps://www.slamjam.com/products/on-footwear-cloudsurfer-max-black-j334949",
+      "detected_at": "2026-08-01T17:19:34.911858+00:00"
     }
   ]
 }
