@@ -1301,7 +1301,7 @@
       "6702666940677": {
         "title": "NIKE SB DUNK LOW PRO - SAFFRON QUARTZ",
         "handle": "nike-sb-dunk-low-pro-saffron-quartz",
-        "in_stock": true
+        "in_stock": false
       },
       "6702673625349": {
         "title": "JORDAN AJ 1 RETRO HIGH OG 'LOVE LETTER' - SHADOW BROWN",
@@ -2675,11 +2675,6 @@
         "handle": "reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
         "in_stock": true
       },
-      "8466385142027": {
-        "title": "47 MLB New York Yankees *Clean Up* Cap w/ No Loop Label",
-        "handle": "47-mlb-new-york-yankees-clean-up-cap-w-no-loop-label-brown",
-        "in_stock": false
-      },
       "10992896213259": {
         "title": "Nike\tACG *Tuff Fleece* Dri-Fit Crew-Neck Sweatshirt",
         "handle": "nikeacg-tuff-fleece-drifit-crewneck-sweatshirt-summit-white-black",
@@ -3014,11 +3009,6 @@
         "title": "Asics x Hidden NY GEL-Venture 6 Shield",
         "handle": "asics-x-hidden-ny-gelventure-6-shield-white-wasabi",
         "in_stock": true
-      },
-      "8470307701003": {
-        "title": "New Balance BB550PWT",
-        "handle": "new-balance-bb550pwt-sea-salt",
-        "in_stock": false
       },
       "7169211400356": {
         "title": "Salomon XT-6",
@@ -3515,11 +3505,6 @@
         "handle": "adidas-adizero-aruku-silver-metallic-crystal-white-grey-three",
         "in_stock": true
       },
-      "6721325564068": {
-        "title": "New Balance 530",
-        "handle": "new-balance-mr530sg-white",
-        "in_stock": false
-      },
       "10674400297227": {
         "title": "AMI Paris SN504",
         "handle": "ami-paris-sn504-blanc",
@@ -3753,6 +3738,21 @@
       "10724804821259": {
         "title": "Salomon X-Alp Mid Leather GTX",
         "handle": "salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
+        "in_stock": true
+      },
+      "10754866807051": {
+        "title": "Nike Air Max 1 Essential",
+        "handle": "nike-air-max-1-essentials-phantom-sanded-purple-vast-grey-black",
+        "in_stock": true
+      },
+      "10738405802251": {
+        "title": "Adidas Gazelle Indoor",
+        "handle": "adidas-gazelle-indoor-cargo-brown-golden-beige-cloud-white",
+        "in_stock": true
+      },
+      "10694649151755": {
+        "title": "Nike Pegasus Premium",
+        "handle": "nike-pegasus-premium-anthracite-pure-platinum-ashen-slate",
         "in_stock": true
       }
     },
@@ -4420,7 +4420,7 @@
       "9095587168444": {
         "title": "Billionaire Boys Club Curve Tee - Cypress",
         "handle": "billionaire-boys-club-curve-tee-cypress",
-        "in_stock": true
+        "in_stock": false
       },
       "9094195052732": {
         "title": "Market x Grateful Dead Tie Dye Tee - White/Blue",
@@ -8766,5 +8766,18 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike Air Max 1 Essential\nhttps://www.asphaltgold.de/products/nike-air-max-1-essentials-phantom-sanded-purple-vast-grey-black",
+      "detected_at": "2026-08-01T22:02:18.032576+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Indoor\nhttps://www.asphaltgold.de/products/adidas-gazelle-indoor-cargo-brown-golden-beige-cloud-white",
+      "detected_at": "2026-08-01T22:02:18.032576+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike Pegasus Premium\nhttps://www.asphaltgold.de/products/nike-pegasus-premium-anthracite-pure-platinum-ashen-slate",
+      "detected_at": "2026-08-01T22:02:18.032576+00:00"
+    }
+  ]
 }
