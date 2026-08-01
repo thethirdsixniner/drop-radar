@@ -1253,6 +1253,46 @@
       }
     },
     "https://undefeated.com": {
+      "6702673756421": {
+        "title": "SALOMON XT-6 GTX - WHPEP/ SILVES",
+        "handle": "salomon-xt-6-gtx-whpep-silves",
+        "in_stock": true
+      },
+      "6702674739461": {
+        "title": "SALOMON XT-4 OG GTX - BLACK",
+        "handle": "salomon-xt-4-og-gtx-black-1",
+        "in_stock": true
+      },
+      "6702673723653": {
+        "title": "SALOMON XT-6 - BLACK COFFEE/ BURRO",
+        "handle": "salomon-xt-6-black-coffee-burro",
+        "in_stock": true
+      },
+      "6702673690885": {
+        "title": "SALOMON XT-6 - ALLOY/ BLACK",
+        "handle": "salomon-xt-6-alloy-black",
+        "in_stock": true
+      },
+      "6702673821957": {
+        "title": "ASICS GEL-CUMULUS 16 - GRAPHITE GREY/ BLACK",
+        "handle": "asics-gel-cumulus-16-graphite-grey-black",
+        "in_stock": true
+      },
+      "6702673592581": {
+        "title": "ASICS X LTTT GEL-RESOLUTION 5 - WHITE/ RED",
+        "handle": "asics-x-lttt-gel-resolution-5-white-red",
+        "in_stock": true
+      },
+      "6702673527045": {
+        "title": "ASICS X LTTT GEL-RESOLUTION 5 - PARROT GREEN/ PURE SILVER",
+        "handle": "asics-x-lttt-gel-resolution-5-parrot-green-pure-silver",
+        "in_stock": false
+      },
+      "6702673789189": {
+        "title": "NEW BALANCE 204L - QUICKSAND",
+        "handle": "new-balance-204l-quicksand",
+        "in_stock": true
+      },
       "6702668054789": {
         "title": "NIKE ZOOM SKYLON 11 - BLACK/ ANTHRACITE",
         "handle": "nike-zoom-skylon-11-black-anthracite",
@@ -2461,46 +2501,6 @@
       "6673204510981": {
         "title": "BAPE X UNDEFEATED COLOR CAMO FLANNEL JACKET - NAVY",
         "handle": "bape-x-undefeated-color-camo-flannel-jacket-navy",
-        "in_stock": true
-      },
-      "6673204445445": {
-        "title": "BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS",
-        "handle": "bape-x-undefeated-color-camo-flannel-pants",
-        "in_stock": true
-      },
-      "6673204543749": {
-        "title": "BAPE X UNDEFEATED MULTI POUCH POCKET PANTS - NAVY",
-        "handle": "bape-x-undefeated-multi-pouch-pocket-pants-navy",
-        "in_stock": true
-      },
-      "6701189693701": {
-        "title": "UNDEFEATED ICON SPECKLE GLOVES",
-        "handle": "undefeated-icon-speckle-gloves",
-        "in_stock": true
-      },
-      "6700450513157": {
-        "title": "UNDEFEATED ID TAG",
-        "handle": "undefeated-id-tag",
-        "in_stock": true
-      },
-      "6676602061061": {
-        "title": "UNDEFEATED ALL-IN-ONE WASH",
-        "handle": "undefeated-total-wash-natural",
-        "in_stock": true
-      },
-      "6701419135237": {
-        "title": "BAPE ABC CAMO MILO BUSY WORKS TEE  - WHITE",
-        "handle": "bape-abc-camo-milo-busy-works-tee-white",
-        "in_stock": true
-      },
-      "6701189562629": {
-        "title": "UNDEFEATED SCREW U PIN - ANTIQUE NICKEL",
-        "handle": "undefeated-screw-u-pin-antique-nickel",
-        "in_stock": true
-      },
-      "6676601995525": {
-        "title": "UNDEFEATED SOAP-ON-A-ROPE - NATURAL",
-        "handle": "undefeated-soap-on-a-rope-natural",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,32 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 - Dragon Fruit/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-dragon-fruit-black",
-      "detected_at": "2026-08-01T11:05:24.793454+00:00"
+      "message": "🆕 **New drop** at Undefeated: SALOMON XT-6 GTX - WHPEP/ SILVES\nhttps://undefeated.com/products/salomon-xt-6-gtx-whpep-silves",
+      "detected_at": "2026-08-01T12:13:12.840542+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SALOMON XT-4 OG GTX - BLACK\nhttps://undefeated.com/products/salomon-xt-4-og-gtx-black-1",
+      "detected_at": "2026-08-01T12:13:12.840542+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SALOMON XT-6 - BLACK COFFEE/ BURRO\nhttps://undefeated.com/products/salomon-xt-6-black-coffee-burro",
+      "detected_at": "2026-08-01T12:13:12.840542+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SALOMON XT-6 - ALLOY/ BLACK\nhttps://undefeated.com/products/salomon-xt-6-alloy-black",
+      "detected_at": "2026-08-01T12:13:12.840542+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: ASICS GEL-CUMULUS 16 - GRAPHITE GREY/ BLACK\nhttps://undefeated.com/products/asics-gel-cumulus-16-graphite-grey-black",
+      "detected_at": "2026-08-01T12:13:12.840542+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: ASICS X LTTT GEL-RESOLUTION 5 - WHITE/ RED\nhttps://undefeated.com/products/asics-x-lttt-gel-resolution-5-white-red",
+      "detected_at": "2026-08-01T12:13:12.840542+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NEW BALANCE 204L - QUICKSAND\nhttps://undefeated.com/products/new-balance-204l-quicksand",
+      "detected_at": "2026-08-01T12:13:12.840542+00:00"
     }
   ]
 }
