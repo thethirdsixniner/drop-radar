@@ -2803,7 +2803,7 @@
       "11010682913035": {
         "title": "Adidas x Pharrell Williams Adistar Jellyfish",
         "handle": "adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "11012768858379": {
         "title": "Saucony Pro Grid Omni 9",
@@ -3348,7 +3348,7 @@
       "11003892203787": {
         "title": "Nike Zoom Skylon 11",
         "handle": "nike-zoom-skylon-11-summit-white-metallic-silver-black",
-        "in_stock": false
+        "in_stock": true
       },
       "11012683989259": {
         "title": "Salomon Neuva Advanced",
@@ -4207,11 +4207,6 @@
         "handle": "billionaire-boys-club-chill-knit-tee-black",
         "in_stock": true
       },
-      "8659941556412": {
-        "title": "Politics Cargo Pant - Black",
-        "handle": "politics-cargo-pant-black",
-        "in_stock": false
-      },
       "8069670895804": {
         "title": "Politics Paisley Tray - Red",
         "handle": "politics-paisley-tray-red",
@@ -5005,6 +5000,11 @@
       "9357561823420": {
         "title": "Nike ReactX Rejuven8 - Volt/Black",
         "handle": "nike-reactx-rejuven8-volt-black",
+        "in_stock": true
+      },
+      "9373353771196": {
+        "title": "Nike Air Max Moto 2K - Grey Fog/Black",
+        "handle": "nike-air-max-moto-2k-grey-fog-black",
         "in_stock": true
       }
     },
@@ -6479,7 +6479,7 @@
       "10579451543818": {
         "title": "Brooks  x AFEW Adrenaline GTS 10 TWAGD",
         "handle": "brooks-adrenaline-gts-10-fig-bridal-rose-fiery-coral",
-        "in_stock": false
+        "in_stock": true
       },
       "10579449676042": {
         "title": "Asics GEL-KAYANO 14",
@@ -6509,12 +6509,12 @@
       "10578995675402": {
         "title": "Nike ACG 'Tuff Fleece'",
         "handle": "nike-acg-summit-white-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10578994462986": {
         "title": "Nike ACG 'Tuff Fleece'",
         "handle": "nike-acg-safety-orange-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10578988859658": {
         "title": "by Parra Circular rain logo cotton shell jacket",
@@ -6629,7 +6629,7 @@
       "10578942787850": {
         "title": "Nike GIANNIS FREAK 8 'Buckitos'",
         "handle": "nike-giannis-freak-8-hyper-pink-hyper-orange-dynamic-yellow",
-        "in_stock": false
+        "in_stock": true
       },
       "10578937381130": {
         "title": "Nike WMNS Moon Shoe OG SP",
@@ -6639,27 +6639,27 @@
       "10578935415050": {
         "title": "Nike ZOOM SKYLON 11",
         "handle": "nike-zoom-skylon-11-summit-white-metallic-silver-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10578932728074": {
         "title": "Nike WMNS Zoom Skylon 11",
         "handle": "nike-wmns-p-6000-white-cacao-wow-metallic-silver",
-        "in_stock": false
+        "in_stock": true
       },
       "10578928730378": {
         "title": "Nike WMNS Zoom Skylon 11",
         "handle": "nike-wmns-zoom-skylon-11-white-metallic-silver-grey-fog",
-        "in_stock": false
+        "in_stock": true
       },
       "10578928337162": {
         "title": "Nike WMNS Zoom Skylon 11",
         "handle": "nike-wmns-zoom-skylon-11-black-black-anthracite",
-        "in_stock": false
+        "in_stock": true
       },
       "10578925715722": {
         "title": "Nike ZOOM SKYLON 11",
         "handle": "nike-zoom-skylon-11-black-black-anthracite",
-        "in_stock": false
+        "in_stock": true
       },
       "10578858934538": {
         "title": "New Balance 204L",
@@ -6814,7 +6814,7 @@
       "10577823662346": {
         "title": "Nike Kobe III Low Protro 'Atomic Pink'",
         "handle": "nike-kobe-low-atomic-pink-bright-crimson",
-        "in_stock": false
+        "in_stock": true
       },
       "10577703993610": {
         "title": "adidas Originals WMNS HANDBALL SPEZIAL",
@@ -6874,47 +6874,47 @@
       "10576860381450": {
         "title": "Nike Air Max TL 2.5 Premium",
         "handle": "nike-air-max-tl-2-5-premium-black-anthracite-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10576859037962": {
         "title": "Nike Air Max TL 2.5 Premium",
         "handle": "nike-air-max-tl-2-5-premium-phantom-lt-orewood-brn-cream-ii",
-        "in_stock": false
+        "in_stock": true
       },
       "10576858251530": {
         "title": "Nike Shox TL",
         "handle": "nike-shox-tl-light-silver-light-silver-newsprint",
-        "in_stock": false
+        "in_stock": true
       },
       "10576858218762": {
         "title": "Nike Air Max Moto 2K",
         "handle": "nike-air-max-moto-2k-geyser-grey-thunder-blue-wolf-grey",
-        "in_stock": false
+        "in_stock": true
       },
       "10576858153226": {
         "title": "Nike Shox TL SE",
         "handle": "nike-shox-tl-se-black-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10576858120458": {
         "title": "Nike Shox TL SE",
         "handle": "nike-shox-tl-se-flat-pewter-flat-pewter-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10576858087690": {
         "title": "Nike Shox TL SE",
         "handle": "nike-shox-tl-se-cacao-wow-cacao-wow-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10576858054922": {
         "title": "Nike WMNS Air Max Moto 2K",
         "handle": "nike-wmns-air-max-moto-2k-off-white-bleached-lilac-metallic-silver",
-        "in_stock": false
+        "in_stock": true
       },
       "10576858022154": {
         "title": "Nike WMNS AIR FORCE 1 '07",
         "handle": "nike-wmns-air-force-1-07-black-metallic-silver-wolf-grey",
-        "in_stock": false
+        "in_stock": true
       },
       "10576641458442": {
         "title": "Hoka One One WMNS TRANSPORT 2",
@@ -6974,7 +6974,7 @@
       "10576337666314": {
         "title": "Nike AIR MAX III",
         "handle": "nike-air-max-iii-lt-iron-ore-sail-pale-ivory-infrared-23",
-        "in_stock": false
+        "in_stock": true
       },
       "10576336158986": {
         "title": "AIR JORDAN 15 SP",
@@ -7219,7 +7219,7 @@
       "10575506735370": {
         "title": "Air Jordan 1 Retro High OG 'Love Letter'",
         "handle": "air-jordan-1-retro-high-og-shadow-brown-team-red-lt-british-tan",
-        "in_stock": false
+        "in_stock": true
       },
       "10574532444426": {
         "title": "Nike Air Liquid Max",
@@ -7484,7 +7484,7 @@
       "10572752224522": {
         "title": "Air Jordan 13 RETRO 'Flint'",
         "handle": "air-jordan-13-retro-navy-university-blue-flint-grey-white1",
-        "in_stock": false
+        "in_stock": true
       },
       "10572748161290": {
         "title": "Nike Wmns Total 90 Shox Magia",
@@ -7682,7 +7682,7 @@
       "9124156178637": {
         "title": "Pharrel Williams Virginia Adistar Jellyfish Sneakers Chalk White / Off White / Bliss",
         "handle": "adidas-footwear-pw-adistar-jellyfis-white-j362347",
-        "in_stock": false
+        "in_stock": true
       },
       "9124156047565": {
         "title": "Zoom Skylon 11 Sneakers Summit White / Black",
@@ -8768,48 +8768,104 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme The Nothing Tee - Black\nhttps://sneakerpolitics.com/products/homme-femme-the-nothing-tee-black",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Asphaltgold: Nike Zoom Skylon 11\nhttps://www.asphaltgold.de/products/nike-zoom-skylon-11-summit-white-metallic-silver-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Arsenal Studded Canvas Shorts - Cream\nhttps://sneakerpolitics.com/products/homme-femme-arsenal-studded-canvas-shorts-cream",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Moto 2K - Grey Fog/Black\nhttps://sneakerpolitics.com/products/nike-air-max-moto-2k-grey-fog-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Arsenal Studded Denim Shorts - Black\nhttps://sneakerpolitics.com/products/homme-femme-arsenal-studded-denim-shorts-black",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Brooks  x AFEW Adrenaline GTS 10 TWAGD\nhttps://www.afew-store.com/products/brooks-adrenaline-gts-10-fig-bridal-rose-fiery-coral",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Outlaw Belt - Black\nhttps://sneakerpolitics.com/products/homme-femme-outlaw-belt-black",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike ACG 'Tuff Fleece'\nhttps://www.afew-store.com/products/nike-acg-summit-white-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Jet Lag Tee - White\nhttps://sneakerpolitics.com/products/homme-femme-jet-lag-tee-white",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike ACG 'Tuff Fleece'\nhttps://www.afew-store.com/products/nike-acg-safety-orange-white",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Maison Crest Denim Shorts - Blue\nhttps://sneakerpolitics.com/products/homme-femme-maison-crest-denim-shorts-blue",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike GIANNIS FREAK 8 'Buckitos'\nhttps://www.afew-store.com/products/nike-giannis-freak-8-hyper-pink-hyper-orange-dynamic-yellow",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Levi's Relaxed L/S Denim Worker Shirt - Washington Stripe III\nhttps://sneakerpolitics.com/products/levis-relaxed-l-s-denim-worker-shirt-washington-stripe-iii",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike ZOOM SKYLON 11\nhttps://www.afew-store.com/products/nike-zoom-skylon-11-summit-white-metallic-silver-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Levi's Relaxed Denim Worker Shirt - Washington Stripe III\nhttps://sneakerpolitics.com/products/levis-relaxed-denim-worker-shirt-washington-stripe-iii",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Skylon 11\nhttps://www.afew-store.com/products/nike-wmns-p-6000-white-cacao-wow-metallic-silver",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Levi's 568 Loose Straight Double Knee Pants - Diving Ducks Distressed\nhttps://sneakerpolitics.com/products/levis-568-loose-straight-double-knee-pants-diving-ducks-distressed",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Skylon 11\nhttps://www.afew-store.com/products/nike-wmns-zoom-skylon-11-white-metallic-silver-grey-fog",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Levi's 568 Loose Straight Double Knee Pants - Duo Fade Periscope/Brindle\nhttps://sneakerpolitics.com/products/levis-568-loose-straight-double-knee-pants-duo-fade-periscope-brindle",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Skylon 11\nhttps://www.afew-store.com/products/nike-wmns-zoom-skylon-11-black-black-anthracite",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Levi's 568 Loose Straight Carpenter Pants - Tiger's Eye\nhttps://sneakerpolitics.com/products/levis-568-loose-strt-carpenter-pants-tigers-eye-canvas",
-      "detected_at": "2026-08-01T04:53:23.123913+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike ZOOM SKYLON 11\nhttps://www.afew-store.com/products/nike-zoom-skylon-11-black-black-anthracite",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Kobe III Low Protro 'Atomic Pink'\nhttps://www.afew-store.com/products/nike-kobe-low-atomic-pink-bright-crimson",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Max TL 2.5 Premium\nhttps://www.afew-store.com/products/nike-air-max-tl-2-5-premium-black-anthracite-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Max TL 2.5 Premium\nhttps://www.afew-store.com/products/nike-air-max-tl-2-5-premium-phantom-lt-orewood-brn-cream-ii",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Shox TL\nhttps://www.afew-store.com/products/nike-shox-tl-light-silver-light-silver-newsprint",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Max Moto 2K\nhttps://www.afew-store.com/products/nike-air-max-moto-2k-geyser-grey-thunder-blue-wolf-grey",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Shox TL SE\nhttps://www.afew-store.com/products/nike-shox-tl-se-black-black-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Shox TL SE\nhttps://www.afew-store.com/products/nike-shox-tl-se-flat-pewter-flat-pewter-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Shox TL SE\nhttps://www.afew-store.com/products/nike-shox-tl-se-cacao-wow-cacao-wow-black",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Air Max Moto 2K\nhttps://www.afew-store.com/products/nike-wmns-air-max-moto-2k-off-white-bleached-lilac-metallic-silver",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS AIR FORCE 1 '07\nhttps://www.afew-store.com/products/nike-wmns-air-force-1-07-black-metallic-silver-wolf-grey",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike AIR MAX III\nhttps://www.afew-store.com/products/nike-air-max-iii-lt-iron-ore-sail-pale-ivory-infrared-23",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan 1 Retro High OG 'Love Letter'\nhttps://www.afew-store.com/products/air-jordan-1-retro-high-og-shadow-brown-team-red-lt-british-tan",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan 13 RETRO 'Flint'\nhttps://www.afew-store.com/products/air-jordan-13-retro-navy-university-blue-flint-grey-white1",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Pharrel Williams Virginia Adistar Jellyfish Sneakers Chalk White / Off White / Bliss\nhttps://www.slamjam.com/products/adidas-footwear-pw-adistar-jellyfis-white-j362347",
+      "detected_at": "2026-08-01T07:28:48.788842+00:00"
     }
   ]
 }
