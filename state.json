@@ -2868,7 +2868,7 @@
       "10781001875723": {
         "title": "Nike Pegasus Premium",
         "handle": "nike-pegasus-premium-sp-volt-black-volkt-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10744418304267": {
         "title": "Adidas Samba OG W",
@@ -2928,7 +2928,7 @@
       "10792213414155": {
         "title": "Autry Dallas Low W *Sparkling*",
         "handle": "autry-dallas-low-w-sparkling-silver-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10754320433419": {
         "title": "Autry Hyperway  *Suede / Mesh*",
@@ -3503,7 +3503,7 @@
       "10725788582155": {
         "title": "Metalwood Seersucker Fishing Shirt",
         "handle": "metalwood-seersucker-fishing-shirt-sky",
-        "in_stock": true
+        "in_stock": false
       },
       "10721326891275": {
         "title": "Nike\tACG *Death Bloom* Vest",
@@ -3673,7 +3673,7 @@
       "10749038297355": {
         "title": "Farah Japan Baseball Cap",
         "handle": "farah-japan-baseball-cap-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "10746805780747": {
         "title": "thisisneverthat DSN Oxford Shirt",
@@ -4592,11 +4592,6 @@
         "handle": "jason-markk-premium-shoe-cleaner-essential-kit",
         "in_stock": true
       },
-      "9413556568252": {
-        "title": "New Era x Diet Starts Monday Los Angeles Dodgers 19TWENTY Hat - Royal",
-        "handle": "new-era-x-diet-starts-monday-los-angeles-dodgers-19twenty-hat-royal",
-        "in_stock": false
-      },
       "9413552210108": {
         "title": "New Era x Diet Starts Monday Boston Red Sox 19TWENTY Hat - Navy",
         "handle": "new-era-x-diet-starts-monday-boston-red-sox-19twenty-hat-navy",
@@ -5005,6 +5000,11 @@
       "9365200863420": {
         "title": "Asics Gel-Kayano 12.1 - Edamame Green/Black",
         "handle": "asics-gel-kayano-12-1-edamame-green-black",
+        "in_stock": true
+      },
+      "9365192671420": {
+        "title": "Asics Gel-Kayano 12.1 - Dragon Fruit/Black",
+        "handle": "asics-gel-kayano-12-1-dragon-fruit-black",
         "in_stock": true
       }
     },
@@ -8768,16 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Grid Legacy - Silver/Pine\nhttps://sneakerpolitics.com/products/saucony-grid-legacy-silver-pine",
-      "detected_at": "2026-08-01T09:32:58.855097+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 - Edamame Green/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-edamame-green-black",
-      "detected_at": "2026-08-01T09:32:58.855097+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Inner Logo Socks White / Fluo Blue\nhttps://www.slamjam.com/products/mental-athletic-clothing-mental-athletic-socks-white-j338091",
-      "detected_at": "2026-08-01T09:32:58.855097+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 - Dragon Fruit/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-dragon-fruit-black",
+      "detected_at": "2026-08-01T11:05:24.793454+00:00"
     }
   ]
 }
