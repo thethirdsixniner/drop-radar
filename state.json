@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286623662208": {
+        "title": "Nike WMNS Moon Shoe - Sail / Chlorophyll",
+        "handle": "nkii0407-102",
+        "in_stock": true
+      },
       "8286623268992": {
         "title": "Saucony TD Omni 9 KDZ - Black / Salmon",
         "handle": "sausl226x28",
@@ -1245,27 +1250,62 @@
         "title": "Port Tanger Ihya Acetate Sunglasses - Black",
         "handle": "pt-9301",
         "in_stock": true
-      },
-      "8286608785536": {
-        "title": "Port Tanger Gambia Sunglasses - Myrrh / Olive",
-        "handle": "pt-6503",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702661828869": {
+        "title": "NIKE AIR MAX2 CB '94 - BLACK/ VARSITY ROYAL",
+        "handle": "nike-air-max2-cb-94-black-varsity-royal",
+        "in_stock": false
+      },
+      "6702673559813": {
+        "title": "NIKE AIR MAX JOGA BONITA - BLACK/ NEON YELLOW",
+        "handle": "nike-air-max-joga-bonita-black-neon-yellow",
+        "in_stock": true
+      },
+      "6702639776005": {
+        "title": "JORDAN AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY/ WHITE",
+        "handle": "jordan-aj-13-retro-navy-university-blue-flint-grey-white",
+        "in_stock": true
+      },
+      "6702647836933": {
+        "title": "JORDAN GS AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY",
+        "handle": "jordan-gs-aj-13-retro-navy-university-blue-flint-grey",
+        "in_stock": true
+      },
+      "6702639677701": {
+        "title": "JORDAN PS AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY",
+        "handle": "jordan-ps-aj-13-retro-navy-university-blue-flint-grey",
+        "in_stock": true
+      },
+      "6702654882053": {
+        "title": "NIKE WMNS ZOOM STREAK 3 - CREAM II / SAIL",
+        "handle": "nike-wmns-zoom-streak-3-cream-ii-sail",
+        "in_stock": true
+      },
+      "6702673494277": {
+        "title": "NIKE AIR FORCE 1 LOW PROTRO - VAST GREY/ ELECTRIC GREEN",
+        "handle": "nike-air-force-1-low-protro-vast-grey-electric-green",
+        "in_stock": true
+      },
+      "6702639644933": {
+        "title": "JORDAN TD AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY",
+        "handle": "jordan-td-aj-13-retro-navy-university-blue-flint-grey",
+        "in_stock": true
+      },
+      "6702666940677": {
+        "title": "NIKE SB DUNK LOW PRO - SAFFRON QUARTZ",
+        "handle": "nike-sb-dunk-low-pro-saffron-quartz",
+        "in_stock": true
+      },
+      "6702673625349": {
+        "title": "JORDAN AJ 1 RETRO HIGH OG 'LOVE LETTER' - SHADOW BROWN",
+        "handle": "jordan-aj-1-retro-high-og-love-letter-shadow-brown",
+        "in_stock": true
+      },
       "6702673756421": {
         "title": "SALOMON XT-6 GTX - WHPEP/ SILVES",
         "handle": "salomon-xt-6-gtx-whpep-silves",
-        "in_stock": true
-      },
-      "6702674739461": {
-        "title": "SALOMON XT-4 OG GTX - BLACK",
-        "handle": "salomon-xt-4-og-gtx-black-1",
-        "in_stock": true
-      },
-      "6702673723653": {
-        "title": "SALOMON XT-6 - BLACK COFFEE/ BURRO",
-        "handle": "salomon-xt-6-black-coffee-burro",
         "in_stock": true
       },
       "6702673690885": {
@@ -1273,14 +1313,14 @@
         "handle": "salomon-xt-6-alloy-black",
         "in_stock": true
       },
-      "6702673821957": {
-        "title": "ASICS GEL-CUMULUS 16 - GRAPHITE GREY/ BLACK",
-        "handle": "asics-gel-cumulus-16-graphite-grey-black",
+      "6702673723653": {
+        "title": "SALOMON XT-6 - BLACK COFFEE/ BURRO",
+        "handle": "salomon-xt-6-black-coffee-burro",
         "in_stock": true
       },
-      "6702673592581": {
-        "title": "ASICS X LTTT GEL-RESOLUTION 5 - WHITE/ RED",
-        "handle": "asics-x-lttt-gel-resolution-5-white-red",
+      "6702674739461": {
+        "title": "SALOMON XT-4 OG GTX - BLACK",
+        "handle": "salomon-xt-4-og-gtx-black-1",
         "in_stock": true
       },
       "6702673527045": {
@@ -1288,9 +1328,24 @@
         "handle": "asics-x-lttt-gel-resolution-5-parrot-green-pure-silver",
         "in_stock": false
       },
+      "6702673592581": {
+        "title": "ASICS X LTTT GEL-RESOLUTION 5 - WHITE/ RED",
+        "handle": "asics-x-lttt-gel-resolution-5-white-red",
+        "in_stock": true
+      },
+      "6702673821957": {
+        "title": "ASICS GEL-CUMULUS 16 - GRAPHITE GREY/ BLACK",
+        "handle": "asics-gel-cumulus-16-graphite-grey-black",
+        "in_stock": true
+      },
       "6702673789189": {
         "title": "NEW BALANCE 204L - QUICKSAND",
         "handle": "new-balance-204l-quicksand",
+        "in_stock": true
+      },
+      "6702673854725": {
+        "title": "NEW BALANCE 204 - MAGNET",
+        "handle": "new-balance-204-magnet",
         "in_stock": true
       },
       "6702668054789": {
@@ -2447,61 +2502,6 @@
         "title": "UNDEFEATED X MEDICOM UMAN KEYCHAIN - GOLD",
         "handle": "undefeated-x-medicom-uman-keychain-gold",
         "in_stock": true
-      },
-      "6702089044229": {
-        "title": "UNDEFEATED X BURTON M4 GOGGLES - TAN",
-        "handle": "undefeated-x-burton-m4-goggles-tan",
-        "in_stock": true
-      },
-      "6662700302597": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - BLACKIRIS/ PARCHMENT",
-        "handle": "converse-x-undefeated-chuck-70-mid-blackiris-parchment",
-        "in_stock": true
-      },
-      "6662700368133": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - CHIVE/ PARCHMENT",
-        "handle": "converse-x-undefeated-chuck-70-mid-chive-parchment",
-        "in_stock": true
-      },
-      "6681399689477": {
-        "title": "UNDEFEATED X CONVERSE CHUCK 70 MID- BLACK/ NATURALIVORY",
-        "handle": "undefeated-x-converse-chuck-70-mid-black-naturalivory",
-        "in_stock": true
-      },
-      "6671298461957": {
-        "title": "UNDEFEATED X NIKE AIR FORCE 1 LOW SP - SMOKEGREY/ GOLD/ MULTI",
-        "handle": "undefeated-x-nike-air-force-1-low-sp-smokegrey-gold-multi",
-        "in_stock": true
-      },
-      "6683907686661": {
-        "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CASTLE",
-        "handle": "undefeated-x-converse-weapon-mid-vintagewhite-castle",
-        "in_stock": true
-      },
-      "6683770421509": {
-        "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CHIVE",
-        "handle": "undefeated-x-converse-weapon-mid-vintagewhite-chive",
-        "in_stock": true
-      },
-      "4621997834313": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 HI - BLACK/ IMPERIALBLUE",
-        "handle": "converse-x-undefeated-chuck-70-hi-black-imperialblue",
-        "in_stock": true
-      },
-      "6610752307273": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET",
-        "handle": "converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
-        "in_stock": true
-      },
-      "6610752372809": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET",
-        "handle": "converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
-        "in_stock": true
-      },
-      "6673204510981": {
-        "title": "BAPE X UNDEFEATED COLOR CAMO FLANNEL JACKET - NAVY",
-        "handle": "bape-x-undefeated-color-camo-flannel-jacket-navy",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2558,7 +2558,7 @@
       "10694628671755": {
         "title": "Nike Air Zoom Pegasus 41 SP",
         "handle": "nike-air-zoom-pegasus-41-sp-summit-white-black-college-grey-sail",
-        "in_stock": true
+        "in_stock": false
       },
       "10121735373067": {
         "title": "Adidas Taekwondo W",
@@ -2993,7 +2993,7 @@
       "10125341786379": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-tactical-blue-ice-lavander-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10122506371339": {
         "title": "Adidas SL 72 OG W",
@@ -3942,11 +3942,6 @@
         "handle": "fear-of-god-essentials-ponte-90s-tee-ivory",
         "in_stock": true
       },
-      "9356500566204": {
-        "title": "Nike Air Zoom Flight 'The Glove' - Black/White",
-        "handle": "nike-air-zoom-flight-the-glove-black-white",
-        "in_stock": false
-      },
       "8989410525372": {
         "title": "Malbon Golf Smitty Beanie - Navy/White",
         "handle": "malbon-golf-smitty-beanie-navy-white",
@@ -4386,11 +4381,6 @@
         "title": "Fear Of God Essentials Training Classic Fit Shorts - Faded Dune",
         "handle": "fear-of-god-essentials-training-classic-fit-shorts-faded-dune",
         "in_stock": true
-      },
-      "9279426953404": {
-        "title": "Lifted Anchors Blue Diamond Snapback - Blue/Black",
-        "handle": "lifted-anchors-blue-diamond-snapback-blue-black",
-        "in_stock": false
       },
       "9272767807676": {
         "title": "Women's Fear Of God Essentials Campus Classic Tee - Faded Black",
@@ -5005,6 +4995,16 @@
       "9343092064444": {
         "title": "Jordan Brooklyn Realtree Pants - White/Bright Citron",
         "handle": "jordan-brooklyn-pants-white-bright-citron",
+        "in_stock": true
+      },
+      "9343085969596": {
+        "title": "Jordan Brooklyn Realtree Tee - Black",
+        "handle": "jordan-brooklyn-realtree-tee-black",
+        "in_stock": true
+      },
+      "9343081611452": {
+        "title": "Jordan Brooklyn Oversized Fleece Full Zip Hoodie - Black/Dark Smoke Grey",
+        "handle": "jordan-brooklyn-oversized-fleece-full-zip-hoodie-black-dark-smoke-grey",
         "in_stock": true
       }
     },
@@ -8768,68 +8768,56 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: New Balance Gator Run - Cider/Amber Haze\nhttps://sneakerpolitics.com/products/new-balance-gator-run-cider-amber-haze",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Kith: Nike WMNS Moon Shoe - Sail / Chlorophyll\nhttps://kith.com/products/nkii0407-102",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Zoom Streak 3 - Cream II/Sail\nhttps://sneakerpolitics.com/products/womens-nike-zoom-streak-3-cream-ii-sail",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR MAX JOGA BONITA - BLACK/ NEON YELLOW\nhttps://undefeated.com/products/nike-air-max-joga-bonita-black-neon-yellow",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: New Balance Made in UK 991v2 - Wind Chime/Brilliant White\nhttps://sneakerpolitics.com/products/new-balance-made-in-uk-991v2-wind-chime-brilliant-white",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY/ WHITE\nhttps://undefeated.com/products/jordan-aj-13-retro-navy-university-blue-flint-grey-white",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Retro High OG 'Love Letter' (GS) - Shadow Brown/Team Red\nhttps://sneakerpolitics.com/products/air-jordan-1-retro-high-og-love-letter-gs-shadow-brown-team-red",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY\nhttps://undefeated.com/products/jordan-gs-aj-13-retro-navy-university-blue-flint-grey",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Retro High OG 'Love Letter' - Shadow Brown/Team Red\nhttps://sneakerpolitics.com/products/air-jordan-1-retro-high-og-love-letter-shadow-brown-team-red",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN PS AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY\nhttps://undefeated.com/products/jordan-ps-aj-13-retro-navy-university-blue-flint-grey",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max2 CB '94 - Black/Varsity Royal\nhttps://sneakerpolitics.com/products/nike-air-max2-cb-94-black-varsity-royal",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE WMNS ZOOM STREAK 3 - CREAM II / SAIL\nhttps://undefeated.com/products/nike-wmns-zoom-streak-3-cream-ii-sail",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Baltoro SP - Baroque Brown/Midnight Green\nhttps://sneakerpolitics.com/products/nike-air-baltoro-sp-baroque-brown-midnight-green",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 LOW PROTRO - VAST GREY/ ELECTRIC GREEN\nhttps://undefeated.com/products/nike-air-force-1-low-protro-vast-grey-electric-green",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Baltoro SP - Black/Metallic Gold\nhttps://sneakerpolitics.com/products/nike-air-baltoro-sp-black-metallic-gold",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN TD AJ 13 RETRO - NAVY/ UNIVERSITY BLUE/ FLINT GREY\nhttps://undefeated.com/products/jordan-td-aj-13-retro-navy-university-blue-flint-grey",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 13 Retro 'Flint' (TD) - Navy/University Blue\nhttps://sneakerpolitics.com/products/jordan-13-retro-flint-td-navy-university-blue",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE SB DUNK LOW PRO - SAFFRON QUARTZ\nhttps://undefeated.com/products/nike-sb-dunk-low-pro-saffron-quartz",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 13 Retro 'Flint' (PS) - Navy/University Blue\nhttps://sneakerpolitics.com/products/jordan-13-retro-flint-ps-navy-university-blue",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 1 RETRO HIGH OG 'LOVE LETTER' - SHADOW BROWN\nhttps://undefeated.com/products/jordan-aj-1-retro-high-og-love-letter-shadow-brown",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 13 Retro 'Flint' (GS) - Navy/University Blue\nhttps://sneakerpolitics.com/products/air-jordan-13-retro-flint-gs-navy-university-blue",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Undefeated: NEW BALANCE 204 - MAGNET\nhttps://undefeated.com/products/new-balance-204-magnet",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 13 Retro 'Flint' - Navy/University Blue\nhttps://sneakerpolitics.com/products/air-jordan-13-retro-flint-navy-university-blue",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Brooklyn Realtree Tee - Black\nhttps://sneakerpolitics.com/products/jordan-brooklyn-realtree-tee-black",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Joga Bonito 'Neon' - Black/Neon Yellow\nhttps://sneakerpolitics.com/products/nike-air-max-joga-bonito-neon-black-neon-yellow",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Retro High OG 'Love Letter' (TD) - Shadow Brown/Team Red\nhttps://sneakerpolitics.com/products/jordan-1-retro-high-og-love-letter-td-shadow-brown-team-red",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Retro High OG 'Love Letter' (PS) - Shadow Brown/Team Red\nhttps://sneakerpolitics.com/products/jordan-1-retro-high-og-love-letter-ps-shadow-brown-team-red",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Kobe Bryant x Nike Air Force 1 Low - Vast Grey/Electric Green\nhttps://sneakerpolitics.com/products/kobe-bryant-x-nike-air-force-1-low-vast-grey-electric-green",
-      "detected_at": "2026-08-01T13:59:05.170416+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Brooklyn Oversized Fleece Full Zip Hoodie - Black/Dark Smoke Grey\nhttps://sneakerpolitics.com/products/jordan-brooklyn-oversized-fleece-full-zip-hoodie-black-dark-smoke-grey",
+      "detected_at": "2026-08-01T15:10:27.764485+00:00"
     }
   ]
 }
