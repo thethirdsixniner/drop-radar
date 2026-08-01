@@ -2678,7 +2678,7 @@
       "8466385142027": {
         "title": "47 MLB New York Yankees *Clean Up* Cap w/ No Loop Label",
         "handle": "47-mlb-new-york-yankees-clean-up-cap-w-no-loop-label-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "10992896213259": {
         "title": "Nike\tACG *Tuff Fleece* Dri-Fit Crew-Neck Sweatshirt",
@@ -3028,7 +3028,7 @@
       "10150387712267": {
         "title": "Adidas Gazelle W",
         "handle": "adidas-gazelle-w-green-semi-flash-aqua-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10218823024907": {
         "title": "Birkenstock Boston",
@@ -8766,14 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Undefeated: ASICS X LTTT GEL-RESOLUTION 5 - PARROT GREEN/ PURE SILVER\nhttps://undefeated.com/products/asics-x-lttt-gel-resolution-5-parrot-green-pure-silver-1",
-      "detected_at": "2026-08-01T18:29:49.210942+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan Flight Fleece Oversized Hoodie - Black\nhttps://sneakerpolitics.com/products/jordan-flight-fleece-pullover-black",
-      "detected_at": "2026-08-01T18:29:49.210942+00:00"
-    }
-  ]
+  "pending_free": []
 }
