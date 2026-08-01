@@ -2843,7 +2843,7 @@
       "10860086493451": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gelnyc-obsidian-grey-obsidian-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10859899879691": {
         "title": "Saucony Pro Grid Omni 9",
@@ -3023,7 +3023,7 @@
       "8470307701003": {
         "title": "New Balance BB550PWT",
         "handle": "new-balance-bb550pwt-sea-salt",
-        "in_stock": true
+        "in_stock": false
       },
       "7169211400356": {
         "title": "Salomon XT-6",
@@ -4237,11 +4237,6 @@
         "handle": "vans-lx-authentic-44-diamond-check-blackout",
         "in_stock": true
       },
-      "9072878059708": {
-        "title": "Timberland Premium 6\" Lace Up Waterproof Boot - Dark Red",
-        "handle": "timberland-premium-6-lace-up-waterproof-boot-dark-red",
-        "in_stock": false
-      },
       "9051544715452": {
         "title": "Nike ReactX Rejuven8 - Blue Void/Indigo Burst",
         "handle": "nike-reactx-rejuven8-blue-void-indigo-burst",
@@ -4321,11 +4316,6 @@
         "title": "Women's Fear Of God Essentials Campus Classic Tee - Faded Black",
         "handle": "womens-fear-of-god-essentials-campus-classic-tee-faded-black",
         "in_stock": true
-      },
-      "9149364437180": {
-        "title": "Godspeed New York Vandal Thermal L/S Tee - Grey Wash",
-        "handle": "godspeed-new-york-vandal-thermal-l-s-tee-grey-wash",
-        "in_stock": false
       },
       "9145352421564": {
         "title": "Anti Social Social Club Distressed Tee - Black",
@@ -5005,6 +4995,16 @@
       "9373353771196": {
         "title": "Nike Air Max Moto 2K - Grey Fog/Black",
         "handle": "nike-air-max-moto-2k-grey-fog-black",
+        "in_stock": true
+      },
+      "9103557591228": {
+        "title": "Saucony Grid Legacy - Silver/Pine",
+        "handle": "saucony-grid-legacy-silver-pine",
+        "in_stock": true
+      },
+      "9365200863420": {
+        "title": "Asics Gel-Kayano 12.1 - Edamame Green/Black",
+        "handle": "asics-gel-kayano-12-1-edamame-green-black",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,11 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9095312703693": {
+        "title": "Inner Logo Socks White / Fluo Blue",
+        "handle": "mental-athletic-clothing-mental-athletic-socks-white-j338091",
+        "in_stock": true
+      },
       "9124316446925": {
         "title": "FBT Type G Reservation Sneakers White",
         "handle": "visvim-fbt-type-g-reservation-sneakers-w100sne0198",
@@ -7682,7 +7687,7 @@
       "9124156178637": {
         "title": "Pharrel Williams Virginia Adistar Jellyfish Sneakers Chalk White / Off White / Bliss",
         "handle": "adidas-footwear-pw-adistar-jellyfis-white-j362347",
-        "in_stock": true
+        "in_stock": false
       },
       "9124156047565": {
         "title": "Zoom Skylon 11 Sneakers Summit White / Black",
@@ -8758,114 +8763,21 @@
         "title": "Women's Speedcat Ballet Dress-Up Sneakers Matte Bronze",
         "handle": "puma-footwear-wmns-speedcat-ballet-dress-up-wns-brown-j363768",
         "in_stock": true
-      },
-      "9122711961805": {
-        "title": "Oklou Tracks Headphones Grey / Light Blue",
-        "handle": "aiaiai-lifestyle-tracks-usb-c-oklou-edition-grey-j367550",
-        "in_stock": false
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Nike Zoom Skylon 11\nhttps://www.asphaltgold.de/products/nike-zoom-skylon-11-summit-white-metallic-silver-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Saucony Grid Legacy - Silver/Pine\nhttps://sneakerpolitics.com/products/saucony-grid-legacy-silver-pine",
+      "detected_at": "2026-08-01T09:32:58.855097+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Moto 2K - Grey Fog/Black\nhttps://sneakerpolitics.com/products/nike-air-max-moto-2k-grey-fog-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 12.1 - Edamame Green/Black\nhttps://sneakerpolitics.com/products/asics-gel-kayano-12-1-edamame-green-black",
+      "detected_at": "2026-08-01T09:32:58.855097+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Brooks  x AFEW Adrenaline GTS 10 TWAGD\nhttps://www.afew-store.com/products/brooks-adrenaline-gts-10-fig-bridal-rose-fiery-coral",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike ACG 'Tuff Fleece'\nhttps://www.afew-store.com/products/nike-acg-summit-white-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike ACG 'Tuff Fleece'\nhttps://www.afew-store.com/products/nike-acg-safety-orange-white",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike GIANNIS FREAK 8 'Buckitos'\nhttps://www.afew-store.com/products/nike-giannis-freak-8-hyper-pink-hyper-orange-dynamic-yellow",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike ZOOM SKYLON 11\nhttps://www.afew-store.com/products/nike-zoom-skylon-11-summit-white-metallic-silver-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Skylon 11\nhttps://www.afew-store.com/products/nike-wmns-p-6000-white-cacao-wow-metallic-silver",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Skylon 11\nhttps://www.afew-store.com/products/nike-wmns-zoom-skylon-11-white-metallic-silver-grey-fog",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Skylon 11\nhttps://www.afew-store.com/products/nike-wmns-zoom-skylon-11-black-black-anthracite",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike ZOOM SKYLON 11\nhttps://www.afew-store.com/products/nike-zoom-skylon-11-black-black-anthracite",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Kobe III Low Protro 'Atomic Pink'\nhttps://www.afew-store.com/products/nike-kobe-low-atomic-pink-bright-crimson",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Air Max TL 2.5 Premium\nhttps://www.afew-store.com/products/nike-air-max-tl-2-5-premium-black-anthracite-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Air Max TL 2.5 Premium\nhttps://www.afew-store.com/products/nike-air-max-tl-2-5-premium-phantom-lt-orewood-brn-cream-ii",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Shox TL\nhttps://www.afew-store.com/products/nike-shox-tl-light-silver-light-silver-newsprint",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Air Max Moto 2K\nhttps://www.afew-store.com/products/nike-air-max-moto-2k-geyser-grey-thunder-blue-wolf-grey",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Shox TL SE\nhttps://www.afew-store.com/products/nike-shox-tl-se-black-black-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Shox TL SE\nhttps://www.afew-store.com/products/nike-shox-tl-se-flat-pewter-flat-pewter-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Shox TL SE\nhttps://www.afew-store.com/products/nike-shox-tl-se-cacao-wow-cacao-wow-black",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS Air Max Moto 2K\nhttps://www.afew-store.com/products/nike-wmns-air-max-moto-2k-off-white-bleached-lilac-metallic-silver",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS AIR FORCE 1 '07\nhttps://www.afew-store.com/products/nike-wmns-air-force-1-07-black-metallic-silver-wolf-grey",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike AIR MAX III\nhttps://www.afew-store.com/products/nike-air-max-iii-lt-iron-ore-sail-pale-ivory-infrared-23",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Air Jordan 1 Retro High OG 'Love Letter'\nhttps://www.afew-store.com/products/air-jordan-1-retro-high-og-shadow-brown-team-red-lt-british-tan",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Air Jordan 13 RETRO 'Flint'\nhttps://www.afew-store.com/products/air-jordan-13-retro-navy-university-blue-flint-grey-white1",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Pharrel Williams Virginia Adistar Jellyfish Sneakers Chalk White / Off White / Bliss\nhttps://www.slamjam.com/products/adidas-footwear-pw-adistar-jellyfis-white-j362347",
-      "detected_at": "2026-08-01T07:28:48.788842+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Inner Logo Socks White / Fluo Blue\nhttps://www.slamjam.com/products/mental-athletic-clothing-mental-athletic-socks-white-j338091",
+      "detected_at": "2026-08-01T09:32:58.855097+00:00"
     }
   ]
 }
