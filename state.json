@@ -2555,11 +2555,6 @@
         "handle": "dr-martens-lowell-olive-green",
         "in_stock": false
       },
-      "10121735373067": {
-        "title": "Adidas Taekwondo W",
-        "handle": "adidas-taekwondo-w-earth-strata-cream-white-gum",
-        "in_stock": false
-      },
       "10534211584267": {
         "title": "Adidas ZPONGE Flux",
         "handle": "adidas-zponge-flux-carbon-iron-metallic-core-black",
@@ -2649,11 +2644,6 @@
         "title": "Puma x ROSÉ Dad Cap",
         "handle": "puma-x-ros-dad-cap-puma-black",
         "in_stock": true
-      },
-      "8993700380939": {
-        "title": "Polo Ralph Lauren Cotton Chino Baseball Cap",
-        "handle": "polo-ralph-lauren-cotton-chino-baseball-cap-canopy-olive",
-        "in_stock": false
       },
       "8466417910027": {
         "title": "47 MLB Los Angeles Dodgers *Base Runner* Cap",
@@ -2945,11 +2935,6 @@
         "handle": "adidas-sl-72-og-w-off-white-semi-flash-aqua-glow-blue",
         "in_stock": true
       },
-      "9779272810763": {
-        "title": "New Balance 574",
-        "handle": "new-balance-u574rus-black",
-        "in_stock": false
-      },
       "7436146278564": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-black-black-phantom",
@@ -2980,11 +2965,6 @@
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-mustard",
         "in_stock": true
       },
-      "8285570662667": {
-        "title": "Autry Medalist W",
-        "handle": "autry-medalist-w-white-brown",
-        "in_stock": false
-      },
       "10537644917003": {
         "title": "Autry Hyperway W *Suede / Mesh*",
         "handle": "autry-hyperway-w-suede-mesh-cigar-silver",
@@ -2994,16 +2974,6 @@
         "title": "Perplex Butter Shorts",
         "handle": "perplex-butter-shorts-butter-yellow",
         "in_stock": true
-      },
-      "9746461163787": {
-        "title": "Sefr Jiro Trouser",
-        "handle": "sefr-jiro-trouser-sludge-wool",
-        "in_stock": false
-      },
-      "8876376424715": {
-        "title": "Museum of Peace & Quiet Wreath Mohair Sweater",
-        "handle": "museum-of-peace-quiet-wreath-mohair-sweater-navy",
-        "in_stock": false
       },
       "8817311875339": {
         "title": "Nike Wool Classic Hoodie",
@@ -3205,11 +3175,6 @@
         "handle": "the-north-face-range-down-jacket-new-taupe-green",
         "in_stock": true
       },
-      "8888872567051": {
-        "title": "ERL Silk Swirl Knit Hoodie",
-        "handle": "silk-swirl-knit-hoodie-blue",
-        "in_stock": false
-      },
       "10666871128331": {
         "title": "HAY Colour Crate Small",
         "handle": "hay-colour-crate-small-soft-blue",
@@ -3224,16 +3189,6 @@
         "title": "Crocs Barbie Retro Jibbitz 5-Pack",
         "handle": "crocs-barbie-retro-jibbitz-5pack-multicolor",
         "in_stock": true
-      },
-      "10174424318219": {
-        "title": "Metalwood Ballon Shirt",
-        "handle": "metalwood-ballon-shirt-robin",
-        "in_stock": true
-      },
-      "8466315739403": {
-        "title": "47 MLB Los Angeles Dodgers *Base Runner* Cap",
-        "handle": "47-mlb-los-angeles-dodgers-base-runner-cap-royal",
-        "in_stock": false
       },
       "11012704141579": {
         "title": "Sporty & Rich Jadore Hat",
@@ -3455,11 +3410,6 @@
         "handle": "autry-medalist-w-white-green",
         "in_stock": true
       },
-      "10167574495499": {
-        "title": "Adidas x Wales Bonner Terry Polo",
-        "handle": "adidas-x-wales-bonner-terry-polo-collegiate-burgundy",
-        "in_stock": false
-      },
       "10659722887435": {
         "title": "Adidas Airdrome Shield Pants",
         "handle": "adidas-airdrome-shield-pants-tech-mineral",
@@ -3598,7 +3548,7 @@
       "10661940658443": {
         "title": "Birkenstock London Shearling",
         "handle": "birkenstock-london-shearling-taupe",
-        "in_stock": true
+        "in_stock": false
       },
       "9004808667403": {
         "title": "Asphaltgold Tank Top 2-Pack",
@@ -3639,11 +3589,6 @@
         "title": "47 New York Yankees Washed Chain Stitch *Hitch* Cap",
         "handle": "47-new-york-yankees-washed-chain-stitch-hitch-cap-navy",
         "in_stock": true
-      },
-      "8466418008331": {
-        "title": "47 MLB New York Yankees *Base Runner* Cap",
-        "handle": "47-mlb-new-york-yankees-base-runner-cap-black",
-        "in_stock": false
       },
       "8457130639627": {
         "title": "Tekla Pyjamas Shorts",
@@ -3753,6 +3698,61 @@
       "11007998558475": {
         "title": "Adidas\tEquipment Essentials Longsleeve Tee",
         "handle": "adidasequipment-essentials-longsleeve-tee-black",
+        "in_stock": true
+      },
+      "11010009628939": {
+        "title": "Adidas Y-3 x CHITO Graphic Cali Tee",
+        "handle": "adidas-y3-x-chito-graphic-cali-tee-chalk-white",
+        "in_stock": true
+      },
+      "11010006876427": {
+        "title": "Adidas Y-3 x CHITO City Graphic Tee",
+        "handle": "adidas-y3-x-chito-city-graphic-tee-black",
+        "in_stock": true
+      },
+      "11007982403851": {
+        "title": "Adidas Powerphase",
+        "handle": "adidas-powerphase-footwear-white-night-indigo-chalk-white",
+        "in_stock": true
+      },
+      "10856366899467": {
+        "title": "Lacoste *Lacoste on Tennis* T-Shirt",
+        "handle": "lacoste-lacoste-on-tennis-tshirt-white",
+        "in_stock": true
+      },
+      "10725816795403": {
+        "title": "Adidas Italia 60s *Made in Italy*",
+        "handle": "adidas-italia-60s-made-in-italy-cardboard-brown-desert-cream-white",
+        "in_stock": true
+      },
+      "10795610112267": {
+        "title": "Carhartt WIP Brady Pant",
+        "handle": "carhartt-wip-brady-pant-black-rinsed",
+        "in_stock": true
+      },
+      "10810542555403": {
+        "title": "Our Legacy Belt 2 CM",
+        "handle": "our-legacy-belt-2-cm-shadow-berry-leather",
+        "in_stock": true
+      },
+      "10715387134219": {
+        "title": "Autry Reelwind Low W *Ripstop / Suede*",
+        "handle": "autry-reelwind-low-w-ripstop-suede-creolepink",
+        "in_stock": true
+      },
+      "10540029935883": {
+        "title": "Autry Reelwind Low W *Suede / Net*",
+        "handle": "autry-reelwind-low-w-suede-net-ecru-blue",
+        "in_stock": true
+      },
+      "10649900810507": {
+        "title": "Adidas Woven Firebird Track Pants",
+        "handle": "adidas-woven-firebird-track-pants-cardboard-black",
+        "in_stock": true
+      },
+      "10732460835083": {
+        "title": "Pas Normal Studios Balance Shorts *No Distance Left To Run*",
+        "handle": "pas-normal-studios-balance-shorts-no-distance-left-to-run-medium-grey",
         "in_stock": true
       }
     },
@@ -4412,11 +4412,6 @@
         "handle": "rhude-pit-stop-tee-vintage-black-red",
         "in_stock": true
       },
-      "9095587168444": {
-        "title": "Billionaire Boys Club Curve Tee - Cypress",
-        "handle": "billionaire-boys-club-curve-tee-cypress",
-        "in_stock": false
-      },
       "9094195052732": {
         "title": "Market x Grateful Dead Tie Dye Tee - White/Blue",
         "handle": "market-x-grateful-dead-tie-dye-tee-white-blue",
@@ -5005,6 +5000,11 @@
       "9343060181180": {
         "title": "Jordan Flight Essentials Pocket Tee - Light British Tan/Shadow Brown",
         "handle": "jordan-flight-essentials-pocket-tee-light-british-tan-shadow-brown",
+        "in_stock": true
+      },
+      "9343054774460": {
+        "title": "Jordan Flight Essentials Pocket Tee - Black/University Red",
+        "handle": "jordan-flight-essentials-pocket-tee-black-university-red",
         "in_stock": true
       }
     },
@@ -7284,12 +7284,12 @@
       "10573855064330": {
         "title": "adidas Originals ZX 8000",
         "handle": "adidas-originals-zx-8000-gretwo-purple-sefrle",
-        "in_stock": false
+        "in_stock": true
       },
       "10573854310666": {
         "title": "adidas Originals ZX 8000",
         "handle": "adidas-originals-zx-8000-purple-fropur-pulmin",
-        "in_stock": false
+        "in_stock": true
       },
       "10573847200010": {
         "title": "Nike WMNS FIRST SIGHT SHADOW SP",
@@ -8766,5 +8766,62 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Y-3 x CHITO Graphic Cali Tee\nhttps://www.asphaltgold.de/products/adidas-y3-x-chito-graphic-cali-tee-chalk-white",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Y-3 x CHITO City Graphic Tee\nhttps://www.asphaltgold.de/products/adidas-y3-x-chito-city-graphic-tee-black",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Powerphase\nhttps://www.asphaltgold.de/products/adidas-powerphase-footwear-white-night-indigo-chalk-white",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Lacoste *Lacoste on Tennis* T-Shirt\nhttps://www.asphaltgold.de/products/lacoste-lacoste-on-tennis-tshirt-white",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Italia 60s *Made in Italy*\nhttps://www.asphaltgold.de/products/adidas-italia-60s-made-in-italy-cardboard-brown-desert-cream-white",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Brady Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-brady-pant-black-rinsed",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Belt 2 CM\nhttps://www.asphaltgold.de/products/our-legacy-belt-2-cm-shadow-berry-leather",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Ripstop / Suede*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-ripstop-suede-creolepink",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-suede-net-ecru-blue",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Woven Firebird Track Pants\nhttps://www.asphaltgold.de/products/adidas-woven-firebird-track-pants-cardboard-black",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Balance Shorts *No Distance Left To Run*\nhttps://www.asphaltgold.de/products/pas-normal-studios-balance-shorts-no-distance-left-to-run-medium-grey",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Flight Essentials Pocket Tee - Black/University Red\nhttps://sneakerpolitics.com/products/jordan-flight-essentials-pocket-tee-black-university-red",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals ZX 8000\nhttps://www.afew-store.com/products/adidas-originals-zx-8000-gretwo-purple-sefrle",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals ZX 8000\nhttps://www.afew-store.com/products/adidas-originals-zx-8000-purple-fropur-pulmin",
+      "detected_at": "2026-08-02T22:03:24.709007+00:00"
+    }
+  ]
 }
