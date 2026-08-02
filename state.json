@@ -1736,7 +1736,7 @@
       "6701086703877": {
         "title": "NIKE SB DUNK LOW PRO - DARKTEAMRED/ BURGUNDYCRUSH",
         "handle": "nike-sb-dunk-low-pro-darkteamred-burgundycrush",
-        "in_stock": true
+        "in_stock": false
       },
       "6700127944965": {
         "title": "ASICS X MIN-NANO GEL-NIMBUS 10.1 - WHITE/ SHEET ROCK",
@@ -2643,7 +2643,7 @@
       "10714043646219": {
         "title": "Nike\tClub Washed Cap",
         "handle": "nike-club-washed-cap-mosswood-brown-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10691459809547": {
         "title": "Puma x ROSÉ Dad Cap",
@@ -2883,7 +2883,7 @@
       "10586702512395": {
         "title": "Adidas Handball Spezial W",
         "handle": "adidas-handball-spezial-w-preloved-brown-orange-tint-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "10867236405515": {
         "title": "Our Legacy Camion Boot",
@@ -3757,11 +3757,6 @@
       }
     },
     "https://sneakerpolitics.com": {
-      "8471597777084": {
-        "title": "Politics x New Era Wool 59FIFTY Fitted Hat - Cardinal",
-        "handle": "politics-x-new-era-wool-59fifty-fitted-hat-cardinal",
-        "in_stock": false
-      },
       "9329125392572": {
         "title": "New Balance Gator Run - Cider/Amber Haze",
         "handle": "new-balance-gator-run-cider-amber-haze",
@@ -4655,7 +4650,7 @@
       "9413552210108": {
         "title": "New Era x Diet Starts Monday Boston Red Sox 19TWENTY Hat - Navy",
         "handle": "new-era-x-diet-starts-monday-boston-red-sox-19twenty-hat-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "9413541298364": {
         "title": "New Era x Diet Starts Monday Atlanta Braves 19TWENTY Hat - Navy",
@@ -5005,6 +5000,11 @@
       "9343063752892": {
         "title": "Jordan Brooklyn Miró Tee - Black",
         "handle": "jordan-brooklyn-miro-tee-black",
+        "in_stock": true
+      },
+      "9343060181180": {
+        "title": "Jordan Flight Essentials Pocket Tee - Light British Tan/Shadow Brown",
+        "handle": "jordan-flight-essentials-pocket-tee-light-british-tan-shadow-brown",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Flight Essentials Pocket Tee - Light British Tan/Shadow Brown\nhttps://sneakerpolitics.com/products/jordan-flight-essentials-pocket-tee-light-british-tan-shadow-brown",
+      "detected_at": "2026-08-02T18:31:53.888124+00:00"
+    }
+  ]
 }
