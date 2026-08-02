@@ -1636,7 +1636,7 @@
       "6702379106565": {
         "title": "JORDAN ANTHEM JACKET - OLD ROYAL/ YELLOW PULSE",
         "handle": "jordan-anthem-jacket-old-royal-yellow-pulse",
-        "in_stock": true
+        "in_stock": false
       },
       "6702652457221": {
         "title": "NIKE AVA EDGE - BLACK/ NEWSPRINT",
@@ -2653,7 +2653,7 @@
       "8993700380939": {
         "title": "Polo Ralph Lauren Cotton Chino Baseball Cap",
         "handle": "polo-ralph-lauren-cotton-chino-baseball-cap-canopy-olive",
-        "in_stock": true
+        "in_stock": false
       },
       "8466417910027": {
         "title": "47 MLB Los Angeles Dodgers *Base Runner* Cap",
@@ -7774,11 +7774,6 @@
         "handle": "and-wander-accessories-112-ecopak-18l-backpack-black-j338554",
         "in_stock": false
       },
-      "9118678450381": {
-        "title": "England x Palace T-Shirt Light Crimson",
-        "handle": "nike-clothing-ent-m-nk-prem-tee-red-j364605",
-        "in_stock": false
-      },
       "9108125384909": {
         "title": "Men's MothTech Muscle Tee Faded Black",
         "handle": "satisfy-clothing-mothtech-muscle-tee-black-j355996",
@@ -8763,8 +8758,18 @@
         "title": "Bad Bunny Book 2019-2025",
         "handle": "stillz-lifestyle-bad-bunny-by-stillz-book-2019-2025-multicolor-j340019",
         "in_stock": false
+      },
+      "9118677631181": {
+        "title": "Nigeria x Slawn T-Shirt White",
+        "handle": "nike-clothing-nff-m-nk-prem-tee-white-j364608",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Nigeria x Slawn T-Shirt White\nhttps://www.slamjam.com/products/nike-clothing-nff-m-nk-prem-tee-white-j364608",
+      "detected_at": "2026-08-02T16:13:43.366793+00:00"
+    }
+  ]
 }
