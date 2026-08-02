@@ -2271,7 +2271,7 @@
       "6701499482373": {
         "title": "UNDEFEATED DON'T ASK L/S TEE",
         "handle": "undefeated-dont-ask-l-s-tee",
-        "in_stock": true
+        "in_stock": false
       },
       "6702258946309": {
         "title": "UNDEFEATED HOOP DREAMS S/S TEE",
@@ -3003,7 +3003,7 @@
       "8876376424715": {
         "title": "Museum of Peace & Quiet Wreath Mohair Sweater",
         "handle": "museum-of-peace-quiet-wreath-mohair-sweater-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "8817311875339": {
         "title": "Nike Wool Classic Hoodie",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Slam Jam: Nigeria x Slawn T-Shirt White\nhttps://www.slamjam.com/products/nike-clothing-nff-m-nk-prem-tee-white-j364608",
-      "detected_at": "2026-08-02T16:13:43.366793+00:00"
-    }
-  ]
+  "pending_free": []
 }
