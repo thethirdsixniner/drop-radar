@@ -1961,7 +1961,7 @@
       "6702299283717": {
         "title": "ASICS GEL-1130 - CREAM/ BENIIMO PURPLE",
         "handle": "asics-gel-1130-cream-beniimo-purple",
-        "in_stock": true
+        "in_stock": false
       },
       "2195148636233": {
         "title": "CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11005768696075": {
+        "title": "Adidas x Willy Chavarria Megaride AG",
+        "handle": "adidas-x-willy-chavarria-megaride-ag-clear-pink-clear-pink-power-red",
+        "in_stock": false
+      },
       "11010695823627": {
         "title": "Puma Speedcat Wedge Wmns *Tonal*",
         "handle": "puma-speedcat-wedge-wmns-tonal-sand-dune-alpine-snow",
@@ -2933,7 +2938,7 @@
       "7169211400356": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-white-white-lunar-rock",
-        "in_stock": true
+        "in_stock": false
       },
       "10676136608011": {
         "title": "Veja Volley W *O.T. Leather*",
@@ -2953,7 +2958,7 @@
       "10566250922251": {
         "title": "Perplex Butter Shorts",
         "handle": "perplex-butter-shorts-butter-yellow",
-        "in_stock": true
+        "in_stock": false
       },
       "8817311875339": {
         "title": "Nike Wool Classic Hoodie",
@@ -3223,16 +3228,6 @@
       "11012684218635": {
         "title": "Salomon XT-Whisper",
         "handle": "salomon-xtwhisper-footwear-silver-vanilla-ice-winter-bloom",
-        "in_stock": true
-      },
-      "10999814390027": {
-        "title": "Asics GEL-Kinetic FR",
-        "handle": "asics-gelkinetic-fr-black-pure-silver",
-        "in_stock": true
-      },
-      "10999817994507": {
-        "title": "Asics GEL-Kinetic FR",
-        "handle": "asics-gelkinetic-fr-cocoa-powder-champagne",
         "in_stock": true
       },
       "10999854334219": {
@@ -3753,6 +3748,11 @@
       "11007964905739": {
         "title": "Puma Speedcat Wedge Wmns *Tonal*",
         "handle": "puma-speedcat-wedge-wmns-tonal-gray-sky-puma-black",
+        "in_stock": true
+      },
+      "11003906294027": {
+        "title": "Nike Air Max III",
+        "handle": "nike-air-max-iii-light-iron-ore-pale-ivory-infrared-23",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,41 @@
       }
     },
     "https://www.afew-store.com": {
+      "10581775089930": {
+        "title": "Nike Tech Dri-FIT ADV Tee",
+        "handle": "nike-tech-black-black",
+        "in_stock": false
+      },
+      "10581773091082": {
+        "title": "NEW AMSTERDAM SURF ASSOCIATION LOGO CREWNECK",
+        "handle": "new-amsterdam-surf-association-logo-crewneck-ash-bottle-green",
+        "in_stock": false
+      },
+      "10581770240266": {
+        "title": "NEW AMSTERDAM SURF ASSOCIATION LILIES TEE",
+        "handle": "new-amsterdam-surf-association-lilies-tee-black",
+        "in_stock": true
+      },
+      "10581768929546": {
+        "title": "NEW AMSTERDAM SURF ASSOCIATION HEAT WAVE TEE",
+        "handle": "new-amsterdam-surf-association-heat-wave-tee-ecru",
+        "in_stock": true
+      },
+      "10581729968394": {
+        "title": "Mizuno WAVE RIDER 10 Sport",
+        "handle": "mizuno-wave-rider-10-sport-cloudscape-black-sand-grossular-green",
+        "in_stock": true
+      },
+      "10581728264458": {
+        "title": "Mizuno WAVE MUJIN TL Gore-Tex",
+        "handle": "mizuno-wave-mujin-tl-gtx-black-black-black1",
+        "in_stock": true
+      },
+      "10581709750538": {
+        "title": "adidas Originals SAMBA BOWLING",
+        "handle": "adidas-originals-samba-bowling-cblack-supcol-goldmt",
+        "in_stock": true
+      },
       "10581662531850": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION WORKED LOGO HOODIE",
         "handle": "new-amsterdam-surf-association-worked-logo-hoodie-black-white",
@@ -7475,45 +7510,25 @@
         "title": "adidas Originals HANDBALL SPEZIAL",
         "handle": "adidas-originals-handball-spezial-earstr-pulamb-gum4",
         "in_stock": true
-      },
-      "10572799082762": {
-        "title": "Paraboot THIERS",
-        "handle": "paraboot-thiers-kenya",
-        "in_stock": true
-      },
-      "10572798427402": {
-        "title": "Paraboot Michael",
-        "handle": "paraboot-michael-cerf-noir",
-        "in_stock": true
-      },
-      "10572797575434": {
-        "title": "Paraboot CLUSAZ",
-        "handle": "paraboot-clusaz-lisse-noir",
-        "in_stock": true
-      },
-      "10572797444362": {
-        "title": "Paraboot CLUSAZ",
-        "handle": "paraboot-clusaz-lisse-ecorce",
-        "in_stock": true
-      },
-      "10572790563082": {
-        "title": "Mizuno WAVE PROPHECY LS",
-        "handle": "mizuno-wave-prophecy-ls-black-sand-iron-gate-black",
-        "in_stock": true
-      },
-      "10572782502154": {
-        "title": "Mizuno MXR SPORT",
-        "handle": "mizuno-mxr-sport-snow-white-silver-graystone",
-        "in_stock": true
-      },
-      "10572780372234": {
-        "title": "Mizuno WAVE RIDER 10 Sport",
-        "handle": "mizuno-wave-rider-10-sport-harbor-mist-black-harvest-gold",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9124490051789": {
+        "title": "Men's Mineral Dyed Panama Cotton Overshirt Brick Red",
+        "handle": "stone-island-clothing-shirts-red-j362139",
+        "in_stock": true
+      },
+      "9124489986253": {
+        "title": "Men's Mineral Dyed Chino Trousers Grey",
+        "handle": "stone-island-clothing-trousers-grey-j362154",
+        "in_stock": true
+      },
+      "9124490019021": {
+        "title": "Men's Mineral Dyed Organic Cotton Fleece Crewneck Sweatshirt Grey",
+        "handle": "stone-island-clothing-sweatshirt-grey-j362177",
+        "in_stock": true
+      },
       "9124482089165": {
         "title": "Shox TL SE Sneakers Black",
         "handle": "nike-footwear-nike-shox-tl-se-black-j368350",
@@ -7732,7 +7747,7 @@
       "9124156178637": {
         "title": "Pharrel Williams Virginia Adistar Jellyfish Sneakers Chalk White / Off White / Bliss",
         "handle": "adidas-footwear-pw-adistar-jellyfis-white-j362347",
-        "in_stock": false
+        "in_stock": true
       },
       "9124156047565": {
         "title": "Zoom Skylon 11 Sneakers Summit White / Black",
@@ -8748,92 +8763,49 @@
         "title": "BW Army Sneakers Core Black / Gum",
         "handle": "adidas-footwear-bw-army-black-j362382",
         "in_stock": true
-      },
-      "9122712387789": {
-        "title": "ACG Zegama Hike Sneakers British Khaki / Linen / Light Crimson",
-        "handle": "nike-footwear-nike-acg-zegama-hike-multicolor-j367792",
-        "in_stock": true
-      },
-      "9122712355021": {
-        "title": "ACG Ultrafly Trail Sneakers Light Crimson / Summit White",
-        "handle": "nike-footwear-nike-acg-ultrafly-trail-red-j367791",
-        "in_stock": true
-      },
-      "9122712289485": {
-        "title": "XT-4 GTX Sneakers Black",
-        "handle": "salomon-footwear-shoes-xt-4-og-gtx-black-j366207",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Speedcat Wedge Wmns *Tonal*\nhttps://www.asphaltgold.de/products/puma-speedcat-wedge-wmns-tonal-sand-dune-alpine-snow",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Air Max III\nhttps://www.asphaltgold.de/products/nike-air-max-iii-light-iron-ore-pale-ivory-infrared-23",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION WORKED LOGO HOODIE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-worked-logo-hoodie-black-white",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION LILIES TEE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-lilies-tee-black",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION CITY OF WATER TEE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-city-of-water-tee-caviar",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION HEAT WAVE TEE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-heat-wave-tee-ecru",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION HEAT WAVE TEE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-heat-wave-tee-caviar",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Afew Store: Mizuno WAVE RIDER 10 Sport\nhttps://www.afew-store.com/products/mizuno-wave-rider-10-sport-cloudscape-black-sand-grossular-green",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Mizuno WAVE RIDER 10\nhttps://www.afew-store.com/products/mizuno-wave-rider-10-sport-harbor-mist-black-royal-blue",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Afew Store: Mizuno WAVE MUJIN TL Gore-Tex\nhttps://www.afew-store.com/products/mizuno-wave-mujin-tl-gtx-black-black-black1",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Mizuno WAVE MUJIN Gore-Tex\nhttps://www.afew-store.com/products/mizuno-wave-mujin-tl-gtx-black-black-sand-balsam-green",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Afew Store: adidas Originals SAMBA BOWLING\nhttps://www.afew-store.com/products/adidas-originals-samba-bowling-cblack-supcol-goldmt",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Mizuno MORELIA LS SUEDE\nhttps://www.afew-store.com/products/mizuno-morelia-ls-suede-zephyr-black-football-gold",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Panama Cotton Overshirt Brick Red\nhttps://www.slamjam.com/products/stone-island-clothing-shirts-red-j362139",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Mizuno MORELIA LS SUEDE\nhttps://www.afew-store.com/products/mizuno-morelia-ls-suede-chicory-coffee-black-bean-football-gold",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Chino Trousers Grey\nhttps://www.slamjam.com/products/stone-island-clothing-trousers-grey-j362154",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: adidas Originals WMNS ADISTAR CONTROL 5\nhttps://www.afew-store.com/products/adidas-originals-wmns-adistar-control-5-warvan-clpink-silvmt",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Organic Cotton Fleece Crewneck Sweatshirt Grey\nhttps://www.slamjam.com/products/stone-island-clothing-sweatshirt-grey-j362177",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: adidas Originals HANDBALL SPEZIAL LO\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-lo-foxbrn-foxbrn-dbrown",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Shox TL SE Sneakers Black\nhttps://www.slamjam.com/products/nike-footwear-nike-shox-tl-se-black-j368350",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Air Force 1 Low Retro Premium Sneakers Black / Metallic Silver\nhttps://www.slamjam.com/products/nike-footwear-nike-air-force-1-low-retro-premium-black-j368349",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Air Max TL 2.5 Premium Sneakers Phantom / Cream II\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-tl-2-5-premium-beige-j368348",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Air Max TL 2.5 Premium Sneakers Black / Anthracite\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-tl-2-5-premium-black-j368347",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's ACG 'Dolomiti' Shorts Black\nhttps://www.slamjam.com/products/nike-clothing-nike-acg-dolomiti-mens-shorts-black-j351640",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Tor Ultra Lo Sneakers Aurora Aqua / Tidal Wave\nhttps://www.slamjam.com/products/hoka-one-one-footwear-u-tor-ultra-lo-blue-j362624",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Overlogo 3/4 Raglan T-Shirt Bright White / Baritone Blue\nhttps://www.slamjam.com/products/mental-athletic-clothing-3-4-sleeve-raglan-t-shirt-white-j355359",
-      "detected_at": "2026-08-03T11:28:04.185943+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Pharrel Williams Virginia Adistar Jellyfish Sneakers Chalk White / Off White / Bliss\nhttps://www.slamjam.com/products/adidas-footwear-pw-adistar-jellyfis-white-j362347",
+      "detected_at": "2026-08-03T13:58:20.478478+00:00"
     }
   ]
 }
