@@ -514,7 +514,7 @@
       "8286602494080": {
         "title": "Kith Kids for STATE Rodgers Lunch Box - Bloom",
         "handle": "f2664221660",
-        "in_stock": true
+        "in_stock": false
       },
       "8286602461312": {
         "title": "Kith Kids for STATE Clinton Pencil Case - Stadium",
@@ -529,7 +529,7 @@
       "8286602330240": {
         "title": "Kith Kids for STATE Kane Backpack - Bloom",
         "handle": "f2664484660",
-        "in_stock": true
+        "in_stock": false
       },
       "8286602166400": {
         "title": "Kith Kids for STATE Kane Backpack - Black",
@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6688118276357": {
+        "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
+        "handle": "undefeated-x-bunbuku-tapered-trash-can",
+        "in_stock": true
+      },
+      "6700711837957": {
+        "title": "UNDEFEATED MESH HAMPER",
+        "handle": "undefeated-mesh-hamper",
+        "in_stock": true
+      },
       "6702655308037": {
         "title": "ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK",
         "handle": "adidas-pw-adistar-jellyfish-cwhite-cblack",
@@ -1261,7 +1271,7 @@
       "6702675624197": {
         "title": "ASICS X LTTT GEL-RESOLUTION 5 - PARROT GREEN/ PURE SILVER",
         "handle": "asics-x-lttt-gel-resolution-5-parrot-green-pure-silver-1",
-        "in_stock": true
+        "in_stock": false
       },
       "6702661828869": {
         "title": "NIKE AIR MAX2 CB '94 - BLACK/ VARSITY ROYAL",
@@ -2492,16 +2502,6 @@
         "title": "UNDEFEATED SOAP-ON-A-ROPE - NATURAL",
         "handle": "undefeated-soap-on-a-rope-natural",
         "in_stock": true
-      },
-      "6676599046405": {
-        "title": "UNDEFEATED X MCLAREN 1:64 SCALE INDY 500 CARS SET OF 3",
-        "handle": "undefeated-x-mclaren-indianapolis-500-3-car-set",
-        "in_stock": true
-      },
-      "6701499449605": {
-        "title": "UNDEFEATED STARS & STRIKES L/S TEE",
-        "handle": "undefeated-stars-strikes-l-s-tee",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -3373,7 +3373,7 @@
       "9018467713291": {
         "title": "Salomon Genesis Advanced",
         "handle": "salomon-genesis-advanced-black-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10620969943307": {
         "title": "Adidas Adizero Aruku",
@@ -3723,7 +3723,7 @@
       "10540029935883": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-ecru-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10649900810507": {
         "title": "Adidas Woven Firebird Track Pants",
@@ -3757,6 +3757,41 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8747391647932": {
+        "title": "Politics x Dallas Mavericks x Mitchell & Ness Map Tee - White",
+        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-map-tee-white",
+        "in_stock": true
+      },
+      "8747391221948": {
+        "title": "Politics x Dallas Mavericks x Mitchell & Ness Skyline Tee - White",
+        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-skyline-tee-white",
+        "in_stock": true
+      },
+      "8747394302140": {
+        "title": "Politics x Dallas Mavericks x Mitchell & Ness Hoodie - Navy",
+        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-hoodie-navy",
+        "in_stock": true
+      },
+      "8747392073916": {
+        "title": "Politics x Dallas Mavericks x Mitchell & Ness Tee - Navy",
+        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-tee-navy",
+        "in_stock": true
+      },
+      "8747392762044": {
+        "title": "Politics x Dallas Mavericks x Mitchell & Ness L/S Tee - Navy",
+        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-l-s-tee-navy",
+        "in_stock": true
+      },
+      "8755695419580": {
+        "title": "Rhude Motion Bandana Swim Short - Black/White",
+        "handle": "rhude-motion-bandana-swim-short-black-white",
+        "in_stock": false
+      },
+      "9303647256764": {
+        "title": "Nike Vomero Plus - Volt Tint/Black Spruce",
+        "handle": "nike-vomero-plus-volt-tint-black-spruce",
+        "in_stock": true
+      },
       "8583914619068": {
         "title": "Politics Tie Dye P Logo Socks - Blue/Red",
         "handle": "politics-tie-dye-p-logo-socks-blue-red",
@@ -4310,7 +4345,7 @@
       "9051544715452": {
         "title": "Nike ReactX Rejuven8 - Blue Void/Indigo Burst",
         "handle": "nike-reactx-rejuven8-blue-void-indigo-burst",
-        "in_stock": true
+        "in_stock": false
       },
       "9022189764796": {
         "title": "Air Jordan 1 Low SE 'Somos Eternos' - Denim Turquoise/Smoky Blue",
@@ -4410,7 +4445,7 @@
       "9100799082684": {
         "title": "Rhude Pit Stop Tee - Vintage Black/Red",
         "handle": "rhude-pit-stop-tee-vintage-black-red",
-        "in_stock": true
+        "in_stock": false
       },
       "9094195052732": {
         "title": "Market x Grateful Dead Tie Dye Tee - White/Blue",
@@ -4636,11 +4671,6 @@
         "title": "Jason Markk Premium Shoe Cleaner - Essential Kit",
         "handle": "jason-markk-premium-shoe-cleaner-essential-kit",
         "in_stock": true
-      },
-      "9413552210108": {
-        "title": "New Era x Diet Starts Monday Boston Red Sox 19TWENTY Hat - Navy",
-        "handle": "new-era-x-diet-starts-monday-boston-red-sox-19twenty-hat-navy",
-        "in_stock": false
       },
       "9413541298364": {
         "title": "New Era x Diet Starts Monday Atlanta Braves 19TWENTY Hat - Navy",
@@ -4975,36 +5005,6 @@
       "9343085969596": {
         "title": "Jordan Brooklyn Realtree Tee - Black",
         "handle": "jordan-brooklyn-realtree-tee-black",
-        "in_stock": true
-      },
-      "9343081611452": {
-        "title": "Jordan Brooklyn Oversized Fleece Full Zip Hoodie - Black/Dark Smoke Grey",
-        "handle": "jordan-brooklyn-oversized-fleece-full-zip-hoodie-black-dark-smoke-grey",
-        "in_stock": true
-      },
-      "9343077449916": {
-        "title": "Jordan Flight Fleece Oversized Hoodie - Black",
-        "handle": "jordan-flight-fleece-pullover-black",
-        "in_stock": true
-      },
-      "9343063752892": {
-        "title": "Jordan Brooklyn Miró Tee - Black",
-        "handle": "jordan-brooklyn-miro-tee-black",
-        "in_stock": true
-      },
-      "9343060181180": {
-        "title": "Jordan Flight Essentials Pocket Tee - Light British Tan/Shadow Brown",
-        "handle": "jordan-flight-essentials-pocket-tee-light-british-tan-shadow-brown",
-        "in_stock": true
-      },
-      "9343054774460": {
-        "title": "Jordan Flight Essentials Pocket Tee - Black/University Red",
-        "handle": "jordan-flight-essentials-pocket-tee-black-university-red",
-        "in_stock": true
-      },
-      "9343000445116": {
-        "title": "Women's Nike ReactX Rejuven8 - Bleached Lilac/Bleached Lilac",
-        "handle": "womens-nike-reactx-rejuven8-bleached-lilac-bleached-lilac",
         "in_stock": true
       }
     },
@@ -7592,7 +7592,7 @@
       "9124476190925": {
         "title": "Tor Ultra Lo Sneakers Aurora Aqua / Tidal Wave",
         "handle": "hoka-one-one-footwear-u-tor-ultra-lo-blue-j362624",
-        "in_stock": true
+        "in_stock": false
       },
       "9116693397709": {
         "title": "Overlogo 3/4 Raglan T-Shirt Bright White / Baritone Blue",
@@ -8768,52 +8768,36 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: adidas x Pharrell Williams Adistar Jellyfish - Core White / Off White / Clear Brown\nhttps://kith.com/products/aakh6730",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED x BUNBUKU TAPERED TRASH CAN\nhttps://undefeated.com/products/undefeated-x-bunbuku-tapered-trash-can",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith Kids Set of 2 Rhinestone Hair Clips - Multi\nhttps://kith.com/products/khla150001-906",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED MESH HAMPER\nhttps://undefeated.com/products/undefeated-mesh-hamper",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Clinton Pencil Case - Bloom\nhttps://kith.com/products/f2664329660",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Dallas Mavericks x Mitchell & Ness Map Tee - White\nhttps://sneakerpolitics.com/products/politics-x-dallas-mavericks-x-mitchell-ness-map-tee-white",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Rodgers Lunch Box - Bloom\nhttps://kith.com/products/f2664221660",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Dallas Mavericks x Mitchell & Ness Skyline Tee - White\nhttps://sneakerpolitics.com/products/politics-x-dallas-mavericks-x-mitchell-ness-skyline-tee-white",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Clinton Pencil Case - Stadium\nhttps://kith.com/products/f2661329302",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Dallas Mavericks x Mitchell & Ness Hoodie - Navy\nhttps://sneakerpolitics.com/products/politics-x-dallas-mavericks-x-mitchell-ness-hoodie-navy",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Clinton Pencil Case - Black\nhttps://kith.com/products/f2661329001",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Dallas Mavericks x Mitchell & Ness Tee - Navy\nhttps://sneakerpolitics.com/products/politics-x-dallas-mavericks-x-mitchell-ness-tee-navy",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Kane Backpack - Bloom\nhttps://kith.com/products/f2664484660",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Dallas Mavericks x Mitchell & Ness L/S Tee - Navy\nhttps://sneakerpolitics.com/products/politics-x-dallas-mavericks-x-mitchell-ness-l-s-tee-navy",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Rodgers Lunch Box - Stadium\nhttps://kith.com/products/f2661221302",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Rodgers Lunch Box - Black\nhttps://kith.com/products/f2661221001",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Kane Backpack - Stadium\nhttps://kith.com/products/f2661484302",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith Baby Track Harrison Pullover - Nocturnal\nhttps://kith.com/products/khb010078-413",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith Kids Nelson Sweatpant - Mantle\nhttps://kith.com/products/khk060347-202",
-      "detected_at": "2026-08-03T18:27:00.819699+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Vomero Plus - Volt Tint/Black Spruce\nhttps://sneakerpolitics.com/products/nike-vomero-plus-volt-tint-black-spruce",
+      "detected_at": "2026-08-03T20:14:15.170336+00:00"
     }
   ]
 }
