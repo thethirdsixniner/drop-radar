@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286623563904": {
+        "title": "adidas x Pharrell Williams Adistar Jellyfish - Core White / Off White / Clear Brown",
+        "handle": "aakh6730",
+        "in_stock": true
+      },
       "8286623727744": {
         "title": "Nike WMNS Zoom Streak 3 - Sail / Cream II",
         "handle": "nkiq8020-200",
@@ -149,7 +154,7 @@
       "8286607245440": {
         "title": "Kith Kids Set of 2 Rhinestone Hair Clips - Multi",
         "handle": "khla150001-906",
-        "in_stock": false
+        "in_stock": true
       },
       "8286607179904": {
         "title": "Kith Kids 3-Pack NY Socks - Multi",
@@ -504,27 +509,27 @@
       "8286602592384": {
         "title": "Kith Kids for STATE Clinton Pencil Case - Bloom",
         "handle": "f2664329660",
-        "in_stock": false
+        "in_stock": true
       },
       "8286602494080": {
         "title": "Kith Kids for STATE Rodgers Lunch Box - Bloom",
         "handle": "f2664221660",
-        "in_stock": false
+        "in_stock": true
       },
       "8286602461312": {
         "title": "Kith Kids for STATE Clinton Pencil Case - Stadium",
         "handle": "f2661329302",
-        "in_stock": false
+        "in_stock": true
       },
       "8286602363008": {
         "title": "Kith Kids for STATE Clinton Pencil Case - Black",
         "handle": "f2661329001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286602330240": {
         "title": "Kith Kids for STATE Kane Backpack - Bloom",
         "handle": "f2664484660",
-        "in_stock": false
+        "in_stock": true
       },
       "8286602166400": {
         "title": "Kith Kids for STATE Kane Backpack - Black",
@@ -534,17 +539,17 @@
       "8286602035328": {
         "title": "Kith Kids for STATE Rodgers Lunch Box - Stadium",
         "handle": "f2661221302",
-        "in_stock": false
+        "in_stock": true
       },
       "8286602002560": {
         "title": "Kith Kids for STATE Rodgers Lunch Box - Black",
         "handle": "f2661221001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286601904256": {
         "title": "Kith Kids for STATE Kane Backpack - Stadium",
         "handle": "f2661484302",
-        "in_stock": false
+        "in_stock": true
       },
       "8286601740416": {
         "title": "Kith Kids Quinn II Tee - Fade",
@@ -629,7 +634,7 @@
       "8286600691840": {
         "title": "Kith Baby Track Harrison Pullover - Nocturnal",
         "handle": "khb010078-413",
-        "in_stock": false
+        "in_stock": true
       },
       "8286600626304": {
         "title": "Kith Baby Eagle Bodysuit - Black",
@@ -844,7 +849,7 @@
       "8284657516672": {
         "title": "Kith Kids Nelson Sweatpant - Mantle",
         "handle": "khk060347-202",
-        "in_stock": false
+        "in_stock": true
       },
       "8284657451136": {
         "title": "Kith Kids Nelson Sweatpant - Dusty Quartz",
@@ -1244,11 +1249,6 @@
       "8286610882688": {
         "title": "Tom Wood Arlo Medium Bracelet - Silver",
         "handle": "tmw101636-7",
-        "in_stock": true
-      },
-      "8286610653312": {
-        "title": "Tom Wood Arlo Medium Bracelet - Silver",
-        "handle": "tmw101636-7-7",
         "in_stock": true
       }
     },
@@ -3940,7 +3940,7 @@
       "9283110830268": {
         "title": "Nike P-6000 - White/Metallic Cool Grey",
         "handle": "nike-p-6000-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9007455436988": {
         "title": "Fear Of God Essentials Ponte 90's Tee - Ivory",
@@ -4315,7 +4315,7 @@
       "9022189764796": {
         "title": "Air Jordan 1 Low SE 'Somos Eternos' - Denim Turquoise/Smoky Blue",
         "handle": "air-jordan-1-low-se-somos-eternos-denim-turquoise-smoky-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "7799582130364": {
         "title": "Gucci Rectangular Frame Sunglasses - Black/Solid Grey",
@@ -4615,7 +4615,7 @@
       "9274294370492": {
         "title": "Air Jordan 6 Retro 'Cap And Gown' - Black/Reflect Silver",
         "handle": "air-jordan-6-retro-cap-and-gown-black-reflect-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "8697914425532": {
         "title": "Women's On Cloud 6 - Black/White",
@@ -8768,172 +8768,52 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike WMNS Zoom Streak 3 - Sail / Cream II\nhttps://kith.com/products/nkiq8020-200",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🆕 **New drop** at Kith: adidas x Pharrell Williams Adistar Jellyfish - Core White / Off White / Clear Brown\nhttps://kith.com/products/aakh6730",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike Air Max Joga Bonito - Black / Light Graphite / Anthracite / Neon Yellow\nhttps://kith.com/products/nkio1753-003",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids Set of 2 Rhinestone Hair Clips - Multi\nhttps://kith.com/products/khla150001-906",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith for Cinelli Wind Jacket - Stadium\nhttps://kith.com/products/a1tp2kitb8g",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Clinton Pencil Case - Bloom\nhttps://kith.com/products/f2664329660",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith for Cinelli Vice Di Milano Tee - White\nhttps://kith.com/products/khmg030079-101",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Rodgers Lunch Box - Bloom\nhttps://kith.com/products/f2664221660",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith for Cinelli Ciclismo Tee - Black\nhttps://kith.com/products/khmg030076-001",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Clinton Pencil Case - Stadium\nhttps://kith.com/products/f2661329302",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith for Cinelli Upside Down Tee - Black\nhttps://kith.com/products/khmg030077-001",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Clinton Pencil Case - Black\nhttps://kith.com/products/f2661329001",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith for Cinelli Italo Lupi Tee - Sandrift\nhttps://kith.com/products/khmg030078-104",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Kane Backpack - Bloom\nhttps://kith.com/products/f2664484660",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith for Cinelli Bibshort - Stadium\nhttps://kith.com/products/a1pb2kitb8g",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Rodgers Lunch Box - Stadium\nhttps://kith.com/products/f2661221302",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X MEDICOM UMAN KEYCHAIN - GOLD\nhttps://undefeated.com/products/undefeated-x-medicom-uman-keychain-gold",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Rodgers Lunch Box - Black\nhttps://kith.com/products/f2661221001",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BURTON M4 GOGGLES - TAN\nhttps://undefeated.com/products/undefeated-x-burton-m4-goggles-tan",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids for STATE Kane Backpack - Stadium\nhttps://kith.com/products/f2661484302",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 MID - BLACKIRIS/ PARCHMENT\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-mid-blackiris-parchment",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Baby Track Harrison Pullover - Nocturnal\nhttps://kith.com/products/khb010078-413",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 MID - CHIVE/ PARCHMENT\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-mid-chive-parchment",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X CONVERSE CHUCK 70 MID- BLACK/ NATURALIVORY\nhttps://undefeated.com/products/undefeated-x-converse-chuck-70-mid-black-naturalivory",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X NIKE AIR FORCE 1 LOW SP - SMOKEGREY/ GOLD/ MULTI\nhttps://undefeated.com/products/undefeated-x-nike-air-force-1-low-sp-smokegrey-gold-multi",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CASTLE\nhttps://undefeated.com/products/undefeated-x-converse-weapon-mid-vintagewhite-castle",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CHIVE\nhttps://undefeated.com/products/undefeated-x-converse-weapon-mid-vintagewhite-chive",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 HI - BLACK/ IMPERIALBLUE\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-hi-black-imperialblue",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS\nhttps://undefeated.com/products/bape-x-undefeated-color-camo-flannel-pants",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: BAPE X UNDEFEATED MULTI POUCH POCKET PANTS - NAVY\nhttps://undefeated.com/products/bape-x-undefeated-multi-pouch-pocket-pants-navy",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON SPECKLE GLOVES\nhttps://undefeated.com/products/undefeated-icon-speckle-gloves",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ID TAG\nhttps://undefeated.com/products/undefeated-id-tag",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ALL-IN-ONE WASH\nhttps://undefeated.com/products/undefeated-total-wash-natural",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SCREW U PIN - ANTIQUE NICKEL\nhttps://undefeated.com/products/undefeated-screw-u-pin-antique-nickel",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SOAP-ON-A-ROPE - NATURAL\nhttps://undefeated.com/products/undefeated-soap-on-a-rope-natural",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X MCLAREN 1:64 SCALE INDY 500 CARS SET OF 3\nhttps://undefeated.com/products/undefeated-x-mclaren-indianapolis-500-3-car-set",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED STARS & STRIKES L/S TEE\nhttps://undefeated.com/products/undefeated-stars-strikes-l-s-tee",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba Bowling\nhttps://www.asphaltgold.de/products/adidas-samba-bowling-core-black-supplier-colour-gold-metallic",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-magic-beige-cream-white-cardboard",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Care Bears Adilette W\nhttps://www.asphaltgold.de/products/adidas-x-care-bears-adilette-w-dusky-bronze-footwear-white-preloved-brown",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Stockholm Surfboard Club Knitted Logo Sweater\nhttps://www.asphaltgold.de/products/stockholm-surfboard-club-knitted-logo-sweater-black-1",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Tie Dye P Logo Socks - Blue/Red\nhttps://sneakerpolitics.com/products/politics-tie-dye-p-logo-socks-blue-red",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Tech Dri-FIT ADV Tee\nhttps://www.afew-store.com/products/nike-tech-black-black",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION LOGO CREWNECK\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-logo-crewneck-ash-bottle-green",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Canada x NOCTA Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/nike-clothing-cax-m-nk-df-cof-jsy-ls-black-j364606",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Contrast Sleeves T-Shirt Grey Melange\nhttps://www.slamjam.com/products/dries-van-noten-clothing-heedar-mklst-shirt-grey-j341140",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Speedcat Ballet Metallic Jasmine Flower / Black\nhttps://www.slamjam.com/products/puma-footwear-speedcat-ballet-metallic-wns-white-j356398",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Lio UPF 50+ Baselayer Moth Print Long Sleeve Hoodie Brown\nhttps://www.slamjam.com/products/roa-clothing-lio-upf-plus-50-baselayer-moth-print-long-sleeve-hoodie-brown-j325401",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Organic Panama Cotton 'OLD' Effect Zip Jacket Black\nhttps://www.slamjam.com/products/stone-island-clothing-hoodie-sweater-black-j345737",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Washed Cotton One Tuck Pants Charcoal\nhttps://www.slamjam.com/products/cav-empt-clothing-washed-cotton-one-tuck-pants-grey-j355856",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Zip-Up Cardigan Grey\nhttps://www.slamjam.com/products/stone-island-clothing-cardigan-grey-j362170",
-      "detected_at": "2026-08-03T16:32:57.005897+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Kids Nelson Sweatpant - Mantle\nhttps://kith.com/products/khk060347-202",
+      "detected_at": "2026-08-03T18:27:00.819699+00:00"
     }
   ]
 }
