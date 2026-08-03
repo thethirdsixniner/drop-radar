@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702655308037": {
+        "title": "ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK",
+        "handle": "adidas-pw-adistar-jellyfish-cwhite-cblack",
+        "in_stock": true
+      },
       "6702675624197": {
         "title": "ASICS X LTTT GEL-RESOLUTION 5 - PARROT GREEN/ PURE SILVER",
         "handle": "asics-x-lttt-gel-resolution-5-parrot-green-pure-silver-1",
@@ -1261,7 +1266,7 @@
       "6702661828869": {
         "title": "NIKE AIR MAX2 CB '94 - BLACK/ VARSITY ROYAL",
         "handle": "nike-air-max2-cb-94-black-varsity-royal",
-        "in_stock": false
+        "in_stock": true
       },
       "6702673559813": {
         "title": "NIKE AIR MAX JOGA BONITA - BLACK/ NEON YELLOW",
@@ -1301,7 +1306,7 @@
       "6702666940677": {
         "title": "NIKE SB DUNK LOW PRO - SAFFRON QUARTZ",
         "handle": "nike-sb-dunk-low-pro-saffron-quartz",
-        "in_stock": false
+        "in_stock": true
       },
       "6702673625349": {
         "title": "JORDAN AJ 1 RETRO HIGH OG 'LOVE LETTER' - SHADOW BROWN",
@@ -1356,7 +1361,7 @@
       "6702659305733": {
         "title": "NIKE AIR ZOOM FLIGHT THE GLOVE - BLACK/WHITE / UNIVERSITY RED",
         "handle": "nike-air-zoom-flight-the-glove-black-white-university-red",
-        "in_stock": false
+        "in_stock": true
       },
       "6702538686725": {
         "title": "AIR JORDAN 6 RETRO - BLACK/ REFLECT SILVER/ BLACK",
@@ -2497,14 +2502,14 @@
         "title": "UNDEFEATED X MEDICOM UMAN KEYCHAIN - CHROME",
         "handle": "undefeated-x-medicom-uman-keychain-chrome",
         "in_stock": true
-      },
-      "4166149734473": {
-        "title": "UNDEFEATED X MEDICOM UMAN KEYCHAIN - GOLD",
-        "handle": "undefeated-x-medicom-uman-keychain-gold",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "10987694686475": {
+        "title": "Crocs Classic EXP",
+        "handle": "crocs-classic-exp-dpo-gum",
+        "in_stock": true
+      },
       "10763156586763": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-hide-chipmunk",
@@ -2553,7 +2558,7 @@
       "10125386350859": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-core-black-sand-strata-sky-tint",
-        "in_stock": true
+        "in_stock": false
       },
       "10094675362059": {
         "title": "New Balance 740",
@@ -3538,7 +3543,7 @@
       "10595828695307": {
         "title": "47 New York Yankees Washed Chain Stitch *Hitch* Cap",
         "handle": "47-new-york-yankees-washed-chain-stitch-hitch-cap-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "8457130639627": {
         "title": "Tekla Pyjamas Shorts",
@@ -3749,14 +3754,19 @@
         "title": "Nike Air Max III",
         "handle": "nike-air-max-iii-light-iron-ore-pale-ivory-infrared-23",
         "in_stock": true
-      },
-      "11005756211467": {
-        "title": "Adidas ZX 8000",
-        "handle": "adidas-zx-8000-grey-two-purple-semi-frozen-lemon",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9346348679356": {
+        "title": "Nike ACG Tuff Fleece Pant - Dark Smoke Grey/White",
+        "handle": "nike-acg-tuff-fleece-pant-dark-smoke-grey-white",
+        "in_stock": true
+      },
+      "9346346188988": {
+        "title": "Nike ACG Tuff Fleece Crewneck - Safety Orange/White",
+        "handle": "nike-acg-tuff-fleece-crewneck-safety-orange-white",
+        "in_stock": true
+      },
       "9329125392572": {
         "title": "New Balance Gator Run - Cider/Amber Haze",
         "handle": "new-balance-gator-run-cider-amber-haze",
@@ -4575,7 +4585,7 @@
       "9294217150652": {
         "title": "Air Jordan 5 Retro - White/Metallic Silver",
         "handle": "air-jordan-5-retro-white-metallic-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "9294203912380": {
         "title": "Air Jordan 3 Retro 'World's Best Dad' - Sail/Black",
@@ -4995,16 +5005,6 @@
       "9352523743420": {
         "title": "Nike Dunk Low Retro Premium - Light British Tan/Cinnamon",
         "handle": "nike-dunk-low-retro-premium-light-british-tan-cinnamon",
-        "in_stock": true
-      },
-      "9352513618108": {
-        "title": "Nike Dunk Low Retro 'Donut' - Pink Rise/Velvet Brown",
-        "handle": "nike-dunk-low-retro-donut-pink-rise-velvet-brown",
-        "in_stock": true
-      },
-      "9352454504636": {
-        "title": "Nike Dunk Low Retro 'Varsity' - Metallic Silver/Black",
-        "handle": "nike-dunk-low-retro-varsity-metallic-silver-black",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,11 @@
       }
     },
     "https://www.afew-store.com": {
+      "10581600239882": {
+        "title": "adidas Originals ADIMULE",
+        "handle": "adidas-originals-adimule-owhite-prebrn-auco",
+        "in_stock": true
+      },
       "10580657078538": {
         "title": "Nike LEBRON XXIII 'Hardwood Classics'",
         "handle": "nike-lebron-xxiii-per-game-royal-white-safety-orange",
@@ -7505,11 +7510,6 @@
         "title": "New Balance Gator Run",
         "handle": "new-balance-gator-run-cider-amber-haze",
         "in_stock": true
-      },
-      "10570504798474": {
-        "title": "Saucony GRID LEGACY",
-        "handle": "saucony-grid-legacy-gunmetal-black",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7807,7 +7807,7 @@
       "9082801881293": {
         "title": "Men's Smooth Jersey Stuntman & Woman Baggy Track Pants Black",
         "handle": "kapital-clothing-smooth-jersey-stantman-woman-baggy-track-pants-black-j338142",
-        "in_stock": true
+        "in_stock": false
       },
       "9123989717197": {
         "title": "TF100 Sneakers New Spruce / Black",
@@ -8766,5 +8766,38 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Undefeated: ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK\nhttps://undefeated.com/products/adidas-pw-adistar-jellyfish-cwhite-cblack",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: NIKE AIR MAX2 CB '94 - BLACK/ VARSITY ROYAL\nhttps://undefeated.com/products/nike-air-max2-cb-94-black-varsity-royal",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: NIKE SB DUNK LOW PRO - SAFFRON QUARTZ\nhttps://undefeated.com/products/nike-sb-dunk-low-pro-saffron-quartz",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: NIKE AIR ZOOM FLIGHT THE GLOVE - BLACK/WHITE / UNIVERSITY RED\nhttps://undefeated.com/products/nike-air-zoom-flight-the-glove-black-white-university-red",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Crocs Classic EXP\nhttps://www.asphaltgold.de/products/crocs-classic-exp-dpo-gum",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike ACG Tuff Fleece Pant - Dark Smoke Grey/White\nhttps://sneakerpolitics.com/products/nike-acg-tuff-fleece-pant-dark-smoke-grey-white",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike ACG Tuff Fleece Crewneck - Safety Orange/White\nhttps://sneakerpolitics.com/products/nike-acg-tuff-fleece-crewneck-safety-orange-white",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals ADIMULE\nhttps://www.afew-store.com/products/adidas-originals-adimule-owhite-prebrn-auco",
+      "detected_at": "2026-08-03T07:47:00.430999+00:00"
+    }
+  ]
 }
