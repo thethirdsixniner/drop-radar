@@ -2903,7 +2903,7 @@
       "10744360796427": {
         "title": "Adidas Samba LT *Cow Print*",
         "handle": "adidas-samba-lt-off-white-lucid-pink-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "10094675362059": {
         "title": "New Balance 740",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9087161860284": {
+        "title": "Ice Cream Hike Knit Jersey - Black",
+        "handle": "ice-cream-hike-knit-jersey-black",
+        "in_stock": true
+      },
       "9363148243132": {
         "title": "Jacquemus x France x Nike Reissue Track Jacket - Blackened Blue/White",
         "handle": "jacquemus-x-france-x-nike-reissue-track-jacket-blackened-blue-white",
@@ -5000,11 +5005,6 @@
       "9402909786300": {
         "title": "Birkenstock Boston EVA - Eggshell",
         "handle": "birkenstock-boston-eva-eggshell",
-        "in_stock": true
-      },
-      "9343004016828": {
-        "title": "Women's Nike ReactX Rejuven8 Slide - Sea Glass/Light Orewood Brown",
-        "handle": "womens-nike-reactx-rejuven8-slide-sea-glass-light-orewood-brown",
         "in_stock": true
       }
     },
@@ -8537,7 +8537,7 @@
       "8990078042317": {
         "title": "Men's Static Shorts Shungite Black",
         "handle": "_j-l-a-l_-clothing-static-short-black-j304302",
-        "in_stock": true
+        "in_stock": false
       },
       "9000644772045": {
         "title": "Women's Backless Hoodie Black",
@@ -8768,72 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Black Suede Studio Brea 100 Mule - Chili Flake Leather\nhttps://kith.com/products/bsbrea-chflp",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Black Suede Studio Jazz 100 Mule - Brown Zebra Pony Hair\nhttps://kith.com/products/bsjazz100-brzph",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance 204L - Quicksand\nhttps://kith.com/products/nbu204lfsp",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony TD Omni 9 KDZ - Aquamarine\nhttps://kith.com/products/sausl226x06",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony TD Triumph 4 KDZ - White / Silver\nhttps://kith.com/products/sausl226x34",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony PS Triumph 4 KDZ - White / Silver\nhttps://kith.com/products/sausy226y34",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony TD Omni 9 KDZ - Black / Silver\nhttps://kith.com/products/sausl225c01",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony GS Triumph 4 KDZ - White / Silver\nhttps://kith.com/products/sausy226z34",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony PS Omni 9 KDZ - Black / Silver\nhttps://kith.com/products/sausy225a01",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony GS Omni 9 KDZ - Aquamarine\nhttps://kith.com/products/sausy226z06",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony PS Omni 9 KDZ - Aquamarine\nhttps://kith.com/products/sausasy226y06",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Carpenter Distressed Shorts - Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-carpenter-distressed-shorts-black",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-NYC 2.0 - Graphite Grey/Loden Green\nhttps://sneakerpolitics.com/products/asics-gel-nyc-2-0-graphite-grey-loden-green",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-NYC 2.0 - Clay Grey/Cement Grey\nhttps://sneakerpolitics.com/products/asics-gel-nyc-2-0-clay-grey-cement-grey",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Converse Chuck 70 Leopard - Black/Natural Ivory\nhttps://sneakerpolitics.com/products/converse-chuck-70-leopard-black-natural-ivory",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Stratus MC - Lime Zest/Pure Silver\nhttps://sneakerpolitics.com/products/asics-gel-stratus-mc-lime-zest-pure-silver",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Drive In Hoodie - Black Wash\nhttps://sneakerpolitics.com/products/godspeed-new-york-drive-in-hoodie-black-wash",
-      "detected_at": "2026-08-04T20:44:15.800660+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Hike Knit Jersey - Black\nhttps://sneakerpolitics.com/products/ice-cream-hike-knit-jersey-black",
+      "detected_at": "2026-08-04T21:59:00.263220+00:00"
     }
   ]
 }
