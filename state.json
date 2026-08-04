@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702663074053": {
+        "title": "NIKE AIR MAX UPTEMPO '95 - UNIVERSITYRED/ WHITE/ BLACK",
+        "handle": "nike-air-max-uptempo-95-universityred-white-black",
+        "in_stock": true
+      },
       "6701827784965": {
         "title": "NIKE AIR FORCE 1 '07 LV8 - BLACK/DKSMOKEGREY",
         "handle": "nike-air-force-1-07-lv8-black-dksmokegrey",
@@ -2497,14 +2502,79 @@
         "title": "BAPE X UNDEFEATED MULTI POUCH POCKET PANTS - NAVY",
         "handle": "bape-x-undefeated-multi-pouch-pocket-pants-navy",
         "in_stock": true
-      },
-      "6701189693701": {
-        "title": "UNDEFEATED ICON SPECKLE GLOVES",
-        "handle": "undefeated-icon-speckle-gloves",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "10851741729035": {
+        "title": "Carhartt WIP Brandon Pant",
+        "handle": "carhartt-wip-brandon-pant-black-stone-washed",
+        "in_stock": true
+      },
+      "10824025080075": {
+        "title": "Nike\tTech Full-Zip Woven Windrunner Jacket",
+        "handle": "niketech-fullzip-woven-windrunner-jacket-black",
+        "in_stock": true
+      },
+      "10677918630155": {
+        "title": "Hiking Patrol Element Texture Down Vest",
+        "handle": "hiking-patrol-element-texture-down-vest-grey",
+        "in_stock": true
+      },
+      "10792136474891": {
+        "title": "Nike\tEveryday Lightweight Training Crew Socks 3-Pack",
+        "handle": "nikeeveryday-lightweight-training-crew-socks-3pack-black-white",
+        "in_stock": true
+      },
+      "10684655239435": {
+        "title": "Sefr Lee Cardigan",
+        "handle": "sefr-lee-cardigan-neptune-alpaca",
+        "in_stock": true
+      },
+      "10124157813003": {
+        "title": "Parel Studios Saana Luma Shorts",
+        "handle": "parel-studios-saana-luma-shorts-steel-blue",
+        "in_stock": true
+      },
+      "8842227155211": {
+        "title": "Stockholm Surfboard Club Box Tee",
+        "handle": "stockholm-surfboard-club-box-tee-liberation",
+        "in_stock": true
+      },
+      "8778725687563": {
+        "title": "Asphaltgold Essential Track Shorts",
+        "handle": "asphaltgold-essential-track-shorts-dark-green",
+        "in_stock": true
+      },
+      "8466418073867": {
+        "title": "47 MLB New York Yankees *Base Runner* Cap",
+        "handle": "47-mlb-new-york-yankees-base-runner-cap-moss",
+        "in_stock": true
+      },
+      "8993700380939": {
+        "title": "Polo Ralph Lauren Cotton Chino Baseball Cap",
+        "handle": "polo-ralph-lauren-cotton-chino-baseball-cap-canopy-olive",
+        "in_stock": true
+      },
+      "8466385142027": {
+        "title": "47 MLB New York Yankees *Clean Up* Cap w/ No Loop Label",
+        "handle": "47-mlb-new-york-yankees-clean-up-cap-w-no-loop-label-brown",
+        "in_stock": true
+      },
+      "8294351798539": {
+        "title": "47 MLB New York Yankees *Base Runner* Cap",
+        "handle": "47-mlb-new-york-yankees-base-runner-cap-navy",
+        "in_stock": true
+      },
+      "8228383916299": {
+        "title": "47 MLB New York Yankees *Clean Up* Cap",
+        "handle": "47-mlb-new-york-yankees-clean-up-cap-dark-maroon",
+        "in_stock": true
+      },
+      "8187462713611": {
+        "title": "47 MLB New York Yankees *Base Runner* Cap",
+        "handle": "47-mlb-new-york-yankees-base-runner-cap-brown",
+        "in_stock": true
+      },
       "11014047695115": {
         "title": "47 MLB Boston Red Sox *Clean Up* Cap (Navy)",
         "handle": "47-mlb-boston-red-sox-clean-up-cap-navy",
@@ -2650,11 +2720,6 @@
         "handle": "asics-gelkinetic-fr-cocoa-powder-champagne",
         "in_stock": false
       },
-      "10872841797899": {
-        "title": "Nike Wmns Pegasus Premium",
-        "handle": "nike-wmns-pegasus-premium-summit-white-white-pure-platinum",
-        "in_stock": false
-      },
       "10861894369547": {
         "title": "Dr. Martens Lowell",
         "handle": "dr-martens-lowell-olive-green",
@@ -2760,11 +2825,6 @@
         "handle": "autry-medalist-w-honey-canvas-white-pow",
         "in_stock": true
       },
-      "10539549851915": {
-        "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
-        "handle": "autry-reelwind-low-nylon-cracked-leather-white-brnsug",
-        "in_stock": false
-      },
       "10793540092171": {
         "title": "Adidas x Wales Bonner Wide Trouser",
         "handle": "adidas-x-wales-bonner-wide-trouser-wonder-white",
@@ -2815,11 +2875,6 @@
         "handle": "tekla-hooded-bathrobe-chestnut-stripes",
         "in_stock": true
       },
-      "10745633603851": {
-        "title": "By Parra Scripted 6 Panel Hat",
-        "handle": "by-parra-scripted-6-panel-hat-navy-blue",
-        "in_stock": false
-      },
       "11012702437643": {
         "title": "Adidas x Liberty London Japan W",
         "handle": "adidas-x-liberty-london-japan-w-aurora-coffee-magic-mauve-khaki-three",
@@ -2863,7 +2918,7 @@
       "10763156586763": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-hide-chipmunk",
-        "in_stock": true
+        "in_stock": false
       },
       "10667719033099": {
         "title": "HAY Weekend Bag Medium",
@@ -2900,20 +2955,10 @@
         "handle": "adidas-samba-lt-w-core-black-lucid-blue-gold-metallic",
         "in_stock": true
       },
-      "10744360796427": {
-        "title": "Adidas Samba LT *Cow Print*",
-        "handle": "adidas-samba-lt-off-white-lucid-pink-gum-4",
-        "in_stock": false
-      },
       "10094675362059": {
         "title": "New Balance 740",
         "handle": "new-balance-u740sb2-slate-grey-blue-agate-black-silver-metallic",
         "in_stock": true
-      },
-      "10866050367755": {
-        "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
-        "handle": "autry-reelwind-low-nylon-cracked-leather-white-salvia",
-        "in_stock": false
       },
       "10534211584267": {
         "title": "Adidas ZPONGE Flux",
@@ -3180,11 +3225,6 @@
         "handle": "adidas-samba-jp-off-white-magic-beige-core-black",
         "in_stock": true
       },
-      "10746596753675": {
-        "title": "On x PAF Cloudmonster Hyper",
-        "handle": "on-x-paf-cloudmonster-hyper-white-white",
-        "in_stock": false
-      },
       "10733988053259": {
         "title": "New Balance 1906R",
         "handle": "new-balance-u1906rof-castlerock-black-metallic-silver-metallic",
@@ -3264,11 +3304,6 @@
         "title": "Adidas Handball Spezial WM",
         "handle": "adidas-handball-spezial-wm-shadow-red-solar-yellow-off-white",
         "in_stock": true
-      },
-      "8983421387019": {
-        "title": "Asics x Hidden NY GEL-Venture 6 Shield",
-        "handle": "asics-x-hidden-ny-gelventure-6-shield-white-wasabi",
-        "in_stock": false
       },
       "10676136608011": {
         "title": "Veja Volley W *O.T. Leather*",
@@ -3495,11 +3530,6 @@
         "handle": "perplex-twoway-zip-hoodie-black",
         "in_stock": true
       },
-      "10228777648395": {
-        "title": "Crocs Barbie Retro Jibbitz 5-Pack",
-        "handle": "crocs-barbie-retro-jibbitz-5pack-multicolor",
-        "in_stock": false
-      },
       "11012704141579": {
         "title": "Sporty & Rich Jadore Hat",
         "handle": "sporty-rich-jadore-hat-white",
@@ -3724,36 +3754,6 @@
         "title": "Adidas Japan W",
         "handle": "adidas-japan-w-footwear-white-dual-yellow-cream-white",
         "in_stock": true
-      },
-      "11008732659979": {
-        "title": "Adidas Samba OG *Snake*",
-        "handle": "adidas-samba-og-snake-brown-khaki-three-gum-5",
-        "in_stock": true
-      },
-      "11010711159051": {
-        "title": "Asics GEL-Resolution 5",
-        "handle": "asics-gelresolution-slate-blue-pure-silver",
-        "in_stock": true
-      },
-      "11012075684107": {
-        "title": "Asics GEL-Resolution 5",
-        "handle": "asics-gelresolution-5-cocoa-powder-cream",
-        "in_stock": true
-      },
-      "11008716439819": {
-        "title": "Clarks Originals Wallabee W",
-        "handle": "clarks-originals-wallabee-w-brown-cow",
-        "in_stock": true
-      },
-      "10746731200779": {
-        "title": "Adidas SL 72 RS",
-        "handle": "adidas-sl-72-rs-grey-five-silver-metallic-off-white",
-        "in_stock": true
-      },
-      "10793531474187": {
-        "title": "Adidas x Wales Bonner Wmns Ft Track Pant",
-        "handle": "adidas-x-wales-bonner-wmns-ft-track-pant-wonder-white",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -3770,7 +3770,7 @@
       "9286308069564": {
         "title": "Godspeed New York Carpenter Distressed Shorts - Black",
         "handle": "godspeed-new-york-carpenter-distressed-shorts-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9370499219644": {
         "title": "Asics Gel-NYC 2.0 - Graphite Grey/Loden Green",
@@ -3800,7 +3800,7 @@
       "9104879255740": {
         "title": "Godspeed New York Drive In Hoodie - Black Wash",
         "handle": "godspeed-new-york-drive-in-hoodie-black-wash",
-        "in_stock": true
+        "in_stock": false
       },
       "9343272124604": {
         "title": "Born x Raised Paranoia Crest Tee - Black",
@@ -4356,11 +4356,6 @@
         "title": "Women's Nike Dunk Low 'Game Day' - Court Purple/Coconut Milk",
         "handle": "womens-nike-dunk-low-game-day-court-purple-coconut-milk",
         "in_stock": true
-      },
-      "9297354227900": {
-        "title": "Nike Force 1 Low Patent Leather (PS) - White/White",
-        "handle": "nike-force-1-low-patent-leather-ps-white-white",
-        "in_stock": false
       },
       "9342991630524": {
         "title": "Women's Nike Air Superfly - Linen/Black",
@@ -5005,6 +5000,11 @@
       "9402909786300": {
         "title": "Birkenstock Boston EVA - Eggshell",
         "handle": "birkenstock-boston-eva-eggshell",
+        "in_stock": true
+      },
+      "9343004016828": {
+        "title": "Women's Nike ReactX Rejuven8 Slide - Sea Glass/Light Orewood Brown",
+        "handle": "womens-nike-reactx-rejuven8-slide-sea-glass-light-orewood-brown",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,68 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Hike Knit Jersey - Black\nhttps://sneakerpolitics.com/products/ice-cream-hike-knit-jersey-black",
-      "detected_at": "2026-08-04T21:59:00.263220+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR MAX UPTEMPO '95 - UNIVERSITYRED/ WHITE/ BLACK\nhttps://undefeated.com/products/nike-air-max-uptempo-95-universityred-white-black",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Brandon Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-brandon-pant-black-stone-washed",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tTech Full-Zip Woven Windrunner Jacket\nhttps://www.asphaltgold.de/products/niketech-fullzip-woven-windrunner-jacket-black",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Hiking Patrol Element Texture Down Vest\nhttps://www.asphaltgold.de/products/hiking-patrol-element-texture-down-vest-grey",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tEveryday Lightweight Training Crew Socks 3-Pack\nhttps://www.asphaltgold.de/products/nikeeveryday-lightweight-training-crew-socks-3pack-black-white",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Sefr Lee Cardigan\nhttps://www.asphaltgold.de/products/sefr-lee-cardigan-neptune-alpaca",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Parel Studios Saana Luma Shorts\nhttps://www.asphaltgold.de/products/parel-studios-saana-luma-shorts-steel-blue",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Stockholm Surfboard Club Box Tee\nhttps://www.asphaltgold.de/products/stockholm-surfboard-club-box-tee-liberation",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asphaltgold Essential Track Shorts\nhttps://www.asphaltgold.de/products/asphaltgold-essential-track-shorts-dark-green",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-cap-moss",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Cotton Chino Baseball Cap\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-cotton-chino-baseball-cap-canopy-olive",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Clean Up* Cap w/ No Loop Label\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-clean-up-cap-w-no-loop-label-brown",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-cap-navy",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Clean Up* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-clean-up-cap-dark-maroon",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-cap-brown",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike ReactX Rejuven8 Slide - Sea Glass/Light Orewood Brown\nhttps://sneakerpolitics.com/products/womens-nike-reactx-rejuven8-slide-sea-glass-light-orewood-brown",
+      "detected_at": "2026-08-04T23:12:46.567728+00:00"
     }
   ]
 }
