@@ -594,7 +594,7 @@
       "8286602461312": {
         "title": "Kith Kids for STATE Clinton Pencil Case - Stadium",
         "handle": "f2661329302",
-        "in_stock": true
+        "in_stock": false
       },
       "8286602363008": {
         "title": "Kith Kids for STATE Clinton Pencil Case - Black",
@@ -1261,7 +1261,7 @@
       "6702318911749": {
         "title": "JORDAN AJ 13 RETRO - WHITE/BLACK/ TRUE RED",
         "handle": "jordan-aj-13-retro-white-black-true-red",
-        "in_stock": true
+        "in_stock": false
       },
       "6702314193157": {
         "title": "ASICS GEL-SD-LYTE - MIDNIGHT/ CREAM",
@@ -1281,7 +1281,7 @@
       "6702439858437": {
         "title": "JORDAN AJ 11 RETRO LOW - WHITE/ UNIVERSITY BLUE/ BLACK",
         "handle": "jordan-aj-11-retro-low-white-university-blue-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6688118276357": {
         "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
@@ -1501,7 +1501,7 @@
       "6702477279493": {
         "title": "NIKE AIR MAX UPTEMPO - WHITE / COURT PURPLE / WHITE / WHITE",
         "handle": "nike-air-max-uptempo-white-court-purple-white-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6702238499077": {
         "title": "NIKE AIR MAX GOADOME LOW SP - TAUPE/ UNIVERSITY RED",
@@ -1776,7 +1776,7 @@
       "6700642435333": {
         "title": "NEW BALANCE 2010 - DOCKSIDE/ INIGO",
         "handle": "new-balance-2010-dockside-inigo",
-        "in_stock": true
+        "in_stock": false
       },
       "6702638792965": {
         "title": "SAUCONY PROGRID GUIDE 7 - SIENNA",
@@ -2618,7 +2618,7 @@
       "10539549851915": {
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-brnsug",
-        "in_stock": true
+        "in_stock": false
       },
       "10793540092171": {
         "title": "Adidas x Wales Bonner Wide Trouser",
@@ -3123,7 +3123,7 @@
       "8983421387019": {
         "title": "Asics x Hidden NY GEL-Venture 6 Shield",
         "handle": "asics-x-hidden-ny-gelventure-6-shield-white-wasabi",
-        "in_stock": true
+        "in_stock": false
       },
       "10676136608011": {
         "title": "Veja Volley W *O.T. Leather*",
@@ -4367,11 +4367,6 @@
         "handle": "honor-the-gift-live-for-the-moments-tee-black",
         "in_stock": true
       },
-      "8763289206972": {
-        "title": "Carhartt WIP Prentis Liner Jacket - Camo Duck Jacquard/Green",
-        "handle": "carhartt-wip-prentis-liner-jacket-camo-duck-jacquard-green",
-        "in_stock": false
-      },
       "8762276315324": {
         "title": "Billionaire Boys Club Chill Knit Tee - Black",
         "handle": "billionaire-boys-club-chill-knit-tee-black",
@@ -4490,7 +4485,7 @@
       "9119233015996": {
         "title": "New Balance 1906L - Silver Metallic/Black",
         "handle": "new-balance-1906l-silver-metallic-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9113787826364": {
         "title": "Mizuno Wave Rider 10 - Harbor Mist/Black",
@@ -4681,11 +4676,6 @@
         "title": "Jacquemus x France x Nike Reissue Track Pants - Blackened Blue/White",
         "handle": "jacquemus-x-france-x-nike-reissue-track-pants-blackened-blue-white",
         "in_stock": true
-      },
-      "9294217150652": {
-        "title": "Air Jordan 5 Retro - White/Metallic Silver",
-        "handle": "air-jordan-5-retro-white-metallic-silver",
-        "in_stock": false
       },
       "9294203912380": {
         "title": "Air Jordan 3 Retro 'World's Best Dad' - Sail/Black",
@@ -5005,6 +4995,16 @@
       "9351415922876": {
         "title": "Adidas HYPERBOOST EPHR LT - Core Black/Solar Red",
         "handle": "adidas-hyperboost-ephr-lt-core-black-solar-red",
+        "in_stock": true
+      },
+      "9357568180412": {
+        "title": "Nike Ava Edge - Summit White/Stone",
+        "handle": "nike-ava-edge-summit-white-stone",
+        "in_stock": true
+      },
+      "9342218731708": {
+        "title": "Women's Air Jordan 4 Retro 'Birds Of Paradise' - Coconut Milk/Muslin",
+        "handle": "womens-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin",
         "in_stock": true
       }
     },
@@ -8752,7 +8752,7 @@
       "9122866135245": {
         "title": "Cut-Out Embroidered Cap Black",
         "handle": "stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
-        "in_stock": false
+        "in_stock": true
       },
       "9122712715469": {
         "title": "Leather Oxford Shoes Black",
@@ -8766,5 +8766,18 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Ava Edge - Summit White/Stone\nhttps://sneakerpolitics.com/products/nike-ava-edge-summit-white-stone",
+      "detected_at": "2026-08-04T05:50:34.801407+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Air Jordan 4 Retro 'Birds Of Paradise' - Coconut Milk/Muslin\nhttps://sneakerpolitics.com/products/womens-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin",
+      "detected_at": "2026-08-04T05:50:34.801407+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Cut-Out Embroidered Cap Black\nhttps://www.slamjam.com/products/stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
+      "detected_at": "2026-08-04T05:50:34.801407+00:00"
+    }
+  ]
 }
