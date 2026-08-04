@@ -944,7 +944,7 @@
       "8286594629760": {
         "title": "VANS LX Old Skool 36 - Souvenir Faded Black",
         "handle": "vn000e8vemv",
-        "in_stock": true
+        "in_stock": false
       },
       "8286595874944": {
         "title": "Nike Air Max 95 Big Bubble - Blue Sapphire / Metallic Silver / White / Light Smoke Grey",
@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702675656965": {
+        "title": "SAUCONY PROGRID GUIDE 7 - TREK/ SAGE",
+        "handle": "saucony-progrid-guide-7-trek-sage",
+        "in_stock": true
+      },
       "6702379303173": {
         "title": "NIKE KD VI - LASER ORANGE/ RASPBERRY RED/ BLACK",
         "handle": "nike-kd-vi-laser-orange-raspberry-red-black",
@@ -2497,14 +2502,29 @@
         "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET",
         "handle": "converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
         "in_stock": true
-      },
-      "6673204445445": {
-        "title": "BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS",
-        "handle": "bape-x-undefeated-color-camo-flannel-pants",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11013831459083": {
+        "title": "New Era MLB Los Angeles Dodgers Washed Contrast 9TWENTY Cap",
+        "handle": "new-era-mlb-los-angeles-dodgers-washed-contrast-9twenty-cap-denim-blue-blue",
+        "in_stock": true
+      },
+      "11013831753995": {
+        "title": "New Era MLB Chicago White Sox Washed Contrast 9TWENTY Cap",
+        "handle": "new-era-mlb-chicago-white-sox-washed-contrast-9twenty-cap-denim-black-white",
+        "in_stock": true
+      },
+      "11013830607115": {
+        "title": "New Era MLB New York Yankees Washed Contrast 9TWENTY Cap",
+        "handle": "new-era-mlb-new-york-yankees-washed-contrast-9twenty-cap-denim-blue-white",
+        "in_stock": true
+      },
+      "11010711978251": {
+        "title": "Asics GEL-NYC",
+        "handle": "asics-gelnyc-smoke-grey-black",
+        "in_stock": true
+      },
       "10993431347467": {
         "title": "Adidas\tx Arte Antwerp Graphic T-Shirt",
         "handle": "adidasx-arte-antwerp-graphic-tshirt-off-white-amazon-green",
@@ -2718,7 +2738,7 @@
       "10745633603851": {
         "title": "By Parra Scripted 6 Panel Hat",
         "handle": "by-parra-scripted-6-panel-hat-navy-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "11012702437643": {
         "title": "Adidas x Liberty London Japan W",
@@ -2813,7 +2833,7 @@
       "10866050367755": {
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-salvia",
-        "in_stock": true
+        "in_stock": false
       },
       "10534211584267": {
         "title": "Adidas ZPONGE Flux",
@@ -3398,7 +3418,7 @@
       "10228777648395": {
         "title": "Crocs Barbie Retro Jibbitz 5-Pack",
         "handle": "crocs-barbie-retro-jibbitz-5pack-multicolor",
-        "in_stock": true
+        "in_stock": false
       },
       "11012704141579": {
         "title": "Sporty & Rich Jadore Hat",
@@ -3713,7 +3733,7 @@
       "10676338721035": {
         "title": "HAL Studios Studio Pant",
         "handle": "hal-studios-studio-pant-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9004808667403": {
         "title": "Asphaltgold Tank Top 2-Pack",
@@ -3734,29 +3754,14 @@
         "title": "Adidas Wmns Teamgeist Adicolor Oversized Woven Track Pant",
         "handle": "adidas-wmns-teamgeist-adicolor-oversized-woven-track-pant-black-signal-green",
         "in_stock": true
-      },
-      "10669043122443": {
-        "title": "Adidas Y-3 Puffer Jacket",
-        "handle": "adidas-y3-puffer-jacket-tribe-orange",
-        "in_stock": true
-      },
-      "10606640529675": {
-        "title": "Perplex Core Shorts",
-        "handle": "perplex-core-shorts-black",
-        "in_stock": true
-      },
-      "8457130639627": {
-        "title": "Tekla Pyjamas Shorts",
-        "handle": "tekla-pyjamas-shorts-hopper-stripes",
-        "in_stock": true
-      },
-      "10724804821259": {
-        "title": "Salomon X-Alp Mid Leather GTX",
-        "handle": "salomon-xalp-mid-leather-gtx-astral-aura-poseidon-rouge-red",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "8719646458044": {
+        "title": "Asics Gel-Kayano 20 - White/Pure Silver",
+        "handle": "asics-gel-kayano-20-white-pure-silver",
+        "in_stock": true
+      },
       "9457188733116": {
         "title": "Politics x Mitchell & Ness Pro Pinch Canvas Snapback - Khaki",
         "handle": "politics-x-mitchell-ness-pro-pinch-canvas-snapback-khaki",
@@ -5000,11 +5005,6 @@
       "9357568180412": {
         "title": "Nike Ava Edge - Summit White/Stone",
         "handle": "nike-ava-edge-summit-white-stone",
-        "in_stock": true
-      },
-      "9342218731708": {
-        "title": "Women's Air Jordan 4 Retro 'Birds Of Paradise' - Coconut Milk/Muslin",
-        "handle": "womens-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin",
         "in_stock": true
       }
     },
@@ -6644,7 +6644,7 @@
       "10579016188170": {
         "title": "G-Shock x thisisneverthat DW-5600TNT-7",
         "handle": "g-shock-x-thisisneverthat-dw-5600tnt-7-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10578995675402": {
         "title": "Nike ACG 'Tuff Fleece'",
@@ -7665,7 +7665,7 @@
         "in_stock": false
       },
       "9124355506381": {
-        "title": "ACG Radical AirFlow Apex Dri-FIT Bucket Hat White / White",
+        "title": "ACG Radical AirFlow Apex Dri-FIT Bucket Hat White",
         "handle": "nike-accessories-u-nk-df-apex-bucket-acg-radair-white-j364343",
         "in_stock": true
       },
@@ -7900,12 +7900,12 @@
         "in_stock": true
       },
       "9123988373709": {
-        "title": "LTTT Gel-Resolution 5 Sneakers White / Red",
+        "title": "LTTT GEL-Resolution 5 Sneakers White / Red",
         "handle": "asics-footwear-gel-resolution-5-white-j359704",
         "in_stock": true
       },
       "9123988406477": {
-        "title": "LTTT Gel-Resolution 5 Sneakers Parrot Green / Pure Silver",
+        "title": "LTTT GEL-Resolution 5 Sneakers Parrot Green / Pure Silver",
         "handle": "asics-footwear-gel-resolution-5-green-j359703",
         "in_stock": true
       },
@@ -8768,20 +8768,28 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Afew Store: Crocs Crocs Classic EXP\nhttps://www.afew-store.com/products/crocs-crocs-classic-exp-summit-white-gum",
-      "detected_at": "2026-08-04T11:10:31.418564+00:00"
+      "message": "🆕 **New drop** at Undefeated: SAUCONY PROGRID GUIDE 7 - TREK/ SAGE\nhttps://undefeated.com/products/saucony-progrid-guide-7-trek-sage",
+      "detected_at": "2026-08-04T13:11:27.497364+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Y-3 CHITO CITY GRAPHIC TEE\nhttps://www.afew-store.com/products/y-3-city-gfx-ss-black",
-      "detected_at": "2026-08-04T11:10:31.418564+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Era MLB Los Angeles Dodgers Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-los-angeles-dodgers-washed-contrast-9twenty-cap-denim-blue-blue",
+      "detected_at": "2026-08-04T13:11:27.497364+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Y-3 CHITO CITY GRAPHIC TEE\nhttps://www.afew-store.com/products/y-3-city-gfx-ss-tee-lgsogr",
-      "detected_at": "2026-08-04T11:10:31.418564+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Era MLB Chicago White Sox Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-chicago-white-sox-washed-contrast-9twenty-cap-denim-black-white",
+      "detected_at": "2026-08-04T13:11:27.497364+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Mizuno WAVE MUJIN TL Gore-Tex\nhttps://www.afew-store.com/products/mizuno-wave-mujin-tl-gtx-black-black-royal-blue",
-      "detected_at": "2026-08-04T11:10:31.418564+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Era MLB New York Yankees Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-new-york-yankees-washed-contrast-9twenty-cap-denim-blue-white",
+      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gelnyc-smoke-grey-black",
+      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 20 - White/Pure Silver\nhttps://sneakerpolitics.com/products/asics-gel-kayano-20-white-pure-silver",
+      "detected_at": "2026-08-04T13:11:27.497364+00:00"
     }
   ]
 }
