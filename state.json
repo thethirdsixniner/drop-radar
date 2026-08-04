@@ -2553,7 +2553,7 @@
       "10872841797899": {
         "title": "Nike Wmns Pegasus Premium",
         "handle": "nike-wmns-pegasus-premium-summit-white-white-pure-platinum",
-        "in_stock": true
+        "in_stock": false
       },
       "10861894369547": {
         "title": "Dr. Martens Lowell",
@@ -3663,7 +3663,7 @@
       "10860644368651": {
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-pelican",
-        "in_stock": true
+        "in_stock": false
       },
       "10855844708619": {
         "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
@@ -4385,7 +4385,7 @@
       "9104611279036": {
         "title": "Women's On Cloudmonster Void - Ivory/Pearl",
         "handle": "womens-on-cloudmonster-void-ivory-pearl",
-        "in_stock": true
+        "in_stock": false
       },
       "9103768584380": {
         "title": "Saucony Progrid Omni 9 - Grey/Slime",
@@ -6261,6 +6261,31 @@
       }
     },
     "https://www.afew-store.com": {
+      "10582622929162": {
+        "title": "Crocs Crocs Classic EXP",
+        "handle": "crocs-crocs-classic-exp-summit-white-gum",
+        "in_stock": true
+      },
+      "10582610837770": {
+        "title": "Y-3 CHITO CITY GRAPHIC TEE",
+        "handle": "y-3-city-gfx-ss-black",
+        "in_stock": true
+      },
+      "10582610739466": {
+        "title": "Y-3 CHITO CITY GRAPHIC TEE",
+        "handle": "y-3-city-gfx-ss-tee-lgsogr",
+        "in_stock": true
+      },
+      "10582588129546": {
+        "title": "On Running Cloudrock Low Waterproof",
+        "handle": "on-running-cloudrock-low-wp-glacier-rock",
+        "in_stock": false
+      },
+      "10582587736330": {
+        "title": "Mizuno WAVE MUJIN TL Gore-Tex",
+        "handle": "mizuno-wave-mujin-tl-gtx-black-black-royal-blue",
+        "in_stock": true
+      },
       "10582553755914": {
         "title": "Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L",
         "handle": "stanley-1913-the-iceflow-flip-straw-2-0-tumbler-30-oz-0-89-lcoffee",
@@ -7484,31 +7509,6 @@
       "10572870123786": {
         "title": "adidas Originals ADICOLOR DENIM TRACKTOP",
         "handle": "adidas-originals-sst-tt-worblu",
-        "in_stock": true
-      },
-      "10572868026634": {
-        "title": "Arte Antwerp Sunfade Uniform Zip Sweatshirt",
-        "handle": "arte-antwerp-sunfade-uniform-zip-sweatshirt-black",
-        "in_stock": true
-      },
-      "10572865405194": {
-        "title": "Arte Antwerp Sunfade Uniform Sweatpants",
-        "handle": "arte-antwerp-sunfade-uniform-sweatpants-black",
-        "in_stock": true
-      },
-      "10572863013130": {
-        "title": "Arte Antwerp Cor T-shirt",
-        "handle": "arte-antwerp-cor-t-shirt-black",
-        "in_stock": true
-      },
-      "10572860260618": {
-        "title": "Arte Antwerp Stencil Sunfade Longsleeve",
-        "handle": "arte-antwerp-stencil-sunfade-longsleeve-bordeaux",
-        "in_stock": true
-      },
-      "10572856295690": {
-        "title": "Arte Antwerp Stencil Sunfade Longsleeve",
-        "handle": "arte-antwerp-stencil-sunfade-longsleeve-navy",
         "in_stock": true
       }
     },
@@ -8768,56 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Graphic T-Shirt\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-graphic-tshirt-off-white-amazon-green",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
+      "message": "🆕 **New drop** at Afew Store: Crocs Crocs Classic EXP\nhttps://www.afew-store.com/products/crocs-crocs-classic-exp-summit-white-gum",
+      "detected_at": "2026-08-04T11:10:31.418564+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Graphic T-Shirt\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-graphic-tshirt-collegiate-navy-off-white",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
+      "message": "🆕 **New drop** at Afew Store: Y-3 CHITO CITY GRAPHIC TEE\nhttps://www.afew-store.com/products/y-3-city-gfx-ss-black",
+      "detected_at": "2026-08-04T11:10:31.418564+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Linen Bermudas\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-linen-bermudas-dust-cargo",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
+      "message": "🆕 **New drop** at Afew Store: Y-3 CHITO CITY GRAPHIC TEE\nhttps://www.afew-store.com/products/y-3-city-gfx-ss-tee-lgsogr",
+      "detected_at": "2026-08-04T11:10:31.418564+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Linen Bermudas\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-linen-bermudas-off-white",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Lace Patch Cap\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-lace-patch-cap-raw-white-off-white",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Socks 2-Pack\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-socks-2pack-black-off-white",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Arte Antwerp F50\nhttps://www.asphaltgold.de/products/adidas-x-arte-antwerp-f50-core-white-core-white-core-white",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L\nhttps://www.afew-store.com/products/stanley-1913-the-iceflow-flip-straw-2-0-tumbler-30-oz-0-89-lcoffee",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 20 oz / 0.59 L\nhttps://www.afew-store.com/products/stanley-1913-the-iceflow-flip-straw-2-0-tumbler-20-oz-0-59-lcoffee",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Stanley 1913 The Quencher H2.0 FlowState Tumbler 40 oz / 1.18 L\nhttps://www.afew-store.com/products/stanley-1913-the-quencher-h2-0-flowstate-tumbler-40-oz-1-18-lcoffee",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-NYC 2.0\nhttps://www.afew-store.com/products/asics-gel-nyc-2-0-clay-grey-cement-grey",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-NYC 2.0\nhttps://www.afew-store.com/products/asics-gel-nyc-2-0-slate-blue-graphite-grey",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-NYC 2.0\nhttps://www.afew-store.com/products/asics-gel-nyc-2-0-graphite-grey-loden-green",
-      "detected_at": "2026-08-04T08:41:55.137937+00:00"
+      "message": "🆕 **New drop** at Afew Store: Mizuno WAVE MUJIN TL Gore-Tex\nhttps://www.afew-store.com/products/mizuno-wave-mujin-tl-gtx-black-black-royal-blue",
+      "detected_at": "2026-08-04T11:10:31.418564+00:00"
     }
   ]
 }
