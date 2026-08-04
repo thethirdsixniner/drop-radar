@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286625759360": {
+        "title": "Nike Air Force 1 Low Protro - White / Safety Orange",
+        "handle": "nkiq3921-100",
+        "in_stock": true
+      },
+      "8286625857664": {
+        "title": "Nike Blazy - Pine Green / Sail / White",
+        "handle": "nkim2523-300",
+        "in_stock": true
+      },
       "8286625333376": {
         "title": "Nike ACG Zegama Hike - Cream II / Light Orewood Brown / Cave Stone",
         "handle": "nkio7854-201",
@@ -600,11 +610,6 @@
         "title": "Kith Kids for STATE Clinton Pencil Case - Black",
         "handle": "f2661329001",
         "in_stock": true
-      },
-      "8286602330240": {
-        "title": "Kith Kids for STATE Kane Backpack - Bloom",
-        "handle": "f2664484660",
-        "in_stock": false
       },
       "8286602166400": {
         "title": "Kith Kids for STATE Kane Backpack - Black",
@@ -1245,11 +1250,6 @@
         "title": "WGACA Fendi Zucca Canvas Shoulder Bag - Brown",
         "handle": "wgqbb0593j0b837",
         "in_stock": false
-      },
-      "8286609408128": {
-        "title": "WGACA Fendi Tobacco Zucca Canvas Boston Bag - Brown",
-        "handle": "wgqbb04j3j0b00g",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -1301,6 +1301,11 @@
       "6702655308037": {
         "title": "ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK",
         "handle": "adidas-pw-adistar-jellyfish-cwhite-cblack",
+        "in_stock": true
+      },
+      "6702664679685": {
+        "title": "NIKE AIR FORCE 1 LOW PROTRO 'LOTR' - WHITE/  SAFETY ORANGE",
+        "handle": "nike-air-force-1-low-protro-lotr-white-safety-orange",
         "in_stock": true
       },
       "6702675624197": {
@@ -2497,14 +2502,89 @@
         "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET",
         "handle": "converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
         "in_stock": true
-      },
-      "6610752372809": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET",
-        "handle": "converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11014047695115": {
+        "title": "47 MLB Boston Red Sox *Clean Up* Cap (Navy)",
+        "handle": "47-mlb-boston-red-sox-clean-up-cap-navy",
+        "in_stock": true
+      },
+      "11014053363979": {
+        "title": "47 MLB Los Angeles Dodgers *Clean Up* Cap (Vintage Navy)",
+        "handle": "47-mlb-los-angeles-dodgers-clean-up-cap-vintage-navy-1",
+        "in_stock": true
+      },
+      "11014083182859": {
+        "title": "47 MLB New York Yankees *Trawler Clean Up* Cap (Moss)",
+        "handle": "47-mlb-new-york-yankees-trawler-clean-up-cap-moss",
+        "in_stock": true
+      },
+      "11014086852875": {
+        "title": "47 MLB New York Yankees *Trawler Clean Up* Cap (Brown)",
+        "handle": "47-mlb-new-york-yankees-trawler-clean-up-cap-brown",
+        "in_stock": true
+      },
+      "11014094586123": {
+        "title": "47 MLB New York Yankees *Tonal Clean Up* Cap (Vintage Navy)",
+        "handle": "47-mlb-new-york-yankees-tonal-clean-up-cap-vintage-navy",
+        "in_stock": true
+      },
+      "11014099861771": {
+        "title": "47 MLB New York Yankees *Contrast Clean Up* Cap (Brown)",
+        "handle": "47-mlb-new-york-yankees-contrast-clean-up-cap-brown",
+        "in_stock": true
+      },
+      "11014107726091": {
+        "title": "47 MLB New York Yankees *Camo Clean Up* Cap (Camo)",
+        "handle": "47-mlb-new-york-yankees-camo-clean-up-cap-camo",
+        "in_stock": true
+      },
+      "11014163497227": {
+        "title": "47 MLB Oakland Athletics *Base Runner Two Tone Clean Up* Cap (Natural / Green)",
+        "handle": "47-mlb-oakland-athletics-base-runner-two-tone-clean-up-cap-natural-green",
+        "in_stock": true
+      },
+      "10992001122571": {
+        "title": "Arte Antwerp Big A Uniform Denim Pants",
+        "handle": "arte-antwerp-big-a-uniform-denim-pants-denim",
+        "in_stock": true
+      },
+      "11014970638603": {
+        "title": "Puma MagMax Nitro 2",
+        "handle": "puma-magmax-nitro-2-chocolae-fondue-puma-black",
+        "in_stock": true
+      },
+      "10992001351947": {
+        "title": "Arte Antwerp Reversible Plaid Hooded Jacket",
+        "handle": "arte-antwerp-reversible-plaid-hooded-jacket-black",
+        "in_stock": true
+      },
+      "10992001581323": {
+        "title": "Arte Antwerp Uniform Track Jacket",
+        "handle": "arte-antwerp-uniform-track-jacket-black",
+        "in_stock": true
+      },
+      "10992045785355": {
+        "title": "Arte Antwerp Uniform Track Pants",
+        "handle": "arte-antwerp-uniform-track-pants-black",
+        "in_stock": true
+      },
+      "11005526114571": {
+        "title": "Arte Antwerp Sunfade Uniform Zip Sweatshirt",
+        "handle": "arte-antwerp-sunfade-uniform-zip-sweatshirt-black",
+        "in_stock": true
+      },
+      "11005526769931": {
+        "title": "Arte Antwerp Sunfade Uniform Sweatpants",
+        "handle": "arte-antwerp-sunfade-uniform-sweatpants-black",
+        "in_stock": true
+      },
+      "11014999605515": {
+        "title": "Asics GT-2000 15 TR",
+        "handle": "asics-gt2000-15-tr-simply-taupe-foggy-teal",
+        "in_stock": true
+      },
       "11013831459083": {
         "title": "New Era MLB Los Angeles Dodgers Washed Contrast 9TWENTY Cap",
         "handle": "new-era-mlb-los-angeles-dodgers-washed-contrast-9twenty-cap-denim-blue-blue",
@@ -3674,89 +3754,14 @@
         "title": "Adidas x Wales Bonner Wmns Ft Track Pant",
         "handle": "adidas-x-wales-bonner-wmns-ft-track-pant-wonder-white",
         "in_stock": true
-      },
-      "10862918107403": {
-        "title": "Nike\tClub Structured OG Flame Cap",
-        "handle": "nikeclub-structured-og-flame-cap-midnight-navy",
-        "in_stock": true
-      },
-      "10860644368651": {
-        "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
-        "handle": "autry-reelwind-low-nylon-cracked-leather-white-pelican",
-        "in_stock": false
-      },
-      "10855844708619": {
-        "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
-        "handle": "sporty-rich-heritage-yankees-serif-sweatpant-dark-navy",
-        "in_stock": true
-      },
-      "10800048734475": {
-        "title": "Carhartt WIP Aaron Pant",
-        "handle": "carhartt-wip-aaron-pant-blue-burst-washed",
-        "in_stock": true
-      },
-      "10816953024779": {
-        "title": "Carhartt WIP OG Detroit Jacket",
-        "handle": "carhartt-wip-og-detroit-jacket",
-        "in_stock": true
-      },
-      "10749109829899": {
-        "title": "Nike\tAeroSwift Dri-FIT ADV Running Tights",
-        "handle": "nikeaeroswift-drifit-adv-running-tights-black-summit-white",
-        "in_stock": true
-      },
-      "10790783779083": {
-        "title": "IDEA Courtside Cap",
-        "handle": "idea-courtside-cap-green-white",
-        "in_stock": true
-      },
-      "10761696444683": {
-        "title": "Carhartt WIP L/S Malden Shirt",
-        "handle": "carhartt-wip-ls-malden-shirt-malden-stripe-yosemite",
-        "in_stock": true
-      },
-      "10746805780747": {
-        "title": "thisisneverthat DSN Oxford Shirt",
-        "handle": "thisisneverthat-dsn-oxford-shirt-navy",
-        "in_stock": true
-      },
-      "10714025591051": {
-        "title": "Carhartt WIP American Script Sweat",
-        "handle": "carhartt-wip-american-script-sweat-dark-fir",
-        "in_stock": true
-      },
-      "8679423082763": {
-        "title": "Veja Volley *O.T. Leather*",
-        "handle": "veja-volley-o-t-leather-white-natural",
-        "in_stock": true
-      },
-      "10676338721035": {
-        "title": "HAL Studios Studio Pant",
-        "handle": "hal-studios-studio-pant-black",
-        "in_stock": false
-      },
-      "9004808667403": {
-        "title": "Asphaltgold Tank Top 2-Pack",
-        "handle": "asphaltgold-tank-top-2-pack-white",
-        "in_stock": true
-      },
-      "8778761666827": {
-        "title": "Asphaltgold Essential Track Shorts",
-        "handle": "asphaltgold-essential-track-shorts-grey",
-        "in_stock": true
-      },
-      "10676142670091": {
-        "title": "HAL Studios Haus Sweatpant",
-        "handle": "hal-studios-haus-sweatpants-washed-black",
-        "in_stock": true
-      },
-      "10219962237195": {
-        "title": "Adidas Wmns Teamgeist Adicolor Oversized Woven Track Pant",
-        "handle": "adidas-wmns-teamgeist-adicolor-oversized-woven-track-pant-black-signal-green",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9472748716220": {
+        "title": "Nike Blazy - Pine Green/Sail",
+        "handle": "nike-blazy-pine-green-sail",
+        "in_stock": true
+      },
       "8719646458044": {
         "title": "Asics Gel-Kayano 20 - White/Pure Silver",
         "handle": "asics-gel-kayano-20-white-pure-silver",
@@ -4066,11 +4071,6 @@
         "title": "Nike P-6000 - Dark Smoke Grey/Volt",
         "handle": "nike-p-6000-dark-smoke-grey-volt",
         "in_stock": true
-      },
-      "9354311631036": {
-        "title": "Nike Dunk Low (PS) - Midnight Navy/Speed Red",
-        "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
-        "in_stock": false
       },
       "9354227581116": {
         "title": "Nike Dunk Low (TD) - Midnight Navy/Speed Red",
@@ -5009,6 +5009,41 @@
       }
     },
     "https://www.kickgame.co.uk": {
+      "15045530354040": {
+        "title": "Saucony Progrid Omni 9 Chrome 'Debonair Silver'",
+        "handle": "saucony-progrid-omni-9-chrome-debonair-silver-1",
+        "in_stock": false
+      },
+      "15045528715640": {
+        "title": "Saucony Progrid Omni 9 Matte 'Sage Black'",
+        "handle": "saucony-progrid-omni-9-matte-sage-black",
+        "in_stock": false
+      },
+      "15045522358648": {
+        "title": "Saucony Progrid Omni 9 OG 'Fatigue'",
+        "handle": "saucony-progrid-omni-9-chrome-debonair-silver",
+        "in_stock": false
+      },
+      "15045515149688": {
+        "title": "Saucony Progrid Omni 9 OG 'Maroon White'",
+        "handle": "saucony-progrid-omni-9-og-maroon-white",
+        "in_stock": false
+      },
+      "15045514494328": {
+        "title": "Saucony Progrid Omni 9 OG 'White Vizired'",
+        "handle": "saucony-progrid-omni-9-og-white-vizired",
+        "in_stock": false
+      },
+      "15045511119224": {
+        "title": "Saucony Progrid Omni 9 GTX 'Black Silver'",
+        "handle": "saucony-progrid-omni-9-gtx-black-silver",
+        "in_stock": false
+      },
+      "15045507285368": {
+        "title": "Saucony Progrid Omni 9 GTX 'Fatigue Silver'",
+        "handle": "saucony-progrid-omni-9-og-fatigue-silver",
+        "in_stock": false
+      },
       "15044347298168": {
         "title": "Nike Air Max Plus Aqua Blue",
         "handle": "nike-air-max-plus-aqua-blue",
@@ -6223,44 +6258,19 @@
         "title": "PLAYERS ONLY BLACK JERSEY ZIP HOODIE",
         "handle": "black-jersey-zip-hoodie",
         "in_stock": true
-      },
-      "15029240070520": {
-        "title": "PLAYERS ONLY NAVY NY TEE",
-        "handle": "navy-ny-tee",
-        "in_stock": true
-      },
-      "15029174468984": {
-        "title": "Air Jordan 4 Retro OG SP A Ma Maniére While You Were Sleeping W",
-        "handle": "air-jordan-4-retro-og-sp-a-ma-maniere-while-you-were-sleeping-w",
-        "in_stock": false
-      },
-      "15029174370680": {
-        "title": "Off-White x Air Jordan 4 SP 'Sail' W",
-        "handle": "off-white-x-air-jordan-4-sp-sail-w",
-        "in_stock": false
-      },
-      "15029174337912": {
-        "title": "Jordan Air Jordan 4 Retro Rare Air GS",
-        "handle": "jordan-air-jordan-4-retro-rare-air-gs",
-        "in_stock": false
-      },
-      "15029174305144": {
-        "title": "Jordan 1 Retro Low Golf Travis Scott Neutral Olive",
-        "handle": "jordan-1-retro-low-golf-travis-scott-neutral-olive",
-        "in_stock": false
-      },
-      "15029174239608": {
-        "title": "Nike Mac Attack QS SP Travis Scott Cactus Jack",
-        "handle": "nike-mac-attack-qs-sp-travis-scott-cactus-jack",
-        "in_stock": false
-      },
-      "15029174206840": {
-        "title": "Jordan Jumpman Jack TR Travis Scott Dark Mocha",
-        "handle": "jordan-jumpman-jack-tr-travis-scott-dark-mocha",
-        "in_stock": false
       }
     },
     "https://www.afew-store.com": {
+      "10582782378250": {
+        "title": "New Balance 740",
+        "handle": "new-balance-740-pink-granite-pink-chalk",
+        "in_stock": true
+      },
+      "10582775890186": {
+        "title": "New Balance 9060",
+        "handle": "new-balance-9060-nightwatch-green-angora",
+        "in_stock": true
+      },
       "10582622929162": {
         "title": "Crocs Crocs Classic EXP",
         "handle": "crocs-crocs-classic-exp-summit-white-gum",
@@ -7500,20 +7510,20 @@
         "title": "Lacoste TURTLENECK SWEATER",
         "handle": "lacoste-turtleneck-sweater-navy-blue",
         "in_stock": true
-      },
-      "10573547831562": {
-        "title": "G-SHOCK x Pokémon GA-110PKM-7AER",
-        "handle": "g-shock-x-pok-mon-ga-110pkm-7aer-wei",
-        "in_stock": false
-      },
-      "10572870123786": {
-        "title": "adidas Originals ADICOLOR DENIM TRACKTOP",
-        "handle": "adidas-originals-sst-tt-worblu",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9058063417549": {
+        "title": "Men's Carhartt WIP Duck Puffer Jacket Green",
+        "handle": "sacai-clothing-carhartt-wip-washed-duck-puffer-jacket-green-j328941",
+        "in_stock": true
+      },
+      "9101851623629": {
+        "title": "Guide Tennie PRO GTX Sneakers Core Black",
+        "handle": "adidas-footwear-guidetennie-pro-gtx-black-j345850",
+        "in_stock": true
+      },
       "9118677827789": {
         "title": "Canada x NOCTA Longsleeve T-Shirt Black",
         "handle": "nike-clothing-cax-m-nk-df-cof-jsy-ls-black-j364606",
@@ -8753,43 +8763,105 @@
         "title": "Cut-Out Embroidered Cap Black",
         "handle": "stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
         "in_stock": true
-      },
-      "9122712715469": {
-        "title": "Leather Oxford Shoes Black",
-        "handle": "dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-black-j363836",
-        "in_stock": true
-      },
-      "9122712682701": {
-        "title": "Suede Sneakers Dark Purple",
-        "handle": "dries-van-noten-footwear-ms262-1503-ml-shoes-q0132-dpu-purple-j363833",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: SAUCONY PROGRID GUIDE 7 - TREK/ SAGE\nhttps://undefeated.com/products/saucony-progrid-guide-7-trek-sage",
-      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+      "message": "🆕 **New drop** at Kith: Nike Air Force 1 Low Protro - White / Safety Orange\nhttps://kith.com/products/nkiq3921-100",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Era MLB Los Angeles Dodgers Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-los-angeles-dodgers-washed-contrast-9twenty-cap-denim-blue-blue",
-      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+      "message": "🆕 **New drop** at Kith: Nike Blazy - Pine Green / Sail / White\nhttps://kith.com/products/nkim2523-300",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Era MLB Chicago White Sox Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-chicago-white-sox-washed-contrast-9twenty-cap-denim-black-white",
-      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 LOW PROTRO 'LOTR' - WHITE/  SAFETY ORANGE\nhttps://undefeated.com/products/nike-air-force-1-low-protro-lotr-white-safety-orange",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Era MLB New York Yankees Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-new-york-yankees-washed-contrast-9twenty-cap-denim-blue-white",
-      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB Boston Red Sox *Clean Up* Cap (Navy)\nhttps://www.asphaltgold.de/products/47-mlb-boston-red-sox-clean-up-cap-navy",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gelnyc-smoke-grey-black",
-      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB Los Angeles Dodgers *Clean Up* Cap (Vintage Navy)\nhttps://www.asphaltgold.de/products/47-mlb-los-angeles-dodgers-clean-up-cap-vintage-navy-1",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 20 - White/Pure Silver\nhttps://sneakerpolitics.com/products/asics-gel-kayano-20-white-pure-silver",
-      "detected_at": "2026-08-04T13:11:27.497364+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Trawler Clean Up* Cap (Moss)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-trawler-clean-up-cap-moss",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Trawler Clean Up* Cap (Brown)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-trawler-clean-up-cap-brown",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Tonal Clean Up* Cap (Vintage Navy)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-tonal-clean-up-cap-vintage-navy",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Contrast Clean Up* Cap (Brown)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-contrast-clean-up-cap-brown",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Camo Clean Up* Cap (Camo)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-camo-clean-up-cap-camo",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB Oakland Athletics *Base Runner Two Tone Clean Up* Cap (Natural / Green)\nhttps://www.asphaltgold.de/products/47-mlb-oakland-athletics-base-runner-two-tone-clean-up-cap-natural-green",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Big A Uniform Denim Pants\nhttps://www.asphaltgold.de/products/arte-antwerp-big-a-uniform-denim-pants-denim",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Puma MagMax Nitro 2\nhttps://www.asphaltgold.de/products/puma-magmax-nitro-2-chocolae-fondue-puma-black",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Reversible Plaid Hooded Jacket\nhttps://www.asphaltgold.de/products/arte-antwerp-reversible-plaid-hooded-jacket-black",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Uniform Track Jacket\nhttps://www.asphaltgold.de/products/arte-antwerp-uniform-track-jacket-black",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Uniform Track Pants\nhttps://www.asphaltgold.de/products/arte-antwerp-uniform-track-pants-black",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Sunfade Uniform Zip Sweatshirt\nhttps://www.asphaltgold.de/products/arte-antwerp-sunfade-uniform-zip-sweatshirt-black",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Sunfade Uniform Sweatpants\nhttps://www.asphaltgold.de/products/arte-antwerp-sunfade-uniform-sweatpants-black",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asics GT-2000 15 TR\nhttps://www.asphaltgold.de/products/asics-gt2000-15-tr-simply-taupe-foggy-teal",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Blazy - Pine Green/Sail\nhttps://sneakerpolitics.com/products/nike-blazy-pine-green-sail",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: New Balance 740\nhttps://www.afew-store.com/products/new-balance-740-pink-granite-pink-chalk",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: New Balance 9060\nhttps://www.afew-store.com/products/new-balance-9060-nightwatch-green-angora",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Carhartt WIP Duck Puffer Jacket Green\nhttps://www.slamjam.com/products/sacai-clothing-carhartt-wip-washed-duck-puffer-jacket-green-j328941",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Guide Tennie PRO GTX Sneakers Core Black\nhttps://www.slamjam.com/products/adidas-footwear-guidetennie-pro-gtx-black-j345850",
+      "detected_at": "2026-08-04T15:36:55.016625+00:00"
     }
   ]
 }
