@@ -1,6 +1,21 @@
 {
   "stores": {
     "https://kith.com": {
+      "8285638721664": {
+        "title": "Kith Adrian Tee - White",
+        "handle": "khm034290-101",
+        "in_stock": true
+      },
+      "8285638688896": {
+        "title": "Kith Adrian Tee - Shadow",
+        "handle": "khm034290-004",
+        "in_stock": true
+      },
+      "8285638623360": {
+        "title": "Kith Adrian Tee - Sandrift",
+        "handle": "khm034290-104",
+        "in_stock": true
+      },
       "8286625759360": {
         "title": "Nike Air Force 1 Low Protro - White / Safety Orange",
         "handle": "nkiq3921-100",
@@ -154,7 +169,7 @@
       "8286621925504": {
         "title": "Kith & Cinelli for MET Bike Helmet - Stadium",
         "handle": "a1cc1kitub8g",
-        "in_stock": false
+        "in_stock": true
       },
       "8286623662208": {
         "title": "Nike WMNS Moon Shoe - Sail / Chlorophyll",
@@ -1235,21 +1250,6 @@
         "title": "WGACA Fendi Zucca Mamma Baguette Shoulder Bag - Brown",
         "handle": "wgqbb0493j0b03v",
         "in_stock": true
-      },
-      "8286609113216": {
-        "title": "WGACA Fendi Zucchino Canvas Forever Baguette Bag - Silver",
-        "handle": "wgqbb0594ovb000",
-        "in_stock": true
-      },
-      "8286609277056": {
-        "title": "WGACA Fendi Zucca Croissant Mini Bag - Brown",
-        "handle": "wgqbb08n3j0900q",
-        "in_stock": true
-      },
-      "8286609375360": {
-        "title": "WGACA Fendi Zucca Canvas Shoulder Bag - Brown",
-        "handle": "wgqbb0593j0b837",
-        "in_stock": false
       }
     },
     "https://undefeated.com": {
@@ -3757,6 +3757,36 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9343272124604": {
+        "title": "Born x Raised Paranoia Crest Tee - Black",
+        "handle": "born-x-raised-paranoia-crest-tee-black",
+        "in_stock": true
+      },
+      "9343274418364": {
+        "title": "Born x Raised Speed Rocker Tee - Blue",
+        "handle": "born-x-raised-speed-rocker-tee-blue",
+        "in_stock": true
+      },
+      "9343274778812": {
+        "title": "Born x Raised Paranoia Football Jersey - Black",
+        "handle": "born-x-raised-paranoia-football-jersey-black",
+        "in_stock": true
+      },
+      "9343275073724": {
+        "title": "Born x Raised Heaven Soccer Jersey - Lavender",
+        "handle": "born-x-raised-heaven-soccer-jersey-lavender",
+        "in_stock": true
+      },
+      "9343275499708": {
+        "title": "Born x Raised Paranoia Crest Snapback - Black",
+        "handle": "born-x-raised-paranoia-crest-snapback-black",
+        "in_stock": true
+      },
+      "9363156074684": {
+        "title": "PEACEMINUSONE x Korea x Nike Academy Pro Soccer Top - Black/White",
+        "handle": "peaceminusone-x-korea-x-nike-academy-pro-soccer-top-black-white-1",
+        "in_stock": false
+      },
       "9357549469884": {
         "title": "Nike Air Max 95 OG 'Granite' - Black/White",
         "handle": "nike-air-max-95-og-granite-black-white",
@@ -4390,7 +4420,7 @@
       "9261038305468": {
         "title": "Air Jordan 1 Low Golf - White/Sequoia",
         "handle": "air-jordan-1-low-golf-white-sequoia",
-        "in_stock": true
+        "in_stock": false
       },
       "9104611279036": {
         "title": "Women's On Cloudmonster Void - Ivory/Pearl",
@@ -4406,16 +4436,6 @@
         "title": "Vans LX Authentic 44 - Diamond Check Blackout",
         "handle": "vans-lx-authentic-44-diamond-check-blackout",
         "in_stock": true
-      },
-      "9051544715452": {
-        "title": "Nike ReactX Rejuven8 - Blue Void/Indigo Burst",
-        "handle": "nike-reactx-rejuven8-blue-void-indigo-burst",
-        "in_stock": false
-      },
-      "9022189764796": {
-        "title": "Air Jordan 1 Low SE 'Somos Eternos' - Denim Turquoise/Smoky Blue",
-        "handle": "air-jordan-1-low-se-somos-eternos-denim-turquoise-smoky-blue",
-        "in_stock": false
       },
       "7799582130364": {
         "title": "Gucci Rectangular Frame Sunglasses - Black/Solid Grey",
@@ -4500,7 +4520,7 @@
       "9113787826364": {
         "title": "Mizuno Wave Rider 10 - Harbor Mist/Black",
         "handle": "mizuno-wave-rider-10-harbor-mist-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9108078493884": {
         "title": "Carhartt WIP Chase Hoodie - Velvet Green/Gold",
@@ -4985,26 +5005,6 @@
       "9406860984508": {
         "title": "Dragon Ball Z x Converse Chuck 70 'Shenron' - Black/Cyber Yellow",
         "handle": "dragon-ball-z-x-converse-chuck-70-shenron-black-cyber-yellow",
-        "in_stock": true
-      },
-      "9351413629116": {
-        "title": "Adidas HYPERBOOST EPHR LT - Cloud White/Silver Metallic",
-        "handle": "adidas-hyperboost-ephr-lt-cloud-white-silver-metallic",
-        "in_stock": true
-      },
-      "9357531807932": {
-        "title": "Nike Ava Edge - College Grey/Black",
-        "handle": "nike-ava-edge-college-grey-black",
-        "in_stock": true
-      },
-      "9351415922876": {
-        "title": "Adidas HYPERBOOST EPHR LT - Core Black/Solar Red",
-        "handle": "adidas-hyperboost-ephr-lt-core-black-solar-red",
-        "in_stock": true
-      },
-      "9357568180412": {
-        "title": "Nike Ava Edge - Summit White/Stone",
-        "handle": "nike-ava-edge-summit-white-stone",
         "in_stock": true
       }
     },
@@ -7919,11 +7919,6 @@
         "handle": "nike-jordan-clothing-m-j-amm-pant-black-j349181",
         "in_stock": true
       },
-      "9107034734797": {
-        "title": "Women's EQT Tight Top Night Indigo",
-        "handle": "adidas-clothing-wmns-eqt-tight-ss-blue-j345894",
-        "in_stock": false
-      },
       "9108025442509": {
         "title": "Men's AS Cdisc2_1 Crewneck Sweatshirt Black",
         "handle": "cav-empt-clothing-as-cdisc2-1-crew-neck-black-j355866",
@@ -8763,65 +8758,50 @@
         "title": "Ordinary Jacquard Knit Sweater Black",
         "handle": "stillz-clothing-ordinary-jacquard-knit-sweater-black-j367543",
         "in_stock": false
+      },
+      "9122866168013": {
+        "title": "Josewong Mask Pink",
+        "handle": "stillz-accessories-josewong-collab-mask-pink-pink-j367540",
+        "in_stock": false
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Adrian Tee - White\nhttps://kith.com/products/khm034290-101",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS\nhttps://undefeated.com/products/bape-x-undefeated-color-camo-flannel-pants",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Adrian Tee - Shadow\nhttps://kith.com/products/khm034290-004",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: BAPE X UNDEFEATED MULTI POUCH POCKET PANTS - NAVY\nhttps://undefeated.com/products/bape-x-undefeated-multi-pouch-pocket-pants-navy",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Adrian Tee - Sandrift\nhttps://kith.com/products/khm034290-104",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON SPECKLE GLOVES\nhttps://undefeated.com/products/undefeated-icon-speckle-gloves",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🔥 **Restock** at Kith: Kith & Cinelli for MET Bike Helmet - Stadium\nhttps://kith.com/products/a1cc1kitub8g",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG 'Granite' - Black/White\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-granite-black-white",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Born x Raised Paranoia Crest Tee - Black\nhttps://sneakerpolitics.com/products/born-x-raised-paranoia-crest-tee-black",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Metalwood Studio x Adidas Snapback - White\nhttps://sneakerpolitics.com/products/metalwood-studio-x-adidas-snapback-white",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Born x Raised Speed Rocker Tee - Blue\nhttps://sneakerpolitics.com/products/born-x-raised-speed-rocker-tee-blue",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cargo Pants Military Green\nhttps://www.slamjam.com/products/oamc-peacemaker-clothing-cargo-pant-green-j333470",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Born x Raised Paranoia Football Jersey - Black\nhttps://sneakerpolitics.com/products/born-x-raised-paranoia-football-jersey-black",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Bape Kiss Logo T-Shirt Ivory\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-bape-kiss-logo-tee-white-j349406",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Born x Raised Heaven Soccer Jersey - Lavender\nhttps://sneakerpolitics.com/products/born-x-raised-heaven-soccer-jersey-lavender",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Mad 90 Pack \"Laser 90\" Woven Jacket Black / Lightening\nhttps://www.slamjam.com/products/nike-clothing-m-nk-woven-jacket-fr-black-j356717",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Borrowed Shirt Dakota Flannel Check\nhttps://www.slamjam.com/products/our-legacy-clothing-borrowed-shirt-brown-j337875",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Track Pants Black\nhttps://www.slamjam.com/products/johanna-parv-clothing-wmns-track-pants-black-j324646",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Dogs Print Oversized Fit T-Shirt Black\nhttps://www.slamjam.com/products/oamc-peacemaker-clothing-oversize-tee-dogs-print-black-j333543",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Shell Pants Black\nhttps://www.slamjam.com/products/oamc-peacemaker-clothing-shell-pant-black-j320117",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: ACG Radical AirFlow Fly Cap Anthracite\nhttps://www.slamjam.com/products/nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-      "detected_at": "2026-08-04T17:22:28.452846+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Born x Raised Paranoia Crest Snapback - Black\nhttps://sneakerpolitics.com/products/born-x-raised-paranoia-crest-snapback-black",
+      "detected_at": "2026-08-04T19:08:37.440213+00:00"
     }
   ]
 }
