@@ -3033,7 +3033,7 @@
       "10223954460939": {
         "title": "Asics GEL-1130",
         "handle": "asics-gel1130-white-bisque",
-        "in_stock": true
+        "in_stock": false
       },
       "10721641169163": {
         "title": "Birkenstock Tokio Shearling",
@@ -3253,7 +3253,7 @@
       "10798386479371": {
         "title": "Adidas Samba Lux",
         "handle": "adidas-samba-lux-core-black-off-white-core-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10829390217483": {
         "title": "Adidas Superstar Lux *Made in Italy*",
@@ -3757,6 +3757,36 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9342966431932": {
+        "title": "Jordan Spizike Low (GS) - Black/University Red",
+        "handle": "jordan-spizike-low-gs-black-university-red",
+        "in_stock": true
+      },
+      "9363152437436": {
+        "title": "Slawn x Nigeria x Nike Academy Pro Soccer Top -  Black/White",
+        "handle": "slawn-x-nigeria-x-nike-academy-pro-soccer-top-black-white",
+        "in_stock": true
+      },
+      "9294217150652": {
+        "title": "Air Jordan 5 Retro - White/Metallic Silver",
+        "handle": "air-jordan-5-retro-white-metallic-silver",
+        "in_stock": false
+      },
+      "9389803176124": {
+        "title": "Oakley MUZM Fatcat - Matte Black/Prizm Grey",
+        "handle": "oakley-muzm-fatcat-matte-black-prizm-grey",
+        "in_stock": true
+      },
+      "9389798359228": {
+        "title": "Oakley MUZM Fatcat - Cream/Prizm 24K Polarized",
+        "handle": "oakley-muzm-fatcat-cream-prizm-24k-polarized",
+        "in_stock": true
+      },
+      "9354311631036": {
+        "title": "Nike Dunk Low (PS) - Midnight Navy/Speed Red",
+        "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
+        "in_stock": true
+      },
       "9470758551740": {
         "title": "Ice Cream x Reebok Board Flip 'Pale Cerulean' - Blue/Black",
         "handle": "ice-cream-x-reebok-board-flip-pale-cerulean-blue-black",
@@ -3926,11 +3956,6 @@
         "title": "Born x Raised Paranoia Crest Snapback - Black",
         "handle": "born-x-raised-paranoia-crest-snapback-black",
         "in_stock": true
-      },
-      "9363156074684": {
-        "title": "PEACEMINUSONE x Korea x Nike Academy Pro Soccer Top - Black/White",
-        "handle": "peaceminusone-x-korea-x-nike-academy-pro-soccer-top-black-white-1",
-        "in_stock": false
       },
       "9357549469884": {
         "title": "Nike Air Max 95 OG 'Granite' - Black/White",
@@ -4552,11 +4577,6 @@
         "handle": "air-jordan-5-retro-gs-white-metallic-silver",
         "in_stock": true
       },
-      "9261038305468": {
-        "title": "Air Jordan 1 Low Golf - White/Sequoia",
-        "handle": "air-jordan-1-low-golf-white-sequoia",
-        "in_stock": false
-      },
       "9103768584380": {
         "title": "Saucony Progrid Omni 9 - Grey/Slime",
         "handle": "saucony-progrid-omni-9-grey-slime",
@@ -4641,11 +4661,6 @@
         "title": "Adidas Denim Graphic Track Jacket - White/Dark Blue",
         "handle": "adidas-denim-graphic-track-jacket-white-dark-blue",
         "in_stock": true
-      },
-      "9113787826364": {
-        "title": "Mizuno Wave Rider 10 - Harbor Mist/Black",
-        "handle": "mizuno-wave-rider-10-harbor-mist-black",
-        "in_stock": false
       },
       "9108078493884": {
         "title": "Carhartt WIP Chase Hoodie - Velvet Green/Gold",
@@ -4990,21 +5005,6 @@
       "9103602581692": {
         "title": "Saucony Progrid Omni 9 - White/Fuego",
         "handle": "saucony-progrid-omni-9-white-fuego",
-        "in_stock": true
-      },
-      "9301947220156": {
-        "title": "Women's Nike Air Force 1 '07 'Cow Print' - Field Brown/Sail",
-        "handle": "womens-nike-air-force-1-07-cow-print-field-brown-sail",
-        "in_stock": true
-      },
-      "9346400485564": {
-        "title": "Nike Air Force 1 '07 LX Vibram - Volt/Black",
-        "handle": "nike-air-force-1-07-lx-vibram-volt-black",
-        "in_stock": true
-      },
-      "9372657746108": {
-        "title": "Women's Nike Air Max 95 OG - Black/Old Royal",
-        "handle": "womens-nike-air-max-95-og-black-old-royal",
         "in_stock": true
       }
     },
@@ -8768,20 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike Air Zoom Flight The Glove - Black / White\nhttps://kith.com/products/nkiv6206-010",
-      "detected_at": "2026-08-05T17:11:16.267882+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Spizike Low (GS) - Black/University Red\nhttps://sneakerpolitics.com/products/jordan-spizike-low-gs-black-university-red",
+      "detected_at": "2026-08-05T18:54:43.363162+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream x Reebok Board Flip 'Pale Cerulean' - Blue/Black\nhttps://sneakerpolitics.com/products/ice-cream-x-reebok-board-flip-pale-cerulean-blue-black",
-      "detected_at": "2026-08-05T17:11:16.267882+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Slawn x Nigeria x Nike Academy Pro Soccer Top -  Black/White\nhttps://sneakerpolitics.com/products/slawn-x-nigeria-x-nike-academy-pro-soccer-top-black-white",
+      "detected_at": "2026-08-05T18:54:43.363162+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Soccer Tee - Off White\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-soccer-tee-off-white",
-      "detected_at": "2026-08-05T17:11:16.267882+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley MUZM Fatcat - Matte Black/Prizm Grey\nhttps://sneakerpolitics.com/products/oakley-muzm-fatcat-matte-black-prizm-grey",
+      "detected_at": "2026-08-05T18:54:43.363162+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Brain Dead x Disney Football Jersey Bold Gold\nhttps://www.slamjam.com/products/adidas-clothing-braindead-fb-jersey-yellow-j346773",
-      "detected_at": "2026-08-05T17:11:16.267882+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley MUZM Fatcat - Cream/Prizm 24K Polarized\nhttps://sneakerpolitics.com/products/oakley-muzm-fatcat-cream-prizm-24k-polarized",
+      "detected_at": "2026-08-05T18:54:43.363162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (PS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-ps-midnight-navy-speed-red",
+      "detected_at": "2026-08-05T18:54:43.363162+00:00"
     }
   ]
 }
