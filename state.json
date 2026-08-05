@@ -966,11 +966,6 @@
         "handle": "khm034290-104",
         "in_stock": true
       },
-      "8286625759360": {
-        "title": "Nike Air Force 1 Low Protro - White / Safety Orange",
-        "handle": "nkiq3921-100",
-        "in_stock": true
-      },
       "8286625857664": {
         "title": "Nike Blazy - Pine Green / Sail / White",
         "handle": "nkim2523-300",
@@ -1249,6 +1244,11 @@
       "8286606655616": {
         "title": "Kith Kids Long Sleeve Quinn Tee - Silk",
         "handle": "khk031352-116",
+        "in_stock": true
+      },
+      "8286606590080": {
+        "title": "Kith Kids Classic Mott Tee - Bloom",
+        "handle": "khk031355-611",
         "in_stock": true
       }
     },
@@ -2558,7 +2558,7 @@
       "10824025080075": {
         "title": "Nike\tTech Full-Zip Woven Windrunner Jacket",
         "handle": "niketech-fullzip-woven-windrunner-jacket-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10677918630155": {
         "title": "Hiking Patrol Element Texture Down Vest",
@@ -3278,7 +3278,7 @@
       "10867402834187": {
         "title": "Crocs Classic Duck Camo Islander",
         "handle": "crocs-classic-duck-camo-boat-shoe-tan-sko",
-        "in_stock": true
+        "in_stock": false
       },
       "10587898872075": {
         "title": "Asics US6-S GEL-Kinetic Fluent",
@@ -3757,6 +3757,51 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9314526757052": {
+        "title": "Women's Adidas Japan 'Tiger Print' - Yellow/Core Black",
+        "handle": "womens-adidas-japan-tiger-print-yellow-core-black",
+        "in_stock": true
+      },
+      "8913478123708": {
+        "title": "Represent Beverly Knit Polo - Vintage Khaki",
+        "handle": "represent-beverly-knit-polo-vintage-khaki",
+        "in_stock": true
+      },
+      "8913483595964": {
+        "title": "Represent Pico Knit Shirt - Ecru",
+        "handle": "represent-pico-knit-shirt-ecru",
+        "in_stock": true
+      },
+      "8913482186940": {
+        "title": "Represent 24 Hour Service Tee - Flat White",
+        "handle": "represent-24-hour-service-tee-flat-white",
+        "in_stock": true
+      },
+      "9346410709180": {
+        "title": "Nike Air Force 1 '07 LX 'Sunflower' - Sesame/White",
+        "handle": "nike-air-force-1-07-lx-sunflower-sesame-white",
+        "in_stock": true
+      },
+      "9349917507772": {
+        "title": "Women's Nike Air Force 1 '07 'Floral' - Black/Black",
+        "handle": "womens-nike-air-force-1-07-floral-black-black",
+        "in_stock": true
+      },
+      "9341264363708": {
+        "title": "Women's Air Jordan 1 Low SE - Chalk/Chalk",
+        "handle": "womens-air-jordan-1-low-se-chalk-chalk",
+        "in_stock": true
+      },
+      "9283267199164": {
+        "title": "Nike ACG LDV - Dark Sulfur/Photo Blue",
+        "handle": "nike-acg-ldv-dark-sulfur-photo-blue",
+        "in_stock": true
+      },
+      "9342983143612": {
+        "title": "Women's Nike Vomero Premium - Pink Foam/Pink Smoke",
+        "handle": "womens-nike-vomero-premium-pink-foam-pink-smoke",
+        "in_stock": true
+      },
       "9342966431932": {
         "title": "Jordan Spizike Low (GS) - Black/University Red",
         "handle": "jordan-spizike-low-gs-black-university-red",
@@ -3892,11 +3937,6 @@
         "handle": "ice-cream-hike-knit-jersey-black",
         "in_stock": true
       },
-      "9363148243132": {
-        "title": "Jacquemus x France x Nike Reissue Track Jacket - Blackened Blue/White",
-        "handle": "jacquemus-x-france-x-nike-reissue-track-jacket-blackened-blue-white",
-        "in_stock": false
-      },
       "9286308069564": {
         "title": "Godspeed New York Carpenter Distressed Shorts - Black",
         "handle": "godspeed-new-york-carpenter-distressed-shorts-black",
@@ -3916,11 +3956,6 @@
         "title": "Converse Chuck 70 Leopard - Black/Natural Ivory",
         "handle": "converse-chuck-70-leopard-black-natural-ivory",
         "in_stock": true
-      },
-      "9363119407292": {
-        "title": "Palace x England x Nike Academy Pro Soccer Top - Pewter Grey/Bright Crimson",
-        "handle": "palace-x-england-x-nike-academy-pro-soccer-top-pewter-grey-bright-crimson-1",
-        "in_stock": false
       },
       "9324844023996": {
         "title": "Asics Gel-Stratus MC - Lime Zest/Pure Silver",
@@ -4970,41 +5005,6 @@
       "9007382397116": {
         "title": "Marithe Francois Girbaud Parashuttle Pants - Tim",
         "handle": "marithe-francois-girbaud-parashuttle-pants-tim",
-        "in_stock": true
-      },
-      "9007379611836": {
-        "title": "Marithe Francois Girbaud Parashuttle Pants - Black",
-        "handle": "marithe-francois-girbaud-parashuttle-pants-black",
-        "in_stock": true
-      },
-      "9007378956476": {
-        "title": "Marithe Francois Girbaud T22 Elyptique Tee - Rock",
-        "handle": "marithe-francois-girbaud-t22-elyptique-tee-rock",
-        "in_stock": true
-      },
-      "9342969282748": {
-        "title": "Jordan Spizike Low (GS) - Phantom/University Red",
-        "handle": "jordan-spizike-low-gs-phantom-university-red",
-        "in_stock": true
-      },
-      "9351468449980": {
-        "title": "Air Jordan 1 Low (GS) - Black/Summit White",
-        "handle": "air-jordan-1-low-gs-black-summit-white",
-        "in_stock": true
-      },
-      "9354264150204": {
-        "title": "Nike Force 1 Low (TD) - Black/Laser Orange",
-        "handle": "nike-force-1-low-td-black-laser-orange",
-        "in_stock": true
-      },
-      "9407038423228": {
-        "title": "On Cloud 6 - Midnight/White",
-        "handle": "on-cloud-6-midnight-white",
-        "in_stock": true
-      },
-      "9103602581692": {
-        "title": "Saucony Progrid Omni 9 - White/Fuego",
-        "handle": "saucony-progrid-omni-9-white-fuego",
         "in_stock": true
       }
     },
@@ -8768,24 +8768,44 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan Spizike Low (GS) - Black/University Red\nhttps://sneakerpolitics.com/products/jordan-spizike-low-gs-black-university-red",
-      "detected_at": "2026-08-05T18:54:43.363162+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Classic Mott Tee - Bloom\nhttps://kith.com/products/khk031355-611",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Slawn x Nigeria x Nike Academy Pro Soccer Top -  Black/White\nhttps://sneakerpolitics.com/products/slawn-x-nigeria-x-nike-academy-pro-soccer-top-black-white",
-      "detected_at": "2026-08-05T18:54:43.363162+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Adidas Japan 'Tiger Print' - Yellow/Core Black\nhttps://sneakerpolitics.com/products/womens-adidas-japan-tiger-print-yellow-core-black",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley MUZM Fatcat - Matte Black/Prizm Grey\nhttps://sneakerpolitics.com/products/oakley-muzm-fatcat-matte-black-prizm-grey",
-      "detected_at": "2026-08-05T18:54:43.363162+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Represent Beverly Knit Polo - Vintage Khaki\nhttps://sneakerpolitics.com/products/represent-beverly-knit-polo-vintage-khaki",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley MUZM Fatcat - Cream/Prizm 24K Polarized\nhttps://sneakerpolitics.com/products/oakley-muzm-fatcat-cream-prizm-24k-polarized",
-      "detected_at": "2026-08-05T18:54:43.363162+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Represent Pico Knit Shirt - Ecru\nhttps://sneakerpolitics.com/products/represent-pico-knit-shirt-ecru",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (PS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-ps-midnight-navy-speed-red",
-      "detected_at": "2026-08-05T18:54:43.363162+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Represent 24 Hour Service Tee - Flat White\nhttps://sneakerpolitics.com/products/represent-24-hour-service-tee-flat-white",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LX 'Sunflower' - Sesame/White\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lx-sunflower-sesame-white",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Floral' - Black/Black\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-floral-black-black",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Air Jordan 1 Low SE - Chalk/Chalk\nhttps://sneakerpolitics.com/products/womens-air-jordan-1-low-se-chalk-chalk",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike ACG LDV - Dark Sulfur/Photo Blue\nhttps://sneakerpolitics.com/products/nike-acg-ldv-dark-sulfur-photo-blue",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Vomero Premium - Pink Foam/Pink Smoke\nhttps://sneakerpolitics.com/products/womens-nike-vomero-premium-pink-foam-pink-smoke",
+      "detected_at": "2026-08-05T20:28:39.605389+00:00"
     }
   ]
 }
