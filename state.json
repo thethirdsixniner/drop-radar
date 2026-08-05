@@ -2913,7 +2913,7 @@
       "10987694686475": {
         "title": "Crocs Classic EXP",
         "handle": "crocs-classic-exp-dpo-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10763156586763": {
         "title": "Autry Reelwind Low W *Suede / Net*",
@@ -3718,7 +3718,7 @@
       "10221836239115": {
         "title": "Nike\tx Patta T-Shirt GX",
         "handle": "nikex-patta-tshirt-gx-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10170828521739": {
         "title": "Metalwood Medieval Crewneck Sweatshirt",
@@ -7722,7 +7722,7 @@
       "9124343054541": {
         "title": "ACG Stuff Sack 3-Pack Black / Safety Orange / Summit White",
         "handle": "nike-accessories-acg-grey-j367833",
-        "in_stock": true
+        "in_stock": false
       },
       "9113871712461": {
         "title": "Coated Slim Low-Waist Denim Pants Black",
@@ -7772,36 +7772,6 @@
       "9124298391757": {
         "title": "Women's Amelia Loafers Black",
         "handle": "miista-footwear-wmns-amelia-black-penny-loafers-black-j363021",
-        "in_stock": true
-      },
-      "9124298096845": {
-        "title": "Chuck 70 Leopard Pony Hair Sneakers Black / Natural Ivory",
-        "handle": "converse-footwear-chuck-70-leopard-pony-hair-multicolor-j346834",
-        "in_stock": true
-      },
-      "9124298031309": {
-        "title": "Chuck 70 High Archival Camo Sneakers Warm Quarry / Creeping Forest",
-        "handle": "converse-footwear-chuck-70-hodgman-camo-multicolor-j349424",
-        "in_stock": true
-      },
-      "9124297998541": {
-        "title": "Chuck 70 Low Archival Camo Sneakers Warm Quarry/Creeping Forest",
-        "handle": "converse-footwear-chuck-70-hodgman-camo-multicolor-j346842",
-        "in_stock": true
-      },
-      "9124297900237": {
-        "title": "CONS Louie Lopez Pro 2 Suede Sneakers Yellow / Black",
-        "handle": "converse-footwear-louie-lopez-pro-2-yellow-j346845",
-        "in_stock": true
-      },
-      "9124297933005": {
-        "title": "Chuck 70 Washed Canvas Sneakers Classic Grey",
-        "handle": "converse-footwear-chuck-70-washed-canvas-grey-j346841",
-        "in_stock": true
-      },
-      "9124297965773": {
-        "title": "Chuck 70 Canvas Sneakers Bog Down",
-        "handle": "converse-footwear-chuck-70-canvas-brown-j346854",
         "in_stock": true
       },
       "9124189864141": {
@@ -8302,7 +8272,7 @@
       "9123631038669": {
         "title": "ACG Radical AirFlow Fly Cap Anthracite",
         "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-        "in_stock": true
+        "in_stock": false
       },
       "9123630973133": {
         "title": "ACG Radical AirFlow Fly Cap White",
@@ -8757,14 +8727,77 @@
       "9122866299085": {
         "title": "Ordinary Jacquard Knit Sweater Black",
         "handle": "stillz-clothing-ordinary-jacquard-knit-sweater-black-j367543",
-        "in_stock": false
+        "in_stock": true
       },
       "9122866168013": {
         "title": "Josewong Mask Pink",
         "handle": "stillz-accessories-josewong-collab-mask-pink-pink-j367540",
-        "in_stock": false
+        "in_stock": true
+      },
+      "9122866233549": {
+        "title": "Love Socks Pink",
+        "handle": "stillz-clothing-love-socks-pink-pink-j367538",
+        "in_stock": true
+      },
+      "9122866266317": {
+        "title": "Love Socks Black",
+        "handle": "stillz-clothing-love-socks-black-black-j367537",
+        "in_stock": true
+      },
+      "9122866200781": {
+        "title": "Josewong Mask Black",
+        "handle": "stillz-accessories-josewong-collab-mask-black-black-j367539",
+        "in_stock": true
+      },
+      "9122866102477": {
+        "title": "Danger Zone Embroidered Cap Green",
+        "handle": "stillz-accessories-stillz-danger-zone-embroidered-cap-green-j367536",
+        "in_stock": true
+      },
+      "9122866135245": {
+        "title": "Cut-Out Embroidered Cap Black",
+        "handle": "stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
+        "in_stock": true
+      },
+      "9122712715469": {
+        "title": "Leather Oxford Shoes Black",
+        "handle": "dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-black-j363836",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Slam Jam: Ordinary Jacquard Knit Sweater Black\nhttps://www.slamjam.com/products/stillz-clothing-ordinary-jacquard-knit-sweater-black-j367543",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Josewong Mask Pink\nhttps://www.slamjam.com/products/stillz-accessories-josewong-collab-mask-pink-pink-j367540",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Love Socks Pink\nhttps://www.slamjam.com/products/stillz-clothing-love-socks-pink-pink-j367538",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Love Socks Black\nhttps://www.slamjam.com/products/stillz-clothing-love-socks-black-black-j367537",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Josewong Mask Black\nhttps://www.slamjam.com/products/stillz-accessories-josewong-collab-mask-black-black-j367539",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Danger Zone Embroidered Cap Green\nhttps://www.slamjam.com/products/stillz-accessories-stillz-danger-zone-embroidered-cap-green-j367536",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Cut-Out Embroidered Cap Black\nhttps://www.slamjam.com/products/stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Leather Oxford Shoes Black\nhttps://www.slamjam.com/products/dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-black-j363836",
+      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+    }
+  ]
 }
