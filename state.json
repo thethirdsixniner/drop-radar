@@ -2505,6 +2505,31 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11014115393803": {
+        "title": "47 MLB New York Yankees *Brr Clean Up* Cap (Black)",
+        "handle": "47-mlb-new-york-yankees-brr-clean-up-cap-black",
+        "in_stock": true
+      },
+      "11014111559947": {
+        "title": "47 MLB New York Yankees *Brr Clean Up* Cap (Navy)",
+        "handle": "47-mlb-new-york-yankees-brr-clean-up-cap-navy",
+        "in_stock": true
+      },
+      "11014011224331": {
+        "title": "47 Notre Dame Fighting Irish *Tuscaloosa Clean Up* Cap",
+        "handle": "47-notre-dame-fighting-irish-tuscaloosa-clean-up-cap-vintage-navy",
+        "in_stock": true
+      },
+      "11014028460299": {
+        "title": "47 MLB Oakland Athletics *Clean Up* Cap",
+        "handle": "47-mlb-oakland-athletics-clean-up-cap-dark-green",
+        "in_stock": true
+      },
+      "11014171001099": {
+        "title": "47 MLB New York Yankees *Base Runner Two Tone Clean Up* Cap (Natural / Navy)",
+        "handle": "47-mlb-new-york-yankees-base-runner-two-tone-clean-up-cap-natural-navy-1",
+        "in_stock": true
+      },
       "10851741729035": {
         "title": "Carhartt WIP Brandon Pant",
         "handle": "carhartt-wip-brandon-pant-black-stone-washed",
@@ -3729,31 +3754,6 @@
         "title": "Our Legacy Third Cut",
         "handle": "our-legacy-third-cut-supergrey-wash",
         "in_stock": true
-      },
-      "8994699804939": {
-        "title": "Sunflower Stable Shirt",
-        "handle": "sunflower-stable-shirt-offwhite",
-        "in_stock": true
-      },
-      "8449090126091": {
-        "title": "The North Face Norm Hat",
-        "handle": "the-north-face-norm-hat-tnf-black",
-        "in_stock": true
-      },
-      "11008722796811": {
-        "title": "Clarks Alixea Walk",
-        "handle": "clarks-alixea-walk-black",
-        "in_stock": true
-      },
-      "11008719290635": {
-        "title": "Clarks Originals Godney Boat W",
-        "handle": "clarks-originals-godney-boat-w-black",
-        "in_stock": true
-      },
-      "11008736821515": {
-        "title": "Adidas Japan W",
-        "handle": "adidas-japan-w-footwear-white-dual-yellow-cream-white",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -4542,11 +4542,6 @@
         "handle": "air-jordan-1-low-golf-white-sequoia",
         "in_stock": false
       },
-      "9104611279036": {
-        "title": "Women's On Cloudmonster Void - Ivory/Pearl",
-        "handle": "womens-on-cloudmonster-void-ivory-pearl",
-        "in_stock": false
-      },
       "9103768584380": {
         "title": "Saucony Progrid Omni 9 - Grey/Slime",
         "handle": "saucony-progrid-omni-9-grey-slime",
@@ -5005,6 +5000,11 @@
       "9346414543036": {
         "title": "Nike Air Force 1 '07 LV8 - University Red/Black",
         "handle": "nike-air-force-1-07-lv8-university-red-black",
+        "in_stock": true
+      },
+      "9341274259644": {
+        "title": "Jordan 1 Mid (PS) - Black/Phantom",
+        "handle": "jordan-1-mid-ps-black-phantom",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,16 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9124848730317": {
+        "title": "Men's Cotton Poplin Shirt Off White",
+        "handle": "mm6-maison-margiela-clothing-longsleeved-shirt-white-j363164",
+        "in_stock": true
+      },
+      "9124848664781": {
+        "title": "Men's Brandon Pants Black (Marble Used Wash)",
+        "handle": "carhartt-wip-clothing-brandon-pant-black-j359155",
+        "in_stock": true
+      },
       "9108407746765": {
         "title": "Men's Cargo Pants Military Green",
         "handle": "oamc-peacemaker-clothing-cargo-pant-green-j333470",
@@ -7660,8 +7670,8 @@
         "in_stock": true
       },
       "9124316446925": {
-        "title": "FBT Type G Reservation Sneakers White",
-        "handle": "visvim-fbt-type-g-reservation-sneakers-w100sne0198",
+        "title": "FBT LHAMO-FOLK Shoes White",
+        "handle": "visvim-fbt-lhamo-folk-shoes-w100sne0198",
         "in_stock": false
       },
       "9124316381389": {
@@ -8753,51 +8763,41 @@
         "title": "Danger Zone Embroidered Cap Green",
         "handle": "stillz-accessories-stillz-danger-zone-embroidered-cap-green-j367536",
         "in_stock": true
-      },
-      "9122866135245": {
-        "title": "Cut-Out Embroidered Cap Black",
-        "handle": "stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
-        "in_stock": true
-      },
-      "9122712715469": {
-        "title": "Leather Oxford Shoes Black",
-        "handle": "dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-black-j363836",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Slam Jam: Ordinary Jacquard Knit Sweater Black\nhttps://www.slamjam.com/products/stillz-clothing-ordinary-jacquard-knit-sweater-black-j367543",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Brr Clean Up* Cap (Black)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-brr-clean-up-cap-black",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Josewong Mask Pink\nhttps://www.slamjam.com/products/stillz-accessories-josewong-collab-mask-pink-pink-j367540",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Brr Clean Up* Cap (Navy)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-brr-clean-up-cap-navy",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Love Socks Pink\nhttps://www.slamjam.com/products/stillz-clothing-love-socks-pink-pink-j367538",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 Notre Dame Fighting Irish *Tuscaloosa Clean Up* Cap\nhttps://www.asphaltgold.de/products/47-notre-dame-fighting-irish-tuscaloosa-clean-up-cap-vintage-navy",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Love Socks Black\nhttps://www.slamjam.com/products/stillz-clothing-love-socks-black-black-j367537",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB Oakland Athletics *Clean Up* Cap\nhttps://www.asphaltgold.de/products/47-mlb-oakland-athletics-clean-up-cap-dark-green",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Josewong Mask Black\nhttps://www.slamjam.com/products/stillz-accessories-josewong-collab-mask-black-black-j367539",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Base Runner Two Tone Clean Up* Cap (Natural / Navy)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-two-tone-clean-up-cap-natural-navy-1",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Danger Zone Embroidered Cap Green\nhttps://www.slamjam.com/products/stillz-accessories-stillz-danger-zone-embroidered-cap-green-j367536",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Mid (PS) - Black/Phantom\nhttps://sneakerpolitics.com/products/jordan-1-mid-ps-black-phantom",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Cut-Out Embroidered Cap Black\nhttps://www.slamjam.com/products/stillz-accessories-stillz-cut-out-embroidered-cap-black-j367535",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Cotton Poplin Shirt Off White\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-longsleeved-shirt-white-j363164",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Leather Oxford Shoes Black\nhttps://www.slamjam.com/products/dries-van-noten-footwear-ms262-1635-mlshoes-q0110-black-black-j363836",
-      "detected_at": "2026-08-05T09:10:36.983077+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Brandon Pants Black (Marble Used Wash)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-brandon-pant-black-j359155",
+      "detected_at": "2026-08-05T11:30:20.282379+00:00"
     }
   ]
 }
