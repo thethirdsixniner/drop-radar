@@ -2505,6 +2505,26 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11015406125323": {
+        "title": "Puma Deviate Nitro 4",
+        "handle": "puma-deviate-nitro-4-chocolate-brown-purple-charcoal",
+        "in_stock": true
+      },
+      "11015406780683": {
+        "title": "Puma Deviate Nitro 4 W",
+        "handle": "puma-deviate-nitro-4-w-chocolate-brown-purple-charcoal",
+        "in_stock": true
+      },
+      "11014976209163": {
+        "title": "Adidas x Naked adizero Evo SL Zip W",
+        "handle": "adidas-x-naked-adizero-evo-sl-zip-w-sandy-pink-silver-metallic-off-white",
+        "in_stock": false
+      },
+      "11015805108491": {
+        "title": "Timberland Britton Drive",
+        "handle": "timberland-britton-drive-dark-brown",
+        "in_stock": true
+      },
       "11014115393803": {
         "title": "47 MLB New York Yankees *Brr Clean Up* Cap (Black)",
         "handle": "47-mlb-new-york-yankees-brr-clean-up-cap-black",
@@ -2936,7 +2956,7 @@
         "in_stock": true
       },
       "10987694686475": {
-        "title": "Crocs Classic EXP",
+        "title": "Crocs Classic Clog EXP",
         "handle": "crocs-classic-exp-dpo-gum",
         "in_stock": false
       },
@@ -2983,7 +3003,7 @@
       "10094675362059": {
         "title": "New Balance 740",
         "handle": "new-balance-u740sb2-slate-grey-blue-agate-black-silver-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10534211584267": {
         "title": "Adidas ZPONGE Flux",
@@ -3028,7 +3048,7 @@
       "7148788875428": {
         "title": "Autry Medalist W *Goat*",
         "handle": "autry-medalist-w-goat-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10817465221387": {
         "title": "Sunflower Loose Jeans",
@@ -3303,7 +3323,7 @@
       "10126075691275": {
         "title": "Asics JOG 100S",
         "handle": "asics-jog-100s-white-clay-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10677773664523": {
         "title": "Hiking Patrol Element Texture Down Jacket",
@@ -3734,29 +3754,14 @@
         "title": "Autry Medalist W",
         "handle": "autry-medalist-w-white-green",
         "in_stock": true
-      },
-      "10659722887435": {
-        "title": "Adidas Airdrome Shield Pants",
-        "handle": "adidas-airdrome-shield-pants-tech-mineral",
-        "in_stock": true
-      },
-      "10221836239115": {
-        "title": "Nike\tx Patta T-Shirt GX",
-        "handle": "nikex-patta-tshirt-gx-black",
-        "in_stock": false
-      },
-      "10170828521739": {
-        "title": "Metalwood Medieval Crewneck Sweatshirt",
-        "handle": "metalwood-medieval-crewneck-sweatshirt-midnight",
-        "in_stock": true
-      },
-      "8666585891083": {
-        "title": "Our Legacy Third Cut",
-        "handle": "our-legacy-third-cut-supergrey-wash",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9293051723964": {
+        "title": "Palace x Nike Air Max 95 OG - Metallic Silver/Aluminum",
+        "handle": "palace-x-nike-air-max-95-og-metallic-silver-aluminum",
+        "in_stock": false
+      },
       "9346427093180": {
         "title": "Diet Starts Monday Fleece Panel Polo - Cream/Emerald",
         "handle": "diet-starts-monday-fleece-panel-polo-cream-emerald",
@@ -5000,11 +5005,6 @@
       "9346414543036": {
         "title": "Nike Air Force 1 '07 LV8 - University Red/Black",
         "handle": "nike-air-force-1-07-lv8-university-red-black",
-        "in_stock": true
-      },
-      "9341274259644": {
-        "title": "Jordan 1 Mid (PS) - Black/Phantom",
-        "handle": "jordan-1-mid-ps-black-phantom",
         "in_stock": true
       }
     },
@@ -6416,16 +6416,6 @@
         "handle": "nike-lebron-xxiii-per-game-royal-white-safety-orange",
         "in_stock": false
       },
-      "10580657045770": {
-        "title": "Nike Kobe 8 Protro 'Mambacurial'",
-        "handle": "nike-kobe-8-protro-red-plum-electric-green-pink-flash",
-        "in_stock": false
-      },
-      "10580656980234": {
-        "title": "Nike Kobe 8 (GS) 'Mambacurial'",
-        "handle": "nike-kobe-gs-red-plum-electric-green-pink-flash",
-        "in_stock": false
-      },
       "10580656914698": {
         "title": "Air Jordan 17 Low SP",
         "handle": "air-jordan-17-low-sp-black-black-metallic-silver",
@@ -7509,6 +7499,16 @@
       "10573765902602": {
         "title": "Lacoste TURTLENECK SWEATER",
         "handle": "lacoste-turtleneck-sweater-navy-blue",
+        "in_stock": true
+      },
+      "10573547831562": {
+        "title": "G-SHOCK x Pokémon GA-110PKM-7AER",
+        "handle": "g-shock-x-pok-mon-ga-110pkm-7aer-wei",
+        "in_stock": false
+      },
+      "10572870123786": {
+        "title": "adidas Originals ADICOLOR DENIM TRACKTOP",
+        "handle": "adidas-originals-sst-tt-worblu",
         "in_stock": true
       }
     },
@@ -8768,36 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Brr Clean Up* Cap (Black)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-brr-clean-up-cap-black",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Puma Deviate Nitro 4\nhttps://www.asphaltgold.de/products/puma-deviate-nitro-4-chocolate-brown-purple-charcoal",
+      "detected_at": "2026-08-05T13:22:14.763567+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Brr Clean Up* Cap (Navy)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-brr-clean-up-cap-navy",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Puma Deviate Nitro 4 W\nhttps://www.asphaltgold.de/products/puma-deviate-nitro-4-w-chocolate-brown-purple-charcoal",
+      "detected_at": "2026-08-05T13:22:14.763567+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: 47 Notre Dame Fighting Irish *Tuscaloosa Clean Up* Cap\nhttps://www.asphaltgold.de/products/47-notre-dame-fighting-irish-tuscaloosa-clean-up-cap-vintage-navy",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Timberland Britton Drive\nhttps://www.asphaltgold.de/products/timberland-britton-drive-dark-brown",
+      "detected_at": "2026-08-05T13:22:14.763567+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB Oakland Athletics *Clean Up* Cap\nhttps://www.asphaltgold.de/products/47-mlb-oakland-athletics-clean-up-cap-dark-green",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees *Base Runner Two Tone Clean Up* Cap (Natural / Navy)\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-two-tone-clean-up-cap-natural-navy-1",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Mid (PS) - Black/Phantom\nhttps://sneakerpolitics.com/products/jordan-1-mid-ps-black-phantom",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cotton Poplin Shirt Off White\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-longsleeved-shirt-white-j363164",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Brandon Pants Black (Marble Used Wash)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-brandon-pant-black-j359155",
-      "detected_at": "2026-08-05T11:30:20.282379+00:00"
+      "message": "🆕 **New drop** at Afew Store: adidas Originals ADICOLOR DENIM TRACKTOP\nhttps://www.afew-store.com/products/adidas-originals-sst-tt-worblu",
+      "detected_at": "2026-08-05T13:22:14.763567+00:00"
     }
   ]
 }
