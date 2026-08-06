@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "10656896942347": {
+        "title": "Carhartt WIP OG Detroit Jacket",
+        "handle": "carhartt-wip-og-detroit-jacket-black-black-stone-canvas",
+        "in_stock": false
+      },
       "10851756409099": {
         "title": "Adidas LA Trainer OG",
         "handle": "adidas-la-trainer-og-preloved-blue-semi-solar-yellow-ice-blue",
@@ -2633,7 +2638,7 @@
       "10860642533643": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-white-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10857953263883": {
         "title": "Asics GEL-1130",
@@ -3748,11 +3753,6 @@
       "10999854334219": {
         "title": "Asics GEL-NYC 2.0",
         "handle": "asics-gelnyc-20-clay-grey-cement-grey",
-        "in_stock": true
-      },
-      "10999851548939": {
-        "title": "Asics GEL-NYC 2.0",
-        "handle": "asics-gelnyc-20-slate-blue-graphite-grey",
         "in_stock": true
       }
     },
@@ -7569,11 +7569,6 @@
         "handle": "c-p-company-clothing-sweatshirts-crew-neck-in-brushed-emerized-diagonal-fleece-grey-j360678",
         "in_stock": true
       },
-      "9124916691149": {
-        "title": "Air Foamposite Pro Premium Sneakers Black / Voltage Green / Dark Brown",
-        "handle": "nike-footwear-nike-air-foamposite-pro-premium-black-j368951",
-        "in_stock": false
-      },
       "9124916723917": {
         "title": "Air Jordan 17 Low Sneakers Black / Metallic Silver",
         "handle": "nike-jordan-footwear-air-jordan-17-low-sp-black-j368517",
@@ -8763,29 +8758,22 @@
         "title": "Scuderia Ferrari HP Replica T-Shirt Red",
         "handle": "puma-clothing-sf-replica-tee-red-j363809",
         "in_stock": true
+      },
+      "9122871967949": {
+        "title": "Men's Beckenbauer Premium Track Tops Night Indigo",
+        "handle": "adidas-clothing-beckenbauer-tt-blue-j362393",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Nike Wmns Zoom Streak 3\nhttps://www.asphaltgold.de/products/nike-wmns-zoom-streak-3-cream-ii-sail",
-      "detected_at": "2026-08-06T09:22:50.294166+00:00"
+      "message": "🔥 **Restock** at Asphaltgold: Autry Reelwind Low *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-suede-net-white-black",
+      "detected_at": "2026-08-06T11:41:17.676636+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Streak 3\nhttps://www.afew-store.com/products/nike-wmns-zoom-streak-3-cream-ii-sail",
-      "detected_at": "2026-08-06T09:22:50.294166+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike ZOOM FLY 6\nhttps://www.afew-store.com/products/nike-zoom-fly-6-baroque-brown-black-smoke-grey-ironstone",
-      "detected_at": "2026-08-06T09:22:50.294166+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Book 2 'Tigers'\nhttps://www.afew-store.com/products/nike-book-2-midnight-navy-midnight-navy-white",
-      "detected_at": "2026-08-06T09:22:50.294166+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Equipment T-Shirt Legend Ivy\nhttps://www.slamjam.com/products/adidas-clothing-eqt-tee-green-j362414",
-      "detected_at": "2026-08-06T09:22:50.294166+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Beckenbauer Premium Track Tops Night Indigo\nhttps://www.slamjam.com/products/adidas-clothing-beckenbauer-tt-blue-j362393",
+      "detected_at": "2026-08-06T11:41:17.676636+00:00"
     }
   ]
 }
