@@ -3008,7 +3008,7 @@
       "10218516513035": {
         "title": "Veja Rio Branco II",
         "handle": "veja-rio-branco-ii-natural-black-kaki",
-        "in_stock": true
+        "in_stock": false
       },
       "10736894279947": {
         "title": "Autry Medalist W *Glitter Leather*",
@@ -7967,7 +7967,7 @@
       "9108025442509": {
         "title": "Men's AS Cdisc2_1 Crewneck Sweatshirt Black",
         "handle": "cav-empt-clothing-as-cdisc2-1-crew-neck-black-j355866",
-        "in_stock": true
+        "in_stock": false
       },
       "9082801881293": {
         "title": "Men's Smooth Jersey Stuntman & Woman Baggy Track Pants Black",
@@ -8766,26 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas LA Trainer OG\nhttps://www.asphaltgold.de/products/adidas-la-trainer-og-preloved-blue-semi-solar-yellow-ice-blue",
-      "detected_at": "2026-08-06T00:10:50.780899+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans OTW x Parra Old Skool 36\nhttps://www.asphaltgold.de/products/vans-otw-x-parra-old-skool-36-parra-midnight-carmine",
-      "detected_at": "2026-08-06T00:10:50.780899+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Handball Spezial\nhttps://www.asphaltgold.de/products/adidas-handball-spezial-earth-strata-wonder-white-gum",
-      "detected_at": "2026-08-06T00:10:50.780899+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 991 v2 *Made in England*\nhttps://www.asphaltgold.de/products/new-balance-991-v2-made-in-england-polignac-toadstool-silver",
-      "detected_at": "2026-08-06T00:10:50.780899+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Marithe Francois Girbaud Parashuttle Pants - Black\nhttps://sneakerpolitics.com/products/marithe-francois-girbaud-parashuttle-pants-black",
-      "detected_at": "2026-08-06T00:10:50.780899+00:00"
-    }
-  ]
+  "pending_free": []
 }
