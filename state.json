@@ -2633,7 +2633,7 @@
       "10860642533643": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10857953263883": {
         "title": "Asics GEL-1130",
@@ -3288,7 +3288,7 @@
       "11003928707339": {
         "title": "Nike Wmns Zoom Streak 3",
         "handle": "nike-wmns-zoom-streak-3-cream-ii-sail",
-        "in_stock": false
+        "in_stock": true
       },
       "11010721153291": {
         "title": "Adidas Handball Spezial W",
@@ -6574,7 +6574,7 @@
       "10580226867466": {
         "title": "Nike WMNS Zoom Streak 3",
         "handle": "nike-wmns-zoom-streak-3-cream-ii-sail",
-        "in_stock": false
+        "in_stock": true
       },
       "10580226015498": {
         "title": "Vans LX Classic Slip-On 98 Leather",
@@ -6654,7 +6654,7 @@
       "10579448660234": {
         "title": "Nike ZOOM FLY 6",
         "handle": "nike-zoom-fly-6-baroque-brown-black-smoke-grey-ironstone",
-        "in_stock": false
+        "in_stock": true
       },
       "10579025953034": {
         "title": "Arte Antwerp Swirl Uniform Socks",
@@ -7184,7 +7184,7 @@
       "10576273277194": {
         "title": "Nike Book 2 'Tigers'",
         "handle": "nike-book-2-midnight-navy-midnight-navy-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10576047538442": {
         "title": "Axel Arigato Dice Lo",
@@ -7514,6 +7514,11 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125008244941": {
+        "title": "Men's Equipment T-Shirt Legend Ivy",
+        "handle": "adidas-clothing-eqt-tee-green-j362414",
+        "in_stock": true
+      },
       "9120212648141": {
         "title": "Brain Dead x Disney Football Jersey Bold Gold",
         "handle": "adidas-clothing-braindead-fb-jersey-yellow-j346773",
@@ -7535,7 +7540,7 @@
         "in_stock": true
       },
       "9124920361165": {
-        "title": "Men's Overshirt In Felted Wool Ivy Green",
+        "title": "Men's Felted Wool Overshirt Ivy Green",
         "handle": "c-p-company-clothing-overshirt-in-felted-wool-green-j360669",
         "in_stock": true
       },
@@ -7727,7 +7732,7 @@
       "9116693397709": {
         "title": "Overlogo 3/4 Raglan T-Shirt Bright White / Baritone Blue",
         "handle": "mental-athletic-clothing-3-4-sleeve-raglan-t-shirt-white-j355359",
-        "in_stock": true
+        "in_stock": false
       },
       "9124473340109": {
         "title": "1890A Sneakers Dark Night / Candied Violet",
@@ -7742,7 +7747,7 @@
       "9095312703693": {
         "title": "Inner Logo Socks White / Fluo Blue",
         "handle": "mental-athletic-clothing-mental-athletic-socks-white-j338091",
-        "in_stock": true
+        "in_stock": false
       },
       "9124316446925": {
         "title": "FBT LHAMO-FOLK Shoes White",
@@ -7837,12 +7842,12 @@
       "9095312736461": {
         "title": "Inner Logo Socks Dark Blue / White",
         "handle": "mental-athletic-clothing-mental-athletic-socks-blue-j338090",
-        "in_stock": true
+        "in_stock": false
       },
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": true
+        "in_stock": false
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8587,17 +8592,17 @@
       "9000644772045": {
         "title": "Women's Backless Hoodie Black",
         "handle": "prototypes-clothing-backless-hoodie-black-j310117",
-        "in_stock": true
+        "in_stock": false
       },
       "9108282376397": {
         "title": "Men's Seagull Embroidery T-Shirt White",
         "handle": "evisu-clothing-ht-seagull-emb-ss-tee-white-j332568",
-        "in_stock": true
+        "in_stock": false
       },
       "9108282212557": {
         "title": "Men's Seagull Print Pockets Regular Fit Jeans Indigo",
         "handle": "evisu-clothing-ht-white-seagull-printed-pocket-jeans-blue-j332564",
-        "in_stock": true
+        "in_stock": false
       },
       "9123000746189": {
         "title": "SOULGOODS Homescape Woven Sneakers Dark Field Brown / Medium Orewood Brown",
@@ -8627,7 +8632,7 @@
       "9123000549581": {
         "title": "Men's Wool Twill Pants Black",
         "handle": "undercover-clothing-pants-black-j367751",
-        "in_stock": true
+        "in_stock": false
       },
       "9123000516813": {
         "title": "Men's Field Shirt Khaki Green",
@@ -8642,7 +8647,7 @@
       "9123000484045": {
         "title": "Men's Side Zipper Cotton Chino Pants Khaki",
         "handle": "undercover-clothing-pants-green-j367752",
-        "in_stock": true
+        "in_stock": false
       },
       "9123000352973": {
         "title": "Keyboard PVC Pouch Black",
@@ -8758,13 +8763,29 @@
         "title": "Scuderia Ferrari HP Replica T-Shirt Red",
         "handle": "puma-clothing-sf-replica-tee-red-j363809",
         "in_stock": true
-      },
-      "9122871967949": {
-        "title": "Men's Beckenbauer Premium Track Tops Night Indigo",
-        "handle": "adidas-clothing-beckenbauer-tt-blue-j362393",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike Wmns Zoom Streak 3\nhttps://www.asphaltgold.de/products/nike-wmns-zoom-streak-3-cream-ii-sail",
+      "detected_at": "2026-08-06T09:22:50.294166+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Zoom Streak 3\nhttps://www.afew-store.com/products/nike-wmns-zoom-streak-3-cream-ii-sail",
+      "detected_at": "2026-08-06T09:22:50.294166+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike ZOOM FLY 6\nhttps://www.afew-store.com/products/nike-zoom-fly-6-baroque-brown-black-smoke-grey-ironstone",
+      "detected_at": "2026-08-06T09:22:50.294166+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Book 2 'Tigers'\nhttps://www.afew-store.com/products/nike-book-2-midnight-navy-midnight-navy-white",
+      "detected_at": "2026-08-06T09:22:50.294166+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Equipment T-Shirt Legend Ivy\nhttps://www.slamjam.com/products/adidas-clothing-eqt-tee-green-j362414",
+      "detected_at": "2026-08-06T09:22:50.294166+00:00"
+    }
+  ]
 }
