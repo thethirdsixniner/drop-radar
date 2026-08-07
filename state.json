@@ -3333,7 +3333,7 @@
       "10749128933643": {
         "title": "CHITO Internationa Reflective Finesse Pup Hoodie",
         "handle": "chito-internationa-reflective-finesse-pup-hoodie-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10676321648907": {
         "title": "HAL Studios Studio Denim Jeans",
@@ -6929,7 +6929,7 @@
       "10578563629322": {
         "title": "Salomon XT-4 OG",
         "handle": "salomon-xt-4-og-white-black-whitepepper",
-        "in_stock": false
+        "in_stock": true
       },
       "10578562547978": {
         "title": "Salomon XT-4 OG",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Afew Store: Salomon XT-4 OG\nhttps://www.afew-store.com/products/salomon-xt-4-og-white-black-whitepepper",
+      "detected_at": "2026-08-07T06:48:22.041376+00:00"
+    }
+  ]
 }
