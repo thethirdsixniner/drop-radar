@@ -2933,7 +2933,7 @@
       "10860642533643": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10857953263883": {
         "title": "Asics GEL-1130",
@@ -8766,34 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 13 Retro - Navy / Flint Grey / White / University Blue\nhttps://kith.com/products/jordj3004-400",
-      "detected_at": "2026-08-07T03:40:00.427304+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 13 Retro - Navy / Flint Grey / White / University Blue\nhttps://kith.com/products/jordj3003-400",
-      "detected_at": "2026-08-07T03:40:00.427304+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 13 Retro - Navy / Flint Grey / White / University Blue\nhttps://kith.com/products/jordj3005-400",
-      "detected_at": "2026-08-07T03:40:00.427304+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 1 High OG - Shadow Brown / Soft Pearl / Light British Tan / Team Red\nhttps://kith.com/products/jbfd1437-201",
-      "detected_at": "2026-08-07T03:40:00.427304+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 13 Retro - Navy / Flint Grey / White / University Blue\nhttps://kith.com/products/joriw3808-400",
-      "detected_at": "2026-08-07T03:40:00.427304+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 1 High OG - Shadow Brown / Soft Pearl / Light British Tan / Team Red\nhttps://kith.com/products/jbdz5485-201",
-      "detected_at": "2026-08-07T03:40:00.427304+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-      "detected_at": "2026-08-07T03:40:00.427304+00:00"
-    }
-  ]
+  "pending_free": []
 }
