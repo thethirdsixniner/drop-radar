@@ -1551,7 +1551,7 @@
       "6702683685125": {
         "title": "VANS X NHBD AUTHENTIC 44 - BLACK",
         "handle": "vans-x-nhbd-authentic-44-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702352007429": {
         "title": "UNDEFEATED X WBC JAPAN CREWNECK - NAVY",
@@ -1573,15 +1573,10 @@
         "handle": "undefeated-x-wbc-japan-jersey-navy",
         "in_stock": true
       },
-      "6702258061573": {
-        "title": "UNDEFEATED ICON 5 POCKET DENIM PANT",
-        "handle": "undefeated-icon-5-pocket-denim-pant",
-        "in_stock": true
-      },
       "6702089076997": {
         "title": "UNDEFEATED X BURTON GOOD COMPANY SNOWBOARD - CHARCOAL",
         "handle": "undefeated-x-burton-good-company-snowboard-charcoal",
-        "in_stock": true
+        "in_stock": false
       },
       "6702663074053": {
         "title": "NIKE AIR MAX UPTEMPO '95 - UNIVERSITYRED/ WHITE/ BLACK",
@@ -2068,11 +2063,6 @@
         "handle": "new-balance-1954r-black",
         "in_stock": true
       },
-      "6701499580677": {
-        "title": "UNDEFEATED HOLIDAY STOCKING",
-        "handle": "undefeated-holiday-stocking",
-        "in_stock": true
-      },
       "6702628929797": {
         "title": "VANS PREMIUM OLD SKOOL 36 - FIELD BLACK",
         "handle": "vans-premium-old-skool-36-field-black",
@@ -2343,60 +2333,15 @@
         "handle": "undefeated-x-wbc-dominican-republic-crewneck-grey",
         "in_stock": true
       },
-      "6702257832197": {
-        "title": "UNDEFEATED REVERSIBLE GYM S/S TEE",
-        "handle": "undefeated-reversible-gym-s-s-tee",
-        "in_stock": true
-      },
-      "6702258880773": {
-        "title": "UNDEFEATED JESUS SAVES S/S TEE",
-        "handle": "undefeated-jesus-saves-s-s-tee",
-        "in_stock": true
-      },
       "6702089175301": {
         "title": "UNDEFEATED X BURTON 2L GORE-TEX JACKET",
         "handle": "undefeated-x-burton-2l-gore-tex-jacket",
-        "in_stock": true
-      },
-      "6701189497093": {
-        "title": "UNDEFEATED GI BELT CANVAS KEYCHAIN",
-        "handle": "undefeated-gi-belt-canvas-keychain",
-        "in_stock": true
-      },
-      "6702323204357": {
-        "title": "UND X CASTORE X RFU BOMBER JACKET",
-        "handle": "und-x-castore-x-rfu-bomber-jacket",
-        "in_stock": true
-      },
-      "6702323302661": {
-        "title": "UND X CASTORE X RFU PANT",
-        "handle": "und-x-castore-x-rfu-pant",
-        "in_stock": true
-      },
-      "6702323171589": {
-        "title": "UND X CASTORE X RFU SHORT",
-        "handle": "und-x-castore-x-rfu-short",
-        "in_stock": true
-      },
-      "6702323335429": {
-        "title": "UND X CASTORE X RFU TEE",
-        "handle": "und-x-castore-x-rfu-tee",
-        "in_stock": true
-      },
-      "6702323237125": {
-        "title": "UND X CASTORE X RFU BEANIE",
-        "handle": "und-x-castore-x-rfu-beanie",
         "in_stock": true
       },
       "6701165117701": {
         "title": "UNDEFEATED STENCIL CREWNECK - ASH",
         "handle": "undefeated-stencil-crewneck-ash",
         "in_stock": false
-      },
-      "6702214807813": {
-        "title": "UNDEFEATED X OAMC PEACEMAKER LINER JACKET - OLIVE",
-        "handle": "undefeated-x-oamc-peacemaker-liner-jacket-olive",
-        "in_stock": true
       },
       "6702089208069": {
         "title": "UNDEFEATED X BURTON MESH JERSEY",
@@ -2493,14 +2438,69 @@
         "handle": "bape-x-undefeated-multi-pouch-pocket-pants-navy",
         "in_stock": true
       },
-      "6701189693701": {
-        "title": "UNDEFEATED ICON SPECKLE GLOVES",
-        "handle": "undefeated-icon-speckle-gloves",
-        "in_stock": true
-      },
       "6700450513157": {
         "title": "UNDEFEATED ID TAG",
         "handle": "undefeated-id-tag",
+        "in_stock": true
+      },
+      "6676602061061": {
+        "title": "UNDEFEATED ALL-IN-ONE WASH",
+        "handle": "undefeated-total-wash-natural",
+        "in_stock": true
+      },
+      "6676601995525": {
+        "title": "UNDEFEATED SOAP-ON-A-ROPE - NATURAL",
+        "handle": "undefeated-soap-on-a-rope-natural",
+        "in_stock": true
+      },
+      "6676599046405": {
+        "title": "UNDEFEATED X MCLAREN 1:64 SCALE INDY 500 CARS SET OF 3",
+        "handle": "undefeated-x-mclaren-indianapolis-500-3-car-set",
+        "in_stock": true
+      },
+      "6701499547909": {
+        "title": "UNDEFEATED FLIGHT SATIN SHOULDER BAG",
+        "handle": "undefeated-flight-satin-shoulder-bag",
+        "in_stock": true
+      },
+      "6700580176133": {
+        "title": "UNDEFEATED X BCFC X NIKE STADIUM HOME JERSEY - COBALT",
+        "handle": "undefeated-x-bcfc-x-nike-stadium-home-jersey-cobalt",
+        "in_stock": true
+      },
+      "6700580143365": {
+        "title": "UNDEFEATED X BCFC X NIKE STADIUM AWAY JERSEY - WHITE",
+        "handle": "undefeated-x-bcfc-x-nike-stadium-away-jersey-white",
+        "in_stock": false
+      },
+      "6700580208901": {
+        "title": "UNDEFEATED X BCFC X NIKE STADIUM THIRD JERSEY - BLACK",
+        "handle": "undefeated-x-bcfc-x-nike-goalkeeper-jersey-black",
+        "in_stock": true
+      },
+      "6702623817989": {
+        "title": "NIKE AIR FORCE 1 '07 - WHITE/ METALLIC SILVER",
+        "handle": "nike-air-force-1-07-white-metallic-silver",
+        "in_stock": true
+      },
+      "6702623686917": {
+        "title": "NIKE LD-1000 FLYKNIT - LIGHT BONE/ EARTH",
+        "handle": "nike-ld-1000-flyknit-light-bone-earth",
+        "in_stock": true
+      },
+      "6702623752453": {
+        "title": "NIKE AIR FORCE 1 '07 - BLACK/ METALLIC SILVER",
+        "handle": "nike-air-force-1-07-black-metallic-silver",
+        "in_stock": true
+      },
+      "6702623785221": {
+        "title": "NIKE MOON SHOE OG - MIDNIGHT NAVY/ SAIL",
+        "handle": "nike-moon-shoe-og-midnight-navy-sail",
+        "in_stock": true
+      },
+      "6702623719685": {
+        "title": "NIKE MOON SHOE OG - SAIL/ BLACK",
+        "handle": "nike-moon-shoe-og-sail-black",
         "in_stock": true
       }
     },
@@ -2898,7 +2898,7 @@
       "10857018720523": {
         "title": "New Balance 991 v2 *Made in England*",
         "handle": "new-balance-991-v2-made-in-england-polignac-toadstool-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10833349935371": {
         "title": "Adidas Handball Spezial",
@@ -3907,11 +3907,6 @@
         "handle": "asics-gel-kayano-14-cream-ironclad",
         "in_stock": false
       },
-      "9249294778556": {
-        "title": "Nike Air Max 95 OG Premium 'Greedy' - Hyper Turquoise/Volt",
-        "handle": "nike-air-max-95-og-premium-greedy-hyper-turquoise-volt",
-        "in_stock": false
-      },
       "9261060489404": {
         "title": "Nike Air Force 1 '07 LV8 'USA' - White/Midnight Navy",
         "handle": "nike-air-force-1-07-lv8-usa-white-midnight-navy",
@@ -3920,7 +3915,7 @@
       "9032113946812": {
         "title": "Asics Gel-1130 - White/Verdigris",
         "handle": "asics-gel-1130-white-verdigris",
-        "in_stock": true
+        "in_stock": false
       },
       "9131810390204": {
         "title": "Air Jordan 1 Low SE - Anthracite/Sail",
@@ -5005,6 +5000,11 @@
       "9261056590012": {
         "title": "Nike Air Force 1 '07 - Hydrogen Blue/Metallic Silver",
         "handle": "nike-air-force-1-07-hydrogen-blue-metallic-silver",
+        "in_stock": true
+      },
+      "9265242341564": {
+        "title": "Air Jordan 1 Retro High 'Flight Club' (GS) - Black/University Red",
+        "handle": "air-jordan-1-retro-high-flight-club-gs-black-university-red",
         "in_stock": true
       }
     },
@@ -8768,212 +8768,52 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith Silk Cotton Thompson Camp Collar Shirt - Sandrift\nhttps://kith.com/products/khm031760-104",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ALL-IN-ONE WASH\nhttps://undefeated.com/products/undefeated-total-wash-natural",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN X FLIGHT CLUB AJ 1 RETRO HIGH - BLACK/ UNIVERSITY RED/ SAIL\nhttps://undefeated.com/products/jordan-x-flight-club-aj-1-retro-high-black-university-red-sail",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SOAP-ON-A-ROPE - NATURAL\nhttps://undefeated.com/products/undefeated-soap-on-a-rope-natural",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 11 RETRO LOW - WHITE/ UNIVERSITY BLUE/ BLACK\nhttps://undefeated.com/products/jordan-aj-11-retro-low-white-university-blue-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X MCLAREN 1:64 SCALE INDY 500 CARS SET OF 3\nhttps://undefeated.com/products/undefeated-x-mclaren-indianapolis-500-3-car-set",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR MAX 95 - METALLIC SILVER/ BLACK\nhttps://undefeated.com/products/nike-air-max-95-metallic-silver-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED FLIGHT SATIN SHOULDER BAG\nhttps://undefeated.com/products/undefeated-flight-satin-shoulder-bag",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN PS AJ 4 RETRO OG FC - SAIL/ BLACK/ UNIVERSITY RED\nhttps://undefeated.com/products/jordan-ps-aj-4-retro-og-fc-sail-black-university-red",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BCFC X NIKE STADIUM HOME JERSEY - COBALT\nhttps://undefeated.com/products/undefeated-x-bcfc-x-nike-stadium-home-jersey-cobalt",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 '07 - WHITE/ MALACHITE/ WHITE\nhttps://undefeated.com/products/nike-air-force-1-07-white-malachite-white",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BCFC X NIKE STADIUM THIRD JERSEY - BLACK\nhttps://undefeated.com/products/undefeated-x-bcfc-x-nike-goalkeeper-jersey-black",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED NYFCK S/S TEE - WHITE\nhttps://undefeated.com/products/undefeated-nyfck-s-s-tee-white",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 '07 - WHITE/ METALLIC SILVER\nhttps://undefeated.com/products/nike-air-force-1-07-white-metallic-silver",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UACTP X LEVELXBLACK SS RASHGUARD\nhttps://undefeated.com/products/uactp-x-levelxblack-ss-rashguard",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE LD-1000 FLYKNIT - LIGHT BONE/ EARTH\nhttps://undefeated.com/products/nike-ld-1000-flyknit-light-bone-earth",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED PINT GLASS\nhttps://undefeated.com/products/undefeated-pint-glass-1",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 '07 - BLACK/ METALLIC SILVER\nhttps://undefeated.com/products/nike-air-force-1-07-black-metallic-silver",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED REGIONAL STENCIL SNAPBACK - LA - BLACK\nhttps://undefeated.com/products/undefeated-regional-stencil-snapback-la-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE MOON SHOE OG - MIDNIGHT NAVY/ SAIL\nhttps://undefeated.com/products/nike-moon-shoe-og-midnight-navy-sail",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED REGIONAL STENCIL SNAPBACK - SF - BLACK\nhttps://undefeated.com/products/undefeated-regional-stencil-snapback-sf-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE MOON SHOE OG - SAIL/ BLACK\nhttps://undefeated.com/products/nike-moon-shoe-og-sail-black",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED QUILTED BLANKET\nhttps://undefeated.com/products/undefeated-quilted-blanket",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BADFRIEND TOQUE BEANIE - BLACK\nhttps://undefeated.com/products/undefeated-x-badfriend-toque-beanie-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: MALBON X UNDEFEATED ICON NYLON TECH CAP\nhttps://undefeated.com/products/malbon-x-undefeated-icon-nylon-tech-cap",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X NEW ERA DODGERS FITTED - KELLY GREEN\nhttps://undefeated.com/products/undefeated-x-new-era-dodgers-fitted-kelly-green",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UACTP SURPLUS 5-PANEL SLOUCHY SNAPBACK\nhttps://undefeated.com/products/uactp-surplus-5-panel-slouchy-snapback",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BCFC SNAPBACK - BLUE\nhttps://undefeated.com/products/undefeated-x-bcfc-snapback-blue",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED S/S TEE, 3-PACK\nhttps://undefeated.com/products/undefeated-s-s-tee-3-pack",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BADFRIEND FOOTBALL JERSEY - BLACK\nhttps://undefeated.com/products/undefeated-x-badfriend-football-jersey-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BADFRIEND STADIUM JERSEY - LIGHT BLUE\nhttps://undefeated.com/products/undefeated-x-badfriend-stadium-jersey-light-blue",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: MALBON X UNDEFEATED HUNTER BUCKETS T-SHIRT\nhttps://undefeated.com/products/malbon-x-undefeated-hunter-buckets-t-shirt-1",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: MALBON X UNDEFEATED RAIN PANT - BLACK\nhttps://undefeated.com/products/malbon-x-undefeated-rain-pant-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: MALBON X UNDEFEATED PERFORMANCE BREATHABLE TEE\nhttps://undefeated.com/products/malbon-x-undefeated-performance-breathable-tee",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: MALBON X UNDEFEATED PERFORMANCE POLO\nhttps://undefeated.com/products/malbon-x-undefeated-performance-polo",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: MALBON X UNDEFEATED PERFORMANCE RAGLAN 1/4 ZIP\nhttps://undefeated.com/products/malbon-x-undefeated-performance-raglan-1-4-zip",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X NEW ERA NY YANKEES S/S TEE - NEWOLIVE\nhttps://undefeated.com/products/undefeated-x-new-era-ny-yankees-s-s-tee-newolive",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X NEW ERA NY YANKEES S/S TEE - BLACK\nhttps://undefeated.com/products/undefeated-x-new-era-ny-yankees-s-s-tee-black",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Crop Crewneck Sweatshirt Cave Stone\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-ih-essntl-crop-flc-crew-brown-j368508",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Crop Crewneck Sweatshirt Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-ih-essntl-crop-flc-crew-black-j368507",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Essential T-Shirt Cave Stone\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-essntl-ss-tee-brown-j368520",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Oversized Fleece Pants Cave Stone\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-ih-essntl-os-flc-pant-brown-j368512",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Essential T-Shirt Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-essntl-ss-tee-black-j368519",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Oversized Fleece Pants Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-ih-essntl-os-flc-pant-black-j368511",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Essential Cut Off T-Shirt Cave Stone\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-ih-essntl-cutoff-tee-brown-j368510",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House 23 B4M T-Shirt Cave Stone\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-ih-23-b4m-ss-tee-brown-j368506",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's In1House Essential Cut Off T-Shirt Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-ih-essntl-cutoff-tee-black-j368509",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: ACG Zegama Hike Sneakers Light Orewood Brown / Persian Violet\nhttps://www.slamjam.com/products/nike-footwear-nike-acg-zegama-hike-multicolor-j368486",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Shox TL SE Sneakers Cacao Wow\nhttps://www.slamjam.com/products/nike-footwear-nike-shox-tl-se-brown-j368351",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Zoom Streak 3 Sneakers Sail / Cream\nhttps://www.slamjam.com/products/nike-footwear-wmns-zoom-streak-3-white-j364304",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Bifida Boots Black\nhttps://www.slamjam.com/products/demon-footwear-bifida-black-black-j364250",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Dalmara Trail Leather Shoes Brown\nhttps://www.slamjam.com/products/demon-footwear-dalmara-trail-leather-brown-brown-j364249",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Cloudsoma Hike Sneakers Black\nhttps://www.slamjam.com/products/on-footwear-cloudsoma-hike-black-j363108",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Cloudsoma Moc Sneakers Black / Black\nhttps://www.slamjam.com/products/on-footwear-cloudsoma-moc-black-j363106",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XA PRO 3D Alpine Echoes Sneakers Black / Earth Brown / Vanilla Ice\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xa-pro-3d-alpine-echoes-black-j366211",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: X-ALP Alpine Echoes Sneakers Black / Earth Brown / Vanilla Ice\nhttps://www.slamjam.com/products/salomon-footwear-shoes-x-alp-alpine-echoes-black-j366210",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: RX Marie-Jeanne Alpine Echoes Sandals Black / Earth Brown / Vanilla Ice\nhttps://www.slamjam.com/products/salomon-footwear-shoes-rx-marie-jeanne-alpine-echoes-black-j366209",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-4 OG Sneakers Silver / Black / Lemon\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-4-og-grey-j366214",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-4 OG Sneakers Silver / Black / Fiery Red\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-4-og-grey-j366215",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-6 GORE-TEX Sneakers Lichen / Nocturne / Clearly Aqua\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-6-gtx-green-j366217",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-6 Sneakers Black Coffee / Burro / Bitter Chocolate\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-6-brown-j366216",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-6 Sneakers Sea Foam / Urban Chic / Deep Blue\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-6-blue-j366213",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-6 Sneakers Alloy / Black / Lava Falls\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-6-brown-j366212",
-      "detected_at": "2026-08-07T17:01:41.983544+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Retro High 'Flight Club' (GS) - Black/University Red\nhttps://sneakerpolitics.com/products/air-jordan-1-retro-high-flight-club-gs-black-university-red",
+      "detected_at": "2026-08-07T18:02:36.749058+00:00"
     }
   ]
 }
