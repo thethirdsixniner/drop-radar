@@ -59,7 +59,7 @@
       "8286632149120": {
         "title": "&Kin Pony Hair Cassius Moto Jacket - Underground",
         "handle": "khma010108-3073",
-        "in_stock": false
+        "in_stock": true
       },
       "8286632116352": {
         "title": "&Kin Reversible Double Face Williams V Hoodie - Nocturnal",
@@ -3757,9 +3757,14 @@
       }
     },
     "https://sneakerpolitics.com": {
-      "9356315099324": {
-        "title": "Nike KD 6 'Meteorology' - Black/Atomic Red",
-        "handle": "nike-kd-6-meteorology-black-atomic-red",
+      "9043721322684": {
+        "title": "Adidas Predator 94 ST - Iron Metallic/Matte Silver",
+        "handle": "adidas-predator-94-st-iron-metallic-matte-silver",
+        "in_stock": true
+      },
+      "9119259230396": {
+        "title": "New Balance 1906L - Silver Metallic/Navy",
+        "handle": "new-balance-1906l-silver-metallic-navy",
         "in_stock": true
       },
       "9356500566204": {
@@ -3770,21 +3775,6 @@
       "9255876460732": {
         "title": "Nike Air Griffey Max 1 'Freshwater' - White/Black",
         "handle": "nike-air-griffey-max-1-white-black",
-        "in_stock": true
-      },
-      "9409131544764": {
-        "title": "Converse Shai 001 Lace Up - Berry Shade/Canyon Dusk",
-        "handle": "converse-shai-001-lace-up-berry-shade-canyon-dusk",
-        "in_stock": true
-      },
-      "9354268770492": {
-        "title": "Nike KD 6 'Meteorology' (TD) - Black/Atomic Red",
-        "handle": "nike-kd-6-meteorology-td-black-atomic-red",
-        "in_stock": true
-      },
-      "9354216276156": {
-        "title": "Nike KD 6 'Meteorology' (GS) - Black/Atomic Red",
-        "handle": "nike-kd-6-meteorology-gs-black-atomic-red",
         "in_stock": true
       },
       "9294210662588": {
@@ -4082,11 +4072,6 @@
         "handle": "jordan-spizike-low-gs-black-university-red",
         "in_stock": true
       },
-      "9363152437436": {
-        "title": "Slawn x Nigeria x Nike Academy Pro Soccer Top -  Black/White",
-        "handle": "slawn-x-nigeria-x-nike-academy-pro-soccer-top-black-white",
-        "in_stock": false
-      },
       "9389803176124": {
         "title": "Oakley MUZM Fatcat - Matte Black/Prizm Grey",
         "handle": "oakley-muzm-fatcat-matte-black-prizm-grey",
@@ -4106,11 +4091,6 @@
         "title": "Ice Cream x Reebok Board Flip 'Pale Cerulean' - Blue/Black",
         "handle": "ice-cream-x-reebok-board-flip-pale-cerulean-blue-black",
         "in_stock": true
-      },
-      "9356867535036": {
-        "title": "Willy Chavarria x Adidas Soccer Tee - Off White",
-        "handle": "willy-chavarria-x-adidas-soccer-tee-off-white",
-        "in_stock": false
       },
       "9346427093180": {
         "title": "Diet Starts Monday Fleece Panel Polo - Cream/Emerald",
@@ -5005,6 +4985,26 @@
       "9271119052988": {
         "title": "Billionaire Boys Club Helmet Sketch Tee - Ecru",
         "handle": "billionaire-boys-club-helmet-sketch-tee-ecru",
+        "in_stock": true
+      },
+      "9286308331708": {
+        "title": "Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash",
+        "handle": "godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
+        "in_stock": true
+      },
+      "9297846730940": {
+        "title": "Women's Nike V5 RNR Suede 'Leopard' - Sail/Hemp",
+        "handle": "womens-nike-v5-rnr-suede-leopard-sail-hemp",
+        "in_stock": false
+      },
+      "9358417395900": {
+        "title": "A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black",
+        "handle": "a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
+        "in_stock": true
+      },
+      "9292579897532": {
+        "title": "Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown",
+        "handle": "nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,56 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9100438536397": {
+        "title": "Men's No Fun Sweater Black",
+        "handle": "hysteric-glamour-clothing-no-fun-sweater-multicolor-j353566",
+        "in_stock": false
+      },
+      "8996396368077": {
+        "title": "Men's 98/99 Hard Times Shorts Black",
+        "handle": "umbro-clothing-98-99-hard-times-shorts-black-j301042",
+        "in_stock": false
+      },
+      "9113775505613": {
+        "title": "Men's Washed MD Wirecutter Longsleeve T-Shirt Black",
+        "handle": "cav-empt-clothing-washed-md-wirecutter-long-sleeve-t-black-j355894",
+        "in_stock": false
+      },
+      "9110067314893": {
+        "title": "Men's Ian Longsleeve T-Shirt Black / Grey",
+        "handle": "wtaps-clothing-ian-ls-cotton-black-j355397",
+        "in_stock": false
+      },
+      "9107033096397": {
+        "title": "Men's Advanced Vee Longsleeve T-Shirt Black",
+        "handle": "vans-clothing-advanced-vee-ls-tee-black-j345123",
+        "in_stock": false
+      },
+      "9090217214157": {
+        "title": "Champion Oval Pigment Dyed T-Shirt Natural",
+        "handle": "stussy-clothing-champion-oval-pig-dyed-tee-white-j338390",
+        "in_stock": false
+      },
+      "8978883313869": {
+        "title": "Subsection Reed Fragrance Diffuser - No.1 / F.I.L.",
+        "handle": "visvim-lifestyle-subsection-reed-fragrance-diffuser-no-1-f-i-l-multicolor-j312679",
+        "in_stock": false
+      },
+      "9046033563853": {
+        "title": "Bones Logo Q-skin Technical Socks Grey",
+        "handle": "roa-clothing-bones-logo-q-skin-technical-socks-grey-j316911",
+        "in_stock": false
+      },
+      "8968634925261": {
+        "title": "Radar EV Path Sunglasses Matte Grey / Prizm Trail Torch",
+        "handle": "oakley-accessories-radar-ev-path-grey-j315009",
+        "in_stock": false
+      },
+      "9096535277773": {
+        "title": "Leather Wallet Black",
+        "handle": "neighborhood-accessories-leather-wallet-black-j335460",
+        "in_stock": false
+      },
       "9125212160205": {
         "title": "Men's In1House Crop Crewneck Sweatshirt Cave Stone",
         "handle": "nike-jordan-clothing-m-j-ih-essntl-crop-flc-crew-brown-j368508",
@@ -8247,7 +8297,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": true
+        "in_stock": false
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8713,91 +8763,33 @@
         "title": "Klim OG Sneakers Olive Green / Mouse Whisker",
         "handle": "puma-footwear-klim-og-mu-green-j363746",
         "in_stock": true
-      },
-      "9123636510925": {
-        "title": "Men's Denim Jorts Cloud White",
-        "handle": "adidas-clothing-jorts-white-j362402",
-        "in_stock": true
-      },
-      "9123636543693": {
-        "title": "Men's Wool Chore Coat Black",
-        "handle": "y-3-clothing-m-chore-ct-black-j359529",
-        "in_stock": true
-      },
-      "9123636478157": {
-        "title": "CHITO F50 Tunit Sneakers Silver Metallic / Black / Utility Black",
-        "handle": "y-3-footwear-y-3-f50-tunit-chito-grey-j359524",
-        "in_stock": true
-      },
-      "9123631399117": {
-        "title": "Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White",
-        "handle": "nike-clothing-kox-m-nk-df-acdpr-x2-ss-pm-top-black-j364587",
-        "in_stock": false
-      },
-      "9123631464653": {
-        "title": "Men's Nigeria x Slawn Dri-FIT Academy Pro Football T-Shirt Black / White",
-        "handle": "nike-clothing-nfx-m-nk-df-acdpr-ss-pm-top-black-j352035",
-        "in_stock": true
-      },
-      "9123631366349": {
-        "title": "Men's Canada x NOCTA Dri-FIT Academy ProFootball T-Shirt Black / University Red",
-        "handle": "nike-clothing-cax-m-nk-df-acdpr-x2-ss-pm-top-black-j352030",
-        "in_stock": true
-      },
-      "9123631038669": {
-        "title": "ACG Radical AirFlow Fly Cap Anthracite",
-        "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-        "in_stock": false
-      },
-      "9123630973133": {
-        "title": "ACG Radical AirFlow Fly Cap White",
-        "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-white-j364342",
-        "in_stock": true
-      },
-      "9123631169741": {
-        "title": "Men's 'Your Message Here' Jeans Black",
-        "handle": "nike-clothing-m-nk-ymh-black-jeans-black-j364315",
-        "in_stock": true
-      },
-      "9123631104205": {
-        "title": "Men's 'Your Message Here' Jeans Indigo",
-        "handle": "nike-clothing-m-nk-ymh-indigo-jeans-blue-j364291",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-black-atomic-red",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
+      "message": "🔥 **Restock** at Kith: &Kin Pony Hair Cassius Moto Jacket - Underground\nhttps://kith.com/products/khma010108-3073",
+      "detected_at": "2026-08-07T20:59:28.372893+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Zoom Flight 'The Glove' - Black/White\nhttps://sneakerpolitics.com/products/nike-air-zoom-flight-the-glove-black-white",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Adidas Predator 94 ST - Iron Metallic/Matte Silver\nhttps://sneakerpolitics.com/products/adidas-predator-94-st-iron-metallic-matte-silver",
+      "detected_at": "2026-08-07T20:59:28.372893+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Griffey Max 1 'Freshwater' - White/Black\nhttps://sneakerpolitics.com/products/nike-air-griffey-max-1-white-black",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Balance 1906L - Silver Metallic/Navy\nhttps://sneakerpolitics.com/products/new-balance-1906l-silver-metallic-navy",
+      "detected_at": "2026-08-07T20:59:28.372893+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Converse Shai 001 Lace Up - Berry Shade/Canyon Dusk\nhttps://sneakerpolitics.com/products/converse-shai-001-lace-up-berry-shade-canyon-dusk",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash\nhttps://sneakerpolitics.com/products/godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
+      "detected_at": "2026-08-07T20:59:28.372893+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (TD) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-td-black-atomic-red",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black\nhttps://sneakerpolitics.com/products/a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
+      "detected_at": "2026-08-07T20:59:28.372893+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (GS) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-gs-black-atomic-red",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-toro-bravo-fire-red-white",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-      "detected_at": "2026-08-07T20:06:35.447442+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown\nhttps://sneakerpolitics.com/products/nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
+      "detected_at": "2026-08-07T20:59:28.372893+00:00"
     }
   ]
 }
