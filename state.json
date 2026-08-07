@@ -1586,7 +1586,7 @@
       "6701827784965": {
         "title": "NIKE AIR FORCE 1 '07 LV8 - BLACK/DKSMOKEGREY",
         "handle": "nike-air-force-1-07-lv8-black-dksmokegrey",
-        "in_stock": true
+        "in_stock": false
       },
       "6702379303173": {
         "title": "NIKE KD VI - LASER ORANGE/ RASPBERRY RED/ BLACK",
@@ -1746,7 +1746,7 @@
       "6702668349701": {
         "title": "BAPE RAMEN BOWL - WHITE",
         "handle": "bape-ramen-bowl-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6702668382469": {
         "title": "BAPE 1ST CAMO KNIT CAP - GREEN",
@@ -3757,6 +3757,41 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9356315099324": {
+        "title": "Nike KD 6 'Meteorology' - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-black-atomic-red",
+        "in_stock": true
+      },
+      "9356500566204": {
+        "title": "Nike Air Zoom Flight 'The Glove' - Black/White",
+        "handle": "nike-air-zoom-flight-the-glove-black-white",
+        "in_stock": true
+      },
+      "9255876460732": {
+        "title": "Nike Air Griffey Max 1 'Freshwater' - White/Black",
+        "handle": "nike-air-griffey-max-1-white-black",
+        "in_stock": true
+      },
+      "9409131544764": {
+        "title": "Converse Shai 001 Lace Up - Berry Shade/Canyon Dusk",
+        "handle": "converse-shai-001-lace-up-berry-shade-canyon-dusk",
+        "in_stock": true
+      },
+      "9354268770492": {
+        "title": "Nike KD 6 'Meteorology' (TD) - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-td-black-atomic-red",
+        "in_stock": true
+      },
+      "9354216276156": {
+        "title": "Nike KD 6 'Meteorology' (GS) - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-gs-black-atomic-red",
+        "in_stock": true
+      },
+      "9294210662588": {
+        "title": "Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White",
+        "handle": "air-jordan-4-retro-toro-bravo-fire-red-white",
+        "in_stock": true
+      },
       "9363137495228": {
         "title": "Palace x England x Nike Tee - White",
         "handle": "palace-x-england-x-nike-tee-white",
@@ -3825,7 +3860,7 @@
       "9045930115260": {
         "title": "New Era x Politics Texas Rangers 59FIFTY Fitted - Majestic Blue/Navy",
         "handle": "new-era-x-politics-texas-rangers-59fifty-fitted-majestic-blue-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "9069588086972": {
         "title": "New Era x Politics New York Yankees 59FIFTY Fitted - Chrome/Navy",
@@ -4970,41 +5005,6 @@
       "9271119052988": {
         "title": "Billionaire Boys Club Helmet Sketch Tee - Ecru",
         "handle": "billionaire-boys-club-helmet-sketch-tee-ecru",
-        "in_stock": true
-      },
-      "9286308331708": {
-        "title": "Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash",
-        "handle": "godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
-        "in_stock": true
-      },
-      "9297846730940": {
-        "title": "Women's Nike V5 RNR Suede 'Leopard' - Sail/Hemp",
-        "handle": "womens-nike-v5-rnr-suede-leopard-sail-hemp",
-        "in_stock": false
-      },
-      "9358417395900": {
-        "title": "A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black",
-        "handle": "a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
-        "in_stock": true
-      },
-      "9292579897532": {
-        "title": "Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown",
-        "handle": "nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
-        "in_stock": true
-      },
-      "9303697719484": {
-        "title": "Fear Of God Essentials Property Lounge Half Zip Hoodie - Black",
-        "handle": "fear-of-god-essentials-property-lounge-half-zip-hoodie-black",
-        "in_stock": true
-      },
-      "8988460155068": {
-        "title": "Nike Little Posite One (GS) - Black/Dark Smoke Grey",
-        "handle": "nike-little-posite-one-gs-black-black",
-        "in_stock": true
-      },
-      "9261059113148": {
-        "title": "Nike Air Force 1 Low Retro Premium - Red Sepia/Red Mahogany",
-        "handle": "nike-air-force-1-low-retro-premium-red-sepia-red-mahogany",
         "in_stock": true
       }
     },
@@ -8247,7 +8247,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": false
+        "in_stock": true
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8768,60 +8768,36 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Nike Air Force 1 Low - Vast Grey / White / Electric Green\nhttps://kith.com/products/nkib0018-006",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-black-atomic-red",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Palace x England x Nike Tee - White\nhttps://sneakerpolitics.com/products/palace-x-england-x-nike-tee-white",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Zoom Flight 'The Glove' - Black/White\nhttps://sneakerpolitics.com/products/nike-air-zoom-flight-the-glove-black-white",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Anta KAI 2 Mule - Silver/Black\nhttps://sneakerpolitics.com/products/anta-kai-2-mule-silver-black",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Griffey Max 1 'Freshwater' - White/Black\nhttps://sneakerpolitics.com/products/nike-air-griffey-max-1-white-black",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Anta KAI 2 Mule - Yellow/White\nhttps://sneakerpolitics.com/products/anta-kai-2-mule-yellow-white",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Converse Shai 001 Lace Up - Berry Shade/Canyon Dusk\nhttps://sneakerpolitics.com/products/converse-shai-001-lace-up-berry-shade-canyon-dusk",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Running Shorts - Seal\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-running-shorts-seal",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (TD) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-td-black-atomic-red",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Micro Skirt - Seal\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-micro-skirt-seal",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (GS) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-gs-black-atomic-red",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Soft Rib Racerback Dress - Seal\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-soft-rib-racerback-dress-seal",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-toro-bravo-fire-red-white",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Rib Knit Running Shorts - Iron Grey\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-rib-knit-running-shorts-iron-grey",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Rib Knit Capri - Seal\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-rib-knit-capri-seal",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Rib Knit Biker Shorts - Seal\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-rib-knit-biker-shorts-seal",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Rib Knit Crop Top - Seal\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-rib-knit-crop-top-seal",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Classic Fit Shorts - Washed Seal Heather\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-classic-fit-shorts-washed-seal-heather",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Raw Cut Lounge Fit Sweatpants - Washed Overcast\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-raw-cut-lounge-fit-sweatpants-washed-overcast",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Classic Tank - Ivory\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-classic-tank-ivory",
-      "detected_at": "2026-08-07T19:16:13.984968+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
+      "detected_at": "2026-08-07T20:06:35.447442+00:00"
     }
   ]
 }
