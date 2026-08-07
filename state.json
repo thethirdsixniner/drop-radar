@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6702683652357": {
+        "title": "VANS X NHBD AUTHENTIC 44 - NATURAL",
+        "handle": "vans-x-nhbd-authentic-44-natural",
+        "in_stock": true
+      },
+      "6702683685125": {
+        "title": "VANS X NHBD AUTHENTIC 44 - BLACK",
+        "handle": "vans-x-nhbd-authentic-44-black",
+        "in_stock": true
+      },
       "6702352007429": {
         "title": "UNDEFEATED X WBC JAPAN CREWNECK - NAVY",
         "handle": "undefeated-x-wbc-japan-crewneck-navy",
@@ -2492,19 +2502,14 @@
         "title": "ADIDAS X BRAIN DEAD SCARF - BETSCA/ VICBLU",
         "handle": "adidas-x-brain-dead-scarf-betsca-vicblu",
         "in_stock": true
-      },
-      "6702614544645": {
-        "title": "ADIDAS X BRAIN DEAD SOCKS - CORE WHITE",
-        "handle": "adidas-x-brain-dead-socks-core-white",
-        "in_stock": true
-      },
-      "6702599799045": {
-        "title": "NIKE X SLAWN NG ANTHEM JACKET - BLACK/ WHITE",
-        "handle": "nike-x-slawn-ng-anthem-jacket-black-white",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11015956529419": {
+        "title": "Adidas x Liberty London Handball Spezial J",
+        "handle": "adidas-x-liberty-london-handball-spezial-j-eqt-red-cream-white-gum-3",
+        "in_stock": false
+      },
       "10792976384267": {
         "title": "Adidas Gazelle Sala",
         "handle": "adidas-gazelle-sala-core-black-grey-three-gum-5",
@@ -3749,11 +3754,6 @@
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-mustard",
         "in_stock": true
-      },
-      "8817311875339": {
-        "title": "Nike Wool Classic Hoodie",
-        "handle": "nike-wool-classic-hoodie-black",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -3781,11 +3781,6 @@
         "title": "The Beach Boys x Represent Tour Cap - Bright Blue",
         "handle": "the-beach-boys-x-represent-tour-cap-bright-blue",
         "in_stock": true
-      },
-      "9493196275900": {
-        "title": "Women's Nike Air More Uptempo SE - Coconut Milk/Sail",
-        "handle": "womens-nike-air-more-uptempo-se-coconut-milk-sail",
-        "in_stock": false
       },
       "9272783438012": {
         "title": "Women's Fear Of God Essentials Signature Classic Hoodie - Oatmeal Heather",
@@ -5005,6 +5000,11 @@
       "9363160531132": {
         "title": "Virgil Abloh Archive x USA x Nike Woven Staff Jacket - White/Deep Royal Blue",
         "handle": "nike-usa-x-vaa-woven-staff-jacket-white-deep-royal",
+        "in_stock": true
+      },
+      "9274288603324": {
+        "title": "Air Jordan 11 Retro Low - White/University Blue",
+        "handle": "air-jordan-11-retro-low-white-university-blue",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,18 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Undefeated: VANS X NHBD AUTHENTIC 44 - NATURAL\nhttps://undefeated.com/products/vans-x-nhbd-authentic-44-natural",
+      "detected_at": "2026-08-07T12:28:27.174485+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: VANS X NHBD AUTHENTIC 44 - BLACK\nhttps://undefeated.com/products/vans-x-nhbd-authentic-44-black",
+      "detected_at": "2026-08-07T12:28:27.174485+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 11 Retro Low - White/University Blue\nhttps://sneakerpolitics.com/products/air-jordan-11-retro-low-white-university-blue",
+      "detected_at": "2026-08-07T12:28:27.174485+00:00"
+    }
+  ]
 }
