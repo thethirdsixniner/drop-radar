@@ -3757,6 +3757,21 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9279621234876": {
+        "title": "KidSuper Face Camo Wide Leg Jean - Black",
+        "handle": "kidsuper-face-camo-wide-leg-jean-black",
+        "in_stock": true
+      },
+      "9279597576380": {
+        "title": "KidSuper Velour Stars Rugby - Brown",
+        "handle": "kidsuper-velour-stars-rugby-brown",
+        "in_stock": true
+      },
+      "9106360369340": {
+        "title": "Jordan 1 Retro High OG 'All-Star' (TD) - Cool Grey/Black",
+        "handle": "jordan-1-retro-high-og-all-star-td-cool-grey-black",
+        "in_stock": true
+      },
       "9043721322684": {
         "title": "Adidas Predator 94 ST - Iron Metallic/Matte Silver",
         "handle": "adidas-predator-94-st-iron-metallic-matte-silver",
@@ -4405,7 +4420,7 @@
       "9274311573692": {
         "title": "Air Jordan 13 Retro 'Flint' (GS) - Navy/University Blue",
         "handle": "air-jordan-13-retro-flint-gs-navy-university-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "9274331857084": {
         "title": "Air Jordan 13 Retro 'Flint' - Navy/University Blue",
@@ -4990,21 +5005,6 @@
       "9286308331708": {
         "title": "Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash",
         "handle": "godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
-        "in_stock": true
-      },
-      "9297846730940": {
-        "title": "Women's Nike V5 RNR Suede 'Leopard' - Sail/Hemp",
-        "handle": "womens-nike-v5-rnr-suede-leopard-sail-hemp",
-        "in_stock": false
-      },
-      "9358417395900": {
-        "title": "A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black",
-        "handle": "a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
-        "in_stock": true
-      },
-      "9292579897532": {
-        "title": "Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown",
-        "handle": "nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
         "in_stock": true
       }
     },
@@ -8417,7 +8417,7 @@
       "9097440100557": {
         "title": "Men's A Ma Maniére Pants Black",
         "handle": "nike-jordan-clothing-m-j-amm-pant-black-j349181",
-        "in_stock": true
+        "in_stock": false
       },
       "9108025442509": {
         "title": "Men's AS Cdisc2_1 Crewneck Sweatshirt Black",
@@ -8768,28 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: &Kin Pony Hair Cassius Moto Jacket - Underground\nhttps://kith.com/products/khma010108-3073",
-      "detected_at": "2026-08-07T20:59:28.372893+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: KidSuper Face Camo Wide Leg Jean - Black\nhttps://sneakerpolitics.com/products/kidsuper-face-camo-wide-leg-jean-black",
+      "detected_at": "2026-08-07T21:50:06.871618+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Predator 94 ST - Iron Metallic/Matte Silver\nhttps://sneakerpolitics.com/products/adidas-predator-94-st-iron-metallic-matte-silver",
-      "detected_at": "2026-08-07T20:59:28.372893+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: KidSuper Velour Stars Rugby - Brown\nhttps://sneakerpolitics.com/products/kidsuper-velour-stars-rugby-brown",
+      "detected_at": "2026-08-07T21:50:06.871618+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: New Balance 1906L - Silver Metallic/Navy\nhttps://sneakerpolitics.com/products/new-balance-1906l-silver-metallic-navy",
-      "detected_at": "2026-08-07T20:59:28.372893+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash\nhttps://sneakerpolitics.com/products/godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
-      "detected_at": "2026-08-07T20:59:28.372893+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black\nhttps://sneakerpolitics.com/products/a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
-      "detected_at": "2026-08-07T20:59:28.372893+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown\nhttps://sneakerpolitics.com/products/nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
-      "detected_at": "2026-08-07T20:59:28.372893+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Retro High OG 'All-Star' (TD) - Cool Grey/Black\nhttps://sneakerpolitics.com/products/jordan-1-retro-high-og-all-star-td-cool-grey-black",
+      "detected_at": "2026-08-07T21:50:06.871618+00:00"
     }
   ]
 }
