@@ -3298,7 +3298,7 @@
       "10539196121355": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-black-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "8518645514507": {
         "title": "Autry Medalist W *Honey / Canvas*",
@@ -6261,6 +6261,41 @@
       }
     },
     "https://www.afew-store.com": {
+      "10586478641418": {
+        "title": "Salomon XT-4 OG",
+        "handle": "salomon-xt-4-og-ftwsilver-black-fieryred",
+        "in_stock": false
+      },
+      "10586478510346": {
+        "title": "Salomon XT-6 Gore-Tex",
+        "handle": "salomon-xt-6-gtx-black-icypink-dawnpink",
+        "in_stock": true
+      },
+      "10586478477578": {
+        "title": "Salomon XT-6 Gore-Tex",
+        "handle": "salomon-xt-6-gtx-black-black-asphalt",
+        "in_stock": true
+      },
+      "10586478182666": {
+        "title": "Salomon XT-WHISPER",
+        "handle": "salomon-xt-whisper-oil-blue-claqua-vanila",
+        "in_stock": false
+      },
+      "10586477953290": {
+        "title": "Salomon XT-WHISPER",
+        "handle": "salomon-xt-whisper-black-arabia-asphal",
+        "in_stock": false
+      },
+      "10586477789450": {
+        "title": "Salomon SPEEDCROSS 3 EXPANSE",
+        "handle": "salomon-speedcross-3-expanse-prlblu-quar-v",
+        "in_stock": true
+      },
+      "10586477592842": {
+        "title": "Salomon SPEEDCROSS 3 EXPANSE",
+        "handle": "salomon-speedcross-3-expanse-vanila-almilk",
+        "in_stock": true
+      },
       "10586434404618": {
         "title": "Nike Air Max 95 Big Bubble 'Blue Sapphire'",
         "handle": "nike-air-max-95-big-bubble-lawson-blue-sapphire-metallic-silver-white",
@@ -7475,45 +7510,60 @@
         "title": "Nike WMNS FIRST SIGHT SHADOW SP",
         "handle": "nike-wmns-first-sight-shadow-sp-black-multi-color-mtlc-dark-grey",
         "in_stock": true
-      },
-      "10573842219274": {
-        "title": "Nike WMNS First Sight Shadow",
-        "handle": "nike-wmns-first-sight-metallic-silver-metallic-silver-black",
-        "in_stock": true
-      },
-      "10573833502986": {
-        "title": "Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)",
-        "handle": "birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-dark-tea-black",
-        "in_stock": true
-      },
-      "10573831209226": {
-        "title": "AIR JORDAN 4 RETRO 'Comic'",
-        "handle": "air-jordan-4-retro-off-white-fire-pink-anthracite1",
-        "in_stock": true
-      },
-      "10573827637514": {
-        "title": "Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)",
-        "handle": "birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-gray-taupe",
-        "in_stock": true
-      },
-      "10573825933578": {
-        "title": "Karhu Fusion 2.0",
-        "handle": "karhu-fusion-2-0-blanc-de-blanc-hematite",
-        "in_stock": true
-      },
-      "10573821673738": {
-        "title": "Converse x GOLF le FLEUR* Jogger",
-        "handle": "converse-jogger-white-white-vanilla-custard",
-        "in_stock": true
-      },
-      "10573820363018": {
-        "title": "Converse x GOLF le FLEUR* PRO LEATHER",
-        "handle": "converse-pro-leather-amazon-banana-crepe-lavendar",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125188305101": {
+        "title": "Men's Embroidered Patchwork Jacket Multicolor",
+        "handle": "dries-van-noten-clothing-vernons-emb-4434-mwjacket-desa-multicolor-j363818",
+        "in_stock": false
+      },
+      "9125188239565": {
+        "title": "Men's Layered Wool Sweater Bordeaux",
+        "handle": "dries-van-noten-clothing-medan-4751-mksweater-bor-red-j363827",
+        "in_stock": true
+      },
+      "9125188075725": {
+        "title": "Striped Longsleeve Rugby Polo Purple",
+        "handle": "erl-clothing-striped-rugby-longsleeve-knit-purple-j368213",
+        "in_stock": true
+      },
+      "9125187944653": {
+        "title": "Flocked Denim Chino Pants Black",
+        "handle": "erl-clothing-flocked-denim-chino-pants-woven-black-j368207",
+        "in_stock": true
+      },
+      "9125188108493": {
+        "title": "Cable Knit Vest Red",
+        "handle": "erl-clothing-cable-knit-vest-knit-red-j368210",
+        "in_stock": true
+      },
+      "9125188141261": {
+        "title": "Varsity Jacket Purple",
+        "handle": "erl-clothing-varsity-jacket-woven-purple-j368208",
+        "in_stock": true
+      },
+      "9125188174029": {
+        "title": "Men's Folded Wool Pants Black",
+        "handle": "dries-van-noten-clothing-preston-bis-4265-mwpants-black-black-j363821",
+        "in_stock": true
+      },
+      "9125188206797": {
+        "title": "Men's Embroidered Wool Sleeveless Sweater Light Grey",
+        "handle": "dries-van-noten-clothing-marl-4748-mksweater-lgry-grey-j363830",
+        "in_stock": true
+      },
+      "9125188042957": {
+        "title": "Plane T-Shirt Black",
+        "handle": "erl-clothing-plane-tee-knit-black-j368206",
+        "in_stock": true
+      },
+      "9125187977421": {
+        "title": "Tweed Pants Black / White",
+        "handle": "erl-clothing-tweed-pants-woven-grey-j368205",
+        "in_stock": true
+      },
       "9038524186829": {
         "title": "Men's Leaf T-Shirt Snow White",
         "handle": "oamc-peacemaker-clothing-peacemaker-leaf-s-s-tshirt-white-j305781",
@@ -8713,63 +8763,61 @@
         "title": "Portable Record Player Gp-3r Red",
         "handle": "columbia-denon-portable-record-player-gp-3r-w300tec0005",
         "in_stock": false
-      },
-      "9122998714573": {
-        "title": "Pillow Black",
-        "handle": "hysteric-glamour-pillow-w300hom0056",
-        "in_stock": false
-      },
-      "9122998681805": {
-        "title": "Urban Stockman Denim Jacket Blue",
-        "handle": "neighborhood-urban-stockman-denim-jacket-w000out0408",
-        "in_stock": false
-      },
-      "9122998649037": {
-        "title": "Highland Jacket Camo",
-        "handle": "stussy-highland-jacket-camo-w000out0216",
-        "in_stock": false
-      },
-      "9122998616269": {
-        "title": "Scorpios Short Sleeve T-Shirt Black",
-        "handle": "undercover-scorpios-short-sleeve-t-shirt-w000tee0532",
-        "in_stock": false
-      },
-      "9122998583501": {
-        "title": "Double Parka Long Jacket White",
-        "handle": "sacai-double-parka-long-jacket-w000out0484",
-        "in_stock": false
-      },
-      "9122651832525": {
-        "title": "Tylor Belt Black / Silver",
-        "handle": "carhartt-wip-accessories-tylor-belt-multicolor-j359147",
-        "in_stock": true
-      },
-      "9122998190285": {
-        "title": "Women's Weka Shirt Wood Brown Stripe",
-        "handle": "kiko-kostadinov-clothing-wmns-weka-shirt-brown-j359631",
-        "in_stock": true
-      },
-      "9122998124749": {
-        "title": "Women's Linnet Wrap Culottes Crow Black",
-        "handle": "kiko-kostadinov-clothing-wmns-linnet-wrap-culottes-black-j359625",
-        "in_stock": true
-      },
-      "9122872819917": {
-        "title": "Men's Sport Knit Golf Polo Obsidian",
-        "handle": "nike-jordan-clothing-m-j-sp-golf-knit-polo-blue-j364301",
-        "in_stock": true
-      },
-      "9122872787149": {
-        "title": "Women's Jordan Flight Fleece Corset Black / University Red",
-        "handle": "nike-jordan-clothing-wmns-w-j-flt-flc-corset-wngs-black-j364277",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Autry Reelwind Low *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-suede-net-white-black",
-      "detected_at": "2026-08-07T09:33:08.087474+00:00"
+      "message": "🆕 **New drop** at Afew Store: Salomon XT-6 Gore-Tex\nhttps://www.afew-store.com/products/salomon-xt-6-gtx-black-icypink-dawnpink",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Salomon XT-6 Gore-Tex\nhttps://www.afew-store.com/products/salomon-xt-6-gtx-black-black-asphalt",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Salomon SPEEDCROSS 3 EXPANSE\nhttps://www.afew-store.com/products/salomon-speedcross-3-expanse-prlblu-quar-v",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Salomon SPEEDCROSS 3 EXPANSE\nhttps://www.afew-store.com/products/salomon-speedcross-3-expanse-vanila-almilk",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Layered Wool Sweater Bordeaux\nhttps://www.slamjam.com/products/dries-van-noten-clothing-medan-4751-mksweater-bor-red-j363827",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Striped Longsleeve Rugby Polo Purple\nhttps://www.slamjam.com/products/erl-clothing-striped-rugby-longsleeve-knit-purple-j368213",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Flocked Denim Chino Pants Black\nhttps://www.slamjam.com/products/erl-clothing-flocked-denim-chino-pants-woven-black-j368207",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Cable Knit Vest Red\nhttps://www.slamjam.com/products/erl-clothing-cable-knit-vest-knit-red-j368210",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Varsity Jacket Purple\nhttps://www.slamjam.com/products/erl-clothing-varsity-jacket-woven-purple-j368208",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Folded Wool Pants Black\nhttps://www.slamjam.com/products/dries-van-noten-clothing-preston-bis-4265-mwpants-black-black-j363821",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Embroidered Wool Sleeveless Sweater Light Grey\nhttps://www.slamjam.com/products/dries-van-noten-clothing-marl-4748-mksweater-lgry-grey-j363830",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Plane T-Shirt Black\nhttps://www.slamjam.com/products/erl-clothing-plane-tee-knit-black-j368206",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Tweed Pants Black / White\nhttps://www.slamjam.com/products/erl-clothing-tweed-pants-woven-grey-j368205",
+      "detected_at": "2026-08-07T10:34:31.135415+00:00"
     }
   ]
 }
