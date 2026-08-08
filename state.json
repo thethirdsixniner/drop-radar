@@ -4052,16 +4052,6 @@
         "handle": "james-oro-authentic-ii-clear-tint-gold",
         "in_stock": true
       },
-      "9261060489404": {
-        "title": "Nike Air Force 1 '07 LV8 'USA' - White/Midnight Navy",
-        "handle": "nike-air-force-1-07-lv8-usa-white-midnight-navy",
-        "in_stock": false
-      },
-      "9101008765116": {
-        "title": "Air Jordan 4 Retro (GS) - White/Medium Soft Pink",
-        "handle": "air-jordan-4-retro-gs-white-medium-soft-pink",
-        "in_stock": false
-      },
       "9471039111356": {
         "title": "Crocs Roy - Elephant",
         "handle": "crocs-roy-elephant",
@@ -4895,7 +4885,7 @@
       "9103768584380": {
         "title": "Saucony Progrid Omni 9 - Grey/Slime",
         "handle": "saucony-progrid-omni-9-grey-slime",
-        "in_stock": true
+        "in_stock": false
       },
       "9097316335804": {
         "title": "Vans LX Authentic 44 - Diamond Check Blackout",
@@ -5005,6 +4995,16 @@
       "9365983428796": {
         "title": "Ksubi Troop Cargo Pant - Sand Camo",
         "handle": "ksubi-troop-cargo-pant-sand-camo",
+        "in_stock": true
+      },
+      "9365986410684": {
+        "title": "Ksubi Cut Off Ekcess Tank - Synth Green",
+        "handle": "ksubi-cut-off-ekcess-tank-synth-green",
+        "in_stock": true
+      },
+      "9365997158588": {
+        "title": "Ksubi Stay Up Ekcess Tee - Tru White",
+        "handle": "ksubi-stay-up-ekcess-tee-tru-white",
         "in_stock": true
       }
     },
@@ -8297,7 +8297,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": true
+        "in_stock": false
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8768,12 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Troop Cargo Pant - Sand Camo\nhttps://sneakerpolitics.com/products/ksubi-troop-cargo-pant-sand-camo",
-      "detected_at": "2026-08-08T17:12:32.651945+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Cut Off Ekcess Tank - Synth Green\nhttps://sneakerpolitics.com/products/ksubi-cut-off-ekcess-tank-synth-green",
+      "detected_at": "2026-08-08T18:41:29.449095+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-      "detected_at": "2026-08-08T17:48:20.075795+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Stay Up Ekcess Tee - Tru White\nhttps://sneakerpolitics.com/products/ksubi-stay-up-ekcess-tee-tru-white",
+      "detected_at": "2026-08-08T18:41:29.449095+00:00"
     }
   ]
 }
