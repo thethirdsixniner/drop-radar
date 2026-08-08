@@ -2833,7 +2833,7 @@
       "10676290945291": {
         "title": "AMI Paris\tAmi Polo",
         "handle": "ami-paris-ami-polo-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10114503541003": {
         "title": "Polo Ralph Lauren Cormac Relaxed Fit Chino Short",
@@ -6474,7 +6474,7 @@
       "10581644345610": {
         "title": "Air Jordan 6 Retro 'Oreo'",
         "handle": "air-jordan-6-retro-white-black-ct8529-108",
-        "in_stock": false
+        "in_stock": true
       },
       "10581642445066": {
         "title": "Mizuno WAVE RIDER 10",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan 6 Retro 'Oreo'\nhttps://www.afew-store.com/products/air-jordan-6-retro-white-black-ct8529-108",
+      "detected_at": "2026-08-08T07:53:42.693613+00:00"
+    }
+  ]
 }
