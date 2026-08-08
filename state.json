@@ -2538,7 +2538,7 @@
       "8994881896715": {
         "title": "Adidas ZX 600",
         "handle": "adidas-zx-600-dash-grey-silver-metallic-grey-two",
-        "in_stock": true
+        "in_stock": false
       },
       "10721785676043": {
         "title": "HOKA Mafate Speed 4 Lite",
@@ -2793,7 +2793,7 @@
       "8565820162315": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-maroon-crew-white-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10542368325899": {
         "title": "Adidas SL 72 OG W",
@@ -2848,7 +2848,7 @@
       "8461007192331": {
         "title": "Nike x Nocta Fleece Hoodie",
         "handle": "nike-x-nocta-fleece-hoodie-dark-greyheather-matte-silver-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10727153565963": {
         "title": "Metalwood Safety Trucker Hat",
@@ -4007,11 +4007,6 @@
         "handle": "pleasures-forever-track-pants-navy",
         "in_stock": true
       },
-      "9286271795388": {
-        "title": "Pleasures Definitely Heavyweight Tee - Faded Black",
-        "handle": "pleasures-definitely-heavyweight-tee-faded-black",
-        "in_stock": false
-      },
       "9154749956284": {
         "title": "Pleasures Dysfunction Hoodie - Multi",
         "handle": "pleasures-dysfunction-hoodie-multi",
@@ -5005,6 +5000,11 @@
       "9365997158588": {
         "title": "Ksubi Stay Up Ekcess Tee - Tru White",
         "handle": "ksubi-stay-up-ekcess-tee-tru-white",
+        "in_stock": true
+      },
+      "9366007087292": {
+        "title": "Ksubi Troop Cargo Short - Sand Camo",
+        "handle": "ksubi-troop-cargo-short-sand-camo",
         "in_stock": true
       }
     },
@@ -8774,6 +8774,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Ksubi Stay Up Ekcess Tee - Tru White\nhttps://sneakerpolitics.com/products/ksubi-stay-up-ekcess-tee-tru-white",
       "detected_at": "2026-08-08T18:41:29.449095+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Troop Cargo Short - Sand Camo\nhttps://sneakerpolitics.com/products/ksubi-troop-cargo-short-sand-camo",
+      "detected_at": "2026-08-08T19:17:00.300637+00:00"
     }
   ]
 }
