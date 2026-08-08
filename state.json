@@ -2843,7 +2843,7 @@
       "10174280270091": {
         "title": "Museum of Peace & Quiet Signature 2 Tone Dad Hat",
         "handle": "museum-of-peace-quiet-signature-2-tone-dad-hat-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "8461007192331": {
         "title": "Nike x Nocta Fleece Hoodie",
@@ -8032,7 +8032,7 @@
       "9124916723917": {
         "title": "Air Jordan 17 Low Sneakers Black / Metallic Silver",
         "handle": "nike-jordan-footwear-air-jordan-17-low-sp-black-j368517",
-        "in_stock": true
+        "in_stock": false
       },
       "9124916756685": {
         "title": "Air Jordan 6 Retro Sneakers White / Black",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Undefeated: HELLSTAR X ADIDAS MEGARIDE - FTWWHT/ OWHIT\nhttps://undefeated.com/products/hellstar-x-adidas-megaride-ftwwht-owhit",
-      "detected_at": "2026-08-08T12:02:47.510160+00:00"
-    }
-  ]
+  "pending_free": []
 }
