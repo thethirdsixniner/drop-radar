@@ -2868,7 +2868,7 @@
       "10595828695307": {
         "title": "47 New York Yankees Washed Chain Stitch *Hitch* Cap",
         "handle": "47-new-york-yankees-washed-chain-stitch-hitch-cap-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "11013973180683": {
         "title": "47 NHL Toronto Maple Leafs *Tuscaloosa Clean Up* Cap",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9354147692732": {
+        "title": "PEACEMINUSONE x Korea x Nike Cryoshot CTR 360 - Natural/University Red",
+        "handle": "peaceminusone-x-korea-x-nike-cryoshot-ctr-360-natural-university-red",
+        "in_stock": false
+      },
       "9405688185020": {
         "title": "HELLSTAR x Adidas Megaride S2 - Cloud White/Off White",
         "handle": "hellstar-x-adidas-megaride-s2-cloud-white-off-white",
@@ -3845,7 +3850,7 @@
       "9294210662588": {
         "title": "Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White",
         "handle": "air-jordan-4-retro-toro-bravo-fire-red-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9363137495228": {
         "title": "Palace x England x Nike Tee - White",
@@ -5000,11 +5005,6 @@
       "9366007087292": {
         "title": "Ksubi Troop Cargo Short - Sand Camo",
         "handle": "ksubi-troop-cargo-short-sand-camo",
-        "in_stock": true
-      },
-      "8687699329212": {
-        "title": "A Bathing Ape College Tee - White",
-        "handle": "a-bathing-ape-college-tee-white",
         "in_stock": true
       }
     },
@@ -8767,10 +8767,6 @@
     }
   },
   "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Troop Cargo Short - Sand Camo\nhttps://sneakerpolitics.com/products/ksubi-troop-cargo-short-sand-camo",
-      "detected_at": "2026-08-08T19:17:00.300637+00:00"
-    },
     {
       "message": "🆕 **New drop** at Sneaker Politics: A Bathing Ape College Tee - White\nhttps://sneakerpolitics.com/products/a-bathing-ape-college-tee-white",
       "detected_at": "2026-08-08T19:54:46.549981+00:00"
