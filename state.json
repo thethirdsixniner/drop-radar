@@ -2523,7 +2523,7 @@
       "10124262637835": {
         "title": "Adidas ZPONGE",
         "handle": "adidas-zponge-core-black-metallic-silver-supplier-color",
-        "in_stock": true
+        "in_stock": false
       },
       "10845253239051": {
         "title": "Nike Waffle Racer",
@@ -2578,7 +2578,7 @@
       "10866588221707": {
         "title": "Autry Medalist W *HP*",
         "handle": "autry-medalist-w-hp-white-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10747670954251": {
         "title": "Adidas Y-3 x NBHD Logo Tee",
@@ -8297,7 +8297,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": false
+        "in_stock": true
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
+      "detected_at": "2026-08-08T16:36:53.540899+00:00"
+    }
+  ]
 }
