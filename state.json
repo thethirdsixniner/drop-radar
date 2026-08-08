@@ -2041,7 +2041,7 @@
       "6700095734021": {
         "title": "SALOMON SNOWCLOG - BLACK",
         "handle": "salomon-snowclog-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6701088866565": {
         "title": "ASICS GT-2160 - PIEDMONTGREY/ PURESILVER",
@@ -3043,7 +3043,7 @@
       "10744392810763": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-wonder-beige-aluminum-wonder-beige",
-        "in_stock": true
+        "in_stock": false
       },
       "10587433304331": {
         "title": "Adidas Montreal RM",
@@ -3912,11 +3912,6 @@
         "handle": "womens-fear-of-god-essentials-classic-tank-ivory",
         "in_stock": true
       },
-      "9045930115260": {
-        "title": "New Era x Politics Texas Rangers 59FIFTY Fitted - Majestic Blue/Navy",
-        "handle": "new-era-x-politics-texas-rangers-59fifty-fitted-majestic-blue-navy",
-        "in_stock": false
-      },
       "9069588086972": {
         "title": "New Era x Politics New York Yankees 59FIFTY Fitted - Chrome/Navy",
         "handle": "new-era-x-politics-new-york-yankees-59fifty-fitted-chrome-navy-1",
@@ -3965,7 +3960,7 @@
       "9405625172156": {
         "title": "Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White",
         "handle": "pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9366345908412": {
         "title": "Only Fans x Pleasures Communications T-Shirt - Black",
@@ -5005,6 +5000,11 @@
       "9366007087292": {
         "title": "Ksubi Troop Cargo Short - Sand Camo",
         "handle": "ksubi-troop-cargo-short-sand-camo",
+        "in_stock": true
+      },
+      "8687699329212": {
+        "title": "A Bathing Ape College Tee - White",
+        "handle": "a-bathing-ape-college-tee-white",
         "in_stock": true
       }
     },
@@ -8768,16 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Cut Off Ekcess Tank - Synth Green\nhttps://sneakerpolitics.com/products/ksubi-cut-off-ekcess-tank-synth-green",
-      "detected_at": "2026-08-08T18:41:29.449095+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Stay Up Ekcess Tee - Tru White\nhttps://sneakerpolitics.com/products/ksubi-stay-up-ekcess-tee-tru-white",
-      "detected_at": "2026-08-08T18:41:29.449095+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Sneaker Politics: Ksubi Troop Cargo Short - Sand Camo\nhttps://sneakerpolitics.com/products/ksubi-troop-cargo-short-sand-camo",
       "detected_at": "2026-08-08T19:17:00.300637+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: A Bathing Ape College Tee - White\nhttps://sneakerpolitics.com/products/a-bathing-ape-college-tee-white",
+      "detected_at": "2026-08-08T19:54:46.549981+00:00"
     }
   ]
 }
