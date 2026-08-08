@@ -2708,7 +2708,7 @@
       "10746805092619": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-fox-brown-off-white-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "10839377576203": {
         "title": "New Balance 2002 *Protection Pack GORE-Tex*",
@@ -4057,11 +4057,6 @@
         "handle": "nike-air-force-1-07-lv8-usa-white-midnight-navy",
         "in_stock": false
       },
-      "9032113946812": {
-        "title": "Asics Gel-1130 - White/Verdigris",
-        "handle": "asics-gel-1130-white-verdigris",
-        "in_stock": false
-      },
       "9101008765116": {
         "title": "Air Jordan 4 Retro (GS) - White/Medium Soft Pink",
         "handle": "air-jordan-4-retro-gs-white-medium-soft-pink",
@@ -5005,6 +5000,11 @@
       "8950780395708": {
         "title": "Diet Starts Monday Ignition Tee - Vintage Black",
         "handle": "diet-starts-monday-ignition-tee-vintage-black",
+        "in_stock": true
+      },
+      "9365983428796": {
+        "title": "Ksubi Troop Cargo Pant - Sand Camo",
+        "handle": "ksubi-troop-cargo-pant-sand-camo",
         "in_stock": true
       }
     },
@@ -8297,7 +8297,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": true
+        "in_stock": false
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8770,6 +8770,10 @@
     {
       "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
       "detected_at": "2026-08-08T16:36:53.540899+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Troop Cargo Pant - Sand Camo\nhttps://sneakerpolitics.com/products/ksubi-troop-cargo-pant-sand-camo",
+      "detected_at": "2026-08-08T17:12:32.651945+00:00"
     }
   ]
 }
