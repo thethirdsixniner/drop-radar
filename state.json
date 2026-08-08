@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702685225221": {
+        "title": "HELLSTAR X ADIDAS MEGARIDE - FTWWHT/ OWHIT",
+        "handle": "hellstar-x-adidas-megaride-ftwwht-owhit",
+        "in_stock": true
+      },
       "6702448705797": {
         "title": "JORDAN X FLIGHT CLUB AJ 1 RETRO HIGH - BLACK/ UNIVERSITY RED/ SAIL",
         "handle": "jordan-x-flight-club-aj-1-retro-high-black-university-red-sail",
@@ -2497,11 +2502,6 @@
         "title": "NIKE MOON SHOE OG - MIDNIGHT NAVY/ SAIL",
         "handle": "nike-moon-shoe-og-midnight-navy-sail",
         "in_stock": true
-      },
-      "6702623719685": {
-        "title": "NIKE MOON SHOE OG - SAIL/ BLACK",
-        "handle": "nike-moon-shoe-og-sail-black",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -3558,7 +3558,7 @@
       "10534211584267": {
         "title": "Adidas ZPONGE Flux",
         "handle": "adidas-zponge-flux-carbon-iron-metallic-core-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10125205307659": {
         "title": "Adidas K 74",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Undefeated: HELLSTAR X ADIDAS MEGARIDE - FTWWHT/ OWHIT\nhttps://undefeated.com/products/hellstar-x-adidas-megaride-ftwwht-owhit",
+      "detected_at": "2026-08-08T12:02:47.510160+00:00"
+    }
+  ]
 }
