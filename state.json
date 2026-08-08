@@ -2598,7 +2598,7 @@
       "10725803622667": {
         "title": "Adidas Premium Knitted Jersey",
         "handle": "adidas-premium-knitted-jersey-cream-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10818548826379": {
         "title": "Adidas Adicolor Baggy Fit Firebird Trackpants",
@@ -4442,11 +4442,6 @@
         "handle": "jordan-13-retro-flint-ps-navy-university-blue",
         "in_stock": true
       },
-      "9274311573692": {
-        "title": "Air Jordan 13 Retro 'Flint' (GS) - Navy/University Blue",
-        "handle": "air-jordan-13-retro-flint-gs-navy-university-blue",
-        "in_stock": false
-      },
       "9274331857084": {
         "title": "Air Jordan 13 Retro 'Flint' - Navy/University Blue",
         "handle": "air-jordan-13-retro-flint-navy-university-blue",
@@ -5005,6 +5000,11 @@
       "9366007087292": {
         "title": "Ksubi Troop Cargo Short - Sand Camo",
         "handle": "ksubi-troop-cargo-short-sand-camo",
+        "in_stock": true
+      },
+      "8687699329212": {
+        "title": "A Bathing Ape College Tee - White",
+        "handle": "a-bathing-ape-college-tee-white",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
       "detected_at": "2026-08-08T21:10:26.680040+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: A Bathing Ape College Tee - White\nhttps://sneakerpolitics.com/products/a-bathing-ape-college-tee-white",
+      "detected_at": "2026-08-08T21:46:53.128727+00:00"
     }
   ]
 }
