@@ -8292,7 +8292,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": false
+        "in_stock": true
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8727,7 +8727,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": false
+        "in_stock": true
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
+      "detected_at": "2026-08-09T10:42:57.584906+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Favela Narco Pets Book\nhttps://www.slamjam.com/products/550bc-lifestyle-favela-narco-pets-multicolor-j367821",
+      "detected_at": "2026-08-09T10:42:57.584906+00:00"
+    }
+  ]
 }
