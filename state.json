@@ -1481,7 +1481,7 @@
       "6700450480389": {
         "title": "UNDEFEATED PINT GLASS",
         "handle": "undefeated-pint-glass-1",
-        "in_stock": true
+        "in_stock": false
       },
       "6700450283781": {
         "title": "UNDEFEATED REGIONAL STENCIL SNAPBACK - LA - BLACK",
@@ -2550,11 +2550,6 @@
         "handle": "birkenstock-boston-sfb-taupe",
         "in_stock": true
       },
-      "10228626915595": {
-        "title": "Veja Panenka W *O.T. Leather*",
-        "handle": "veja-panenka-w-ot-leather-white-black-bark",
-        "in_stock": false
-      },
       "10747670954251": {
         "title": "Adidas Y-3 x NBHD Logo Tee",
         "handle": "adidas-y3-x-nbhd-logo-tee-core-white",
@@ -2799,11 +2794,6 @@
         "title": "Autry Heritage Logo Graphic Tee",
         "handle": "autry-heritage-logo-graphic-tee-white",
         "in_stock": true
-      },
-      "8443158266123": {
-        "title": "Lacoste Organic Cotton Twill Cap",
-        "handle": "lacoste-organic-cotton-twill-cap-black",
-        "in_stock": false
       },
       "11013973180683": {
         "title": "47 NHL Toronto Maple Leafs *Tuscaloosa Clean Up* Cap",
@@ -3753,6 +3743,16 @@
       "8817311875339": {
         "title": "Nike Wool Classic Hoodie",
         "handle": "nike-wool-classic-hoodie-black",
+        "in_stock": true
+      },
+      "8847726641419": {
+        "title": "Nike Wool Classic Fleece Pant Open Hem",
+        "handle": "nike-wool-classic-fleece-pant-open-hem-pure",
+        "in_stock": true
+      },
+      "11010010611979": {
+        "title": "Adidas Drop Needle 3-Stripes Tee",
+        "handle": "adidas-drop-needle-3stripes-tee-night-indigo",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown\nhttps://sneakerpolitics.com/products/nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
-      "detected_at": "2026-08-09T20:52:11.445368+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Wool Classic Fleece Pant Open Hem\nhttps://www.asphaltgold.de/products/nike-wool-classic-fleece-pant-open-hem-pure",
+      "detected_at": "2026-08-09T22:04:31.517152+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Property Lounge Half Zip Hoodie - Black\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-property-lounge-half-zip-hoodie-black",
-      "detected_at": "2026-08-09T20:52:11.445368+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Drop Needle 3-Stripes Tee\nhttps://www.asphaltgold.de/products/adidas-drop-needle-3stripes-tee-night-indigo",
+      "detected_at": "2026-08-09T22:04:31.517152+00:00"
     }
   ]
 }
