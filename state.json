@@ -3832,11 +3832,6 @@
         "handle": "adidas-predator-94-st-iron-metallic-matte-silver",
         "in_stock": true
       },
-      "9119259230396": {
-        "title": "New Balance 1906L - Silver Metallic/Navy",
-        "handle": "new-balance-1906l-silver-metallic-navy",
-        "in_stock": false
-      },
       "9356500566204": {
         "title": "Nike Air Zoom Flight 'The Glove' - Black/White",
         "handle": "nike-air-zoom-flight-the-glove-black-white",
@@ -5005,6 +5000,11 @@
       "8687699329212": {
         "title": "A Bathing Ape College Tee - White",
         "handle": "a-bathing-ape-college-tee-white",
+        "in_stock": true
+      },
+      "9271119052988": {
+        "title": "Billionaire Boys Club Helmet Sketch Tee - Ecru",
+        "handle": "billionaire-boys-club-helmet-sketch-tee-ecru",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Helmet Sketch Tee - Ecru\nhttps://sneakerpolitics.com/products/billionaire-boys-club-helmet-sketch-tee-ecru",
+      "detected_at": "2026-08-09T14:37:20.434518+00:00"
+    }
+  ]
 }
