@@ -1791,7 +1791,7 @@
       "6702668316933": {
         "title": "BAPE COLOR CAMO TIGER SHARK TEE - BLACK",
         "handle": "bape-color-camo-tiger-shark-tee-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6570848288841": {
         "title": "BAPE COLOR CAMO SHOPPING BAG L",
@@ -4345,7 +4345,7 @@
       "9286306300092": {
         "title": "Godspeed New York Symmetrical Logo Tee - Black Wash",
         "handle": "godspeed-new-york-symmetrical-logo-tee-black-wash",
-        "in_stock": true
+        "in_stock": false
       },
       "8747391647932": {
         "title": "Politics x Dallas Mavericks x Mitchell & Ness Map Tee - White",
@@ -8727,7 +8727,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": true
+        "in_stock": false
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Denim Jorts Cloud White\nhttps://www.slamjam.com/products/adidas-clothing-jorts-white-j362402",
-      "detected_at": "2026-08-08T23:45:22.160316+00:00"
-    }
-  ]
+  "pending_free": []
 }
