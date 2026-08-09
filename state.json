@@ -3842,11 +3842,6 @@
         "handle": "nike-air-griffey-max-1-white-black",
         "in_stock": true
       },
-      "9294210662588": {
-        "title": "Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White",
-        "handle": "air-jordan-4-retro-toro-bravo-fire-red-white",
-        "in_stock": false
-      },
       "9363137495228": {
         "title": "Palace x England x Nike Tee - White",
         "handle": "palace-x-england-x-nike-tee-white",
@@ -4366,11 +4361,6 @@
         "title": "Nike Vomero Plus - Volt Tint/Black Spruce",
         "handle": "nike-vomero-plus-volt-tint-black-spruce",
         "in_stock": true
-      },
-      "8583914619068": {
-        "title": "Politics Tie Dye P Logo Socks - Blue/Red",
-        "handle": "politics-tie-dye-p-logo-socks-blue-red",
-        "in_stock": false
       },
       "9346348679356": {
         "title": "Nike ACG Tuff Fleece Pant - Dark Smoke Grey/White",
@@ -5005,6 +4995,16 @@
       "9358417395900": {
         "title": "A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black",
         "handle": "a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
+        "in_stock": true
+      },
+      "9292579897532": {
+        "title": "Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown",
+        "handle": "nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
+        "in_stock": true
+      },
+      "9303697719484": {
+        "title": "Fear Of God Essentials Property Lounge Half Zip Hoodie - Black",
+        "handle": "fear-of-god-essentials-property-lounge-half-zip-hoodie-black",
         "in_stock": true
       }
     },
@@ -8292,7 +8292,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": true
+        "in_stock": false
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8727,7 +8727,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": true
+        "in_stock": false
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8768,16 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black\nhttps://sneakerpolitics.com/products/a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
-      "detected_at": "2026-08-09T20:04:40.760005+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown\nhttps://sneakerpolitics.com/products/nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
+      "detected_at": "2026-08-09T20:52:11.445368+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-      "detected_at": "2026-08-09T20:04:40.760005+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Favela Narco Pets Book\nhttps://www.slamjam.com/products/550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-      "detected_at": "2026-08-09T20:04:40.760005+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Property Lounge Half Zip Hoodie - Black\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-property-lounge-half-zip-hoodie-black",
+      "detected_at": "2026-08-09T20:52:11.445368+00:00"
     }
   ]
 }
