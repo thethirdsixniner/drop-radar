@@ -2803,7 +2803,7 @@
       "8443158266123": {
         "title": "Lacoste Organic Cotton Twill Cap",
         "handle": "lacoste-organic-cotton-twill-cap-black",
-        "in_stock": true
+        "in_stock": false
       },
       "11013973180683": {
         "title": "47 NHL Toronto Maple Leafs *Tuscaloosa Clean Up* Cap",
@@ -8766,14 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-      "detected_at": "2026-08-09T16:38:38.396374+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Favela Narco Pets Book\nhttps://www.slamjam.com/products/550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-      "detected_at": "2026-08-09T16:38:38.396374+00:00"
-    }
-  ]
+  "pending_free": []
 }
