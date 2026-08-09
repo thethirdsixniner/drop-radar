@@ -2510,11 +2510,6 @@
         "handle": "adidas-adizero-pr-legend-red-cream-white-wild-sepia",
         "in_stock": true
       },
-      "10621066346763": {
-        "title": "Karhu x Stan Ray Fusion XT",
-        "handle": "karhu-fusion-xt-bright-white-sterling",
-        "in_stock": false
-      },
       "10845253239051": {
         "title": "Nike Waffle Racer",
         "handle": "nike-waffle-racer-mignight-navy-safety-orange-sail",
@@ -2550,11 +2545,6 @@
         "handle": "birkenstock-boston-sfb-taupe",
         "in_stock": true
       },
-      "10747670954251": {
-        "title": "Adidas Y-3 x NBHD Logo Tee",
-        "handle": "adidas-y3-x-nbhd-logo-tee-core-white",
-        "in_stock": false
-      },
       "10684665954571": {
         "title": "Sefr Mauro T-Shirt",
         "handle": "sefr-mauro-tshirt-clear-white",
@@ -2579,11 +2569,6 @@
         "title": "HAY Colour Crate Mini-Oblong",
         "handle": "hay-colour-crate-minioblong-dark-green",
         "in_stock": true
-      },
-      "10867287261451": {
-        "title": "Arte Antwerp Heart Logo Cap",
-        "handle": "arte-antwerp-heart-logo-cap-black",
-        "in_stock": false
       },
       "10803976044811": {
         "title": "Carhartt WIP Supa Beanie",
@@ -2750,16 +2735,6 @@
         "handle": "adidas-sl-72-og-w-yellow-core-black-yellow",
         "in_stock": true
       },
-      "10723903275275": {
-        "title": "Salomon XT PU.RE Advanced",
-        "handle": "salomon-xt-pure-advanced-sedona-sage-footwear-silver-metal",
-        "in_stock": false
-      },
-      "10696156971275": {
-        "title": "Asics GEL-NYC RGD",
-        "handle": "asics-gelnyc-rgd-smoke-grey-wool",
-        "in_stock": false
-      },
       "10661940658443": {
         "title": "Birkenstock London Shearling",
         "handle": "birkenstock-london-shearling-taupe",
@@ -2770,11 +2745,6 @@
         "handle": "new-balance-t500aa",
         "in_stock": true
       },
-      "10632129511691": {
-        "title": "Autry Hyperway *Suede / Mesh*",
-        "handle": "autry-hyperway-suede-mesh-sand-silver",
-        "in_stock": false
-      },
       "10541065896203": {
         "title": "Autry Windspin W *Suede / Leather*",
         "handle": "autry-windspin-w-suede-leather-peanut",
@@ -2784,11 +2754,6 @@
         "title": "Polo Ralph Lauren Cormac Relaxed Fit Chino Short",
         "handle": "polo-ralph-lauren-prepster-linen-short-kelly-green",
         "in_stock": true
-      },
-      "10727153565963": {
-        "title": "Metalwood Safety Trucker Hat",
-        "handle": "metalwood-safety-trucker-hat-camo",
-        "in_stock": false
       },
       "10621028892939": {
         "title": "Autry Heritage Logo Graphic Tee",
@@ -2949,11 +2914,6 @@
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-wonder-aluminum-footwear-white-gum-3",
         "in_stock": true
-      },
-      "10564691853579": {
-        "title": "Adidas Gazelle Indoor",
-        "handle": "adidas-gazelle-indoor-brown-desert-wonder-white-magic-beige",
-        "in_stock": false
       },
       "10169842893067": {
         "title": "Adidas SL 72 RS",
@@ -3753,6 +3713,46 @@
       "11010010611979": {
         "title": "Adidas Drop Needle 3-Stripes Tee",
         "handle": "adidas-drop-needle-3stripes-tee-night-indigo",
+        "in_stock": true
+      },
+      "11008895844619": {
+        "title": "Adidas 3-Stripes Oversized Crewneck",
+        "handle": "adidas-3stripes-oversized-crewneck-medium-grey-heather-night-indigo",
+        "in_stock": true
+      },
+      "11008784466187": {
+        "title": "Adidas\tx Care Bears Long Sleeve Tee",
+        "handle": "adidasx-care-bears-long-sleeve-tee-white",
+        "in_stock": true
+      },
+      "11011638690059": {
+        "title": "Carhartt WIP Landon Pant",
+        "handle": "carhartt-wip-landon-pant-black-marble-used-wash",
+        "in_stock": true
+      },
+      "8285570924811": {
+        "title": "Autry Medalist W *Solid Goat*",
+        "handle": "autry-medalist-w-solid-goat-white",
+        "in_stock": true
+      },
+      "8932209819915": {
+        "title": "Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*",
+        "handle": "autry-reelwind-low-w-nylon-hairy-suede-cracked-leather-white-filler",
+        "in_stock": true
+      },
+      "9043479757067": {
+        "title": "Autry Medalist W *Leather / Suede*",
+        "handle": "autry-medalist-w-leather-suede-white-gold",
+        "in_stock": true
+      },
+      "10077669720331": {
+        "title": "Autry Medalist Platform W",
+        "handle": "autry-medalist-platform-w-white-powder",
+        "in_stock": true
+      },
+      "7308751831204": {
+        "title": "Autry Medalist W",
+        "handle": "autry-medalist-w-silver",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,36 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wool Classic Fleece Pant Open Hem\nhttps://www.asphaltgold.de/products/nike-wool-classic-fleece-pant-open-hem-pure",
-      "detected_at": "2026-08-09T22:04:31.517152+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas 3-Stripes Oversized Crewneck\nhttps://www.asphaltgold.de/products/adidas-3stripes-oversized-crewneck-medium-grey-heather-night-indigo",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Drop Needle 3-Stripes Tee\nhttps://www.asphaltgold.de/products/adidas-drop-needle-3stripes-tee-night-indigo",
-      "detected_at": "2026-08-09T22:04:31.517152+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Care Bears Long Sleeve Tee\nhttps://www.asphaltgold.de/products/adidasx-care-bears-long-sleeve-tee-white",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Landon Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-landon-pant-black-marble-used-wash",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W *Solid Goat*\nhttps://www.asphaltgold.de/products/autry-medalist-w-solid-goat-white",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-nylon-hairy-suede-cracked-leather-white-filler",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W *Leather / Suede*\nhttps://www.asphaltgold.de/products/autry-medalist-w-leather-suede-white-gold",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist Platform W\nhttps://www.asphaltgold.de/products/autry-medalist-platform-w-white-powder",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W\nhttps://www.asphaltgold.de/products/autry-medalist-w-silver",
+      "detected_at": "2026-08-09T22:50:46.727379+00:00"
     }
   ]
 }
