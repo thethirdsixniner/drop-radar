@@ -3957,11 +3957,6 @@
         "handle": "nike-air-force-1-low-horse-of-a-different-color-campfire-orange-sunset",
         "in_stock": true
       },
-      "9405625172156": {
-        "title": "Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White",
-        "handle": "pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-        "in_stock": false
-      },
       "9366345908412": {
         "title": "Only Fans x Pleasures Communications T-Shirt - Black",
         "handle": "only-fans-x-pleasures-communications-t-shirt-black",
@@ -5005,6 +5000,11 @@
       "9286308331708": {
         "title": "Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash",
         "handle": "godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
+        "in_stock": true
+      },
+      "9358417395900": {
+        "title": "A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black",
+        "handle": "a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
         "in_stock": true
       }
     },
@@ -8292,7 +8292,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": false
+        "in_stock": true
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8727,7 +8727,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": false
+        "in_stock": true
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8766,5 +8766,18 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black\nhttps://sneakerpolitics.com/products/a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
+      "detected_at": "2026-08-09T20:04:40.760005+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
+      "detected_at": "2026-08-09T20:04:40.760005+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Favela Narco Pets Book\nhttps://www.slamjam.com/products/550bc-lifestyle-favela-narco-pets-multicolor-j367821",
+      "detected_at": "2026-08-09T20:04:40.760005+00:00"
+    }
+  ]
 }
