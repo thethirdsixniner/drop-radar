@@ -4867,11 +4867,6 @@
         "handle": "billionaire-boys-club-chill-knit-tee-black",
         "in_stock": true
       },
-      "9103768584380": {
-        "title": "Saucony Progrid Omni 9 - Grey/Slime",
-        "handle": "saucony-progrid-omni-9-grey-slime",
-        "in_stock": false
-      },
       "9097316335804": {
         "title": "Vans LX Authentic 44 - Diamond Check Blackout",
         "handle": "vans-lx-authentic-44-diamond-check-blackout",
@@ -5005,6 +5000,11 @@
       "9271119052988": {
         "title": "Billionaire Boys Club Helmet Sketch Tee - Ecru",
         "handle": "billionaire-boys-club-helmet-sketch-tee-ecru",
+        "in_stock": true
+      },
+      "9286308331708": {
+        "title": "Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash",
+        "handle": "godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash\nhttps://sneakerpolitics.com/products/godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
+      "detected_at": "2026-08-09T18:45:33.648732+00:00"
+    }
+  ]
 }
