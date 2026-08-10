@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8285987078272": {
+        "title": "Kith Monogram Debossed Suede Backgammon Set - Ink",
+        "handle": "khlho0094-432",
+        "in_stock": true
+      },
+      "8285983899776": {
+        "title": "Kith Monogram Debossed Suede Poker Set - Stadium",
+        "handle": "khlho0093-302",
+        "in_stock": true
+      },
       "8286639751296": {
         "title": "Jordan PS Jordan 3 Retro - Chalk / True Blue / Kinetic Green / Track Red",
         "handle": "jbio2074-100",
@@ -25,16 +35,6 @@
         "title": "Nike PS KD 6 - Black / Medium Olive / Noble Red / Atomic Red",
         "handle": "nkiu1288-001",
         "in_stock": true
-      },
-      "8286011326592": {
-        "title": "Kith Monogram Debossed Suede Poker Set - Stadium - PH",
-        "handle": "khlho0093-302-ph",
-        "in_stock": false
-      },
-      "8286011392128": {
-        "title": "Kith Monogram Debossed Suede Backgammon Set - Ink - PH",
-        "handle": "khlho0094-432-ph",
-        "in_stock": false
       },
       "8286350704768": {
         "title": "Kith 3-Pack Undershirt - Black",
@@ -2773,7 +2773,7 @@
       "9013989933323": {
         "title": "Mizuno Wave Rider 10 Sport",
         "handle": "mizuno-wave-rider-10-sport-black-sand-black-sand-metallic-gray",
-        "in_stock": true
+        "in_stock": false
       },
       "8912214163723": {
         "title": "Nike Wmns Air Max SNDR",
@@ -3003,7 +3003,7 @@
       "10860642533643": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10857953263883": {
         "title": "Asics GEL-1130",
@@ -6264,62 +6264,62 @@
       "10588884697354": {
         "title": "Diemme CORNARO DUE GOMMA",
         "handle": "diemme-cornaro-due-gomma-olive",
-        "in_stock": false
+        "in_stock": true
       },
       "10588883386634": {
         "title": "Diemme CORNARO GALA",
         "handle": "diemme-cornaro-gala-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10588880404746": {
         "title": "Diemme CORNARO GOMMA",
         "handle": "diemme-cornaro-gomma-coffee",
-        "in_stock": false
+        "in_stock": true
       },
       "10588877488394": {
         "title": "Salomon XT-WHISPER VOID",
         "handle": "salomon-xt-whisper-void-walnut-walnut-waln",
-        "in_stock": false
+        "in_stock": true
       },
       "10588876275978": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-blackcoffee-burro-bchoco",
-        "in_stock": false
+        "in_stock": true
       },
       "10588875063562": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-tapioca-spellbound-lichen",
-        "in_stock": false
+        "in_stock": true
       },
       "10588873982218": {
         "title": "adidas Originals HANDBALL SPEZIAL",
         "handle": "adidas-originals-handball-spezial-cwhite-nindig-owhite",
-        "in_stock": false
+        "in_stock": true
       },
       "10588871721226": {
         "title": "Salomon XT-6 EXPANSE",
         "handle": "salomon-xt-6-expanse-anciew-bchoco-ftwsil",
-        "in_stock": false
+        "in_stock": true
       },
       "10588870770954": {
         "title": "Salomon XT-WHISPER",
         "handle": "salomon-xt-whisper-ftwsilver-vanila-winte",
-        "in_stock": false
+        "in_stock": true
       },
       "10588869722378": {
         "title": "Salomon XT-4 OG",
         "handle": "salomon-xt-4-og-ftwsilver-black-transc",
-        "in_stock": false
+        "in_stock": true
       },
       "10588840296714": {
         "title": "The North Face M MTN RANGE DWK HD JKT",
         "handle": "the-north-face-m-mtn-range-dwk-hd-jkt-tnf-blk-tnf-blk",
-        "in_stock": false
+        "in_stock": true
       },
       "10588798910730": {
         "title": "Carhartt WIP Lambert Polo Sweatshirt",
         "handle": "carhartt-wip-lambert-polo-sweatshirt-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10588785180938": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION CHOP HOODIE",
@@ -8422,7 +8422,7 @@
       "9112093622477": {
         "title": "Men's Dri-FIT 3in Brief-Lined Running Shorts Medium Ash",
         "handle": "nike-clothing-nike-inline-disrupt-mens-dri-fit-3-brief-lined-running-shorts-brown-j352189",
-        "in_stock": true
+        "in_stock": false
       },
       "9108125384909": {
         "title": "Men's MothTech Muscle Tee Faded Black",
@@ -8768,40 +8768,60 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 3 Retro - Chalk / True Blue / Kinetic Green / Track Red\nhttps://kith.com/products/jbio2074-100",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Monogram Debossed Suede Backgammon Set - Ink\nhttps://kith.com/products/khlho0094-432",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 3 Retro - Chalk / True Blue / Kinetic Green / Track Red\nhttps://kith.com/products/jbio2075-100",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Monogram Debossed Suede Poker Set - Stadium\nhttps://kith.com/products/khlho0093-302",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 3 - Chalk / True Blue\nhttps://kith.com/products/jbio2076-100",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🔥 **Restock** at Afew Store: Diemme CORNARO DUE GOMMA\nhttps://www.afew-store.com/products/diemme-cornaro-due-gomma-olive",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike GS KD 6 - Black / Medium Olive / Noble Red / Atomic Red\nhttps://kith.com/products/nkiu1287-001",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🔥 **Restock** at Afew Store: Diemme CORNARO GALA\nhttps://www.afew-store.com/products/diemme-cornaro-gala-black",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike PS KD 6 - Black / Medium Olive / Noble Red / Atomic Red\nhttps://kith.com/products/nkiu1288-001",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🔥 **Restock** at Afew Store: Diemme CORNARO GOMMA\nhttps://www.afew-store.com/products/diemme-cornaro-gomma-coffee",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE BOOK 2 PREMIUM - VARSITY PURPLE/ BLACK\nhttps://undefeated.com/products/nike-book-2-premium-varsity-purple-black",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🔥 **Restock** at Afew Store: Salomon XT-WHISPER VOID\nhttps://www.afew-store.com/products/salomon-xt-whisper-void-walnut-walnut-waln",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Standard Issue Sleeveless Top - Black/Pale Ivory\nhttps://sneakerpolitics.com/products/nike-standard-issue-sleeveless-top-black-pale-ivory",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🔥 **Restock** at Afew Store: Salomon XT-6\nhttps://www.afew-store.com/products/salomon-xt-6-blackcoffee-burro-bchoco",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Book 2 Premium 'Eggplant Foamposite' - Varsity Purple/Black\nhttps://sneakerpolitics.com/products/nike-book-2-premium-eggplant-foamposite-varsity-purple-black",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🔥 **Restock** at Afew Store: Salomon XT-6\nhttps://www.afew-store.com/products/salomon-xt-6-tapioca-spellbound-lichen",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black\nhttps://www.slamjam.com/products/adidas-footwear-hellstar-megaride-s-white-j362348",
-      "detected_at": "2026-08-10T14:44:36.817812+00:00"
+      "message": "🔥 **Restock** at Afew Store: adidas Originals HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-cwhite-nindig-owhite",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Salomon XT-6 EXPANSE\nhttps://www.afew-store.com/products/salomon-xt-6-expanse-anciew-bchoco-ftwsil",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Salomon XT-WHISPER\nhttps://www.afew-store.com/products/salomon-xt-whisper-ftwsilver-vanila-winte",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Salomon XT-4 OG\nhttps://www.afew-store.com/products/salomon-xt-4-og-ftwsilver-black-transc",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: The North Face M MTN RANGE DWK HD JKT\nhttps://www.afew-store.com/products/the-north-face-m-mtn-range-dwk-hd-jkt-tnf-blk-tnf-blk",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Lambert Polo Sweatshirt\nhttps://www.afew-store.com/products/carhartt-wip-lambert-polo-sweatshirt-black",
+      "detected_at": "2026-08-10T15:43:14.573285+00:00"
     }
   ]
 }
