@@ -1,6 +1,31 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286639751296": {
+        "title": "Jordan PS Jordan 3 Retro - Chalk / True Blue / Kinetic Green / Track Red",
+        "handle": "jbio2074-100",
+        "in_stock": true
+      },
+      "8286639620224": {
+        "title": "Jordan TD Jordan 3 Retro - Chalk / True Blue / Kinetic Green / Track Red",
+        "handle": "jbio2075-100",
+        "in_stock": true
+      },
+      "8286639587456": {
+        "title": "Jordan GS Air Jordan 3 - Chalk / True Blue",
+        "handle": "jbio2076-100",
+        "in_stock": true
+      },
+      "8286639521920": {
+        "title": "Nike GS KD 6 - Black / Medium Olive / Noble Red / Atomic Red",
+        "handle": "nkiu1287-001",
+        "in_stock": true
+      },
+      "8286639489152": {
+        "title": "Nike PS KD 6 - Black / Medium Olive / Noble Red / Atomic Red",
+        "handle": "nkiu1288-001",
+        "in_stock": true
+      },
       "8286011326592": {
         "title": "Kith Monogram Debossed Suede Poker Set - Stadium - PH",
         "handle": "khlho0093-302-ph",
@@ -1225,42 +1250,17 @@
         "title": "AKILA Ares Sunglasses - Black / Yellow",
         "handle": "aki2125-01-78",
         "in_stock": true
-      },
-      "8286573756544": {
-        "title": "adidas x Willy Chavarria Soccer Scarf - Black / Better Scarlet / Collegiate Green",
-        "handle": "adiku1345",
-        "in_stock": true
-      },
-      "8286573789312": {
-        "title": "adidas x Willy Chavarria Crest Cap - Black",
-        "handle": "adikw7334",
-        "in_stock": true
-      },
-      "8286573723776": {
-        "title": "adidas x Willy Chavarria Logo Cap - Collegiate Green",
-        "handle": "adikw7336",
-        "in_stock": true
-      },
-      "8286564843648": {
-        "title": "Acne Studios Washed Logo Baseball Cap - Oyster Grey",
-        "handle": "acnc40477-ckn",
-        "in_stock": true
-      },
-      "8286628085888": {
-        "title": "Acne Studios Printed Silk Scarf - Brown / White",
-        "handle": "acnca0440-aih",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
-      "6702665367813": {
-        "title": "UNDEFEATED CHAMBRAY S/S SHIRT",
-        "handle": "undefeated-chambray-s-s-shirt",
-        "in_stock": true
-      },
       "6702665105669": {
         "title": "UNDEFEATED REVERSIBLE TRUCKER JACKET",
         "handle": "undefeated-reversible-trucker-jacket",
+        "in_stock": true
+      },
+      "6702665367813": {
+        "title": "UNDEFEATED CHAMBRAY S/S SHIRT",
+        "handle": "undefeated-chambray-s-s-shirt",
         "in_stock": true
       },
       "6702664941829": {
@@ -1403,6 +1403,11 @@
         "handle": "undefeated-icon-crew-sock-3-pack",
         "in_stock": true
       },
+      "6702685323525": {
+        "title": "NIKE BOOK 2 PREMIUM - VARSITY PURPLE/ BLACK",
+        "handle": "nike-book-2-premium-varsity-purple-black",
+        "in_stock": true
+      },
       "6702685225221": {
         "title": "HELLSTAR X ADIDAS MEGARIDE - FTWWHT/ OWHIT",
         "handle": "hellstar-x-adidas-megaride-ftwwht-owhit",
@@ -1413,14 +1418,14 @@
         "handle": "jordan-aj-6-retro-white-black-1",
         "in_stock": true
       },
-      "6702685192453": {
-        "title": "JORDAN GS AJ 6 RETRO - WHITE/ BLACK",
-        "handle": "jordan-gs-aj-6-retro-white-black",
-        "in_stock": true
-      },
       "6702685126917": {
         "title": "JORDAN PS AJ 6 RETRO - WHITE/ BLACK",
         "handle": "jordan-ps-aj-6-retro-white-black",
+        "in_stock": true
+      },
+      "6702685192453": {
+        "title": "JORDAN GS AJ 6 RETRO - WHITE/ BLACK",
+        "handle": "jordan-gs-aj-6-retro-white-black",
         "in_stock": true
       },
       "6702667890949": {
@@ -2497,11 +2502,6 @@
         "title": "UNDEFEATED X BCFC X NIKE STADIUM HOME JERSEY - COBALT",
         "handle": "undefeated-x-bcfc-x-nike-stadium-home-jersey-cobalt",
         "in_stock": true
-      },
-      "6700580143365": {
-        "title": "UNDEFEATED X BCFC X NIKE STADIUM AWAY JERSEY - WHITE",
-        "handle": "undefeated-x-bcfc-x-nike-stadium-away-jersey-white",
-        "in_stock": false
       }
     },
     "https://www.asphaltgold.de": {
@@ -2588,7 +2588,7 @@
       "10537647309067": {
         "title": "Autry Hyperway  W *Suedebic / Mesh*",
         "handle": "autry-hyperway-w-suedebic-mesh-poweder-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "9016681234699": {
         "title": "Birkenstock Boston",
@@ -3453,7 +3453,7 @@
       "10809052397835": {
         "title": "Nike Air Force 1 '07 LV8",
         "handle": "nike-air-force-1-07-lv8-summit-white-varsity-red-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10170571194635": {
         "title": "Adidas Crazy IIInfinity",
@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9283366912188": {
+        "title": "Nike Standard Issue Sleeveless Top - Black/Pale Ivory",
+        "handle": "nike-standard-issue-sleeveless-top-black-pale-ivory",
+        "in_stock": true
+      },
+      "9346469855420": {
+        "title": "Nike Book 2 Premium 'Eggplant Foamposite' - Varsity Purple/Black",
+        "handle": "nike-book-2-premium-eggplant-foamposite-varsity-purple-black",
+        "in_stock": true
+      },
       "8710419480764": {
         "title": "Honor The Gift x Politics Tailgate Hat - Black",
         "handle": "honor-the-gift-x-politics-tailgate-hat-black",
@@ -4995,16 +5005,6 @@
       "9365997158588": {
         "title": "Ksubi Stay Up Ekcess Tee - Tru White",
         "handle": "ksubi-stay-up-ekcess-tee-tru-white",
-        "in_stock": true
-      },
-      "9366007087292": {
-        "title": "Ksubi Troop Cargo Short - Sand Camo",
-        "handle": "ksubi-troop-cargo-short-sand-camo",
-        "in_stock": true
-      },
-      "8687699329212": {
-        "title": "A Bathing Ape College Tee - White",
-        "handle": "a-bathing-ape-college-tee-white",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,31 @@
       }
     },
     "https://www.afew-store.com": {
+      "10588884697354": {
+        "title": "Diemme CORNARO DUE GOMMA",
+        "handle": "diemme-cornaro-due-gomma-olive",
+        "in_stock": false
+      },
+      "10588883386634": {
+        "title": "Diemme CORNARO GALA",
+        "handle": "diemme-cornaro-gala-black",
+        "in_stock": false
+      },
+      "10588880404746": {
+        "title": "Diemme CORNARO GOMMA",
+        "handle": "diemme-cornaro-gomma-coffee",
+        "in_stock": false
+      },
+      "10588877488394": {
+        "title": "Salomon XT-WHISPER VOID",
+        "handle": "salomon-xt-whisper-void-walnut-walnut-waln",
+        "in_stock": false
+      },
+      "10588876275978": {
+        "title": "Salomon XT-6",
+        "handle": "salomon-xt-6-blackcoffee-burro-bchoco",
+        "in_stock": false
+      },
       "10588875063562": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-tapioca-spellbound-lichen",
@@ -7485,31 +7510,6 @@
         "title": "Puma Hali 1",
         "handle": "puma-hali-1-cobalt-glaze-zen-blue",
         "in_stock": true
-      },
-      "10575552020746": {
-        "title": "Puma Hali 1",
-        "handle": "puma-hali-1-fresh-mint-green-moon",
-        "in_stock": true
-      },
-      "10575549563146": {
-        "title": "Puma Speedcat Snake",
-        "handle": "puma-speedcat-snake-silver-fog-vapor-gray",
-        "in_stock": true
-      },
-      "10575549169930": {
-        "title": "Puma Speedcat Snake",
-        "handle": "puma-speedcat-snake-bitter-chocolate-toasted-almond",
-        "in_stock": true
-      },
-      "10575547924746": {
-        "title": "Puma WMNS Speedcat Wedge",
-        "handle": "puma-wmns-speedcat-wedge-totally-taupe-chocolate",
-        "in_stock": true
-      },
-      "10575546515722": {
-        "title": "Puma WMNS Speedcat Wedge",
-        "handle": "puma-wmns-speedcat-wedge-gray-sky-puma-black",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -8067,7 +8067,7 @@
       "9124916592845": {
         "title": "Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black",
         "handle": "adidas-footwear-hellstar-megaride-s-white-j362348",
-        "in_stock": false
+        "in_stock": true
       },
       "9124916527309": {
         "title": "Willy Chavarria Megaride AG Sneakers Clear Pink / Power Red",
@@ -8317,7 +8317,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": true
+        "in_stock": false
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8432,7 +8432,7 @@
       "9106802868429": {
         "title": "Men's Pigment Bleed Crewneck Sweater Navy",
         "handle": "neighborhood-clothing-pigment-bleed-crewneck-sweater-blue-j353267",
-        "in_stock": true
+        "in_stock": false
       },
       "9097440100557": {
         "title": "Men's A Ma Maniére Pants Black",
@@ -8752,7 +8752,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": true
+        "in_stock": false
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8768,80 +8768,40 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Tailgate Hat - Black\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-tailgate-hat-black",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 3 Retro - Chalk / True Blue / Kinetic Green / Track Red\nhttps://kith.com/products/jbio2074-100",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Rally Time Tee - Vintage White\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-rally-time-tee-vintage-white",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 3 Retro - Chalk / True Blue / Kinetic Green / Track Red\nhttps://kith.com/products/jbio2075-100",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Rally Time Tee - Faded Black\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-rally-time-tee-faded-black",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 3 - Chalk / True Blue\nhttps://kith.com/products/jbio2076-100",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Busy Being Nice Blue Collar Jacket - Grey\nhttps://sneakerpolitics.com/products/politics-busy-being-nice-blue-collar-jacket-grey",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Kith: Nike GS KD 6 - Black / Medium Olive / Noble Red / Atomic Red\nhttps://kith.com/products/nkiu1287-001",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Fucking Awesome Gun Baby Soft Foam Trucker Hat - Washed Camo\nhttps://sneakerpolitics.com/products/fucking-awesome-gun-baby-soft-foam-trucker-hat-washed-camo",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Kith: Nike PS KD 6 - Black / Medium Olive / Noble Red / Atomic Red\nhttps://kith.com/products/nkiu1288-001",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION CHOP HOODIE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-chop-hoodie-caviar",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE BOOK 2 PREMIUM - VARSITY PURPLE/ BLACK\nhttps://undefeated.com/products/nike-book-2-premium-varsity-purple-black",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Shortsleeve Feather Progress T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-shortsle-ve-feather-progress-t-shirt-white",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Standard Issue Sleeveless Top - Black/Pale Ivory\nhttps://sneakerpolitics.com/products/nike-standard-issue-sleeveless-top-black-pale-ivory",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Brandon Pant\nhttps://www.afew-store.com/products/carhartt-wip-brandon-pant-black-i035893-890r",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Book 2 Premium 'Eggplant Foamposite' - Varsity Purple/Black\nhttps://sneakerpolitics.com/products/nike-book-2-premium-eggplant-foamposite-varsity-purple-black",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Shortsleeve OG Loose Pocket T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-shortsleeve-og-loose-pocket-t-shirt-black",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Lambert Polo Sweatshirt\nhttps://www.afew-store.com/products/carhartt-wip-lambert-polo-sweatshirt-raven",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)\nhttps://www.afew-store.com/products/birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-black-black",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS HANDBALL SPEZIAL LOAFER\nhttps://www.afew-store.com/products/adidas-originals-wmns-handball-spezial-lo-supcol-cblack-goldmt",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals SUPERSTAR VINTAGE\nhttps://www.afew-store.com/products/adidas-originals-superstar-vintage-maroon-maroon-carbon",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Rat Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-rat-multicolor-j367820",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Secret Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-secret-multicolor-j367819",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Tiannuska Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-tiannuska-multicolor-j367817",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Clara Borde Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-clara-borde-multicolor-j367818",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Favela Narco Pets Book\nhttps://www.slamjam.com/products/550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black\nhttps://www.slamjam.com/products/adidas-footwear-hellstar-megaride-s-white-j362348",
+      "detected_at": "2026-08-10T14:44:36.817812+00:00"
     }
   ]
 }
