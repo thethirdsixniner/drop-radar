@@ -3925,7 +3925,7 @@
       "9305494913212": {
         "title": "Willy Chavarria x Adidas Megaride AG - Clear Pink/Clear Pink",
         "handle": "willy-chavarria-x-adidas-megaride-ag-clear-pink-clear-pink",
-        "in_stock": true
+        "in_stock": false
       },
       "9354238165180": {
         "title": "Nike DT Max '96 Low (TD) - White/Metallic Silver",
@@ -8292,7 +8292,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": false
+        "in_stock": true
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8727,7 +8727,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": false
+        "in_stock": true
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8768,8 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Little Posite One (GS) - Black/Dark Smoke Grey\nhttps://sneakerpolitics.com/products/nike-little-posite-one-gs-black-black",
-      "detected_at": "2026-08-10T02:59:41.616557+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
+      "detected_at": "2026-08-10T04:47:10.805574+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Favela Narco Pets Book\nhttps://www.slamjam.com/products/550bc-lifestyle-favela-narco-pets-multicolor-j367821",
+      "detected_at": "2026-08-10T04:47:10.805574+00:00"
     }
   ]
 }
