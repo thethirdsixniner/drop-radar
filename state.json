@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286645715072": {
+        "title": "Kith x Converse Chuck Taylor All Star 1970 - Black AOP",
+        "handle": "cn171864c",
+        "in_stock": true
+      },
       "8285987078272": {
         "title": "Kith Monogram Debossed Suede Backgammon Set - Ink",
         "handle": "khlho0094-432",
@@ -1245,14 +1250,14 @@
         "title": "AKILA Syndicate Sunglasses - Black / Sky Blue",
         "handle": "aki2402-01-28",
         "in_stock": false
-      },
-      "8286564548736": {
-        "title": "AKILA Ares Sunglasses - Black / Yellow",
-        "handle": "aki2125-01-78",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702259405061": {
+        "title": "UNDEFEATED ZIPPO - BRUSHED CHROME",
+        "handle": "undefeated-zippo-brushed-chrome",
+        "in_stock": true
+      },
       "6702687420677": {
         "title": "JORDAN TEE - SAIL / BLACK",
         "handle": "jordan-tee-sail-black",
@@ -2497,11 +2502,6 @@
         "title": "ASICS GEL-CUMULUS 16 - BLACK",
         "handle": "asics-gel-cumulus-16-black-1",
         "in_stock": true
-      },
-      "6701766672645": {
-        "title": "NIKE AIR FORCE 1 - DESERT MOSS/ FIERCE PINK",
-        "handle": "nike-air-force-1-desert-moss-fierce-pink",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2943,7 +2943,7 @@
       "10833349935371": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-aurora-coffee-silver-pebble-gum-5",
-        "in_stock": true
+        "in_stock": false
       },
       "10867287785739": {
         "title": "Arte Antwerp Heart Logo Cap",
@@ -3393,7 +3393,7 @@
       "8778554441995": {
         "title": "Asphaltgold Essential Track Jacket",
         "handle": "asphaltgold-essential-track-jacket-dark-bordeaux",
-        "in_stock": true
+        "in_stock": false
       },
       "10761780494603": {
         "title": "Tekla Hooded Bathrobe",
@@ -8768,60 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN FLIGHT WINGS PULLOVER HOODIE - BLACK / UNIVERSITY RED\nhttps://undefeated.com/products/jordan-flight-wings-pullover-hoodie-black-university-red",
-      "detected_at": "2026-08-10T19:42:50.949686+00:00"
+      "message": "🆕 **New drop** at Kith: Kith x Converse Chuck Taylor All Star 1970 - Black AOP\nhttps://kith.com/products/cn171864c",
+      "detected_at": "2026-08-10T21:19:55.662093+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN FLIGHT WINGS PULLOVER HOODIE  - LT BRITISH TAN / SAIL\nhttps://undefeated.com/products/jordan-flight-wings-pullover-hoodie-lt-british-tan-sail",
-      "detected_at": "2026-08-10T19:42:50.949686+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN TEE - SAIL / BLACK\nhttps://undefeated.com/products/jordan-tee-sail-black",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude RH Logo Shorts - Taupe\nhttps://sneakerpolitics.com/products/rhude-rh-logo-shorts-taupe",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude RH Logo Shorts - Navy\nhttps://sneakerpolitics.com/products/rhude-rh-logo-shorts-navy",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Lightning Football Jersey - Grey/White\nhttps://sneakerpolitics.com/products/rhude-lightning-football-jersey-grey-white",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Clermont-Ferrand Souvenir Hat - Bright Red/Yellow\nhttps://sneakerpolitics.com/products/rhude-clermont-ferrand-souvenir-hat-bright-red-yellow",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Logo Mesh Hat - Red/White\nhttps://sneakerpolitics.com/products/rhude-logo-mesh-hat-red-white",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Winter 91 Rallye Tee - Vintage White/Black\nhttps://sneakerpolitics.com/products/rhude-winter-91-rallye-tee-vintage-white-black",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Chrono Tee - Vintage White/Blue\nhttps://sneakerpolitics.com/products/rhude-chrono-tee-vintage-white-blue",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Tripoli Racing Logo Sock - Black/White\nhttps://sneakerpolitics.com/products/rhude-tripoli-racing-logo-sock-black-white",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Tiger Camo Footy Sock - Camo/Black\nhttps://sneakerpolitics.com/products/rhude-tiger-camo-footy-sock-camo-black",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Moonlight Pista Sock - White/Black\nhttps://sneakerpolitics.com/products/rhude-moonlight-pista-sock-white-black",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Filtaro Logo Sock - White/Red\nhttps://sneakerpolitics.com/products/rhude-filtaro-logo-sock-white-red",
-      "detected_at": "2026-08-10T20:25:01.008371+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ZIPPO - BRUSHED CHROME\nhttps://undefeated.com/products/undefeated-zippo-brushed-chrome",
+      "detected_at": "2026-08-10T21:19:55.662093+00:00"
     }
   ]
 }
