@@ -24,7 +24,7 @@
       "8286638801024": {
         "title": "Nike Air Force 1 Low - Vast Grey / White / Electric Green",
         "handle": "nkib0018-006",
-        "in_stock": true
+        "in_stock": false
       },
       "8286381244544": {
         "title": "Kith Silk Cotton Thompson Camp Collar Shirt - Sandrift",
@@ -3698,7 +3698,7 @@
       "10814299177227": {
         "title": "Nike x Nocta Fleece Hoodie",
         "handle": "nike-x-nocta-fleece-hoodie-olive-grey-olive-grey-yellow-ochre",
-        "in_stock": true
+        "in_stock": false
       },
       "10736886317323": {
         "title": "Autry Dallas W *Suede / Leather*",
@@ -3757,6 +3757,31 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8710419480764": {
+        "title": "Honor The Gift x Politics Tailgate Hat - Black",
+        "handle": "honor-the-gift-x-politics-tailgate-hat-black",
+        "in_stock": true
+      },
+      "8703529943228": {
+        "title": "Honor The Gift x Politics Rally Time Tee - Vintage White",
+        "handle": "honor-the-gift-x-politics-rally-time-tee-vintage-white",
+        "in_stock": true
+      },
+      "8703530598588": {
+        "title": "Honor The Gift x Politics Rally Time Tee - Faded Black",
+        "handle": "honor-the-gift-x-politics-rally-time-tee-faded-black",
+        "in_stock": true
+      },
+      "9045866119356": {
+        "title": "Politics Busy Being Nice Blue Collar Jacket - Grey",
+        "handle": "politics-busy-being-nice-blue-collar-jacket-grey",
+        "in_stock": true
+      },
+      "9078787473596": {
+        "title": "Fucking Awesome Gun Baby Soft Foam Trucker Hat - Washed Camo",
+        "handle": "fucking-awesome-gun-baby-soft-foam-trucker-hat-washed-camo",
+        "in_stock": true
+      },
       "9274228834492": {
         "title": "Air Jordan 6 Retro 'Cap And Gown' (GS) - Black/Reflect Silver",
         "handle": "air-jordan-6-retro-cap-and-gown-gs-black-reflect-silver",
@@ -4980,31 +5005,6 @@
       "8687699329212": {
         "title": "A Bathing Ape College Tee - White",
         "handle": "a-bathing-ape-college-tee-white",
-        "in_stock": true
-      },
-      "9271119052988": {
-        "title": "Billionaire Boys Club Helmet Sketch Tee - Ecru",
-        "handle": "billionaire-boys-club-helmet-sketch-tee-ecru",
-        "in_stock": false
-      },
-      "9286308331708": {
-        "title": "Godspeed New York Carpenter Distressed Shorts - Muddy Brown Wash",
-        "handle": "godspeed-new-york-carpenter-distressed-shorts-muddy-brown-wash",
-        "in_stock": true
-      },
-      "9358417395900": {
-        "title": "A$AP Rocky x Ray-Ban Aviator Puffer - Polished Black/Ultra Black",
-        "handle": "a-ap-rocky-x-ray-ban-aviator-puffer-polished-black-ultra-black",
-        "in_stock": true
-      },
-      "9292579897532": {
-        "title": "Nothing Grows Overnight Turquoise Double Knee Pant - Light Brown",
-        "handle": "nothing-grows-overnight-turquoise-double-knee-pant-light-brown",
-        "in_stock": true
-      },
-      "9303697719484": {
-        "title": "Fear Of God Essentials Property Lounge Half Zip Hoodie - Black",
-        "handle": "fear-of-god-essentials-property-lounge-half-zip-hoodie-black",
         "in_stock": true
       }
     },
@@ -6261,20 +6261,80 @@
       }
     },
     "https://www.afew-store.com": {
+      "10588875063562": {
+        "title": "Salomon XT-6",
+        "handle": "salomon-xt-6-tapioca-spellbound-lichen",
+        "in_stock": false
+      },
+      "10588873982218": {
+        "title": "adidas Originals HANDBALL SPEZIAL",
+        "handle": "adidas-originals-handball-spezial-cwhite-nindig-owhite",
+        "in_stock": false
+      },
+      "10588871721226": {
+        "title": "Salomon XT-6 EXPANSE",
+        "handle": "salomon-xt-6-expanse-anciew-bchoco-ftwsil",
+        "in_stock": false
+      },
+      "10588870770954": {
+        "title": "Salomon XT-WHISPER",
+        "handle": "salomon-xt-whisper-ftwsilver-vanila-winte",
+        "in_stock": false
+      },
+      "10588869722378": {
+        "title": "Salomon XT-4 OG",
+        "handle": "salomon-xt-4-og-ftwsilver-black-transc",
+        "in_stock": false
+      },
+      "10588840296714": {
+        "title": "The North Face M MTN RANGE DWK HD JKT",
+        "handle": "the-north-face-m-mtn-range-dwk-hd-jkt-tnf-blk-tnf-blk",
+        "in_stock": false
+      },
+      "10588798910730": {
+        "title": "Carhartt WIP Lambert Polo Sweatshirt",
+        "handle": "carhartt-wip-lambert-polo-sweatshirt-black",
+        "in_stock": false
+      },
+      "10588785180938": {
+        "title": "NEW AMSTERDAM SURF ASSOCIATION CHOP HOODIE",
+        "handle": "new-amsterdam-surf-association-chop-hoodie-caviar",
+        "in_stock": true
+      },
+      "10588783083786": {
+        "title": "Carhartt WIP Shortsleeve Feather Progress T-Shirt",
+        "handle": "carhartt-wip-shortsle-ve-feather-progress-t-shirt-white",
+        "in_stock": true
+      },
+      "10588771680522": {
+        "title": "Carhartt WIP Brandon Pant",
+        "handle": "carhartt-wip-brandon-pant-black-i035893-890r",
+        "in_stock": true
+      },
+      "10588764668170": {
+        "title": "Carhartt WIP Shortsleeve OG Loose Pocket T-Shirt",
+        "handle": "carhartt-wip-shortsleeve-og-loose-pocket-t-shirt-black",
+        "in_stock": true
+      },
+      "10588757852426": {
+        "title": "Carhartt WIP Lambert Polo Sweatshirt",
+        "handle": "carhartt-wip-lambert-polo-sweatshirt-raven",
+        "in_stock": true
+      },
       "10588564914442": {
         "title": "Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)",
         "handle": "birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10588553183498": {
         "title": "adidas Originals WMNS HANDBALL SPEZIAL LOAFER",
         "handle": "adidas-originals-wmns-handball-spezial-lo-supcol-cblack-goldmt",
-        "in_stock": false
+        "in_stock": true
       },
       "10588551938314": {
         "title": "adidas Originals SUPERSTAR VINTAGE",
         "handle": "adidas-originals-superstar-vintage-maroon-maroon-carbon",
-        "in_stock": false
+        "in_stock": true
       },
       "10588551053578": {
         "title": "Hoka One One STINSON BREEZE",
@@ -7450,70 +7510,30 @@
         "title": "Puma WMNS Speedcat Wedge",
         "handle": "puma-wmns-speedcat-wedge-gray-sky-puma-black",
         "in_stock": true
-      },
-      "10575546188042": {
-        "title": "New Balance Quilted Bomber",
-        "handle": "new-balance-quilted-bomber-brk",
-        "in_stock": true
-      },
-      "10575546155274": {
-        "title": "New Balance Quilted Bomber",
-        "handle": "new-balance-quilted-bomber-dnt",
-        "in_stock": true
-      },
-      "10575542583562": {
-        "title": "Nike ACG Dri-FIT T-Shirt",
-        "handle": "nike-acg-summit-white",
-        "in_stock": true
-      },
-      "10575540748554": {
-        "title": "adidas Originals Denim Firebird Track Top",
-        "handle": "adidas-originals-denim-firebird-tt-worblu",
-        "in_stock": true
-      },
-      "10575515025674": {
-        "title": "G-SHOCK DW-6900CF-1ER",
-        "handle": "g-shock-dw-6900cf-1er-black",
-        "in_stock": true
-      },
-      "10575506735370": {
-        "title": "Air Jordan 1 Retro High OG 'Love Letter'",
-        "handle": "air-jordan-1-retro-high-og-shadow-brown-team-red-lt-british-tan",
-        "in_stock": true
-      },
-      "10574532444426": {
-        "title": "Nike Air Liquid Max",
-        "handle": "nike-air-liquid-max-black-black-radiant-blue-sapphire",
-        "in_stock": true
-      },
-      "10574529986826": {
-        "title": "Carhartt WIP Active Jacket",
-        "handle": "carhartt-wip-active-jacket-hamilton-brown-rigid",
-        "in_stock": true
-      },
-      "10574522351882": {
-        "title": "On Running Cloudsoma Moc",
-        "handle": "on-running-cloudsoma-moc-black-black",
-        "in_stock": true
-      },
-      "10574522220810": {
-        "title": "On Running Cloudsoma Hike",
-        "handle": "on-running-cloudsoma-hike-black-black",
-        "in_stock": true
-      },
-      "10574522155274": {
-        "title": "On Running Cloudsoma Hike",
-        "handle": "on-running-cloudsoma-hike-brume-ghost",
-        "in_stock": true
-      },
-      "10574522089738": {
-        "title": "On Running Cloudsoma Hike",
-        "handle": "on-running-cloudsoma-hike-ox-eclipse",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125527945421": {
+        "title": "MAFC Issue N1 Rat Cover",
+        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-rat-multicolor-j367820",
+        "in_stock": true
+      },
+      "9125527978189": {
+        "title": "MAFC Issue N1 Secret Cover",
+        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-secret-multicolor-j367819",
+        "in_stock": true
+      },
+      "9125528043725": {
+        "title": "MAFC Issue N1 Tiannuska Cover",
+        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-tiannuska-multicolor-j367817",
+        "in_stock": true
+      },
+      "9125528010957": {
+        "title": "MAFC Issue N1 Clara Borde Cover",
+        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-clara-borde-multicolor-j367818",
+        "in_stock": true
+      },
       "9104746840269": {
         "title": "Men's Atro Lace Up Shoes Soot Black",
         "handle": "kiko-kostadinov-footwear-atro-lace-ups-black-j339466",
@@ -8297,7 +8317,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": false
+        "in_stock": true
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8732,7 +8752,7 @@
       "9123748675789": {
         "title": "Favela Narco Pets Book",
         "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": false
+        "in_stock": true
       },
       "8982993993933": {
         "title": "Men's Zafar Knitted Top Chinese Purple / Dusty Blue",
@@ -8743,33 +8763,85 @@
         "title": "Men's M65 Jacket Black",
         "handle": "silas-clothing-m65-jacket-black-j356194",
         "in_stock": true
-      },
-      "9105070194893": {
-        "title": "Women's Centennial Jacket Washed Anthracite",
-        "handle": "kiko-kostadinov-clothing-wmns-centennial-jacket-black-j349095",
-        "in_stock": true
-      },
-      "9115641544909": {
-        "title": "Men's Côte d'Ivoire x Salehe Bembury KING Jersey Dark Poppy",
-        "handle": "puma-clothing-puma-x-fif-x-salehe-bembury-king-jersey-red-j349951",
-        "in_stock": true
-      },
-      "9123644539085": {
-        "title": "Klim OG Sneakers Brandy / Amber",
-        "handle": "puma-footwear-klim-og-mu-brown-j363747",
-        "in_stock": true
-      },
-      "9123644506317": {
-        "title": "Klim OG Sneakers Olive Green / Mouse Whisker",
-        "handle": "puma-footwear-klim-og-mu-green-j363746",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Hoka Mach Remastered Aura\nhttps://www.asphaltgold.de/products/hoka-mach-remastered-aura-black-steel",
-      "detected_at": "2026-08-10T12:00:09.855063+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Tailgate Hat - Black\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-tailgate-hat-black",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Rally Time Tee - Vintage White\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-rally-time-tee-vintage-white",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Rally Time Tee - Faded Black\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-rally-time-tee-faded-black",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Busy Being Nice Blue Collar Jacket - Grey\nhttps://sneakerpolitics.com/products/politics-busy-being-nice-blue-collar-jacket-grey",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Fucking Awesome Gun Baby Soft Foam Trucker Hat - Washed Camo\nhttps://sneakerpolitics.com/products/fucking-awesome-gun-baby-soft-foam-trucker-hat-washed-camo",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION CHOP HOODIE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-chop-hoodie-caviar",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Shortsleeve Feather Progress T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-shortsle-ve-feather-progress-t-shirt-white",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Brandon Pant\nhttps://www.afew-store.com/products/carhartt-wip-brandon-pant-black-i035893-890r",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Shortsleeve OG Loose Pocket T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-shortsleeve-og-loose-pocket-t-shirt-black",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Lambert Polo Sweatshirt\nhttps://www.afew-store.com/products/carhartt-wip-lambert-polo-sweatshirt-raven",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)\nhttps://www.afew-store.com/products/birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-black-black",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS HANDBALL SPEZIAL LOAFER\nhttps://www.afew-store.com/products/adidas-originals-wmns-handball-spezial-lo-supcol-cblack-goldmt",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals SUPERSTAR VINTAGE\nhttps://www.afew-store.com/products/adidas-originals-superstar-vintage-maroon-maroon-carbon",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Rat Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-rat-multicolor-j367820",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Secret Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-secret-multicolor-j367819",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Tiannuska Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-tiannuska-multicolor-j367817",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: MAFC Issue N1 Clara Borde Cover\nhttps://www.slamjam.com/products/mental-athletic-lifestyle-mental-athletic-mafc-cover-clara-borde-multicolor-j367818",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Favela Narco Pets Book\nhttps://www.slamjam.com/products/550bc-lifestyle-favela-narco-pets-multicolor-j367821",
+      "detected_at": "2026-08-10T13:36:16.164615+00:00"
     }
   ]
 }
