@@ -1556,7 +1556,7 @@
       "6700297126149": {
         "title": "MALBON X UNDEFEATED PERFORMANCE RAGLAN 1/4 ZIP",
         "handle": "malbon-x-undefeated-performance-raglan-1-4-zip",
-        "in_stock": true
+        "in_stock": false
       },
       "6683907555589": {
         "title": "UNDEFEATED X NEW ERA NY YANKEES S/S TEE - NEWOLIVE",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11016544911627": {
+        "title": "Hoka Mach Remastered Aura",
+        "handle": "hoka-mach-remastered-aura-black-steel",
+        "in_stock": true
+      },
       "11010456846603": {
         "title": "Nike Air Max III",
         "handle": "nike-air-max-iii-black-cool-grey-infrared-23",
@@ -3749,14 +3754,14 @@
         "title": "Nike Wool Classic Hoodie",
         "handle": "nike-wool-classic-hoodie-black",
         "in_stock": true
-      },
-      "8847726641419": {
-        "title": "Nike Wool Classic Fleece Pant Open Hem",
-        "handle": "nike-wool-classic-fleece-pant-open-hem-pure",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9274228834492": {
+        "title": "Air Jordan 6 Retro 'Cap And Gown' (GS) - Black/Reflect Silver",
+        "handle": "air-jordan-6-retro-cap-and-gown-gs-black-reflect-silver",
+        "in_stock": false
+      },
       "9354147692732": {
         "title": "PEACEMINUSONE x Korea x Nike Cryoshot CTR 360 - Natural/University Red",
         "handle": "peaceminusone-x-korea-x-nike-cryoshot-ctr-360-natural-university-red",
@@ -5000,11 +5005,6 @@
       "9303697719484": {
         "title": "Fear Of God Essentials Property Lounge Half Zip Hoodie - Black",
         "handle": "fear-of-god-essentials-property-lounge-half-zip-hoodie-black",
-        "in_stock": true
-      },
-      "8988460155068": {
-        "title": "Nike Little Posite One (GS) - Black/Dark Smoke Grey",
-        "handle": "nike-little-posite-one-gs-black-black",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,11 @@
       }
     },
     "https://www.afew-store.com": {
+      "10588564914442": {
+        "title": "Birkenstock WMNS Boston Chunky Suede Leather (Narrow Fit)",
+        "handle": "birkenstock-wmns-boston-chunky-suede-leather-narrow-fit-black-black",
+        "in_stock": false
+      },
       "10588553183498": {
         "title": "adidas Originals WMNS HANDBALL SPEZIAL LOAFER",
         "handle": "adidas-originals-wmns-handball-spezial-lo-supcol-cblack-goldmt",
@@ -7505,11 +7510,6 @@
         "title": "On Running Cloudsoma Hike",
         "handle": "on-running-cloudsoma-hike-ox-eclipse",
         "in_stock": true
-      },
-      "10573877674250": {
-        "title": "New Balance 204V",
-        "handle": "new-balance-204v-fan-blue-vintage-indigo-black",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7967,7 +7967,7 @@
       "9094564020429": {
         "title": "Men's 1955 501XX Jeans Dark Indigo",
         "handle": "levis-clothing-1947-501-jeans-lvc-rinse-blue-j348558",
-        "in_stock": true
+        "in_stock": false
       },
       "9108415676621": {
         "title": "Men's 1947 501 Jeans Maleta Blue",
@@ -8768,8 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Air Jordan 4 Retro *Comic* *PS*\nhttps://www.asphaltgold.de/products/nike-air-jordan-4-retro-comic-ps-off-white-anthracite-light-arctic-pink",
-      "detected_at": "2026-08-10T11:10:56.020303+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Hoka Mach Remastered Aura\nhttps://www.asphaltgold.de/products/hoka-mach-remastered-aura-black-steel",
+      "detected_at": "2026-08-10T12:00:09.855063+00:00"
     }
   ]
 }
