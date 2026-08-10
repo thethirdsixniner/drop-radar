@@ -2061,7 +2061,7 @@
       "6678412263685": {
         "title": "UNDEFEATED X CONVERSE CHUCK 70 MID- PARCHMENT/ CHIVE",
         "handle": "undefeated-x-converse-chuck-70-mid-parchment-chive",
-        "in_stock": true
+        "in_stock": false
       },
       "6701895385349": {
         "title": "ADIDAS WORLD CUP GERMANY JERSEY REMIX - BLACK",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11017543254283": {
+        "title": "RESET SESSION - Mat Pilates With Lia",
+        "handle": "reset-session-mat-pilates-with-lia",
+        "in_stock": true
+      },
       "10739125911819": {
         "title": "Adidas x Song for the Mute Adizero PR",
         "handle": "adidas-adizero-pr-legend-red-cream-white-wild-sepia",
@@ -3228,7 +3233,7 @@
       "10999814390027": {
         "title": "Asics GEL-Kinetic FR",
         "handle": "asics-gelkinetic-fr-black-pure-silver",
-        "in_stock": false
+        "in_stock": true
       },
       "11009746338059": {
         "title": "Adidas x Arte Antwerp F50",
@@ -3238,7 +3243,7 @@
       "10999817994507": {
         "title": "Asics GEL-Kinetic FR",
         "handle": "asics-gelkinetic-fr-cocoa-powder-champagne",
-        "in_stock": false
+        "in_stock": true
       },
       "10861894369547": {
         "title": "Dr. Martens Lowell",
@@ -3748,11 +3753,6 @@
       "10077669720331": {
         "title": "Autry Medalist Platform W",
         "handle": "autry-medalist-platform-w-white-powder",
-        "in_stock": true
-      },
-      "7308751831204": {
-        "title": "Autry Medalist W",
-        "handle": "autry-medalist-w-silver",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,11 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9104746840269": {
+        "title": "Men's Atro Lace Up Shoes Soot Black",
+        "handle": "kiko-kostadinov-footwear-atro-lace-ups-black-j339466",
+        "in_stock": true
+      },
       "9100438536397": {
         "title": "Men's No Fun Sweater Black",
         "handle": "hysteric-glamour-clothing-no-fun-sweater-multicolor-j353566",
@@ -8758,13 +8763,25 @@
         "title": "Klim OG Sneakers Olive Green / Mouse Whisker",
         "handle": "puma-footwear-klim-og-mu-green-j363746",
         "in_stock": true
-      },
-      "9123636510925": {
-        "title": "Men's Denim Jorts Cloud White",
-        "handle": "adidas-clothing-jorts-white-j362402",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Asphaltgold: RESET SESSION - Mat Pilates With Lia\nhttps://www.asphaltgold.de/products/reset-session-mat-pilates-with-lia",
+      "detected_at": "2026-08-10T08:05:46.355295+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-Kinetic FR\nhttps://www.asphaltgold.de/products/asics-gelkinetic-fr-black-pure-silver",
+      "detected_at": "2026-08-10T08:05:46.355295+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-Kinetic FR\nhttps://www.asphaltgold.de/products/asics-gelkinetic-fr-cocoa-powder-champagne",
+      "detected_at": "2026-08-10T08:05:46.355295+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Atro Lace Up Shoes Soot Black\nhttps://www.slamjam.com/products/kiko-kostadinov-footwear-atro-lace-ups-black-j339466",
+      "detected_at": "2026-08-10T08:05:46.355295+00:00"
+    }
+  ]
 }
