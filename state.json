@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6702687387909": {
+        "title": "JORDAN FLIGHT WINGS PULLOVER HOODIE - BLACK / UNIVERSITY RED",
+        "handle": "jordan-flight-wings-pullover-hoodie-black-university-red",
+        "in_stock": true
+      },
+      "6702687355141": {
+        "title": "JORDAN FLIGHT WINGS PULLOVER HOODIE  - LT BRITISH TAN / SAIL",
+        "handle": "jordan-flight-wings-pullover-hoodie-lt-british-tan-sail",
+        "in_stock": true
+      },
       "4589528842313": {
         "title": "NIKE X UNDEFEATED AIR MAX 97 - MILITIAGREEN/ BLACK/ ORANGEBLAZE",
         "handle": "nike-x-undefeated-air-max-97-militiagreen-black-orangeblaze",
@@ -2492,16 +2502,6 @@
         "title": "ASICS GEL-1130 - WHITE/ CLAY CANYON",
         "handle": "asics-gel-1130-white-claycanyon",
         "in_stock": true
-      },
-      "6702614577413": {
-        "title": "ADIDAS X BRAIN DEAD LS JERSEY -  RED/ BGREEN/ BLUE",
-        "handle": "adidas-x-brain-dead-ls-jersey-red-bgreen-blue",
-        "in_stock": true
-      },
-      "6702614511877": {
-        "title": "ADIDAS X BRAIN DEAD FB JERSEY -  VICBLU",
-        "handle": "adidas-x-brain-dead-fb-jersey-vicblu",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2953,12 +2953,12 @@
       "10851410411787": {
         "title": "Nike\tACG *Magic Hour* Dri-FIT Trail-Hoodie",
         "handle": "nikeacg-magic-hour-drifit-trailhoodie-black-summit-white-summit-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10860086493451": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gelnyc-obsidian-grey-obsidian-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10746784612619": {
         "title": "Adidas Samba OG",
@@ -2978,7 +2978,7 @@
       "10686582259979": {
         "title": "Salomon XA Pro 3D *Distressed Leather*",
         "handle": "salomon-xa-pro-3d-distressed-leather-dark-earth-black-deep-lichen-green",
-        "in_stock": true
+        "in_stock": false
       },
       "10821183308043": {
         "title": "Adidas EQT Agravic",
@@ -8067,7 +8067,7 @@
       "9124916592845": {
         "title": "Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black",
         "handle": "adidas-footwear-hellstar-megaride-s-white-j362348",
-        "in_stock": true
+        "in_stock": false
       },
       "9124916527309": {
         "title": "Willy Chavarria Megaride AG Sneakers Clear Pink / Power Red",
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN FLIGHT WINGS PULLOVER HOODIE - BLACK / UNIVERSITY RED\nhttps://undefeated.com/products/jordan-flight-wings-pullover-hoodie-black-university-red",
+      "detected_at": "2026-08-10T19:42:50.949686+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN FLIGHT WINGS PULLOVER HOODIE  - LT BRITISH TAN / SAIL\nhttps://undefeated.com/products/jordan-flight-wings-pullover-hoodie-lt-british-tan-sail",
+      "detected_at": "2026-08-10T19:42:50.949686+00:00"
+    }
+  ]
 }
