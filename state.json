@@ -2505,6 +2505,16 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11010456846603": {
+        "title": "Nike Air Max III",
+        "handle": "nike-air-max-iii-black-cool-grey-infrared-23",
+        "in_stock": false
+      },
+      "11010305818891": {
+        "title": "Nike Air Jordan 4 Retro *Comic* *PS*",
+        "handle": "nike-air-jordan-4-retro-comic-ps-off-white-anthracite-light-arctic-pink",
+        "in_stock": true
+      },
       "11013817401611": {
         "title": "New Balance 991 v2 *Made in England*",
         "handle": "new-balance-991-v2-made-in-england-walnut",
@@ -3328,7 +3338,7 @@
       "10753687191819": {
         "title": "Dr. Martens Rejena Mary Jane",
         "handle": "dr-martens-rejena-mary-jane-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10736894279947": {
         "title": "Autry Medalist W *Glitter Leather*",
@@ -3743,16 +3753,6 @@
       "8847726641419": {
         "title": "Nike Wool Classic Fleece Pant Open Hem",
         "handle": "nike-wool-classic-fleece-pant-open-hem-pure",
-        "in_stock": true
-      },
-      "11010010611979": {
-        "title": "Adidas Drop Needle 3-Stripes Tee",
-        "handle": "adidas-drop-needle-3stripes-tee-night-indigo",
-        "in_stock": true
-      },
-      "11008895844619": {
-        "title": "Adidas 3-Stripes Oversized Crewneck",
-        "handle": "adidas-3stripes-oversized-crewneck-medium-grey-heather-night-indigo",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,21 @@
       }
     },
     "https://www.afew-store.com": {
+      "10588553183498": {
+        "title": "adidas Originals WMNS HANDBALL SPEZIAL LOAFER",
+        "handle": "adidas-originals-wmns-handball-spezial-lo-supcol-cblack-goldmt",
+        "in_stock": false
+      },
+      "10588551938314": {
+        "title": "adidas Originals SUPERSTAR VINTAGE",
+        "handle": "adidas-originals-superstar-vintage-maroon-maroon-carbon",
+        "in_stock": false
+      },
+      "10588551053578": {
+        "title": "Hoka One One STINSON BREEZE",
+        "handle": "hoka-one-one-stinson-breeze-archival-taupe-archival-taupe",
+        "in_stock": false
+      },
       "10587341095178": {
         "title": "adidas Originals x Liberty London WMNS JAPAN",
         "handle": "adidas-originals-wmns-japan-auco-magmau-khathr",
@@ -7495,21 +7510,6 @@
         "title": "New Balance 204V",
         "handle": "new-balance-204v-fan-blue-vintage-indigo-black",
         "in_stock": true
-      },
-      "10573877346570": {
-        "title": "New Balance 204V",
-        "handle": "new-balance-204v-neo-flame-black-black-cement",
-        "in_stock": true
-      },
-      "10573876035850": {
-        "title": "New Balance 204L",
-        "handle": "new-balance-204l-grey-matter-silver",
-        "in_stock": true
-      },
-      "10573862994186": {
-        "title": "New Balance Allerdale - Made in England",
-        "handle": "new-balance-allerdale-made-in-england-black",
-        "in_stock": false
       }
     },
     "https://www.hanon-shop.com": {},
@@ -8768,28 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 880R\nhttps://www.asphaltgold.de/products/new-balance-880r-castlerock-black-cement",
-      "detected_at": "2026-08-10T09:48:43.485572+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-driftwood-sea-salt",
-      "detected_at": "2026-08-10T09:48:43.485572+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-zinc-blue-sea-salt",
-      "detected_at": "2026-08-10T09:48:43.485572+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-breakfast-tea-angora",
-      "detected_at": "2026-08-10T09:48:43.485572+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-740-pink-granite",
-      "detected_at": "2026-08-10T09:48:43.485572+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY NAVY NY TEE\nhttps://www.kickgame.co.uk/products/navy-ny-tee",
-      "detected_at": "2026-08-10T09:48:43.485572+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Air Jordan 4 Retro *Comic* *PS*\nhttps://www.asphaltgold.de/products/nike-air-jordan-4-retro-comic-ps-off-white-anthracite-light-arctic-pink",
+      "detected_at": "2026-08-10T11:10:56.020303+00:00"
     }
   ]
 }
