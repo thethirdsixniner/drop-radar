@@ -2563,7 +2563,7 @@
       "10760525250827": {
         "title": "New Balance Runners Aren't Normal T-Shirt",
         "handle": "new-balance-runners-arent-normal-tshirt-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10666865295627": {
         "title": "HAY Colour Crate Mini-Oblong",
@@ -4327,11 +4327,6 @@
         "handle": "politics-x-mitchell-ness-pro-pinch-wool-snapback-maroon",
         "in_stock": true
       },
-      "9286306300092": {
-        "title": "Godspeed New York Symmetrical Logo Tee - Black Wash",
-        "handle": "godspeed-new-york-symmetrical-logo-tee-black-wash",
-        "in_stock": false
-      },
       "8747391647932": {
         "title": "Politics x Dallas Mavericks x Mitchell & Ness Map Tee - White",
         "handle": "politics-x-dallas-mavericks-x-mitchell-ness-map-tee-white",
@@ -5005,6 +5000,11 @@
       "9303697719484": {
         "title": "Fear Of God Essentials Property Lounge Half Zip Hoodie - Black",
         "handle": "fear-of-god-essentials-property-lounge-half-zip-hoodie-black",
+        "in_stock": true
+      },
+      "8988460155068": {
+        "title": "Nike Little Posite One (GS) - Black/Dark Smoke Grey",
+        "handle": "nike-little-posite-one-gs-black-black",
         "in_stock": true
       }
     },
@@ -8077,7 +8077,7 @@
       "9104983556301": {
         "title": "Men's Borrowed Shirt Dakota Flannel Check",
         "handle": "our-legacy-clothing-borrowed-shirt-brown-j337875",
-        "in_stock": true
+        "in_stock": false
       },
       "9094072467661": {
         "title": "Women's Track Pants Black",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Little Posite One (GS) - Black/Dark Smoke Grey\nhttps://sneakerpolitics.com/products/nike-little-posite-one-gs-black-black",
+      "detected_at": "2026-08-10T02:59:41.616557+00:00"
+    }
+  ]
 }
