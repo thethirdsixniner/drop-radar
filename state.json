@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286389633152": {
+        "title": "BORNTOSTANDOUT Fig Porn Eau De Parfum 50ML",
+        "handle": "btso-p28",
+        "in_stock": true
+      },
       "8286283858048": {
         "title": "Nike Air Zoom G.T. Cut 4 - Pinksicle / Vivid Pink / Metallic Silver / Black",
         "handle": "nkio8116-600",
@@ -202,12 +207,12 @@
         "in_stock": true
       },
       "8286646042752": {
-        "title": "Dr. Martens Temara Arcadia Leather Loafer - Cherry Red",
+        "title": "Dr. Martens WMNS Temara Arcadia Leather Loafer - Cherry Red",
         "handle": "drm41360600",
         "in_stock": true
       },
       "8286646009984": {
-        "title": "Dr. Martens Temara Polished Smooth Leather Loafer - Black",
+        "title": "Dr. Martens WMNS Temara Polished Smooth Leather Loafers - Black",
         "handle": "drm41359001",
         "in_stock": true
       },
@@ -227,7 +232,7 @@
         "in_stock": true
       },
       "8286645846144": {
-        "title": "Femme LA Rio Thong Slipper - Black Suede",
+        "title": "Femme LA Rio Thong Slipper - Noir",
         "handle": "ferio-blk",
         "in_stock": true
       },
@@ -1244,11 +1249,6 @@
       "8286628216960": {
         "title": "Stone Island Long Sleeve Polo Shirt - Navy Blue",
         "handle": "sto5100076s00fcv0020",
-        "in_stock": true
-      },
-      "8286628446336": {
-        "title": "Stone Island Light Nylon 3L-TC Hooded Jacket - Geranium",
-        "handle": "stoq100019s0419v0089",
         "in_stock": true
       }
     },
@@ -3453,7 +3453,7 @@
       "10840733548811": {
         "title": "Carhartt WIP OG Arctic Coat",
         "handle": "carhartt-wip-og-arctic-coat-hamilton-brown-tobacco-rigid",
-        "in_stock": true
+        "in_stock": false
       },
       "10676321648907": {
         "title": "HAL Studios Studio Denim Jeans",
@@ -3805,7 +3805,7 @@
       "9097356673212": {
         "title": "Vans LX Old Skool 36 'Souvenir' - Faded Black",
         "handle": "vans-lx-old-skool-36-souvenir-faded-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9363901415612": {
         "title": "Vans LX Old Skool 36 'Paint Splatter' - Charcoal Grey",
@@ -5662,7 +5662,7 @@
       "15034694861176": {
         "title": "On Cloudvista 2 'Black Black'",
         "handle": "on-cloudvista-2-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "15034694467960": {
         "title": "On Cloudsurfer Next 'Glacier Glacier'",
@@ -7627,7 +7627,7 @@
       "9113775505613": {
         "title": "Men's Washed MD Wirecutter Longsleeve T-Shirt Black",
         "handle": "cav-empt-clothing-washed-md-wirecutter-long-sleeve-t-black-j355894",
-        "in_stock": false
+        "in_stock": true
       },
       "9110067314893": {
         "title": "Men's Ian Longsleeve T-Shirt Black / Grey",
@@ -8367,7 +8367,7 @@
       "9108282245325": {
         "title": "Men's Daicock Printed Jeans Indigo",
         "handle": "evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
-        "in_stock": false
+        "in_stock": true
       },
       "9124298424525": {
         "title": "Women's Karola Tall Boots Black",
@@ -8768,20 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 11 Retro Low - White/University Blue\nhttps://sneakerpolitics.com/products/air-jordan-11-retro-low-white-university-blue",
-      "detected_at": "2026-08-11T20:49:48.922972+00:00"
+      "message": "🆕 **New drop** at Kith: BORNTOSTANDOUT Fig Porn Eau De Parfum 50ML\nhttps://kith.com/products/btso-p28",
+      "detected_at": "2026-08-11T21:51:46.181439+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Suede Fleece Flare Sweatpant - Vintage Black\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-suede-fleece-flare-sweatpant-vintage-black",
-      "detected_at": "2026-08-11T20:49:48.922972+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Washed MD Wirecutter Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/cav-empt-clothing-washed-md-wirecutter-long-sleeve-t-black-j355894",
+      "detected_at": "2026-08-11T21:51:46.181439+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Retro High 'Flight Club' - Black/University Red\nhttps://sneakerpolitics.com/products/air-jordan-1-retro-high-flight-club-black-university-red",
-      "detected_at": "2026-08-11T20:49:48.922972+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Sneaker Politics: Nike Air Max 90 'Wave' - Cool Grey/Infrared 23\nhttps://sneakerpolitics.com/products/nike-air-max-90-wave-cool-grey-infrared-23",
-      "detected_at": "2026-08-11T20:49:48.922972+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Daicock Printed Jeans Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-daicock-printed-jeans-with-splash-blue-j332493",
+      "detected_at": "2026-08-11T21:51:46.181439+00:00"
     }
   ]
 }
