@@ -2533,7 +2533,7 @@
       "10694507004171": {
         "title": "ERL Puffer Coat Woven",
         "handle": "erl-puffer-coat-woven-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10677629485323": {
         "title": "Nike x Nocta Cardinal Fleeceshorts",
@@ -6261,6 +6261,26 @@
       }
     },
     "https://www.afew-store.com": {
+      "10589399351562": {
+        "title": "Carhartt WIP OG Active Jacket",
+        "handle": "carhartt-wip-og-active-jacket-raven-stone-canvas",
+        "in_stock": false
+      },
+      "10589399089418": {
+        "title": "The North Face Red Box Down Jacket",
+        "handle": "the-north-face-red-box-down-jacket-smokey-brown",
+        "in_stock": true
+      },
+      "10589398696202": {
+        "title": "The North Face RED BOX HOODIE",
+        "handle": "the-north-face-red-box-hoodie-new-taupe-green",
+        "in_stock": true
+      },
+      "10589398663434": {
+        "title": "The North Face RED BOX LINER JACKET",
+        "handle": "the-north-face-red-box-liner-jacket-smokey-brown-da",
+        "in_stock": true
+      },
       "10589397877002": {
         "title": "Carhartt WIP OG Detroit Jacket",
         "handle": "carhartt-wip-og-detroit-jacket-black-black-stone-washed",
@@ -6274,27 +6294,27 @@
       "10589396336906": {
         "title": "Timberland WMNS STONE STREET BOAT SHOE",
         "handle": "timberland-wmns-stst-boat-shoe-blk-full-grain",
-        "in_stock": false
+        "in_stock": true
       },
       "10589396205834": {
         "title": "Timberland WMNS STONE STREET BOAT SHOE",
         "handle": "timberland-wmns-stst-boat-shoe-dk-brn-nubuck",
-        "in_stock": false
+        "in_stock": true
       },
       "10589393912074": {
         "title": "adidas Originals BW ARMY",
         "handle": "adidas-originals-bw-army-lbrown-putbei-gum4",
-        "in_stock": false
+        "in_stock": true
       },
       "10589393748234": {
         "title": "adidas Originals HANDBALL SPEZIAL",
         "handle": "adidas-originals-handball-spezial-craoch-crewht",
-        "in_stock": false
+        "in_stock": true
       },
       "10589393420554": {
         "title": "adidas Originals GAZELLE INDOOR",
         "handle": "adidas-originals-gazelle-indoor-vappnk-cblack-gum4",
-        "in_stock": false
+        "in_stock": true
       },
       "10589389291786": {
         "title": "Nike Air Force 1 'Fur'",
@@ -7489,26 +7509,6 @@
       "10575822979338": {
         "title": "Saucony PROGRID GUIDE 7",
         "handle": "saucony-progrid-guide-7-white-drupe",
-        "in_stock": true
-      },
-      "10575822422282": {
-        "title": "Saucony PROGRID OMNI 9",
-        "handle": "saucony-progrid-omni-9-torte-dazzle",
-        "in_stock": true
-      },
-      "10575819440394": {
-        "title": "Saucony PROGRID RIDE 1",
-        "handle": "saucony-progrid-ride-1-black-gunmetal",
-        "in_stock": true
-      },
-      "10575817834762": {
-        "title": "Saucony PROGRID OMNI 9",
-        "handle": "saucony-progrid-omni-9-blissful-white",
-        "in_stock": true
-      },
-      "10575626895626": {
-        "title": "Jason Markk Essential Kit Deep Cleaning Solution 118ml / 4 oz.",
-        "handle": "jason-markk-essential-kit-deep-cleaning-solution-118ml-4-oz-misc",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,36 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Hooded Jacket Military Green\nhttps://www.slamjam.com/products/stone-island-clothing-jacket-green-j362204",
-      "detected_at": "2026-08-11T07:56:53.031310+00:00"
+      "message": "🆕 **New drop** at Afew Store: The North Face Red Box Down Jacket\nhttps://www.afew-store.com/products/the-north-face-red-box-down-jacket-smokey-brown",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: The North Face RED BOX HOODIE\nhttps://www.afew-store.com/products/the-north-face-red-box-hoodie-new-taupe-green",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: The North Face RED BOX LINER JACKET\nhttps://www.afew-store.com/products/the-north-face-red-box-liner-jacket-smokey-brown-da",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Timberland WMNS STONE STREET BOAT SHOE\nhttps://www.afew-store.com/products/timberland-wmns-stst-boat-shoe-blk-full-grain",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Timberland WMNS STONE STREET BOAT SHOE\nhttps://www.afew-store.com/products/timberland-wmns-stst-boat-shoe-dk-brn-nubuck",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals BW ARMY\nhttps://www.afew-store.com/products/adidas-originals-bw-army-lbrown-putbei-gum4",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-craoch-crewht",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals GAZELLE INDOOR\nhttps://www.afew-store.com/products/adidas-originals-gazelle-indoor-vappnk-cblack-gum4",
+      "detected_at": "2026-08-11T09:08:01.508061+00:00"
     }
   ]
 }
