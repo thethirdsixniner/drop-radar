@@ -2803,7 +2803,7 @@
       "10744408604939": {
         "title": "Adidas Italia 70s W",
         "handle": "adidas-italia-70s-w-red-cream-white-silver-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10756426268939": {
         "title": "New Balance 1000",
@@ -3748,7 +3748,7 @@
       "10666577199371": {
         "title": "Asics JOG 100S",
         "handle": "asics-jog-100s-white-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "10677773664523": {
         "title": "Hiking Patrol Element Texture Down Jacket",
@@ -6261,6 +6261,46 @@
       }
     },
     "https://www.afew-store.com": {
+      "10589397877002": {
+        "title": "Carhartt WIP OG Detroit Jacket",
+        "handle": "carhartt-wip-og-detroit-jacket-black-black-stone-washed",
+        "in_stock": false
+      },
+      "10589397844234": {
+        "title": "Carhartt WIP OG Detroit Jacket",
+        "handle": "carhartt-wip-og-detroit-jacket-raven-black-stone-canvas",
+        "in_stock": false
+      },
+      "10589396336906": {
+        "title": "Timberland WMNS STONE STREET BOAT SHOE",
+        "handle": "timberland-wmns-stst-boat-shoe-blk-full-grain",
+        "in_stock": false
+      },
+      "10589396205834": {
+        "title": "Timberland WMNS STONE STREET BOAT SHOE",
+        "handle": "timberland-wmns-stst-boat-shoe-dk-brn-nubuck",
+        "in_stock": false
+      },
+      "10589393912074": {
+        "title": "adidas Originals BW ARMY",
+        "handle": "adidas-originals-bw-army-lbrown-putbei-gum4",
+        "in_stock": false
+      },
+      "10589393748234": {
+        "title": "adidas Originals HANDBALL SPEZIAL",
+        "handle": "adidas-originals-handball-spezial-craoch-crewht",
+        "in_stock": false
+      },
+      "10589393420554": {
+        "title": "adidas Originals GAZELLE INDOOR",
+        "handle": "adidas-originals-gazelle-indoor-vappnk-cblack-gum4",
+        "in_stock": false
+      },
+      "10589389291786": {
+        "title": "Nike Air Force 1 'Fur'",
+        "handle": "nike-air-force-1-fur-campfire-orange-sunset-white",
+        "in_stock": false
+      },
       "10589323034890": {
         "title": "Asics x VANDYTHEPINK GEL-KAYANO 12.1",
         "handle": "asics-x-vandythepink-gel-kayano-12-1-antique-white-antique-white",
@@ -7470,50 +7510,15 @@
         "title": "Jason Markk Essential Kit Deep Cleaning Solution 118ml / 4 oz.",
         "handle": "jason-markk-essential-kit-deep-cleaning-solution-118ml-4-oz-misc",
         "in_stock": true
-      },
-      "10575583609098": {
-        "title": "Brooks Adrenaline GTS 4",
-        "handle": "brooks-adrenaline-gts-4-micro-chip-alloy-coconut-milk",
-        "in_stock": true
-      },
-      "10575582331146": {
-        "title": "Brooks Adrenaline GTS 4",
-        "handle": "brooks-adrenaline-gts-4-coconut-milk-silver-eggnog",
-        "in_stock": true
-      },
-      "10575578792202": {
-        "title": "Asics GEL-NYC",
-        "handle": "asics-gel-nyc-cream-umeboshi",
-        "in_stock": true
-      },
-      "10575577547018": {
-        "title": "Paraboot MICHAEL",
-        "handle": "paraboot-michael-lisse-cafe",
-        "in_stock": true
-      },
-      "10575570764042": {
-        "title": "On Running Cloudzone",
-        "handle": "on-running-cloudzone-alloy-rock",
-        "in_stock": true
-      },
-      "10575562866954": {
-        "title": "Lacoste SLAM BREAK 226 4 SMA",
-        "handle": "lacoste-slam-break-226-4-sma-wht-off-wht",
-        "in_stock": true
-      },
-      "10575560769802": {
-        "title": "Nike ACG Ultrafly Trail",
-        "handle": "nike-acg-ultrafly-trail-spruce-fog-black-spruce-sea-glass",
-        "in_stock": true
-      },
-      "10575556411658": {
-        "title": "Nike ACG Pegasus Trail",
-        "handle": "nike-acg-pegasus-trail-spruce-fog-black-spruce-sea-glass",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125602623693": {
+        "title": "Men's Mineral Dyed Hooded Jacket Military Green",
+        "handle": "stone-island-clothing-jacket-green-j362204",
+        "in_stock": true
+      },
       "9125527945421": {
         "title": "MAFC Issue N1 Rat Cover",
         "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-rat-multicolor-j367820",
@@ -8758,13 +8763,13 @@
         "title": "Men's M65 Jacket Black",
         "handle": "silas-clothing-m65-jacket-black-j356194",
         "in_stock": true
-      },
-      "9105070194893": {
-        "title": "Women's Centennial Jacket Washed Anthracite",
-        "handle": "kiko-kostadinov-clothing-wmns-centennial-jacket-black-j349095",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Hooded Jacket Military Green\nhttps://www.slamjam.com/products/stone-island-clothing-jacket-green-j362204",
+      "detected_at": "2026-08-11T07:56:53.031310+00:00"
+    }
+  ]
 }
