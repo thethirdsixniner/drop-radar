@@ -2843,7 +2843,7 @@
       "9776172630283": {
         "title": "New Balance T500",
         "handle": "new-balance-t500fb-team-red",
-        "in_stock": true
+        "in_stock": false
       },
       "8989340172555": {
         "title": "Nike Killshot 2 *Leather*",
@@ -3073,7 +3073,7 @@
       "10537639248139": {
         "title": "Autry Hyperway *Suede / Mesh*",
         "handle": "autry-hyperway-suede-mesh-black-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10860644368651": {
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
@@ -7514,6 +7514,66 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125627560141": {
+        "title": "Sweatshirt Iron",
+        "handle": "no-problemo-clothing-no-problemo-sweatshirt-grey-j350683",
+        "in_stock": true
+      },
+      "9125627527373": {
+        "title": "Plaid Shirt Red",
+        "handle": "no-problemo-clothing-no-problemo-plaid-ls-shirt-red-j350722",
+        "in_stock": true
+      },
+      "9125627592909": {
+        "title": "Striped Hoodie Brown",
+        "handle": "no-problemo-clothing-no-problemo-striped-hoodie-brown-j350700",
+        "in_stock": true
+      },
+      "9125627461837": {
+        "title": "No Silence Longsleeve T-Shirt White",
+        "handle": "no-problemo-clothing-no-silence-ls-tee-white-j350758",
+        "in_stock": true
+      },
+      "9125627494605": {
+        "title": "Striped Longsleeve T-Shirt Sand",
+        "handle": "no-problemo-clothing-no-problemo-striped-ls-tee-beige-j350731",
+        "in_stock": true
+      },
+      "9125627363533": {
+        "title": "Double Knee Overdyed Twill Pants Brown",
+        "handle": "no-problemo-clothing-double-knee-overdyed-twill-pants-brown-j350714",
+        "in_stock": true
+      },
+      "9125627396301": {
+        "title": "Heavyweight Bagi Jeans Blue",
+        "handle": "no-problemo-clothing-bagi-jeans-blue-j350713",
+        "in_stock": true
+      },
+      "9125627330765": {
+        "title": "Scarf Red",
+        "handle": "no-problemo-accessories-no-problemo-scarf-red-j350789",
+        "in_stock": true
+      },
+      "9125627297997": {
+        "title": "J'Adoro Weedie Pie T-Shirt Black",
+        "handle": "aries-clothing-jadoro-weedie-pie-ss-tee-black-j354742",
+        "in_stock": true
+      },
+      "9125627265229": {
+        "title": "Men's Landon Pans Black (Marble Used Wash)",
+        "handle": "carhartt-wip-clothing-landon-pant-black-j359116",
+        "in_stock": true
+      },
+      "9125626708173": {
+        "title": "Lowell Chukka Moc Toe Leather Ankle Boots Spiced Brown",
+        "handle": "dr-martens-footwear-lowell-chukka-brown-j367937",
+        "in_stock": true
+      },
+      "9125626609869": {
+        "title": "Delapre Penny Loafers Black",
+        "handle": "dr-martens-footwear-delapre-penny-loafer-black-j367925",
+        "in_stock": true
+      },
       "9125626642637": {
         "title": "Lowell Leather Moc Toe Shoes Spiced Brown",
         "handle": "dr-martens-footwear-lowell-brown-j367934",
@@ -8703,85 +8763,57 @@
         "title": "New York Yankees MLB Cord 9TWENTY Adjustable Cap Black",
         "handle": "new-era-accessories-cord-midi-9twenty-black-j356256",
         "in_stock": true
-      },
-      "9123870507213": {
-        "title": "LA Dodgers Faux Suede 9FORTY E-Frame Cap Dark Green",
-        "handle": "new-era-accessories-faux-suede-e-frame-grey-j356251",
-        "in_stock": true
-      },
-      "9123870408909": {
-        "title": "New York Yankees MLB Cooperstown Cord 19TWENTY Adjustable Cap Navy",
-        "handle": "new-era-accessories-coops-cord-19twenty-multicolor-j356250",
-        "in_stock": true
-      },
-      "9123870376141": {
-        "title": "Detroit Tigers MLB Cooperstown Cord 19TWENTY Adjustable Cap Black",
-        "handle": "new-era-accessories-coops-cord-19twenty-black-j356249",
-        "in_stock": true
-      },
-      "9123870343373": {
-        "title": "Chicago Cubs MLB Cooperstown Cord 19TWENTY Adjustable Cap Dark Brown",
-        "handle": "new-era-accessories-coops-cord-19twenty-multicolor-j356248",
-        "in_stock": true
-      },
-      "9123868934349": {
-        "title": "Zoom Skylon 11 Sneakers Black / Anthracite",
-        "handle": "nike-footwear-nike-zoom-skylon-11-black-j364321",
-        "in_stock": true
-      },
-      "9123868901581": {
-        "title": "Women's Air Rift Sandals Light Khaki / Light Army",
-        "handle": "nike-footwear-wmns-wmns-nike-air-rift-brown-j364330",
-        "in_stock": true
-      },
-      "9123868836045": {
-        "title": "Clifton UTL Sneakers Frost / Varsity Navy",
-        "handle": "hoka-one-one-footwear-u-clifton-utl-blue-j362625",
-        "in_stock": true
-      },
-      "9123868082381": {
-        "title": "Wave Mujin TL GORE-TEX Sneakers Black / Royal Blue",
-        "handle": "mizuno-footwear-shoe-s-l-wave-mujin-tl-gtx-black-j364995",
-        "in_stock": true
-      },
-      "9123868049613": {
-        "title": "Wave Prophecy LS Sneakers Black",
-        "handle": "mizuno-footwear-shoe-s-l-wave-prophecy-ls-black-j364989",
-        "in_stock": true
-      },
-      "9119570297037": {
-        "title": "Juneau Tote (M) Ivory",
-        "handle": "visvim-accessories-juneau-tote-m-white-j348647",
-        "in_stock": true
-      },
-      "9110404858061": {
-        "title": "Men's Stencil Print Pocket T-Shirt Grey",
-        "handle": "oamc-peacemaker-clothing-pocket-tee-stencil-print-grey-j333551",
-        "in_stock": true
-      },
-      "9123748675789": {
-        "title": "Favela Narco Pets Book",
-        "handle": "550bc-lifestyle-favela-narco-pets-multicolor-j367821",
-        "in_stock": false
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Shortsleeve Feather Tree T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-shortsleeve-feather-tree-t-shirt-camo-feather-tree-khaki-shungite",
-      "detected_at": "2026-08-11T10:11:32.898716+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Sweatshirt Iron\nhttps://www.slamjam.com/products/no-problemo-clothing-no-problemo-sweatshirt-grey-j350683",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: The North Face RED BOX LINER JACKET\nhttps://www.afew-store.com/products/the-north-face-red-box-liner-jacket-obsidian-obsidi",
-      "detected_at": "2026-08-11T10:11:32.898716+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Plaid Shirt Red\nhttps://www.slamjam.com/products/no-problemo-clothing-no-problemo-plaid-ls-shirt-red-j350722",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Lowell Leather Moc Toe Shoes Spiced Brown\nhttps://www.slamjam.com/products/dr-martens-footwear-lowell-brown-j367934",
-      "detected_at": "2026-08-11T10:11:32.898716+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Striped Hoodie Brown\nhttps://www.slamjam.com/products/no-problemo-clothing-no-problemo-striped-hoodie-brown-j350700",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Lowell Chukka Moc Toe Leather Ankle Boots Black\nhttps://www.slamjam.com/products/dr-martens-footwear-lowell-chukka-black-j367936",
-      "detected_at": "2026-08-11T10:11:32.898716+00:00"
+      "message": "🆕 **New drop** at Slam Jam: No Silence Longsleeve T-Shirt White\nhttps://www.slamjam.com/products/no-problemo-clothing-no-silence-ls-tee-white-j350758",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Striped Longsleeve T-Shirt Sand\nhttps://www.slamjam.com/products/no-problemo-clothing-no-problemo-striped-ls-tee-beige-j350731",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Double Knee Overdyed Twill Pants Brown\nhttps://www.slamjam.com/products/no-problemo-clothing-double-knee-overdyed-twill-pants-brown-j350714",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Heavyweight Bagi Jeans Blue\nhttps://www.slamjam.com/products/no-problemo-clothing-bagi-jeans-blue-j350713",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Scarf Red\nhttps://www.slamjam.com/products/no-problemo-accessories-no-problemo-scarf-red-j350789",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: J'Adoro Weedie Pie T-Shirt Black\nhttps://www.slamjam.com/products/aries-clothing-jadoro-weedie-pie-ss-tee-black-j354742",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Landon Pans Black (Marble Used Wash)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-landon-pant-black-j359116",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Lowell Chukka Moc Toe Leather Ankle Boots Spiced Brown\nhttps://www.slamjam.com/products/dr-martens-footwear-lowell-chukka-brown-j367937",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Delapre Penny Loafers Black\nhttps://www.slamjam.com/products/dr-martens-footwear-delapre-penny-loafer-black-j367925",
+      "detected_at": "2026-08-11T11:06:25.517382+00:00"
     }
   ]
 }
