@@ -169,7 +169,7 @@
       "8286626644096": {
         "title": "Kith for Salomon XT-EVO - Black / Lemon / Lava Falls",
         "handle": "sl45568800",
-        "in_stock": false
+        "in_stock": true
       },
       "8286626578560": {
         "title": "Kith for Salomon XT-EVO - Black Coffee / Excalibur / Bluing",
@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6700304695557": {
+        "title": "MALBON X UNDEFEATED BALL MARKER - ANTIQUE BRASS",
+        "handle": "malbon-x-undefeated-ball-marker-antique-brass",
+        "in_stock": false
+      },
+      "6702258061573": {
+        "title": "UNDEFEATED ICON 5 POCKET DENIM PANT",
+        "handle": "undefeated-icon-5-pocket-denim-pant",
+        "in_stock": true
+      },
       "6702687420677": {
         "title": "JORDAN TEE - SAIL / BLACK",
         "handle": "jordan-tee-sail-black",
@@ -1556,11 +1566,6 @@
       "6683907522821": {
         "title": "UNDEFEATED X NEW ERA NY YANKEES S/S TEE - BLACK",
         "handle": "undefeated-x-new-era-ny-yankees-s-s-tee-black",
-        "in_stock": true
-      },
-      "6700447891717": {
-        "title": "UNDEFEATED S/S TEE, 3-PACK",
-        "handle": "undefeated-s-s-tee-3-pack",
         "in_stock": true
       },
       "6702352007429": {
@@ -2496,11 +2501,6 @@
       "6702621491461": {
         "title": "VANS PREMIUM AUTHENTIC 44 - BEADED CHECKERBOARD",
         "handle": "vans-premium-authentic-44-beaded-checkerboard",
-        "in_stock": true
-      },
-      "6702617690373": {
-        "title": "ASICS GEL-CUMULUS 16 - BLACK",
-        "handle": "asics-gel-cumulus-16-black-1",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9349857542332": {
+        "title": "Nike Kobe IV Protro 'Draft Pack' - Multi-Color/Multi-Color",
+        "handle": "nike-kobe-iv-protro-draft-pack-multi-color-multi-color",
+        "in_stock": true
+      },
       "9405625172156": {
         "title": "Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White",
         "handle": "pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
@@ -5000,11 +5005,6 @@
       "9299428475068": {
         "title": "Fear Of God Essentials Training Classic Fit Shorts - Faded Dune",
         "handle": "fear-of-god-essentials-training-classic-fit-shorts-faded-dune",
-        "in_stock": true
-      },
-      "9272767807676": {
-        "title": "Women's Fear Of God Essentials Campus Classic Tee - Faded Black",
-        "handle": "womens-fear-of-god-essentials-campus-classic-tee-faded-black",
         "in_stock": true
       }
     },
@@ -7560,7 +7560,7 @@
         "in_stock": true
       },
       "9125627265229": {
-        "title": "Men's Landon Pans Black (Marble Used Wash)",
+        "title": "Men's Landon Pants Black (Marble Used Wash)",
         "handle": "carhartt-wip-clothing-landon-pant-black-j359116",
         "in_stock": true
       },
@@ -8054,11 +8054,6 @@
         "handle": "wtaps-clothing-milt0001-trousers-cotton-cnvs-black-j355424",
         "in_stock": true
       },
-      "9113013059789": {
-        "title": "Men's Stride Dri-FIT 5in Brief-Lined Running Shorts Black Spruce",
-        "handle": "nike-clothing-nike-stride-mens-dri-fit-5-brief-lined-running-shorts-green-j352376",
-        "in_stock": false
-      },
       "9094564020429": {
         "title": "Men's 1955 501XX Jeans Dark Indigo",
         "handle": "levis-clothing-1947-501-jeans-lvc-rinse-blue-j348558",
@@ -8224,11 +8219,6 @@
         "handle": "stone-island-clothing-hoodie-sweater-black-j345737",
         "in_stock": true
       },
-      "9108025311437": {
-        "title": "Men's Washed Cotton One Tuck Pants Charcoal",
-        "handle": "cav-empt-clothing-washed-cotton-one-tuck-pants-grey-j355856",
-        "in_stock": false
-      },
       "9124491198669": {
         "title": "Men's Mineral Dyed Zip-Up Cardigan Grey",
         "handle": "stone-island-clothing-cardigan-grey-j362170",
@@ -8283,11 +8273,6 @@
         "title": "1890A Sneakers Dark Night / Candied Violet",
         "handle": "new-balance-footwear-u18905jk-blue-j359270",
         "in_stock": true
-      },
-      "9095312703693": {
-        "title": "Inner Logo Socks White / Fluo Blue",
-        "handle": "mental-athletic-clothing-mental-athletic-socks-white-j338091",
-        "in_stock": false
       },
       "9124316446925": {
         "title": "FBT LHAMO-FOLK Shoes White",
@@ -8763,13 +8748,48 @@
         "title": "LA Dodgers Faux Suede 9FORTY E-Frame Cap Dark Green",
         "handle": "new-era-accessories-faux-suede-e-frame-grey-j356251",
         "in_stock": true
+      },
+      "9123870408909": {
+        "title": "New York Yankees MLB Cooperstown Cord 19TWENTY Adjustable Cap Navy",
+        "handle": "new-era-accessories-coops-cord-19twenty-multicolor-j356250",
+        "in_stock": true
+      },
+      "9123870376141": {
+        "title": "Detroit Tigers MLB Cooperstown Cord 19TWENTY Adjustable Cap Black",
+        "handle": "new-era-accessories-coops-cord-19twenty-black-j356249",
+        "in_stock": true
+      },
+      "9123870343373": {
+        "title": "Chicago Cubs MLB Cooperstown Cord 19TWENTY Adjustable Cap Dark Brown",
+        "handle": "new-era-accessories-coops-cord-19twenty-multicolor-j356248",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-      "detected_at": "2026-08-11T15:40:10.186057+00:00"
+      "message": "🔥 **Restock** at Kith: Kith for Salomon XT-EVO - Black / Lemon / Lava Falls\nhttps://kith.com/products/sl45568800",
+      "detected_at": "2026-08-11T16:37:12.941852+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON 5 POCKET DENIM PANT\nhttps://undefeated.com/products/undefeated-icon-5-pocket-denim-pant",
+      "detected_at": "2026-08-11T16:37:12.941852+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Kobe IV Protro 'Draft Pack' - Multi-Color/Multi-Color\nhttps://sneakerpolitics.com/products/nike-kobe-iv-protro-draft-pack-multi-color-multi-color",
+      "detected_at": "2026-08-11T16:37:12.941852+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Cooperstown Cord 19TWENTY Adjustable Cap Navy\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-multicolor-j356250",
+      "detected_at": "2026-08-11T16:37:12.941852+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Detroit Tigers MLB Cooperstown Cord 19TWENTY Adjustable Cap Black\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-black-j356249",
+      "detected_at": "2026-08-11T16:37:12.941852+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Chicago Cubs MLB Cooperstown Cord 19TWENTY Adjustable Cap Dark Brown\nhttps://www.slamjam.com/products/new-era-accessories-coops-cord-19twenty-multicolor-j356248",
+      "detected_at": "2026-08-11T16:37:12.941852+00:00"
     }
   ]
 }
