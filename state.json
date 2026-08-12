@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6702689616133": {
+        "title": "NIKE GS AIR MAX 95 \"BIG BUBBLE\" - BLACK/ NEON YELLOW/ COOL GREY",
+        "handle": "nike-gs-air-max-95-big-bubble-black-neon-yellow-cool-grey",
+        "in_stock": true
+      },
+      "6702655308037": {
+        "title": "ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK",
+        "handle": "adidas-pw-adistar-jellyfish-cwhite-cblack",
+        "in_stock": true
+      },
       "6702108213509": {
         "title": "NIKE X KOBE BRYANT '81' MAX90 S/S TEE - BLACK",
         "handle": "nike-x-kobe-bryant-81-max90-s-s-tee-black",
@@ -2491,16 +2501,6 @@
       "6676599046405": {
         "title": "UNDEFEATED X MCLAREN 1:64 SCALE INDY 500 CARS SET OF 3",
         "handle": "undefeated-x-mclaren-indianapolis-500-3-car-set",
-        "in_stock": true
-      },
-      "6701499547909": {
-        "title": "UNDEFEATED FLIGHT SATIN SHOULDER BAG",
-        "handle": "undefeated-flight-satin-shoulder-bag",
-        "in_stock": true
-      },
-      "6700580176133": {
-        "title": "UNDEFEATED X BCFC X NIKE STADIUM HOME JERSEY - COBALT",
-        "handle": "undefeated-x-bcfc-x-nike-stadium-home-jersey-cobalt",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,26 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8925872750780": {
+        "title": "Carhartt WIP Vestige Tee - Black",
+        "handle": "carhartt-wip-vestige-tee-black",
+        "in_stock": true
+      },
+      "9271119052988": {
+        "title": "Billionaire Boys Club Helmet Sketch Tee - Ecru",
+        "handle": "billionaire-boys-club-helmet-sketch-tee-ecru",
+        "in_stock": true
+      },
+      "9341285597372": {
+        "title": "Air Jordan 1 Low SE - Off Noir/Sail",
+        "handle": "air-jordan-1-low-se-off-noir-sail",
+        "in_stock": true
+      },
+      "9357565395132": {
+        "title": "Nike Calm 2.0 - Volt/Volt",
+        "handle": "nike-calm-2-0-volt-volt",
+        "in_stock": true
+      },
       "9382656311484": {
         "title": "Nike Air Force 1 '07 LV8 'Beef & Broccoli' - Black Spruce/Black",
         "handle": "nike-air-force-1-07-lv8-beef-broccoli-black-spruce-black",
@@ -3895,7 +3915,7 @@
       "9405625172156": {
         "title": "Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White",
         "handle": "pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-        "in_stock": false
+        "in_stock": true
       },
       "9356144083132": {
         "title": "Rhude RH Logo Shorts - Taupe",
@@ -4985,26 +5005,6 @@
       "8698691977404": {
         "title": "Oakley Chaminade - Matte Transparent Lilac/Prizm Indigo",
         "handle": "oakley-chaminade-matte-transparent-lilac-prizm-indigo",
-        "in_stock": true
-      },
-      "8698690732220": {
-        "title": "Oakley Belleville - Matte Transparent Viridian/Prizm Jade",
-        "handle": "oakley-belleville-matte-transparent-viridian-prizm-jade",
-        "in_stock": true
-      },
-      "8698689192124": {
-        "title": "Oakley Chaminade - Moon Dust/Prizm 24K Polarized",
-        "handle": "oakley-chaminade-moon-dust-prizm-24k-polarized",
-        "in_stock": true
-      },
-      "9354214867132": {
-        "title": "Nike Force 1 Low 'Ice Cream' (PS) - Sail/Multi Color",
-        "handle": "nike-force-1-low-ice-cream-ps-sail-multi-color",
-        "in_stock": true
-      },
-      "9349918621884": {
-        "title": "Women's Nike Air Force 1 '07 'Floral' - White/White",
-        "handle": "womens-nike-air-force-1-07-floral-white-white",
         "in_stock": true
       }
     },
@@ -8239,11 +8239,6 @@
         "handle": "levis-clothing-1947-501-jeans-lvc-rinse-blue-j348558",
         "in_stock": false
       },
-      "9108415676621": {
-        "title": "Men's 1947 501 Jeans Maleta Blue",
-        "handle": "levis-clothing-lvc-1947-501-jeans-maleta-blue-j348719",
-        "in_stock": false
-      },
       "9115641184461": {
         "title": "Men's Portugal x Salehe Bembury KING Oversized T-Shirt Emerald Ice",
         "handle": "puma-clothing-puma-x-fpf-x-salehe-bembury-king-shortsleeve-green-j349892",
@@ -8763,61 +8758,46 @@
         "title": "Black Hole Pack 25L Black",
         "handle": "patagonia-accessories-black-hole-pack-25l-black-j362239",
         "in_stock": true
+      },
+      "9123984736461": {
+        "title": "Men's Organic Cotton Fleece Zip Hoodie Military Green",
+        "handle": "stone-island-clothing-hoodie-sweater-green-j362189",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE X KOBE BRYANT '81' MAX90 S/S TEE - BLACK\nhttps://undefeated.com/products/nike-x-kobe-bryant-81-max90-s-s-tee-black",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE GS AIR MAX 95 \"BIG BUBBLE\" - BLACK/ NEON YELLOW/ COOL GREY\nhttps://undefeated.com/products/nike-gs-air-max-95-big-bubble-black-neon-yellow-cool-grey",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE FFF 2026 STADIUM HOME JERSEY - GAME ROYAL\nhttps://undefeated.com/products/nike-fff-2026-stadium-home-jersey-game-royal",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🆕 **New drop** at Undefeated: ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK\nhttps://undefeated.com/products/adidas-pw-adistar-jellyfish-cwhite-cblack",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE ENGLAND 2026 STADIUM HOME JERSEY - WHITE/ SPEED RED\nhttps://undefeated.com/products/nike-england-2026-stadium-home-jersey-white-speed-red",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Carhartt WIP Vestige Tee - Black\nhttps://sneakerpolitics.com/products/carhartt-wip-vestige-tee-black",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE JA 3 - TOUR YELLOW / UNIVERSITY RED / BLACK\nhttps://undefeated.com/products/nike-ja-3-tour-yellow-university-red-black",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Helmet Sketch Tee - Ecru\nhttps://sneakerpolitics.com/products/billionaire-boys-club-helmet-sketch-tee-ecru",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE ZOOM FIELD JAXX - LECHEBLUE/ BAROQUEBROWN\nhttps://undefeated.com/products/nike-zoom-field-jaxx-lecheblue-baroquebrown",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low SE - Off Noir/Sail\nhttps://sneakerpolitics.com/products/air-jordan-1-low-se-off-noir-sail",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE TD DUNK LOW - WHITE/ BLACK\nhttps://undefeated.com/products/td-dunk-low-white-black",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Calm 2.0 - Volt/Volt\nhttps://sneakerpolitics.com/products/nike-calm-2-0-volt-volt",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE PS DUNK LOW - WHITE/ BLACK\nhttps://undefeated.com/products/ps-dunk-low-white-black",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🔥 **Restock** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 'Beef & Broccoli' - Black Spruce/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-beef-broccoli-black-spruce-black",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Salud Biggie Tee - Faded Black\nhttps://sneakerpolitics.com/products/ksubi-salud-biggie-tee-faded-black",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 'Ice Cream' (GS) - Sail/Multi Color\nhttps://sneakerpolitics.com/products/nike-air-force-1-ice-cream-gs-sail-multi-color",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Cortez - Chlorophyll/Sail\nhttps://sneakerpolitics.com/products/womens-nike-cortez-chlorophyll-sail",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Nigeria Premium Goalkeeper Tee - Black\nhttps://sneakerpolitics.com/products/nike-nigeria-premium-goalkeeper-tee-black",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: G-Shock x thisisneverthat DW-5600TNT-7\nhttps://www.afew-store.com/products/g-shock-x-thisisneverthat-dw-5600tnt-7-white",
-      "detected_at": "2026-08-12T17:15:34.349308+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Organic Cotton Fleece Zip Hoodie Military Green\nhttps://www.slamjam.com/products/stone-island-clothing-hoodie-sweater-green-j362189",
+      "detected_at": "2026-08-12T18:26:44.165679+00:00"
     }
   ]
 }
