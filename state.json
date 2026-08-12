@@ -2505,6 +2505,16 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11016363802891": {
+        "title": "Adidas Superstar II",
+        "handle": "adidas-superstar-ii-core-black-core-black-gold-metallic",
+        "in_stock": true
+      },
+      "10987559190795": {
+        "title": "Asics x Vandy the Pink GEL-Kayano 12.1",
+        "handle": "asics-x-vandy-the-pink-gelkayano-121-antique-white-anthique-white",
+        "in_stock": false
+      },
       "10793528131851": {
         "title": "Adidas x Thug Club Superstar Luxe Boot",
         "handle": "adidas-x-thug-club-superstar-luxe-boot-multicolor-off-white-multicolor",
@@ -3743,16 +3753,6 @@
       "11010465988875": {
         "title": "Nike Wmns Moon Shoe OG",
         "handle": "nike-wmns-moon-shoe-og-italy-blue-white-neutral-grey-black",
-        "in_stock": true
-      },
-      "11003928707339": {
-        "title": "Nike Wmns Zoom Streak 3",
-        "handle": "nike-wmns-zoom-streak-3-cream-ii-sail",
-        "in_stock": true
-      },
-      "11010721153291": {
-        "title": "Adidas Handball Spezial W",
-        "handle": "adidas-handball-spezial-w-earth-strata-off-white-khaki-three",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Superstar II\nhttps://www.asphaltgold.de/products/adidas-superstar-ii-core-black-core-black-gold-metallic",
+      "detected_at": "2026-08-12T06:43:02.050419+00:00"
+    }
+  ]
 }
