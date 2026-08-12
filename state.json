@@ -79,7 +79,7 @@
       "8284714139776": {
         "title": "Nike Air Footscape Woven - Black / White / Black",
         "handle": "nkfb1959-002",
-        "in_stock": true
+        "in_stock": false
       },
       "8284075753600": {
         "title": "Nike Air Pegasus Wave - Black / Anthracite-Cyber",
@@ -4170,7 +4170,7 @@
       "9072881139900": {
         "title": "Timberland Textured Premium 6\" Lace Up Boot - Medium Beige Full Grain",
         "handle": "timberland-textured-premium-6-lace-up-boot-medium-beige-full-grain",
-        "in_stock": true
+        "in_stock": false
       },
       "9286282903740": {
         "title": "Pleasures Forever Track Pants - Navy",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Megaride AG - Clear Pink/Clear Pink\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-megaride-ag-clear-pink-clear-pink",
-      "detected_at": "2026-08-12T03:13:33.162689+00:00"
-    }
-  ]
+  "pending_free": []
 }
