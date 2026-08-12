@@ -1253,9 +1253,24 @@
       }
     },
     "https://undefeated.com": {
+      "6702689517829": {
+        "title": "JORDAN X UNION X FRAGMENT LS JERSEY - BLACK",
+        "handle": "jordan-x-union-x-fragment-ls-jersey-black",
+        "in_stock": true
+      },
       "6702689485061": {
         "title": "JORDAN X UNION X FRAGMENT CREWNECK - PALE IVORY",
         "handle": "jordan-x-union-x-fragment-crewneck-pale-ivory",
+        "in_stock": true
+      },
+      "6702568997125": {
+        "title": "JORDAN BIKE AIR X NIGEL SYLVESTER BIKE PANTS - ANTRACITE",
+        "handle": "jordan-bike-air-x-nigel-sylvester-bike-pants-antracite",
+        "in_stock": true
+      },
+      "6702569259269": {
+        "title": "JORDAN BIKE AIR X NIGEL SYLVESTER BIKE SHORTS - ANTRACITE",
+        "handle": "jordan-bike-air-x-nigel-sylvester-bike-shorts-antracite",
         "in_stock": true
       },
       "6702689550597": {
@@ -2487,21 +2502,6 @@
         "title": "BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS",
         "handle": "bape-x-undefeated-color-camo-flannel-pants",
         "in_stock": true
-      },
-      "6673204543749": {
-        "title": "BAPE X UNDEFEATED MULTI POUCH POCKET PANTS - NAVY",
-        "handle": "bape-x-undefeated-multi-pouch-pocket-pants-navy",
-        "in_stock": true
-      },
-      "6700450513157": {
-        "title": "UNDEFEATED ID TAG",
-        "handle": "undefeated-id-tag",
-        "in_stock": true
-      },
-      "6676602061061": {
-        "title": "UNDEFEATED ALL-IN-ONE WASH",
-        "handle": "undefeated-total-wash-natural",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2668,7 +2668,7 @@
       "10798541668619": {
         "title": "Wales Bonner Calm Polo",
         "handle": "wales-bonner-calm-polobrown-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "10243161063691": {
         "title": "Adidas SL 72 PT",
@@ -2718,7 +2718,7 @@
       "10077515153675": {
         "title": "Autry Windspin W *Perforated / Suede*",
         "handle": "autry-windspin-w-perforated-suede-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "7148788875428": {
         "title": "Autry Medalist W *Goat*",
@@ -7557,7 +7557,7 @@
       "9123631038669": {
         "title": "ACG Radical AirFlow Fly Cap Anthracite",
         "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-        "in_stock": true
+        "in_stock": false
       },
       "9104979460301": {
         "title": "Trampler Shoes Black",
@@ -8768,108 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Yankees Ballpark Offside Snapback - Black\nhttps://kith.com/products/khma050110-001",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN X UNION X FRAGMENT LS JERSEY - BLACK\nhttps://undefeated.com/products/jordan-x-union-x-fragment-ls-jersey-black",
+      "detected_at": "2026-08-12T21:20:50.794051+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Collins Swim Short - Thunder\nhttps://kith.com/products/khm060512-506",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN BIKE AIR X NIGEL SYLVESTER BIKE PANTS - ANTRACITE\nhttps://undefeated.com/products/jordan-bike-air-x-nigel-sylvester-bike-pants-antracite",
+      "detected_at": "2026-08-12T21:20:50.794051+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Collins Swim Short - Nocturnal\nhttps://kith.com/products/khm060512-413",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Collins Swim Short - Black\nhttps://kith.com/products/khm060512-001",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Napeague Sunglasses - Honey Crystal / Grey\nhttps://kith.com/products/khm120006-242",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Emanuele Bicocchi Small Flourish Skull Ring - Silver\nhttps://kith.com/products/emakla7",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Stone Island Soft Shell-R_e.dye® Technology Technical Trouser - Black\nhttps://kith.com/products/sto3100055s0a27v0029",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Belleville - Matte Transparent Viridian/Prizm Jade\nhttps://sneakerpolitics.com/products/oakley-belleville-matte-transparent-viridian-prizm-jade",
-      "detected_at": "2026-08-12T19:39:38.598012+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela WMNS Replica Soft Laced Ballet - Blush\nhttps://kith.com/products/s58ws0297p7790t4110",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela WMNS Tabi Ballerina Flats - Transparent / Multicolor\nhttps://kith.com/products/s58wz0160p7803hb636",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela Future Sneaker - Black\nhttps://kith.com/products/s57ws0538p7573t8013",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela Tabi Daily Mule - Sand\nhttps://kith.com/products/s57wp0108p9026t2039",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: PUMA K-Street MA Suede - Frosted Ivory / PUMA Black\nhttps://kith.com/products/pu40919401",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: PUMA K-Street MA Suede - Mustard Seed / PUMA Black\nhttps://kith.com/products/pu40919402",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela WMNS Replica Soft Laced Ballet - Black\nhttps://kith.com/products/s58ws0297p7790t8013",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela Future Sneaker Bianchetto - Black / Mat Bianchetto\nhttps://kith.com/products/s57ws0538p6840ha331",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela Replica - Aqua\nhttps://kith.com/products/s57ws0236p1895t6253",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela Tabi Babouche Loafer - Black\nhttps://kith.com/products/s57wr0051p7805t8013",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela Tabi Slip-On - Black\nhttps://kith.com/products/s57wr0117p3827h8396",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela Replica - Light Blue\nhttps://kith.com/products/s57ws0236p1895t8055",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela WMNS Replica - Aqua\nhttps://kith.com/products/s58ws0109p1895t6253",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Maison Margiela WMNS Replica - Winetasting\nhttps://kith.com/products/s58ws0109p1895t5081",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN X UNION X FRAGMENT CREWNECK - PALE IVORY\nhttps://undefeated.com/products/jordan-x-union-x-fragment-crewneck-pale-ivory",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN X UNION X FRAGMENT SHORTS - BLACK\nhttps://undefeated.com/products/jordan-x-union-x-fragment-shorts-black",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Chaminade - Moon Dust/Prizm 24K Polarized\nhttps://sneakerpolitics.com/products/oakley-chaminade-moon-dust-prizm-24k-polarized",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Crinkle Reps NY Down Jacket Lead Grey\nhttps://www.slamjam.com/products/stone-island-clothing-bomber-grey-j362165",
-      "detected_at": "2026-08-12T20:23:15.650479+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN BIKE AIR X NIGEL SYLVESTER BIKE SHORTS - ANTRACITE\nhttps://undefeated.com/products/jordan-bike-air-x-nigel-sylvester-bike-shorts-antracite",
+      "detected_at": "2026-08-12T21:20:50.794051+00:00"
     }
   ]
 }
