@@ -2578,7 +2578,7 @@
       "10795478941963": {
         "title": "Ugg Wmns Classic Ultra Mini Dipper",
         "handle": "ugg-wmns-classic-ultra-mini-dipper-chestnut",
-        "in_stock": true
+        "in_stock": false
       },
       "10653542285579": {
         "title": "Adidas Samba OG W",
@@ -2718,7 +2718,7 @@
       "10534363660555": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-ecru-rubwine",
-        "in_stock": true
+        "in_stock": false
       },
       "10540832260363": {
         "title": "Autry Windspin W *Suede / Leather*",
@@ -2878,22 +2878,22 @@
       "10992892510475": {
         "title": "Nike\tx Nocta Club Cap",
         "handle": "nikex-nocta-club-cap-work-blue-polar",
-        "in_stock": true
+        "in_stock": false
       },
       "10992890577163": {
         "title": "Nike x Nocta Fleece CS Crew",
         "handle": "nike-x-nocta-fleece-cs-crew-work-blue-polar",
-        "in_stock": true
+        "in_stock": false
       },
       "10992886972683": {
         "title": "Nike x Nocta CS Tee",
         "handle": "nike-x-nocta-cs-tee-work-blue-polar",
-        "in_stock": true
+        "in_stock": false
       },
       "10992885760267": {
         "title": "Nike x Nocta CS Open Hem Fleece Pant",
         "handle": "nike-x-nocta-cs-open-hem-fleece-pant-work-blue-polar",
-        "in_stock": true
+        "in_stock": false
       },
       "11010701525259": {
         "title": "Nike x Nocta Fleece CS Hoodie",
@@ -6261,14 +6261,44 @@
       }
     },
     "https://www.afew-store.com": {
+      "10591411437834": {
+        "title": "adidas Originals x Song for the Mute WMNS Adizero EVO SL",
+        "handle": "adidas-originals-wmns-adizero-evo-sl-wove-dovgry-gretwo-gresix",
+        "in_stock": false
+      },
+      "10591411405066": {
+        "title": "adidas Originals x Song For The Mute 2in1 Shorts",
+        "handle": "adidas-originals-x-sftm-sh-putbei",
+        "in_stock": false
+      },
+      "10591410782474": {
+        "title": "Timberland WMNS Stone Street MID LACE BOOT",
+        "handle": "timberland-wmns-stst-mid-lace-boot-dk-brn-nubuck",
+        "in_stock": true
+      },
+      "10591409570058": {
+        "title": "Saucony GRID LEGACY",
+        "handle": "saucony-grid-legacy-silver-black",
+        "in_stock": true
+      },
+      "10591409406218": {
+        "title": "Vans LX Old Skool 36 Souvenir",
+        "handle": "vans-lx-old-skool-36-souvenir-navy",
+        "in_stock": true
+      },
+      "10591406784778": {
+        "title": "adidas Originals X SONG FOR THE MUTE RUNNING CAP",
+        "handle": "adidas-originals-x-sftm-run-cap-carbon",
+        "in_stock": false
+      },
+      "10591406620938": {
+        "title": "adidas Originals x Song for the Mute Adizero EVO SL",
+        "handle": "adidas-originals-adizero-evo-sl-wvn-cgrani-greone-gresix",
+        "in_stock": false
+      },
       "10591403213066": {
         "title": "adidas Originals x Song For The Mute WMNS Tank",
         "handle": "adidas-originals-wmns-x-sftm-tank-carbon",
-        "in_stock": false
-      },
-      "10591403114762": {
-        "title": "adidas Originals x Song For The Mute Longsleeve",
-        "handle": "adidas-originals-x-sftm-ls-carbon",
         "in_stock": false
       },
       "10591402033418": {
@@ -6309,7 +6339,7 @@
       "10591394496778": {
         "title": "adidas Originals BW ARMY",
         "handle": "adidas-originals-bw-army-cinder-cinder-gum5",
-        "in_stock": false
+        "in_stock": true
       },
       "10591392465162": {
         "title": "Air Jordan WMNS 4 Retro 'Birds of Paradise'",
@@ -7480,40 +7510,65 @@
         "title": "Mizuno WAVE PROPHECY LS",
         "handle": "mizuno-wave-prophecy-ls-iron-gate-royal-blue-black-sand",
         "in_stock": true
-      },
-      "10576340517130": {
-        "title": "Vans LX Old Skool 36 Souvenir",
-        "handle": "vans-lx-old-skool-36-souvenir-faded-black",
-        "in_stock": true
-      },
-      "10576337666314": {
-        "title": "Nike AIR MAX III",
-        "handle": "nike-air-max-iii-lt-iron-ore-sail-pale-ivory-infrared-23",
-        "in_stock": true
-      },
-      "10576336158986": {
-        "title": "AIR JORDAN 15 SP",
-        "handle": "air-jordan-15-sp-muslin-muslin-black",
-        "in_stock": true
-      },
-      "10576315220234": {
-        "title": "Stanley 1913 The Quencher ProTour Flip Straw Tumbler 0.89 L / 30 oz",
-        "handle": "stanley-1913-the-quencher-protour-flip-straw-tumbler-0-89-l-30-ozblack",
-        "in_stock": true
-      },
-      "10576313221386": {
-        "title": "Stanley 1913 The Quencher H2.0 FlowState Tumbler 0.89 L / 30 oz",
-        "handle": "stanley-1913-the-quencher-h2-0-flowstate-tumbler-0-89-l-30-ozdried-pine",
-        "in_stock": true
-      },
-      "10576310665482": {
-        "title": "Stanley 1913 The Quencher ProTour Flip Straw Tumbler 40 oz / 1.18 L",
-        "handle": "stanley-1913-the-quencher-protour-flip-straw-tumbler-40-oz-1-18-lblack-2-0",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125869551821": {
+        "title": "Men's Seagull Print Denim Jacket Raw Indigo",
+        "handle": "evisu-clothing-ht-ecru-seagull-printed-denim-jacket-blue-j352949",
+        "in_stock": true
+      },
+      "9125869453517": {
+        "title": "Men's Logo Embroidery Knit Pullover Black",
+        "handle": "evisu-clothing-ht-logo-emb-knit-pullover-black-j352998",
+        "in_stock": true
+      },
+      "9125869420749": {
+        "title": "Men's Seagull Embroidery T-Shirt Black",
+        "handle": "evisu-clothing-ht-seagull-emb-ss-tee-black-j352957",
+        "in_stock": true
+      },
+      "9125869519053": {
+        "title": "Men's Seagull Printed Hoodie Black",
+        "handle": "evisu-clothing-ht-seaguall-printed-hoodie-black-j352947",
+        "in_stock": true
+      },
+      "9125869584589": {
+        "title": "Men's Seagull Print and Multi-Pocket Denim Jacket Raw Indigo",
+        "handle": "evisu-clothing-ht-multi-pocket-denim-jacket-blue-j352941",
+        "in_stock": true
+      },
+      "9125869289677": {
+        "title": "Men's Daicock Print Baggy Jeans Raw Indigo",
+        "handle": "evisu-clothing-ht-2000-daicock-printed-jeans-white-blue-j352942",
+        "in_stock": true
+      },
+      "9125869158605": {
+        "title": "Men's Seagull Printed Pocket Jeans Raw Indigo",
+        "handle": "evisu-clothing-ht-seagull-printed-pocket-selvedge-jeans-blue-j352981",
+        "in_stock": true
+      },
+      "9125869191373": {
+        "title": "Men's Seagull Print Pockets Jeans Raw Indigo",
+        "handle": "evisu-clothing-ht-white-seagull-printed-pocket-jeans-blue-j352954",
+        "in_stock": true
+      },
+      "9125869322445": {
+        "title": "Men's Ebisu & Seagull Print T-shirt Ecru",
+        "handle": "evisu-clothing-ej-vintage-seagull-s-s-tee-purple-j353043",
+        "in_stock": true
+      },
+      "9125869093069": {
+        "title": "Men's Multi-Pocket Patched Daicock Jeans Mid Tone Indigo",
+        "handle": "evisu-clothing-ht-multi-pocket-patched-daicock-jeans-blue-j352986",
+        "in_stock": true
+      },
+      "9125869125837": {
+        "title": "Men's Daikoku Ripped Jeans Mid Tone Indigo",
+        "handle": "evisu-clothing-ej-pink-daikoku-ripped-jeans-blue-j353026",
+        "in_stock": true
+      },
       "9125749522637": {
         "title": "Men's Sleeveless T-Shirt Black",
         "handle": "wtaps-clothing-bc-ss-cotton-black-j355412",
@@ -8708,84 +8763,69 @@
         "title": "Black Hole Cube 3L Smolder Blue / Redtail Rust",
         "handle": "patagonia-accessories-black-hole-cube-3l-blue-j362326",
         "in_stock": true
-      },
-      "9123987751117": {
-        "title": "Men's Classic Retro-X Jacket Smolder Blue / New Navy",
-        "handle": "patagonia-clothing-men-classic-retro-x-jkt-blue-j362322",
-        "in_stock": true
-      },
-      "9123987849421": {
-        "title": "Men's Torrentshell 3L Jacket Dark Ruby Brown",
-        "handle": "patagonia-clothing-men-torrentshell-3l-rain-jkt-brown-j362241",
-        "in_stock": true
-      },
-      "9123987783885": {
-        "title": "Men's Classic Retro-X Jacket Dark Natural",
-        "handle": "patagonia-clothing-men-classic-retro-x-jkt-beige-j362316",
-        "in_stock": true
-      },
-      "9123987816653": {
-        "title": "Men's Nano Puff Jacket Forge Grey",
-        "handle": "patagonia-clothing-men-nano-puff-jkt-grey-j362237",
-        "in_stock": true
-      },
-      "9123987718349": {
-        "title": "Men's Retro Pile Jacket Pine Needle / Classic Tan",
-        "handle": "patagonia-clothing-men-retro-pile-jkt-beige-j362232",
-        "in_stock": true
-      },
-      "9123987882189": {
-        "title": "Men's Oakland Shirt Jacket Blue / Dark Navy",
-        "handle": "carhartt-wip-clothing-oakland-shirt-jac-blue-j359234",
-        "in_stock": true
-      },
-      "9123987620045": {
-        "title": "Black Hole Tote Bag 25L Black",
-        "handle": "patagonia-accessories-black-hole-tote-25l-black-j362238",
-        "in_stock": true
-      },
-      "9123987587277": {
-        "title": "Black Hole Pack 25L Black",
-        "handle": "patagonia-accessories-black-hole-pack-25l-black-j362239",
-        "in_stock": true
-      },
-      "9123984736461": {
-        "title": "Men's Organic Cotton Fleece Zip Hoodie Military Green",
-        "handle": "stone-island-clothing-hoodie-sweater-green-j362189",
-        "in_stock": true
-      },
-      "9123984801997": {
-        "title": "Men's Crinkle Reps NY Down Jacket Lead Grey",
-        "handle": "stone-island-clothing-bomber-grey-j362165",
-        "in_stock": true
-      },
-      "9123975037133": {
-        "title": "Premium Authentic 44 Sneakers Black",
-        "handle": "vans-footwear-lx-authentic-reissue-44-lx-multicolor-j318248",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Sunflower Stable Shirt\nhttps://www.asphaltgold.de/products/sunflower-stable-shirt-blackcheck",
-      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+      "message": "🆕 **New drop** at Afew Store: Timberland WMNS Stone Street MID LACE BOOT\nhttps://www.afew-store.com/products/timberland-wmns-stst-mid-lace-boot-dk-brn-nubuck",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Sunflower Mohair Polo\nhttps://www.asphaltgold.de/products/sunflower-mohair-polo-antracite",
-      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+      "message": "🆕 **New drop** at Afew Store: Saucony GRID LEGACY\nhttps://www.afew-store.com/products/saucony-grid-legacy-silver-black",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Nike Air Force 1 Low QS *Fuzzy Sunset*\nhttps://www.asphaltgold.de/products/nike-air-force-1-low-qs-fuzzy-sunset-campfire-orange-sunset-white",
-      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+      "message": "🆕 **New drop** at Afew Store: Vans LX Old Skool 36 Souvenir\nhttps://www.afew-store.com/products/vans-lx-old-skool-36-souvenir-navy",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Air Jordan WMNS 4 Retro 'Birds of Paradise'\nhttps://www.afew-store.com/products/air-jordan-wmns-4-retro-coconut-milk-muslin-bright-mango",
-      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+      "message": "🔥 **Restock** at Afew Store: adidas Originals BW ARMY\nhttps://www.afew-store.com/products/adidas-originals-bw-army-cinder-cinder-gum5",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Nike Air Force 1 'Fur'\nhttps://www.afew-store.com/products/nike-air-force-1-fur-campfire-orange-sunset-white",
-      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Seagull Print Denim Jacket Raw Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-ecru-seagull-printed-denim-jacket-blue-j352949",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Logo Embroidery Knit Pullover Black\nhttps://www.slamjam.com/products/evisu-clothing-ht-logo-emb-knit-pullover-black-j352998",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Seagull Embroidery T-Shirt Black\nhttps://www.slamjam.com/products/evisu-clothing-ht-seagull-emb-ss-tee-black-j352957",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Seagull Printed Hoodie Black\nhttps://www.slamjam.com/products/evisu-clothing-ht-seaguall-printed-hoodie-black-j352947",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Seagull Print and Multi-Pocket Denim Jacket Raw Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-multi-pocket-denim-jacket-blue-j352941",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Daicock Print Baggy Jeans Raw Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-2000-daicock-printed-jeans-white-blue-j352942",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Seagull Printed Pocket Jeans Raw Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-seagull-printed-pocket-selvedge-jeans-blue-j352981",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Seagull Print Pockets Jeans Raw Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-white-seagull-printed-pocket-jeans-blue-j352954",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Ebisu & Seagull Print T-shirt Ecru\nhttps://www.slamjam.com/products/evisu-clothing-ej-vintage-seagull-s-s-tee-purple-j353043",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Multi-Pocket Patched Daicock Jeans Mid Tone Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ht-multi-pocket-patched-daicock-jeans-blue-j352986",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Daikoku Ripped Jeans Mid Tone Indigo\nhttps://www.slamjam.com/products/evisu-clothing-ej-pink-daikoku-ripped-jeans-blue-j353026",
+      "detected_at": "2026-08-13T09:15:21.169250+00:00"
     }
   ]
 }
