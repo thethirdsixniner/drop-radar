@@ -79,7 +79,7 @@
       "8286395039872": {
         "title": "Kith & '47 for the New York Yankees Ballpark Offside Snapback - Black",
         "handle": "khma050110-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8284978184320": {
         "title": "Kith Collins Swim Short - Thunder",
@@ -844,7 +844,7 @@
       "8282356940928": {
         "title": "Nike Air Max 1 - White / Black / Pure Platinum / Medium Olive",
         "handle": "nkfd9082-102",
-        "in_stock": true
+        "in_stock": false
       },
       "8282132578432": {
         "title": "Nike Dunk Low Retro PRM - University Red / Black / Light Silver",
@@ -1253,6 +1253,16 @@
       }
     },
     "https://undefeated.com": {
+      "6702646788357": {
+        "title": "VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - OATMEAL",
+        "handle": "vans-premium-old-skool-36-souvenir-oatmeal",
+        "in_stock": true
+      },
+      "6702646755589": {
+        "title": "VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - BLACK",
+        "handle": "vans-premium-old-skool-36-souvenir-black",
+        "in_stock": true
+      },
       "6702689517829": {
         "title": "JORDAN X UNION X FRAGMENT LS JERSEY - BLACK",
         "handle": "jordan-x-union-x-fragment-ls-jersey-black",
@@ -2492,16 +2502,6 @@
         "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET",
         "handle": "converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
         "in_stock": true
-      },
-      "6610752372809": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET",
-        "handle": "converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
-        "in_stock": true
-      },
-      "6673204445445": {
-        "title": "BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS",
-        "handle": "bape-x-undefeated-color-camo-flannel-pants",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2738,7 +2738,7 @@
       "10205582786827": {
         "title": "Adidas Sambae W",
         "handle": "adidas-sambae-w-footwear-white-off-white-aurich-ivy",
-        "in_stock": true
+        "in_stock": false
       },
       "8565820162315": {
         "title": "Adidas Samba OG W",
@@ -3138,7 +3138,7 @@
       "10839347364107": {
         "title": "Sporty & Rich NY Motion T-Shirt",
         "handle": "sporty-rich-ny-motion-tshirt-heather-gray",
-        "in_stock": false
+        "in_stock": true
       },
       "10727132561675": {
         "title": "Nike\tSolo Swoosh Hoodie",
@@ -3921,11 +3921,6 @@
         "title": "Nike Kobe IV Protro 'Draft Pack' - Multi-Color/Multi-Color",
         "handle": "nike-kobe-iv-protro-draft-pack-multi-color-multi-color",
         "in_stock": true
-      },
-      "9405625172156": {
-        "title": "Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White",
-        "handle": "pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-        "in_stock": false
       },
       "9356144083132": {
         "title": "Rhude RH Logo Shorts - Taupe",
@@ -5005,6 +5000,11 @@
       "8698690732220": {
         "title": "Oakley Belleville - Matte Transparent Viridian/Prizm Jade",
         "handle": "oakley-belleville-matte-transparent-viridian-prizm-jade",
+        "in_stock": true
+      },
+      "8698689192124": {
+        "title": "Oakley Chaminade - Moon Dust/Prizm 24K Polarized",
+        "handle": "oakley-chaminade-moon-dust-prizm-24k-polarized",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,31 @@
       }
     },
     "https://www.afew-store.com": {
+      "10591666340106": {
+        "title": "Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L",
+        "handle": "stanley-1913-the-iceflow-flip-straw-2-0-tumbler-0-89-l-30-ozcoffee",
+        "in_stock": false
+      },
+      "10591655330058": {
+        "title": "adidas Originals adizero Evo SL",
+        "handle": "adidas-originals-adizero-evo-sl-cblack-carbon-whitin",
+        "in_stock": false
+      },
+      "10591652053258": {
+        "title": "Lacoste BERET",
+        "handle": "lacoste-beret-navy-blue",
+        "in_stock": false
+      },
+      "10591651823882": {
+        "title": "Lacoste BERET",
+        "handle": "lacoste-beret-black",
+        "in_stock": false
+      },
+      "10591648645386": {
+        "title": "adidas Originals X SONG FOR THE MUTE RUNNING CREW SOCK 1PP",
+        "handle": "adidas-originals-x-sftm-run-sock-carbon",
+        "in_stock": false
+      },
       "10591411437834": {
         "title": "adidas Originals x Song for the Mute WMNS Adizero EVO SL",
         "handle": "adidas-originals-wmns-adizero-evo-sl-wove-dovgry-gretwo-gresix",
@@ -7484,31 +7509,6 @@
       "10576628941066": {
         "title": "Timberland Heritage Clog",
         "handle": "timberland-hrtg-clog-shoe-wheat-nubuck",
-        "in_stock": true
-      },
-      "10576627532042": {
-        "title": "adidas Originals WMNS ADIZERO ADIOS OG",
-        "handle": "adidas-originals-wmns-adizero-adios-og-utiyel-ironmt-cblack",
-        "in_stock": true
-      },
-      "10576626843914": {
-        "title": "adidas Originals SAMBA OG",
-        "handle": "adidas-originals-samba-og-shared-warvan-gum4",
-        "in_stock": true
-      },
-      "10576373678346": {
-        "title": "G-SHOCK GA-700CF-1AER",
-        "handle": "g-shock-ga-700cf-1aer-black",
-        "in_stock": true
-      },
-      "10576342155530": {
-        "title": "Clarks Originals WMNS Meridor Lace",
-        "handle": "clarks-originals-wmns-meridor-lace-brn-animal-print",
-        "in_stock": true
-      },
-      "10576341041418": {
-        "title": "Mizuno WAVE PROPHECY LS",
-        "handle": "mizuno-wave-prophecy-ls-iron-gate-royal-blue-black-sand",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,22 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - OATMEAL\nhttps://undefeated.com/products/vans-premium-old-skool-36-souvenir-oatmeal",
+      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - BLACK\nhttps://undefeated.com/products/vans-premium-old-skool-36-souvenir-black",
+      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Sporty & Rich NY Motion T-Shirt\nhttps://www.asphaltgold.de/products/sporty-rich-ny-motion-tshirt-heather-gray",
+      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley Chaminade - Moon Dust/Prizm 24K Polarized\nhttps://sneakerpolitics.com/products/oakley-chaminade-moon-dust-prizm-24k-polarized",
+      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+    }
+  ]
 }
