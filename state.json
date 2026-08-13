@@ -1249,7 +1249,7 @@
       "8286626644096": {
         "title": "Kith for Salomon XT-EVO - Black / Lemon / Lava Falls",
         "handle": "sl45568800",
-        "in_stock": false
+        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -1266,7 +1266,7 @@
       "6702685159685": {
         "title": "JORDAN AJ 17 LOW SP - BLACK/ METALLIC SILVER",
         "handle": "jordan-aj-17-low-sp-black-metallic-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "6702646788357": {
         "title": "VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - OATMEAL",
@@ -1603,11 +1603,6 @@
         "handle": "jordan-ps-aj-4-retro-og-fc-sail-black-university-red",
         "in_stock": true
       },
-      "6701827981573": {
-        "title": "NIKE AIR FORCE 1 '07 - WHITE/ MALACHITE/ WHITE",
-        "handle": "nike-air-force-1-07-white-malachite-white",
-        "in_stock": true
-      },
       "6700554715397": {
         "title": "UACTP X LEVELXBLACK SS RASHGUARD",
         "handle": "uactp-x-levelxblack-ss-rashguard",
@@ -1703,24 +1698,9 @@
         "handle": "undefeated-x-wbc-japan-jersey-navy",
         "in_stock": true
       },
-      "6702663074053": {
-        "title": "NIKE AIR MAX UPTEMPO '95 - UNIVERSITYRED/ WHITE/ BLACK",
-        "handle": "nike-air-max-uptempo-95-universityred-white-black",
-        "in_stock": true
-      },
-      "6702379303173": {
-        "title": "NIKE KD VI - LASER ORANGE/ RASPBERRY RED/ BLACK",
-        "handle": "nike-kd-vi-laser-orange-raspberry-red-black",
-        "in_stock": true
-      },
       "6702314193157": {
         "title": "ASICS GEL-SD-LYTE - MIDNIGHT/ CREAM",
         "handle": "asics-gel-sd-lyte-midnight-cream",
-        "in_stock": true
-      },
-      "6702108279045": {
-        "title": "ASICS X ISSEY MIYAKE HYPER TAPING - GREEN/ BLUE",
-        "handle": "asics-x-issey-miyake-hyper-taping-black",
         "in_stock": true
       },
       "6688118276357": {
@@ -2303,11 +2283,6 @@
         "handle": "shai-001-premium-ox-vintage-slither",
         "in_stock": true
       },
-      "6702555693317": {
-        "title": "ASICS SKYHAND OG - MIDNIGHT/ IVORY",
-        "handle": "asics-skyhand-og-midnight-ivory",
-        "in_stock": true
-      },
       "2195148636233": {
         "title": "CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK",
         "handle": "chuck-70-hi-obsidian-egret-black",
@@ -2501,6 +2476,31 @@
       "6683907686661": {
         "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CASTLE",
         "handle": "undefeated-x-converse-weapon-mid-vintagewhite-castle",
+        "in_stock": true
+      },
+      "6683770421509": {
+        "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CHIVE",
+        "handle": "undefeated-x-converse-weapon-mid-vintagewhite-chive",
+        "in_stock": true
+      },
+      "4621997834313": {
+        "title": "CONVERSE X UNDEFEATED CHUCK 70 HI - BLACK/ IMPERIALBLUE",
+        "handle": "converse-x-undefeated-chuck-70-hi-black-imperialblue",
+        "in_stock": true
+      },
+      "6610752307273": {
+        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET",
+        "handle": "converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
+        "in_stock": true
+      },
+      "6610752372809": {
+        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET",
+        "handle": "converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
+        "in_stock": true
+      },
+      "6673204445445": {
+        "title": "BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS",
+        "handle": "bape-x-undefeated-color-camo-flannel-pants",
         "in_stock": true
       }
     },
@@ -3188,7 +3188,7 @@
       "10676331938059": {
         "title": "HAL Studios Studio T-Shirt",
         "handle": "hal-studios-studio-t-shirt-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10671073460491": {
         "title": "No Problemo No War Longsleeve Tee",
@@ -3623,7 +3623,7 @@
       "10169842893067": {
         "title": "Adidas SL 72 RS",
         "handle": "adidas-sl-72-rs-off-white-wonder-white-crew-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10587433304331": {
         "title": "Adidas Montreal RM",
@@ -3757,6 +3757,26 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9354311631036": {
+        "title": "Nike Dunk Low (PS) - Midnight Navy/Speed Red",
+        "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
+        "in_stock": true
+      },
+      "9356867535036": {
+        "title": "Willy Chavarria x Adidas Soccer Tee - Off White",
+        "handle": "willy-chavarria-x-adidas-soccer-tee-off-white",
+        "in_stock": true
+      },
+      "9363152437436": {
+        "title": "Slawn x Nigeria x Nike Academy Pro Soccer Top -  Black/White",
+        "handle": "slawn-x-nigeria-x-nike-academy-pro-soccer-top-black-white",
+        "in_stock": true
+      },
+      "9131810390204": {
+        "title": "Air Jordan 1 Low SE - Anthracite/Sail",
+        "handle": "air-jordan-1-low-se-anthracite-sail",
+        "in_stock": true
+      },
       "9294210662588": {
         "title": "Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White",
         "handle": "air-jordan-4-retro-toro-bravo-fire-red-white",
@@ -4985,26 +5005,6 @@
       "9363140083900": {
         "title": "Palace x England x Nike Varsity Jacket - Cool Grey/White",
         "handle": "palace-x-england-x-nike-varsity-jacket-cool-grey-white",
-        "in_stock": true
-      },
-      "9297819402428": {
-        "title": "Nike Air Max Uptempo 'Lakers' - White/Court Purple",
-        "handle": "nike-air-max-uptempo-lakers-white-court-purple",
-        "in_stock": false
-      },
-      "9352456798396": {
-        "title": "Women's Nike Dunk Low 'Game Day' - Court Purple/Coconut Milk",
-        "handle": "womens-nike-dunk-low-game-day-court-purple-coconut-milk",
-        "in_stock": true
-      },
-      "9342991630524": {
-        "title": "Women's Nike Air Superfly - Linen/Black",
-        "handle": "womens-nike-air-superfly-linen-black",
-        "in_stock": true
-      },
-      "8698686963900": {
-        "title": "Oakley De La Salle - Light Matte Jade Opaline/Prizm Jade",
-        "handle": "oakley-de-la-salle-light-matte-jade-opaline-prizm-jade",
         "in_stock": true
       }
     },
@@ -8482,7 +8482,7 @@
       "9118677827789": {
         "title": "Canada x NOCTA Longsleeve T-Shirt Black",
         "handle": "nike-clothing-cax-m-nk-df-cof-jsy-ls-black-j364606",
-        "in_stock": true
+        "in_stock": false
       },
       "9100190449869": {
         "title": "Men's Contrast Sleeves T-Shirt Grey Melange",
@@ -8768,20 +8768,44 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Rhude Moonlight Dual Stripe Curved Brim Hat - Red / White\nhttps://kith.com/products/rhupf26ha07511-3041",
-      "detected_at": "2026-08-13T16:24:58.747635+00:00"
+      "message": "🔥 **Restock** at Kith: Kith for Salomon XT-EVO - Black / Lemon / Lava Falls\nhttps://kith.com/products/sl45568800",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-toro-bravo-fire-red-white",
-      "detected_at": "2026-08-13T16:24:58.747635+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CHIVE\nhttps://undefeated.com/products/undefeated-x-converse-weapon-mid-vintagewhite-chive",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike ReactX Rejuven8 - Blue Void/Indigo Burst\nhttps://sneakerpolitics.com/products/nike-reactx-rejuven8-blue-void-indigo-burst",
-      "detected_at": "2026-08-13T16:24:58.747635+00:00"
+      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 HI - BLACK/ IMPERIALBLUE\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-hi-black-imperialblue",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's IBQ Rampage Pullover Top Black\nhttps://www.slamjam.com/products/gr10k-clothing-ibq-rampage-pullover-top-black-j355305",
-      "detected_at": "2026-08-13T16:24:58.747635+00:00"
+      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET\nhttps://undefeated.com/products/converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: BAPE X UNDEFEATED COLOR CAMO FLANNEL PANTS\nhttps://undefeated.com/products/bape-x-undefeated-color-camo-flannel-pants",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (PS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-ps-midnight-navy-speed-red",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Soccer Tee - Off White\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-soccer-tee-off-white",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Slawn x Nigeria x Nike Academy Pro Soccer Top -  Black/White\nhttps://sneakerpolitics.com/products/slawn-x-nigeria-x-nike-academy-pro-soccer-top-black-white",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low SE - Anthracite/Sail\nhttps://sneakerpolitics.com/products/air-jordan-1-low-se-anthracite-sail",
+      "detected_at": "2026-08-13T17:29:41.057924+00:00"
     }
   ]
 }
