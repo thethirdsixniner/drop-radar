@@ -269,7 +269,7 @@
       "8286643814528": {
         "title": "Rhude Moonlight Dual Stripe Curved Brim Hat - Red / White",
         "handle": "rhupf26ha07511-3041",
-        "in_stock": false
+        "in_stock": true
       },
       "8286643781760": {
         "title": "Rhude Logo Short - Taupe",
@@ -1286,7 +1286,7 @@
       "6702689485061": {
         "title": "JORDAN X UNION X FRAGMENT CREWNECK - PALE IVORY",
         "handle": "jordan-x-union-x-fragment-crewneck-pale-ivory",
-        "in_stock": true
+        "in_stock": false
       },
       "6702568997125": {
         "title": "JORDAN BIKE AIR X NIGEL SYLVESTER BIKE PANTS - ANTRACITE",
@@ -1301,7 +1301,7 @@
       "6702689550597": {
         "title": "JORDAN X UNION X FRAGMENT SHORTS - BLACK",
         "handle": "jordan-x-union-x-fragment-shorts-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702655308037": {
         "title": "ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK",
@@ -3453,7 +3453,7 @@
       "8912214163723": {
         "title": "Nike Wmns Air Max SNDR",
         "handle": "nike-wmns-air-max-sndr-burgundy-crush-baltic-blue-baroque-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "10542368325899": {
         "title": "Adidas SL 72 OG W",
@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9294210662588": {
+        "title": "Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White",
+        "handle": "air-jordan-4-retro-toro-bravo-fire-red-white",
+        "in_stock": true
+      },
+      "9051544715452": {
+        "title": "Nike ReactX Rejuven8 - Blue Void/Indigo Burst",
+        "handle": "nike-reactx-rejuven8-blue-void-indigo-burst",
+        "in_stock": true
+      },
       "9151030001852": {
         "title": "Crocs Classic EXP - Deep Olive/Gum",
         "handle": "crocs-classic-exp-deep-olive-gum",
@@ -4290,7 +4300,7 @@
       "9100815007932": {
         "title": "Rhude Racing Crest Tee - Vintage White/Navy",
         "handle": "rhude-racing-crest-tee-vintage-white-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "9343000969404": {
         "title": "Nike Vomero Premium - Off White/Dark Obsidian",
@@ -4995,16 +5005,6 @@
       "8698686963900": {
         "title": "Oakley De La Salle - Light Matte Jade Opaline/Prizm Jade",
         "handle": "oakley-de-la-salle-light-matte-jade-opaline-prizm-jade",
-        "in_stock": true
-      },
-      "8698691977404": {
-        "title": "Oakley Chaminade - Matte Transparent Lilac/Prizm Indigo",
-        "handle": "oakley-chaminade-matte-transparent-lilac-prizm-indigo",
-        "in_stock": true
-      },
-      "8698690732220": {
-        "title": "Oakley Belleville - Matte Transparent Viridian/Prizm Jade",
-        "handle": "oakley-belleville-matte-transparent-viridian-prizm-jade",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,21 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125878038733": {
+        "title": "Men's IBQ Rampage Pullover Top Black",
+        "handle": "gr10k-clothing-ibq-rampage-pullover-top-black-j355305",
+        "in_stock": true
+      },
+      "9125877743821": {
+        "title": "BEAMS Bondi 7 Sneakers Chestnut / Black Bean",
+        "handle": "hoka-one-one-footwear-u-bondi-7-beams-multicolor-j367528",
+        "in_stock": false
+      },
+      "9125877711053": {
+        "title": "BEAMS Bondi 7 Sneakers Turtledove / Tidal Foam",
+        "handle": "hoka-one-one-footwear-u-bondi-7-beams-white-j367529",
+        "in_stock": false
+      },
       "9125877678285": {
         "title": "BW Army Sneakers Core White / Gum",
         "handle": "adidas-footwear-bw-army-white-j362381",
@@ -7657,7 +7672,7 @@
       "9123631038669": {
         "title": "ACG Radical AirFlow Fly Cap Anthracite",
         "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-        "in_stock": true
+        "in_stock": false
       },
       "9104979460301": {
         "title": "Trampler Shoes Black",
@@ -8748,68 +8763,25 @@
         "title": "Men's MothTech Muscle Tee Faded Black",
         "handle": "satisfy-clothing-mothtech-muscle-tee-black-j355996",
         "in_stock": true
-      },
-      "9106802868429": {
-        "title": "Men's Pigment Bleed Crewneck Sweater Navy",
-        "handle": "neighborhood-clothing-pigment-bleed-crewneck-sweater-blue-j353267",
-        "in_stock": false
-      },
-      "9082801881293": {
-        "title": "Men's Smooth Jersey Stuntman & Woman Baggy Track Pants Black",
-        "handle": "kapital-clothing-smooth-jersey-stantman-woman-baggy-track-pants-black-j338142",
-        "in_stock": false
-      },
-      "9123989717197": {
-        "title": "TF100 Sneakers New Spruce / Black",
-        "handle": "new-balance-footwear-utfoa1pgd12-green-j353231",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith Manhattan Suede Gloves - Magma\nhttps://kith.com/products/khm10099-601",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
+      "message": "🔥 **Restock** at Kith: Rhude Moonlight Dual Stripe Curved Brim Hat - Red / White\nhttps://kith.com/products/rhupf26ha07511-3041",
+      "detected_at": "2026-08-13T16:24:58.747635+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Traveler K40 Bag - Magma\nhttps://kith.com/products/khm040233-601",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-toro-bravo-fire-red-white",
+      "detected_at": "2026-08-13T16:24:58.747635+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Passenger K15 Bag - Magma\nhttps://kith.com/products/khm040234-601",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike ReactX Rejuven8 - Blue Void/Indigo Burst\nhttps://sneakerpolitics.com/products/nike-reactx-rejuven8-blue-void-indigo-burst",
+      "detected_at": "2026-08-13T16:24:58.747635+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Envelope K20 Bag - Magma\nhttps://kith.com/products/khm040236-601",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Crosswalk K20 Bag - Magma\nhttps://kith.com/products/khm040235-601",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: UGG LOWMEL\nhttps://www.afew-store.com/products/ugg-lowmel-black",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike ACG Tee\nhttps://www.afew-store.com/products/nike-acg-dk-smoke-grey",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike ACG pant 'High Stakes'\nhttps://www.afew-store.com/products/nike-acg-black-summit-white",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP OG Santa Fe Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-santa-fe-jacket-wip-h-brown-tobacco",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: BW Army Sneakers Core White / Gum\nhttps://www.slamjam.com/products/adidas-footwear-bw-army-white-j362381",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: ACG Radical AirFlow Fly Cap Anthracite\nhttps://www.slamjam.com/products/nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-      "detected_at": "2026-08-13T15:15:34.150449+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's IBQ Rampage Pullover Top Black\nhttps://www.slamjam.com/products/gr10k-clothing-ibq-rampage-pullover-top-black-j355305",
+      "detected_at": "2026-08-13T16:24:58.747635+00:00"
     }
   ]
 }
