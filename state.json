@@ -2505,6 +2505,16 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11015022805259": {
+        "title": "Sunflower Stable Shirt",
+        "handle": "sunflower-stable-shirt-blackcheck",
+        "in_stock": true
+      },
+      "11013831983371": {
+        "title": "Sunflower Mohair Polo",
+        "handle": "sunflower-mohair-polo-antracite",
+        "in_stock": true
+      },
       "10821208506635": {
         "title": "Adidas Superstar II W *Rhinestone*",
         "handle": "adidas-superstar-ii-w-rhinestone-footwear-white-core-black-off-white",
@@ -2773,7 +2783,7 @@
       "11016354627851": {
         "title": "Nike Air Force 1 Low QS *Fuzzy Sunset*",
         "handle": "nike-air-force-1-low-qs-fuzzy-sunset-campfire-orange-sunset-white",
-        "in_stock": false
+        "in_stock": true
       },
       "11016353251595": {
         "title": "Nike Wmns Air Force 1 '07 *Pearlized*",
@@ -3528,7 +3538,7 @@
       "10746784612619": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-wonder-aluminum-footwear-white-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "10169842893067": {
         "title": "Adidas SL 72 RS",
@@ -3553,7 +3563,7 @@
       "10716192866571": {
         "title": "Asics GEL-1130",
         "handle": "asics-gel1130-cloud-grey-oatmeal",
-        "in_stock": true
+        "in_stock": false
       },
       "10857953263883": {
         "title": "Asics GEL-1130",
@@ -3743,16 +3753,6 @@
       "10992045785355": {
         "title": "Arte Antwerp Uniform Track Pants",
         "handle": "arte-antwerp-uniform-track-pants-black",
-        "in_stock": true
-      },
-      "11005526114571": {
-        "title": "Arte Antwerp Sunfade Uniform Zip Sweatshirt",
-        "handle": "arte-antwerp-sunfade-uniform-zip-sweatshirt-black",
-        "in_stock": true
-      },
-      "11005526769931": {
-        "title": "Arte Antwerp Sunfade Uniform Sweatpants",
-        "handle": "arte-antwerp-sunfade-uniform-sweatpants-black",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,66 @@
       }
     },
     "https://www.afew-store.com": {
+      "10591403213066": {
+        "title": "adidas Originals x Song For The Mute WMNS Tank",
+        "handle": "adidas-originals-wmns-x-sftm-tank-carbon",
+        "in_stock": false
+      },
+      "10591403114762": {
+        "title": "adidas Originals x Song For The Mute Longsleeve",
+        "handle": "adidas-originals-x-sftm-ls-carbon",
+        "in_stock": false
+      },
+      "10591402033418": {
+        "title": "adidas Originals x SFTM BANDANA",
+        "handle": "adidas-originals-x-sftm-bandana-crewht-mysred-black",
+        "in_stock": false
+      },
+      "10591402000650": {
+        "title": "adidas Originals x Song For The Mute WMNS 2in1 Shorts",
+        "handle": "adidas-originals-wmns-x-sftm-sh-black",
+        "in_stock": false
+      },
+      "10591401476362": {
+        "title": "adidas Originals x Song For The Mute T-Shirt",
+        "handle": "adidas-originals-x-sftm-t-uf-crewht",
+        "in_stock": false
+      },
+      "10591401181450": {
+        "title": "adidas Originals x Song For The Mute Pants",
+        "handle": "adidas-originals-x-sftm-tt-uf-carbon",
+        "in_stock": false
+      },
+      "10591401115914": {
+        "title": "adidas Originals x Song For The Mute Tracktop",
+        "handle": "adidas-originals-x-sftm-tt-uf-auco",
+        "in_stock": false
+      },
+      "10591395250442": {
+        "title": "Hoka One One x Beams BONDI 7",
+        "handle": "hoka-one-one-x-beams-bondi-7-turtledove-tidal-foam",
+        "in_stock": false
+      },
+      "10591395021066": {
+        "title": "Hoka One One x Beams BONDI 7",
+        "handle": "hoka-one-one-x-beams-bondi-7-chestnut-black-bean",
+        "in_stock": false
+      },
+      "10591394496778": {
+        "title": "adidas Originals BW ARMY",
+        "handle": "adidas-originals-bw-army-cinder-cinder-gum5",
+        "in_stock": false
+      },
+      "10591392465162": {
+        "title": "Air Jordan WMNS 4 Retro 'Birds of Paradise'",
+        "handle": "air-jordan-wmns-4-retro-coconut-milk-muslin-bright-mango",
+        "in_stock": true
+      },
+      "10591387713802": {
+        "title": "Nike AIR MAX III",
+        "handle": "nike-air-max-iii-black-cool-grey-infrared-23",
+        "in_stock": false
+      },
       "10590068375818": {
         "title": "Air Jordan x Free The Youth 16 SP",
         "handle": "air-jordan-16-fty-sp-metallic-silver-picante-red",
@@ -6364,7 +6424,7 @@
       "10589389291786": {
         "title": "Nike Air Force 1 'Fur'",
         "handle": "nike-air-force-1-fur-campfire-orange-sunset-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10589323034890": {
         "title": "Asics x VANDYTHEPINK GEL-KAYANO 12.1",
@@ -7450,66 +7510,6 @@
         "title": "Stanley 1913 The Quencher ProTour Flip Straw Tumbler 40 oz / 1.18 L",
         "handle": "stanley-1913-the-quencher-protour-flip-straw-tumbler-40-oz-1-18-lblack-2-0",
         "in_stock": true
-      },
-      "10576292643082": {
-        "title": "G-SHOCK GM-6900CMG-3ER",
-        "handle": "g-shock-gm-6900cmg-3er-gold",
-        "in_stock": true
-      },
-      "10576291365130": {
-        "title": "The North Face NEVER STOP TOTE",
-        "handle": "the-north-face-never-stop-tote-garnet",
-        "in_stock": true
-      },
-      "10576291234058": {
-        "title": "The North Face NEVER STOP TOTE",
-        "handle": "the-north-face-never-stop-tote-tnf-black",
-        "in_stock": true
-      },
-      "10576280977674": {
-        "title": "Stanley 1913 The Flowstate Spring Bottle 0.59L / 20oz",
-        "handle": "stanley-1913-the-flowstate-spring-bottle-0-59l-20ozblack-2-0",
-        "in_stock": true
-      },
-      "10576273277194": {
-        "title": "Nike Book 2 'Tigers'",
-        "handle": "nike-book-2-midnight-navy-midnight-navy-white",
-        "in_stock": true
-      },
-      "10576047538442": {
-        "title": "Axel Arigato Dice Lo",
-        "handle": "axel-arigato-dice-lo-tan-light-beige",
-        "in_stock": true
-      },
-      "10576047472906": {
-        "title": "Clarks Originals WMNS Wallabee",
-        "handle": "clarks-originals-wmns-wallabee-black-sde",
-        "in_stock": true
-      },
-      "10576047210762": {
-        "title": "Axel Arigato Clean 90 Split",
-        "handle": "axel-arigato-clean-90-split-black-off-white",
-        "in_stock": true
-      },
-      "10576046850314": {
-        "title": "Axel Arigato Dice Lo",
-        "handle": "axel-arigato-dice-lo-beige-light-beige",
-        "in_stock": true
-      },
-      "10576046457098": {
-        "title": "Axel Arigato Dice T-Toe",
-        "handle": "axel-arigato-dice-t-toe-black-dark-grey",
-        "in_stock": true
-      },
-      "10575926722826": {
-        "title": "Clarks Originals WMNS Wallabee",
-        "handle": "clarks-originals-wmns-wallabee-cola-suede",
-        "in_stock": true
-      },
-      "10575892873482": {
-        "title": "Clarks Originals WMNS Wallabee",
-        "handle": "clarks-originals-wmns-wallabee-maple-suede",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -8147,7 +8147,7 @@
       "9107923828941": {
         "title": "Women's Cotton Mini Carabiner Skirt Multicolor",
         "handle": "chopova-lowena-clothing-wmns-cotton-mini-carabiner-skirt-multicolor-j335360",
-        "in_stock": true
+        "in_stock": false
       },
       "9094867091661": {
         "title": "Women's Re-Edition Dots Mesh Top Orange",
@@ -8766,5 +8766,26 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Sunflower Stable Shirt\nhttps://www.asphaltgold.de/products/sunflower-stable-shirt-blackcheck",
+      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Sunflower Mohair Polo\nhttps://www.asphaltgold.de/products/sunflower-mohair-polo-antracite",
+      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike Air Force 1 Low QS *Fuzzy Sunset*\nhttps://www.asphaltgold.de/products/nike-air-force-1-low-qs-fuzzy-sunset-campfire-orange-sunset-white",
+      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Air Jordan WMNS 4 Retro 'Birds of Paradise'\nhttps://www.afew-store.com/products/air-jordan-wmns-4-retro-coconut-milk-muslin-bright-mango",
+      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Force 1 'Fur'\nhttps://www.afew-store.com/products/nike-air-force-1-fur-campfire-orange-sunset-white",
+      "detected_at": "2026-08-13T07:54:00.116603+00:00"
+    }
+  ]
 }
