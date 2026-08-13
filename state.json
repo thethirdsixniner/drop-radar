@@ -2583,7 +2583,7 @@
       "10875314766091": {
         "title": "Adidas\t3-Stripes Ringer Tee",
         "handle": "adidas3stripes-ringer-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10728365129995": {
         "title": "Asics UB12-S GEL-SD Lyte",
@@ -2753,7 +2753,7 @@
       "7366637420708": {
         "title": "New Balance 90/60",
         "handle": "new-balance-u90-60gry-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "9016681234699": {
         "title": "Birkenstock Boston",
@@ -3048,7 +3048,7 @@
       "10216681341195": {
         "title": "Puma x KidSuper Studios Mamelodi Sundowns FC Jersey Replica",
         "handle": "puma-x-kidsuper-studios-mamelodi-sundowns-fc-jersey-replica-intense-lavender",
-        "in_stock": true
+        "in_stock": false
       },
       "10170794770699": {
         "title": "Metalwood Madras Patch Explorer Shirt",
@@ -6302,7 +6302,7 @@
         "in_stock": false
       },
       "10591402033418": {
-        "title": "adidas Originals x SFTM BANDANA",
+        "title": "adidas Originals x Song for the Mute BANDANA",
         "handle": "adidas-originals-x-sftm-bandana-crewht-mysred-black",
         "in_stock": false
       },
@@ -7590,7 +7590,7 @@
         "in_stock": true
       },
       "9125869322445": {
-        "title": "Men's Ebisu & Seagull Print T-shirt Ecru",
+        "title": "Men's Ebisu & Seagull Print T-Shirt Ecru",
         "handle": "evisu-clothing-ej-vintage-seagull-s-s-tee-purple-j353043",
         "in_stock": true
       },
@@ -8766,38 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP OG Detroit Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-detroit-jacket-black-black-stone-washed",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 21000 Replicated Longsleeve Shirt Light Blue\nhttps://www.slamjam.com/products/gr10k-clothing-21000-replicated-l-s-shirt-blue-j349020",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 21000 Replicated Longsleeve Shirt Small Check Navy\nhttps://www.slamjam.com/products/gr10k-clothing-21000-replicated-l-s-shirt-seasonal-multicolor-j349058",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 10005 Replicated Pleated Pants Black\nhttps://www.slamjam.com/products/gr10k-clothing-10005-replicated-pleated-pants-black-j349049",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 35000 Replicated Hoodie Phantom Black\nhttps://www.slamjam.com/products/gr10k-clothing-35000-replicated-hoodie-sweatshirt-black-j349025",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 30001 Replicated Polo Sweatshirt Blue Navy\nhttps://www.slamjam.com/products/gr10k-clothing-30001-replicated-polo-sweatshirt-blue-j349027",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 30001 Replicated Polo Sweatshirt Phantom Black\nhttps://www.slamjam.com/products/gr10k-clothing-30001-replicated-polo-sweatshirt-black-j349028",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Mos Boots Black\nhttps://www.slamjam.com/products/gr10k-footwear-mos-boot-black-j355080",
-      "detected_at": "2026-08-13T10:37:19.472843+00:00"
-    }
-  ]
+  "pending_free": []
 }
