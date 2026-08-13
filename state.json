@@ -4237,11 +4237,6 @@
         "handle": "womens-fear-of-god-essentials-signature-classic-hoodie-concrete-heather",
         "in_stock": true
       },
-      "9072881139900": {
-        "title": "Timberland Textured Premium 6\" Lace Up Boot - Medium Beige Full Grain",
-        "handle": "timberland-textured-premium-6-lace-up-boot-medium-beige-full-grain",
-        "in_stock": false
-      },
       "9286282903740": {
         "title": "Pleasures Forever Track Pants - Navy",
         "handle": "pleasures-forever-track-pants-navy",
@@ -5005,6 +5000,11 @@
       "8698691977404": {
         "title": "Oakley Chaminade - Matte Transparent Lilac/Prizm Indigo",
         "handle": "oakley-chaminade-matte-transparent-lilac-prizm-indigo",
+        "in_stock": true
+      },
+      "8698690732220": {
+        "title": "Oakley Belleville - Matte Transparent Viridian/Prizm Jade",
+        "handle": "oakley-belleville-matte-transparent-viridian-prizm-jade",
         "in_stock": true
       }
     },
@@ -8507,7 +8507,7 @@
       "9113871712461": {
         "title": "Coated Slim Low-Waist Denim Pants Black",
         "handle": "racer-worldwide-clothing-coated-slim-denim-black-j356275",
-        "in_stock": true
+        "in_stock": false
       },
       "9124299571405": {
         "title": "Men's Club Rules French Terry Crewneck Sweatshirt Black",
@@ -8768,8 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Chaminade - Matte Transparent Lilac/Prizm Indigo\nhttps://sneakerpolitics.com/products/oakley-chaminade-matte-transparent-lilac-prizm-indigo",
-      "detected_at": "2026-08-13T02:38:19.630520+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley Belleville - Matte Transparent Viridian/Prizm Jade\nhttps://sneakerpolitics.com/products/oakley-belleville-matte-transparent-viridian-prizm-jade",
+      "detected_at": "2026-08-13T04:30:34.077288+00:00"
     }
   ]
 }
