@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286655316096": {
+        "title": "New Balance 1890A - Dark Night / Candied Violet",
+        "handle": "nwbu18905jk",
+        "in_stock": true
+      },
       "8286655283328": {
         "title": "Maison Margiela WMNS Replica Soft Laced Ballet - Blush",
         "handle": "s58ws0297p7790t4110",
@@ -477,7 +482,7 @@
         "in_stock": true
       },
       "8286642307200": {
-        "title": "Emanuele Bicocchi Rose Cross Earring - Silver",
+        "title": "Emanuele Bicocchi Rose Stud Earring - Silver",
         "handle": "emarsfce3",
         "in_stock": true
       },
@@ -1245,23 +1250,33 @@
         "title": "&Kin Pony Hair Cassius Moto Jacket - Underground",
         "handle": "khma010108-3073",
         "in_stock": true
-      },
-      "8286632116352": {
-        "title": "&Kin Reversible Double Face Williams V Hoodie - Nocturnal",
-        "handle": "khma030141-413",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702688534789": {
+        "title": "NIKE SB ZOOM BLAZER MID - COASTAL BLUE/ PALE YELLOW",
+        "handle": "nike-sb-zoom-blazer-mid-coastal-blue-pale-yellow",
+        "in_stock": true
+      },
+      "6702688502021": {
+        "title": "NIKE SB ZOOM NYJAH 4 - COOL GREY/ WHITE",
+        "handle": "nike-sb-zoom-nyjah-4-cool-grey-white",
+        "in_stock": true
+      },
+      "6702685159685": {
+        "title": "JORDAN AJ 17 LOW SP - BLACK/ METALLIC SILVER",
+        "handle": "jordan-aj-17-low-sp-black-metallic-silver",
+        "in_stock": true
+      },
       "6702646788357": {
         "title": "VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - OATMEAL",
         "handle": "vans-premium-old-skool-36-souvenir-oatmeal",
-        "in_stock": true
+        "in_stock": false
       },
       "6702646755589": {
         "title": "VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - BLACK",
         "handle": "vans-premium-old-skool-36-souvenir-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702689517829": {
         "title": "JORDAN X UNION X FRAGMENT LS JERSEY - BLACK",
@@ -2487,24 +2502,39 @@
         "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CASTLE",
         "handle": "undefeated-x-converse-weapon-mid-vintagewhite-castle",
         "in_stock": true
-      },
-      "6683770421509": {
-        "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CHIVE",
-        "handle": "undefeated-x-converse-weapon-mid-vintagewhite-chive",
-        "in_stock": true
-      },
-      "4621997834313": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 HI - BLACK/ IMPERIALBLUE",
-        "handle": "converse-x-undefeated-chuck-70-hi-black-imperialblue",
-        "in_stock": true
-      },
-      "6610752307273": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET",
-        "handle": "converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11018980819211": {
+        "title": "Timberland Stone Street Mid",
+        "handle": "timberland-stone-street-mid-dark-brown",
+        "in_stock": true
+      },
+      "11018625483019": {
+        "title": "The North Face Offtrail Ultra",
+        "handle": "the-north-face-offtrail-ultra-papaya-canal-blue",
+        "in_stock": true
+      },
+      "11018616897803": {
+        "title": "Salomon X-Alp Leather",
+        "handle": "salomon-xalp-leather-cloudburst-paloma-black",
+        "in_stock": true
+      },
+      "11018603823371": {
+        "title": "Clarks Originals Walla Yukoner",
+        "handle": "clarks-originals-walla-yukoner-black-combi",
+        "in_stock": true
+      },
+      "11018600546571": {
+        "title": "Clarks Originals Wallabee Boot",
+        "handle": "clarks-originals-wallabee-boot-brown-interest",
+        "in_stock": true
+      },
+      "11017685762315": {
+        "title": "Birkenstock Highwood",
+        "handle": "birkenstock-highwood-dark-tea",
+        "in_stock": true
+      },
       "11012708270347": {
         "title": "Adidas x Song for the Mute Adizero Evo SL *Woven*",
         "handle": "adidas-x-song-for-the-mute-adizero-evo-sl-woven-dove-grey-grey-two-grey-six",
@@ -3724,39 +3754,14 @@
         "title": "47 MLB New York Yankees *Base Runner* Cap",
         "handle": "47-mlb-new-york-yankees-base-runner-cap-navy",
         "in_stock": true
-      },
-      "8228383916299": {
-        "title": "47 MLB New York Yankees *Clean Up* Cap",
-        "handle": "47-mlb-new-york-yankees-clean-up-cap-dark-maroon",
-        "in_stock": true
-      },
-      "8187462713611": {
-        "title": "47 MLB New York Yankees *Base Runner* Cap",
-        "handle": "47-mlb-new-york-yankees-base-runner-cap-brown",
-        "in_stock": true
-      },
-      "11014047695115": {
-        "title": "47 MLB Boston Red Sox *Clean Up* Cap (Navy)",
-        "handle": "47-mlb-boston-red-sox-clean-up-cap-navy",
-        "in_stock": true
-      },
-      "11014053363979": {
-        "title": "47 MLB Los Angeles Dodgers *Clean Up* Cap (Vintage Navy)",
-        "handle": "47-mlb-los-angeles-dodgers-clean-up-cap-vintage-navy-1",
-        "in_stock": true
-      },
-      "11014083182859": {
-        "title": "47 MLB New York Yankees *Trawler Clean Up* Cap (Moss)",
-        "handle": "47-mlb-new-york-yankees-trawler-clean-up-cap-moss",
-        "in_stock": true
-      },
-      "11014086852875": {
-        "title": "47 MLB New York Yankees *Trawler Clean Up* Cap (Brown)",
-        "handle": "47-mlb-new-york-yankees-trawler-clean-up-cap-brown",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9151030001852": {
+        "title": "Crocs Classic EXP - Deep Olive/Gum",
+        "handle": "crocs-classic-exp-deep-olive-gum",
+        "in_stock": true
+      },
       "9283115319484": {
         "title": "Nike Air Max 90 'Wave' - Cool Grey/Infrared 23",
         "handle": "nike-air-max-90-wave-cool-grey-infrared-23",
@@ -5001,11 +5006,6 @@
         "title": "Oakley Belleville - Matte Transparent Viridian/Prizm Jade",
         "handle": "oakley-belleville-matte-transparent-viridian-prizm-jade",
         "in_stock": true
-      },
-      "8698689192124": {
-        "title": "Oakley Chaminade - Moon Dust/Prizm 24K Polarized",
-        "handle": "oakley-chaminade-moon-dust-prizm-24k-polarized",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5662,7 +5662,7 @@
       "15034694861176": {
         "title": "On Cloudvista 2 'Black Black'",
         "handle": "on-cloudvista-2-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "15034694467960": {
         "title": "On Cloudsurfer Next 'Glacier Glacier'",
@@ -6261,25 +6261,85 @@
       }
     },
     "https://www.afew-store.com": {
+      "10591787680010": {
+        "title": "UGG LOWMEL",
+        "handle": "ugg-lowmel-black",
+        "in_stock": false
+      },
+      "10591766970634": {
+        "title": "Nike ACG Tee",
+        "handle": "nike-acg-dk-smoke-grey",
+        "in_stock": false
+      },
+      "10591755927818": {
+        "title": "Nike ACG pant 'High Stakes'",
+        "handle": "nike-acg-black-summit-white",
+        "in_stock": false
+      },
+      "10591752716554": {
+        "title": "Carhartt WIP OG Santa Fe Jacket",
+        "handle": "carhartt-wip-og-santa-fe-jacket-wip-h-brown-tobacco",
+        "in_stock": false
+      },
+      "10591737250058": {
+        "title": "Carhartt WIP OG Cargo Pant",
+        "handle": "carhartt-wip-og-cargo-pant-cypress",
+        "in_stock": true
+      },
+      "10591735644426": {
+        "title": "Carhartt WIP OG Cargo Pant",
+        "handle": "carhartt-wip-og-cargo-pant-black",
+        "in_stock": true
+      },
+      "10591721488650": {
+        "title": "Obey LOVE IS BRUTAL T-Shirt",
+        "handle": "obey-love-is-brutal-vintage-white",
+        "in_stock": true
+      },
+      "10591720571146": {
+        "title": "Obey LUCKY CAT T-Shirt",
+        "handle": "obey-lucky-cat-red",
+        "in_stock": true
+      },
+      "10591719391498": {
+        "title": "Obey FLORES ROBUS T-Shirt",
+        "handle": "obey-flores-robus-black",
+        "in_stock": true
+      },
+      "10591717884170": {
+        "title": "Obey VHS T-Shirt",
+        "handle": "obey-vhs-black",
+        "in_stock": true
+      },
+      "10591711166730": {
+        "title": "Obey QUARTER EYE ICON T-Shirt",
+        "handle": "obey-quarter-eye-icon-sand",
+        "in_stock": true
+      },
+      "10591707595018": {
+        "title": "Obey ENJOY THE RIDE T-Shirt",
+        "handle": "obey-enjoy-the-ride-heather-grey",
+        "in_stock": true
+      },
       "10591666340106": {
         "title": "Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L",
         "handle": "stanley-1913-the-iceflow-flip-straw-2-0-tumbler-0-89-l-30-ozcoffee",
-        "in_stock": false
+        "in_stock": true
       },
       "10591655330058": {
         "title": "adidas Originals adizero Evo SL",
         "handle": "adidas-originals-adizero-evo-sl-cblack-carbon-whitin",
-        "in_stock": false
+        "in_stock": true
       },
       "10591652053258": {
         "title": "Lacoste BERET",
         "handle": "lacoste-beret-navy-blue",
-        "in_stock": false
+        "in_stock": true
       },
       "10591651823882": {
         "title": "Lacoste BERET",
         "handle": "lacoste-beret-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10591648645386": {
         "title": "adidas Originals X SONG FOR THE MUTE RUNNING CREW SOCK 1PP",
@@ -6951,11 +7011,6 @@
         "handle": "stanley-1913-the-flowstate-spring-bottle-20-oz-0-59-lblack-2-0",
         "in_stock": true
       },
-      "10580237353226": {
-        "title": "adidas Originals x Paris Basketball FIREBIRD Track Top",
-        "handle": "adidas-originals-x-paris-basketball-firebird-track-top-black",
-        "in_stock": true
-      },
       "10580229423370": {
         "title": "New Balance 740",
         "handle": "new-balance-740-streamsong-black",
@@ -7455,65 +7510,15 @@
         "title": "Nike Shox TL",
         "handle": "nike-shox-tl-light-silver-light-silver-newsprint",
         "in_stock": true
-      },
-      "10576858218762": {
-        "title": "Nike Air Max Moto 2K",
-        "handle": "nike-air-max-moto-2k-geyser-grey-thunder-blue-wolf-grey",
-        "in_stock": true
-      },
-      "10576858153226": {
-        "title": "Nike Shox TL SE",
-        "handle": "nike-shox-tl-se-black-black-black",
-        "in_stock": true
-      },
-      "10576858120458": {
-        "title": "Nike Shox TL SE",
-        "handle": "nike-shox-tl-se-flat-pewter-flat-pewter-black",
-        "in_stock": true
-      },
-      "10576858087690": {
-        "title": "Nike Shox TL SE",
-        "handle": "nike-shox-tl-se-cacao-wow-cacao-wow-black",
-        "in_stock": true
-      },
-      "10576858054922": {
-        "title": "Nike WMNS Air Max Moto 2K",
-        "handle": "nike-wmns-air-max-moto-2k-off-white-bleached-lilac-metallic-silver",
-        "in_stock": true
-      },
-      "10576858022154": {
-        "title": "Nike WMNS AIR FORCE 1 '07",
-        "handle": "nike-wmns-air-force-1-07-black-metallic-silver-wolf-grey",
-        "in_stock": true
-      },
-      "10576641458442": {
-        "title": "Hoka One One WMNS TRANSPORT 2",
-        "handle": "hoka-one-one-wmns-transport-2-black-alabaster",
-        "in_stock": true
-      },
-      "10576640835850": {
-        "title": "Hoka One One WMNS TRANSPORT 2",
-        "handle": "hoka-one-one-wmns-transport-2-glimmering-blue-glimmering-blue",
-        "in_stock": true
-      },
-      "10576640246026": {
-        "title": "Hoka One One TRANSPORT 2",
-        "handle": "hoka-one-one-transport-2-black-alabaster",
-        "in_stock": true
-      },
-      "10576630087946": {
-        "title": "Asics GEL-DS TRAINER 14",
-        "handle": "asics-gel-ds-trainer-14-light-sage-cream",
-        "in_stock": true
-      },
-      "10576628941066": {
-        "title": "Timberland Heritage Clog",
-        "handle": "timberland-hrtg-clog-shoe-wheat-nubuck",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9104742711501": {
+        "title": "Cingino Boots Black",
+        "handle": "roa-footwear-cingino-black-j330169",
+        "in_stock": true
+      },
       "9125870502093": {
         "title": "Men's 21000 Replicated Longsleeve Shirt Light Blue",
         "handle": "gr10k-clothing-21000-replicated-l-s-shirt-blue-j349020",
@@ -8758,30 +8763,109 @@
         "title": "LTTT GEL-Resolution 5 Sneakers White / Red",
         "handle": "asics-footwear-gel-resolution-5-white-j359704",
         "in_stock": true
-      },
-      "9123988406477": {
-        "title": "LTTT GEL-Resolution 5 Sneakers Parrot Green / Pure Silver",
-        "handle": "asics-footwear-gel-resolution-5-green-j359703",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - OATMEAL\nhttps://undefeated.com/products/vans-premium-old-skool-36-souvenir-oatmeal",
-      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance 1890A - Dark Night / Candied Violet\nhttps://kith.com/products/nwbu18905jk",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM OLD SKOOL 36 'SOUVENIR' - BLACK\nhttps://undefeated.com/products/vans-premium-old-skool-36-souvenir-black",
-      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE SB ZOOM BLAZER MID - COASTAL BLUE/ PALE YELLOW\nhttps://undefeated.com/products/nike-sb-zoom-blazer-mid-coastal-blue-pale-yellow",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Sporty & Rich NY Motion T-Shirt\nhttps://www.asphaltgold.de/products/sporty-rich-ny-motion-tshirt-heather-gray",
-      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE SB ZOOM NYJAH 4 - COOL GREY/ WHITE\nhttps://undefeated.com/products/nike-sb-zoom-nyjah-4-cool-grey-white",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley Chaminade - Moon Dust/Prizm 24K Polarized\nhttps://sneakerpolitics.com/products/oakley-chaminade-moon-dust-prizm-24k-polarized",
-      "detected_at": "2026-08-13T12:27:44.471360+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 17 LOW SP - BLACK/ METALLIC SILVER\nhttps://undefeated.com/products/jordan-aj-17-low-sp-black-metallic-silver",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Timberland Stone Street Mid\nhttps://www.asphaltgold.de/products/timberland-stone-street-mid-dark-brown",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: The North Face Offtrail Ultra\nhttps://www.asphaltgold.de/products/the-north-face-offtrail-ultra-papaya-canal-blue",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Salomon X-Alp Leather\nhttps://www.asphaltgold.de/products/salomon-xalp-leather-cloudburst-paloma-black",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Clarks Originals Walla Yukoner\nhttps://www.asphaltgold.de/products/clarks-originals-walla-yukoner-black-combi",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Clarks Originals Wallabee Boot\nhttps://www.asphaltgold.de/products/clarks-originals-wallabee-boot-brown-interest",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Birkenstock Highwood\nhttps://www.asphaltgold.de/products/birkenstock-highwood-dark-tea",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Crocs Classic EXP - Deep Olive/Gum\nhttps://sneakerpolitics.com/products/crocs-classic-exp-deep-olive-gum",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: On Cloudvista 2 'Black Black'\nhttps://www.kickgame.co.uk/products/on-cloudvista-2-black-black",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Cargo Pant\nhttps://www.afew-store.com/products/carhartt-wip-og-cargo-pant-cypress",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Cargo Pant\nhttps://www.afew-store.com/products/carhartt-wip-og-cargo-pant-black",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Obey LOVE IS BRUTAL T-Shirt\nhttps://www.afew-store.com/products/obey-love-is-brutal-vintage-white",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Obey LUCKY CAT T-Shirt\nhttps://www.afew-store.com/products/obey-lucky-cat-red",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Obey FLORES ROBUS T-Shirt\nhttps://www.afew-store.com/products/obey-flores-robus-black",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Obey VHS T-Shirt\nhttps://www.afew-store.com/products/obey-vhs-black",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Obey QUARTER EYE ICON T-Shirt\nhttps://www.afew-store.com/products/obey-quarter-eye-icon-sand",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Obey ENJOY THE RIDE T-Shirt\nhttps://www.afew-store.com/products/obey-enjoy-the-ride-heather-grey",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L\nhttps://www.afew-store.com/products/stanley-1913-the-iceflow-flip-straw-2-0-tumbler-0-89-l-30-ozcoffee",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals adizero Evo SL\nhttps://www.afew-store.com/products/adidas-originals-adizero-evo-sl-cblack-carbon-whitin",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Lacoste BERET\nhttps://www.afew-store.com/products/lacoste-beret-navy-blue",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Lacoste BERET\nhttps://www.afew-store.com/products/lacoste-beret-black",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Cingino Boots Black\nhttps://www.slamjam.com/products/roa-footwear-cingino-black-j330169",
+      "detected_at": "2026-08-13T14:01:20.602505+00:00"
     }
   ]
 }
