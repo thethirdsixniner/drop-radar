@@ -1256,7 +1256,7 @@
       "6702688928005": {
         "title": "NIKE ZOOM HYPERFLIGHT SLAM - STARFISH/WHITE-SMOKE GREY / BLACK",
         "handle": "nike-zoom-hyperflight-slam-starfish-white-smoke-grey-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702687224069": {
         "title": "NIKE AIR FORCE 1 '07 LX - SESAME/WHITE-HEMP / NATURAL",
@@ -3922,11 +3922,6 @@
         "handle": "billionaire-boys-club-members-hoodie-strawberry-cream",
         "in_stock": true
       },
-      "9324775112892": {
-        "title": "Asics Gel-1130 - Glacier Grey/Pure Silver",
-        "handle": "asics-gel-1130-glacier-grey-pure-silver",
-        "in_stock": false
-      },
       "9369314754748": {
         "title": "Billionaire Boys Club Skypack SS Tee - Gardenia",
         "handle": "billionaire-boys-club-skypack-ss-tee-gardenia",
@@ -5005,6 +5000,11 @@
       "9354227581116": {
         "title": "Nike Dunk Low (TD) - Midnight Navy/Speed Red",
         "handle": "nike-dunk-low-td-midnight-navy-speed-red",
+        "in_stock": true
+      },
+      "9354216931516": {
+        "title": "Nike Dunk Low (GS) - Midnight Navy/Speed Red",
+        "handle": "nike-dunk-low-gs-midnight-navy-speed-red",
         "in_stock": true
       }
     },
@@ -8774,6 +8774,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Jordan Spizike Low - Black/Gym Red\nhttps://sneakerpolitics.com/products/jordan-spizike-low-black-gym-red-1",
       "detected_at": "2026-08-14T19:37:38.521735+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (GS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-gs-midnight-navy-speed-red",
+      "detected_at": "2026-08-14T20:15:41.199218+00:00"
     }
   ]
 }
