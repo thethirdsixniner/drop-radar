@@ -2505,6 +2505,21 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11018741416203": {
+        "title": "Vans Classic Slip-On 98 LX",
+        "handle": "vans-classic-slipon-camo",
+        "in_stock": true
+      },
+      "11018753310987": {
+        "title": "Vans Premium Authentic 44 LX *Combat*",
+        "handle": "vans-premium-authentic-44-lx-combat-field-black",
+        "in_stock": true
+      },
+      "11016358396171": {
+        "title": "Nike Air Max Goadome Low QS *Polkadot*",
+        "handle": "nike-air-max-goadome-low-qs-polkadot-light-orewood-brown-black",
+        "in_stock": false
+      },
       "11017721610507": {
         "title": "Polo Ralph Lauren Logo Rugby Sweater",
         "handle": "polo-ralph-lauren-logo-rugby-sweater-polo-black",
@@ -3738,21 +3753,6 @@
       "10852749279499": {
         "title": "Adidas\tBaggy Track Pants",
         "handle": "adidasbaggy-track-pants-black-white",
-        "in_stock": true
-      },
-      "10839892099339": {
-        "title": "Levi's 537 Western Bootcut Jeans",
-        "handle": "levis-537-western-bootcut-jeans-back-inthe-saddle",
-        "in_stock": true
-      },
-      "10661940658443": {
-        "title": "Birkenstock London Shearling",
-        "handle": "birkenstock-london-shearling-taupe",
-        "in_stock": true
-      },
-      "8993765359883": {
-        "title": "New Balance T500",
-        "handle": "new-balance-t500aa",
         "in_stock": true
       }
     },
@@ -5009,6 +5009,41 @@
       }
     },
     "https://www.kickgame.co.uk": {
+      "15047304184184": {
+        "title": "On Cloudmonster 1 Wmns 'Lavender Urchin'",
+        "handle": "on-cloudmonster-1-wmns-lavender-urchin",
+        "in_stock": false
+      },
+      "15047303201144": {
+        "title": "On Cloudtilt Wmns 'Heron Dew'",
+        "handle": "on-cloudtilt-wmns-heron-dew",
+        "in_stock": false
+      },
+      "15047302414712": {
+        "title": "On Cloudtilt Wmns 'Pearl Ice'",
+        "handle": "on-cloudtilt-wmns-pearl-ice",
+        "in_stock": false
+      },
+      "15047302250872": {
+        "title": "On Cloudvista 3 'Black Black'",
+        "handle": "on-cloudvista-3-black-black",
+        "in_stock": false
+      },
+      "15047301759352": {
+        "title": "On Cloudmonster Void 'Eclipse Black'",
+        "handle": "on-cloudmonster-void-eclipse-black",
+        "in_stock": false
+      },
+      "15047301103992": {
+        "title": "On Cloudmonster 1 'Black'",
+        "handle": "on-cloudmonster-1-black",
+        "in_stock": false
+      },
+      "15047300809080": {
+        "title": "On Performance Run Sock High 'White Glacier'",
+        "handle": "on-performance-run-sock-high-white-glacier",
+        "in_stock": false
+      },
       "15045530354040": {
         "title": "Saucony Progrid Omni 9 Chrome 'Debonair Silver'",
         "handle": "saucony-progrid-omni-9-chrome-debonair-silver-1",
@@ -6223,53 +6258,18 @@
         "title": "PLAYERS ONLY NAVY NY TEE",
         "handle": "navy-ny-tee",
         "in_stock": true
-      },
-      "15029174468984": {
-        "title": "Air Jordan 4 Retro OG SP A Ma Maniére While You Were Sleeping W",
-        "handle": "air-jordan-4-retro-og-sp-a-ma-maniere-while-you-were-sleeping-w",
-        "in_stock": false
-      },
-      "15029174370680": {
-        "title": "Off-White x Air Jordan 4 SP 'Sail' W",
-        "handle": "off-white-x-air-jordan-4-sp-sail-w",
-        "in_stock": false
-      },
-      "15029174337912": {
-        "title": "Jordan Air Jordan 4 Retro Rare Air GS",
-        "handle": "jordan-air-jordan-4-retro-rare-air-gs",
-        "in_stock": false
-      },
-      "15029174305144": {
-        "title": "Jordan 1 Retro Low Golf Travis Scott Neutral Olive",
-        "handle": "jordan-1-retro-low-golf-travis-scott-neutral-olive",
-        "in_stock": false
-      },
-      "15029174239608": {
-        "title": "Nike Mac Attack QS SP Travis Scott Cactus Jack",
-        "handle": "nike-mac-attack-qs-sp-travis-scott-cactus-jack",
-        "in_stock": false
-      },
-      "15029174206840": {
-        "title": "Jordan Jumpman Jack TR Travis Scott Dark Mocha",
-        "handle": "jordan-jumpman-jack-tr-travis-scott-dark-mocha",
-        "in_stock": false
-      },
-      "15029174174072": {
-        "title": "Travis Scott x Air Jordan 1 Low OG SP 'Black Phantom'",
-        "handle": "travis-scott-x-air-jordan-1-low-og-sp-black-phantom",
-        "in_stock": false
       }
     },
     "https://www.afew-store.com": {
       "10592524075274": {
         "title": "UGG TASMAN FLEX",
         "handle": "ugg-tasman-flex-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10592523976970": {
         "title": "UGG TASMAN FLEX",
         "handle": "ugg-tasman-flex-chestnut",
-        "in_stock": false
+        "in_stock": true
       },
       "10592516309258": {
         "title": "The Mercer Brand The Re-Run Classics",
@@ -8768,136 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Logo Rugby Sweater\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-logo-rugby-sweater-polo-black",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Vans Classic Slip-On 98 LX\nhttps://www.asphaltgold.de/products/vans-classic-slipon-camo",
+      "detected_at": "2026-08-14T11:20:17.306853+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Era MLB San Diego Padres Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-san-diego-padres-washed-contrast-9twenty-cap-denim-brown-gold",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Vans Premium Authentic 44 LX *Combat*\nhttps://www.asphaltgold.de/products/vans-premium-authentic-44-lx-combat-field-black",
+      "detected_at": "2026-08-14T11:20:17.306853+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Relaxed Fit Wool-Cotton Jumper\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-relaxed-fit-woolcotton-jumper-andover-cream",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
+      "message": "🔥 **Restock** at Afew Store: UGG TASMAN FLEX\nhttps://www.afew-store.com/products/ugg-tasman-flex-black",
+      "detected_at": "2026-08-14T11:20:17.306853+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Off-Race Socks\nhttps://www.asphaltgold.de/products/pas-normal-studios-offrace-socks-black",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Off-Race Heavy Knit Beanie\nhttps://www.asphaltgold.de/products/pas-normal-studios-offrace-heavy-knit-beanie-dark-lime",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Off-Race T-Shirt\nhttps://www.asphaltgold.de/products/pas-normal-studios-offrace-tshirt-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios\tLogo Merino Knit Beanie\nhttps://www.asphaltgold.de/products/pas-normal-studioslogo-merino-knit-beanie-earth",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Off-Race Pile Fleece Vest\nhttps://www.asphaltgold.de/products/pas-normal-studios-offrace-pile-fleece-vest-deep-olive",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios Off-Race Cap\nhttps://www.asphaltgold.de/products/pas-normal-studios-offrace-cap-wood",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios\tOff-Race Seersucker Shirt\nhttps://www.asphaltgold.de/products/pas-normal-studiosoffrace-seersucker-shirt-dark-navy",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Pas Normal Studios\tOff-Race Boiled Wool Half-Zip\nhttps://www.asphaltgold.de/products/pas-normal-studiosoffrace-boiled-wool-halfzip-steel",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association City of Water Tee\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-city-of-water-tee-caviar",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Worked Logo Longsleeve\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-worked-logo-longsleeve-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Worked Logo Hoodie\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-worked-logo-hoodie-black",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Flatknit Jersey\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-flatknit-jersey-off-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Bad Bunny DTMF Heavyweight Merch Tee *Paris*\nhttps://www.asphaltgold.de/products/adidasx-bad-bunny-dtmf-heavyweight-merch-tee-paris-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tSkull Beanie\nhttps://www.asphaltgold.de/products/adidasskull-beanie-grey-two",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Z.N.E. Track Pant\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-zne-track-pant-amazon-green-off-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Z.N.E. Track Pant\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-zne-track-pant-collegiate-navy-dust-cargo",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Z.N.E. Full-Zip Track Top\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-zne-fullzip-track-top-collegiate-navy-dust-cargo",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Arte Antwerp Z.N.E. Full-Zip Track Top\nhttps://www.asphaltgold.de/products/adidasx-arte-antwerp-zne-fullzip-track-top-amazon-green-off-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Polo Sport Knit Rugby Pullover\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-polo-sport-knit-rugby-pullover-purple-lilac-multi",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Jason Markk Complete Clean Kit\nhttps://www.asphaltgold.de/products/jason-markk-complete-clean-kit",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Jason Markk Quick Wipes 12 Pack\nhttps://www.asphaltgold.de/products/jason-markk-quick-wipes-12-pack-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Jason Markk Refresh Spray Fragrance Free\nhttps://www.asphaltgold.de/products/jason-markk-refresh-spray-fragrance-free-fragrance-free",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Jason Markk Repel Spray Refill Pouch\nhttps://www.asphaltgold.de/products/jason-markk-repel-spray-refill-pouch-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Magazine Script T-Shirt\nhttps://www.asphaltgold.de/products/carhartt-wip-magazine-script-tshirt-white-black",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP 1989 Winners T-Shirt\nhttps://www.asphaltgold.de/products/carhartt-wip-1989-winners-tshirt-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: The Mercer Brand The Re-Run Classics\nhttps://www.afew-store.com/products/the-mercer-brand-the-re-run-classics-off-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: The Mercer Brand The Re-Run Americana\nhttps://www.afew-store.com/products/the-mercer-brand-the-re-run-americana-navy",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: The Mercer Brand The Re-Run Americana\nhttps://www.afew-store.com/products/the-mercer-brand-the-re-run-americana-off-white",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: The Mercer Brand The Re-Run Americana\nhttps://www.afew-store.com/products/the-mercer-brand-the-re-run-americana-brown",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: adidas Originals BW ARMY\nhttps://www.afew-store.com/products/cblack-cblack-cblack",
-      "detected_at": "2026-08-14T10:17:32.684154+00:00"
+      "message": "🔥 **Restock** at Afew Store: UGG TASMAN FLEX\nhttps://www.afew-store.com/products/ugg-tasman-flex-chestnut",
+      "detected_at": "2026-08-14T11:20:17.306853+00:00"
     }
   ]
 }
