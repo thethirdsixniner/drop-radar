@@ -2505,6 +2505,56 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11016275198219": {
+        "title": "Carhartt WIP American Script T-Shirt",
+        "handle": "carhartt-wip-american-script-tshirt-raven",
+        "in_stock": true
+      },
+      "11015423721739": {
+        "title": "Nike\tMiler Dri-Fit 1/2-Zip Running Top",
+        "handle": "nikemiler-drifit-12zip-running-top-smoke-grey-reflective-silver",
+        "in_stock": true
+      },
+      "11015459438859": {
+        "title": "Nike\tMiler Dri-Fit Tights",
+        "handle": "nikemiler-drifit-tights-black",
+        "in_stock": true
+      },
+      "11015439548683": {
+        "title": "Nike\tJordan Golf Performance Polo",
+        "handle": "nikejordan-golf-performance-polo-black-black",
+        "in_stock": true
+      },
+      "11008883163403": {
+        "title": "New Balance Quilted Vest",
+        "handle": "new-balance-quilted-vest-bark",
+        "in_stock": true
+      },
+      "11011850731787": {
+        "title": "Adidas x Song for the Mute SFTM Track Top",
+        "handle": "adidas-x-song-for-the-mute-sftm-track-top-aurora-coffee",
+        "in_stock": false
+      },
+      "11015068287243": {
+        "title": "Puma x SAYSKY Wmns Ultraweave Short Sleeve",
+        "handle": "puma-x-saysky-wmns-ultraweave-short-sleeve-ultra-purple",
+        "in_stock": false
+      },
+      "11015078641931": {
+        "title": "Puma x SAYSKY Ultraweave Short Sleeve",
+        "handle": "puma-x-saysky-ultraweave-short-sleeve-cobalt-glaze",
+        "in_stock": false
+      },
+      "11015044563211": {
+        "title": "Puma x SAYSKY Ultraweave 5 Panel Cap",
+        "handle": "puma-x-saysky-ultraweave-5-panel-cap-ultra-purple-cobalt-glaze-puma-white",
+        "in_stock": false
+      },
+      "11015045710091": {
+        "title": "Puma x SAYSKY Ultraweave 5 Panel Cap",
+        "handle": "puma-x-saysky-ultraweave-5-panel-cap-cobalt-glaze-lavender-alert-puma-white",
+        "in_stock": false
+      },
       "10991527723275": {
         "title": "Adidas x Hartcopy BW Army Decon",
         "handle": "adidas-x-hartcopy-bw-army-decon-halo-gold-halo-gold-gum-3",
@@ -3193,7 +3243,7 @@
       "10725788582155": {
         "title": "Metalwood Seersucker Fishing Shirt",
         "handle": "metalwood-seersucker-fishing-shirt-sky",
-        "in_stock": true
+        "in_stock": false
       },
       "10855850246411": {
         "title": "Sporty & Rich Yankees Curve T-Shirt",
@@ -3333,7 +3383,7 @@
       "10174347608331": {
         "title": "Metalwood Textured Caddie Shirt",
         "handle": "metalwood-textured-caddie-shirt-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10760575516939": {
         "title": "AMI Paris Embossed Ami De Coeur Hoodie",
@@ -3703,56 +3753,6 @@
       "10840356651275": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-earth-strata-wonder-white-gum",
-        "in_stock": true
-      },
-      "10867287785739": {
-        "title": "Arte Antwerp Heart Logo Cap",
-        "handle": "arte-antwerp-heart-logo-cap-blue",
-        "in_stock": true
-      },
-      "10587433304331": {
-        "title": "Adidas Montreal RM",
-        "handle": "adidas-montreal-rm-core-black-footwear-white-gum-5",
-        "in_stock": true
-      },
-      "10821183308043": {
-        "title": "Adidas EQT Agravic",
-        "handle": "adidas-eqt-agravic-core-black-iron-metallic-solar-orange",
-        "in_stock": true
-      },
-      "8408616272139": {
-        "title": "Salomon XT-6 GTX",
-        "handle": "salomon-xt-6-gtx-black-black-footwear-silver",
-        "in_stock": true
-      },
-      "10857953263883": {
-        "title": "Asics GEL-1130",
-        "handle": "asics-gel1130m-black-pure-silver",
-        "in_stock": true
-      },
-      "10189019119883": {
-        "title": "Adidas Taekwondo W",
-        "handle": "adidas-taekwondo-w-collegiate-green-off-white-gum-3",
-        "in_stock": true
-      },
-      "10860644368651": {
-        "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
-        "handle": "autry-reelwind-low-nylon-cracked-leather-white-pelican",
-        "in_stock": true
-      },
-      "10792238350603": {
-        "title": "Autry Medalist W *Blooming*",
-        "handle": "autry-medalist-w-blooming",
-        "in_stock": true
-      },
-      "10539549851915": {
-        "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
-        "handle": "autry-reelwind-low-nylon-cracked-leather-white-brnsug",
-        "in_stock": true
-      },
-      "9763738517771": {
-        "title": "Wales Bonner Cadence",
-        "handle": "wales-bonner-cadence-light-pastel-brown",
         "in_stock": true
       }
     },
@@ -8768,16 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Slam Jam: Men's Mineral Dyed Hooded Jacket Military Green\nhttps://www.slamjam.com/products/stone-island-clothing-jacket-green-j362204",
-      "detected_at": "2026-08-14T07:51:29.134936+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP American Script T-Shirt\nhttps://www.asphaltgold.de/products/carhartt-wip-american-script-tshirt-raven",
+      "detected_at": "2026-08-14T09:10:19.433525+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Men's Embroidered Patchwork Jacket Multicolor\nhttps://www.slamjam.com/products/dries-van-noten-clothing-vernons-emb-4434-mwjacket-desa-multicolor-j363818",
-      "detected_at": "2026-08-14T07:51:29.134936+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tMiler Dri-Fit 1/2-Zip Running Top\nhttps://www.asphaltgold.de/products/nikemiler-drifit-12zip-running-top-smoke-grey-reflective-silver",
+      "detected_at": "2026-08-14T09:10:19.433525+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black\nhttps://www.slamjam.com/products/adidas-footwear-hellstar-megaride-s-white-j362348",
-      "detected_at": "2026-08-14T07:51:29.134936+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tMiler Dri-Fit Tights\nhttps://www.asphaltgold.de/products/nikemiler-drifit-tights-black",
+      "detected_at": "2026-08-14T09:10:19.433525+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tJordan Golf Performance Polo\nhttps://www.asphaltgold.de/products/nikejordan-golf-performance-polo-black-black",
+      "detected_at": "2026-08-14T09:10:19.433525+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance Quilted Vest\nhttps://www.asphaltgold.de/products/new-balance-quilted-vest-bark",
+      "detected_at": "2026-08-14T09:10:19.433525+00:00"
     }
   ]
 }
