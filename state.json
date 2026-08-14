@@ -1253,6 +1253,26 @@
       }
     },
     "https://undefeated.com": {
+      "6702689059077": {
+        "title": "VANS PREMIUM ERA 95 'RELIC PACK' -  BLACK",
+        "handle": "vans-premium-era-95-relic-pack-black",
+        "in_stock": true
+      },
+      "6702688993541": {
+        "title": "VANS PREMIUM ERA 95 'RELIC PACK' -  CHECKERBOARD",
+        "handle": "vans-premium-era-95-relic-pack-checkerboard",
+        "in_stock": true
+      },
+      "6702647968005": {
+        "title": "ASICS X VANDY THE PINK GEL-KAYANO 12.1 - ANTIQUE WHITE",
+        "handle": "asics-x-vandy-the-pink-gel-kayano-12-1-antique-white",
+        "in_stock": false
+      },
+      "6702689026309": {
+        "title": "SHAI 001 OX - BERRY SHADY",
+        "handle": "shai-001-ox-berry-shady",
+        "in_stock": true
+      },
       "6702447919365": {
         "title": "UNDEFEATED X CONVERSE X BK DODGERS CHUCK 70 HI - BLACK/ EGRET",
         "handle": "undefeated-x-converse-x-bk-dodgers-chuck-70-hi-black-egret",
@@ -2482,26 +2502,6 @@
         "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CASTLE",
         "handle": "undefeated-x-converse-weapon-mid-vintagewhite-castle",
         "in_stock": true
-      },
-      "6683770421509": {
-        "title": "UNDEFEATED X CONVERSE WEAPON MID - VINTAGEWHITE/ CHIVE",
-        "handle": "undefeated-x-converse-weapon-mid-vintagewhite-chive",
-        "in_stock": true
-      },
-      "4621997834313": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 HI - BLACK/ IMPERIALBLUE",
-        "handle": "converse-x-undefeated-chuck-70-hi-black-imperialblue",
-        "in_stock": true
-      },
-      "6610752307273": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - AMBERGREEN/ SEMOLINA/ EGRET",
-        "handle": "converse-x-undefeated-chuck-70-mid-ambergreen-semolina-egret",
-        "in_stock": true
-      },
-      "6610752372809": {
-        "title": "CONVERSE X UNDEFEATED CHUCK 70 MID - SEASPRAY/ FOSSIL/ EGRET",
-        "handle": "converse-x-undefeated-chuck-70-mid-seaspray-fossil-egret",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2763,7 +2763,7 @@
       "10860642533643": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10534365167883": {
         "title": "Autry Reelwind Low",
@@ -3073,7 +3073,7 @@
       "10567412023563": {
         "title": "Adidas Gazelle Indoor W",
         "handle": "adidas-gazelle-indoor-w-sand-strata-preloved-brown-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10273548992779": {
         "title": "Adidas Gazelle Indoor",
@@ -3638,7 +3638,7 @@
       "10803976044811": {
         "title": "Carhartt WIP Supa Beanie",
         "handle": "carhartt-wip-supa-beanie-lokers",
-        "in_stock": true
+        "in_stock": false
       },
       "11012095770891": {
         "title": "Nike ACG *Solar Chase* Dri-FIT ADV Trail Running Top",
@@ -5009,6 +5009,21 @@
       }
     },
     "https://www.kickgame.co.uk": {
+      "15047305167224": {
+        "title": "On Cloudmonster Void Wmns 'Ghost Pearl'",
+        "handle": "on-cloudmonster-void-wmns-ghost-pearl",
+        "in_stock": false
+      },
+      "15047304806776": {
+        "title": "On Cloudmonster Void Wmns 'White White'",
+        "handle": "on-cloudmonster-void-wmns-white-white",
+        "in_stock": false
+      },
+      "15047304446328": {
+        "title": "Cloudmonster 1 Wmns 'Cinder Iceberg'",
+        "handle": "cloudmonster-1-wmns-cinder-iceberg",
+        "in_stock": false
+      },
       "15047304184184": {
         "title": "On Cloudmonster 1 Wmns 'Lavender Urchin'",
         "handle": "on-cloudmonster-1-wmns-lavender-urchin",
@@ -6242,21 +6257,6 @@
       "15029240267128": {
         "title": "PLAYERS ONLY ECRU NY LONG SLEEVE",
         "handle": "ecru-ny-long-sleeve",
-        "in_stock": true
-      },
-      "15029240136056": {
-        "title": "PLAYERS ONLY ECRU CAMO PRINT ATHLETIC DEPT LONG SLEEVE",
-        "handle": "ecru-camo-print-athletic-dept-long-sleeve",
-        "in_stock": true
-      },
-      "15029240103288": {
-        "title": "PLAYERS ONLY BLACK JERSEY ZIP HOODIE",
-        "handle": "black-jersey-zip-hoodie",
-        "in_stock": true
-      },
-      "15029240070520": {
-        "title": "PLAYERS ONLY NAVY NY TEE",
-        "handle": "navy-ny-tee",
         "in_stock": true
       }
     },
@@ -7912,7 +7912,7 @@
       "9125602623693": {
         "title": "Men's Mineral Dyed Hooded Jacket Military Green",
         "handle": "stone-island-clothing-jacket-green-j362204",
-        "in_stock": true
+        "in_stock": false
       },
       "9125527945421": {
         "title": "MAFC Issue N1 Rat Cover",
@@ -8768,20 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Vans Classic Slip-On 98 LX\nhttps://www.asphaltgold.de/products/vans-classic-slipon-camo",
-      "detected_at": "2026-08-14T11:20:17.306853+00:00"
+      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM ERA 95 'RELIC PACK' -  BLACK\nhttps://undefeated.com/products/vans-premium-era-95-relic-pack-black",
+      "detected_at": "2026-08-14T12:09:35.447927+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Vans Premium Authentic 44 LX *Combat*\nhttps://www.asphaltgold.de/products/vans-premium-authentic-44-lx-combat-field-black",
-      "detected_at": "2026-08-14T11:20:17.306853+00:00"
+      "message": "🆕 **New drop** at Undefeated: VANS PREMIUM ERA 95 'RELIC PACK' -  CHECKERBOARD\nhttps://undefeated.com/products/vans-premium-era-95-relic-pack-checkerboard",
+      "detected_at": "2026-08-14T12:09:35.447927+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: UGG TASMAN FLEX\nhttps://www.afew-store.com/products/ugg-tasman-flex-black",
-      "detected_at": "2026-08-14T11:20:17.306853+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: UGG TASMAN FLEX\nhttps://www.afew-store.com/products/ugg-tasman-flex-chestnut",
-      "detected_at": "2026-08-14T11:20:17.306853+00:00"
+      "message": "🆕 **New drop** at Undefeated: SHAI 001 OX - BERRY SHADY\nhttps://undefeated.com/products/shai-001-ox-berry-shady",
+      "detected_at": "2026-08-14T12:09:35.447927+00:00"
     }
   ]
 }
