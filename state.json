@@ -2505,6 +2505,16 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "10991527723275": {
+        "title": "Adidas x Hartcopy BW Army Decon",
+        "handle": "adidas-x-hartcopy-bw-army-decon-halo-gold-halo-gold-gum-3",
+        "in_stock": false
+      },
+      "11015177175307": {
+        "title": "Adidas x Hartcopy BW Army Decon",
+        "handle": "adidas-x-hartcopy-bw-army-decon-crystal-white-grey-one-gum-3",
+        "in_stock": false
+      },
       "10823777157387": {
         "title": "Adidas LA Trainer OG",
         "handle": "adidas-la-trainer-og-off-white-dark-marine-crystal-white",
@@ -2843,7 +2853,7 @@
       "10666576642315": {
         "title": "Asics JOG 100S",
         "handle": "asics-jog-100s-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10603255365899": {
         "title": "Adidas Japan W",
@@ -3303,7 +3313,7 @@
       "10839097508107": {
         "title": "New Amsterdam Surf Association Work Trousers",
         "handle": "new-amsterdam-surf-association-work-trousers-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10793631842571": {
         "title": "Adidas x Wales Bonner Knit Vest",
@@ -3744,16 +3754,6 @@
         "title": "Wales Bonner Cadence",
         "handle": "wales-bonner-cadence-light-pastel-brown",
         "in_stock": true
-      },
-      "8771608346891": {
-        "title": "Unifrom Cannabloom - Perfume Oil 10ml",
-        "handle": "unifrom-cannabloom-perfume-oil-10ml",
-        "in_stock": true
-      },
-      "11015406125323": {
-        "title": "Puma Deviate Nitro 4",
-        "handle": "puma-deviate-nitro-4-chocolate-brown-purple-charcoal",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -4000,7 +4000,7 @@
       "9131810390204": {
         "title": "Air Jordan 1 Low SE - Anthracite/Sail",
         "handle": "air-jordan-1-low-se-anthracite-sail",
-        "in_stock": true
+        "in_stock": false
       },
       "9294210662588": {
         "title": "Air Jordan 4 Retro 'Toro Bravo' - Fire Red/White",
@@ -4255,7 +4255,7 @@
       "9078787473596": {
         "title": "Fucking Awesome Gun Baby Soft Foam Trucker Hat - Washed Camo",
         "handle": "fucking-awesome-gun-baby-soft-foam-trucker-hat-washed-camo",
-        "in_stock": true
+        "in_stock": false
       },
       "9354147692732": {
         "title": "PEACEMINUSONE x Korea x Nike Cryoshot CTR 360 - Natural/University Red",
@@ -7514,6 +7514,36 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9125913952461": {
+        "title": "Men's Free The Youth Football Jersey Top Black / Light Crimson",
+        "handle": "nike-jordan-clothing-m-j-fty-bball-jersey-black-j368489",
+        "in_stock": false
+      },
+      "9125913755853": {
+        "title": "Men's Free The Youth Short Black / Light Crimson",
+        "handle": "nike-jordan-clothing-m-j-fty-short-black-j368491",
+        "in_stock": false
+      },
+      "9125913788621": {
+        "title": "Men's Free The Youth Track Pants Black / Light Crimson",
+        "handle": "nike-jordan-clothing-m-j-fty-track-pant-black-j368493",
+        "in_stock": false
+      },
+      "9125913821389": {
+        "title": "Men's Free The Youth Football Jersey T-Shirt Orange / Yellow / Black / Green",
+        "handle": "nike-jordan-clothing-m-j-fty-ftbl-jersey-white-j368490",
+        "in_stock": false
+      },
+      "9125913723085": {
+        "title": "Free The Youth Scarf Orange / Yellow / Black",
+        "handle": "nike-jordan-accessories-m-j-fty-scarf-white-j368488",
+        "in_stock": false
+      },
+      "9125913854157": {
+        "title": "Men's Free The Youth Track Jacket Black",
+        "handle": "nike-jordan-clothing-m-j-fty-track-jkt-black-j368492",
+        "in_stock": false
+      },
       "9125878038733": {
         "title": "Men's IBQ Rampage Pullover Top Black",
         "handle": "gr10k-clothing-ibq-rampage-pullover-top-black-j355305",
@@ -7882,7 +7912,7 @@
       "9125602623693": {
         "title": "Men's Mineral Dyed Hooded Jacket Military Green",
         "handle": "stone-island-clothing-jacket-green-j362204",
-        "in_stock": false
+        "in_stock": true
       },
       "9125527945421": {
         "title": "MAFC Issue N1 Rat Cover",
@@ -8292,7 +8322,7 @@
       "9125188305101": {
         "title": "Men's Embroidered Patchwork Jacket Multicolor",
         "handle": "dries-van-noten-clothing-vernons-emb-4434-mwjacket-desa-multicolor-j363818",
-        "in_stock": false
+        "in_stock": true
       },
       "9125188239565": {
         "title": "Men's Layered Wool Sweater Bordeaux",
@@ -8427,7 +8457,7 @@
       "9124916592845": {
         "title": "Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black",
         "handle": "adidas-footwear-hellstar-megaride-s-white-j362348",
-        "in_stock": false
+        "in_stock": true
       },
       "9124916527309": {
         "title": "Willy Chavarria Megaride AG Sneakers Clear Pink / Power Red",
@@ -8733,47 +8763,21 @@
         "title": "Men's 'Your Message Here' Denim Shorts Blue Denim",
         "handle": "nike-clothing-m-nk-ymh-indigo-denim-shorts-blue-j364316",
         "in_stock": true
-      },
-      "9124054335693": {
-        "title": "Men's Club Rules Sun Pants Summit White / Light Orewood Brown",
-        "handle": "nike-clothing-m-nk-club-rules-sun-pant-aop-white-j364311",
-        "in_stock": true
-      },
-      "9124054401229": {
-        "title": "Men's Jordan Flight Essentials Pocket T-Shirt Black",
-        "handle": "nike-jordan-clothing-m-j-flt-es-85-w-pkt-ss-crw-black-j364293",
-        "in_stock": true
-      },
-      "9123987521741": {
-        "title": "Black Hole Duffel 40L Black",
-        "handle": "patagonia-accessories-black-hole-duffel-40l-black-j362236",
-        "in_stock": true
-      },
-      "9123991191757": {
-        "title": "Women's Moon Shoe Sneakers Italy Blue / White",
-        "handle": "nike-footwear-wmns-nike-moon-racer-blue-j368312",
-        "in_stock": true
-      },
-      "9112093622477": {
-        "title": "Men's Dri-FIT 3in Brief-Lined Running Shorts Medium Ash",
-        "handle": "nike-clothing-nike-inline-disrupt-mens-dri-fit-3-brief-lined-running-shorts-brown-j352189",
-        "in_stock": false
-      },
-      "9108125384909": {
-        "title": "Men's MothTech Muscle Tee Faded Black",
-        "handle": "satisfy-clothing-mothtech-muscle-tee-black-j355996",
-        "in_stock": false
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Nike Air Force 1 '07 LV8 'Beef & Broccoli' - Black Spruce/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-beef-broccoli-black-spruce-black",
-      "detected_at": "2026-08-14T06:01:41.777761+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Mineral Dyed Hooded Jacket Military Green\nhttps://www.slamjam.com/products/stone-island-clothing-jacket-green-j362204",
+      "detected_at": "2026-08-14T07:51:29.134936+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro Premium - Sail/Light Bone\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-premium-sail-light-bone",
-      "detected_at": "2026-08-14T06:01:41.777761+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Embroidered Patchwork Jacket Multicolor\nhttps://www.slamjam.com/products/dries-van-noten-clothing-vernons-emb-4434-mwjacket-desa-multicolor-j363818",
+      "detected_at": "2026-08-14T07:51:29.134936+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black\nhttps://www.slamjam.com/products/adidas-footwear-hellstar-megaride-s-white-j362348",
+      "detected_at": "2026-08-14T07:51:29.134936+00:00"
     }
   ]
 }
