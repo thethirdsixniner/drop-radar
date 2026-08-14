@@ -199,7 +199,7 @@
       "8286649712768": {
         "title": "Kith for BMW Microsuede Classic Cap - Black",
         "handle": "khma050100-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286649647232": {
         "title": "Kith for BMW Pack of 4 Microfiber Towels - Black",
@@ -249,7 +249,7 @@
       "8286650204288": {
         "title": "Kith for BMW Umbrella - Sandrift",
         "handle": "khla150116-104",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650138752": {
         "title": "Kith for BMW Mug - Cinnabar",
@@ -289,7 +289,7 @@
       "8286650630272": {
         "title": "Kith for BMW Ansel Quarter Zip Sweater - Desert",
         "handle": "khma030188-219",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650859648": {
         "title": "Kith for BMW 3-Pack Crew Socks - Multi",
@@ -1621,7 +1621,7 @@
       "6700450152709": {
         "title": "UNDEFEATED REGIONAL STENCIL SNAPBACK - SF - BLACK",
         "handle": "undefeated-regional-stencil-snapback-sf-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6700450087173": {
         "title": "UNDEFEATED QUILTED BLANKET",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9502522671292": {
+        "title": "Politics Alt Script Hitch Hat - Desert",
+        "handle": "politics-alt-script-hitch-hat-desert",
+        "in_stock": true
+      },
       "8981536047292": {
         "title": "Nike Dunk Low (TD) - Black/Platinum Tint",
         "handle": "nike-dunk-low-td-black-platinum-tint",
@@ -3810,7 +3815,7 @@
       "9364511981756": {
         "title": "Vans OTW Era 95 DST 'Relic' - Checkerboard",
         "handle": "vans-otw-era-95-dst-relic-checkerboard",
-        "in_stock": true
+        "in_stock": false
       },
       "9364502610108": {
         "title": "Vans OTW Era 95 DST 'Relic' - Navy/Red",
@@ -4025,7 +4030,7 @@
       "9354311631036": {
         "title": "Nike Dunk Low (PS) - Midnight Navy/Speed Red",
         "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
-        "in_stock": false
+        "in_stock": true
       },
       "9356867535036": {
         "title": "Willy Chavarria x Adidas Soccer Tee - Off White",
@@ -5000,11 +5005,6 @@
       "9354216931516": {
         "title": "Nike Dunk Low (GS) - Midnight Navy/Speed Red",
         "handle": "nike-dunk-low-gs-midnight-navy-speed-red",
-        "in_stock": true
-      },
-      "9349912658108": {
-        "title": "Women's Nike Air Force 1 '07 'Floral' - Pink Rise/Pink Rise",
-        "handle": "womens-nike-air-force-1-07-floral-pink-rise-pink-rise",
         "in_stock": true
       }
     },
@@ -8768,464 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: MADE-TO-ORDER | Kith & Yellowpop for BMW Fast Logo Neon Sign - Multi\nhttps://kith.com/products/ypkith-bmw",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Alt Script Hitch Hat - Desert\nhttps://sneakerpolitics.com/products/politics-alt-script-hitch-hat-desert",
+      "detected_at": "2026-08-14T18:33:52.338652+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith & RACEMARK for BMW X5 Floor Mats - Black\nhttps://kith.com/products/khla150265",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Gwynn Pinch Crown Cap - Black\nhttps://kith.com/products/khma050173-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Catchall Tray - Techno Violet\nhttps://kith.com/products/khla150092-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & AVIREX for BMW Leather Jacket - Multi\nhttps://kith.com/products/44kif261o73-964",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Eckhart Jacket - Sunglow\nhttps://kith.com/products/khma010138-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M Nelson Hoodie - Techno Violet\nhttps://kith.com/products/khmg030050-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Jacquard Towel - Sunglow\nhttps://kith.com/products/khla270070-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Cigar Case - Sunglow\nhttps://kith.com/products/khla340071-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for BMW Franchise LS Cap - Sunglow\nhttps://kith.com/products/khma050104-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Souvenir Moto Jacket - Sunglow\nhttps://kith.com/products/khma010132-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Mug - Sunglow\nhttps://kith.com/products/khla150096-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Jacquard Towel - Techno Violet\nhttps://kith.com/products/khla270070-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Silk Bandana - Sunglow\nhttps://kith.com/products/khma130076-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Motor Racer Sunglasses - Sunglow\nhttps://kith.com/products/khma120071-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Catchall Tray - Sunglow\nhttps://kith.com/products/khla150092-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Garment Bag - Sunglow\nhttps://kith.com/products/khma040094-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW CSi 3.0 Cardholder - Sunglow\nhttps://kith.com/products/khma340085-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW License Plate Holder - Black\nhttps://kith.com/products/khla150099-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Sheep Suede Drivers Cap - Black\nhttps://kith.com/products/khma050094-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Jacquard Towel - Cinnabar\nhttps://kith.com/products/khla270070-616",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Sheep Suede Drivers Cap - Oxford\nhttps://kith.com/products/khma050094-224",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Jacquard Towel - Vitality\nhttps://kith.com/products/khla270070-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Teddy Bear - Sunglow\nhttps://kith.com/products/khla270089-859",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & Nalgene for BMW Water Bottle - White\nhttps://kith.com/products/khla150103-101",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Set of 5 Pin Set - Multi\nhttps://kith.com/products/khla310072-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Zip Cardholder - Camel\nhttps://kith.com/products/khma340081-3089",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Zip Cardholder - Black\nhttps://kith.com/products/khma340081-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Small Teddy Bear - Vitality\nhttps://kith.com/products/khla150097-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & Nalgene for BMW Water Bottle - Black\nhttps://kith.com/products/khla150102-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Poker Card Deck - Multi\nhttps://kith.com/products/khla270074-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 1989 E30 M3 Poster - Multi\nhttps://kith.com/products/khla150104-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Teddy Bear - Cinnabar\nhttps://kith.com/products/khla270089-616",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 1602 Elektro Poster - Multi\nhttps://kith.com/products/khla150106-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Microsuede Classic Cap - Black\nhttps://kith.com/products/khma050100-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Pack of 4 Microfiber Towels - Black\nhttps://kith.com/products/khla270071-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Mug - Techno Violet\nhttps://kith.com/products/khla150094-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Pack of 4 Tire Caps - Black\nhttps://kith.com/products/khla150117-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW CSi 3.0 Poster - Multi\nhttps://kith.com/products/khla150120-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Mug - Vitality\nhttps://kith.com/products/khla150095-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Tapestry Blanket - Sandrift\nhttps://kith.com/products/khla180071-104",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 1981 M1 E26 Poster - Multi\nhttps://kith.com/products/khla150105-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Umbrella - Multi\nhttps://kith.com/products/khla150115-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Small Teddy Bear - Techno Violet\nhttps://kith.com/products/khla150097-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Umbrella - Sandrift\nhttps://kith.com/products/khla150116-104",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Mug - Cinnabar\nhttps://kith.com/products/khla150093-616",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Nylon Bay Low Pinch Crown Cap - Black\nhttps://kith.com/products/khma050095-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Set of 4 Car Fresheners - Multi\nhttps://kith.com/products/khla150090-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Porter Knit Varsity Jacket - Black\nhttps://kith.com/products/khma030361-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Suede Driving Gloves - Black\nhttps://kith.com/products/khma020074-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Ansel Quarter Zip Sweater - Desert\nhttps://kith.com/products/khma030188-219",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 3-Pack Crew Socks - Multi\nhttps://kith.com/products/khma220086-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M1 Cardholder - Techno Violet\nhttps://kith.com/products/khma340083-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M1 Racer Brushed Twill Classic Cap - Black\nhttps://kith.com/products/khma050102-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Moto Gloves - Multi\nhttps://kith.com/products/khma020076-906",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for BMW Franchise LS Cap - Black\nhttps://kith.com/products/khma050104-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 1602 Cardholder - Vitality\nhttps://kith.com/products/khma340084-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Garment Bag - Vitality\nhttps://kith.com/products/khma040094-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Two-Tone Brushed Twill BL Pinch Crown Cap - Sandrift\nhttps://kith.com/products/khma050096-104",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Backgammon Board - Camel\nhttps://kith.com/products/khla270075-3089",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Silk Bandana - Vitality\nhttps://kith.com/products/khma130075-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Leather 3-Watch Roll - Camel\nhttps://kith.com/products/khma340088-3089",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Catchall Tray - Cinnabar\nhttps://kith.com/products/khla150092-616",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Leather Overnight Bag - Camel\nhttps://kith.com/products/khma040091-3089",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Leather Travel Garment Duffle Bag - Black\nhttps://kith.com/products/khma040093-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M3 Cardholder - Cinnabar\nhttps://kith.com/products/khma340082-616",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Silk Bandana - Black\nhttps://kith.com/products/khma130074-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Watch Box - Vitality\nhttps://kith.com/products/khma340089-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M1 Racer Brushed Twill Classic Cap - Nocturnal\nhttps://kith.com/products/khma050102-413",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Silk Bandana - Techno Violet\nhttps://kith.com/products/khma130074-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Leather Bay Low Pinch Crown Cap - Black\nhttps://kith.com/products/khma050097-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Suede Driving Gloves - Techno Violet\nhttps://kith.com/products/khma020074-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Podium Brushed Twill Relaxed Trucker Cap - Desert\nhttps://kith.com/products/khma050098-219",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M1 Podium Poly Foam Nolan Trucker Cap - Techno Violet\nhttps://kith.com/products/khma050099-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Crochet Driving Gloves - Vitality\nhttps://kith.com/products/khma020075-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Henry Shirt - Vitality\nhttps://kith.com/products/khma030187-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Quote Vintage Crewneck - Nocturnal\nhttps://kith.com/products/khmg030045-413",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Braxton Track Zip - Cinnabar\nhttps://kith.com/products/khmg030029-616",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Windshirt - Black\nhttps://kith.com/products/khma030365-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Braun Moto Jacket - Black\nhttps://kith.com/products/khma010131-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M3 Tee - Black\nhttps://kith.com/products/khmg030031-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Velvet Damon Track Pant - React\nhttps://kith.com/products/khma060133-185",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Velvet Damon Track Pant - Techno Violet\nhttps://kith.com/products/khma060133-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW CSi 3.0 Chester Jacket - Sandrift\nhttps://kith.com/products/khmg030053-104",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Braxton Track Zip - Vitality\nhttps://kith.com/products/khmg030029-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Nelson Quarter Zip - Techno Violet\nhttps://kith.com/products/khmg030028-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M1 Tee - White\nhttps://kith.com/products/khmg030030-101",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 1602 Photo Tee - White\nhttps://kith.com/products/khmg030037-101",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Hughey Vest - Black\nhttps://kith.com/products/khma010136-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Velvet Rui Track Jacket - Techno Violet\nhttps://kith.com/products/khma010134-599",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M1 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030041-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M3 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030038-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Nelson Quarter Zip - Cinnabar\nhttps://kith.com/products/khmg030028-616",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Velvet Rui Track Jacket - React\nhttps://kith.com/products/khma010134-185",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Braxton Track Zip - Black\nhttps://kith.com/products/khmg030029-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Dewitt Moto Jacket - Black\nhttps://kith.com/products/khma010130-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Checkered Nelson Rugby - Black\nhttps://kith.com/products/khmg030047-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M3 Photo Tee - White\nhttps://kith.com/products/khmg030034-101",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Long Sleeve Tilden Pullover - Black\nhttps://kith.com/products/khma030360-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Nelson Quarter Zip - Black\nhttps://kith.com/products/khmg030028-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW CSi 3.0 Tee - Black\nhttps://kith.com/products/khmg030033-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Nelson Quarter Zip - Vitality\nhttps://kith.com/products/khmg030028-345",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW CSi 3.0 Photo Tee - White\nhttps://kith.com/products/khmg030036-101",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Erwin Track Jacket - Black\nhttps://kith.com/products/khma010133-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M Quote Long Sleeve Tee - Black\nhttps://kith.com/products/khmg030043-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Souvenir Moto Jacket - Concrete\nhttps://kith.com/products/khma010132-005",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 1602 Schematic Pocket Tee - Sandrift\nhttps://kith.com/products/khmg030039-104",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW Eckhart Jacket - Black\nhttps://kith.com/products/khma010138-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW 1602 Tee - Sandrift\nhttps://kith.com/products/khmg030032-104",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW CSi 3.0 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030040-001",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for BMW M1 Photo Tee - White\nhttps://kith.com/products/khmg030035-101",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Undefeated: JORDAN AJ 17 LOW SP - BLACK/ METALLIC SILVER\nhttps://undefeated.com/products/jordan-aj-17-low-sp-black-metallic-silver",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (TD) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-td-midnight-navy-speed-red",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (GS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-gs-midnight-navy-speed-red",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Floral' - Pink Rise/Pink Rise\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-floral-pink-rise-pink-rise",
-      "detected_at": "2026-08-14T17:39:07.679708+00:00"
+      "message": "🔥 **Restock** at Sneaker Politics: Nike Dunk Low (PS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-ps-midnight-navy-speed-red",
+      "detected_at": "2026-08-14T18:33:52.338652+00:00"
     }
   ]
 }
