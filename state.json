@@ -3243,7 +3243,7 @@
       "8565820162315": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-maroon-crew-white-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "9016681234699": {
         "title": "Birkenstock Boston",
@@ -3463,7 +3463,7 @@
       "8876357648651": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-footwear-white-core-black-footwear-white",
-        "in_stock": true
+        "in_stock": false
       },
       "7169211400356": {
         "title": "Salomon XT-6",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Undefeated: NIKE ZOOM HYPERFLIGHT SLAM - STARFISH/WHITE-SMOKE GREY / BLACK\nhttps://undefeated.com/products/nike-zoom-hyperflight-slam-starfish-white-smoke-grey-black",
-      "detected_at": "2026-08-15T08:32:37.547622+00:00"
-    }
-  ]
+  "pending_free": []
 }
