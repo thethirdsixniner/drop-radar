@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9502888919228": {
+        "title": "Nike Kobe 10 Protro 'Halo' - White/Multi",
+        "handle": "nike-kobe-10-protro-halo-white-multi-1",
+        "in_stock": false
+      },
       "9097356673212": {
         "title": "Vans LX Old Skool 36 'Souvenir' - Faded Black",
         "handle": "vans-lx-old-skool-36-souvenir-faded-black",
@@ -3780,7 +3785,7 @@
       "9294145585340": {
         "title": "Jordan 4 Retro 'Toro Bravo' (PS) - Fire Red/White",
         "handle": "jordan-4-retro-toro-bravo-ps-fire-red-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9049874333884": {
         "title": "Jordan Spizike Low - Black/Gym Red",
@@ -5000,11 +5005,6 @@
       "9352456044732": {
         "title": "Nike Dunk Low Retro Premium - Sail/Light Bone",
         "handle": "nike-dunk-low-retro-premium-sail-light-bone",
-        "in_stock": true
-      },
-      "9346402320572": {
-        "title": "Nike Air Force 1 '07 LV8 - Old Royal/Black",
-        "handle": "nike-air-force-1-07-lv8-old-royal-black",
         "in_stock": true
       }
     },
@@ -8559,11 +8559,6 @@
         "handle": "nike-clothing-m-nk-woven-jacket-fr-black-j356717",
         "in_stock": true
       },
-      "9104983556301": {
-        "title": "Men's Borrowed Shirt Dakota Flannel Check",
-        "handle": "our-legacy-clothing-borrowed-shirt-brown-j337875",
-        "in_stock": false
-      },
       "9094072467661": {
         "title": "Women's Track Pants Black",
         "handle": "johanna-parv-clothing-wmns-track-pants-black-j324646",
@@ -8763,13 +8758,18 @@
         "title": "Women's Karola Tall Boots Black",
         "handle": "miista-footwear-wmns-karola-black-tall-boots-black-j363022",
         "in_stock": true
+      },
+      "9124298457293": {
+        "title": "Women's Kristel Tall Boots Brown",
+        "handle": "miista-footwear-wmns-kristel-brown-tall-boots-brown-j363020",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Old Skool 36 'Souvenir' - Faded Black\nhttps://sneakerpolitics.com/products/vans-lx-old-skool-36-souvenir-faded-black",
-      "detected_at": "2026-08-15T01:44:53.039637+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Kristel Tall Boots Brown\nhttps://www.slamjam.com/products/miista-footwear-wmns-kristel-brown-tall-boots-brown-j363020",
+      "detected_at": "2026-08-15T02:39:25.094722+00:00"
     }
   ]
 }
