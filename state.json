@@ -1331,7 +1331,7 @@
       "6702691254533": {
         "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'NY YANKEES' - WHEAT",
         "handle": "timberland-x-mlb-new-era-fitted-5950-ny-yankees-wheat",
-        "in_stock": true
+        "in_stock": false
       },
       "6702691188997": {
         "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'NY METS' - WHEAT",
@@ -4592,11 +4592,6 @@
         "handle": "jordan-spizike-low-gs-black-university-red",
         "in_stock": true
       },
-      "9389803176124": {
-        "title": "Oakley MUZM Fatcat - Matte Black/Prizm Grey",
-        "handle": "oakley-muzm-fatcat-matte-black-prizm-grey",
-        "in_stock": false
-      },
       "9389798359228": {
         "title": "Oakley MUZM Fatcat - Cream/Prizm 24K Polarized",
         "handle": "oakley-muzm-fatcat-cream-prizm-24k-polarized",
@@ -5005,6 +5000,11 @@
       "9352456044732": {
         "title": "Nike Dunk Low Retro Premium - Sail/Light Bone",
         "handle": "nike-dunk-low-retro-premium-sail-light-bone",
+        "in_stock": true
+      },
+      "9346402320572": {
+        "title": "Nike Air Force 1 '07 LV8 - Old Royal/Black",
+        "handle": "nike-air-force-1-07-lv8-old-royal-black",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 - Old Royal/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-old-royal-black",
+      "detected_at": "2026-08-15T17:22:43.775387+00:00"
+    }
+  ]
 }
