@@ -1,6 +1,61 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286665539712": {
+        "title": "Timberland x New Era Heritage Premium 6-Inch New York Yankees Waterproof Boot - Wheat",
+        "handle": "tb0a2j7taor1",
+        "in_stock": true
+      },
+      "8286665408640": {
+        "title": "Timberland x New Era Heritage Premium 6-Inch New York Mets Waterproof Boot - Wheat",
+        "handle": "tb0a2j7taov1",
+        "in_stock": true
+      },
+      "8286665474176": {
+        "title": "Timberland x New Era Heritage Premium 6-Inch Los Angeles Dodgers Waterproof Boot - Wheat",
+        "handle": "tb0a2j7taot1",
+        "in_stock": true
+      },
+      "8286665441408": {
+        "title": "Timberland x New Era Heritage Premium 6-Inch Houston Astros Waterproof Boot - Wheat",
+        "handle": "tb0a2j7taow1",
+        "in_stock": true
+      },
+      "8286665343104": {
+        "title": "Timberland x New Era Heritage Premium 6-Inch Chicago White Sox Waterproof Boot - Wheat",
+        "handle": "tb0a2j7taox1",
+        "in_stock": true
+      },
+      "8286665605248": {
+        "title": "Timberland x New Era Heritage Premium 6-Inch Boston Red Sox Waterproof Boot - Wheat",
+        "handle": "tb0a2j7taoq1",
+        "in_stock": true
+      },
+      "8286665375872": {
+        "title": "Timberland x New Era Heritage Premium 6-Inch Atlanta Braves Waterproof Boot - Wheat",
+        "handle": "tb0a2j7taoy1",
+        "in_stock": true
+      },
+      "8286665572480": {
+        "title": "Nike Kobe 5 Protro - Rush Blue / Wolf Gray / Comet Red",
+        "handle": "nkio6256-400",
+        "in_stock": false
+      },
+      "8286665212032": {
+        "title": "Nike GS Kobe 5 Protro - Rush Blue / Wolf Gray / Comet Red",
+        "handle": "nkir1848-400",
+        "in_stock": true
+      },
+      "8286665310336": {
+        "title": "Jordan WMNS Air Jordan 3 Retro - Obsidian / Track Red",
+        "handle": "jbck9246-400",
+        "in_stock": true
+      },
+      "8286665277568": {
+        "title": "Jordan TD Jordan 3 Retro - Obsidian / Track Red / Chalk",
+        "handle": "jbhq0782-400",
+        "in_stock": true
+      },
       "8286665113728": {
         "title": "PUMA WMNS Speedcat Wedge Lustre - PUMA Silver / Vapor Gray",
         "handle": "pu408366-01",
@@ -1195,64 +1250,34 @@
         "title": "Dr. Martens WMNS Temara Polished Smooth Leather Loafers - Black",
         "handle": "drm41359001",
         "in_stock": true
-      },
-      "8286645944448": {
-        "title": "Femme LA Sicilian Slipper - Limoncello",
-        "handle": "fesicilian-lim",
-        "in_stock": true
-      },
-      "8286645911680": {
-        "title": "On Running WMNS Cloudsoma Moc - Acacia",
-        "handle": "onr3wg30376024",
-        "in_stock": true
-      },
-      "8286645878912": {
-        "title": "On Running WMNS Cloudsoma Moc - Black",
-        "handle": "onr3wg30371043",
-        "in_stock": true
-      },
-      "8286645846144": {
-        "title": "Femme LA Rio Thong Slipper - Noir",
-        "handle": "ferio-blk",
-        "in_stock": true
-      },
-      "8286645813376": {
-        "title": "Nike Zoom Skylon 11 - Black / Anthracite / Black",
-        "handle": "nkiu1869-002",
-        "in_stock": true
-      },
-      "8286645780608": {
-        "title": "Paris Texas Lidia Mule - Tortoise",
-        "handle": "ptpx836-xptvn-tort",
-        "in_stock": true
-      },
-      "8286625824896": {
-        "title": "Nike Blazy - White / Sail",
-        "handle": "nkim2523-100",
-        "in_stock": true
-      },
-      "8286625792128": {
-        "title": "Nike Blazy - Black / Sail / White",
-        "handle": "nkim2523-001",
-        "in_stock": true
-      },
-      "8283010400384": {
-        "title": "Nike Kobe IV Protro - Bicoastal / Black / Metallic Silver",
-        "handle": "nkfq3545-300",
-        "in_stock": false
-      },
-      "8286646763648": {
-        "title": "Birkenstock WMNS Naples Wrapped - Black",
-        "handle": "bir1030813",
-        "in_stock": true
-      },
-      "8286646730880": {
-        "title": "Birkenstock WMNS Naples Wrapped - Taupe",
-        "handle": "bir1029710",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702685421829": {
+        "title": "NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE",
+        "handle": "nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
+        "in_stock": true
+      },
+      "6702685356293": {
+        "title": "NIKE KOBE V PROTRO - HYPERROYAL/ WOLFGREY / WHITE",
+        "handle": "nike-kobe-5-lad-hyper-royal-wolf-grey-white",
+        "in_stock": true
+      },
+      "6702685389061": {
+        "title": "NIKE GS KOBE 5 - HYPER ROYAL/ WOLF GREY / WHITE",
+        "handle": "nike-gs-kobe-5-lad-hyper-royal-wolf-grey-white",
+        "in_stock": true
+      },
+      "6702700265733": {
+        "title": "NIKE YOUTH X KOBE VAPOR FIELDING GLOVE RHT 11.50IN - HYPERROYAL",
+        "handle": "nike-youth-x-kobe-vapor-fielding-glove-rht-11-50in-hyperroyal",
+        "in_stock": true
+      },
+      "6702700298501": {
+        "title": "NIKE X KOBE ALPHA ELITE 2.0 BATTING GLOVE - HYPER ROYAL",
+        "handle": "nike-x-kobe-alpha-elite-2-0-batting-glove-hyper-royal",
+        "in_stock": true
+      },
       "6702691516677": {
         "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'BRAVES' - WHEAT",
         "handle": "timberland-x-mlb-6-premium-boot-braves-wheat",
@@ -1273,16 +1298,6 @@
         "handle": "timberland-x-mlb-6-premium-boot-astros-wheat",
         "in_stock": true
       },
-      "6702691287301": {
-        "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'RED SOX' - WHEAT",
-        "handle": "timberland-x-mlb-new-era-fitted-5950-red-sox-wheat",
-        "in_stock": true
-      },
-      "6702691483909": {
-        "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'WHITE SOX' - WHEAT",
-        "handle": "timberland-x-mlb-new-era-fitted-5950-white-sox-wheat",
-        "in_stock": true
-      },
       "6702691418373": {
         "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'LA DODGERS' - WHEAT",
         "handle": "timberland-x-mlb-6-premium-boot-la-dodgers-wheat",
@@ -1291,6 +1306,16 @@
       "6702661796101": {
         "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'NY METS' - WHEAT",
         "handle": "timberland-x-mlb-6-premium-boot-ny-mets-wheat",
+        "in_stock": true
+      },
+      "6702691287301": {
+        "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'RED SOX' - WHEAT",
+        "handle": "timberland-x-mlb-new-era-fitted-5950-red-sox-wheat",
+        "in_stock": true
+      },
+      "6702691483909": {
+        "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'WHITE SOX' - WHEAT",
+        "handle": "timberland-x-mlb-new-era-fitted-5950-white-sox-wheat",
         "in_stock": true
       },
       "6702691221765": {
@@ -1336,11 +1361,6 @@
       "6702393458949": {
         "title": "ADIDAS BADBO 1.0 OWHITE/ CBLACK/ GUM3",
         "handle": "adidas-badbo-1-0-owhite-cblack-gum3",
-        "in_stock": true
-      },
-      "6702700298501": {
-        "title": "NIKE X KOBE ALPHA ELITE 2.0 BATTING GLOVE - HYPER ROYAL",
-        "handle": "nike-x-kobe-alpha-elite-2-0-batting-glove-hyper-royal",
         "in_stock": true
       },
       "6700763545861": {
@@ -2481,26 +2501,6 @@
       "6702624932101": {
         "title": "NIKE BOOK 2 - MIDNIGHT NAVY/ WHITE",
         "handle": "nike-book-2-midnight-navy-white",
-        "in_stock": true
-      },
-      "6702624604421": {
-        "title": "NEW BALANCE 990v4  'MADE IN USA' - VINTAGE TEAL",
-        "handle": "new-balance-990v4-made-in-usa-vintage-teal",
-        "in_stock": true
-      },
-      "6702623621381": {
-        "title": "NIKE WMNS AIR FORCE 1 '07 - BAROQUE BROWN/ SAIL / SESAME",
-        "handle": "nike-wmns-air-force-1-07-baroque-brown-sail-sesame",
-        "in_stock": true
-      },
-      "6702352138501": {
-        "title": "UNDEFEATED X WBC DOMINICAN REPUBLIC TEE - WHITE",
-        "handle": "undefeated-x-wbc-dominican-republic-tee-white",
-        "in_stock": true
-      },
-      "6702351810821": {
-        "title": "UNDEFEATED X WBC USA CREWNECK - WHITE",
-        "handle": "undefeated-x-wbc-usa-crewneck-white",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,41 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9356471468220": {
+        "title": "Politics x Marucci Barbed Wire Tee - Black",
+        "handle": "politics-x-marucci-barbed-wire-tee-black",
+        "in_stock": true
+      },
+      "9356478841020": {
+        "title": "Politics x Marucci Barbed Wire Hoodie - Black",
+        "handle": "politics-x-marucci-barbed-wire-hoodie-black",
+        "in_stock": true
+      },
+      "9356480708796": {
+        "title": "Politics x Marucci As Usual Tee - Black",
+        "handle": "politics-x-marucci-as-usual-tee-black",
+        "in_stock": true
+      },
+      "9356482740412": {
+        "title": "Politics x Marucci As Usual Hoodie - Black",
+        "handle": "politics-x-marucci-as-usual-hoodie-black",
+        "in_stock": true
+      },
+      "9501553524924": {
+        "title": "Politics x Marucci Capitol Series Custom V2 Glove - Black/Multi",
+        "handle": "politics-x-marucci-capitol-series-custom-v2-glove-black-multi",
+        "in_stock": true
+      },
+      "9501552672956": {
+        "title": "Politics x Marucci Bat - Black/Multi",
+        "handle": "politics-x-marucci-bat-black-multi",
+        "in_stock": true
+      },
+      "9491705888956": {
+        "title": "Politics x Marucci Hat - Black",
+        "handle": "politics-x-marucci-hat-black",
+        "in_stock": true
+      },
       "9502864310460": {
         "title": "Pleasures Sacoche Medium Bag - Black",
         "handle": "pleasures-sacoche-medium-bag-black",
@@ -3770,7 +3805,7 @@
       "9097356673212": {
         "title": "Vans LX Old Skool 36 'Souvenir' - Faded Black",
         "handle": "vans-lx-old-skool-36-souvenir-faded-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9404556148924": {
         "title": "DIOS x Adidas Megaride 01 - Core Black/Night Grey",
@@ -4970,41 +5005,6 @@
       "9457291690172": {
         "title": "Godspeed New York Green Reaper Tee - Bone",
         "handle": "godspeed-new-york-green-reaper-tee-bone",
-        "in_stock": true
-      },
-      "9457282056380": {
-        "title": "Godspeed New York OG Logo Slides V2 - Black",
-        "handle": "godspeed-new-york-og-logo-slides-v2-black",
-        "in_stock": true
-      },
-      "9351495352508": {
-        "title": "Air Jordan 1 Low (GS) - Palomino/Phantom",
-        "handle": "air-jordan-1-low-gs-palomino-phantom",
-        "in_stock": true
-      },
-      "9352456044732": {
-        "title": "Nike Dunk Low Retro Premium - Sail/Light Bone",
-        "handle": "nike-dunk-low-retro-premium-sail-light-bone",
-        "in_stock": true
-      },
-      "9346402320572": {
-        "title": "Nike Air Force 1 '07 LV8 - Old Royal/Black",
-        "handle": "nike-air-force-1-07-lv8-old-royal-black",
-        "in_stock": true
-      },
-      "9373341941948": {
-        "title": "Nike P-6000 - Dark Smoke Grey/Volt",
-        "handle": "nike-p-6000-dark-smoke-grey-volt",
-        "in_stock": true
-      },
-      "9354227581116": {
-        "title": "Nike Dunk Low (TD) - Midnight Navy/Speed Red",
-        "handle": "nike-dunk-low-td-midnight-navy-speed-red",
-        "in_stock": true
-      },
-      "9354216931516": {
-        "title": "Nike Dunk Low (GS) - Midnight Navy/Speed Red",
-        "handle": "nike-dunk-low-gs-midnight-navy-speed-red",
         "in_stock": true
       }
     },
@@ -7204,7 +7204,7 @@
       "10579016188170": {
         "title": "G-Shock x thisisneverthat DW-5600TNT-7",
         "handle": "g-shock-x-thisisneverthat-dw-5600tnt-7-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10578995675402": {
         "title": "Nike ACG 'Tuff Fleece'",
@@ -8766,5 +8766,90 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Kith: Timberland x New Era Heritage Premium 6-Inch New York Yankees Waterproof Boot - Wheat\nhttps://kith.com/products/tb0a2j7taor1",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Timberland x New Era Heritage Premium 6-Inch New York Mets Waterproof Boot - Wheat\nhttps://kith.com/products/tb0a2j7taov1",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Timberland x New Era Heritage Premium 6-Inch Los Angeles Dodgers Waterproof Boot - Wheat\nhttps://kith.com/products/tb0a2j7taot1",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Timberland x New Era Heritage Premium 6-Inch Houston Astros Waterproof Boot - Wheat\nhttps://kith.com/products/tb0a2j7taow1",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Timberland x New Era Heritage Premium 6-Inch Chicago White Sox Waterproof Boot - Wheat\nhttps://kith.com/products/tb0a2j7taox1",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Timberland x New Era Heritage Premium 6-Inch Boston Red Sox Waterproof Boot - Wheat\nhttps://kith.com/products/tb0a2j7taoq1",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Timberland x New Era Heritage Premium 6-Inch Atlanta Braves Waterproof Boot - Wheat\nhttps://kith.com/products/tb0a2j7taoy1",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Nike GS Kobe 5 Protro - Rush Blue / Wolf Gray / Comet Red\nhttps://kith.com/products/nkir1848-400",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan WMNS Air Jordan 3 Retro - Obsidian / Track Red\nhttps://kith.com/products/jbck9246-400",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 3 Retro - Obsidian / Track Red / Chalk\nhttps://kith.com/products/jbhq0782-400",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE\nhttps://undefeated.com/products/nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE KOBE V PROTRO - HYPERROYAL/ WOLFGREY / WHITE\nhttps://undefeated.com/products/nike-kobe-5-lad-hyper-royal-wolf-grey-white",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE GS KOBE 5 - HYPER ROYAL/ WOLF GREY / WHITE\nhttps://undefeated.com/products/nike-gs-kobe-5-lad-hyper-royal-wolf-grey-white",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE YOUTH X KOBE VAPOR FIELDING GLOVE RHT 11.50IN - HYPERROYAL\nhttps://undefeated.com/products/nike-youth-x-kobe-vapor-fielding-glove-rht-11-50in-hyperroyal",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Marucci Barbed Wire Tee - Black\nhttps://sneakerpolitics.com/products/politics-x-marucci-barbed-wire-tee-black",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Marucci Barbed Wire Hoodie - Black\nhttps://sneakerpolitics.com/products/politics-x-marucci-barbed-wire-hoodie-black",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Marucci As Usual Tee - Black\nhttps://sneakerpolitics.com/products/politics-x-marucci-as-usual-tee-black",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Marucci As Usual Hoodie - Black\nhttps://sneakerpolitics.com/products/politics-x-marucci-as-usual-hoodie-black",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Marucci Capitol Series Custom V2 Glove - Black/Multi\nhttps://sneakerpolitics.com/products/politics-x-marucci-capitol-series-custom-v2-glove-black-multi",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Marucci Bat - Black/Multi\nhttps://sneakerpolitics.com/products/politics-x-marucci-bat-black-multi",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Marucci Hat - Black\nhttps://sneakerpolitics.com/products/politics-x-marucci-hat-black",
+      "detected_at": "2026-08-15T14:25:38.785953+00:00"
+    }
+  ]
 }
