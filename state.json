@@ -1266,7 +1266,7 @@
       "6702685389061": {
         "title": "NIKE GS KOBE 5 - HYPER ROYAL/ WOLF GREY / WHITE",
         "handle": "nike-gs-kobe-5-lad-hyper-royal-wolf-grey-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6702700265733": {
         "title": "NIKE YOUTH X KOBE VAPOR FIELDING GLOVE RHT 11.50IN - HYPERROYAL",
@@ -1341,11 +1341,6 @@
       "6702691385605": {
         "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'ASTROS' - WHEAT",
         "handle": "timberland-x-mlb-new-era-fitted-5950-astros-wheat",
-        "in_stock": true
-      },
-      "6702688567557": {
-        "title": "CONVERSE X GOLF LE FLEUR PRO LEATHER OX - WHITE/ MOLTEN LAVA",
-        "handle": "converse-x-golf-le-fleur-pro-leather-ox-white-molten-lava",
         "in_stock": true
       },
       "6702697513221": {
@@ -2502,6 +2497,11 @@
         "title": "NIKE BOOK 2 - MIDNIGHT NAVY/ WHITE",
         "handle": "nike-book-2-midnight-navy-white",
         "in_stock": true
+      },
+      "6702624604421": {
+        "title": "NEW BALANCE 990v4  'MADE IN USA' - VINTAGE TEAL",
+        "handle": "new-balance-990v4-made-in-usa-vintage-teal",
+        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -3538,7 +3538,7 @@
       "10727153565963": {
         "title": "Metalwood Safety Trucker Hat",
         "handle": "metalwood-safety-trucker-hat-camo",
-        "in_stock": true
+        "in_stock": false
       },
       "10677973975307": {
         "title": "Hiking Patrol Edge Softshell Technical Shirt",
@@ -4061,11 +4061,6 @@
         "title": "Women's Nike Air Force 1 '07 'Cow Print' - Black/Phantom",
         "handle": "womens-nike-air-force-1-07-cow-print-black-phantom",
         "in_stock": true
-      },
-      "9111677436092": {
-        "title": "Adidas Adistar XLG 2.0 - Grey One/Silver Metallic",
-        "handle": "adidas-adistar-xlg-2-0-grey-one-silver-metallic",
-        "in_stock": false
       },
       "9363152437436": {
         "title": "Slawn x Nigeria x Nike Academy Pro Soccer Top -  Black/White",
@@ -5005,6 +5000,11 @@
       "9349912658108": {
         "title": "Women's Nike Air Force 1 '07 'Floral' - Pink Rise/Pink Rise",
         "handle": "womens-nike-air-force-1-07-floral-pink-rise-pink-rise",
+        "in_stock": true
+      },
+      "9372675866812": {
+        "title": "Nike Zoom Vomero 5 - Desert Khaki/Dark Hazel",
+        "handle": "nike-zoom-vomero-5-desert-khaki-dark-hazel",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Undefeated: NIKE GS KOBE 5 - HYPER ROYAL/ WOLF GREY / WHITE\nhttps://undefeated.com/products/nike-gs-kobe-5-lad-hyper-royal-wolf-grey-white",
-      "detected_at": "2026-08-15T20:31:11.769539+00:00"
+      "message": "🆕 **New drop** at Undefeated: NEW BALANCE 990v4  'MADE IN USA' - VINTAGE TEAL\nhttps://undefeated.com/products/new-balance-990v4-made-in-usa-vintage-teal",
+      "detected_at": "2026-08-15T21:29:31.364287+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Zoom Vomero 5 - Desert Khaki/Dark Hazel\nhttps://sneakerpolitics.com/products/nike-zoom-vomero-5-desert-khaki-dark-hazel",
+      "detected_at": "2026-08-15T21:29:31.364287+00:00"
     }
   ]
 }
