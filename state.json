@@ -3822,11 +3822,6 @@
         "handle": "asics-gel-nyc-2055-pale-oak-truffle-grey",
         "in_stock": true
       },
-      "9294145585340": {
-        "title": "Jordan 4 Retro 'Toro Bravo' (PS) - Fire Red/White",
-        "handle": "jordan-4-retro-toro-bravo-ps-fire-red-white",
-        "in_stock": false
-      },
       "9049874333884": {
         "title": "Jordan Spizike Low - Black/Gym Red",
         "handle": "jordan-spizike-low-black-gym-red-1",
@@ -4061,11 +4056,6 @@
         "title": "Billionaire Boys Club Two Tone Hat - Black",
         "handle": "billionaire-boys-club-two-tone-hat-black",
         "in_stock": true
-      },
-      "9117820092604": {
-        "title": "Air Jordan 1 Low SE (GS) - White/Old Royal",
-        "handle": "air-jordan-1-low-se-gs-white-old-royal",
-        "in_stock": false
       },
       "9301946564796": {
         "title": "Women's Nike Air Force 1 '07 'Cow Print' - Black/Phantom",
@@ -5005,6 +4995,16 @@
       "9354227581116": {
         "title": "Nike Dunk Low (TD) - Midnight Navy/Speed Red",
         "handle": "nike-dunk-low-td-midnight-navy-speed-red",
+        "in_stock": true
+      },
+      "9354216931516": {
+        "title": "Nike Dunk Low (GS) - Midnight Navy/Speed Red",
+        "handle": "nike-dunk-low-gs-midnight-navy-speed-red",
+        "in_stock": true
+      },
+      "9349912658108": {
+        "title": "Women's Nike Air Force 1 '07 'Floral' - Pink Rise/Pink Rise",
+        "handle": "womens-nike-air-force-1-07-floral-pink-rise-pink-rise",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (GS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-gs-midnight-navy-speed-red",
+      "detected_at": "2026-08-15T19:34:48.284522+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Floral' - Pink Rise/Pink Rise\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-floral-pink-rise-pink-rise",
+      "detected_at": "2026-08-15T19:34:48.284522+00:00"
+    }
+  ]
 }
