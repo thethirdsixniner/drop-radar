@@ -3383,37 +3383,37 @@
       "11015421427979": {
         "title": "Nike x Nocta Woven Track Jacket",
         "handle": "nike-x-nocta-woven-track-jacket-work-blue-chambray-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "11008858128651": {
         "title": "Nike\tx Nocta Northstar Nylon Track Pants",
         "handle": "northstar-nylon-track-pants-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10992892510475": {
         "title": "Nike\tx Nocta Club Cap",
         "handle": "nikex-nocta-club-cap-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10992890577163": {
         "title": "Nike x Nocta Fleece CS Crew",
         "handle": "nike-x-nocta-fleece-cs-crew-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10992886972683": {
         "title": "Nike x Nocta CS Tee",
         "handle": "nike-x-nocta-cs-tee-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10992885760267": {
         "title": "Nike x Nocta CS Open Hem Fleece Pant",
         "handle": "nike-x-nocta-cs-open-hem-fleece-pant-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "11010701525259": {
         "title": "Nike x Nocta Fleece CS Hoodie",
         "handle": "nike-x-nocta-fleece-cs-hoodie-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "11016363802891": {
         "title": "Adidas Superstar II",
@@ -4072,11 +4072,6 @@
         "handle": "slawn-x-nigeria-x-nike-academy-pro-soccer-top-black-white",
         "in_stock": true
       },
-      "9131810390204": {
-        "title": "Air Jordan 1 Low SE - Anthracite/Sail",
-        "handle": "air-jordan-1-low-se-anthracite-sail",
-        "in_stock": false
-      },
       "9051544715452": {
         "title": "Nike ReactX Rejuven8 - Blue Void/Indigo Burst",
         "handle": "nike-reactx-rejuven8-blue-void-indigo-burst",
@@ -4291,11 +4286,6 @@
         "title": "Politics Busy Being Nice Blue Collar Jacket - Grey",
         "handle": "politics-busy-being-nice-blue-collar-jacket-grey",
         "in_stock": true
-      },
-      "9078787473596": {
-        "title": "Fucking Awesome Gun Baby Soft Foam Trucker Hat - Washed Camo",
-        "handle": "fucking-awesome-gun-baby-soft-foam-trucker-hat-washed-camo",
-        "in_stock": false
       },
       "9354147692732": {
         "title": "PEACEMINUSONE x Korea x Nike Cryoshot CTR 360 - Natural/University Red",
@@ -5005,6 +4995,16 @@
       "9352456044732": {
         "title": "Nike Dunk Low Retro Premium - Sail/Light Bone",
         "handle": "nike-dunk-low-retro-premium-sail-light-bone",
+        "in_stock": true
+      },
+      "9346402320572": {
+        "title": "Nike Air Force 1 '07 LV8 - Old Royal/Black",
+        "handle": "nike-air-force-1-07-lv8-old-royal-black",
+        "in_stock": true
+      },
+      "9373341941948": {
+        "title": "Nike P-6000 - Dark Smoke Grey/Volt",
+        "handle": "nike-p-6000-dark-smoke-grey-volt",
         "in_stock": true
       }
     },
@@ -6519,32 +6519,32 @@
       "10590068343050": {
         "title": "Air Jordan x Free The Youth Track Jacket",
         "handle": "air-jordan-x-fty-track-jacket-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10590068244746": {
         "title": "Air Jordan x Free The Youth Track Pant",
         "handle": "air-jordan-x-fty-track-pant-black-lt-crimson",
-        "in_stock": false
+        "in_stock": true
       },
       "10590068179210": {
         "title": "Air Jordan x Free The Youth Short",
         "handle": "air-jordan-x-fty-short-black-lt-crimson",
-        "in_stock": false
+        "in_stock": true
       },
       "10590068113674": {
         "title": "Air Jordan x FTY Football Jersey",
         "handle": "air-jordan-x-fty-football-jersey-white-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10590068080906": {
         "title": "Air Jordan x Free The Youth Bball Jersey",
         "handle": "air-jordan-x-fty-bball-jersey-black-lt-crimson",
-        "in_stock": false
+        "in_stock": true
       },
       "10590067982602": {
         "title": "Air Jordan x Free The Youth Bandana",
         "handle": "air-jordan-x-fty-scarf-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10589432840458": {
         "title": "Carhartt WIP Shortsleeve Feather Tree T-Shirt",
@@ -6734,12 +6734,12 @@
       "10587340996874": {
         "title": "Nike Air Max 90",
         "handle": "nike-air-max-90-shadow-brown-shadow-brown-buff",
-        "in_stock": false
+        "in_stock": true
       },
       "10587340964106": {
         "title": "Air Jordan WMNS 3 Retro 'Sport Renaissance'",
         "handle": "air-jordan-wmns-3-retro-obsidian-chalk-track-red",
-        "in_stock": false
+        "in_stock": true
       },
       "10587027833098": {
         "title": "Air Jordan 7 Retro 'Miró'",
@@ -6789,7 +6789,7 @@
       "10586434404618": {
         "title": "Nike Air Max 95 Big Bubble 'Blue Sapphire'",
         "handle": "nike-air-max-95-big-bubble-lawson-blue-sapphire-metallic-silver-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10585192890634": {
         "title": "Asics GEL-NYC",
@@ -8766,5 +8766,78 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike x Nocta Woven Track Jacket\nhttps://www.asphaltgold.de/products/nike-x-nocta-woven-track-jacket-work-blue-chambray-blue-polar",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike\tx Nocta Northstar Nylon Track Pants\nhttps://www.asphaltgold.de/products/northstar-nylon-track-pants-work-blue-polar",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike\tx Nocta Club Cap\nhttps://www.asphaltgold.de/products/nikex-nocta-club-cap-work-blue-polar",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike x Nocta Fleece CS Crew\nhttps://www.asphaltgold.de/products/nike-x-nocta-fleece-cs-crew-work-blue-polar",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike x Nocta CS Tee\nhttps://www.asphaltgold.de/products/nike-x-nocta-cs-tee-work-blue-polar",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike x Nocta CS Open Hem Fleece Pant\nhttps://www.asphaltgold.de/products/nike-x-nocta-cs-open-hem-fleece-pant-work-blue-polar",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike x Nocta Fleece CS Hoodie\nhttps://www.asphaltgold.de/products/nike-x-nocta-fleece-cs-hoodie-work-blue-polar",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 - Old Royal/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-old-royal-black",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike P-6000 - Dark Smoke Grey/Volt\nhttps://sneakerpolitics.com/products/nike-p-6000-dark-smoke-grey-volt",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan x Free The Youth Track Jacket\nhttps://www.afew-store.com/products/air-jordan-x-fty-track-jacket-black",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan x Free The Youth Track Pant\nhttps://www.afew-store.com/products/air-jordan-x-fty-track-pant-black-lt-crimson",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan x Free The Youth Short\nhttps://www.afew-store.com/products/air-jordan-x-fty-short-black-lt-crimson",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan x FTY Football Jersey\nhttps://www.afew-store.com/products/air-jordan-x-fty-football-jersey-white-black",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan x Free The Youth Bball Jersey\nhttps://www.afew-store.com/products/air-jordan-x-fty-bball-jersey-black-lt-crimson",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan x Free The Youth Bandana\nhttps://www.afew-store.com/products/air-jordan-x-fty-scarf-white",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Max 90\nhttps://www.afew-store.com/products/nike-air-max-90-shadow-brown-shadow-brown-buff",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan WMNS 3 Retro 'Sport Renaissance'\nhttps://www.afew-store.com/products/air-jordan-wmns-3-retro-obsidian-chalk-track-red",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Max 95 Big Bubble 'Blue Sapphire'\nhttps://www.afew-store.com/products/nike-air-max-95-big-bubble-lawson-blue-sapphire-metallic-silver-white",
+      "detected_at": "2026-08-15T07:17:22.313510+00:00"
+    }
+  ]
 }
