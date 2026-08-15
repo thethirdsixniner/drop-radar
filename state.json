@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9502864310460": {
+        "title": "Pleasures Sacoche Medium Bag - Black",
+        "handle": "pleasures-sacoche-medium-bag-black",
+        "in_stock": true
+      },
       "9502888919228": {
         "title": "Nike Kobe 10 Protro 'Halo' - White/Multi",
         "handle": "nike-kobe-10-protro-halo-white-multi-1",
@@ -5000,11 +5005,6 @@
       "9351495352508": {
         "title": "Air Jordan 1 Low (GS) - Palomino/Phantom",
         "handle": "air-jordan-1-low-gs-palomino-phantom",
-        "in_stock": true
-      },
-      "9352456044732": {
-        "title": "Nike Dunk Low Retro Premium - Sail/Light Bone",
-        "handle": "nike-dunk-low-retro-premium-sail-light-bone",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Women's Kristel Tall Boots Brown\nhttps://www.slamjam.com/products/miista-footwear-wmns-kristel-brown-tall-boots-brown-j363020",
       "detected_at": "2026-08-15T02:39:25.094722+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Sacoche Medium Bag - Black\nhttps://sneakerpolitics.com/products/pleasures-sacoche-medium-bag-black",
+      "detected_at": "2026-08-15T03:23:50.292487+00:00"
     }
   ]
 }
