@@ -3872,11 +3872,6 @@
         "handle": "vans-otw-era-95-dst-relic-black",
         "in_stock": true
       },
-      "9364511981756": {
-        "title": "Vans OTW Era 95 DST 'Relic' - Checkerboard",
-        "handle": "vans-otw-era-95-dst-relic-checkerboard",
-        "in_stock": false
-      },
       "9364502610108": {
         "title": "Vans OTW Era 95 DST 'Relic' - Navy/Red",
         "handle": "vans-otw-era-95-dst-relic-navy-red",
@@ -4080,11 +4075,6 @@
       "9111677436092": {
         "title": "Adidas Adistar XLG 2.0 - Grey One/Silver Metallic",
         "handle": "adidas-adistar-xlg-2-0-grey-one-silver-metallic",
-        "in_stock": false
-      },
-      "9354311631036": {
-        "title": "Nike Dunk Low (PS) - Midnight Navy/Speed Red",
-        "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
         "in_stock": false
       },
       "9363152437436": {
@@ -4675,7 +4665,7 @@
       "9045928050876": {
         "title": "New Era x Politics Houston Astros 59FIFTY Fitted - Pinstripe/Navy",
         "handle": "new-era-x-politics-houston-astros-59fifty-fitted-pinstripe-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "8923180564668": {
         "title": "New Era x Politics Houston Astros 59FIFTY Fitted - Chrome/Walnut",
@@ -5005,6 +4995,16 @@
       "9346402320572": {
         "title": "Nike Air Force 1 '07 LV8 - Old Royal/Black",
         "handle": "nike-air-force-1-07-lv8-old-royal-black",
+        "in_stock": true
+      },
+      "9373341941948": {
+        "title": "Nike P-6000 - Dark Smoke Grey/Volt",
+        "handle": "nike-p-6000-dark-smoke-grey-volt",
+        "in_stock": true
+      },
+      "9354227581116": {
+        "title": "Nike Dunk Low (TD) - Midnight Navy/Speed Red",
+        "handle": "nike-dunk-low-td-midnight-navy-speed-red",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,14 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 - Old Royal/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-old-royal-black",
       "detected_at": "2026-08-15T17:22:43.775387+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike P-6000 - Dark Smoke Grey/Volt\nhttps://sneakerpolitics.com/products/nike-p-6000-dark-smoke-grey-volt",
+      "detected_at": "2026-08-15T17:47:06.223411+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (TD) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-td-midnight-navy-speed-red",
+      "detected_at": "2026-08-15T17:47:06.223411+00:00"
     }
   ]
 }
