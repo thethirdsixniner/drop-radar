@@ -1273,16 +1273,6 @@
         "handle": "timberland-x-mlb-6-premium-boot-astros-wheat",
         "in_stock": true
       },
-      "6702691418373": {
-        "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'LA DODGERS' - WHEAT",
-        "handle": "timberland-x-mlb-6-premium-boot-la-dodgers-wheat",
-        "in_stock": true
-      },
-      "6702661796101": {
-        "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'NY METS' - WHEAT",
-        "handle": "timberland-x-mlb-6-premium-boot-ny-mets-wheat",
-        "in_stock": true
-      },
       "6702691287301": {
         "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'RED SOX' - WHEAT",
         "handle": "timberland-x-mlb-new-era-fitted-5950-red-sox-wheat",
@@ -1291,6 +1281,16 @@
       "6702691483909": {
         "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'WHITE SOX' - WHEAT",
         "handle": "timberland-x-mlb-new-era-fitted-5950-white-sox-wheat",
+        "in_stock": true
+      },
+      "6702691418373": {
+        "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'LA DODGERS' - WHEAT",
+        "handle": "timberland-x-mlb-6-premium-boot-la-dodgers-wheat",
+        "in_stock": true
+      },
+      "6702661796101": {
+        "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'NY METS' - WHEAT",
+        "handle": "timberland-x-mlb-6-premium-boot-ny-mets-wheat",
         "in_stock": true
       },
       "6702691221765": {
@@ -1358,6 +1358,11 @@
         "handle": "nike-x-kids-of-immigrants-t90-mule-velvet-brown",
         "in_stock": true
       },
+      "6702689026309": {
+        "title": "SHAI 001 OX - BERRY SHADY",
+        "handle": "shai-001-ox-berry-shady",
+        "in_stock": true
+      },
       "6702688928005": {
         "title": "NIKE ZOOM HYPERFLIGHT SLAM - STARFISH/WHITE-SMOKE GREY / BLACK",
         "handle": "nike-zoom-hyperflight-slam-starfish-white-smoke-grey-black",
@@ -1381,11 +1386,6 @@
       "6702688993541": {
         "title": "VANS PREMIUM ERA 95 'RELIC PACK' -  CHECKERBOARD",
         "handle": "vans-premium-era-95-relic-pack-checkerboard",
-        "in_stock": true
-      },
-      "6702689026309": {
-        "title": "SHAI 001 OX - BERRY SHADY",
-        "handle": "shai-001-ox-berry-shady",
         "in_stock": true
       },
       "6702447919365": {
@@ -3163,7 +3163,7 @@
       "10653542285579": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-almost-pink-blue-spark-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10750838767883": {
         "title": "Carhartt WIP Vista Sweat",
@@ -3258,7 +3258,7 @@
       "8932203364619": {
         "title": "Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*",
         "handle": "autry-reelwind-low-w-nylon-hairy-suede-cracked-leather-white-military",
-        "in_stock": true
+        "in_stock": false
       },
       "8687417262347": {
         "title": "Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*",
@@ -4130,7 +4130,7 @@
       "9341554098364": {
         "title": "Godspeed New York VITAL Terry Shorts - Heather Grey",
         "handle": "godspeed-new-york-vital-terry-shorts-heather-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "8970816192700": {
         "title": "Honor The Gift Nep Yarn Jacket - Navy",
@@ -8766,78 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE WMNS ZOOM SKYLON 11 - BLACK/ ANTHRACITE\nhttps://undefeated.com/products/nike-wmns-zoom-skylon-11-black-anthracite",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE SB ZOOM TENNIS CLASSIC - DEEP PEWTER/ MEDIUM OLIVE\nhttps://undefeated.com/products/nike-sb-zoom-tennis-classic-deep-pewter-medium-olive",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA FITTED 5950 'NY YANKEES' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-fitted-5950-ny-yankees-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA FITTED 5950 'NY METS' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-fitted-5950-ny-mets-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA 19TWENTY 'LA DODGERS' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-19twenty-la-dodgers-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA FITTED 5950 'WHITE SOX' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-fitted-5950-white-sox-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA FITTED 5950 'ASTROS' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-fitted-5950-astros-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA FITTED 5950  'LA DODGERS' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-fitted-5950-la-dodgers-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB 6\" PREMIUM BOOT 'WHITE SOX' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-6-premium-boot-white-sox-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA FITTED 5950 'RED SOX' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-fitted-5950-red-sox-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB 6\" PREMIUM BOOT 'NY METS' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-6-premium-boot-ny-mets-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB 6\" PREMIUM BOOT 'BRAVES' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-6-premium-boot-braves-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB 6\" PREMIUM BOOT 'RED SOX' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-6-premium-boot-red-sox-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB 6\" PREMIUM BOOT 'ASTROS' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-6-premium-boot-astros-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE X KOBE ALPHA ELITE 2.0 BATTING GLOVE - HYPER ROYAL\nhttps://undefeated.com/products/nike-x-kobe-alpha-elite-2-0-batting-glove-hyper-royal",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB 6\" PREMIUM BOOT 'LA DODGERS' - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-6-premium-boot-la-dodgers-wheat",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE X GOLF LE FLEUR PRO LEATHER OX - WHITE/ MOLTEN LAVA\nhttps://undefeated.com/products/converse-x-golf-le-fleur-pro-leather-ox-white-molten-lava",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (GS) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-gs-midnight-navy-speed-red",
-      "detected_at": "2026-08-15T12:41:56.811395+00:00"
-    }
-  ]
+  "pending_free": []
 }
