@@ -8454,11 +8454,6 @@
         "handle": "wtaps-clothing-milt0001-trousers-cotton-cnvs-black-j355424",
         "in_stock": true
       },
-      "9094564020429": {
-        "title": "Men's 1955 501XX Jeans Dark Indigo",
-        "handle": "levis-clothing-1947-501-jeans-lvc-rinse-blue-j348558",
-        "in_stock": false
-      },
       "9115641184461": {
         "title": "Men's Portugal x Salehe Bembury KING Oversized T-Shirt Emerald Ice",
         "handle": "puma-clothing-puma-x-fpf-x-salehe-bembury-king-shortsleeve-green-j349892",
@@ -8763,8 +8758,18 @@
         "title": "Women's Kristel Tall Boots Brown",
         "handle": "miista-footwear-wmns-kristel-brown-tall-boots-brown-j363020",
         "in_stock": true
+      },
+      "9124298391757": {
+        "title": "Women's Amelia Loafers Black",
+        "handle": "miista-footwear-wmns-amelia-black-penny-loafers-black-j363021",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Amelia Loafers Black\nhttps://www.slamjam.com/products/miista-footwear-wmns-amelia-black-penny-loafers-black-j363021",
+      "detected_at": "2026-08-15T11:49:38.684675+00:00"
+    }
+  ]
 }
