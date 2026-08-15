@@ -1321,7 +1321,7 @@
       "6702685159685": {
         "title": "JORDAN AJ 17 LOW SP - BLACK/ METALLIC SILVER",
         "handle": "jordan-aj-17-low-sp-black-metallic-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "6702689517829": {
         "title": "JORDAN X UNION X FRAGMENT LS JERSEY - BLACK",
@@ -3278,7 +3278,7 @@
       "10209824309515": {
         "title": "Nike Project F.R.O.G. Woven Shorts",
         "handle": "nike-project-frog-woven-shorts-olive-aura-white-grey-strike",
-        "in_stock": true
+        "in_stock": false
       },
       "8485946458379": {
         "title": "Asphaltgold Summer Essential Track Pants",
@@ -3488,7 +3488,7 @@
       "10715810955531": {
         "title": "Ugg Wmns Classic Micro",
         "handle": "ugg-wmns-classic-micro-chestnut",
-        "in_stock": true
+        "in_stock": false
       },
       "10686360748299": {
         "title": "Adidas x Liberty London Handball Spezial J",
@@ -4060,11 +4060,6 @@
       "9354311631036": {
         "title": "Nike Dunk Low (PS) - Midnight Navy/Speed Red",
         "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
-        "in_stock": false
-      },
-      "9356867535036": {
-        "title": "Willy Chavarria x Adidas Soccer Tee - Off White",
-        "handle": "willy-chavarria-x-adidas-soccer-tee-off-white",
         "in_stock": false
       },
       "9363152437436": {
@@ -5005,6 +5000,11 @@
       "9373341941948": {
         "title": "Nike P-6000 - Dark Smoke Grey/Volt",
         "handle": "nike-p-6000-dark-smoke-grey-volt",
+        "in_stock": true
+      },
+      "9354227581116": {
+        "title": "Nike Dunk Low (TD) - Midnight Navy/Speed Red",
+        "handle": "nike-dunk-low-td-midnight-navy-speed-red",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low (TD) - Midnight Navy/Speed Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-td-midnight-navy-speed-red",
+      "detected_at": "2026-08-15T10:40:06.166116+00:00"
+    }
+  ]
 }
