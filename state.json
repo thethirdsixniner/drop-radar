@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702279328005": {
+        "title": "ADIDAS X PW ADISTAR JELLYFISH - CARBON/ CORE BLACK",
+        "handle": "adidas-x-pw-adistar-jellyfish-carbon-core-black",
+        "in_stock": true
+      },
       "6702685421829": {
         "title": "NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE",
         "handle": "nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
@@ -2496,11 +2501,6 @@
       "6702624932101": {
         "title": "NIKE BOOK 2 - MIDNIGHT NAVY/ WHITE",
         "handle": "nike-book-2-midnight-navy-white",
-        "in_stock": true
-      },
-      "6702624604421": {
-        "title": "NEW BALANCE 990v4  'MADE IN USA' - VINTAGE TEAL",
-        "handle": "new-balance-990v4-made-in-usa-vintage-teal",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Helmet Knit Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-helmet-knit-tee-black-2",
-      "detected_at": "2026-08-16T11:34:07.905210+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Crocs Quick Trail Racer - Sky Ice\nhttps://sneakerpolitics.com/products/crocs-quick-trail-racer-sky-ice",
-      "detected_at": "2026-08-16T11:57:31.935585+00:00"
+      "message": "🆕 **New drop** at Undefeated: ADIDAS X PW ADISTAR JELLYFISH - CARBON/ CORE BLACK\nhttps://undefeated.com/products/adidas-x-pw-adistar-jellyfish-carbon-core-black",
+      "detected_at": "2026-08-16T12:54:13.801388+00:00"
     }
   ]
 }
