@@ -2558,7 +2558,7 @@
       "10696156971275": {
         "title": "Asics GEL-NYC RGD",
         "handle": "asics-gelnyc-rgd-smoke-grey-wool",
-        "in_stock": true
+        "in_stock": false
       },
       "10693873631499": {
         "title": "Phileo 073 Derby",
@@ -4622,11 +4622,6 @@
         "handle": "new-era-x-politics-houston-astros-59fifty-fitted-chrome-mountain-pine",
         "in_stock": true
       },
-      "9045928050876": {
-        "title": "New Era x Politics Houston Astros 59FIFTY Fitted - Pinstripe/Navy",
-        "handle": "new-era-x-politics-houston-astros-59fifty-fitted-pinstripe-navy",
-        "in_stock": false
-      },
       "8923180564668": {
         "title": "New Era x Politics Houston Astros 59FIFTY Fitted - Chrome/Walnut",
         "handle": "new-era-x-politics-houston-astros-59fifty-fitted-chrome-walnut",
@@ -5005,6 +5000,11 @@
       "9403739963580": {
         "title": "Birkenstock Arizona Soft Footbed Suede - Taupe",
         "handle": "birkenstock-arizona-soft-footbed-suede-taupe",
+        "in_stock": true
+      },
+      "9431930306748": {
+        "title": "Women's Japan Decon - Silver Metallic/Orange Tint",
+        "handle": "womens-japan-decon-silver-metallic-orange-tint",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Slam Jam: 204L Sneakers Quicksand / Bark\nhttps://www.slamjam.com/products/new-balance-footwear-u204lfsp-beige-j359408",
       "detected_at": "2026-08-16T17:00:30.685182+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Japan Decon - Silver Metallic/Orange Tint\nhttps://sneakerpolitics.com/products/womens-japan-decon-silver-metallic-orange-tint",
+      "detected_at": "2026-08-16T17:33:53.928031+00:00"
     }
   ]
 }
