@@ -4177,11 +4177,6 @@
         "handle": "womens-air-jordan-3-retro-sports-renaissance-obsidian-chalk",
         "in_stock": true
       },
-      "9106352144572": {
-        "title": "Women's Nike Air Force 1 '07 Premium 'Now Accepting All Flowers' - Black/White",
-        "handle": "womens-nike-air-force-1-07-premium-now-accepting-all-flowers-black-white",
-        "in_stock": false
-      },
       "9349857542332": {
         "title": "Nike Kobe IV Protro 'Draft Pack' - Multi-Color/Multi-Color",
         "handle": "nike-kobe-iv-protro-draft-pack-multi-color-multi-color",
@@ -5005,6 +5000,11 @@
       "9363108987068": {
         "title": "Big Kids Palace x England x Nike Soccer Top - Pewter Grey/Bright Crimson",
         "handle": "big-kids-palace-x-england-x-nike-soccer-top-pewter-grey-bright-crimson",
+        "in_stock": true
+      },
+      "8717158121660": {
+        "title": "Billionaire Boys Club Helmet Knit Tee - Black",
+        "handle": "billionaire-boys-club-helmet-knit-tee-black-2",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Helmet Knit Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-helmet-knit-tee-black-2",
+      "detected_at": "2026-08-16T11:34:07.905210+00:00"
+    }
+  ]
 }
