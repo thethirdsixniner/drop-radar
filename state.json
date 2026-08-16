@@ -3428,7 +3428,7 @@
       "7148788875428": {
         "title": "Autry Medalist W *Goat*",
         "handle": "autry-medalist-w-goat-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10855850246411": {
         "title": "Sporty & Rich Yankees Curve T-Shirt",
@@ -4131,11 +4131,6 @@
         "title": "Honor The Gift Nep Yarn Jacket - Navy",
         "handle": "honor-the-gift-nep-yarn-jacket-navy",
         "in_stock": true
-      },
-      "9305494913212": {
-        "title": "Willy Chavarria x Adidas Megaride AG - Clear Pink/Clear Pink",
-        "handle": "willy-chavarria-x-adidas-megaride-ag-clear-pink-clear-pink",
-        "in_stock": false
       },
       "9002196697276": {
         "title": "Fear Of God Essentials Suede Fleece Flare Sweatpant - Vintage Black",
@@ -5005,6 +5000,11 @@
       "8717158121660": {
         "title": "Billionaire Boys Club Helmet Knit Tee - Black",
         "handle": "billionaire-boys-club-helmet-knit-tee-black-2",
+        "in_stock": true
+      },
+      "9150987174076": {
+        "title": "Crocs Quick Trail Racer - Sky Ice",
+        "handle": "crocs-quick-trail-racer-sky-ice",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Helmet Knit Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-helmet-knit-tee-black-2",
       "detected_at": "2026-08-16T11:34:07.905210+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Crocs Quick Trail Racer - Sky Ice\nhttps://sneakerpolitics.com/products/crocs-quick-trail-racer-sky-ice",
+      "detected_at": "2026-08-16T11:57:31.935585+00:00"
     }
   ]
 }
