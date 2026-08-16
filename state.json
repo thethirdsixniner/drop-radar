@@ -3553,7 +3553,7 @@
       "10748105654539": {
         "title": "Arte Antwerp Ripped Arte Side Beanie",
         "handle": "arte-antwerp-ripped-arte-side-beanie-bordeaux",
-        "in_stock": true
+        "in_stock": false
       },
       "11016544911627": {
         "title": "Hoka Mach Remastered Aura",
@@ -8594,11 +8594,6 @@
         "handle": "roa-clothing-lio-upf-plus-50-baselayer-moth-print-long-sleeve-hoodie-brown-j325401",
         "in_stock": false
       },
-      "9095532609741": {
-        "title": "Men's Organic Panama Cotton 'OLD' Effect Zip Jacket Black",
-        "handle": "stone-island-clothing-hoodie-sweater-black-j345737",
-        "in_stock": false
-      },
       "9124491198669": {
         "title": "Men's Mineral Dyed Zip-Up Cardigan Grey",
         "handle": "stone-island-clothing-cardigan-grey-j362170",
@@ -8763,8 +8758,18 @@
         "title": "Women's Amelia Loafers Black",
         "handle": "miista-footwear-wmns-amelia-black-penny-loafers-black-j363021",
         "in_stock": true
+      },
+      "9124189864141": {
+        "title": "204L Sneakers Quicksand / Bark",
+        "handle": "new-balance-footwear-u204lfsp-beige-j359408",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: 204L Sneakers Quicksand / Bark\nhttps://www.slamjam.com/products/new-balance-footwear-u204lfsp-beige-j359408",
+      "detected_at": "2026-08-16T17:00:30.685182+00:00"
+    }
+  ]
 }
