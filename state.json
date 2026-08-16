@@ -2878,7 +2878,7 @@
       "10781001875723": {
         "title": "Nike Pegasus Premium",
         "handle": "nike-pegasus-premium-sp-volt-black-volkt-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10821657166091": {
         "title": "Birkenstock Highwood Lace Low",
@@ -3870,7 +3870,7 @@
       "9297354227900": {
         "title": "Nike Force 1 Low Patent Leather (PS) - White/White",
         "handle": "nike-force-1-low-patent-leather-ps-white-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9297396793532": {
         "title": "Nike Force 1 Low Patent Leather (PS) - Black/Black",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Big Kids Palace x England x Nike Soccer Top - Pewter Grey/Bright Crimson\nhttps://sneakerpolitics.com/products/big-kids-palace-x-england-x-nike-soccer-top-pewter-grey-bright-crimson",
-      "detected_at": "2026-08-15T23:22:43.792138+00:00"
-    }
-  ]
+  "pending_free": []
 }
