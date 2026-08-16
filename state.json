@@ -3153,7 +3153,7 @@
       "10748090450187": {
         "title": "Arte Antwerp Ripped Arte Side Beanie",
         "handle": "arte-antwerp-ripped-arte-side-beanie-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10733301432587": {
         "title": "Martine Rose Wallet Jean",
@@ -4122,11 +4122,6 @@
         "handle": "nike-air-max-90-sp-shadow-brown-buff",
         "in_stock": true
       },
-      "9341554098364": {
-        "title": "Godspeed New York VITAL Terry Shorts - Heather Grey",
-        "handle": "godspeed-new-york-vital-terry-shorts-heather-grey",
-        "in_stock": false
-      },
       "8970816192700": {
         "title": "Honor The Gift Nep Yarn Jacket - Navy",
         "handle": "honor-the-gift-nep-yarn-jacket-navy",
@@ -5005,6 +5000,11 @@
       "9150987174076": {
         "title": "Crocs Quick Trail Racer - Sky Ice",
         "handle": "crocs-quick-trail-racer-sky-ice",
+        "in_stock": true
+      },
+      "9372634185916": {
+        "title": "Nike Air Max 95 OG 'Scorpion' - Black/Gamma Blue",
+        "handle": "nike-air-max-95-og-scorpion-black-gamma-blue",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Undefeated: ADIDAS X PW ADISTAR JELLYFISH - CARBON/ CORE BLACK\nhttps://undefeated.com/products/adidas-x-pw-adistar-jellyfish-carbon-core-black",
       "detected_at": "2026-08-16T12:54:13.801388+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 OG 'Scorpion' - Black/Gamma Blue\nhttps://sneakerpolitics.com/products/nike-air-max-95-og-scorpion-black-gamma-blue",
+      "detected_at": "2026-08-16T13:33:36.132468+00:00"
     }
   ]
 }
