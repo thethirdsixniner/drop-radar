@@ -9,7 +9,7 @@
       "8286654759040": {
         "title": "Kith for BMW 1602 Tee - Sandrift",
         "handle": "khmg030032-104",
-        "in_stock": true
+        "in_stock": false
       },
       "8286654693504": {
         "title": "Kith for BMW CSi 3.0 Schematic Pocket Tee - Black",
@@ -54,7 +54,7 @@
       "8286654267520": {
         "title": "Kith for BMW CSi 3.0 Tee - Black",
         "handle": "khmg030033-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286654234752": {
         "title": "Kith for BMW Nelson Quarter Zip - Vitality",
@@ -389,7 +389,7 @@
       "8286649843840": {
         "title": "Kith for BMW Pack of 4 Tire Caps - Black",
         "handle": "khla150117-001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286649811072": {
         "title": "Kith for BMW CSi 3.0 Poster - Multi",
@@ -479,7 +479,7 @@
       "8286648598656": {
         "title": "Kith for BMW Jacquard Towel - Cinnabar",
         "handle": "khla270070-616",
-        "in_stock": true
+        "in_stock": false
       },
       "8286648565888": {
         "title": "Kith for BMW Sheep Suede Drivers Cap - Oxford",
@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702688960773": {
+        "title": "JORDAN AJ 9 RETRO LOW - BLACK /CHALLENGE RED",
+        "handle": "jordan-aj-9-retro-low-black-challenge-red",
+        "in_stock": true
+      },
       "6702697480453": {
         "title": "SAUCONY PROGRID PARAMOUNT - BLACK/ ANCHOR",
         "handle": "saucony-progrid-paramount-black-anchor",
@@ -1311,6 +1316,11 @@
       "6702661796101": {
         "title": "TIMBERLAND X MLB 6\" PREMIUM BOOT 'NY METS' - WHEAT",
         "handle": "timberland-x-mlb-6-premium-boot-ny-mets-wheat",
+        "in_stock": true
+      },
+      "6702690959621": {
+        "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'BRAVES - WHEAT",
+        "handle": "timberland-x-mlb-new-era-fitted-5950-braves-wheat",
         "in_stock": true
       },
       "6702691287301": {
@@ -2492,16 +2502,6 @@
         "title": "NEW BALANCE 990 v4 'MADE IN USA' - PUMPERNICKEL",
         "handle": "new-balance-990-v4-made-in-usa-pumpernickel",
         "in_stock": true
-      },
-      "6702619853061": {
-        "title": "NEW BALANCE 992 'MADE IN USA' - PINK CHALK",
-        "handle": "new-balance-992-made-in-usa-pink-chalk",
-        "in_stock": true
-      },
-      "6702619721989": {
-        "title": "NEW BALANCE 992 'MADE IN USA' - INCENSE",
-        "handle": "new-balance-992-made-in-usa-incense",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -3388,7 +3388,7 @@
       "8687417262347": {
         "title": "Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*",
         "handle": "autry-reelwind-low-w-nylon-cracked-leather-white-ebony",
-        "in_stock": true
+        "in_stock": false
       },
       "8443157872907": {
         "title": "Lacoste Zippered Stand Up Collar Cotton Sweatshirt",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9294137655484": {
+        "title": "Jordan 5 Retro (PS) - White/Metallic Silver",
+        "handle": "jordan-5-retro-ps-white-metallic-silver",
+        "in_stock": false
+      },
       "9490403885244": {
         "title": "Free The Youth x Jordan Track Jacket - Black",
         "handle": "free-the-youth-x-jordan-track-jacket-black",
@@ -3781,11 +3786,6 @@
         "title": "Air Jordan 9 Retro Low 'What The Kilroy' - Black/Challenge Red",
         "handle": "air-jordan-9-retro-low-what-the-kilroy-black-challenge-red",
         "in_stock": true
-      },
-      "9490396348604": {
-        "title": "Free The Youth SP x Air Jordan 16 - Metallic Silver/Picante Red",
-        "handle": "free-the-youth-sp-x-air-jordan-16-metallic-silver-picante-red",
-        "in_stock": false
       },
       "9119233015996": {
         "title": "New Balance 1906L - Silver Metallic/Black",
@@ -8768,120 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-american-script-sweat-raven",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
+      "message": "🔥 **Restock** at Kith: Kith for BMW Pack of 4 Tire Caps - Black\nhttps://kith.com/products/khla150117-001",
+      "detected_at": "2026-08-17T16:46:00.684565+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Active Jacket Black (Stone Washed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-active-jacket-black-j359247",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 9 RETRO LOW - BLACK /CHALLENGE RED\nhttps://undefeated.com/products/jordan-aj-9-retro-low-black-challenge-red",
+      "detected_at": "2026-08-17T16:46:00.684565+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Active Jacket Blue (Stone Washed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-active-jacket-blue-j359245",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Active Jacket Blue (Rinsed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-active-jacket-blue-j359244",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Active Jacket Camo Feather Tree / Black (Heavy Stone Wash)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-active-jacket-multicolor-j359148",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Active Jacket H Brown\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-active-jacket-brown-j359248",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Active Jacket Black\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-active-jacket-black-j359246",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Detroit Jacket Black (Stone Washed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-detroit-jacket-black-j359238",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Detroit Jacket Camo Feather Tree (Heavy Stone Wash)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-detroit-jacket-multicolor-j359152",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Detroit Jacket Black (Winter)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-detroit-jacket-black-j359110",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Alton Jacket Alton Check / Cypress\nhttps://www.slamjam.com/products/carhartt-wip-clothing-alton-jacket-multicolor-j359219",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Santa Fe Jacket Raven / Black (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-santa-fe-jacket-multicolor-j359206",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Chore Coat WIP Dusty H / Tobacco (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-chore-coat-multicolor-j359150",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Vista Hooded Sweatshirt Black (Garment Dyed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-hooded-vista-jacket-black-j359112",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Vista Hooded Sweatshirt Tobacco (Garment Dyed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-hooded-vista-jacket-brown-j359111",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Arch Script Sweatshirt Ash Heather / Dark Navy (Stone Washed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-arch-script-sweat-multicolor-j359229",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cardona Pocket Longsleeve T-Shirt Natural / Palisander (Garment Dyed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-l-s-cardona-pocket-t-shirt-multicolor-j359230",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Feather Tree Longsleeve T-Shirt Khaki / Shungite (Garment Dyed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-l-s-feather-tree-t-shirt-multicolor-j359223",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Jace Pants Black (Rinsed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-jace-pant-black-j359139",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Single Knee Pants Blue (Worn Used Wash)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-single-knee-pant-blue-j359144",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Payson Pants Blue (Marble Used Wash)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-payson-pant-blue-j359237",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Payson Pants Blue (Rigid)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-payson-pant-blue-j359236",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Single Knee Pants Blue (Mid Worn Used)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-single-knee-pant-blue-j359143",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Jace Pants Blue (Rinsed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-jace-pant-blue-j359138",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Landon Pants Natural (Rinsed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-landon-pant-beige-j359133",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Brandon Pants Soot (Stone Dyed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-brandon-pant-multicolor-j359142",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Landon Pants Black (Rinsed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-landon-pant-black-j359134",
-      "detected_at": "2026-08-17T15:41:24.928807+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Veleka Jacket Charcoal\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-veleka-jacket-black-j359804",
-      "detected_at": "2026-08-17T16:00:37.164402+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Veleka Pullover Charcoal\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-veleka-pullover-black-j359805",
-      "detected_at": "2026-08-17T16:00:37.164402+00:00"
+      "message": "🆕 **New drop** at Undefeated: TIMBERLAND X MLB NEW ERA FITTED 5950 'BRAVES - WHEAT\nhttps://undefeated.com/products/timberland-x-mlb-new-era-fitted-5950-braves-wheat",
+      "detected_at": "2026-08-17T16:46:00.684565+00:00"
     }
   ]
 }
