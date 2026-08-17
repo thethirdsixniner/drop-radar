@@ -6261,6 +6261,16 @@
       }
     },
     "https://www.afew-store.com": {
+      "10593846952202": {
+        "title": "adidas Originals x SFTM TANK",
+        "handle": "adidas-originals-x-sftm-tank-brown",
+        "in_stock": false
+      },
+      "10593846493450": {
+        "title": "adidas Originals x SFTM TANK",
+        "handle": "adidas-originals-x-sftm-tank-carbon",
+        "in_stock": false
+      },
       "10592937509130": {
         "title": "Nike x Nocta Northstar Jacket",
         "handle": "nike-x-nocta-northstar-jacket-work-blue-chambray-blue-polar",
@@ -7500,16 +7510,6 @@
         "title": "Oakley RESERVE STRATO TRACK PANT",
         "handle": "oakley-reserve-strato-track-pant-rain-camo-mist",
         "in_stock": true
-      },
-      "10578315510026": {
-        "title": "Oakley ECHO MOD OVERSHIRT",
-        "handle": "oakley-echo-mod-overshirt-granite-gray",
-        "in_stock": true
-      },
-      "10578309546250": {
-        "title": "Oakley ECHO MOD OVERSHIRT",
-        "handle": "oakley-echo-mod-overshirt-mist",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7810,7 +7810,7 @@
         "in_stock": true
       },
       "9125743722701": {
-        "title": "Women's Air Jordan 3 'Sport Renaissance' Sneakers Obsidian / Chalk / Track Red",
+        "title": "Women's Air Jordan 3 'Sport Renaissance' Sneakers Obsidian / Track Red",
         "handle": "nike-jordan-footwear-wmns-air-jordan-3-retro-blue-j368899",
         "in_stock": true
       },
@@ -7820,7 +7820,7 @@
         "in_stock": false
       },
       "9125743689933": {
-        "title": "Air Max 95 Big Bubble Sneakers Blue / Metallic Silver",
+        "title": "Air Max 95 Big Bubble Sneakers Blue Sapphire / Action Red",
         "handle": "nike-footwear-nike-air-max-95-blue-j368355",
         "in_stock": true
       },
@@ -7950,7 +7950,7 @@
         "in_stock": true
       },
       "9125627330765": {
-        "title": "Scarf Red",
+        "title": "Logo Scarf Red",
         "handle": "no-problemo-accessories-no-problemo-scarf-red-j350789",
         "in_stock": true
       },
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Afew Store: Vans LX Old Skool 36 Souvenir\nhttps://www.afew-store.com/products/vans-lx-old-skool-36-souvenir-navy",
-      "detected_at": "2026-08-17T07:00:39.027632+00:00"
-    }
-  ]
+  "pending_free": []
 }
