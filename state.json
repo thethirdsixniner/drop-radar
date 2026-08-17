@@ -429,7 +429,7 @@
       "8286649712768": {
         "title": "Kith for BMW Microsuede Classic Cap - Black",
         "handle": "khma050100-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286649647232": {
         "title": "Kith for BMW Pack of 4 Microfiber Towels - Black",
@@ -3892,11 +3892,6 @@
         "handle": "politics-x-marucci-hat-black",
         "in_stock": true
       },
-      "9502864310460": {
-        "title": "Pleasures Sacoche Medium Bag - Black",
-        "handle": "pleasures-sacoche-medium-bag-black",
-        "in_stock": false
-      },
       "9502888919228": {
         "title": "Nike Kobe 10 Protro 'Halo' - White/Multi",
         "handle": "nike-kobe-10-protro-halo-white-multi-1",
@@ -5005,6 +5000,11 @@
       "9457291690172": {
         "title": "Godspeed New York Green Reaper Tee - Bone",
         "handle": "godspeed-new-york-green-reaper-tee-bone",
+        "in_stock": true
+      },
+      "9457282056380": {
+        "title": "Godspeed New York OG Logo Slides V2 - Black",
+        "handle": "godspeed-new-york-og-logo-slides-v2-black",
         "in_stock": true
       }
     },
@@ -8768,26 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: VANS LX Authentic 44 - Herringbone Black / Tan Brown\nhttps://kith.com/products/vn000z6rbml1",
-      "detected_at": "2026-08-17T20:57:08.674745+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance TD MT2 - Cortado / Pumpernickel\nhttps://kith.com/products/nbmt24yj",
-      "detected_at": "2026-08-17T20:57:08.674745+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Birkenstock WMNS Arizona Rivets - Pepper\nhttps://kith.com/products/bir1032876",
-      "detected_at": "2026-08-17T20:57:08.674745+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Birkenstock WMNS Arizona Rivets - Taupe\nhttps://kith.com/products/br1029390",
-      "detected_at": "2026-08-17T20:57:08.674745+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 17 Low 'Black Patent' - Black/Metallic Silver\nhttps://sneakerpolitics.com/products/air-jordan-17-low-black-patent-black-metallic-silver",
-      "detected_at": "2026-08-17T20:57:08.674745+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Undefeated: JORDAN X FREE THE YOUTH TRACK JACKET - BLACK\nhttps://undefeated.com/products/jordan-x-free-the-youth-track-jacket-black",
       "detected_at": "2026-08-17T21:32:51.320901+00:00"
     },
@@ -8814,6 +8794,10 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Women's Speedcat Ballet Metallic Jasmine Flower / Black\nhttps://www.slamjam.com/products/puma-footwear-speedcat-ballet-metallic-wns-white-j356398",
       "detected_at": "2026-08-17T21:32:51.320901+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York OG Logo Slides V2 - Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-og-logo-slides-v2-black",
+      "detected_at": "2026-08-17T22:00:18.905190+00:00"
     }
   ]
 }
