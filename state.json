@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286665244800": {
+        "title": "Nike PS Kobe 5 Protro - Hyper Royal / Wolf Gray / White",
+        "handle": "nkir1849-400",
+        "in_stock": true
+      },
       "8286662688896": {
         "title": "MADE-TO-ORDER | Kith & Yellowpop for BMW Fast Logo Neon Sign - Multi - PH",
         "handle": "ypkith-bmw-ph",
@@ -1244,11 +1249,6 @@
       "8286640668800": {
         "title": "Oakley Eye Jacket Redux Sunglasses - Matte Moss / Prizm Tungsten",
         "handle": "oakoo9438-4458",
-        "in_stock": true
-      },
-      "8286640799872": {
-        "title": "Oakley Eye Jacket Redux Sunglasses - Dark Amber Bengal / Prizm Tungsten",
-        "handle": "oakoo9438-3958",
         "in_stock": true
       }
     },
@@ -2638,7 +2638,7 @@
       "10803963429131": {
         "title": "Carhartt WIP Punched Sweat",
         "handle": "carhartt-wip-punched-sweat-puddle",
-        "in_stock": true
+        "in_stock": false
       },
       "10762847617291": {
         "title": "Autry College Check Sweatshirt",
@@ -8527,7 +8527,7 @@
       "9124916592845": {
         "title": "Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black",
         "handle": "adidas-footwear-hellstar-megaride-s-white-j362348",
-        "in_stock": true
+        "in_stock": false
       },
       "9124916527309": {
         "title": "Willy Chavarria Megaride AG Sneakers Clear Pink / Power Red",
@@ -8768,28 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-740-pumpernickel-sea-salt",
-      "detected_at": "2026-08-17T13:06:27.345542+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-mushroom",
-      "detected_at": "2026-08-17T13:06:27.345542+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Arizona Suede\nhttps://www.asphaltgold.de/products/puma-arizona-suede-chocolate-fondue-chocolate-gum",
-      "detected_at": "2026-08-17T13:06:27.345542+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Puma Sprint Suede\nhttps://www.afew-store.com/products/puma-sprint-suede-bitter-chocolate-warm-white",
-      "detected_at": "2026-08-17T13:06:27.345542+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Puma Sprint Suede\nhttps://www.afew-store.com/products/puma-sprint-suede-soft-taupe-warm-white",
-      "detected_at": "2026-08-17T13:06:27.345542+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Mizuno x MAGIC STICK x MITA WAVE PROPHECY\nhttps://www.afew-store.com/products/mizuno-x-mita-wave-prophecy-magic-stick-mita",
-      "detected_at": "2026-08-17T13:06:27.345542+00:00"
+      "message": "🆕 **New drop** at Kith: Nike PS Kobe 5 Protro - Hyper Royal / Wolf Gray / White\nhttps://kith.com/products/nkir1849-400",
+      "detected_at": "2026-08-17T13:53:25.732115+00:00"
     }
   ]
 }
