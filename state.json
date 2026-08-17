@@ -2598,7 +2598,7 @@
       "10539156930827": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-space-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10693878251787": {
         "title": "Phileo x Novesta Kix Lace Ballerina",
@@ -3757,6 +3757,31 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9119233015996": {
+        "title": "New Balance 1906L - Silver Metallic/Black",
+        "handle": "new-balance-1906l-silver-metallic-black",
+        "in_stock": true
+      },
+      "9402906214588": {
+        "title": "A$AP Rocky x Puma Suede '94 - Black/White",
+        "handle": "a-ap-rocky-x-puma-suede-94-black-white",
+        "in_stock": true
+      },
+      "9143990616252": {
+        "title": "Danielle Cathari x Puma Speedcat Washed - Pistachio Green",
+        "handle": "danielle-cathari-x-puma-speedcat-washed-pistachio-green",
+        "in_stock": true
+      },
+      "8988485517500": {
+        "title": "Women's Nike Calm SE - Sanddrift/Sanddrift",
+        "handle": "womens-nike-calm-se-sanddrift-sanddrift",
+        "in_stock": true
+      },
+      "9274228834492": {
+        "title": "Air Jordan 6 Retro 'Cap And Gown' (GS) - Black/Reflect Silver",
+        "handle": "air-jordan-6-retro-cap-and-gown-gs-black-reflect-silver",
+        "in_stock": true
+      },
       "9356471468220": {
         "title": "Politics x Marucci Barbed Wire Tee - Black",
         "handle": "politics-x-marucci-barbed-wire-tee-black",
@@ -4980,31 +5005,6 @@
       "9403739963580": {
         "title": "Birkenstock Arizona Soft Footbed Suede - Taupe",
         "handle": "birkenstock-arizona-soft-footbed-suede-taupe",
-        "in_stock": true
-      },
-      "9431930306748": {
-        "title": "Women's Japan Decon - Silver Metallic/Orange Tint",
-        "handle": "womens-japan-decon-silver-metallic-orange-tint",
-        "in_stock": true
-      },
-      "9431937319100": {
-        "title": "Adidas Handball Spezial - Off White/Shadow Red",
-        "handle": "adidas-handball-spezial-off-white-shadow-red",
-        "in_stock": true
-      },
-      "9431944495292": {
-        "title": "Adidas BW Army - Core Black/Gum",
-        "handle": "adidas-bw-army-core-black-gum",
-        "in_stock": true
-      },
-      "9357556318396": {
-        "title": "Nike Air Max 95 OG - Mink Brown/Filbert",
-        "handle": "nike-air-max-95-og-mink-brown-filbert",
-        "in_stock": true
-      },
-      "9381359485116": {
-        "title": "Nike Vomero Plus 'Cow Print' - Sail/Sail",
-        "handle": "nike-vomero-plus-cow-print-sail-sail",
         "in_stock": true
       }
     },
@@ -8768,32 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance Quilted Bomber\nhttps://www.asphaltgold.de/products/new-balance-quilted-bomber-dark-night",
-      "detected_at": "2026-08-17T10:39:46.564662+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Balance 1906L - Silver Metallic/Black\nhttps://sneakerpolitics.com/products/new-balance-1906l-silver-metallic-black",
+      "detected_at": "2026-08-17T11:41:44.222965+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Singlet\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-singlet-collegiate-geen-aurora-ivy",
-      "detected_at": "2026-08-17T10:39:46.564662+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: A$AP Rocky x Puma Suede '94 - Black/White\nhttps://sneakerpolitics.com/products/a-ap-rocky-x-puma-suede-94-black-white",
+      "detected_at": "2026-08-17T11:41:44.222965+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Hoodie\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-hoodie-cream-white",
-      "detected_at": "2026-08-17T10:39:46.564662+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Danielle Cathari x Puma Speedcat Washed - Pistachio Green\nhttps://sneakerpolitics.com/products/danielle-cathari-x-puma-speedcat-washed-pistachio-green",
+      "detected_at": "2026-08-17T11:41:44.222965+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Short Tights\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-short-tights-black",
-      "detected_at": "2026-08-17T10:39:46.564662+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Calm SE - Sanddrift/Sanddrift\nhttps://sneakerpolitics.com/products/womens-nike-calm-se-sanddrift-sanddrift",
+      "detected_at": "2026-08-17T11:41:44.222965+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Singlet\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-singlet-carbon-black",
-      "detected_at": "2026-08-17T10:39:46.564662+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Birkenstock WMNS Arizona (Narrow Fit)\nhttps://www.afew-store.com/products/birkenstock-wmns-faded-khaki-dark-brown-os-suede-leather-pepper",
-      "detected_at": "2026-08-17T10:39:46.564662+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Birkenstock WMNS Arizona (Narrow Fit)\nhttps://www.afew-store.com/products/birkenstock-wmns-faded-khaki-dark-brown-os-suede-leather-oyster",
-      "detected_at": "2026-08-17T10:39:46.564662+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 6 Retro 'Cap And Gown' (GS) - Black/Reflect Silver\nhttps://sneakerpolitics.com/products/air-jordan-6-retro-cap-and-gown-gs-black-reflect-silver",
+      "detected_at": "2026-08-17T11:41:44.222965+00:00"
     }
   ]
 }
