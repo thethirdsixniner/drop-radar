@@ -1386,7 +1386,7 @@
       "6702688928005": {
         "title": "NIKE ZOOM HYPERFLIGHT SLAM - STARFISH/WHITE-SMOKE GREY / BLACK",
         "handle": "nike-zoom-hyperflight-slam-starfish-white-smoke-grey-black",
-        "in_stock": false
+        "in_stock": true
       },
       "6702687224069": {
         "title": "NIKE AIR FORCE 1 '07 LX - SESAME/WHITE-HEMP / NATURAL",
@@ -4315,7 +4315,7 @@
       "9363137495228": {
         "title": "Palace x England x Nike Tee - White",
         "handle": "palace-x-england-x-nike-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9339718533308": {
         "title": "Anta KAI 2 Mule - Silver/Black",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Undefeated: NIKE ZOOM HYPERFLIGHT SLAM - STARFISH/WHITE-SMOKE GREY / BLACK\nhttps://undefeated.com/products/nike-zoom-hyperflight-slam-starfish-white-smoke-grey-black",
+      "detected_at": "2026-08-17T01:25:08.876375+00:00"
+    }
+  ]
 }
