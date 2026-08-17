@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702697480453": {
+        "title": "SAUCONY PROGRID PARAMOUNT - BLACK/ ANCHOR",
+        "handle": "saucony-progrid-paramount-black-anchor",
+        "in_stock": true
+      },
       "6702685421829": {
         "title": "NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE",
         "handle": "nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
@@ -2496,11 +2501,6 @@
       "6702619721989": {
         "title": "NEW BALANCE 992 'MADE IN USA' - INCENSE",
         "handle": "new-balance-992-made-in-usa-incense",
-        "in_stock": true
-      },
-      "6702624932101": {
-        "title": "NIKE BOOK 2 - MIDNIGHT NAVY/ WHITE",
-        "handle": "nike-book-2-midnight-navy-white",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,16 @@
       }
     },
     "https://www.afew-store.com": {
+      "10593968128266": {
+        "title": "Puma Sprint Suede",
+        "handle": "puma-sprint-suede-soft-taupe-warm-white",
+        "in_stock": false
+      },
+      "10593960296714": {
+        "title": "Mizuno x MAGIC STICK x MITA WAVE PROPHECY",
+        "handle": "mizuno-x-mita-wave-prophecy-magic-stick-mita",
+        "in_stock": false
+      },
       "10593874608394": {
         "title": "Birkenstock WMNS Arizona (Narrow Fit)",
         "handle": "birkenstock-wmns-faded-khaki-dark-brown-os-suede-leather-pepper",
@@ -7500,16 +7510,6 @@
         "title": "Salomon XT-4 OG",
         "handle": "salomon-xt-4-og-black-desert-tan-vanila",
         "in_stock": false
-      },
-      "10578560057610": {
-        "title": "Timberland AUTH LOAFER SHOE",
-        "handle": "timberland-authentic-loafer-shoe-blk-full-grain",
-        "in_stock": true
-      },
-      "10578559172874": {
-        "title": "Saucony PROGRID RIDE 1",
-        "handle": "saucony-progrid-ride-1-ivory-silver",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -8786,6 +8786,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 6 Retro 'Cap And Gown' (GS) - Black/Reflect Silver\nhttps://sneakerpolitics.com/products/air-jordan-6-retro-cap-and-gown-gs-black-reflect-silver",
       "detected_at": "2026-08-17T11:41:44.222965+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SAUCONY PROGRID PARAMOUNT - BLACK/ ANCHOR\nhttps://undefeated.com/products/saucony-progrid-paramount-black-anchor",
+      "detected_at": "2026-08-17T12:01:16.802584+00:00"
     }
   ]
 }
