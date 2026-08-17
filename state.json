@@ -2505,6 +2505,36 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11016289353995": {
+        "title": "New Balance 991 v2 *Made in England*",
+        "handle": "new-balance-991-v2-made-in-england-insignia-blue",
+        "in_stock": false
+      },
+      "11016288108811": {
+        "title": "New Balance 991 v2 *Made in England*",
+        "handle": "new-balance-991-v2-made-in-england-rose-taupe",
+        "in_stock": false
+      },
+      "11016283521291": {
+        "title": "New Balance 740",
+        "handle": "new-balance-740-pumpernickel-sea-salt",
+        "in_stock": true
+      },
+      "11016276934923": {
+        "title": "New Balance 90/60",
+        "handle": "new-balance-9060-mushroom",
+        "in_stock": true
+      },
+      "11016290304267": {
+        "title": "New Balance Gator Run",
+        "handle": "new-balance-gator-run-bark-linen",
+        "in_stock": false
+      },
+      "11018922656011": {
+        "title": "Puma Arizona Suede",
+        "handle": "puma-arizona-suede-chocolate-fondue-chocolate-gum",
+        "in_stock": true
+      },
       "11008877986059": {
         "title": "New Balance Quilted Bomber",
         "handle": "new-balance-quilted-bomber-dark-night",
@@ -3108,7 +3138,7 @@
       "10728365129995": {
         "title": "Asics UB12-S GEL-SD Lyte",
         "handle": "asics-ub12s-gelsd-lyte-obsidian-grey-grove",
-        "in_stock": true
+        "in_stock": false
       },
       "10875349500171": {
         "title": "Autry Medalist *Leather / Suede*",
@@ -3723,36 +3753,6 @@
       "11014034948363": {
         "title": "47 MLB New York Yankees *Clean Up* Cap (Prt)",
         "handle": "47-mlb-new-york-yankees-clean-up-cap-prt",
-        "in_stock": true
-      },
-      "11014037733643": {
-        "title": "47 MLB New York Yankees *Clean Up* Cap (Pinecone)",
-        "handle": "47-mlb-new-york-yankees-clean-up-cap-pinecone",
-        "in_stock": true
-      },
-      "11014040781067": {
-        "title": "47 MLB New York Yankees *Clean Up* Cap (Cacao)",
-        "handle": "47-mlb-new-york-yankees-clean-up-cap-cacao",
-        "in_stock": true
-      },
-      "11015019200779": {
-        "title": "47 MLB New York Yankees *Haymaker Cuff Knit* Beanie",
-        "handle": "47-mlb-new-york-yankees-haymaker-cuff-knit-beanie-black",
-        "in_stock": true
-      },
-      "11015020183819": {
-        "title": "47 MLB New York Yankees *Haymaker Cuff Knit* Beanie",
-        "handle": "47-mlb-new-york-yankees-haymaker-cuff-knit-beanie-moss",
-        "in_stock": true
-      },
-      "11015021822219": {
-        "title": "47 MLB New York Yankees *Haymaker Cuff Knit* Beanie",
-        "handle": "47-mlb-new-york-yankees-haymaker-cuff-knit-beanie-light-navy",
-        "in_stock": true
-      },
-      "11015021986059": {
-        "title": "47 MLB New York Yankees *Haymaker Cuff Knit* Beanie",
-        "handle": "47-mlb-new-york-yankees-haymaker-cuff-knit-beanie-brown",
         "in_stock": true
       }
     },
@@ -6261,15 +6261,20 @@
       }
     },
     "https://www.afew-store.com": {
+      "10593984217354": {
+        "title": "Puma Sprint Suede",
+        "handle": "puma-sprint-suede-bitter-chocolate-warm-white",
+        "in_stock": true
+      },
       "10593968128266": {
         "title": "Puma Sprint Suede",
         "handle": "puma-sprint-suede-soft-taupe-warm-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10593960296714": {
         "title": "Mizuno x MAGIC STICK x MITA WAVE PROPHECY",
         "handle": "mizuno-x-mita-wave-prophecy-magic-stick-mita",
-        "in_stock": false
+        "in_stock": true
       },
       "10593874608394": {
         "title": "Birkenstock WMNS Arizona (Narrow Fit)",
@@ -7504,11 +7509,6 @@
       "10578563629322": {
         "title": "Salomon XT-4 OG",
         "handle": "salomon-xt-4-og-white-black-whitepepper",
-        "in_stock": false
-      },
-      "10578562547978": {
-        "title": "Salomon XT-4 OG",
-        "handle": "salomon-xt-4-og-black-desert-tan-vanila",
         "in_stock": false
       }
     },
@@ -8768,28 +8768,28 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: New Balance 1906L - Silver Metallic/Black\nhttps://sneakerpolitics.com/products/new-balance-1906l-silver-metallic-black",
-      "detected_at": "2026-08-17T11:41:44.222965+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-740-pumpernickel-sea-salt",
+      "detected_at": "2026-08-17T13:06:27.345542+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: A$AP Rocky x Puma Suede '94 - Black/White\nhttps://sneakerpolitics.com/products/a-ap-rocky-x-puma-suede-94-black-white",
-      "detected_at": "2026-08-17T11:41:44.222965+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-mushroom",
+      "detected_at": "2026-08-17T13:06:27.345542+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Danielle Cathari x Puma Speedcat Washed - Pistachio Green\nhttps://sneakerpolitics.com/products/danielle-cathari-x-puma-speedcat-washed-pistachio-green",
-      "detected_at": "2026-08-17T11:41:44.222965+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Puma Arizona Suede\nhttps://www.asphaltgold.de/products/puma-arizona-suede-chocolate-fondue-chocolate-gum",
+      "detected_at": "2026-08-17T13:06:27.345542+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Calm SE - Sanddrift/Sanddrift\nhttps://sneakerpolitics.com/products/womens-nike-calm-se-sanddrift-sanddrift",
-      "detected_at": "2026-08-17T11:41:44.222965+00:00"
+      "message": "🆕 **New drop** at Afew Store: Puma Sprint Suede\nhttps://www.afew-store.com/products/puma-sprint-suede-bitter-chocolate-warm-white",
+      "detected_at": "2026-08-17T13:06:27.345542+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 6 Retro 'Cap And Gown' (GS) - Black/Reflect Silver\nhttps://sneakerpolitics.com/products/air-jordan-6-retro-cap-and-gown-gs-black-reflect-silver",
-      "detected_at": "2026-08-17T11:41:44.222965+00:00"
+      "message": "🔥 **Restock** at Afew Store: Puma Sprint Suede\nhttps://www.afew-store.com/products/puma-sprint-suede-soft-taupe-warm-white",
+      "detected_at": "2026-08-17T13:06:27.345542+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: SAUCONY PROGRID PARAMOUNT - BLACK/ ANCHOR\nhttps://undefeated.com/products/saucony-progrid-paramount-black-anchor",
-      "detected_at": "2026-08-17T12:01:16.802584+00:00"
+      "message": "🔥 **Restock** at Afew Store: Mizuno x MAGIC STICK x MITA WAVE PROPHECY\nhttps://www.afew-store.com/products/mizuno-x-mita-wave-prophecy-magic-stick-mita",
+      "detected_at": "2026-08-17T13:06:27.345542+00:00"
     }
   ]
 }
