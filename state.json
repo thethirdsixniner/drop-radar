@@ -319,7 +319,7 @@
       "8286651056256": {
         "title": "Kith for BMW Two-Tone Brushed Twill BL Pinch Crown Cap - Sandrift",
         "handle": "khma050096-104",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650957952": {
         "title": "Kith for BMW Moto Gloves - Multi",
@@ -374,7 +374,7 @@
       "8286650433664": {
         "title": "Kith for BMW Nylon Bay Low Pinch Crown Cap - Black",
         "handle": "khma050095-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650368128": {
         "title": "Kith for BMW Set of 4 Car Fresheners - Multi",
@@ -439,7 +439,7 @@
       "8286649614464": {
         "title": "Kith for BMW Mug - Techno Violet",
         "handle": "khla150094-599",
-        "in_stock": true
+        "in_stock": false
       },
       "8286649581696": {
         "title": "Kith for BMW Teddy Bear - Cinnabar",
@@ -1253,6 +1253,31 @@
       }
     },
     "https://undefeated.com": {
+      "6702691025157": {
+        "title": "JORDAN X FREE THE YOUTH TRACK JACKET - BLACK",
+        "handle": "jordan-x-free-the-youth-track-jacket-black",
+        "in_stock": true
+      },
+      "6702691057925": {
+        "title": "JORDAN X FREE THE YOUTH TRACK PANTS - BLACK",
+        "handle": "jordan-x-free-the-youth-track-pants-black",
+        "in_stock": true
+      },
+      "6702690992389": {
+        "title": "JORDAN X FREE THE YOUTH SHORTS - BLACK",
+        "handle": "jordan-x-free-the-youth-shorts-black",
+        "in_stock": true
+      },
+      "6702691123461": {
+        "title": "JORDAN X FREE THE YOUTH FOOTBALL JERSEY - BLACK",
+        "handle": "jordan-x-free-the-youth-football-jersey-black",
+        "in_stock": true
+      },
+      "6702690926853": {
+        "title": "JORDAN X FREE THE YOUTH SCARF - BLACK",
+        "handle": "jordan-x-free-the-youth-scarf-black",
+        "in_stock": true
+      },
       "6702536851717": {
         "title": "UNDEFEATED LIGHTWEIGHT ZIP HOOD",
         "handle": "undefeated-lightweight-zip-hood",
@@ -2477,31 +2502,6 @@
         "title": "SALOMON XT-QUEST - VANILLA ICE/ BLACK",
         "handle": "salomon-xt-quest-vanilla-ice-black",
         "in_stock": true
-      },
-      "6702628831493": {
-        "title": "ADIDAS X MENACE JERSEY - CRYWHT/ GREONE",
-        "handle": "adidas-x-menace-jersey-crywht-greone",
-        "in_stock": true
-      },
-      "6702637089029": {
-        "title": "ASICS GEL-STRATUS MC - WHITE/CLAY CANYON",
-        "handle": "asics-gel-stratus-mc-white-clay-canyon",
-        "in_stock": true
-      },
-      "6702636957957": {
-        "title": "SALOMON XT-4 OG - BLACK/ DESERT TAN",
-        "handle": "salomon-xt-4-og-black-desert-tan",
-        "in_stock": true
-      },
-      "6702637154565": {
-        "title": "SALOMON XT-4 OG - WHITE/ BLACK",
-        "handle": "salomon-xt-4-og-white-black",
-        "in_stock": true
-      },
-      "6702619525381": {
-        "title": "ADIDAS X SP5DER HERO F50 FORMOTION - SILVMT/CBLACK/SUPCOL",
-        "handle": "adidas-x-sp5der-hero-f50-formotion-silvmt-cblack-supcol",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -3278,7 +3278,7 @@
       "10739194626315": {
         "title": "Nike Pegasus Premium",
         "handle": "nike-pegasus-premium-college-grey-dark-grey-dark-smoke-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10728365129995": {
         "title": "Asics UB12-S GEL-SD Lyte",
@@ -3760,6 +3760,11 @@
       "9490438521020": {
         "title": "Air Jordan 17 Low 'Black Patent' - Black/Metallic Silver",
         "handle": "air-jordan-17-low-black-patent-black-metallic-silver",
+        "in_stock": true
+      },
+      "9366768320700": {
+        "title": "Asics Gel-NYC - Cream/Antique Red",
+        "handle": "asics-gel-nyc-cream-antique-red",
         "in_stock": true
       },
       "9081124356284": {
@@ -5000,11 +5005,6 @@
       "9457291690172": {
         "title": "Godspeed New York Green Reaper Tee - Bone",
         "handle": "godspeed-new-york-green-reaper-tee-bone",
-        "in_stock": true
-      },
-      "9457282056380": {
-        "title": "Godspeed New York OG Logo Slides V2 - Black",
-        "handle": "godspeed-new-york-og-logo-slides-v2-black",
         "in_stock": true
       }
     },
@@ -7964,11 +7964,6 @@
         "handle": "nike-clothing-m-nk-tch-df-wvn-wr-fz-jkt-aop-grey-j368498",
         "in_stock": true
       },
-      "9123631038669": {
-        "title": "ACG Radical AirFlow Fly Cap Anthracite",
-        "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-        "in_stock": false
-      },
       "9104979460301": {
         "title": "Trampler Shoes Black",
         "handle": "our-legacy-footwear-trampler-shoe-black-j337869",
@@ -8763,62 +8758,15 @@
         "title": "Men's Contrast Sleeves T-Shirt Grey Melange",
         "handle": "dries-van-noten-clothing-heedar-mklst-shirt-grey-j341140",
         "in_stock": false
+      },
+      "9107609583821": {
+        "title": "Women's Speedcat Ballet Metallic Jasmine Flower / Black",
+        "handle": "puma-footwear-speedcat-ballet-metallic-wns-white-j356398",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED LIGHTWEIGHT ZIP HOOD\nhttps://undefeated.com/products/undefeated-lightweight-zip-hood",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED REGIONAL S/S TEE - SF\nhttps://undefeated.com/products/undefeated-regional-s-s-tee-sf",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED LIGHTWEIGHT SHORT\nhttps://undefeated.com/products/undefeated-lightweight-short",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SHELL CARGO PANT\nhttps://undefeated.com/products/undefeated-shell-cargo-pant",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED PANELED SHORT\nhttps://undefeated.com/products/undefeated-paneled-short-1",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON SWEATPANT\nhttps://undefeated.com/products/undefeated-icon-sweatpant-4",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON SWEATSHORT\nhttps://undefeated.com/products/undefeated-icon-sweatshort-4",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SEAMED SWEATSHORT\nhttps://undefeated.com/products/undefeated-seamed-sweatshort",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED STATE BASKETBALL SHORT\nhttps://undefeated.com/products/undefeated-state-basketball-short",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED CLASSIC ICON PULLOVER HOOD\nhttps://undefeated.com/products/undefeated-classic-icon-pullover-hood",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X NE X DODGERS STACKED LOGO HOODIE\nhttps://undefeated.com/products/undefeated-x-ne-x-dodgers-stacked-logo-hoodie",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Paly Hollywood Jim's Room Satin Jacket - Mint\nhttps://sneakerpolitics.com/products/paly-hollywood-jims-room-satin-jacket-mint",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Paly Hollywood Sunset Blvd. Sponsored Suede Jacket - Tan\nhttps://sneakerpolitics.com/products/paly-hollywood-sunset-blvd-sponsored-suede-jacket-tan",
-      "detected_at": "2026-08-17T20:30:04.742030+00:00"
-    },
     {
       "message": "🆕 **New drop** at Kith: VANS LX Authentic 44 - Herringbone Black / Tan Brown\nhttps://kith.com/products/vn000z6rbml1",
       "detected_at": "2026-08-17T20:57:08.674745+00:00"
@@ -8838,6 +8786,34 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 17 Low 'Black Patent' - Black/Metallic Silver\nhttps://sneakerpolitics.com/products/air-jordan-17-low-black-patent-black-metallic-silver",
       "detected_at": "2026-08-17T20:57:08.674745+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X FREE THE YOUTH TRACK JACKET - BLACK\nhttps://undefeated.com/products/jordan-x-free-the-youth-track-jacket-black",
+      "detected_at": "2026-08-17T21:32:51.320901+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X FREE THE YOUTH TRACK PANTS - BLACK\nhttps://undefeated.com/products/jordan-x-free-the-youth-track-pants-black",
+      "detected_at": "2026-08-17T21:32:51.320901+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X FREE THE YOUTH SHORTS - BLACK\nhttps://undefeated.com/products/jordan-x-free-the-youth-shorts-black",
+      "detected_at": "2026-08-17T21:32:51.320901+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X FREE THE YOUTH FOOTBALL JERSEY - BLACK\nhttps://undefeated.com/products/jordan-x-free-the-youth-football-jersey-black",
+      "detected_at": "2026-08-17T21:32:51.320901+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X FREE THE YOUTH SCARF - BLACK\nhttps://undefeated.com/products/jordan-x-free-the-youth-scarf-black",
+      "detected_at": "2026-08-17T21:32:51.320901+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-NYC - Cream/Antique Red\nhttps://sneakerpolitics.com/products/asics-gel-nyc-cream-antique-red",
+      "detected_at": "2026-08-17T21:32:51.320901+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Speedcat Ballet Metallic Jasmine Flower / Black\nhttps://www.slamjam.com/products/puma-footwear-speedcat-ballet-metallic-wns-white-j356398",
+      "detected_at": "2026-08-17T21:32:51.320901+00:00"
     }
   ]
 }
