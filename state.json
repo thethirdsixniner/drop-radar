@@ -1371,7 +1371,7 @@
       "6700763545861": {
         "title": "NIKE SB DUNK LOW PRO - PALEIVORY/ SUMMITWHITE",
         "handle": "nike-sb-dunk-low-pro-paleivory-summitwhite",
-        "in_stock": true
+        "in_stock": false
       },
       "6700930236677": {
         "title": "NIKE SB DUNK LOW PRO - REDSTARDUST/ NEUTRALOLIVE",
@@ -2505,6 +2505,21 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11019598856459": {
+        "title": "Vans OTW x Neighborhood OTW Authentic 44",
+        "handle": "vans-otw-x-neighborhood-otw-authentic-44-natural",
+        "in_stock": true
+      },
+      "11020713722123": {
+        "title": "Puma x A$AP Rocky Straycat",
+        "handle": "puma-x-aap-rocky-straycat-puma-black-formula-red",
+        "in_stock": false
+      },
+      "11019601051915": {
+        "title": "Vans OTW x Neighborhood OTW Authentic 44",
+        "handle": "vans-otw-x-neighborhood-otw-authentic-44-black",
+        "in_stock": true
+      },
       "11016289353995": {
         "title": "New Balance 991 v2 *Made in England*",
         "handle": "new-balance-991-v2-made-in-england-insignia-blue",
@@ -3739,24 +3754,39 @@
         "title": "Polo Ralph Lauren Cormac Relaxed Fit Chino Short",
         "handle": "polo-ralph-lauren-prepster-linen-short-kelly-green",
         "in_stock": true
-      },
-      "10621028892939": {
-        "title": "Autry Heritage Logo Graphic Tee",
-        "handle": "autry-heritage-logo-graphic-tee-white",
-        "in_stock": true
-      },
-      "11013973180683": {
-        "title": "47 NHL Toronto Maple Leafs *Tuscaloosa Clean Up* Cap",
-        "handle": "47-nhl-toronto-maple-leafs-tuscaloosa-clean-up-cap-vintage-navy",
-        "in_stock": true
-      },
-      "11014034948363": {
-        "title": "47 MLB New York Yankees *Clean Up* Cap (Prt)",
-        "handle": "47-mlb-new-york-yankees-clean-up-cap-prt",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9490403885244": {
+        "title": "Free The Youth x Jordan Track Jacket - Black",
+        "handle": "free-the-youth-x-jordan-track-jacket-black",
+        "in_stock": true
+      },
+      "9490417254588": {
+        "title": "Free The Youth x Jordan Basketball Jersey - Black/Light Crimson",
+        "handle": "free-the-youth-x-jordan-basketball-jersey-black-light-crimson",
+        "in_stock": true
+      },
+      "9490407391420": {
+        "title": "Free The Youth x Jordan Track Pants - Black/Light Crimson",
+        "handle": "free-the-youth-x-jordan-track-pants-black-light-crimson",
+        "in_stock": true
+      },
+      "9490423709884": {
+        "title": "Free The Youth x Jordan Scarf - White",
+        "handle": "free-the-youth-x-jordan-scarf-white",
+        "in_stock": true
+      },
+      "9491662045372": {
+        "title": "Air Jordan 9 Retro Low 'What The Kilroy' - Black/Challenge Red",
+        "handle": "air-jordan-9-retro-low-what-the-kilroy-black-challenge-red",
+        "in_stock": true
+      },
+      "9490396348604": {
+        "title": "Free The Youth SP x Air Jordan 16 - Metallic Silver/Picante Red",
+        "handle": "free-the-youth-sp-x-air-jordan-16-metallic-silver-picante-red",
+        "in_stock": false
+      },
       "9119233015996": {
         "title": "New Balance 1906L - Silver Metallic/Black",
         "handle": "new-balance-1906l-silver-metallic-black",
@@ -4975,36 +5005,6 @@
       "9349912658108": {
         "title": "Women's Nike Air Force 1 '07 'Floral' - Pink Rise/Pink Rise",
         "handle": "womens-nike-air-force-1-07-floral-pink-rise-pink-rise",
-        "in_stock": true
-      },
-      "9372675866812": {
-        "title": "Nike Zoom Vomero 5 - Desert Khaki/Dark Hazel",
-        "handle": "nike-zoom-vomero-5-desert-khaki-dark-hazel",
-        "in_stock": true
-      },
-      "9363108987068": {
-        "title": "Big Kids Palace x England x Nike Soccer Top - Pewter Grey/Bright Crimson",
-        "handle": "big-kids-palace-x-england-x-nike-soccer-top-pewter-grey-bright-crimson",
-        "in_stock": true
-      },
-      "8717158121660": {
-        "title": "Billionaire Boys Club Helmet Knit Tee - Black",
-        "handle": "billionaire-boys-club-helmet-knit-tee-black-2",
-        "in_stock": true
-      },
-      "9150987174076": {
-        "title": "Crocs Quick Trail Racer - Sky Ice",
-        "handle": "crocs-quick-trail-racer-sky-ice",
-        "in_stock": true
-      },
-      "9372634185916": {
-        "title": "Nike Air Max 95 OG 'Scorpion' - Black/Gamma Blue",
-        "handle": "nike-air-max-95-og-scorpion-black-gamma-blue",
-        "in_stock": true
-      },
-      "9403739963580": {
-        "title": "Birkenstock Arizona Soft Footbed Suede - Taupe",
-        "handle": "birkenstock-arizona-soft-footbed-suede-taupe",
         "in_stock": true
       }
     },
@@ -7854,11 +7854,6 @@
         "handle": "nike-footwear-wmns-nike-rift-2-white-j368343",
         "in_stock": true
       },
-      "9111583719629": {
-        "title": "Men's H.D. Poly Smooth Track Pants Charcoal",
-        "handle": "needles-clothing-hd-track-pant-poly-smooth-grey-j353073",
-        "in_stock": false
-      },
       "9125741789389": {
         "title": "Tobacco Super Sneakers Fox Brown",
         "handle": "adidas-footwear-tobacco-super-brown-j362365",
@@ -8763,6 +8758,11 @@
         "title": "204L Sneakers Quicksand / Bark",
         "handle": "new-balance-footwear-u204lfsp-beige-j359408",
         "in_stock": true
+      },
+      "9124189700301": {
+        "title": "204L Sneakers Pumpernickel / Black",
+        "handle": "new-balance-footwear-u204lfsg-brown-j359407",
+        "in_stock": true
       }
     }
   },
@@ -8770,6 +8770,38 @@
     {
       "message": "🆕 **New drop** at Kith: Nike PS Kobe 5 Protro - Hyper Royal / Wolf Gray / White\nhttps://kith.com/products/nkir1849-400",
       "detected_at": "2026-08-17T13:53:25.732115+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Vans OTW x Neighborhood OTW Authentic 44\nhttps://www.asphaltgold.de/products/vans-otw-x-neighborhood-otw-authentic-44-natural",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Vans OTW x Neighborhood OTW Authentic 44\nhttps://www.asphaltgold.de/products/vans-otw-x-neighborhood-otw-authentic-44-black",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Free The Youth x Jordan Track Jacket - Black\nhttps://sneakerpolitics.com/products/free-the-youth-x-jordan-track-jacket-black",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Free The Youth x Jordan Basketball Jersey - Black/Light Crimson\nhttps://sneakerpolitics.com/products/free-the-youth-x-jordan-basketball-jersey-black-light-crimson",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Free The Youth x Jordan Track Pants - Black/Light Crimson\nhttps://sneakerpolitics.com/products/free-the-youth-x-jordan-track-pants-black-light-crimson",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Free The Youth x Jordan Scarf - White\nhttps://sneakerpolitics.com/products/free-the-youth-x-jordan-scarf-white",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 9 Retro Low 'What The Kilroy' - Black/Challenge Red\nhttps://sneakerpolitics.com/products/air-jordan-9-retro-low-what-the-kilroy-black-challenge-red",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: 204L Sneakers Pumpernickel / Black\nhttps://www.slamjam.com/products/new-balance-footwear-u204lfsg-brown-j359407",
+      "detected_at": "2026-08-17T14:30:47.180007+00:00"
     }
   ]
 }
