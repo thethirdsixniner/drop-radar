@@ -1,6 +1,26 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286665736320": {
+        "title": "VANS LX Authentic 44 - Herringbone Black / Tan Brown",
+        "handle": "vn000z6rbml1",
+        "in_stock": true
+      },
+      "8286656430208": {
+        "title": "New Balance TD MT2 - Cortado / Pumpernickel",
+        "handle": "nbmt24yj",
+        "in_stock": true
+      },
+      "8286646665344": {
+        "title": "Birkenstock WMNS Arizona Rivets - Pepper",
+        "handle": "bir1032876",
+        "in_stock": true
+      },
+      "8286646468736": {
+        "title": "Birkenstock WMNS Arizona Rivets - Taupe",
+        "handle": "br1029390",
+        "in_stock": true
+      },
       "8286665638016": {
         "title": "HOKA x BEAMS Bondi 7 - Turtle Dove / Tidal Foam",
         "handle": "ho1183211-tlf",
@@ -449,7 +469,7 @@
       "8286649221248": {
         "title": "Kith & Nalgene for BMW Water Bottle - Black",
         "handle": "khla150102-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286649155712": {
         "title": "Kith for BMW Set of 5 Pin Set - Multi",
@@ -544,7 +564,7 @@
       "8286647910528": {
         "title": "Kith for BMW Mug - Sunglow",
         "handle": "khla150096-859",
-        "in_stock": true
+        "in_stock": false
       },
       "8286647877760": {
         "title": "Kith for BMW License Plate Holder - Multi",
@@ -1229,26 +1249,6 @@
       "8286643847296": {
         "title": "Rhude Chrono Logo Embroidered Trucker Hat - Black / Blue / Gold",
         "handle": "rhupf26ha02512-6558",
-        "in_stock": true
-      },
-      "8286643716224": {
-        "title": "Rhude Baggy Collegiate Logo Short - Tan / Gold",
-        "handle": "rhupf26sh01016-6524",
-        "in_stock": true
-      },
-      "8286643552384": {
-        "title": "Rhude Captains Crest Hat - Black / Red / White",
-        "handle": "rhupf26ha01514-3179",
-        "in_stock": true
-      },
-      "8286643683456": {
-        "title": "Rhude Baggy Collegiate Logo Short - Grey / Silver",
-        "handle": "rhupf26sh01016-6525",
-        "in_stock": true
-      },
-      "8286640767104": {
-        "title": "Oakley Eye Jacket Redux Sunglasses - Trans Vapor Bengal / Prizm Snow",
-        "handle": "oakoo9438-3758",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9490438521020": {
+        "title": "Air Jordan 17 Low 'Black Patent' - Black/Metallic Silver",
+        "handle": "air-jordan-17-low-black-patent-black-metallic-silver",
+        "in_stock": true
+      },
       "9081124356284": {
         "title": "Paly Hollywood Jim's Room Satin Jacket - Mint",
         "handle": "paly-hollywood-jims-room-satin-jacket-mint",
@@ -5000,11 +5005,6 @@
       "9457282056380": {
         "title": "Godspeed New York OG Logo Slides V2 - Black",
         "handle": "godspeed-new-york-og-logo-slides-v2-black",
-        "in_stock": true
-      },
-      "9351495352508": {
-        "title": "Air Jordan 1 Low (GS) - Palomino/Phantom",
-        "handle": "air-jordan-1-low-gs-palomino-phantom",
         "in_stock": true
       }
     },
@@ -8768,222 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW 1602 Tee - Sandrift\nhttps://kith.com/products/khmg030032-104",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW CSi 3.0 Tee - Black\nhttps://kith.com/products/khmg030033-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Nelson Quarter Zip - Vitality\nhttps://kith.com/products/khmg030028-345",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW M3 Photo Tee - White\nhttps://kith.com/products/khmg030034-101",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW M3 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030038-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Podium Brushed Twill Relaxed Trucker Cap - Desert\nhttps://kith.com/products/khma050098-219",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Silk Bandana - Black\nhttps://kith.com/products/khma130074-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Catchall Tray - Cinnabar\nhttps://kith.com/products/khla150092-616",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Silk Bandana - Vitality\nhttps://kith.com/products/khma130075-345",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Leather 3-Watch Roll - Camel\nhttps://kith.com/products/khma340088-3089",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Two-Tone Brushed Twill BL Pinch Crown Cap - Sandrift\nhttps://kith.com/products/khma050096-104",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW M1 Racer Brushed Twill Classic Cap - Black\nhttps://kith.com/products/khma050102-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Nylon Bay Low Pinch Crown Cap - Black\nhttps://kith.com/products/khma050095-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Mug - Vitality\nhttps://kith.com/products/khla150095-345",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Microsuede Classic Cap - Black\nhttps://kith.com/products/khma050100-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Mug - Techno Violet\nhttps://kith.com/products/khla150094-599",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith & Nalgene for BMW Water Bottle - Black\nhttps://kith.com/products/khla150102-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Set of 5 Pin Set - Multi\nhttps://kith.com/products/khla310072-906",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Jacquard Towel - Vitality\nhttps://kith.com/products/khla270070-345",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Jacquard Towel - Techno Violet\nhttps://kith.com/products/khla270070-599",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Mug - Sunglow\nhttps://kith.com/products/khla150096-859",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Jacquard Towel - Sunglow\nhttps://kith.com/products/khla270070-859",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Cigar Case - Sunglow\nhttps://kith.com/products/khla340071-859",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Gwynn Pinch Crown Cap - Black\nhttps://kith.com/products/khma050173-001",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SIDEWALK S/S TEE\nhttps://undefeated.com/products/undefeated-sidewalk-s-s-tee",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED PLAY DIRTY S/S TEE\nhttps://undefeated.com/products/undefeated-play-dirty-s-s-tee-1",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED STREAK S/S TEE\nhttps://undefeated.com/products/undefeated-streak-s-s-tee",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED 3000 S/S TEE\nhttps://undefeated.com/products/undefeated-3000-s-s-tee",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED FUCK FACE S/S TEE\nhttps://undefeated.com/products/undefeated-fuck-face-s-s-tee",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED OUTLINED S/S TEE\nhttps://undefeated.com/products/undefeated-outlined-s-s-tee",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X NE ICON FITTED\nhttps://undefeated.com/products/undefeated-x-ne-icon-fitted-17",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON MESH SNAPBACK\nhttps://undefeated.com/products/undefeated-icon-mesh-snapback-1",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED HALF ZIP WINDBREAKER\nhttps://undefeated.com/products/undefeated-half-zip-windbreaker",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED PLAID S/S BUTTON DOWN\nhttps://undefeated.com/products/undefeated-plaid-s-s-button-down",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED LIGHTWEIGHT S/S BUTTON DOWN\nhttps://undefeated.com/products/undefeated-lightweight-s-s-button-down",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON CREWNECK\nhttps://undefeated.com/products/undefeated-icon-crewneck-2",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON ZIP HOOD\nhttps://undefeated.com/products/undefeated-icon-zip-hood-2",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON PULLOVER HOOD\nhttps://undefeated.com/products/undefeated-icon-pullover-hood-3",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED FIVE S/S JERSEY\nhttps://undefeated.com/products/undefeated-five-s-s-jersey",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED STATE BASKETBALL JERSEY\nhttps://undefeated.com/products/undefeated-state-basketball-jersey",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED AIRPOD CASE\nhttps://undefeated.com/products/undefeated-airpod-case",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED ICON MUG\nhttps://undefeated.com/products/undefeated-icon-mug",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED TOY WATER GUN - ASSORTED\nhttps://undefeated.com/products/undefeated-toy-water-gun-assorted",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED LOGO BEACH TOWEL\nhttps://undefeated.com/products/undefeated-logo-beach-towel",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFFEATED TIGER CAMO VALET TRAY - CAMO\nhttps://undefeated.com/products/undeffeated-tiger-camo-valet-tray-camo",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED WOODLAND YOGA MAT - CAMO\nhttps://undefeated.com/products/undefeated-woodland-yoga-mat-camo",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED BASEBALL - WHITE\nhttps://undefeated.com/products/undefeated-baseball-white",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED MICROFIBER TOWEL, 8-PACK - OLIVE\nhttps://undefeated.com/products/undefeated-microfiber-towel-8-pack-olive",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED AIRTAG KEYCHAIN\nhttps://undefeated.com/products/undefeated-airtag-keychain",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED SUNGLASS CASE\nhttps://undefeated.com/products/undefeated-sunglass-case",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED DOG BAG DISPENSER SET - OLIVE\nhttps://undefeated.com/products/undefeated-dog-bag-dispenser-set-olive",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED TIGER CAMO TOTE BAG - CAMO\nhttps://undefeated.com/products/undefeated-tiger-camo-tote-bag-camo",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED OVERSIZED BACKPACK\nhttps://undefeated.com/products/undefeated-oversized-backpack",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: MALBON X UNDEFEATED SHOE BAG - BLACK\nhttps://undefeated.com/products/malbon-x-undefeated-shoe-bag-black",
-      "detected_at": "2026-08-17T19:54:04.788074+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Undefeated: UNDEFEATED LIGHTWEIGHT ZIP HOOD\nhttps://undefeated.com/products/undefeated-lightweight-zip-hood",
       "detected_at": "2026-08-17T20:30:04.742030+00:00"
     },
@@ -9034,6 +8818,26 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Paly Hollywood Sunset Blvd. Sponsored Suede Jacket - Tan\nhttps://sneakerpolitics.com/products/paly-hollywood-sunset-blvd-sponsored-suede-jacket-tan",
       "detected_at": "2026-08-17T20:30:04.742030+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: VANS LX Authentic 44 - Herringbone Black / Tan Brown\nhttps://kith.com/products/vn000z6rbml1",
+      "detected_at": "2026-08-17T20:57:08.674745+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: New Balance TD MT2 - Cortado / Pumpernickel\nhttps://kith.com/products/nbmt24yj",
+      "detected_at": "2026-08-17T20:57:08.674745+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Birkenstock WMNS Arizona Rivets - Pepper\nhttps://kith.com/products/bir1032876",
+      "detected_at": "2026-08-17T20:57:08.674745+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Birkenstock WMNS Arizona Rivets - Taupe\nhttps://kith.com/products/br1029390",
+      "detected_at": "2026-08-17T20:57:08.674745+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 17 Low 'Black Patent' - Black/Metallic Silver\nhttps://sneakerpolitics.com/products/air-jordan-17-low-black-patent-black-metallic-silver",
+      "detected_at": "2026-08-17T20:57:08.674745+00:00"
     }
   ]
 }
