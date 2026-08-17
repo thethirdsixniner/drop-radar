@@ -1256,12 +1256,12 @@
       "6702685421829": {
         "title": "NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE",
         "handle": "nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
-        "in_stock": false
+        "in_stock": true
       },
       "6702685356293": {
         "title": "NIKE KOBE V PROTRO - HYPERROYAL/ WOLFGREY / WHITE",
         "handle": "nike-kobe-5-lad-hyper-royal-wolf-grey-white",
-        "in_stock": false
+        "in_stock": true
       },
       "6702685389061": {
         "title": "NIKE GS KOBE 5 - HYPER ROYAL/ WOLF GREY / WHITE",
@@ -1836,7 +1836,7 @@
       "6702314193157": {
         "title": "ASICS GEL-SD-LYTE - MIDNIGHT/ CREAM",
         "handle": "asics-gel-sd-lyte-midnight-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "6688118276357": {
         "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
@@ -3862,11 +3862,6 @@
         "handle": "vans-otw-era-95-dst-relic-navy-red",
         "in_stock": true
       },
-      "9297354227900": {
-        "title": "Nike Force 1 Low Patent Leather (PS) - White/White",
-        "handle": "nike-force-1-low-patent-leather-ps-white-white",
-        "in_stock": false
-      },
       "9297396793532": {
         "title": "Nike Force 1 Low Patent Leather (PS) - Black/Black",
         "handle": "nike-force-1-low-patent-leather-ps-black-black",
@@ -4472,11 +4467,6 @@
         "handle": "nike-air-griffey-max-1-hbcu-swingman-classic-gs-midnight-navy-team-gold",
         "in_stock": true
       },
-      "9029510987964": {
-        "title": "James Oro Authentic II - Clear Tint/Gold",
-        "handle": "james-oro-authentic-ii-clear-tint-gold",
-        "in_stock": false
-      },
       "9471039111356": {
         "title": "Crocs Roy - Elephant",
         "handle": "crocs-roy-elephant",
@@ -5005,6 +4995,16 @@
       "9431930306748": {
         "title": "Women's Japan Decon - Silver Metallic/Orange Tint",
         "handle": "womens-japan-decon-silver-metallic-orange-tint",
+        "in_stock": true
+      },
+      "9431937319100": {
+        "title": "Adidas Handball Spezial - Off White/Shadow Red",
+        "handle": "adidas-handball-spezial-off-white-shadow-red",
+        "in_stock": true
+      },
+      "9431944495292": {
+        "title": "Adidas BW Army - Core Black/Gum",
+        "handle": "adidas-bw-army-core-black-gum",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Undefeated: NIKE ZOOM HYPERFLIGHT SLAM - STARFISH/WHITE-SMOKE GREY / BLACK\nhttps://undefeated.com/products/nike-zoom-hyperflight-slam-starfish-white-smoke-grey-black",
-      "detected_at": "2026-08-17T01:25:08.876375+00:00"
+      "message": "🔥 **Restock** at Undefeated: NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE\nhttps://undefeated.com/products/nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
+      "detected_at": "2026-08-17T02:43:00.687989+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: NIKE KOBE V PROTRO - HYPERROYAL/ WOLFGREY / WHITE\nhttps://undefeated.com/products/nike-kobe-5-lad-hyper-royal-wolf-grey-white",
+      "detected_at": "2026-08-17T02:43:00.687989+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Adidas Handball Spezial - Off White/Shadow Red\nhttps://sneakerpolitics.com/products/adidas-handball-spezial-off-white-shadow-red",
+      "detected_at": "2026-08-17T02:43:00.687989+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Adidas BW Army - Core Black/Gum\nhttps://sneakerpolitics.com/products/adidas-bw-army-core-black-gum",
+      "detected_at": "2026-08-17T02:43:00.687989+00:00"
     }
   ]
 }
