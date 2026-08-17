@@ -6261,25 +6261,35 @@
       }
     },
     "https://www.afew-store.com": {
+      "10593874608394": {
+        "title": "Birkenstock WMNS Arizona (Narrow Fit)",
+        "handle": "birkenstock-wmns-faded-khaki-dark-brown-os-suede-leather-pepper",
+        "in_stock": false
+      },
+      "10593874280714": {
+        "title": "Birkenstock WMNS Arizona (Narrow Fit)",
+        "handle": "birkenstock-wmns-faded-khaki-dark-brown-os-suede-leather-oyster",
+        "in_stock": false
+      },
       "10593868153098": {
         "title": "Puma WMNS Speedcat Ballet Dress-Up",
         "handle": "puma-wmns-speedcat-ballet-dress-up-puma-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10593867792650": {
         "title": "Puma WMNS Speedcat Ballet Dress-Up",
         "handle": "puma-wmns-speedcat-ballet-dress-up-garnet-glow-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10593862123786": {
         "title": "Keen Wander",
         "handle": "keen-wander-triple-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10593857143050": {
         "title": "Keen Wander Trailrunningshoes",
         "handle": "keen-wander-safari-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10593846952202": {
         "title": "adidas Originals x SFTM TANK",
@@ -7499,16 +7509,6 @@
       "10578559172874": {
         "title": "Saucony PROGRID RIDE 1",
         "handle": "saucony-progrid-ride-1-ivory-silver",
-        "in_stock": true
-      },
-      "10435994878218": {
-        "title": "Afew Goods Save The Birds Longsleeve",
-        "handle": "afew-goods-save-the-birds-tee-black",
-        "in_stock": false
-      },
-      "10578322915594": {
-        "title": "Lacoste CASUAL SHIRT",
-        "handle": "lacoste-casual-shirt-turquin-blue-white",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,22 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Afew Store: Puma WMNS Speedcat Ballet Dress-Up\nhttps://www.afew-store.com/products/puma-wmns-speedcat-ballet-dress-up-puma-black",
+      "detected_at": "2026-08-17T09:57:51.542132+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Puma WMNS Speedcat Ballet Dress-Up\nhttps://www.afew-store.com/products/puma-wmns-speedcat-ballet-dress-up-garnet-glow-black",
+      "detected_at": "2026-08-17T09:57:51.542132+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Keen Wander\nhttps://www.afew-store.com/products/keen-wander-triple-black",
+      "detected_at": "2026-08-17T09:57:51.542132+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Keen Wander Trailrunningshoes\nhttps://www.afew-store.com/products/keen-wander-safari-black",
+      "detected_at": "2026-08-17T09:57:51.542132+00:00"
+    }
+  ]
 }
