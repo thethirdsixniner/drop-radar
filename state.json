@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286665638016": {
+        "title": "HOKA x BEAMS Bondi 7 - Turtle Dove / Tidal Foam",
+        "handle": "ho1183211-tlf",
+        "in_stock": true
+      },
+      "8286665670784": {
+        "title": "HOKA x BEAMS Bondi 7 - Chestnut / Black Bean",
+        "handle": "ho1183211-cckb",
+        "in_stock": true
+      },
       "8286654791808": {
         "title": "Kith for BMW M1 Photo Tee - White",
         "handle": "khmg030035-101",
@@ -229,7 +239,7 @@
       "8286651875456": {
         "title": "Kith for BMW M1 Racer Brushed Twill Classic Cap - Nocturnal",
         "handle": "khma050102-413",
-        "in_stock": true
+        "in_stock": false
       },
       "8286651809920": {
         "title": "Kith for BMW M3 Cardholder - Cinnabar",
@@ -1239,16 +1249,6 @@
       "8286640767104": {
         "title": "Oakley Eye Jacket Redux Sunglasses - Trans Vapor Bengal / Prizm Snow",
         "handle": "oakoo9438-3758",
-        "in_stock": true
-      },
-      "8286640734336": {
-        "title": "Oakley Eye Jacket Redux Sunglasses - Matte Brown Smoke / Prizm Deep Water Polarized",
-        "handle": "oakoo9438-4558",
-        "in_stock": true
-      },
-      "8286640668800": {
-        "title": "Oakley Eye Jacket Redux Sunglasses - Matte Moss / Prizm Tungsten",
-        "handle": "oakoo9438-4458",
         "in_stock": true
       }
     },
@@ -3658,7 +3658,7 @@
       "10855846215947": {
         "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
         "handle": "sporty-rich-heritage-yankees-serif-sweatpant-heather-gray",
-        "in_stock": true
+        "in_stock": false
       },
       "10861861536011": {
         "title": "Adidas\tTrefoil Series Roses T-Shirt",
@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9138925732028": {
+        "title": "Diet Starts Monday Repair Cargo Pants - Tan",
+        "handle": "diet-starts-monday-repair-cargo-pants-tan",
+        "in_stock": false
+      },
+      "9111677436092": {
+        "title": "Adidas Adistar XLG 2.0 - Grey One/Silver Metallic",
+        "handle": "adidas-adistar-xlg-2-0-grey-one-silver-metallic",
+        "in_stock": true
+      },
       "9356500566204": {
         "title": "Nike Air Zoom Flight 'The Glove' - Black/White",
         "handle": "nike-air-zoom-flight-the-glove-black-white",
@@ -4995,16 +5005,6 @@
       "9352456044732": {
         "title": "Nike Dunk Low Retro Premium - Sail/Light Bone",
         "handle": "nike-dunk-low-retro-premium-sail-light-bone",
-        "in_stock": true
-      },
-      "9346402320572": {
-        "title": "Nike Air Force 1 '07 LV8 - Old Royal/Black",
-        "handle": "nike-air-force-1-07-lv8-old-royal-black",
-        "in_stock": true
-      },
-      "9373341941948": {
-        "title": "Nike P-6000 - Dark Smoke Grey/Volt",
-        "handle": "nike-p-6000-dark-smoke-grey-volt",
         "in_stock": true
       }
     },
@@ -8838,6 +8838,18 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Salomon XT-4 OG Aurora Borealis - Canteen/Transparent Yellow\nhttps://sneakerpolitics.com/products/salomon-xt-4-og-aurora-borealis-canteen-transparent-yellow",
       "detected_at": "2026-08-17T18:50:53.166961+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: HOKA x BEAMS Bondi 7 - Turtle Dove / Tidal Foam\nhttps://kith.com/products/ho1183211-tlf",
+      "detected_at": "2026-08-17T19:30:07.022027+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: HOKA x BEAMS Bondi 7 - Chestnut / Black Bean\nhttps://kith.com/products/ho1183211-cckb",
+      "detected_at": "2026-08-17T19:30:07.022027+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Adidas Adistar XLG 2.0 - Grey One/Silver Metallic\nhttps://sneakerpolitics.com/products/adidas-adistar-xlg-2-0-grey-one-silver-metallic",
+      "detected_at": "2026-08-17T19:30:07.022027+00:00"
     }
   ]
 }
