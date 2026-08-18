@@ -4452,11 +4452,6 @@
         "handle": "rhude-filtaro-logo-sock-white-red",
         "in_stock": true
       },
-      "9283366912188": {
-        "title": "Nike Standard Issue Sleeveless Top - Black/Pale Ivory",
-        "handle": "nike-standard-issue-sleeveless-top-black-pale-ivory",
-        "in_stock": false
-      },
       "9346469855420": {
         "title": "Nike Book 2 Premium 'Eggplant Foamposite' - Varsity Purple/Black",
         "handle": "nike-book-2-premium-eggplant-foamposite-varsity-purple-black",
@@ -5005,6 +5000,11 @@
       "9329125392572": {
         "title": "New Balance Gator Run - Cider/Amber Haze",
         "handle": "new-balance-gator-run-cider-amber-haze",
+        "in_stock": true
+      },
+      "9472688554172": {
+        "title": "Women's Nike Zoom Streak 3 - Cream II/Sail",
+        "handle": "womens-nike-zoom-streak-3-cream-ii-sail",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Zoom Streak 3 - Cream II/Sail\nhttps://sneakerpolitics.com/products/womens-nike-zoom-streak-3-cream-ii-sail",
+      "detected_at": "2026-08-18T03:29:40.727913+00:00"
+    }
+  ]
 }
