@@ -379,7 +379,7 @@
       "8286650630272": {
         "title": "Kith for BMW Ansel Quarter Zip Sweater - Desert",
         "handle": "khma030188-219",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650597504": {
         "title": "Kith for BMW Porter Knit Varsity Jacket - Black",
@@ -5342,7 +5342,7 @@
       "15043094479224": {
         "title": "Mizuno Wave Prophecy 13.2 'Harvest Gold Black Snow White'",
         "handle": "wave-prophecy-13-2-harvest-gold-black-snow-white",
-        "in_stock": false
+        "in_stock": true
       },
       "15043094151544": {
         "title": "Mizuno Wave Prophecy 13.2 'Spring Crocus Black Harbor Mist'",
@@ -8768,54 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Ansel Quarter Zip Sweater - Desert\nhttps://kith.com/products/khma030188-219",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Mug - Vitality\nhttps://kith.com/products/khla150095-345",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias MVP Sweatpant - Heather Grey/Black\nhttps://sneakerpolitics.com/products/nahmias-mvp-sweatpant-heather-grey-black",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias MVP Crewneck - Heather Grey/Black\nhttps://sneakerpolitics.com/products/nahmias-mvp-crewneck-heather-grey-black",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias TV Boxy Tee - Egg White\nhttps://sneakerpolitics.com/products/nahmias-tv-boxy-tee-egg-white",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Floral Patch Crystal Camo Short - Camo\nhttps://sneakerpolitics.com/products/nahmias-floral-patch-crystal-camo-short-camo",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Scribble L/S Soccer Jersey - Brown\nhttps://sneakerpolitics.com/products/nahmias-scribble-l-s-soccer-jersey-brown",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Warm Up Jacket - Seaweed Green\nhttps://sneakerpolitics.com/products/nahmias-warm-up-jacket-seaweed-green",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Warm Up Pant - Seaweed Green\nhttps://sneakerpolitics.com/products/nahmias-warm-up-pant-seaweed-green",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Camp Miracle Boxy Tee - Egg White\nhttps://sneakerpolitics.com/products/nahmias-camp-miracle-boxy-tee-egg-white",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Tonal Warm Up Pant - Black\nhttps://sneakerpolitics.com/products/nahmias-tonal-warm-up-pant-black",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Tonal Warm Up Jacket - Black\nhttps://sneakerpolitics.com/products/nahmias-tonal-warm-up-jacket-black",
-      "detected_at": "2026-08-18T19:00:41.408162+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Kith: Rhude Filtaro Crest Hoodie - Vintage Black / Red / Yellow\nhttps://kith.com/products/rhupf26ho01012-6499",
       "detected_at": "2026-08-18T19:40:52.910692+00:00"
     },
@@ -8826,6 +8778,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Politics x Mitchell & Ness Pro Pinch Arch Canvas Snapback - Black\nhttps://sneakerpolitics.com/products/politics-x-mitchell-ness-pro-pinch-arch-canvas-snapback-black",
       "detected_at": "2026-08-18T19:40:52.910692+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Mizuno Wave Prophecy 13.2 'Harvest Gold Black Snow White'\nhttps://www.kickgame.co.uk/products/wave-prophecy-13-2-harvest-gold-black-snow-white",
+      "detected_at": "2026-08-18T19:58:44.364504+00:00"
     }
   ]
 }
