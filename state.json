@@ -109,7 +109,7 @@
       "8286654267520": {
         "title": "Kith for BMW CSi 3.0 Tee - Black",
         "handle": "khmg030033-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286654234752": {
         "title": "Kith for BMW Nelson Quarter Zip - Vitality",
@@ -619,7 +619,7 @@
       "8286647484544": {
         "title": "Kith for BMW Cigar Case - Sunglow",
         "handle": "khla340071-859",
-        "in_stock": true
+        "in_stock": false
       },
       "8286647451776": {
         "title": "Kith for BMW Eckhart Jacket - Sunglow",
@@ -2933,7 +2933,7 @@
       "10861917470987": {
         "title": "Salomon XT-Whisper",
         "handle": "salomon-xtwhisper-almond-milk-footwear-silver-lava-falls",
-        "in_stock": true
+        "in_stock": false
       },
       "10823814480139": {
         "title": "Adidas Gazelle Sala",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9405625172156": {
+        "title": "Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White",
+        "handle": "pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
+        "in_stock": true
+      },
       "9187898949820": {
         "title": "New Era x Timberland Houston Astros Pre Curve 59FIFTY Fitted - Wheat",
         "handle": "new-era-x-timberland-houston-astros-pre-curve-59fifty-fitted-wheat",
@@ -5001,11 +5006,6 @@
         "title": "Politics x Dallas Mavericks x Mitchell & Ness Hoodie - Navy",
         "handle": "politics-x-dallas-mavericks-x-mitchell-ness-hoodie-navy",
         "in_stock": true
-      },
-      "8747392073916": {
-        "title": "Politics x Dallas Mavericks x Mitchell & Ness Tee - Navy",
-        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-tee-navy",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5557,7 +5557,7 @@
       "15034694861176": {
         "title": "On Cloudvista 2 'Black Black'",
         "handle": "on-cloudvista-2-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "15034694467960": {
         "title": "On Cloudsurfer Next 'Glacier Glacier'",
@@ -8768,34 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Salomon X-ALP LTR - Cloudburst / Paloma / Black\nhttps://kith.com/products/sall49196300",
-      "detected_at": "2026-08-18T14:41:07.613612+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: ASICS GS GEL-1130 - White / Twilight Blue\nhttps://kith.com/products/asi1204a169-109",
-      "detected_at": "2026-08-18T14:41:07.613612+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: ASICS GS GEL-1130 - White / Clay Canyon\nhttps://kith.com/products/asi1204a169-108",
-      "detected_at": "2026-08-18T14:41:07.613612+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: ASICS GS GEL-1130 - White / Dragon Fruit\nhttps://kith.com/products/asi1204a169-107",
-      "detected_at": "2026-08-18T14:41:07.613612+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance Sport Legacy Jacket\nhttps://www.asphaltgold.de/products/new-balance-sport-legacy-jacket-black",
-      "detected_at": "2026-08-18T14:41:07.613612+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Mizuno Wave Prophecy 13.2 'Spring Crocus Black Harbor Mist'\nhttps://www.kickgame.co.uk/products/wave-prophecy-13-2-spring-crocus-black-harbor-mist",
-      "detected_at": "2026-08-18T14:41:07.613612+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP OG Detroit Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-detroit-jacket-black-black-48063",
-      "detected_at": "2026-08-18T14:41:07.613612+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Kith: CDG Pocket Wonderoud Eau de Parfum 100ML\nhttps://kith.com/products/cdg-65090991",
       "detected_at": "2026-08-18T15:13:31.609071+00:00"
     },
@@ -8906,6 +8878,10 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Men's Tasman II Sandals Black\nhttps://www.slamjam.com/products/ugg-footwear-tasman-ii-black-j368183",
       "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
+      "detected_at": "2026-08-18T15:48:57.468339+00:00"
     }
   ]
 }
