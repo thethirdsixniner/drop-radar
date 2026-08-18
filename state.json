@@ -444,7 +444,7 @@
       "8286649581696": {
         "title": "Kith for BMW Teddy Bear - Cinnabar",
         "handle": "khla270089-616",
-        "in_stock": false
+        "in_stock": true
       },
       "8286649483392": {
         "title": "Kith for BMW 1602 Elektro Poster - Multi",
@@ -1621,7 +1621,7 @@
       "6702688993541": {
         "title": "VANS PREMIUM ERA 95 'RELIC PACK' -  CHECKERBOARD",
         "handle": "vans-premium-era-95-relic-pack-checkerboard",
-        "in_stock": true
+        "in_stock": false
       },
       "6702447919365": {
         "title": "UNDEFEATED X CONVERSE X BK DODGERS CHUCK 70 HI - BLACK/ EGRET",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "10747463827723": {
+        "title": "Adidas Campus 00s Winter Lo W",
+        "handle": "adidas-campus-00s-winter-lo-w-magic-beige-magic-beige-gum-4",
+        "in_stock": true
+      },
       "11019592237323": {
         "title": "Karhu Fusion XT",
         "handle": "karhu-fusion-xt-silver-lining-adobe-rose",
@@ -2538,7 +2543,7 @@
       "10752909508875": {
         "title": "Nike Vomero Premium",
         "handle": "nike-vomero-premium-sail-coconut-milk-total-orange-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10883647832331": {
         "title": "Gramicci G-Short",
@@ -3749,14 +3754,19 @@
         "title": "Adidas x Wales Bonner Knit Vest",
         "handle": "adidas-x-wales-bonner-knit-vest-collegiate-navy-magic-beige-better-scarlet",
         "in_stock": true
-      },
-      "10762966270219": {
-        "title": "Autry Trench",
-        "handle": "autry-trench-fiber",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9472724074684": {
+        "title": "Women's Nike Rejuven8 Run 'Camo Pack' - Black/Barkroot Brown",
+        "handle": "womens-nike-rejuven8-run-camo-pack-black-barkroot-brown",
+        "in_stock": true
+      },
+      "9472739672252": {
+        "title": "Women's Nike Rejuven8 Run 'Camo Pack' - Black/White",
+        "handle": "womens-nike-rejuven8-run-camo-pack-black-white",
+        "in_stock": true
+      },
       "9363570196668": {
         "title": "L/AB c/o Off-White Off Active Duct Tape Tee - White",
         "handle": "l-ab-c-o-off-white-off-active-duct-tape-tee-white",
@@ -4996,16 +5006,6 @@
         "title": "Nike ACG Tuff Fleece Crewneck - Safety Orange/White",
         "handle": "nike-acg-tuff-fleece-crewneck-safety-orange-white",
         "in_stock": true
-      },
-      "9329125392572": {
-        "title": "New Balance Gator Run - Cider/Amber Haze",
-        "handle": "new-balance-gator-run-cider-amber-haze",
-        "in_stock": true
-      },
-      "9472688554172": {
-        "title": "Women's Nike Zoom Streak 3 - Cream II/Sail",
-        "handle": "womens-nike-zoom-streak-3-cream-ii-sail",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5492,7 +5492,7 @@
       "15031078060408": {
         "title": "Saucony Progrid Omni 9 OG 'Blissful White'",
         "handle": "saucony-progrid-omni-9-og-blissful-white",
-        "in_stock": false
+        "in_stock": true
       },
       "15035740651896": {
         "title": "Vfour Ldn Terrace Away Jersey",
@@ -5557,7 +5557,7 @@
       "15034694861176": {
         "title": "On Cloudvista 2 'Black Black'",
         "handle": "on-cloudvista-2-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "15034694467960": {
         "title": "On Cloudsurfer Next 'Glacier Glacier'",
@@ -8080,12 +8080,12 @@
         "in_stock": true
       },
       "9125749555405": {
-        "title": "Men's Dup 03 Polo Shirt White",
+        "title": "Men's DUP 03 Polo Shirt White",
         "handle": "wtaps-clothing-dup-03-ss-ctpl-white-j355411",
         "in_stock": true
       },
       "9125749588173": {
-        "title": "Men's Dup 03 Polo Shirt Black",
+        "title": "Men's DUP 03 Polo Shirt Black",
         "handle": "wtaps-clothing-dup-03-ss-ctpl-black-j355410",
         "in_stock": true
       },
@@ -8152,7 +8152,7 @@
       "9125743755469": {
         "title": "Free The Youth Air Jordan 16 Sneakers Metallic Silver / Picante Red",
         "handle": "nike-jordan-footwear-air-jordan-16-fty-sp-multicolor-j368494",
-        "in_stock": false
+        "in_stock": true
       },
       "9125743689933": {
         "title": "Air Max 95 Big Bubble Sneakers Blue Sapphire / Action Red",
@@ -8768,60 +8768,32 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Madison Cord Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-madison-cord-shirt-wall",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+      "message": "🔥 **Restock** at Kith: Kith for BMW Teddy Bear - Cinnabar\nhttps://kith.com/products/khla270089-616",
+      "detected_at": "2026-08-18T13:57:16.534171+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Parson Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-parson-shirt-parson-check-shady-purple",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Campus 00s Winter Lo W\nhttps://www.asphaltgold.de/products/adidas-campus-00s-winter-lo-w-magic-beige-magic-beige-gum-4",
+      "detected_at": "2026-08-18T13:57:16.534171+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Active Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-active-jacket-blue-i037581-0106",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Rejuven8 Run 'Camo Pack' - Black/Barkroot Brown\nhttps://sneakerpolitics.com/products/womens-nike-rejuven8-run-camo-pack-black-barkroot-brown",
+      "detected_at": "2026-08-18T13:57:16.534171+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Half Zip American Script Sweat\nhttps://www.afew-store.com/products/carhartt-wip-half-zip-american-script-sweat-amarone",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Rejuven8 Run 'Camo Pack' - Black/White\nhttps://sneakerpolitics.com/products/womens-nike-rejuven8-run-camo-pack-black-white",
+      "detected_at": "2026-08-18T13:57:16.534171+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Firth Sweater\nhttps://www.afew-store.com/products/carhartt-wip-firth-sweater-fleur-de-sel",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'Blissful White'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-blissful-white",
+      "detected_at": "2026-08-18T13:57:16.534171+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Madison Cord Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-madison-cord-shirt-dark-navy",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+      "message": "🔥 **Restock** at Kick Game: On Cloudvista 2 'Black Black'\nhttps://www.kickgame.co.uk/products/on-cloudvista-2-black-black",
+      "detected_at": "2026-08-18T13:57:16.534171+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Santa Fe Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-santa-fe-jacket-raven-black",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Check Western Shirt Taupe\nhttps://www.slamjam.com/products/brain-dead-clothing-check-western-shirt-beige-j356176",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Nylon Metal Swim Shorts Oleander\nhttps://www.slamjam.com/products/stone-island-clothing-nylon-metal-contrast-swimshorts-pink-j345699",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Coated Denim Shorts Heavy Stone Wash\nhttps://www.slamjam.com/products/guess-usa-clothing-gusa-coated-shorts-multicolor-j294914",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: New Balance TF100 Sneakers Black\nhttps://www.slamjam.com/products/junya-watanabe-man-footwear-mens-shoes-x-new-balance-black-j353387",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: GEL-1130 Sneakers Black / Cream\nhttps://www.slamjam.com/products/asics-footwear-gel-1130-black-j340180",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Racerpods Necklace Silver\nhttps://www.slamjam.com/products/racer-worldwide-accessories-racerpods-necklace-grey-j356279",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Adizero EVO SL Sneakers Silver Metallic / Iron Metallic / Halo Silver\nhttps://www.slamjam.com/products/adidas-footwear-adizero-evo-sl-m-grey-j345862",
-      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Free The Youth Air Jordan 16 Sneakers Metallic Silver / Picante Red\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-16-fty-sp-multicolor-j368494",
+      "detected_at": "2026-08-18T13:57:16.534171+00:00"
     }
   ]
 }
