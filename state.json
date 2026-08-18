@@ -1,6 +1,26 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286669701248": {
+        "title": "Salomon X-ALP LTR - Cloudburst / Paloma / Black",
+        "handle": "sall49196300",
+        "in_stock": true
+      },
+      "8286669668480": {
+        "title": "ASICS GS GEL-1130 - White / Twilight Blue",
+        "handle": "asi1204a169-109",
+        "in_stock": true
+      },
+      "8286669635712": {
+        "title": "ASICS GS GEL-1130 - White / Clay Canyon",
+        "handle": "asi1204a169-108",
+        "in_stock": true
+      },
+      "8286669602944": {
+        "title": "ASICS GS GEL-1130 - White / Dragon Fruit",
+        "handle": "asi1204a169-107",
+        "in_stock": true
+      },
       "8286665736320": {
         "title": "VANS LX Authentic 44 - Herringbone Black / Tan Brown",
         "handle": "vn000z6rbml1",
@@ -129,7 +149,7 @@
       "8286653743232": {
         "title": "Kith for BMW Nelson Quarter Zip - Cinnabar",
         "handle": "khmg030028-616",
-        "in_stock": true
+        "in_stock": false
       },
       "8286653710464": {
         "title": "Kith for BMW Velvet Rui Track Jacket - Techno Violet",
@@ -444,7 +464,7 @@
       "8286649581696": {
         "title": "Kith for BMW Teddy Bear - Cinnabar",
         "handle": "khla270089-616",
-        "in_stock": true
+        "in_stock": false
       },
       "8286649483392": {
         "title": "Kith for BMW 1602 Elektro Poster - Multi",
@@ -1229,26 +1249,6 @@
       "8286644142208": {
         "title": "Rhude Filtaro Crest Tee - Vintage Black / Red / Yellow",
         "handle": "rhupf26tt01012-6499",
-        "in_stock": true
-      },
-      "8286644174976": {
-        "title": "Rhude Filtaro Crest Hoodie - Vintage Black / Red / Yellow",
-        "handle": "rhupf26ho01012-6499",
-        "in_stock": true
-      },
-      "8286644011136": {
-        "title": "Rhude Crest Hoodie - Vintage Black / Blue / Red",
-        "handle": "rhupf26ho02012-6500",
-        "in_stock": true
-      },
-      "8286643748992": {
-        "title": "Rhude Clermont Ferrand Souvenir Hat - Bright Red / Yellow",
-        "handle": "rhupf26ha01512-6556",
-        "in_stock": false
-      },
-      "8286643847296": {
-        "title": "Rhude Chrono Logo Embroidered Trucker Hat - Black / Blue / Gold",
-        "handle": "rhupf26ha02512-6558",
         "in_stock": true
       }
     },
@@ -2505,6 +2505,31 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11016314519819": {
+        "title": "Puma x SAYSKY MagMax Nitro 2 W",
+        "handle": "puma-x-saysky-magmax-nitro-2-w-ultra-purple-puma-black",
+        "in_stock": false
+      },
+      "11022591000843": {
+        "title": "Puma x SAYSKY MagMax Nitro 2",
+        "handle": "puma-x-saysky-magmax-nitro-2-vivid-blue-puma-black",
+        "in_stock": false
+      },
+      "11022607941899": {
+        "title": "Puma x Saysky Deviate Nitro Elite 4 W",
+        "handle": "puma-x-saysky-deviate-nitro-elite-4-w-flat-dark-gray-utra-purple",
+        "in_stock": false
+      },
+      "11016315371787": {
+        "title": "Puma x Saysky Deviate Nitro Elite 4",
+        "handle": "puma-x-saysky-deviate-nitro-elite-4-flat-dark-gray-vivid-blue",
+        "in_stock": false
+      },
+      "11015461372171": {
+        "title": "New Balance Sport Legacy Jacket",
+        "handle": "new-balance-sport-legacy-jacket-black",
+        "in_stock": true
+      },
       "10747463827723": {
         "title": "Adidas Campus 00s Winter Lo W",
         "handle": "adidas-campus-00s-winter-lo-w-magic-beige-magic-beige-gum-4",
@@ -2908,7 +2933,7 @@
       "10855849165067": {
         "title": "Sporty & Rich Heritage Yankees Serif Zip Hoodie",
         "handle": "sporty-rich-heritage-yankees-serif-zip-hoodie-heather-gray",
-        "in_stock": true
+        "in_stock": false
       },
       "10817394016523": {
         "title": "Metalwood Woodlite Hooded Sweatshirt",
@@ -2933,7 +2958,7 @@
       "10672262938891": {
         "title": "Brain Dead x Brooks Brothers Pleated Chino Trouser",
         "handle": "brain-dead-x-brooks-brothers-pleated-chino-trouser-desert",
-        "in_stock": true
+        "in_stock": false
       },
       "8968456175883": {
         "title": "Autry Overshirt Jacket",
@@ -3408,7 +3433,7 @@
       "10534499713291": {
         "title": "Nike ACG Rufus",
         "handle": "nike-acg-rufus-stadium-green-khaki-light-lemon-twist",
-        "in_stock": true
+        "in_stock": false
       },
       "10750838767883": {
         "title": "Carhartt WIP Vista Sweat",
@@ -3538,7 +3563,7 @@
       "8922051739915": {
         "title": "Metalwood Roosevelt 5-Panel Snapback Hat",
         "handle": "metalwood-roosevelt-5panel-snapback-hat-spruce",
-        "in_stock": true
+        "in_stock": false
       },
       "11015452524811": {
         "title": "Nike\tClub Rules Oxford Longsleeve Shirt",
@@ -3729,34 +3754,14 @@
         "title": "Nike Air Zoom Spiridon Cage 2",
         "handle": "nike-air-zoom-spiridon-cage-2-light-smoke-grey-metallic-silver",
         "in_stock": true
-      },
-      "10861861536011": {
-        "title": "Adidas\tTrefoil Series Roses T-Shirt",
-        "handle": "adidastrefoil-series-roses-tshirt-black",
-        "in_stock": true
-      },
-      "10727132561675": {
-        "title": "Nike\tSolo Swoosh Hoodie",
-        "handle": "nikesolo-swoosh-hoodie-dark-grey-heather-light-smoke-grey-white",
-        "in_stock": true
-      },
-      "10677629485323": {
-        "title": "Nike x Nocta Cardinal Fleeceshorts",
-        "handle": "nikex-nocta-cardinal-fleeceshorts-black-white",
-        "in_stock": true
-      },
-      "10671073460491": {
-        "title": "No Problemo No War Longsleeve Tee",
-        "handle": "no-problemo-no-war-longsleeve-tee-black",
-        "in_stock": true
-      },
-      "10793631842571": {
-        "title": "Adidas x Wales Bonner Knit Vest",
-        "handle": "adidas-x-wales-bonner-knit-vest-collegiate-navy-magic-beige-better-scarlet",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9261906886844": {
+        "title": "Nike Air DT Max '96 Low (GS) - Black/Metallic Gold",
+        "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
+        "in_stock": false
+      },
       "9472724074684": {
         "title": "Women's Nike Rejuven8 Run 'Camo Pack' - Black/Barkroot Brown",
         "handle": "womens-nike-rejuven8-run-camo-pack-black-barkroot-brown",
@@ -5001,11 +5006,6 @@
         "title": "Nike ACG Tuff Fleece Pant - Dark Smoke Grey/White",
         "handle": "nike-acg-tuff-fleece-pant-dark-smoke-grey-white",
         "in_stock": true
-      },
-      "9346346188988": {
-        "title": "Nike ACG Tuff Fleece Crewneck - Safety Orange/White",
-        "handle": "nike-acg-tuff-fleece-crewneck-safety-orange-white",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5347,7 +5347,7 @@
       "15043094151544": {
         "title": "Mizuno Wave Prophecy 13.2 'Spring Crocus Black Harbor Mist'",
         "handle": "wave-prophecy-13-2-spring-crocus-black-harbor-mist",
-        "in_stock": false
+        "in_stock": true
       },
       "15043093922168": {
         "title": "Saucony Progrid Guide 7 'White Blissful'",
@@ -6261,10 +6261,30 @@
       }
     },
     "https://www.afew-store.com": {
+      "10595090661642": {
+        "title": "Carhartt WIP Half Zip American Script Sweat",
+        "handle": "carhartt-wip-half-zip-american-script-sweat-raven",
+        "in_stock": false
+      },
+      "10595089449226": {
+        "title": "Carhartt WIP Prentis Liner",
+        "handle": "carhartt-wip-prentis-liner-palisander-black",
+        "in_stock": false
+      },
+      "10595085943050": {
+        "title": "Carhartt WIP Longsleeve Vista Waffle T-Shirt",
+        "handle": "carhartt-wip-longsleeve-vista-waffle-t-shirt-black",
+        "in_stock": false
+      },
+      "10595082240266": {
+        "title": "Carhartt WIP Prentis Liner",
+        "handle": "carhartt-wip-prentis-liner-tobacco",
+        "in_stock": false
+      },
       "10594967650570": {
         "title": "Carhartt WIP OG Detroit Jacket",
         "handle": "carhartt-wip-og-detroit-jacket-black-black-48063",
-        "in_stock": false
+        "in_stock": true
       },
       "10594957525258": {
         "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
@@ -7490,26 +7510,6 @@
         "title": "adidas Originals BW ARMY",
         "handle": "adidas-originals-bw-army-halblu-halblu-gum5",
         "in_stock": true
-      },
-      "10578845073674": {
-        "title": "adidas Originals HANDBALL SPEZIAL",
-        "handle": "adidas-originals-handball-spezial-owhite-shared-gum2",
-        "in_stock": true
-      },
-      "10578843861258": {
-        "title": "adidas Originals HANDBALL SPEZIAL",
-        "handle": "adidas-originals-handball-spezial-khathr-khathr-wonalu",
-        "in_stock": true
-      },
-      "10578842681610": {
-        "title": "adidas Originals HANDBALL SPEZIAL",
-        "handle": "adidas-originals-handball-spezial-cblack-cblack-carbon",
-        "in_stock": true
-      },
-      "10578840617226": {
-        "title": "adidas Originals WMNS ADISTAR MLD",
-        "handle": "adidas-originals-wmns-adistar-mld-ftwwht-grethr-cblack",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7537,7 +7537,7 @@
       "9094862078157": {
         "title": "GEL-1130 Sneakers Black / Cream",
         "handle": "asics-footwear-gel-1130-black-j340180",
-        "in_stock": true
+        "in_stock": false
       },
       "9113871548621": {
         "title": "Racerpods Necklace Silver",
@@ -8137,7 +8137,7 @@
       "9110404038861": {
         "title": "Baseball Cap Military Green",
         "handle": "oamc-peacemaker-accessories-baseball-cap-green-j333387",
-        "in_stock": true
+        "in_stock": false
       },
       "9101673529549": {
         "title": "LA Dodgers MLB 9FORTY M-Crown Cap Light Beige",
@@ -8794,6 +8794,34 @@
     {
       "message": "🔥 **Restock** at Slam Jam: Free The Youth Air Jordan 16 Sneakers Metallic Silver / Picante Red\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-16-fty-sp-multicolor-j368494",
       "detected_at": "2026-08-18T13:57:16.534171+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Salomon X-ALP LTR - Cloudburst / Paloma / Black\nhttps://kith.com/products/sall49196300",
+      "detected_at": "2026-08-18T14:41:07.613612+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: ASICS GS GEL-1130 - White / Twilight Blue\nhttps://kith.com/products/asi1204a169-109",
+      "detected_at": "2026-08-18T14:41:07.613612+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: ASICS GS GEL-1130 - White / Clay Canyon\nhttps://kith.com/products/asi1204a169-108",
+      "detected_at": "2026-08-18T14:41:07.613612+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: ASICS GS GEL-1130 - White / Dragon Fruit\nhttps://kith.com/products/asi1204a169-107",
+      "detected_at": "2026-08-18T14:41:07.613612+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance Sport Legacy Jacket\nhttps://www.asphaltgold.de/products/new-balance-sport-legacy-jacket-black",
+      "detected_at": "2026-08-18T14:41:07.613612+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Mizuno Wave Prophecy 13.2 'Spring Crocus Black Harbor Mist'\nhttps://www.kickgame.co.uk/products/wave-prophecy-13-2-spring-crocus-black-harbor-mist",
+      "detected_at": "2026-08-18T14:41:07.613612+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Carhartt WIP OG Detroit Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-detroit-jacket-black-black-48063",
+      "detected_at": "2026-08-18T14:41:07.613612+00:00"
     }
   ]
 }
