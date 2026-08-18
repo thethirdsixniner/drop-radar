@@ -39,7 +39,7 @@
       "8286654759040": {
         "title": "Kith for BMW 1602 Tee - Sandrift",
         "handle": "khmg030032-104",
-        "in_stock": true
+        "in_stock": false
       },
       "8286654693504": {
         "title": "Kith for BMW CSi 3.0 Schematic Pocket Tee - Black",
@@ -2558,7 +2558,7 @@
       "10860923355403": {
         "title": "Adidas Firebird Shorts",
         "handle": "adidas-firebird-shorts-aurora-coffee",
-        "in_stock": true
+        "in_stock": false
       },
       "10800048734475": {
         "title": "Carhartt WIP Aaron Pant",
@@ -2923,7 +2923,7 @@
       "10674311364875": {
         "title": "Brain Dead x Brooks Brothers Pleated Chino Short",
         "handle": "brain-dead-x-brooks-brothers-pleated-chino-short-desert",
-        "in_stock": true
+        "in_stock": false
       },
       "10672262938891": {
         "title": "Brain Dead x Brooks Brothers Pleated Chino Trouser",
@@ -6261,6 +6261,56 @@
       }
     },
     "https://www.afew-store.com": {
+      "10594967650570": {
+        "title": "Carhartt WIP OG Detroit Jacket",
+        "handle": "carhartt-wip-og-detroit-jacket-black-black-48063",
+        "in_stock": false
+      },
+      "10594957525258": {
+        "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
+        "handle": "carhartt-wip-longsleeve-madison-cord-shirt-wall",
+        "in_stock": true
+      },
+      "10594956378378": {
+        "title": "Carhartt WIP Longsleeve Parson Shirt",
+        "handle": "carhartt-wip-longsleeve-parson-shirt-parson-check-shady-purple",
+        "in_stock": true
+      },
+      "10594954641674": {
+        "title": "Carhartt WIP OG Active Jacket",
+        "handle": "carhartt-wip-og-active-jacket-blue-i037581-0106",
+        "in_stock": true
+      },
+      "10594946089226": {
+        "title": "Carhartt WIP Half Zip American Script Sweat",
+        "handle": "carhartt-wip-half-zip-american-script-sweat-amarone",
+        "in_stock": true
+      },
+      "10594943074570": {
+        "title": "adidas Originals X SONG FOR THE MUTE RUNNING CREW SOCK 1PP",
+        "handle": "adidas-originals-x-sftm-run-sock-white",
+        "in_stock": false
+      },
+      "10594942943498": {
+        "title": "adidas Originals x Song For The Mute Longsleeve",
+        "handle": "adidas-originals-x-sftm-ls-carbon",
+        "in_stock": false
+      },
+      "10594937569546": {
+        "title": "Carhartt WIP Firth Sweater",
+        "handle": "carhartt-wip-firth-sweater-fleur-de-sel",
+        "in_stock": true
+      },
+      "10594930295050": {
+        "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
+        "handle": "carhartt-wip-longsleeve-madison-cord-shirt-dark-navy",
+        "in_stock": true
+      },
+      "10594928263434": {
+        "title": "Carhartt WIP OG Santa Fe Jacket",
+        "handle": "carhartt-wip-og-santa-fe-jacket-raven-black",
+        "in_stock": true
+      },
       "10593984217354": {
         "title": "Puma Sprint Suede",
         "handle": "puma-sprint-suede-bitter-chocolate-warm-white",
@@ -6549,7 +6599,7 @@
       "10591395021066": {
         "title": "Hoka One One x Beams BONDI 7",
         "handle": "hoka-one-one-x-beams-bondi-7-chestnut-black-bean",
-        "in_stock": true
+        "in_stock": false
       },
       "10591394496778": {
         "title": "adidas Originals BW ARMY",
@@ -7460,60 +7510,45 @@
         "title": "adidas Originals WMNS ADISTAR MLD",
         "handle": "adidas-originals-wmns-adistar-mld-ftwwht-grethr-cblack",
         "in_stock": true
-      },
-      "10578823577866": {
-        "title": "adidas Originals HANDBALL SPEZIAL LOAFER",
-        "handle": "adidas-originals-handball-spezial-lo-cblack-cblack-grethr",
-        "in_stock": true
-      },
-      "10578569625866": {
-        "title": "Asics GEL-KINETIC 2.0",
-        "handle": "asics-gel-kinetic-2-0-obsidian-grey-olive-canvas",
-        "in_stock": true
-      },
-      "10578569265418": {
-        "title": "Asics GEL-KAYANO 14",
-        "handle": "asics-gel-kayano-14-ivory-cream",
-        "in_stock": true
-      },
-      "10578568904970": {
-        "title": "Asics GEL-NYC 2.0",
-        "handle": "asics-gel-nyc-2-0-clay-grey-cement-grey",
-        "in_stock": true
-      },
-      "10578568806666": {
-        "title": "Asics GEL-NYC 2.0",
-        "handle": "asics-gel-nyc-2-0-slate-blue-graphite-grey",
-        "in_stock": true
-      },
-      "10578568708362": {
-        "title": "Asics GEL-NYC 2.0",
-        "handle": "asics-gel-nyc-2-0-graphite-grey-loden-green",
-        "in_stock": true
-      },
-      "10578566906122": {
-        "title": "Timberland AUTH LOAFER SHOE",
-        "handle": "timberland-authentic-loafer-shoe-burgundy-f-grain",
-        "in_stock": true
-      },
-      "10578566119690": {
-        "title": "Timberland WMNS STST 6 IN LACE WATERPROOF BOOT",
-        "handle": "timberland-wmns-stst-6-in-lace-waterproof-boot-wheat",
-        "in_stock": true
-      },
-      "10578564317450": {
-        "title": "Salomon XT-QUEST",
-        "handle": "salomon-xt-quest-vanillaice-black-bistgn",
-        "in_stock": true
-      },
-      "10578563629322": {
-        "title": "Salomon XT-4 OG",
-        "handle": "salomon-xt-4-og-white-black-whitepepper",
-        "in_stock": false
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9107038240973": {
+        "title": "Check Western Shirt Taupe",
+        "handle": "brain-dead-clothing-check-western-shirt-beige-j356176",
+        "in_stock": true
+      },
+      "9095532347597": {
+        "title": "Men's Nylon Metal Swim Shorts Oleander",
+        "handle": "stone-island-clothing-nylon-metal-contrast-swimshorts-pink-j345699",
+        "in_stock": true
+      },
+      "8945601347789": {
+        "title": "Women's Coated Denim Shorts Heavy Stone Wash",
+        "handle": "guess-usa-clothing-gusa-coated-shorts-multicolor-j294914",
+        "in_stock": true
+      },
+      "9108508934349": {
+        "title": "New Balance TF100 Sneakers Black",
+        "handle": "junya-watanabe-man-footwear-mens-shoes-x-new-balance-black-j353387",
+        "in_stock": true
+      },
+      "9094862078157": {
+        "title": "GEL-1130 Sneakers Black / Cream",
+        "handle": "asics-footwear-gel-1130-black-j340180",
+        "in_stock": true
+      },
+      "9113871548621": {
+        "title": "Racerpods Necklace Silver",
+        "handle": "racer-worldwide-accessories-racerpods-necklace-grey-j356279",
+        "in_stock": true
+      },
+      "9101410205901": {
+        "title": "Adizero EVO SL Sneakers Silver Metallic / Iron Metallic / Halo Silver",
+        "handle": "adidas-footwear-adizero-evo-sl-m-grey-j345862",
+        "in_stock": true
+      },
       "9126903906509": {
         "title": "Women's Rejuven8 Run Sneakers Black",
         "handle": "nike-footwear-wmns-nike-rejuven8-run-black-j368986",
@@ -8040,7 +8075,7 @@
         "in_stock": true
       },
       "9125749522637": {
-        "title": "Men's Sleeveless T-Shirt Black",
+        "title": "Men's BC Sleeveless T-Shirt Black",
         "handle": "wtaps-clothing-bc-ss-cotton-black-j355412",
         "in_stock": true
       },
@@ -8728,92 +8763,65 @@
         "title": "Plane T-Shirt Black",
         "handle": "erl-clothing-plane-tee-knit-black-j368206",
         "in_stock": true
-      },
-      "9125187977421": {
-        "title": "Tweed Pants Black / White",
-        "handle": "erl-clothing-tweed-pants-woven-grey-j368205",
-        "in_stock": true
-      },
-      "9038524186829": {
-        "title": "Men's Leaf T-Shirt Snow White",
-        "handle": "oamc-peacemaker-clothing-peacemaker-leaf-s-s-tshirt-white-j305781",
-        "in_stock": true
-      },
-      "9115074035917": {
-        "title": "Men's MILT0001 Trousers Black",
-        "handle": "wtaps-clothing-milt0001-trousers-cotton-cnvs-black-j355424",
-        "in_stock": false
-      },
-      "9115641184461": {
-        "title": "Men's Portugal x Salehe Bembury KING Oversized T-Shirt Emerald Ice",
-        "handle": "puma-clothing-puma-x-fpf-x-salehe-bembury-king-shortsleeve-green-j349892",
-        "in_stock": true
-      },
-      "9125008244941": {
-        "title": "Men's Equipment T-Shirt Legend Ivy",
-        "handle": "adidas-clothing-eqt-tee-green-j362414",
-        "in_stock": true
-      },
-      "9120212648141": {
-        "title": "Brain Dead x Disney Football Jersey Bold Gold",
-        "handle": "adidas-clothing-braindead-fb-jersey-yellow-j346773",
-        "in_stock": true
-      },
-      "9124920459469": {
-        "title": "Men's Bi-Face Reversible Jacket Andorra",
-        "handle": "c-p-company-clothing-bi-face-reversible-jacket-red-j360693",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY WASHED NAVY EMBROIDERED SWEATPANTS\nhttps://www.kickgame.co.uk/products/washed-navy-embroidered-sweatpants",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Madison Cord Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-madison-cord-shirt-wall",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY BLACK JERSEY TEE\nhttps://www.kickgame.co.uk/products/black-jersey-tee",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Parson Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-parson-shirt-parson-check-shady-purple",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY ECRU JERSEY TEE\nhttps://www.kickgame.co.uk/products/ecru-jersey-tee",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Active Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-active-jacket-blue-i037581-0106",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY WASHED GREEN JERSEY LONG SLEEVE\nhttps://www.kickgame.co.uk/products/washed-green-jersey-long-sleeve",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Half Zip American Script Sweat\nhttps://www.afew-store.com/products/carhartt-wip-half-zip-american-script-sweat-amarone",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY BLACK EMBROIDERED TEE\nhttps://www.kickgame.co.uk/products/black-embroidered-tee",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Firth Sweater\nhttps://www.afew-store.com/products/carhartt-wip-firth-sweater-fleur-de-sel",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY ECRU - PINK EMBROIDERED LONG SLEEVE\nhttps://www.kickgame.co.uk/products/ecru-pink-embroidered-long-sleeve",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Madison Cord Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-madison-cord-shirt-dark-navy",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY DISTRESSED 97 JERSEY TEE\nhttps://www.kickgame.co.uk/products/distressed-97-jersey-tee",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Santa Fe Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-santa-fe-jacket-raven-black",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY ECRU PLAYERS CLUB TEE\nhttps://www.kickgame.co.uk/products/ecru-players-club-tee",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Check Western Shirt Taupe\nhttps://www.slamjam.com/products/brain-dead-clothing-check-western-shirt-beige-j356176",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY ECRU NY LONG SLEEVE\nhttps://www.kickgame.co.uk/products/ecru-ny-long-sleeve",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Nylon Metal Swim Shorts Oleander\nhttps://www.slamjam.com/products/stone-island-clothing-nylon-metal-contrast-swimshorts-pink-j345699",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY ECRU CAMO PRINT ATHLETIC DEPT LONG SLEEVE\nhttps://www.kickgame.co.uk/products/ecru-camo-print-athletic-dept-long-sleeve",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Coated Denim Shorts Heavy Stone Wash\nhttps://www.slamjam.com/products/guess-usa-clothing-gusa-coated-shorts-multicolor-j294914",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY BLACK JERSEY ZIP HOODIE\nhttps://www.kickgame.co.uk/products/black-jersey-zip-hoodie",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Slam Jam: New Balance TF100 Sneakers Black\nhttps://www.slamjam.com/products/junya-watanabe-man-footwear-mens-shoes-x-new-balance-black-j353387",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kick Game: PLAYERS ONLY NAVY NY TEE\nhttps://www.kickgame.co.uk/products/navy-ny-tee",
-      "detected_at": "2026-08-18T11:42:08.057405+00:00"
+      "message": "🆕 **New drop** at Slam Jam: GEL-1130 Sneakers Black / Cream\nhttps://www.slamjam.com/products/asics-footwear-gel-1130-black-j340180",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Racerpods Necklace Silver\nhttps://www.slamjam.com/products/racer-worldwide-accessories-racerpods-necklace-grey-j356279",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Adizero EVO SL Sneakers Silver Metallic / Iron Metallic / Halo Silver\nhttps://www.slamjam.com/products/adidas-footwear-adizero-evo-sl-m-grey-j345862",
+      "detected_at": "2026-08-18T13:08:36.926773+00:00"
     }
   ]
 }
