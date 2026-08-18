@@ -1283,11 +1283,6 @@
         "handle": "undefeated-lightweight-zip-hood",
         "in_stock": true
       },
-      "6688117719301": {
-        "title": "UNDEFEATED REGIONAL S/S TEE - SF",
-        "handle": "undefeated-regional-s-s-tee-sf",
-        "in_stock": true
-      },
       "6700711051525": {
         "title": "UNDEFEATED LIGHTWEIGHT SHORT",
         "handle": "undefeated-lightweight-short",
@@ -2502,6 +2497,11 @@
         "title": "ADIDAS X MENACE JERSEY - CRYWHT/ GREONE",
         "handle": "adidas-x-menace-jersey-crywht-greone",
         "in_stock": true
+      },
+      "6702637089029": {
+        "title": "ASICS GEL-STRATUS MC - WHITE/CLAY CANYON",
+        "handle": "asics-gel-stratus-mc-white-clay-canyon",
+        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2943,7 +2943,7 @@
       "9003762024715": {
         "title": "Adidas Campus 00s",
         "handle": "adidas-campus-00s-cloud-white-core-black-core-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10170260422923": {
         "title": "Adidas BRMD W",
@@ -3987,11 +3987,6 @@
         "handle": "salomon-xt-4-og-aurora-borealis-canteen-transparent-yellow",
         "in_stock": true
       },
-      "9294137655484": {
-        "title": "Jordan 5 Retro (PS) - White/Metallic Silver",
-        "handle": "jordan-5-retro-ps-white-metallic-silver",
-        "in_stock": false
-      },
       "9490403885244": {
         "title": "Free The Youth x Jordan Track Jacket - Black",
         "handle": "free-the-youth-x-jordan-track-jacket-black",
@@ -5005,6 +5000,11 @@
       "8747394302140": {
         "title": "Politics x Dallas Mavericks x Mitchell & Ness Hoodie - Navy",
         "handle": "politics-x-dallas-mavericks-x-mitchell-ness-hoodie-navy",
+        "in_stock": true
+      },
+      "8747392073916": {
+        "title": "Politics x Dallas Mavericks x Mitchell & Ness Tee - Navy",
+        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-tee-navy",
         "in_stock": true
       }
     },
@@ -8768,120 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: CDG Pocket Wonderoud Eau de Parfum 100ML\nhttps://kith.com/products/cdg-65090991",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+      "message": "🆕 **New drop** at Undefeated: ASICS GEL-STRATUS MC - WHITE/CLAY CANYON\nhttps://undefeated.com/products/asics-gel-stratus-mc-white-clay-canyon",
+      "detected_at": "2026-08-18T16:34:46.925707+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Full Zip Hoodie\nhttps://www.asphaltgold.de/products/our-legacy-full-zip-hoodie-night-woods-check-lofty-wool",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Box Longsleeve\nhttps://www.asphaltgold.de/products/our-legacy-box-longsleeve-specture-stripe",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Box T-Shirt\nhttps://www.asphaltgold.de/products/our-legacy-box-tshirt-crainum-blossom-print",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Third Cut\nhttps://www.asphaltgold.de/products/our-legacy-third-cut-river-blue-wash",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Still Chino\nhttps://www.asphaltgold.de/products/our-legacy-still-chino-char-kinetic-wool",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Pitch Cardigan\nhttps://www.asphaltgold.de/products/our-legacy-pitch-cardigan-slub-twisted-black-wool",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Borrowed Shirt\nhttps://www.asphaltgold.de/products/our-legacy-borrowed-shirt-truffle-check-grid-cloth",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Beyond Shirt\nhttps://www.asphaltgold.de/products/our-legacy-beyond-shirt-cream-stripe-ceremon-viscose",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tACG \"Wolf Grid\" Therma-FIT 1/2-Zip Hiking Top\nhttps://www.asphaltgold.de/products/nikeacg-wolf-grid-thermafit-12zip-hiking-top-desert-pink-light-crimson-summit-white",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike ACG Dri-FIT *All Conditions Racing Department* T-Shirt\nhttps://www.asphaltgold.de/products/nike-acg-drifit-all-conditions-racing-department-tshirt-dark-smoke-grey",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Payson Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-payson-pant-blue-stone-washed",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Half Zip American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-half-zip-american-script-sweat-raven",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP OG Detroit Jacket\nhttps://www.asphaltgold.de/products/carhartt-wip-og-detroit-jacket-black-black-tobacco-used-wash",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Payson Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-payson-pant-blue-marble-used-wash",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: New Era x Timberland Houston Astros Pre Curve 59FIFTY Fitted - Wheat\nhttps://sneakerpolitics.com/products/new-era-x-timberland-houston-astros-pre-curve-59fifty-fitted-wheat",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Motion Bandana Swim Short - Black/White\nhttps://sneakerpolitics.com/products/rhude-motion-bandana-swim-short-black-white",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Madison Cord Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-madison-cord-shirt-raven",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Prentis Vest Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-vest-liner-tobacco",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Vista Waffle T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-vista-waffle-t-shirt-fleur-de-sel",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Detroit Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-detroit-jacket-brown-tobacco",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Active Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-active-jacket-black-stone-washed",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Prentis Vest Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-vest-liner-palisander-black",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Half Zip American Script Sweat\nhttps://www.afew-store.com/products/carhartt-wip-half-zip-american-script-sweat-raven",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Prentis Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-liner-palisander-black",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Longsleeve Vista Waffle T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-vista-waffle-t-shirt-black",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Prentis Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-liner-tobacco",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Tasman II Sandals Black\nhttps://www.slamjam.com/products/ugg-footwear-tasman-ii-black-j368183",
-      "detected_at": "2026-08-18T15:13:31.609071+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-      "detected_at": "2026-08-18T15:48:57.468339+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Dallas Mavericks x Mitchell & Ness Tee - Navy\nhttps://sneakerpolitics.com/products/politics-x-dallas-mavericks-x-mitchell-ness-tee-navy",
+      "detected_at": "2026-08-18T16:34:46.925707+00:00"
     }
   ]
 }
