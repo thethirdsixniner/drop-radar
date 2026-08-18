@@ -2635,11 +2635,6 @@
         "handle": "nike-x-tom-sachs-general-purpose-shoe-black-white-team-royal-team-orange",
         "in_stock": false
       },
-      "10752909508875": {
-        "title": "Nike Vomero Premium",
-        "handle": "nike-vomero-premium-sail-coconut-milk-total-orange-black",
-        "in_stock": false
-      },
       "10883647832331": {
         "title": "Gramicci G-Short",
         "handle": "gramicci-gshort-chocolate",
@@ -2654,11 +2649,6 @@
         "title": "Lacoste\tDenim Bermuda Shorts",
         "handle": "lacostedenim-bermuda-shorts-washed-bleach",
         "in_stock": true
-      },
-      "10860923355403": {
-        "title": "Adidas Firebird Shorts",
-        "handle": "adidas-firebird-shorts-aurora-coffee",
-        "in_stock": false
       },
       "10800048734475": {
         "title": "Carhartt WIP Aaron Pant",
@@ -2694,11 +2684,6 @@
         "title": "New Amsterdam Surf Association Beach Sign Tee",
         "handle": "new-amsterdam-surf-association-beach-sign-tee-white",
         "in_stock": true
-      },
-      "10810462372107": {
-        "title": "Carhartt WIP Hooded American Script Sweat",
-        "handle": "carhartt-wip-hooded-american-script-sweat-palisander",
-        "in_stock": false
       },
       "10730412146955": {
         "title": "Carhartt WIP Detroit Half Zip Sweater",
@@ -2930,20 +2915,10 @@
         "handle": "new-balance-1906r-dark-silver-metallic",
         "in_stock": true
       },
-      "10861917470987": {
-        "title": "Salomon XT-Whisper",
-        "handle": "salomon-xtwhisper-almond-milk-footwear-silver-lava-falls",
-        "in_stock": false
-      },
       "10823814480139": {
         "title": "Adidas Gazelle Sala",
         "handle": "adidas-gazelle-sala-trace-khaki-team-victory-red-gum",
         "in_stock": true
-      },
-      "9003762024715": {
-        "title": "Adidas Campus 00s",
-        "handle": "adidas-campus-00s-cloud-white-core-black-core-black",
-        "in_stock": false
       },
       "10170260422923": {
         "title": "Adidas BRMD W",
@@ -3000,11 +2975,6 @@
         "handle": "autry-college-check-sweatshirt-dark-grey-melange",
         "in_stock": true
       },
-      "10855849165067": {
-        "title": "Sporty & Rich Heritage Yankees Serif Zip Hoodie",
-        "handle": "sporty-rich-heritage-yankees-serif-zip-hoodie-heather-gray",
-        "in_stock": false
-      },
       "10817394016523": {
         "title": "Metalwood Woodlite Hooded Sweatshirt",
         "handle": "metalwood-woodlite-hooded-sweatshirt-brown",
@@ -3019,16 +2989,6 @@
         "title": "Gramicci G-Pant",
         "handle": "gramicci-gpant-oat",
         "in_stock": true
-      },
-      "10674311364875": {
-        "title": "Brain Dead x Brooks Brothers Pleated Chino Short",
-        "handle": "brain-dead-x-brooks-brothers-pleated-chino-short-desert",
-        "in_stock": false
-      },
-      "10672262938891": {
-        "title": "Brain Dead x Brooks Brothers Pleated Chino Trouser",
-        "handle": "brain-dead-x-brooks-brothers-pleated-chino-trouser-desert",
-        "in_stock": false
       },
       "8968456175883": {
         "title": "Autry Overshirt Jacket",
@@ -3270,11 +3230,6 @@
         "handle": "adidas-la-trainer-og-off-white-dark-marine-crystal-white",
         "in_stock": true
       },
-      "10821657166091": {
-        "title": "Birkenstock Highwood Lace Low",
-        "handle": "birkenstock-highwood-lace-low-habana",
-        "in_stock": false
-      },
       "10874403815691": {
         "title": "Nike ACG Club Unstructured Cap",
         "handle": "nikeacg-club-unstructured-cap-black-black",
@@ -3490,21 +3445,6 @@
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-salvia",
         "in_stock": true
       },
-      "10865841176843": {
-        "title": "Polo Ralph Lauren Crest-Embroidered Twill Ball Cap",
-        "handle": "polo-ralph-lauren-crestembroidered-twill-ball-cap-newport-navy",
-        "in_stock": false
-      },
-      "10795476254987": {
-        "title": "Ugg Wmns Classic Ultra Mini Dipper",
-        "handle": "ugg-wmns-classic-ultra-mini-dipper-black",
-        "in_stock": false
-      },
-      "10534499713291": {
-        "title": "Nike ACG Rufus",
-        "handle": "nike-acg-rufus-stadium-green-khaki-light-lemon-twist",
-        "in_stock": false
-      },
       "10750838767883": {
         "title": "Carhartt WIP Vista Sweat",
         "handle": "carhartt-wip-vista-sweat-palisander-garment-dyed",
@@ -3565,11 +3505,6 @@
         "handle": "birkenstock-boston-sfb-taupe",
         "in_stock": true
       },
-      "10540832260363": {
-        "title": "Autry Windspin W *Suede / Leather*",
-        "handle": "autry-windspin-w-suede-leather-ebony",
-        "in_stock": false
-      },
       "8443157872907": {
         "title": "Lacoste Zippered Stand Up Collar Cotton Sweatshirt",
         "handle": "lacoste-zippered-stand-up-collar-cotton-sweatshirt-midnight-blue",
@@ -3629,11 +3564,6 @@
         "title": "Saucony Pro Grid Guide 7",
         "handle": "saucony-x-3sixteen-pro-grid-guide-7-white-drupe",
         "in_stock": true
-      },
-      "8922051739915": {
-        "title": "Metalwood Roosevelt 5-Panel Snapback Hat",
-        "handle": "metalwood-roosevelt-5panel-snapback-hat-spruce",
-        "in_stock": false
       },
       "11015452524811": {
         "title": "Nike\tClub Rules Oxford Longsleeve Shirt",
@@ -3754,9 +3684,84 @@
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-tactical-blue-ice-lavander-off-white",
         "in_stock": true
+      },
+      "10855850246411": {
+        "title": "Sporty & Rich Yankees Curve T-Shirt",
+        "handle": "sporty-rich-yankees-curve-tshirt-white",
+        "in_stock": true
+      },
+      "10170794770699": {
+        "title": "Metalwood Madras Patch Explorer Shirt",
+        "handle": "metalwood-madras-patch-explorer-shirt-multicolor",
+        "in_stock": true
+      },
+      "10218497999115": {
+        "title": "Nike Tech Woven Vest",
+        "handle": "nike-tech-woven-vest-black",
+        "in_stock": true
+      },
+      "10851335209227": {
+        "title": "The North Face Red Box Nylon Hat",
+        "handle": "the-north-face-red-box-nylon-hat-tnf-black",
+        "in_stock": true
+      },
+      "9025292697867": {
+        "title": "Lacoste Zippered Stand Up Collar Cotton Sweatshirt",
+        "handle": "lacoste-zippered-stand-up-collar-cotton-sweatshirt-black",
+        "in_stock": true
+      },
+      "8932910596363": {
+        "title": "Tekla Washcloth",
+        "handle": "tekla-washcloth-kodiak-brown",
+        "in_stock": true
+      },
+      "8856193827083": {
+        "title": "thisisneverthat\tScript Logo No Cuff Beanie",
+        "handle": "thisisneverthatscript-logo-no-cuff-beanie-olive",
+        "in_stock": true
+      },
+      "11016363147531": {
+        "title": "Adidas Tokyo W",
+        "handle": "adidas-tokyo-w-maroon-cream-white-gum-3",
+        "in_stock": true
+      },
+      "11016366162187": {
+        "title": "Adidas Samba OG W",
+        "handle": "adidas-samba-og-w-brown-warm-vanilla-maroon",
+        "in_stock": true
+      },
+      "11016365179147": {
+        "title": "Adidas München W",
+        "handle": "adidas-mnchen-w-gum-4-magic-beige-clear-pink",
+        "in_stock": true
+      },
+      "11015437877515": {
+        "title": "Salomon XT-6",
+        "handle": "salomon-xt6-black-coffee-burro-black-chocolate",
+        "in_stock": true
+      },
+      "11015437615371": {
+        "title": "Salomon XA Pro 3D *Alpine Echoes*",
+        "handle": "salomon-xa-pro-3d-alpine-echoes-black-earth",
+        "in_stock": true
+      },
+      "8670970970379": {
+        "title": "Nike Air Zoom Spiridon Cage 2",
+        "handle": "nike-air-zoom-spiridon-cage-2-light-smoke-grey-metallic-silver",
+        "in_stock": true
+      },
+      "10861861536011": {
+        "title": "Adidas\tTrefoil Series Roses T-Shirt",
+        "handle": "adidastrefoil-series-roses-tshirt-black",
+        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9261911965884": {
+        "title": "Nike Air Max 95 (PS) - Black/Pink Foam",
+        "handle": "nike-air-max-95-ps-black-pink-foam",
+        "in_stock": true
+      },
       "9364511981756": {
         "title": "Vans OTW Era 95 DST 'Relic' - Checkerboard",
         "handle": "vans-otw-era-95-dst-relic-checkerboard",
@@ -5000,11 +5005,6 @@
       "9457169465532": {
         "title": "Politics x Mitchell & Ness 1904 Twill Strapback - Cream/Black",
         "handle": "politics-x-mitchell-ness-1904-twill-snapback-cream-black",
-        "in_stock": true
-      },
-      "9457166188732": {
-        "title": "Politics x Mitchell & Ness 1904 Twill Strapback - Cream/Forest",
-        "handle": "politics-x-mitchell-ness-1904-twill-snapback-cream-forest",
         "in_stock": true
       }
     },
@@ -8768,88 +8768,64 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: UGG Classic Mini - Chestnut\nhttps://kith.com/products/ug1002072-che",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Sporty & Rich Yankees Curve T-Shirt\nhttps://www.asphaltgold.de/products/sporty-rich-yankees-curve-tshirt-white",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Salomon XT-QUEST ADV - Black / Phantom\nhttps://kith.com/products/sl41013900",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Metalwood Madras Patch Explorer Shirt\nhttps://www.asphaltgold.de/products/metalwood-madras-patch-explorer-shirt-multicolor",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: VANS Premium Old Skool 36 - Cheetah Olive\nhttps://kith.com/products/vn000ehdolv1",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Tech Woven Vest\nhttps://www.asphaltgold.de/products/nike-tech-woven-vest-black",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: VANS LX Authentic 44 - Gemstone / Marshmallow\nhttps://kith.com/products/vn000db8cda",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: The North Face Red Box Nylon Hat\nhttps://www.asphaltgold.de/products/the-north-face-red-box-nylon-hat-tnf-black",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: PUMA x Salehe Bembury Velum - Magenta Gleam / Dusky Gray\nhttps://kith.com/products/pu313604-01",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Lacoste Zippered Stand Up Collar Cotton Sweatshirt\nhttps://www.asphaltgold.de/products/lacoste-zippered-stand-up-collar-cotton-sweatshirt-black",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: VANS OTW Authentic 44 Siped Vibram - Black / Ochre Red\nhttps://kith.com/products/vn000z3tblk",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Tekla Washcloth\nhttps://www.asphaltgold.de/products/tekla-washcloth-kodiak-brown",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: ASICS x Stefon Diggs GEL-DS Trainer 14 - White\nhttps://kith.com/products/ai1203b046-100",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat\tScript Logo No Cuff Beanie\nhttps://www.asphaltgold.de/products/thisisneverthatscript-logo-no-cuff-beanie-olive",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: KEEN Jasper Zionic - Dark Olive / Birch\nhttps://kith.com/products/kn1031089",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Tokyo W\nhttps://www.asphaltgold.de/products/adidas-tokyo-w-maroon-cream-white-gum-3",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Common Projects Bball Duo Slim - Off White\nhttps://kith.com/products/cp2484-4102",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-brown-warm-vanilla-maroon",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Common Projects Bball Duo Slim - Black\nhttps://kith.com/products/cp2484-7547",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas München W\nhttps://www.asphaltgold.de/products/adidas-mnchen-w-gum-4-magic-beige-clear-pink",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: VANS LX Authentic 44 - Gemstone / Black\nhttps://kith.com/products/vn000db8cjk",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-6\nhttps://www.asphaltgold.de/products/salomon-xt6-black-coffee-burro-black-chocolate",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Salomon XT-4 OG GTX - Maroon Banner / Winter Bloom / Grape Leaf\nhttps://kith.com/products/sll49148100",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Salomon XA Pro 3D *Alpine Echoes*\nhttps://www.asphaltgold.de/products/salomon-xa-pro-3d-alpine-echoes-black-earth",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: adidas Adistar Control 5 - Cloud White / Core Black / Aurora Ivy\nhttps://kith.com/products/aakj3631",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Nike Air Zoom Spiridon Cage 2\nhttps://www.asphaltgold.de/products/nike-air-zoom-spiridon-cage-2-light-smoke-grey-metallic-silver",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: NikeSKIMS WMNS Rift Satin - Silt Red / Silt Red / Silt Red\nhttps://kith.com/products/nkiq7158-600",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas\tTrefoil Series Roses T-Shirt\nhttps://www.asphaltgold.de/products/adidastrefoil-series-roses-tshirt-black",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: PUMA CELL GEO 1 - PUMA Black / Birch Tree\nhttps://kith.com/products/pu405336-04",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony Progrid Omni 9 - Tan / Marron\nhttps://kith.com/products/sas70832-8",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: ASICS Gel-Kayano 20 - Fossil / Cream\nhttps://kith.com/products/ai1203a388-021",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Clarks Meare Walla - Maple\nhttps://kith.com/products/ck26183785",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Saucony Progrid Omni 9 TMY - White / Silver\nhttps://kith.com/products/sas70832-6",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: adidas WMNS Taekwondo F50 - Core Black / Silver Metallic / Grey Six\nhttps://kith.com/products/aajr6403",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: HANWAG Gritstone II eye_C GTX - Camel\nhttps://kith.com/products/hwh702300-293",
-      "detected_at": "2026-08-18T21:38:54.603814+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 (PS) - Black/Pink Foam\nhttps://sneakerpolitics.com/products/nike-air-max-95-ps-black-pink-foam",
+      "detected_at": "2026-08-18T22:33:10.877895+00:00"
     }
   ]
 }
