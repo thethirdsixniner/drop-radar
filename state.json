@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "6535633502336": {
+        "title": "CDG Pocket Wonderoud Eau de Parfum 100ML",
+        "handle": "cdg-65090991",
+        "in_stock": true
+      },
       "8286669701248": {
         "title": "Salomon X-ALP LTR - Cloudburst / Paloma / Black",
         "handle": "sall49196300",
@@ -1244,11 +1249,6 @@
       "8286643912832": {
         "title": "Rhude Logo Mesh Hat - Brown",
         "handle": "rhupf26ha01510-6554",
-        "in_stock": true
-      },
-      "8286644142208": {
-        "title": "Rhude Filtaro Crest Tee - Vintage Black / Red / Yellow",
-        "handle": "rhupf26tt01012-6499",
         "in_stock": true
       }
     },
@@ -2505,6 +2505,76 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11019601314059": {
+        "title": "Our Legacy Full Zip Hoodie",
+        "handle": "our-legacy-full-zip-hoodie-night-woods-check-lofty-wool",
+        "in_stock": true
+      },
+      "11019598790923": {
+        "title": "Our Legacy Box Longsleeve",
+        "handle": "our-legacy-box-longsleeve-specture-stripe",
+        "in_stock": true
+      },
+      "11019596169483": {
+        "title": "Our Legacy Box T-Shirt",
+        "handle": "our-legacy-box-tshirt-crainum-blossom-print",
+        "in_stock": true
+      },
+      "11019589583115": {
+        "title": "Our Legacy Third Cut",
+        "handle": "our-legacy-third-cut-river-blue-wash",
+        "in_stock": true
+      },
+      "11019585749259": {
+        "title": "Our Legacy Still Chino",
+        "handle": "our-legacy-still-chino-char-kinetic-wool",
+        "in_stock": true
+      },
+      "11019579293963": {
+        "title": "Our Legacy Pitch Cardigan",
+        "handle": "our-legacy-pitch-cardigan-slub-twisted-black-wool",
+        "in_stock": true
+      },
+      "11019574345995": {
+        "title": "Our Legacy Borrowed Shirt",
+        "handle": "our-legacy-borrowed-shirt-truffle-check-grid-cloth",
+        "in_stock": true
+      },
+      "11019564581131": {
+        "title": "Our Legacy Beyond Shirt",
+        "handle": "our-legacy-beyond-shirt-cream-stripe-ceremon-viscose",
+        "in_stock": true
+      },
+      "11016368259339": {
+        "title": "Nike\tACG \"Wolf Grid\" Therma-FIT 1/2-Zip Hiking Top",
+        "handle": "nikeacg-wolf-grid-thermafit-12zip-hiking-top-desert-pink-light-crimson-summit-white",
+        "in_stock": true
+      },
+      "11016362197259": {
+        "title": "Nike ACG Dri-FIT *All Conditions Racing Department* T-Shirt",
+        "handle": "nike-acg-drifit-all-conditions-racing-department-tshirt-dark-smoke-grey",
+        "in_stock": true
+      },
+      "11018790961419": {
+        "title": "Carhartt WIP Payson Pant",
+        "handle": "carhartt-wip-payson-pant-blue-stone-washed",
+        "in_stock": true
+      },
+      "11018770252043": {
+        "title": "Carhartt WIP Half Zip American Script Sweat",
+        "handle": "carhartt-wip-half-zip-american-script-sweat-raven",
+        "in_stock": true
+      },
+      "11018804265227": {
+        "title": "Carhartt WIP OG Detroit Jacket",
+        "handle": "carhartt-wip-og-detroit-jacket-black-black-tobacco-used-wash",
+        "in_stock": true
+      },
+      "11018791190795": {
+        "title": "Carhartt WIP Payson Pant",
+        "handle": "carhartt-wip-payson-pant-blue-marble-used-wash",
+        "in_stock": true
+      },
       "11016314519819": {
         "title": "Puma x SAYSKY MagMax Nitro 2 W",
         "handle": "puma-x-saysky-magmax-nitro-2-w-ultra-purple-puma-black",
@@ -3684,79 +3754,19 @@
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-tactical-blue-ice-lavander-off-white",
         "in_stock": true
-      },
-      "10855850246411": {
-        "title": "Sporty & Rich Yankees Curve T-Shirt",
-        "handle": "sporty-rich-yankees-curve-tshirt-white",
-        "in_stock": true
-      },
-      "10170794770699": {
-        "title": "Metalwood Madras Patch Explorer Shirt",
-        "handle": "metalwood-madras-patch-explorer-shirt-multicolor",
-        "in_stock": true
-      },
-      "10218497999115": {
-        "title": "Nike Tech Woven Vest",
-        "handle": "nike-tech-woven-vest-black",
-        "in_stock": true
-      },
-      "10851335209227": {
-        "title": "The North Face Red Box Nylon Hat",
-        "handle": "the-north-face-red-box-nylon-hat-tnf-black",
-        "in_stock": true
-      },
-      "9025292697867": {
-        "title": "Lacoste Zippered Stand Up Collar Cotton Sweatshirt",
-        "handle": "lacoste-zippered-stand-up-collar-cotton-sweatshirt-black",
-        "in_stock": true
-      },
-      "8932910596363": {
-        "title": "Tekla Washcloth",
-        "handle": "tekla-washcloth-kodiak-brown",
-        "in_stock": true
-      },
-      "10677973975307": {
-        "title": "Hiking Patrol Edge Softshell Technical Shirt",
-        "handle": "hiking-patrol-edge-softshell-technical-shirt-charcoal-black",
-        "in_stock": false
-      },
-      "8856193827083": {
-        "title": "thisisneverthat\tScript Logo No Cuff Beanie",
-        "handle": "thisisneverthatscript-logo-no-cuff-beanie-olive",
-        "in_stock": true
-      },
-      "11016363147531": {
-        "title": "Adidas Tokyo W",
-        "handle": "adidas-tokyo-w-maroon-cream-white-gum-3",
-        "in_stock": true
-      },
-      "11016366162187": {
-        "title": "Adidas Samba OG W",
-        "handle": "adidas-samba-og-w-brown-warm-vanilla-maroon",
-        "in_stock": true
-      },
-      "11016365179147": {
-        "title": "Adidas München W",
-        "handle": "adidas-mnchen-w-gum-4-magic-beige-clear-pink",
-        "in_stock": true
-      },
-      "11015437877515": {
-        "title": "Salomon XT-6",
-        "handle": "salomon-xt6-black-coffee-burro-black-chocolate",
-        "in_stock": true
-      },
-      "11015437615371": {
-        "title": "Salomon XA Pro 3D *Alpine Echoes*",
-        "handle": "salomon-xa-pro-3d-alpine-echoes-black-earth",
-        "in_stock": true
-      },
-      "8670970970379": {
-        "title": "Nike Air Zoom Spiridon Cage 2",
-        "handle": "nike-air-zoom-spiridon-cage-2-light-smoke-grey-metallic-silver",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9187898949820": {
+        "title": "New Era x Timberland Houston Astros Pre Curve 59FIFTY Fitted - Wheat",
+        "handle": "new-era-x-timberland-houston-astros-pre-curve-59fifty-fitted-wheat",
+        "in_stock": true
+      },
+      "8755695419580": {
+        "title": "Rhude Motion Bandana Swim Short - Black/White",
+        "handle": "rhude-motion-bandana-swim-short-black-white",
+        "in_stock": true
+      },
       "9261906886844": {
         "title": "Nike Air DT Max '96 Low (GS) - Black/Metallic Gold",
         "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
@@ -4995,16 +5005,6 @@
       "8747392073916": {
         "title": "Politics x Dallas Mavericks x Mitchell & Ness Tee - Navy",
         "handle": "politics-x-dallas-mavericks-x-mitchell-ness-tee-navy",
-        "in_stock": true
-      },
-      "8747392762044": {
-        "title": "Politics x Dallas Mavericks x Mitchell & Ness L/S Tee - Navy",
-        "handle": "politics-x-dallas-mavericks-x-mitchell-ness-l-s-tee-navy",
-        "in_stock": true
-      },
-      "9346348679356": {
-        "title": "Nike ACG Tuff Fleece Pant - Dark Smoke Grey/White",
-        "handle": "nike-acg-tuff-fleece-pant-dark-smoke-grey-white",
         "in_stock": true
       }
     },
@@ -6261,25 +6261,55 @@
       }
     },
     "https://www.afew-store.com": {
+      "10595094626570": {
+        "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
+        "handle": "carhartt-wip-longsleeve-madison-cord-shirt-raven",
+        "in_stock": true
+      },
+      "10595093905674": {
+        "title": "Carhartt WIP Prentis Vest Liner",
+        "handle": "carhartt-wip-prentis-vest-liner-tobacco",
+        "in_stock": true
+      },
+      "10595093577994": {
+        "title": "Carhartt WIP Longsleeve Vista Waffle T-Shirt",
+        "handle": "carhartt-wip-longsleeve-vista-waffle-t-shirt-fleur-de-sel",
+        "in_stock": true
+      },
+      "10595093184778": {
+        "title": "Carhartt WIP OG Detroit Jacket",
+        "handle": "carhartt-wip-og-detroit-jacket-brown-tobacco",
+        "in_stock": true
+      },
+      "10595092955402": {
+        "title": "Carhartt WIP OG Active Jacket",
+        "handle": "carhartt-wip-og-active-jacket-black-stone-washed",
+        "in_stock": true
+      },
+      "10595092136202": {
+        "title": "Carhartt WIP Prentis Vest Liner",
+        "handle": "carhartt-wip-prentis-vest-liner-palisander-black",
+        "in_stock": true
+      },
       "10595090661642": {
         "title": "Carhartt WIP Half Zip American Script Sweat",
         "handle": "carhartt-wip-half-zip-american-script-sweat-raven",
-        "in_stock": false
+        "in_stock": true
       },
       "10595089449226": {
         "title": "Carhartt WIP Prentis Liner",
         "handle": "carhartt-wip-prentis-liner-palisander-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10595085943050": {
         "title": "Carhartt WIP Longsleeve Vista Waffle T-Shirt",
         "handle": "carhartt-wip-longsleeve-vista-waffle-t-shirt-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10595082240266": {
         "title": "Carhartt WIP Prentis Liner",
         "handle": "carhartt-wip-prentis-liner-tobacco",
-        "in_stock": false
+        "in_stock": true
       },
       "10594967650570": {
         "title": "Carhartt WIP OG Detroit Jacket",
@@ -7480,40 +7510,15 @@
         "title": "Nike WMNS Zoom Skylon 11",
         "handle": "nike-wmns-zoom-skylon-11-black-black-anthracite",
         "in_stock": true
-      },
-      "10578925715722": {
-        "title": "Nike ZOOM SKYLON 11",
-        "handle": "nike-zoom-skylon-11-black-black-anthracite",
-        "in_stock": true
-      },
-      "10578858934538": {
-        "title": "New Balance 204L",
-        "handle": "new-balance-204l-pumpernickel-black",
-        "in_stock": true
-      },
-      "10578853560586": {
-        "title": "New Balance 740",
-        "handle": "new-balance-740-sea-salt-arid-stone-silver-metallic-mushroom",
-        "in_stock": true
-      },
-      "10578852184330": {
-        "title": "New Balance 740",
-        "handle": "new-balance-740-mushroom-timberwolf",
-        "in_stock": true
-      },
-      "10578847400202": {
-        "title": "adidas Originals CLIMACOOL 2",
-        "handle": "adidas-originals-climacool-2-cblack-silvmt-cblack",
-        "in_stock": true
-      },
-      "10578846384394": {
-        "title": "adidas Originals BW ARMY",
-        "handle": "adidas-originals-bw-army-halblu-halblu-gum5",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9126915342541": {
+        "title": "Men's Tasman II Sandals Black",
+        "handle": "ugg-footwear-tasman-ii-black-j368183",
+        "in_stock": true
+      },
       "9107038240973": {
         "title": "Check Western Shirt Taupe",
         "handle": "brain-dead-clothing-check-western-shirt-beige-j356176",
@@ -8758,43 +8763,10 @@
         "title": "Men's Embroidered Wool Sleeveless Sweater Light Grey",
         "handle": "dries-van-noten-clothing-marl-4748-mksweater-lgry-grey-j363830",
         "in_stock": true
-      },
-      "9125188042957": {
-        "title": "Plane T-Shirt Black",
-        "handle": "erl-clothing-plane-tee-knit-black-j368206",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Teddy Bear - Cinnabar\nhttps://kith.com/products/khla270089-616",
-      "detected_at": "2026-08-18T13:57:16.534171+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Campus 00s Winter Lo W\nhttps://www.asphaltgold.de/products/adidas-campus-00s-winter-lo-w-magic-beige-magic-beige-gum-4",
-      "detected_at": "2026-08-18T13:57:16.534171+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Rejuven8 Run 'Camo Pack' - Black/Barkroot Brown\nhttps://sneakerpolitics.com/products/womens-nike-rejuven8-run-camo-pack-black-barkroot-brown",
-      "detected_at": "2026-08-18T13:57:16.534171+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Rejuven8 Run 'Camo Pack' - Black/White\nhttps://sneakerpolitics.com/products/womens-nike-rejuven8-run-camo-pack-black-white",
-      "detected_at": "2026-08-18T13:57:16.534171+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'Blissful White'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-blissful-white",
-      "detected_at": "2026-08-18T13:57:16.534171+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: On Cloudvista 2 'Black Black'\nhttps://www.kickgame.co.uk/products/on-cloudvista-2-black-black",
-      "detected_at": "2026-08-18T13:57:16.534171+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Free The Youth Air Jordan 16 Sneakers Metallic Silver / Picante Red\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-16-fty-sp-multicolor-j368494",
-      "detected_at": "2026-08-18T13:57:16.534171+00:00"
-    },
     {
       "message": "🆕 **New drop** at Kith: Salomon X-ALP LTR - Cloudburst / Paloma / Black\nhttps://kith.com/products/sall49196300",
       "detected_at": "2026-08-18T14:41:07.613612+00:00"
@@ -8822,6 +8794,118 @@
     {
       "message": "🔥 **Restock** at Afew Store: Carhartt WIP OG Detroit Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-detroit-jacket-black-black-48063",
       "detected_at": "2026-08-18T14:41:07.613612+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: CDG Pocket Wonderoud Eau de Parfum 100ML\nhttps://kith.com/products/cdg-65090991",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Full Zip Hoodie\nhttps://www.asphaltgold.de/products/our-legacy-full-zip-hoodie-night-woods-check-lofty-wool",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Box Longsleeve\nhttps://www.asphaltgold.de/products/our-legacy-box-longsleeve-specture-stripe",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Box T-Shirt\nhttps://www.asphaltgold.de/products/our-legacy-box-tshirt-crainum-blossom-print",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Third Cut\nhttps://www.asphaltgold.de/products/our-legacy-third-cut-river-blue-wash",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Still Chino\nhttps://www.asphaltgold.de/products/our-legacy-still-chino-char-kinetic-wool",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Pitch Cardigan\nhttps://www.asphaltgold.de/products/our-legacy-pitch-cardigan-slub-twisted-black-wool",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Borrowed Shirt\nhttps://www.asphaltgold.de/products/our-legacy-borrowed-shirt-truffle-check-grid-cloth",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Beyond Shirt\nhttps://www.asphaltgold.de/products/our-legacy-beyond-shirt-cream-stripe-ceremon-viscose",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tACG \"Wolf Grid\" Therma-FIT 1/2-Zip Hiking Top\nhttps://www.asphaltgold.de/products/nikeacg-wolf-grid-thermafit-12zip-hiking-top-desert-pink-light-crimson-summit-white",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike ACG Dri-FIT *All Conditions Racing Department* T-Shirt\nhttps://www.asphaltgold.de/products/nike-acg-drifit-all-conditions-racing-department-tshirt-dark-smoke-grey",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Payson Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-payson-pant-blue-stone-washed",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Half Zip American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-half-zip-american-script-sweat-raven",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP OG Detroit Jacket\nhttps://www.asphaltgold.de/products/carhartt-wip-og-detroit-jacket-black-black-tobacco-used-wash",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Payson Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-payson-pant-blue-marble-used-wash",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Timberland Houston Astros Pre Curve 59FIFTY Fitted - Wheat\nhttps://sneakerpolitics.com/products/new-era-x-timberland-houston-astros-pre-curve-59fifty-fitted-wheat",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Motion Bandana Swim Short - Black/White\nhttps://sneakerpolitics.com/products/rhude-motion-bandana-swim-short-black-white",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Madison Cord Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-madison-cord-shirt-raven",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Prentis Vest Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-vest-liner-tobacco",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Vista Waffle T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-vista-waffle-t-shirt-fleur-de-sel",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Detroit Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-detroit-jacket-brown-tobacco",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP OG Active Jacket\nhttps://www.afew-store.com/products/carhartt-wip-og-active-jacket-black-stone-washed",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Prentis Vest Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-vest-liner-palisander-black",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Half Zip American Script Sweat\nhttps://www.afew-store.com/products/carhartt-wip-half-zip-american-script-sweat-raven",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Prentis Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-liner-palisander-black",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Longsleeve Vista Waffle T-Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-vista-waffle-t-shirt-black",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Prentis Liner\nhttps://www.afew-store.com/products/carhartt-wip-prentis-liner-tobacco",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Tasman II Sandals Black\nhttps://www.slamjam.com/products/ugg-footwear-tasman-ii-black-j368183",
+      "detected_at": "2026-08-18T15:13:31.609071+00:00"
     }
   ]
 }
