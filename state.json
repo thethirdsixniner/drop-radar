@@ -99,7 +99,7 @@
       "8286654136448": {
         "title": "Kith for BMW Nelson Quarter Zip - Black",
         "handle": "khmg030028-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286654038144": {
         "title": "Kith for BMW Checkered Nelson Rugby - Black",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11019708399883": {
+        "title": "Adidas BW Army",
+        "handle": "adidas-bw-army-cinder-cinder-gum-5",
+        "in_stock": true
+      },
       "11018929864971": {
         "title": "Our Legacy Camion Boot",
         "handle": "our-legacy-camion-boot-matted-brown",
@@ -3748,11 +3753,6 @@
       "10760575516939": {
         "title": "AMI Paris Embossed Ami De Coeur Hoodie",
         "handle": "ami-paris-embossed-ami-de-coeur-hoodie-anthracite",
-        "in_stock": true
-      },
-      "11016544911627": {
-        "title": "Hoka Mach Remastered Aura",
-        "handle": "hoka-mach-remastered-aura-black-steel",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,121 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9126903480525": {
+        "title": "Men's Provincia Trackpants Black",
+        "handle": "magliano-clothing-provincia-trackpants-black-j363154",
+        "in_stock": true
+      },
+      "9126903546061": {
+        "title": "Men's Nudo Serafino Longsleeve Top White",
+        "handle": "magliano-clothing-nudo-serafino-long-s-white-j363149",
+        "in_stock": true
+      },
+      "9126903316685": {
+        "title": "Women's Caspian Dress Prism Pink",
+        "handle": "kiko-kostadinov-clothing-wmns-caspian-dress-pink-j359633",
+        "in_stock": false
+      },
+      "9126903349453": {
+        "title": "Women's Caspian Dress Powder Blue",
+        "handle": "kiko-kostadinov-clothing-wmns-caspian-dress-blue-j359632",
+        "in_stock": false
+      },
+      "9126903218381": {
+        "title": "Women's Petrel Hooded Pullover Ink Black",
+        "handle": "kiko-kostadinov-clothing-wmns-petrel-hooded-pullover-black-j359629",
+        "in_stock": true
+      },
+      "9126903283917": {
+        "title": "Women's Peregrine Jacket Stone Washed Charcoal",
+        "handle": "kiko-kostadinov-clothing-wmns-peregrine-jacket-black-j359628",
+        "in_stock": true
+      },
+      "9126903021773": {
+        "title": "Women's Peregrine Trousers Stone Washed Charcoal",
+        "handle": "kiko-kostadinov-clothing-wmns-peregrine-trousers-grey-j359626",
+        "in_stock": true
+      },
+      "9126903087309": {
+        "title": "Women's Audax Trousers Burnt Umber",
+        "handle": "kiko-kostadinov-clothing-wmns-audax-trousers-brown-j359624",
+        "in_stock": true
+      },
+      "9126903054541": {
+        "title": "Women's Peregrine Trousers Feather Print",
+        "handle": "kiko-kostadinov-clothing-wmns-peregrine-trousers-brown-j359623",
+        "in_stock": true
+      },
+      "9126903120077": {
+        "title": "Women's Evelyn Blouse Pebble",
+        "handle": "kiko-kostadinov-clothing-wmns-evelyn-blouse-grey-j359630",
+        "in_stock": true
+      },
+      "9126903185613": {
+        "title": "Women's Macaw Jumper Dove Brown / Redpoll Pink",
+        "handle": "kiko-kostadinov-clothing-wmns-macaw-jumper-brown-j359635",
+        "in_stock": true
+      },
+      "9126903152845": {
+        "title": "Women's Corella Double Sleeve Jumper Mahogany",
+        "handle": "kiko-kostadinov-clothing-wmns-corella-double-sleeve-jumper-brown-j359634",
+        "in_stock": true
+      },
+      "9126902956237": {
+        "title": "Men's Cutline Jacket Black",
+        "handle": "adidas-clothing-muc-jacket-black-j362399",
+        "in_stock": true
+      },
+      "9126902890701": {
+        "title": "Men's  Blue Tab Relaxed Button-Down Shirt Grey",
+        "handle": "levis-clothing-blue-tab-relaxed-button-down-greys-grey-j360270",
+        "in_stock": true
+      },
+      "9126902923469": {
+        "title": "Men's Blue Tab Pilot Jacket Harvest Gold",
+        "handle": "levis-clothing-blue-tab-pilot-jacket-tans-beige-j360266",
+        "in_stock": true
+      },
+      "9126902857933": {
+        "title": "Men's Blue Tab Relaxed T-Shirt Brown",
+        "handle": "levis-clothing-blue-tab-relaxed-tee-browns-brown-j360063",
+        "in_stock": true
+      },
+      "9126902694093": {
+        "title": "Women's Blue Tab Drop Barrel Jeans Blue",
+        "handle": "levis-clothing-wmns-blue-tab-drop-barrel-blues-blue-j361667",
+        "in_stock": true
+      },
+      "9126902825165": {
+        "title": "Men's Blue Tab Pencil Slim Jeans Dark Wash",
+        "handle": "levis-clothing-blue-tab-pencil-slim-blues-grey-j360055",
+        "in_stock": true
+      },
+      "9126902759629": {
+        "title": "Men's Blue Tab Anchor Relaxed Jeans Blue",
+        "handle": "levis-clothing-blue-tab-anchor-relaxed-blues-blue-j360054",
+        "in_stock": true
+      },
+      "9126902792397": {
+        "title": "Men's Blue Tab Anchor Relaxed Jeans Black",
+        "handle": "levis-clothing-blue-tab-anchor-relaxed-blacks-black-j360053",
+        "in_stock": true
+      },
+      "9126902628557": {
+        "title": "CHITO Graphic Knit Sweater Black",
+        "handle": "y-3-clothing-gfx-knit-sweat-black-j359527",
+        "in_stock": true
+      },
+      "9126902661325": {
+        "title": "CHITO Graphic Track Top Black",
+        "handle": "y-3-clothing-gfx-nyln-tt-black-j359525",
+        "in_stock": true
+      },
+      "9126902595789": {
+        "title": "Men's Wool Wide Trousers Black",
+        "handle": "y-3-clothing-m-wd-wl-pnt-black-j359530",
+        "in_stock": true
+      },
       "9126761988301": {
         "title": "Men's Veleka Jacket Charcoal",
         "handle": "kiko-kostadinov-clothing-veleka-jacket-black-j359804",
@@ -8648,121 +8763,6 @@
         "title": "Men's Bi-Face Reversible Jacket Andorra",
         "handle": "c-p-company-clothing-bi-face-reversible-jacket-red-j360693",
         "in_stock": true
-      },
-      "9124920393933": {
-        "title": "Men's Cotton Plain Face Resined Zipped Lens Overshirt Fallen Rock",
-        "handle": "c-p-company-clothing-cotton-plain-face-resined-zipped-lens-overshirt-green-j360690",
-        "in_stock": true
-      },
-      "9124920426701": {
-        "title": "Men's Twill Mixed Explorer Jacket Black",
-        "handle": "c-p-company-clothing-twill-mixed-explorer-jacket-black-j360691",
-        "in_stock": true
-      },
-      "9124920361165": {
-        "title": "Men's Felted Wool Overshirt Ivy Green",
-        "handle": "c-p-company-clothing-overshirt-in-felted-wool-green-j360669",
-        "in_stock": true
-      },
-      "9124920099021": {
-        "title": "Men's Microreps Boxy Cargo Pants Black",
-        "handle": "c-p-company-clothing-micro-reps-boxy-lens-cargo-pants-black-j360696",
-        "in_stock": true
-      },
-      "9124920197325": {
-        "title": "Men's Diagonal Raised Fleece Half Zip Sweatshirt Ponderosa Pine",
-        "handle": "c-p-company-clothing-diagonal-raised-fleece-half-zip-lens-sweatshirt-red-j360682",
-        "in_stock": true
-      },
-      "9124920230093": {
-        "title": "Men's Full Rib Crewneck Sweater Buck Thorn Brown",
-        "handle": "c-p-company-clothing-full-rib-cotton-crewneck-lens-sweater-brown-j360687",
-        "in_stock": true
-      },
-      "9124920262861": {
-        "title": "Men's Waffle Knit Cotton Zip Lens Cardigan Ivy Green",
-        "handle": "c-p-company-clothing-waffle-knit-cotton-zip-lens-cardigan-green-j360686",
-        "in_stock": true
-      },
-      "9124920164557": {
-        "title": "Men's Brushed and Emerized Diagonal Fleece Crewneck Sweatshirt Fallen Rock",
-        "handle": "c-p-company-clothing-sweatshirts-crew-neck-in-brushed-emerized-diagonal-fleece-grey-j360678",
-        "in_stock": true
-      },
-      "9124916723917": {
-        "title": "Air Jordan 17 Low Sneakers Black / Metallic Silver",
-        "handle": "nike-jordan-footwear-air-jordan-17-low-sp-black-j368517",
-        "in_stock": false
-      },
-      "9124916756685": {
-        "title": "Air Jordan 6 Retro Sneakers White / Black",
-        "handle": "nike-jordan-footwear-air-jordan-6-retro-white-j368497",
-        "in_stock": true
-      },
-      "9124916592845": {
-        "title": "Hellstar Megaride S2 Sneakers Cloud White / Off White / Core Black",
-        "handle": "adidas-footwear-hellstar-megaride-s-white-j362348",
-        "in_stock": false
-      },
-      "9124916527309": {
-        "title": "Willy Chavarria Megaride AG Sneakers Clear Pink / Power Red",
-        "handle": "adidas-footwear-chavarria-megaride-ag-pink-j346700",
-        "in_stock": true
-      },
-      "9124848730317": {
-        "title": "Men's Cotton Poplin Shirt Off White",
-        "handle": "mm6-maison-margiela-clothing-longsleeved-shirt-white-j363164",
-        "in_stock": true
-      },
-      "9124848664781": {
-        "title": "Men's Brandon Pants Black (Marble Used Wash)",
-        "handle": "carhartt-wip-clothing-brandon-pant-black-j359155",
-        "in_stock": true
-      },
-      "9108407746765": {
-        "title": "Men's Cargo Pants Military Green",
-        "handle": "oamc-peacemaker-clothing-cargo-pant-green-j333470",
-        "in_stock": false
-      },
-      "9115619983565": {
-        "title": "Men's Mad 90 Pack \"Laser 90\" Woven Jacket Black / Lightening",
-        "handle": "nike-clothing-m-nk-woven-jacket-fr-black-j356717",
-        "in_stock": true
-      },
-      "9094072467661": {
-        "title": "Women's Track Pants Black",
-        "handle": "johanna-parv-clothing-wmns-track-pants-black-j324646",
-        "in_stock": true
-      },
-      "9110405513421": {
-        "title": "Men's Dogs Print Oversized Fit T-Shirt Black",
-        "handle": "oamc-peacemaker-clothing-oversize-tee-dogs-print-black-j333543",
-        "in_stock": true
-      },
-      "9087412371661": {
-        "title": "Men's Shell Pants Black",
-        "handle": "oamc-peacemaker-clothing-shell-pant-black-j320117",
-        "in_stock": true
-      },
-      "9101851623629": {
-        "title": "Guide Tennie PRO GTX Sneakers Core Black",
-        "handle": "adidas-footwear-guidetennie-pro-gtx-black-j345850",
-        "in_stock": true
-      },
-      "9118677827789": {
-        "title": "Canada x NOCTA Longsleeve T-Shirt Black",
-        "handle": "nike-clothing-cax-m-nk-df-cof-jsy-ls-black-j364606",
-        "in_stock": false
-      },
-      "9100190449869": {
-        "title": "Men's Contrast Sleeves T-Shirt Grey Melange",
-        "handle": "dries-van-noten-clothing-heedar-mklst-shirt-grey-j341140",
-        "in_stock": false
-      },
-      "9107609583821": {
-        "title": "Women's Speedcat Ballet Metallic Jasmine Flower / Black",
-        "handle": "puma-footwear-speedcat-ballet-metallic-wns-white-j356398",
-        "in_stock": true
       }
     }
   },
@@ -8774,6 +8774,94 @@
     {
       "message": "🆕 **New drop** at Asphaltgold: Our Legacy Camion Boot\nhttps://www.asphaltgold.de/products/our-legacy-camion-boot-matted-brown",
       "detected_at": "2026-08-18T09:48:37.137297+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas BW Army\nhttps://www.asphaltgold.de/products/adidas-bw-army-cinder-cinder-gum-5",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Provincia Trackpants Black\nhttps://www.slamjam.com/products/magliano-clothing-provincia-trackpants-black-j363154",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Nudo Serafino Longsleeve Top White\nhttps://www.slamjam.com/products/magliano-clothing-nudo-serafino-long-s-white-j363149",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Petrel Hooded Pullover Ink Black\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-petrel-hooded-pullover-black-j359629",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Peregrine Jacket Stone Washed Charcoal\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-peregrine-jacket-black-j359628",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Peregrine Trousers Stone Washed Charcoal\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-peregrine-trousers-grey-j359626",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Audax Trousers Burnt Umber\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-audax-trousers-brown-j359624",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Peregrine Trousers Feather Print\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-peregrine-trousers-brown-j359623",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Evelyn Blouse Pebble\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-evelyn-blouse-grey-j359630",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Macaw Jumper Dove Brown / Redpoll Pink\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-macaw-jumper-brown-j359635",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Corella Double Sleeve Jumper Mahogany\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-corella-double-sleeve-jumper-brown-j359634",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Cutline Jacket Black\nhttps://www.slamjam.com/products/adidas-clothing-muc-jacket-black-j362399",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's  Blue Tab Relaxed Button-Down Shirt Grey\nhttps://www.slamjam.com/products/levis-clothing-blue-tab-relaxed-button-down-greys-grey-j360270",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Blue Tab Pilot Jacket Harvest Gold\nhttps://www.slamjam.com/products/levis-clothing-blue-tab-pilot-jacket-tans-beige-j360266",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Blue Tab Relaxed T-Shirt Brown\nhttps://www.slamjam.com/products/levis-clothing-blue-tab-relaxed-tee-browns-brown-j360063",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Blue Tab Drop Barrel Jeans Blue\nhttps://www.slamjam.com/products/levis-clothing-wmns-blue-tab-drop-barrel-blues-blue-j361667",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Blue Tab Pencil Slim Jeans Dark Wash\nhttps://www.slamjam.com/products/levis-clothing-blue-tab-pencil-slim-blues-grey-j360055",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Blue Tab Anchor Relaxed Jeans Blue\nhttps://www.slamjam.com/products/levis-clothing-blue-tab-anchor-relaxed-blues-blue-j360054",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Blue Tab Anchor Relaxed Jeans Black\nhttps://www.slamjam.com/products/levis-clothing-blue-tab-anchor-relaxed-blacks-black-j360053",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: CHITO Graphic Knit Sweater Black\nhttps://www.slamjam.com/products/y-3-clothing-gfx-knit-sweat-black-j359527",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: CHITO Graphic Track Top Black\nhttps://www.slamjam.com/products/y-3-clothing-gfx-nyln-tt-black-j359525",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Wool Wide Trousers Black\nhttps://www.slamjam.com/products/y-3-clothing-m-wd-wl-pnt-black-j359530",
+      "detected_at": "2026-08-18T10:31:37.992691+00:00"
     }
   ]
 }
