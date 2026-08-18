@@ -1236,11 +1236,6 @@
         "handle": "rhupf26sh01491-0043",
         "in_stock": true
       },
-      "8286643617920": {
-        "title": "Rhude Logo Mesh Hat - Red / White",
-        "handle": "rhupf26ha01510-3041",
-        "in_stock": false
-      },
       "8286644076672": {
         "title": "Rhude Filtaro Crest Tee - Vintage White / Red / Yellow",
         "handle": "rhupf26tt01012-6498",
@@ -1249,6 +1244,11 @@
       "8286643912832": {
         "title": "Rhude Logo Mesh Hat - Brown",
         "handle": "rhupf26ha01510-6554",
+        "in_stock": true
+      },
+      "8286644142208": {
+        "title": "Rhude Filtaro Crest Tee - Vintage Black / Red / Yellow",
+        "handle": "rhupf26tt01012-6499",
         "in_stock": true
       }
     },
@@ -1421,7 +1421,7 @@
       "6702538031365": {
         "title": "UNDEFEATED TOY WATER GUN - ASSORTED",
         "handle": "undefeated-toy-water-gun-assorted",
-        "in_stock": true
+        "in_stock": false
       },
       "6702538129669": {
         "title": "UNDEFEATED LOGO BEACH TOWEL",
@@ -3568,7 +3568,7 @@
       "10540832260363": {
         "title": "Autry Windspin W *Suede / Leather*",
         "handle": "autry-windspin-w-suede-leather-ebony",
-        "in_stock": true
+        "in_stock": false
       },
       "8443157872907": {
         "title": "Lacoste Zippered Stand Up Collar Cotton Sweatshirt",
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'True Blue' - White/True Blue\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-true-blue-white-true-blue",
       "detected_at": "2026-08-18T17:44:14.120879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Rhude Filtaro Crest Tee - Vintage Black / Red / Yellow\nhttps://kith.com/products/rhupf26tt01012-6499",
+      "detected_at": "2026-08-18T18:14:09.178696+00:00"
     }
   ]
 }
