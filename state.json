@@ -434,7 +434,7 @@
       "8286650040448": {
         "title": "Kith for BMW Mug - Vitality",
         "handle": "khla150095-345",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650007680": {
         "title": "Kith for BMW Tapestry Blanket - Sandrift",
@@ -1221,11 +1221,6 @@
         "handle": "rhupf26ha03511-6219",
         "in_stock": true
       },
-      "8286643814528": {
-        "title": "Rhude Moonlight Dual Stripe Curved Brim Hat - Red / White",
-        "handle": "rhupf26ha07511-3041",
-        "in_stock": true
-      },
       "8286643781760": {
         "title": "Rhude Logo Short - Taupe",
         "handle": "rhupf26sh01872-0004",
@@ -1249,6 +1244,11 @@
       "8286644142208": {
         "title": "Rhude Filtaro Crest Tee - Vintage Black / Red / Yellow",
         "handle": "rhupf26tt01012-6499",
+        "in_stock": true
+      },
+      "8286644174976": {
+        "title": "Rhude Filtaro Crest Hoodie - Vintage Black / Red / Yellow",
+        "handle": "rhupf26ho01012-6499",
         "in_stock": true
       }
     },
@@ -3815,7 +3815,7 @@
       "9405625172156": {
         "title": "Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White",
         "handle": "pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
-        "in_stock": false
+        "in_stock": true
       },
       "9187898949820": {
         "title": "New Era x Timberland Houston Astros Pre Curve 59FIFTY Fitted - Wheat",
@@ -4016,11 +4016,6 @@
         "title": "Paly Hollywood Sunset Blvd. Sponsored Suede Jacket - Tan",
         "handle": "paly-hollywood-sunset-blvd-sponsored-suede-jacket-tan",
         "in_stock": true
-      },
-      "9138925732028": {
-        "title": "Diet Starts Monday Repair Cargo Pants - Tan",
-        "handle": "diet-starts-monday-repair-cargo-pants-tan",
-        "in_stock": false
       },
       "9111677436092": {
         "title": "Adidas Adistar XLG 2.0 - Grey One/Silver Metallic",
@@ -5005,6 +5000,11 @@
       "9457166188732": {
         "title": "Politics x Mitchell & Ness 1904 Twill Strapback - Cream/Forest",
         "handle": "politics-x-mitchell-ness-1904-twill-snapback-cream-forest",
+        "in_stock": true
+      },
+      "9457165533372": {
+        "title": "Politics x Mitchell & Ness Pro Pinch Arch Canvas Snapback - Black",
+        "handle": "politics-x-mitchell-ness-pro-pinch-arch-canvas-snapback-black",
         "in_stock": true
       }
     },
@@ -8814,6 +8814,18 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Nahmias Tonal Warm Up Jacket - Black\nhttps://sneakerpolitics.com/products/nahmias-tonal-warm-up-jacket-black",
       "detected_at": "2026-08-18T19:00:41.408162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Rhude Filtaro Crest Hoodie - Vintage Black / Red / Yellow\nhttps://kith.com/products/rhupf26ho01012-6499",
+      "detected_at": "2026-08-18T19:40:52.910692+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Chalk White/Off White\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-chalk-white-off-white",
+      "detected_at": "2026-08-18T19:40:52.910692+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Mitchell & Ness Pro Pinch Arch Canvas Snapback - Black\nhttps://sneakerpolitics.com/products/politics-x-mitchell-ness-pro-pinch-arch-canvas-snapback-black",
+      "detected_at": "2026-08-18T19:40:52.910692+00:00"
     }
   ]
 }
