@@ -79,7 +79,7 @@
       "8286654300288": {
         "title": "Kith for BMW M Quote Long Sleeve Tee - Black",
         "handle": "khmg030043-001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286654267520": {
         "title": "Kith for BMW CSi 3.0 Tee - Black",
@@ -99,7 +99,7 @@
       "8286654136448": {
         "title": "Kith for BMW Nelson Quarter Zip - Black",
         "handle": "khmg030028-001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286654038144": {
         "title": "Kith for BMW Checkered Nelson Rugby - Black",
@@ -3668,7 +3668,7 @@
       "10677973975307": {
         "title": "Hiking Patrol Edge Softshell Technical Shirt",
         "handle": "hiking-patrol-edge-softshell-technical-shirt-charcoal-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8856193827083": {
         "title": "thisisneverthat\tScript Logo No Cuff Beanie",
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW M Quote Long Sleeve Tee - Black\nhttps://kith.com/products/khmg030043-001",
+      "detected_at": "2026-08-18T09:03:29.262957+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW Nelson Quarter Zip - Black\nhttps://kith.com/products/khmg030028-001",
+      "detected_at": "2026-08-18T09:03:29.262957+00:00"
+    }
+  ]
 }
