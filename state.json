@@ -1,6 +1,46 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286111760512": {
+        "title": "NikeSKIMS WMNS Rift Satin - Black / Black / Black",
+        "handle": "nkiq7158-001",
+        "in_stock": true
+      },
+      "8286102683776": {
+        "title": "Nike Air Max 95 OG - Black / Team Crimson / Wolf Grey",
+        "handle": "nkhm4740-008",
+        "in_stock": true
+      },
+      "8286082465920": {
+        "title": "Nike WMNS Zoom Vomero 5 - Light Bone / Phantom",
+        "handle": "nkib8929-003",
+        "in_stock": true
+      },
+      "8285969744000": {
+        "title": "Saucony Progrid Guide 7 - Silver / Grey",
+        "handle": "sas70936-10",
+        "in_stock": true
+      },
+      "8285893034112": {
+        "title": "Saucony Progrid Omni 9 Glowaconstrictor - Black",
+        "handle": "sas70934-3",
+        "in_stock": true
+      },
+      "8285892968576": {
+        "title": "Saucony Progrid Omni 9 - Pink / Purple",
+        "handle": "sas70739-30",
+        "in_stock": true
+      },
+      "8285772513408": {
+        "title": "adidas SL 72 RS - Aurora Ivy / Off White / Warm Vanilla",
+        "handle": "aajr8772",
+        "in_stock": true
+      },
+      "8285759373440": {
+        "title": "Saucony Progrid Omni 9 - Black",
+        "handle": "sas70900-2",
+        "in_stock": true
+      },
       "6535633502336": {
         "title": "CDG Pocket Wonderoud Eau de Parfum 100ML",
         "handle": "cdg-65090991",
@@ -1209,46 +1249,6 @@
       "8286643978368": {
         "title": "Rhude Tripoli Rally Team Tee - Vintage Black / Yellow",
         "handle": "rhupf26tt09012-6185",
-        "in_stock": true
-      },
-      "8286643880064": {
-        "title": "Rhude Safari Crest Tee - Vintage Black / Blue / Red",
-        "handle": "rhupf26tt02012-6500",
-        "in_stock": true
-      },
-      "8286643650688": {
-        "title": "Rhude Safari Crest Hat - Black / Navy",
-        "handle": "rhupf26ha03511-6219",
-        "in_stock": true
-      },
-      "8286643781760": {
-        "title": "Rhude Logo Short - Taupe",
-        "handle": "rhupf26sh01872-0004",
-        "in_stock": true
-      },
-      "8286643519616": {
-        "title": "Rhude Logo Short - Navy",
-        "handle": "rhupf26sh01491-0043",
-        "in_stock": true
-      },
-      "8286644076672": {
-        "title": "Rhude Filtaro Crest Tee - Vintage White / Red / Yellow",
-        "handle": "rhupf26tt01012-6498",
-        "in_stock": true
-      },
-      "8286643912832": {
-        "title": "Rhude Logo Mesh Hat - Brown",
-        "handle": "rhupf26ha01510-6554",
-        "in_stock": true
-      },
-      "8286644142208": {
-        "title": "Rhude Filtaro Crest Tee - Vintage Black / Red / Yellow",
-        "handle": "rhupf26tt01012-6499",
-        "in_stock": true
-      },
-      "8286644174976": {
-        "title": "Rhude Filtaro Crest Hoodie - Vintage Black / Red / Yellow",
-        "handle": "rhupf26ho01012-6499",
         "in_stock": true
       }
     },
@@ -8768,10 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kick Game: Mizuno Wave Prophecy 13.2 'Harvest Gold Black Snow White'\nhttps://www.kickgame.co.uk/products/wave-prophecy-13-2-harvest-gold-black-snow-white",
-      "detected_at": "2026-08-18T19:58:44.364504+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Sneaker Politics: Politics x Mitchell & Ness Pro Pinch Stars Snapback - White/Black\nhttps://sneakerpolitics.com/products/politics-x-mitchell-ness-pro-pinch-stars-snapback-white-black",
       "detected_at": "2026-08-18T20:33:30.019523+00:00"
     },
@@ -8794,6 +8790,38 @@
     {
       "message": "🔥 **Restock** at Kick Game: Mizuno Wave Prophecy 13.2 'Green Glow Cloudscape Quiet Shade'\nhttps://www.kickgame.co.uk/products/mizuno-wave-prophecy-13-2-green-glow-cloudscape-quiet-shade",
       "detected_at": "2026-08-18T20:33:30.019523+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: NikeSKIMS WMNS Rift Satin - Black / Black / Black\nhttps://kith.com/products/nkiq7158-001",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Nike Air Max 95 OG - Black / Team Crimson / Wolf Grey\nhttps://kith.com/products/nkhm4740-008",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Nike WMNS Zoom Vomero 5 - Light Bone / Phantom\nhttps://kith.com/products/nkib8929-003",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Saucony Progrid Guide 7 - Silver / Grey\nhttps://kith.com/products/sas70936-10",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Saucony Progrid Omni 9 Glowaconstrictor - Black\nhttps://kith.com/products/sas70934-3",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Saucony Progrid Omni 9 - Pink / Purple\nhttps://kith.com/products/sas70739-30",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: adidas SL 72 RS - Aurora Ivy / Off White / Warm Vanilla\nhttps://kith.com/products/aajr8772",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Saucony Progrid Omni 9 - Black\nhttps://kith.com/products/sas70900-2",
+      "detected_at": "2026-08-18T21:00:57.519951+00:00"
     }
   ]
 }
