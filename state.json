@@ -79,7 +79,7 @@
       "8286654300288": {
         "title": "Kith for BMW M Quote Long Sleeve Tee - Black",
         "handle": "khmg030043-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286654267520": {
         "title": "Kith for BMW CSi 3.0 Tee - Black",
@@ -1204,7 +1204,7 @@
       "8286643781760": {
         "title": "Rhude Logo Short - Taupe",
         "handle": "rhupf26sh01872-0004",
-        "in_stock": false
+        "in_stock": true
       },
       "8286643519616": {
         "title": "Rhude Logo Short - Navy",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11018929864971": {
+        "title": "Our Legacy Camion Boot",
+        "handle": "our-legacy-camion-boot-matted-brown",
+        "in_stock": true
+      },
       "11016359411979": {
         "title": "Nike Wmns Air Rift",
         "handle": "nike-wmns-air-rift-black-cool-grey-1",
@@ -3749,11 +3754,6 @@
         "title": "Hoka Mach Remastered Aura",
         "handle": "hoka-mach-remastered-aura-black-steel",
         "in_stock": true
-      },
-      "11010456846603": {
-        "title": "Nike Air Max III",
-        "handle": "nike-air-max-iii-black-cool-grey-infrared-23",
-        "in_stock": false
       }
     },
     "https://sneakerpolitics.com": {
@@ -8768,12 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW M Quote Long Sleeve Tee - Black\nhttps://kith.com/products/khmg030043-001",
-      "detected_at": "2026-08-18T09:03:29.262957+00:00"
+      "message": "🔥 **Restock** at Kith: Rhude Logo Short - Taupe\nhttps://kith.com/products/rhupf26sh01872-0004",
+      "detected_at": "2026-08-18T09:48:37.137297+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Nelson Quarter Zip - Black\nhttps://kith.com/products/khmg030028-001",
-      "detected_at": "2026-08-18T09:03:29.262957+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Our Legacy Camion Boot\nhttps://www.asphaltgold.de/products/our-legacy-camion-boot-matted-brown",
+      "detected_at": "2026-08-18T09:48:37.137297+00:00"
     }
   ]
 }
