@@ -6264,17 +6264,17 @@
       "10595463135498": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gel-nyc-cream-antique-red",
-        "in_stock": false
+        "in_stock": true
       },
       "10595462709514": {
         "title": "adidas Originals WMNS HANDBALL SPEZIAL",
         "handle": "adidas-originals-wmns-handball-spezia-cblack-owhite-chablu",
-        "in_stock": false
+        "in_stock": true
       },
       "10595462512906": {
         "title": "adidas Originals HANDBALL SPEZIAL",
         "handle": "adidas-originals-handball-spezial-nindig-clesky-gum2",
-        "in_stock": false
+        "in_stock": true
       },
       "10595461726474": {
         "title": "Nike TENNIS CLASSIC PRM",
@@ -6289,7 +6289,7 @@
       "10595457368330": {
         "title": "Nike WMNS P-6000",
         "handle": "nike-wmns-p-6000-velvet-brown-ridgerock-cream-ii",
-        "in_stock": false
+        "in_stock": true
       },
       "10595094626570": {
         "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
@@ -8786,6 +8786,22 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Shin Loafers Black / Burgundy\nhttps://www.slamjam.com/products/_j-l-a-l_-footwear-shin-loafer-black-j354631",
       "detected_at": "2026-08-19T09:49:41.306427+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Asics GEL-NYC\nhttps://www.afew-store.com/products/asics-gel-nyc-cream-antique-red",
+      "detected_at": "2026-08-19T10:31:32.774384+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-wmns-handball-spezia-cblack-owhite-chablu",
+      "detected_at": "2026-08-19T10:31:32.774384+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-nindig-clesky-gum2",
+      "detected_at": "2026-08-19T10:31:32.774384+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS P-6000\nhttps://www.afew-store.com/products/nike-wmns-p-6000-velvet-brown-ridgerock-cream-ii",
+      "detected_at": "2026-08-19T10:31:32.774384+00:00"
     }
   ]
 }
