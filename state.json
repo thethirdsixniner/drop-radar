@@ -2663,7 +2663,7 @@
       "8932203364619": {
         "title": "Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*",
         "handle": "autry-reelwind-low-w-nylon-hairy-suede-cracked-leather-white-military",
-        "in_stock": true
+        "in_stock": false
       },
       "10795018125579": {
         "title": "Adidas Motor Ave Racer Jacket",
@@ -3158,7 +3158,7 @@
       "10716161802507": {
         "title": "Asics JOG 100S",
         "handle": "asics-jog-100s-pale-oak-pure-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10744395727115": {
         "title": "Adidas Montreal RM",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9134332608700": {
+        "title": "Nike Air Max 95 Zip SP - Phantom/Black",
+        "handle": "nike-air-max-95-zip-sp-phantom-black",
+        "in_stock": true
+      },
       "9412924080316": {
         "title": "Women's Air Jordan 1 Retro High OG 'Nails & Grails' - University Red/Metallic Silver",
         "handle": "womens-air-jordan-1-retro-high-og-nails-grails-university-red-metallic-silver",
@@ -5000,11 +5005,6 @@
       "8913483595964": {
         "title": "Represent Pico Knit Shirt - Ecru",
         "handle": "represent-pico-knit-shirt-ecru",
-        "in_stock": true
-      },
-      "8913482186940": {
-        "title": "Represent 24 Hour Service Tee - Flat White",
-        "handle": "represent-24-hour-service-tee-flat-white",
         "in_stock": true
       }
     },
@@ -8768,32 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Metalwood Studio Metal Logo Crew Socks - Black\nhttps://sneakerpolitics.com/products/metalwood-studio-metal-logo-crew-socks-black",
-      "detected_at": "2026-08-19T19:52:26.640060+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Metalwood Studio Metal Logo Crew Socks - Dusty Blue\nhttps://sneakerpolitics.com/products/metalwood-studio-metal-logo-crew-socks-dusty-blue",
-      "detected_at": "2026-08-19T19:52:26.640060+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Max90 Uptempo Tee - Black/Volt\nhttps://sneakerpolitics.com/products/nike-max90-uptempo-tee-black-volt",
-      "detected_at": "2026-08-19T19:52:26.640060+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Sportswear Windrunner - Black\nhttps://sneakerpolitics.com/products/nike-sportswear-windrunner-black",
-      "detected_at": "2026-08-19T19:52:26.640060+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Sportswear Club Cargo Pants - Black\nhttps://sneakerpolitics.com/products/nike-sportswear-club-cargo-pants-black",
-      "detected_at": "2026-08-19T19:52:26.640060+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike ACG 'Chamo Camo' Tee - Sail\nhttps://sneakerpolitics.com/products/nike-acg-chamo-camo-tee-sail",
-      "detected_at": "2026-08-19T19:52:26.640060+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Sneaker Politics: Women's Air Jordan 1 Retro High OG 'Nails & Grails' - University Red/Metallic Silver\nhttps://sneakerpolitics.com/products/womens-air-jordan-1-retro-high-og-nails-grails-university-red-metallic-silver",
       "detected_at": "2026-08-19T20:31:21.750408+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 Zip SP - Phantom/Black\nhttps://sneakerpolitics.com/products/nike-air-max-95-zip-sp-phantom-black",
+      "detected_at": "2026-08-19T21:04:05.685116+00:00"
     }
   ]
 }
