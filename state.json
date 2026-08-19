@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286669832320": {
+        "title": "New Balance 1890P - Team Red / Pink",
+        "handle": "nwbu18902uh",
+        "in_stock": true
+      },
+      "8286669799552": {
+        "title": "New Balance 1890P - Fairweather / Blue",
+        "handle": "nwbu1890787",
+        "in_stock": true
+      },
       "8284513075328": {
         "title": "UGG Classic Mini - Chestnut",
         "handle": "ug1002072-che",
@@ -1240,16 +1250,6 @@
         "title": "Kith & '47 for the New York Yankees Ballpark Offside Snapback - Black",
         "handle": "khma050110-001",
         "in_stock": false
-      },
-      "8284978184320": {
-        "title": "Kith Collins Swim Short - Thunder",
-        "handle": "khm060512-506",
-        "in_stock": true
-      },
-      "8284978151552": {
-        "title": "Kith Collins Swim Short - Nocturnal",
-        "handle": "khm060512-413",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -2505,6 +2505,26 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11019524473099": {
+        "title": "Nike Wmns Vomero Premium",
+        "handle": "nike-wmns-vomero-premium-white-black-summit-white-bleached-lilac",
+        "in_stock": true
+      },
+      "11019531452683": {
+        "title": "Nike\tAir Jordan 3 Retro *Laser*",
+        "handle": "nikeair-jordan-3-retro-laser-phantom-university-red-palomino-sail",
+        "in_stock": false
+      },
+      "11017605284107": {
+        "title": "Asics GEL-NYC",
+        "handle": "asics-gelnyc-cream-antique-red",
+        "in_stock": true
+      },
+      "11019536171275": {
+        "title": "Nike ReactX Wildhorse 10",
+        "handle": "nike-wildhorse-10-spruce-fog-black-spruce-sea-glass",
+        "in_stock": true
+      },
       "11019095539979": {
         "title": "Adidas Handball Spezial W",
         "handle": "adidas-handball-spezial-w-off-white-wonder-mauve-gold-metallic",
@@ -3734,29 +3754,14 @@
         "title": "Nike Wmns Air Force 1 '07 *Pearlized*",
         "handle": "nike-wmns-air-force-1-07-pearlized-cream-ii-cream-ii-metallic-silver-white",
         "in_stock": true
-      },
-      "11018059579659": {
-        "title": "Mizuno MXR",
-        "handle": "mizuno-mxr-black-spring-crocus-metallic-grey",
-        "in_stock": true
-      },
-      "11018061480203": {
-        "title": "Mizuno Wave Rider 10",
-        "handle": "mizuno-wave-rider-10-cloudscape-black-sand-grossular-green",
-        "in_stock": true
-      },
-      "11016352465163": {
-        "title": "Nike Air Force 1 '07 LV8",
-        "handle": "nike-air-force-1-07-lv8-vast-grey-sail",
-        "in_stock": true
-      },
-      "11018061086987": {
-        "title": "Mizuno Wave Rider 10",
-        "handle": "mizuno-wave-rider-10-harbor-mist-black-royal-blue",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9265242341564": {
+        "title": "Air Jordan 1 Retro High 'Flight Club' (GS) - Black/University Red",
+        "handle": "air-jordan-1-retro-high-flight-club-gs-black-university-red",
+        "in_stock": true
+      },
       "9154684485820": {
         "title": "Metalwood Studio Dewey Crew Socks - White",
         "handle": "metalwood-dewey-crew-socks-white",
@@ -3846,11 +3851,6 @@
         "title": "Rhude Motion Bandana Swim Short - Black/White",
         "handle": "rhude-motion-bandana-swim-short-black-white",
         "in_stock": true
-      },
-      "9261906886844": {
-        "title": "Nike Air DT Max '96 Low (GS) - Black/Metallic Gold",
-        "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
-        "in_stock": false
       },
       "9472724074684": {
         "title": "Women's Nike Rejuven8 Run 'Camo Pack' - Black/Barkroot Brown",
@@ -5377,7 +5377,7 @@
       "15043093922168": {
         "title": "Saucony Progrid Guide 7 'White Blissful'",
         "handle": "saucony-progrid-guide-7-white-blissful",
-        "in_stock": false
+        "in_stock": true
       },
       "15042627928440": {
         "title": "Saucony Progrid Omni 9 OG 'Quartz Eggshell'",
@@ -5707,7 +5707,7 @@
       "15031090741624": {
         "title": "Reprimo Vortex Shorts 'Blue Steel Cyan'",
         "handle": "reprimo-vortex-shorts-blue-steel-cyan",
-        "in_stock": true
+        "in_stock": false
       },
       "15031089955192": {
         "title": "Reprimo Vortex Windbreaker Jacket 'Blue Steel Cyan'",
@@ -7514,6 +7514,16 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127025541325": {
+        "title": "Pharrel Williams Virginia Adistar Jellyfish Sneakers Crystal Sand / Trace Brown / Core Black",
+        "handle": "adidas-footwear-pw-adistar-jellyfis-beige-j362346",
+        "in_stock": false
+      },
+      "9127025443021": {
+        "title": "Air Jordan 3 'Laser' Sneakers Phantom / Sail",
+        "handle": "nike-jordan-footwear-air-jordan-3-retro-laser-multicolor-j368518",
+        "in_stock": false
+      },
       "9127024918733": {
         "title": "Women's Air Max Dolce Sneakers Light Magenta",
         "handle": "nike-footwear-wmns-w-air-max-dolce-pink-j368354",
@@ -8753,16 +8763,6 @@
         "title": "Script Hoodie Purple",
         "handle": "erl-clothing-erl-script-hoodie-knit-purple-j368211",
         "in_stock": true
-      },
-      "9125202657485": {
-        "title": "Textured Wool Overcoat Grey",
-        "handle": "erl-clothing-textured-wool-overcoat-woven-grey-j368214",
-        "in_stock": true
-      },
-      "9125202624717": {
-        "title": "Varsity Hoodie Black / Red",
-        "handle": "erl-clothing-varsity-hoodie-knit-red-j368209",
-        "in_stock": true
       }
     }
   },
@@ -8786,6 +8786,34 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Men's Canopy Longsleeve Top Jet Black\nhttps://www.slamjam.com/products/_j-l-a-l_-clothing-canopy-longsleeve-black-j349001",
       "detected_at": "2026-08-19T13:57:59.341046+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: New Balance 1890P - Team Red / Pink\nhttps://kith.com/products/nwbu18902uh",
+      "detected_at": "2026-08-19T14:42:31.209510+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: New Balance 1890P - Fairweather / Blue\nhttps://kith.com/products/nwbu1890787",
+      "detected_at": "2026-08-19T14:42:31.209510+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Vomero Premium\nhttps://www.asphaltgold.de/products/nike-wmns-vomero-premium-white-black-summit-white-bleached-lilac",
+      "detected_at": "2026-08-19T14:42:31.209510+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gelnyc-cream-antique-red",
+      "detected_at": "2026-08-19T14:42:31.209510+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike ReactX Wildhorse 10\nhttps://www.asphaltgold.de/products/nike-wildhorse-10-spruce-fog-black-spruce-sea-glass",
+      "detected_at": "2026-08-19T14:42:31.209510+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Retro High 'Flight Club' (GS) - Black/University Red\nhttps://sneakerpolitics.com/products/air-jordan-1-retro-high-flight-club-gs-black-university-red",
+      "detected_at": "2026-08-19T14:42:31.209510+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Guide 7 'White Blissful'\nhttps://www.kickgame.co.uk/products/saucony-progrid-guide-7-white-blissful",
+      "detected_at": "2026-08-19T14:42:31.209510+00:00"
     }
   ]
 }
