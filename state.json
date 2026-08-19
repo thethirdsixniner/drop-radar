@@ -559,7 +559,7 @@
       "8286650368128": {
         "title": "Kith for BMW Set of 4 Car Fresheners - Multi",
         "handle": "khla150090-906",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650335360": {
         "title": "Kith for BMW Small Teddy Bear - Techno Violet",
@@ -8689,11 +8689,6 @@
         "handle": "erl-clothing-varsity-hoodie-knit-red-j368209",
         "in_stock": true
       },
-      "9111330455757": {
-        "title": "Men's Standard T-Shirt Black",
-        "handle": "wacko-maria-clothing-standard-crew-neck-t-shirt-black-j356336",
-        "in_stock": false
-      },
       "9008299770061": {
         "title": "Men's Flower T-Shirt Snow White",
         "handle": "oamc-peacemaker-clothing-peacemaker-flower-s-s-tshirt-white-j305768",
@@ -8763,49 +8758,18 @@
         "title": "Men's Embroidered Wool Sleeveless Sweater Light Grey",
         "handle": "dries-van-noten-clothing-marl-4748-mksweater-lgry-grey-j363830",
         "in_stock": true
+      },
+      "9125188042957": {
+        "title": "Plane T-Shirt Black",
+        "handle": "erl-clothing-plane-tee-knit-black-j368206",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Speedcat Ballet Venus\nhttps://www.asphaltgold.de/products/puma-speedcat-ballet-venus-jasmine-flower-warm-white",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Mizuno Wave Rider 10 Sport\nhttps://www.asphaltgold.de/products/mizuno-wave-rider-10-sport-harbor-mist-black-dazzling-blue",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Pegasus Premium SP\nhttps://www.asphaltgold.de/products/nike-pegasus-premium-sp-mushroom-metallic-silver-white",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Sunflower Mike Shorts\nhttps://www.asphaltgold.de/products/sunflower-mike-shorts-black",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Gramicci Ultra-Light Tech Cap\nhttps://www.asphaltgold.de/products/gramicci-ultralight-tech-cap-concrete",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-american-script-sweat-dark-fir",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat\tTextured Knit Zip Hoodie\nhttps://www.asphaltgold.de/products/thisisneverthattextured-knit-zip-hoodie-brown",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Karhu Fusion 2.0\nhttps://www.asphaltgold.de/products/karhu-fusion-20-bright-white-foggy-dew",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Santa Monica Crewneck\nhttps://www.asphaltgold.de/products/adidas-santa-monica-crewneck-black",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Gramicci G-Pant\nhttps://www.asphaltgold.de/products/gramicci-gpant-olive",
-      "detected_at": "2026-08-18T23:37:01.347280+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Plane T-Shirt Black\nhttps://www.slamjam.com/products/erl-clothing-plane-tee-knit-black-j368206",
+      "detected_at": "2026-08-19T01:46:44.112321+00:00"
     }
   ]
 }
