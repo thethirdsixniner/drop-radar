@@ -2618,7 +2618,7 @@
       "10077507485963": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-ecru-cathspy",
-        "in_stock": true
+        "in_stock": false
       },
       "8932203364619": {
         "title": "Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*",
@@ -2658,7 +2658,7 @@
       "10727153565963": {
         "title": "Metalwood Safety Trucker Hat",
         "handle": "metalwood-safety-trucker-hat-camo",
-        "in_stock": true
+        "in_stock": false
       },
       "10659526344971": {
         "title": "Adidas Venice Wind Jacket",
@@ -6264,22 +6264,22 @@
       "10595527885066": {
         "title": "New Balance 880R",
         "handle": "new-balance-880r-sea-salt-gr",
-        "in_stock": false
+        "in_stock": true
       },
       "10595525689610": {
         "title": "Clarks Originals Wallabee",
         "handle": "clarks-originals-wallabee-brown-cow-print1",
-        "in_stock": false
+        "in_stock": true
       },
       "10595523330314": {
         "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
         "handle": "carhartt-wip-longsleeve-madison-cord-shirt-tobacco",
-        "in_stock": false
+        "in_stock": true
       },
       "10595522117898": {
         "title": "Nike ACG Aireez",
         "handle": "nike-acg-dk-smoke-grey-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10595463135498": {
         "title": "Asics GEL-NYC",
@@ -7514,6 +7514,21 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127012925645": {
+        "title": "Blazy Sneakers Pine Green / Sail",
+        "handle": "nike-footwear-nike-blazy-green-j369209",
+        "in_stock": false
+      },
+      "9127012860109": {
+        "title": "Air Max III Sneakers Black",
+        "handle": "nike-footwear-nike-air-max-iii-black-j368353",
+        "in_stock": false
+      },
+      "9127006470349": {
+        "title": "Men's Garland Knit Charcoal",
+        "handle": "_j-l-a-l_-clothing-garland-knit-grey-j349335",
+        "in_stock": true
+      },
       "9127009681613": {
         "title": "JJJJound Tracks Headphones Black",
         "handle": "aiaiai-lifestyle-tracks-jjjjound-usbc-black-black-j357563",
@@ -8748,23 +8763,29 @@
         "title": "Men's Plaid Twill Work Shirt Multicolor",
         "handle": "racer-worldwide-clothing-plaid-twill-shirt-multicolor-j356272",
         "in_stock": true
-      },
-      "9125193875661": {
-        "title": "Men's Biker Leather Jacket Black",
-        "handle": "racer-worldwide-clothing-biker-leather-jacket-black-j356284",
-        "in_stock": true
-      },
-      "9125188305101": {
-        "title": "Men's Embroidered Patchwork Jacket Multicolor",
-        "handle": "dries-van-noten-clothing-vernons-emb-4434-mwjacket-desa-multicolor-j363818",
-        "in_stock": true
-      },
-      "9125188239565": {
-        "title": "Men's Layered Wool Sweater Bordeaux",
-        "handle": "dries-van-noten-clothing-medan-4751-mksweater-bor-red-j363827",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Afew Store: New Balance 880R\nhttps://www.afew-store.com/products/new-balance-880r-sea-salt-gr",
+      "detected_at": "2026-08-19T13:09:15.239735+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Clarks Originals Wallabee\nhttps://www.afew-store.com/products/clarks-originals-wallabee-brown-cow-print1",
+      "detected_at": "2026-08-19T13:09:15.239735+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Longsleeve Madison Cord Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-madison-cord-shirt-tobacco",
+      "detected_at": "2026-08-19T13:09:15.239735+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike ACG Aireez\nhttps://www.afew-store.com/products/nike-acg-dk-smoke-grey-white",
+      "detected_at": "2026-08-19T13:09:15.239735+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Garland Knit Charcoal\nhttps://www.slamjam.com/products/_j-l-a-l_-clothing-garland-knit-grey-j349335",
+      "detected_at": "2026-08-19T13:09:15.239735+00:00"
+    }
+  ]
 }
