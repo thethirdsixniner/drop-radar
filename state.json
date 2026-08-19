@@ -2823,7 +2823,7 @@
       "10883647832331": {
         "title": "Gramicci G-Short",
         "handle": "gramicci-gshort-chocolate",
-        "in_stock": true
+        "in_stock": false
       },
       "10881549009163": {
         "title": "mfpen\tNew Input Shirt",
@@ -6261,6 +6261,26 @@
       }
     },
     "https://www.afew-store.com": {
+      "10595527885066": {
+        "title": "New Balance 880R",
+        "handle": "new-balance-880r-sea-salt-gr",
+        "in_stock": false
+      },
+      "10595525689610": {
+        "title": "Clarks Originals Wallabee",
+        "handle": "clarks-originals-wallabee-brown-cow-print1",
+        "in_stock": false
+      },
+      "10595523330314": {
+        "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
+        "handle": "carhartt-wip-longsleeve-madison-cord-shirt-tobacco",
+        "in_stock": false
+      },
+      "10595522117898": {
+        "title": "Nike ACG Aireez",
+        "handle": "nike-acg-dk-smoke-grey-white",
+        "in_stock": false
+      },
       "10595463135498": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gel-nyc-cream-antique-red",
@@ -7490,30 +7510,20 @@
         "title": "Autry Action Shoes WMNS MEDALIST LOW",
         "handle": "autry-action-shoes-wmns-medalist-low-lea-lealogo-wht-blk",
         "in_stock": true
-      },
-      "10578948194570": {
-        "title": "Autry Action Shoes WMNS REELWIND LOW",
-        "handle": "autry-action-shoes-wmns-reelwind-low-suenyl-lam-ecru-plat",
-        "in_stock": true
-      },
-      "10578946523402": {
-        "title": "Autry Action Shoes WMNS REELWIND LOW",
-        "handle": "autry-action-shoes-wmns-reelwind-low-suede-net-emer-dz-blue",
-        "in_stock": true
-      },
-      "10578945900810": {
-        "title": "Autry Action Shoes WMNS REELWIND LOW",
-        "handle": "autry-action-shoes-wmns-reelwind-low-suede-net-ecru-gera",
-        "in_stock": true
-      },
-      "10578945409290": {
-        "title": "Autry Action Shoes WMNS REELWIND LOW",
-        "handle": "autry-action-shoes-wmns-reelwind-low-suede-net-rose-dessand",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127009681613": {
+        "title": "JJJJound Tracks Headphones Black",
+        "handle": "aiaiai-lifestyle-tracks-jjjjound-usbc-black-black-j357563",
+        "in_stock": false
+      },
+      "9127009648845": {
+        "title": "JJJJound Tracks Headphones Yellow",
+        "handle": "aiaiai-lifestyle-tracks-jjjjound-usbc-yellow-yellow-j357562",
+        "in_stock": false
+      },
       "9127006666957": {
         "title": "Men's Vestige Coat Charcoal",
         "handle": "_j-l-a-l_-clothing-vestige-coat-grey-j348553",
@@ -8753,35 +8763,8 @@
         "title": "Men's Layered Wool Sweater Bordeaux",
         "handle": "dries-van-noten-clothing-medan-4751-mksweater-bor-red-j363827",
         "in_stock": true
-      },
-      "9125188075725": {
-        "title": "Striped Longsleeve Rugby Polo Purple",
-        "handle": "erl-clothing-striped-rugby-longsleeve-knit-purple-j368213",
-        "in_stock": true
-      },
-      "9125187944653": {
-        "title": "Flocked Denim Chino Pants Black",
-        "handle": "erl-clothing-flocked-denim-chino-pants-woven-black-j368207",
-        "in_stock": true
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-NYC\nhttps://www.afew-store.com/products/asics-gel-nyc-cream-antique-red",
-      "detected_at": "2026-08-19T10:31:32.774384+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-wmns-handball-spezia-cblack-owhite-chablu",
-      "detected_at": "2026-08-19T10:31:32.774384+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-nindig-clesky-gum2",
-      "detected_at": "2026-08-19T10:31:32.774384+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike WMNS P-6000\nhttps://www.afew-store.com/products/nike-wmns-p-6000-velvet-brown-ridgerock-cream-ii",
-      "detected_at": "2026-08-19T10:31:32.774384+00:00"
-    }
-  ]
+  "pending_free": []
 }
