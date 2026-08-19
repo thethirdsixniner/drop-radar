@@ -969,7 +969,7 @@
       "8286653481088": {
         "title": "Kith for BMW M3 Schematic Pocket Tee - Black",
         "handle": "khmg030038-001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286653448320": {
         "title": "Kith for BMW 1602 Photo Tee - White",
@@ -3757,6 +3757,41 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9407171788988": {
+        "title": "Salomon XT-6 - Black Coffee/Burro",
+        "handle": "salomon-xt-6-black-coffee-burro",
+        "in_stock": true
+      },
+      "9366457155772": {
+        "title": "Asics Gel-Cumulus 16 - White/Cream",
+        "handle": "asics-gel-cumulus-16-white-cream-1",
+        "in_stock": true
+      },
+      "8925813702844": {
+        "title": "Carhartt WIP Primary Tee - Hamilton Brown",
+        "handle": "carhartt-wip-primary-tee-hamilton-brown",
+        "in_stock": true
+      },
+      "9088584679612": {
+        "title": "On Cloudmonster Void - Iceberg/Tin",
+        "handle": "on-cloudmonster-void-iceberg-tin",
+        "in_stock": false
+      },
+      "9103536685244": {
+        "title": "Saucony Progrid Omni 9 - Vizired/Multi",
+        "handle": "saucony-progrid-omni-9-vizired-multi",
+        "in_stock": true
+      },
+      "9217668186300": {
+        "title": "A Bathing Ape Bape Sta #2 M2 - White/Black",
+        "handle": "a-bathing-ape-bape-sta-2-m2-white-black",
+        "in_stock": true
+      },
+      "9410290516156": {
+        "title": "Air Jordan 8 Retro - Black/White",
+        "handle": "air-jordan-8-retro-black-white-1",
+        "in_stock": true
+      },
       "9007448850620": {
         "title": "Fear Of God Essentials Classic L/S Tee - Oatmeal Heather",
         "handle": "fear-of-god-essentials-classic-l-s-tee-oatmeal-heather",
@@ -4970,41 +5005,6 @@
       "9370499219644": {
         "title": "Asics Gel-NYC 2.0 - Graphite Grey/Loden Green",
         "handle": "asics-gel-nyc-2-0-graphite-grey-loden-green",
-        "in_stock": true
-      },
-      "9370497581244": {
-        "title": "Asics Gel-NYC 2.0 - Clay Grey/Cement Grey",
-        "handle": "asics-gel-nyc-2-0-clay-grey-cement-grey",
-        "in_stock": true
-      },
-      "9397859418300": {
-        "title": "Converse Chuck 70 Leopard - Black/Natural Ivory",
-        "handle": "converse-chuck-70-leopard-black-natural-ivory",
-        "in_stock": true
-      },
-      "9324844023996": {
-        "title": "Asics Gel-Stratus MC - Lime Zest/Pure Silver",
-        "handle": "asics-gel-stratus-mc-lime-zest-pure-silver",
-        "in_stock": true
-      },
-      "9343272124604": {
-        "title": "Born x Raised Paranoia Crest Tee - Black",
-        "handle": "born-x-raised-paranoia-crest-tee-black",
-        "in_stock": true
-      },
-      "9343274418364": {
-        "title": "Born x Raised Speed Rocker Tee - Blue",
-        "handle": "born-x-raised-speed-rocker-tee-blue",
-        "in_stock": true
-      },
-      "9343274778812": {
-        "title": "Born x Raised Paranoia Football Jersey - Black",
-        "handle": "born-x-raised-paranoia-football-jersey-black",
-        "in_stock": true
-      },
-      "9343275073724": {
-        "title": "Born x Raised Heaven Soccer Jersey - Lavender",
-        "handle": "born-x-raised-heaven-soccer-jersey-lavender",
         "in_stock": true
       }
     },
@@ -8768,22 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Nelson Quarter Zip - Vitality\nhttps://kith.com/products/khmg030028-345",
-      "detected_at": "2026-08-19T15:49:21.439376+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Watch Box - Vitality\nhttps://kith.com/products/khma340089-345",
-      "detected_at": "2026-08-19T15:49:21.439376+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Diamond Turf II - Prime Red/White\nhttps://sneakerpolitics.com/products/nike-air-diamond-turf-ii-prime-red-white",
-      "detected_at": "2026-08-19T15:49:21.439376+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Guide 7 'Black Multi'\nhttps://www.kickgame.co.uk/products/saucony-progrid-guide-7-black-multi-1",
-      "detected_at": "2026-08-19T15:49:21.439376+00:00"
-    },
-    {
       "message": "🔥 **Restock** at Kith: Kith for BMW 1602 Tee - Sandrift\nhttps://kith.com/products/khmg030032-104",
       "detected_at": "2026-08-19T16:34:10.200195+00:00"
     },
@@ -8818,6 +8802,34 @@
     {
       "message": "🔥 **Restock** at Kick Game: Saucony Progrid Guide 7 'Silver Multi'\nhttps://www.kickgame.co.uk/products/saucony-progrid-guide-7-silver-multi",
       "detected_at": "2026-08-19T16:34:10.200195+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW M3 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030038-001",
+      "detected_at": "2026-08-19T17:03:34.233111+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Salomon XT-6 - Black Coffee/Burro\nhttps://sneakerpolitics.com/products/salomon-xt-6-black-coffee-burro",
+      "detected_at": "2026-08-19T17:03:34.233111+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Cumulus 16 - White/Cream\nhttps://sneakerpolitics.com/products/asics-gel-cumulus-16-white-cream-1",
+      "detected_at": "2026-08-19T17:03:34.233111+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Carhartt WIP Primary Tee - Hamilton Brown\nhttps://sneakerpolitics.com/products/carhartt-wip-primary-tee-hamilton-brown",
+      "detected_at": "2026-08-19T17:03:34.233111+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - Vizired/Multi\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-vizired-multi",
+      "detected_at": "2026-08-19T17:03:34.233111+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: A Bathing Ape Bape Sta #2 M2 - White/Black\nhttps://sneakerpolitics.com/products/a-bathing-ape-bape-sta-2-m2-white-black",
+      "detected_at": "2026-08-19T17:03:34.233111+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
+      "detected_at": "2026-08-19T17:03:34.233111+00:00"
     }
   ]
 }
