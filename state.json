@@ -969,7 +969,7 @@
       "8286653481088": {
         "title": "Kith for BMW M3 Schematic Pocket Tee - Black",
         "handle": "khmg030038-001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286653448320": {
         "title": "Kith for BMW 1602 Photo Tee - White",
@@ -1100,11 +1100,6 @@
         "title": "Kith for BMW Catchall Tray - Cinnabar",
         "handle": "khla150092-616",
         "in_stock": false
-      },
-      "8286651547776": {
-        "title": "Kith for BMW Leather Overnight Bag - Camel",
-        "handle": "khma040091-3089",
-        "in_stock": true
       },
       "8286651482240": {
         "title": "Kith for BMW Leather Travel Garment Duffle Bag - Black",
@@ -1250,9 +1245,24 @@
         "title": "Kith for BMW CSi 3.0 Poster - Multi",
         "handle": "khla150120-906",
         "in_stock": true
+      },
+      "8286649712768": {
+        "title": "Kith for BMW Microsuede Classic Cap - Black",
+        "handle": "khma050100-001",
+        "in_stock": false
       }
     },
     "https://undefeated.com": {
+      "6702089240837": {
+        "title": "UNDEFEATED X BURTON PERFORMANCE HOODIE",
+        "handle": "undefeated-x-burton-performance-hoodie",
+        "in_stock": true
+      },
+      "6702089142533": {
+        "title": "UNDEFEATED X BURTON LOGAN WAVECEL® HELMET - TAN",
+        "handle": "undefeated-x-burton-logan-wavecel-helmet-tan",
+        "in_stock": true
+      },
       "6702691025157": {
         "title": "JORDAN X FREE THE YOUTH TRACK JACKET - BLACK",
         "handle": "jordan-x-free-the-youth-track-jacket-black",
@@ -2491,16 +2501,6 @@
       "6702637089029": {
         "title": "ASICS GEL-STRATUS MC - WHITE/CLAY CANYON",
         "handle": "asics-gel-stratus-mc-white-clay-canyon",
-        "in_stock": true
-      },
-      "6702636957957": {
-        "title": "SALOMON XT-4 OG - BLACK/ DESERT TAN",
-        "handle": "salomon-xt-4-og-black-desert-tan",
-        "in_stock": true
-      },
-      "6702637154565": {
-        "title": "SALOMON XT-4 OG - WHITE/ BLACK",
-        "handle": "salomon-xt-4-og-white-black",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,26 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9470933336252": {
+        "title": "Politics x L/AB c/o Off-White Staff Tee - Black",
+        "handle": "politics-x-l-ab-c-o-off-white-staff-tee-black",
+        "in_stock": true
+      },
+      "9356417990844": {
+        "title": "Rhude Trofeo Tee - Vintage White/Yellow",
+        "handle": "rhude-trofeo-tee-vintage-white-yellow",
+        "in_stock": true
+      },
+      "9356413337788": {
+        "title": "Rhude Winter 91 Rallye Tee - Vintage Black/White",
+        "handle": "rhude-winter-91-rallye-tee-vintage-black-white",
+        "in_stock": true
+      },
+      "9356402950332": {
+        "title": "Rhude Baggy Mesh Collegiate Logo Shorts - Grey/Silver",
+        "handle": "rhude-baggy-mesh-collegiate-logo-shorts-grey-silver",
+        "in_stock": true
+      },
       "9134332608700": {
         "title": "Nike Air Max 95 Zip SP - Phantom/Black",
         "handle": "nike-air-max-95-zip-sp-phantom-black",
@@ -3965,16 +3985,6 @@
       "9261911965884": {
         "title": "Nike Air Max 95 (PS) - Black/Pink Foam",
         "handle": "nike-air-max-95-ps-black-pink-foam",
-        "in_stock": false
-      },
-      "9364511981756": {
-        "title": "Vans OTW Era 95 DST 'Relic' - Checkerboard",
-        "handle": "vans-otw-era-95-dst-relic-checkerboard",
-        "in_stock": false
-      },
-      "9295877931196": {
-        "title": "Nike Air Force 1 Low Retro - Obsidian/White",
-        "handle": "nike-air-force-1-low-retro-multi-color-obsidian",
         "in_stock": false
       },
       "9365151973564": {
@@ -4996,16 +5006,6 @@
         "title": "Women's Adidas Japan 'Tiger Print' - Yellow/Core Black",
         "handle": "womens-adidas-japan-tiger-print-yellow-core-black",
         "in_stock": true
-      },
-      "8913478123708": {
-        "title": "Represent Beverly Knit Polo - Vintage Khaki",
-        "handle": "represent-beverly-knit-polo-vintage-khaki",
-        "in_stock": true
-      },
-      "8913483595964": {
-        "title": "Represent Pico Knit Shirt - Ecru",
-        "handle": "represent-pico-knit-shirt-ecru",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5557,7 +5557,7 @@
       "15034701840760": {
         "title": "On Cloudtilt 1 Wmns 'Eclipse Black'",
         "handle": "on-cloudtilt-1-wmns-eclipse-black",
-        "in_stock": true
+        "in_stock": false
       },
       "15034699284856": {
         "title": "On Cloudsurfer Next Wmns 'Black Eclipse'",
@@ -8768,12 +8768,36 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Air Jordan 1 Retro High OG 'Nails & Grails' - University Red/Metallic Silver\nhttps://sneakerpolitics.com/products/womens-air-jordan-1-retro-high-og-nails-grails-university-red-metallic-silver",
-      "detected_at": "2026-08-19T20:31:21.750408+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 95 Zip SP - Phantom/Black\nhttps://sneakerpolitics.com/products/nike-air-max-95-zip-sp-phantom-black",
       "detected_at": "2026-08-19T21:04:05.685116+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW M3 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030038-001",
+      "detected_at": "2026-08-19T21:42:03.313147+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BURTON PERFORMANCE HOODIE\nhttps://undefeated.com/products/undefeated-x-burton-performance-hoodie",
+      "detected_at": "2026-08-19T21:42:03.313147+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BURTON LOGAN WAVECEL® HELMET - TAN\nhttps://undefeated.com/products/undefeated-x-burton-logan-wavecel-helmet-tan",
+      "detected_at": "2026-08-19T21:42:03.313147+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x L/AB c/o Off-White Staff Tee - Black\nhttps://sneakerpolitics.com/products/politics-x-l-ab-c-o-off-white-staff-tee-black",
+      "detected_at": "2026-08-19T21:42:03.313147+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Trofeo Tee - Vintage White/Yellow\nhttps://sneakerpolitics.com/products/rhude-trofeo-tee-vintage-white-yellow",
+      "detected_at": "2026-08-19T21:42:03.313147+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Winter 91 Rallye Tee - Vintage Black/White\nhttps://sneakerpolitics.com/products/rhude-winter-91-rallye-tee-vintage-black-white",
+      "detected_at": "2026-08-19T21:42:03.313147+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Baggy Mesh Collegiate Logo Shorts - Grey/Silver\nhttps://sneakerpolitics.com/products/rhude-baggy-mesh-collegiate-logo-shorts-grey-silver",
+      "detected_at": "2026-08-19T21:42:03.313147+00:00"
     }
   ]
 }
