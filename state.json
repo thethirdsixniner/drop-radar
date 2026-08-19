@@ -909,7 +909,7 @@
       "8286654267520": {
         "title": "Kith for BMW CSi 3.0 Tee - Black",
         "handle": "khmg030033-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286654234752": {
         "title": "Kith for BMW Nelson Quarter Zip - Vitality",
@@ -1144,7 +1144,7 @@
       "8286651056256": {
         "title": "Kith for BMW Two-Tone Brushed Twill BL Pinch Crown Cap - Sandrift",
         "handle": "khma050096-104",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650957952": {
         "title": "Kith for BMW Moto Gloves - Multi",
@@ -1898,11 +1898,6 @@
         "handle": "nike-air-max-95-metallic-silver-black",
         "in_stock": true
       },
-      "6702448705797": {
-        "title": "JORDAN X FLIGHT CLUB AJ 1 RETRO HIGH - BLACK/ UNIVERSITY RED/ SAIL",
-        "handle": "jordan-x-flight-club-aj-1-retro-high-black-university-red-sail",
-        "in_stock": true
-      },
       "6702025277701": {
         "title": "JORDAN PS AJ 4 RETRO OG FC - SAIL/ BLACK/ UNIVERSITY RED",
         "handle": "jordan-ps-aj-4-retro-og-fc-sail-black-university-red",
@@ -2501,6 +2496,11 @@
       "6702637089029": {
         "title": "ASICS GEL-STRATUS MC - WHITE/CLAY CANYON",
         "handle": "asics-gel-stratus-mc-white-clay-canyon",
+        "in_stock": true
+      },
+      "6702636957957": {
+        "title": "SALOMON XT-4 OG - BLACK/ DESERT TAN",
+        "handle": "salomon-xt-4-og-black-desert-tan",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,26 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9405382328508": {
+        "title": "Women's Hoka Bondi 7 - Oat Milk/Oat Milk",
+        "handle": "womens-hoka-bondi-7-oat-milk-oat-milk",
+        "in_stock": true
+      },
+      "9407022858428": {
+        "title": "Nahmias Worn Clay Ollie - Blue",
+        "handle": "nahmias-worn-clay-ollie-blue",
+        "in_stock": true
+      },
+      "9407022301372": {
+        "title": "Nahmias Worn Clay Ollie - Red",
+        "handle": "nahmias-worn-clay-ollie-red",
+        "in_stock": true
+      },
+      "9407023349948": {
+        "title": "Nahmias Ollie Canvas - Black",
+        "handle": "nahmias-ollie-canvas-black",
+        "in_stock": true
+      },
       "9407171788988": {
         "title": "Salomon XT-6 - Black Coffee/Burro",
         "handle": "salomon-xt-6-black-coffee-burro",
@@ -4985,26 +5005,6 @@
       "9346410905788": {
         "title": "Diet Starts Monday SL&D Doodle Tee - Antique White",
         "handle": "diet-starts-monday-sl-d-doodle-tee-antique-white",
-        "in_stock": true
-      },
-      "9045947056316": {
-        "title": "New Era x Politics Houston Astros 59FIFTY Fitted - Chrome/Mountain Pine",
-        "handle": "new-era-x-politics-houston-astros-59fifty-fitted-chrome-mountain-pine",
-        "in_stock": true
-      },
-      "8923180564668": {
-        "title": "New Era x Politics Houston Astros 59FIFTY Fitted - Chrome/Walnut",
-        "handle": "new-era-x-politics-houston-astros-59fifty-fitted-chrome-walnut",
-        "in_stock": true
-      },
-      "9087161860284": {
-        "title": "Ice Cream Hike Knit Jersey - Black",
-        "handle": "ice-cream-hike-knit-jersey-black",
-        "in_stock": true
-      },
-      "9370499219644": {
-        "title": "Asics Gel-NYC 2.0 - Graphite Grey/Loden Green",
-        "handle": "asics-gel-nyc-2-0-graphite-grey-loden-green",
         "in_stock": true
       }
     },
@@ -8768,42 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW 1602 Tee - Sandrift\nhttps://kith.com/products/khmg030032-104",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW CSi 3.0 Tee - Black\nhttps://kith.com/products/khmg030033-001",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Two-Tone Brushed Twill BL Pinch Crown Cap - Sandrift\nhttps://kith.com/products/khma050096-104",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith for BMW M1 Racer Brushed Twill Classic Cap - Black\nhttps://kith.com/products/khma050102-001",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Classic L/S Tee - Oatmeal Heather\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-classic-l-s-tee-oatmeal-heather",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Cumulus 16 'TOMO' - Cream/Malachite Green\nhttps://sneakerpolitics.com/products/asics-gel-cumulus-16-tomo-cream-malachite-green",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Mood Trucker II - White/Black\nhttps://sneakerpolitics.com/products/godspeed-new-york-mood-trucker-ii-white-black",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Timberland Textured Premium 6\" Lace Up Boot - Medium Beige Full Grain\nhttps://sneakerpolitics.com/products/timberland-textured-premium-6-lace-up-boot-medium-beige-full-grain",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Guide 7 'Silver Multi'\nhttps://www.kickgame.co.uk/products/saucony-progrid-guide-7-silver-multi",
-      "detected_at": "2026-08-19T16:34:10.200195+00:00"
-    },
-    {
       "message": "🔥 **Restock** at Kith: Kith for BMW M3 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030038-001",
       "detected_at": "2026-08-19T17:03:34.233111+00:00"
     },
@@ -8830,6 +8794,26 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
       "detected_at": "2026-08-19T17:03:34.233111+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SALOMON XT-4 OG - BLACK/ DESERT TAN\nhttps://undefeated.com/products/salomon-xt-4-og-black-desert-tan",
+      "detected_at": "2026-08-19T17:41:39.903822+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Hoka Bondi 7 - Oat Milk/Oat Milk\nhttps://sneakerpolitics.com/products/womens-hoka-bondi-7-oat-milk-oat-milk",
+      "detected_at": "2026-08-19T17:41:39.903822+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Worn Clay Ollie - Blue\nhttps://sneakerpolitics.com/products/nahmias-worn-clay-ollie-blue",
+      "detected_at": "2026-08-19T17:41:39.903822+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Worn Clay Ollie - Red\nhttps://sneakerpolitics.com/products/nahmias-worn-clay-ollie-red",
+      "detected_at": "2026-08-19T17:41:39.903822+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nahmias Ollie Canvas - Black\nhttps://sneakerpolitics.com/products/nahmias-ollie-canvas-black",
+      "detected_at": "2026-08-19T17:41:39.903822+00:00"
     }
   ]
 }
