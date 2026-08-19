@@ -2630,11 +2630,6 @@
         "handle": "new-balance-u1906lae-magnet",
         "in_stock": true
       },
-      "10106501431563": {
-        "title": "Phileo 028 Agafay",
-        "handle": "phileo-028-agafay-black",
-        "in_stock": false
-      },
       "10539156930827": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-space-silver",
@@ -2649,21 +2644,6 @@
         "title": "Autry Medalist W",
         "handle": "autry-medalist-w-beige",
         "in_stock": true
-      },
-      "10715379073291": {
-        "title": "Autry Medalist W",
-        "handle": "autry-medalist-w-white-tempest",
-        "in_stock": false
-      },
-      "10077507485963": {
-        "title": "Autry Reelwind Low W *Suede / Net*",
-        "handle": "autry-reelwind-low-w-suede-net-ecru-cathspy",
-        "in_stock": false
-      },
-      "8932203364619": {
-        "title": "Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*",
-        "handle": "autry-reelwind-low-w-nylon-hairy-suede-cracked-leather-white-military",
-        "in_stock": false
       },
       "10795018125579": {
         "title": "Adidas Motor Ave Racer Jacket",
@@ -2694,11 +2674,6 @@
         "title": "Gramicci Thermal Fleece Beanie",
         "handle": "gramicci-thermal-fleece-beanie-heather-grey",
         "in_stock": true
-      },
-      "10727153565963": {
-        "title": "Metalwood Safety Trucker Hat",
-        "handle": "metalwood-safety-trucker-hat-camo",
-        "in_stock": false
       },
       "10659526344971": {
         "title": "Adidas Venice Wind Jacket",
@@ -2860,11 +2835,6 @@
         "handle": "nike-x-tom-sachs-general-purpose-shoe-black-white-team-royal-team-orange",
         "in_stock": false
       },
-      "10883647832331": {
-        "title": "Gramicci G-Short",
-        "handle": "gramicci-gshort-chocolate",
-        "in_stock": false
-      },
       "10881549009163": {
         "title": "mfpen\tNew Input Shirt",
         "handle": "mfpennew-input-shirt-dark-brown-triple-stripe",
@@ -2894,11 +2864,6 @@
         "title": "Carhartt WIP Brandon Pant",
         "handle": "carhartt-wip-brandon-pant-blue-rigid",
         "in_stock": true
-      },
-      "10862863024395": {
-        "title": "Carhartt WIP Ride Your Dreams T-Shirt",
-        "handle": "carhartt-wip-ride-your-dreams-tshirt-natural",
-        "in_stock": false
       },
       "10856528118027": {
         "title": "Carhartt WIP OG Santa Fe Jacket",
@@ -3154,11 +3119,6 @@
         "title": "Adidas Stan Smith Lo Pro W",
         "handle": "adidas-stan-smith-lo-pro-w-footwear-white-footwear-white-footwear-white",
         "in_stock": true
-      },
-      "10716161802507": {
-        "title": "Asics JOG 100S",
-        "handle": "asics-jog-100s-pale-oak-pure-silver",
-        "in_stock": false
       },
       "10744395727115": {
         "title": "Adidas Montreal RM",
@@ -3515,11 +3475,6 @@
         "handle": "adidas-x-song-for-the-mute-adi006-tshirt-clay-savannah",
         "in_stock": true
       },
-      "10732462604555": {
-        "title": "Pas Normal Studios\tBalance Shorts",
-        "handle": "pas-normal-studiosbalance-shorts-black",
-        "in_stock": false
-      },
       "10670930657547": {
         "title": "J.L.-A.L. Sinh Jacket",
         "handle": "jlal-sinh-jacket-seraphim",
@@ -3753,6 +3708,51 @@
       "11016353251595": {
         "title": "Nike Wmns Air Force 1 '07 *Pearlized*",
         "handle": "nike-wmns-air-force-1-07-pearlized-cream-ii-cream-ii-metallic-silver-white",
+        "in_stock": true
+      },
+      "11018059579659": {
+        "title": "Mizuno MXR",
+        "handle": "mizuno-mxr-black-spring-crocus-metallic-grey",
+        "in_stock": true
+      },
+      "11018061480203": {
+        "title": "Mizuno Wave Rider 10",
+        "handle": "mizuno-wave-rider-10-cloudscape-black-sand-grossular-green",
+        "in_stock": true
+      },
+      "11016352465163": {
+        "title": "Nike Air Force 1 '07 LV8",
+        "handle": "nike-air-force-1-07-lv8-vast-grey-sail",
+        "in_stock": true
+      },
+      "11018061086987": {
+        "title": "Mizuno Wave Rider 10",
+        "handle": "mizuno-wave-rider-10-harbor-mist-black-royal-blue",
+        "in_stock": true
+      },
+      "11018057974027": {
+        "title": "Puma Speedcat Brushed Lux Wmns",
+        "handle": "puma-speedcat-og-mouse-gray-gum",
+        "in_stock": true
+      },
+      "11016353612043": {
+        "title": "Nike Vomero Plus",
+        "handle": "nike-vomero-plus-anthracite-black-bright-crimson",
+        "in_stock": true
+      },
+      "11018595565835": {
+        "title": "Saucony Pro Grid Guide 7",
+        "handle": "saucony-x-3sixteen-pro-grid-guide-7-white-drupe",
+        "in_stock": true
+      },
+      "11015452524811": {
+        "title": "Nike\tClub Rules Oxford Longsleeve Shirt",
+        "handle": "nikeclub-rules-oxford-longsleeve-shirt-summit-white-summit-white",
+        "in_stock": true
+      },
+      "11015791444235": {
+        "title": "Nike\tFairway Golf Wind Vest",
+        "handle": "nikefairway-golf-wind-vest-black",
         "in_stock": true
       }
     },
@@ -7552,12 +7552,12 @@
       "9127012991181": {
         "title": "Blazy Sneakers White / Sail",
         "handle": "nike-footwear-nike-blazy-white-j369208",
-        "in_stock": false
+        "in_stock": true
       },
       "9127013023949": {
         "title": "Blazy Sneakers Black / Sail",
         "handle": "nike-footwear-nike-blazy-black-j369207",
-        "in_stock": false
+        "in_stock": true
       },
       "9127010369741": {
         "title": "Men's Canopy Longsleeve Top Jet Black",
@@ -7567,7 +7567,7 @@
       "9127012925645": {
         "title": "Blazy Sneakers Pine Green / Sail",
         "handle": "nike-footwear-nike-blazy-green-j369209",
-        "in_stock": false
+        "in_stock": true
       },
       "9127012860109": {
         "title": "Air Max III Sneakers Black",
@@ -8768,34 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW M3 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030038-001",
-      "detected_at": "2026-08-19T21:42:03.313147+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BURTON PERFORMANCE HOODIE\nhttps://undefeated.com/products/undefeated-x-burton-performance-hoodie",
-      "detected_at": "2026-08-19T21:42:03.313147+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED X BURTON LOGAN WAVECEL® HELMET - TAN\nhttps://undefeated.com/products/undefeated-x-burton-logan-wavecel-helmet-tan",
-      "detected_at": "2026-08-19T21:42:03.313147+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics x L/AB c/o Off-White Staff Tee - Black\nhttps://sneakerpolitics.com/products/politics-x-l-ab-c-o-off-white-staff-tee-black",
-      "detected_at": "2026-08-19T21:42:03.313147+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Trofeo Tee - Vintage White/Yellow\nhttps://sneakerpolitics.com/products/rhude-trofeo-tee-vintage-white-yellow",
-      "detected_at": "2026-08-19T21:42:03.313147+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Winter 91 Rallye Tee - Vintage Black/White\nhttps://sneakerpolitics.com/products/rhude-winter-91-rallye-tee-vintage-black-white",
-      "detected_at": "2026-08-19T21:42:03.313147+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Baggy Mesh Collegiate Logo Shorts - Grey/Silver\nhttps://sneakerpolitics.com/products/rhude-baggy-mesh-collegiate-logo-shorts-grey-silver",
-      "detected_at": "2026-08-19T21:42:03.313147+00:00"
-    },
-    {
       "message": "🔥 **Restock** at Asphaltgold: Puma x SAYSKY MagMax Nitro 2 W\nhttps://www.asphaltgold.de/products/puma-x-saysky-magmax-nitro-2-w-ultra-purple-puma-black",
       "detected_at": "2026-08-19T22:02:10.492433+00:00"
     },
@@ -8930,6 +8902,54 @@
     {
       "message": "🔥 **Restock** at Slam Jam: Air Max III Sneakers Black\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-iii-black-j368353",
       "detected_at": "2026-08-19T22:02:10.492433+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Mizuno MXR\nhttps://www.asphaltgold.de/products/mizuno-mxr-black-spring-crocus-metallic-grey",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Mizuno Wave Rider 10\nhttps://www.asphaltgold.de/products/mizuno-wave-rider-10-cloudscape-black-sand-grossular-green",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike Air Force 1 '07 LV8\nhttps://www.asphaltgold.de/products/nike-air-force-1-07-lv8-vast-grey-sail",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Mizuno Wave Rider 10\nhttps://www.asphaltgold.de/products/mizuno-wave-rider-10-harbor-mist-black-royal-blue",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Puma Speedcat Brushed Lux Wmns\nhttps://www.asphaltgold.de/products/puma-speedcat-og-mouse-gray-gum",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike Vomero Plus\nhttps://www.asphaltgold.de/products/nike-vomero-plus-anthracite-black-bright-crimson",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Guide 7\nhttps://www.asphaltgold.de/products/saucony-x-3sixteen-pro-grid-guide-7-white-drupe",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Rules Oxford Longsleeve Shirt\nhttps://www.asphaltgold.de/products/nikeclub-rules-oxford-longsleeve-shirt-summit-white-summit-white",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tFairway Golf Wind Vest\nhttps://www.asphaltgold.de/products/nikefairway-golf-wind-vest-black",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Blazy Sneakers White / Sail\nhttps://www.slamjam.com/products/nike-footwear-nike-blazy-white-j369208",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Blazy Sneakers Black / Sail\nhttps://www.slamjam.com/products/nike-footwear-nike-blazy-black-j369207",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Blazy Sneakers Pine Green / Sail\nhttps://www.slamjam.com/products/nike-footwear-nike-blazy-green-j369209",
+      "detected_at": "2026-08-19T22:42:33.890013+00:00"
     }
   ]
 }
