@@ -969,7 +969,7 @@
       "8286653481088": {
         "title": "Kith for BMW M3 Schematic Pocket Tee - Black",
         "handle": "khmg030038-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286653448320": {
         "title": "Kith for BMW 1602 Photo Tee - White",
@@ -1079,7 +1079,7 @@
       "8286652006528": {
         "title": "Kith for BMW Watch Box - Vitality",
         "handle": "khma340089-345",
-        "in_stock": true
+        "in_stock": false
       },
       "8286651875456": {
         "title": "Kith for BMW M1 Racer Brushed Twill Classic Cap - Nocturnal",
@@ -1492,11 +1492,6 @@
         "title": "NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE",
         "handle": "nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
         "in_stock": false
-      },
-      "6702685356293": {
-        "title": "NIKE KOBE V PROTRO - HYPERROYAL/ WOLFGREY / WHITE",
-        "handle": "nike-kobe-5-lad-hyper-royal-wolf-grey-white",
-        "in_stock": true
       },
       "6702700298501": {
         "title": "NIKE X KOBE ALPHA ELITE 2.0 BATTING GLOVE - HYPER ROYAL",
@@ -2501,6 +2496,11 @@
       "6702636957957": {
         "title": "SALOMON XT-4 OG - BLACK/ DESERT TAN",
         "handle": "salomon-xt-4-og-black-desert-tan",
+        "in_stock": true
+      },
+      "6702637154565": {
+        "title": "SALOMON XT-4 OG - WHITE/ BLACK",
+        "handle": "salomon-xt-4-og-white-black",
         "in_stock": true
       }
     },
@@ -8768,34 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW M3 Schematic Pocket Tee - Black\nhttps://kith.com/products/khmg030038-001",
-      "detected_at": "2026-08-19T17:03:34.233111+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Salomon XT-6 - Black Coffee/Burro\nhttps://sneakerpolitics.com/products/salomon-xt-6-black-coffee-burro",
-      "detected_at": "2026-08-19T17:03:34.233111+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Cumulus 16 - White/Cream\nhttps://sneakerpolitics.com/products/asics-gel-cumulus-16-white-cream-1",
-      "detected_at": "2026-08-19T17:03:34.233111+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Carhartt WIP Primary Tee - Hamilton Brown\nhttps://sneakerpolitics.com/products/carhartt-wip-primary-tee-hamilton-brown",
-      "detected_at": "2026-08-19T17:03:34.233111+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - Vizired/Multi\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-vizired-multi",
-      "detected_at": "2026-08-19T17:03:34.233111+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: A Bathing Ape Bape Sta #2 M2 - White/Black\nhttps://sneakerpolitics.com/products/a-bathing-ape-bape-sta-2-m2-white-black",
-      "detected_at": "2026-08-19T17:03:34.233111+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
-      "detected_at": "2026-08-19T17:03:34.233111+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Undefeated: SALOMON XT-4 OG - BLACK/ DESERT TAN\nhttps://undefeated.com/products/salomon-xt-4-og-black-desert-tan",
       "detected_at": "2026-08-19T17:41:39.903822+00:00"
     },
@@ -8814,6 +8786,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Nahmias Ollie Canvas - Black\nhttps://sneakerpolitics.com/products/nahmias-ollie-canvas-black",
       "detected_at": "2026-08-19T17:41:39.903822+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SALOMON XT-4 OG - WHITE/ BLACK\nhttps://undefeated.com/products/salomon-xt-4-og-white-black",
+      "detected_at": "2026-08-19T18:01:09.804337+00:00"
     }
   ]
 }
