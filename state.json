@@ -654,7 +654,7 @@
       "2069473951872": {
         "title": "Salomon XT-QUEST ADV - Black / Phantom",
         "handle": "sl41013900",
-        "in_stock": true
+        "in_stock": false
       },
       "8286284054656": {
         "title": "VANS Premium Old Skool 36 - Cheetah Olive",
@@ -914,7 +914,7 @@
       "8286654234752": {
         "title": "Kith for BMW Nelson Quarter Zip - Vitality",
         "handle": "khmg030028-345",
-        "in_stock": false
+        "in_stock": true
       },
       "8286654201984": {
         "title": "Kith for BMW Long Sleeve Tilden Pullover - Black",
@@ -1079,7 +1079,7 @@
       "8286652006528": {
         "title": "Kith for BMW Watch Box - Vitality",
         "handle": "khma340089-345",
-        "in_stock": false
+        "in_stock": true
       },
       "8286651875456": {
         "title": "Kith for BMW M1 Racer Brushed Twill Classic Cap - Nocturnal",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9049935151292": {
+        "title": "Nike Air Diamond Turf II - Prime Red/White",
+        "handle": "nike-air-diamond-turf-ii-prime-red-white",
+        "in_stock": true
+      },
       "9354311631036": {
         "title": "Nike Dunk Low (PS) - Midnight Navy/Speed Red",
         "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
@@ -5001,11 +5006,6 @@
         "title": "Politics x Mitchell & Ness Pro Pinch Canvas Snapback - Khaki",
         "handle": "politics-x-mitchell-ness-pro-pinch-canvas-snapback-khaki",
         "in_stock": true
-      },
-      "9457174249660": {
-        "title": "Politics x Mitchell & Ness Pro Pinch Canvas Snapback - Olive",
-        "handle": "politics-x-mitchell-ness-pro-pinch-canvas-snapback-olive",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5737,7 +5737,7 @@
       "15031080321400": {
         "title": "Saucony Progrid Guide 7 'Black Multi'",
         "handle": "saucony-progrid-guide-7-black-multi-1",
-        "in_stock": false
+        "in_stock": true
       },
       "15031079010680": {
         "title": "Saucony Kinvara 1 'Ivory Silver'",
@@ -8768,34 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: New Balance 1890P - Team Red / Pink\nhttps://kith.com/products/nwbu18902uh",
-      "detected_at": "2026-08-19T14:42:31.209510+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance 1890P - Fairweather / Blue\nhttps://kith.com/products/nwbu1890787",
-      "detected_at": "2026-08-19T14:42:31.209510+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Vomero Premium\nhttps://www.asphaltgold.de/products/nike-wmns-vomero-premium-white-black-summit-white-bleached-lilac",
-      "detected_at": "2026-08-19T14:42:31.209510+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gelnyc-cream-antique-red",
-      "detected_at": "2026-08-19T14:42:31.209510+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike ReactX Wildhorse 10\nhttps://www.asphaltgold.de/products/nike-wildhorse-10-spruce-fog-black-spruce-sea-glass",
-      "detected_at": "2026-08-19T14:42:31.209510+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Retro High 'Flight Club' (GS) - Black/University Red\nhttps://sneakerpolitics.com/products/air-jordan-1-retro-high-flight-club-gs-black-university-red",
-      "detected_at": "2026-08-19T14:42:31.209510+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Guide 7 'White Blissful'\nhttps://www.kickgame.co.uk/products/saucony-progrid-guide-7-white-blissful",
-      "detected_at": "2026-08-19T14:42:31.209510+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Kith: Tekla Swim Short - Olive\nhttps://kith.com/products/tekss-olv",
       "detected_at": "2026-08-19T15:14:10.093743+00:00"
     },
@@ -9318,6 +9290,22 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Men's Jet Trousers Garnet\nhttps://www.slamjam.com/products/_j-l-a-l_-clothing-jet-trouser-red-j349258",
       "detected_at": "2026-08-19T15:14:10.093743+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW Nelson Quarter Zip - Vitality\nhttps://kith.com/products/khmg030028-345",
+      "detected_at": "2026-08-19T15:49:21.439376+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW Watch Box - Vitality\nhttps://kith.com/products/khma340089-345",
+      "detected_at": "2026-08-19T15:49:21.439376+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Diamond Turf II - Prime Red/White\nhttps://sneakerpolitics.com/products/nike-air-diamond-turf-ii-prime-red-white",
+      "detected_at": "2026-08-19T15:49:21.439376+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Guide 7 'Black Multi'\nhttps://www.kickgame.co.uk/products/saucony-progrid-guide-7-black-multi-1",
+      "detected_at": "2026-08-19T15:49:21.439376+00:00"
     }
   ]
 }
