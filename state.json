@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11019735597323": {
+        "title": "Adidas Beckenbauer Track Top",
+        "handle": "adidas-beckenbauer-track-top-aurora-coffee",
+        "in_stock": true
+      },
       "10886298665227": {
         "title": "Puma Speedcat Ballet Venus",
         "handle": "puma-speedcat-ballet-venus-jasmine-flower-warm-white",
@@ -2588,7 +2593,7 @@
       "10106501431563": {
         "title": "Phileo 028 Agafay",
         "handle": "phileo-028-agafay-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10539156930827": {
         "title": "Autry Reelwind Low",
@@ -3748,11 +3753,6 @@
       "11015452524811": {
         "title": "Nike\tClub Rules Oxford Longsleeve Shirt",
         "handle": "nikeclub-rules-oxford-longsleeve-shirt-summit-white-summit-white",
-        "in_stock": true
-      },
-      "11015791444235": {
-        "title": "Nike\tFairway Golf Wind Vest",
-        "handle": "nikefairway-golf-wind-vest-black",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Beckenbauer Track Top\nhttps://www.asphaltgold.de/products/adidas-beckenbauer-track-top-aurora-coffee",
+      "detected_at": "2026-08-19T08:16:21.722296+00:00"
+    }
+  ]
 }
