@@ -6261,6 +6261,36 @@
       }
     },
     "https://www.afew-store.com": {
+      "10595463135498": {
+        "title": "Asics GEL-NYC",
+        "handle": "asics-gel-nyc-cream-antique-red",
+        "in_stock": false
+      },
+      "10595462709514": {
+        "title": "adidas Originals WMNS HANDBALL SPEZIAL",
+        "handle": "adidas-originals-wmns-handball-spezia-cblack-owhite-chablu",
+        "in_stock": false
+      },
+      "10595462512906": {
+        "title": "adidas Originals HANDBALL SPEZIAL",
+        "handle": "adidas-originals-handball-spezial-nindig-clesky-gum2",
+        "in_stock": false
+      },
+      "10595461726474": {
+        "title": "Nike TENNIS CLASSIC PRM",
+        "handle": "nike-tennis-classic-cs-prm-terry-fir-fir-white-sail",
+        "in_stock": false
+      },
+      "10595461497098": {
+        "title": "Nike TENNIS CLASSIC PRM",
+        "handle": "nike-tennis-classic-cs-prm-terry-2-white-white-sail-safety-orange",
+        "in_stock": false
+      },
+      "10595457368330": {
+        "title": "Nike WMNS P-6000",
+        "handle": "nike-wmns-p-6000-velvet-brown-ridgerock-cream-ii",
+        "in_stock": false
+      },
       "10595094626570": {
         "title": "Carhartt WIP Longsleeve Madison Cord Shirt",
         "handle": "carhartt-wip-longsleeve-madison-cord-shirt-raven",
@@ -7480,40 +7510,35 @@
         "title": "Autry Action Shoes WMNS REELWIND LOW",
         "handle": "autry-action-shoes-wmns-reelwind-low-suede-net-rose-dessand",
         "in_stock": true
-      },
-      "10578942787850": {
-        "title": "Nike GIANNIS FREAK 8 'Buckitos'",
-        "handle": "nike-giannis-freak-8-hyper-pink-hyper-orange-dynamic-yellow",
-        "in_stock": true
-      },
-      "10578937381130": {
-        "title": "Nike WMNS Moon Shoe OG SP",
-        "handle": "nike-wmns-moon-shoe-og-sp-italy-blue-white-neutral-grey-black",
-        "in_stock": true
-      },
-      "10578935415050": {
-        "title": "Nike ZOOM SKYLON 11",
-        "handle": "nike-zoom-skylon-11-summit-white-metallic-silver-black",
-        "in_stock": true
-      },
-      "10578932728074": {
-        "title": "Nike WMNS Zoom Skylon 11",
-        "handle": "nike-wmns-p-6000-white-cacao-wow-metallic-silver",
-        "in_stock": true
-      },
-      "10578928730378": {
-        "title": "Nike WMNS Zoom Skylon 11",
-        "handle": "nike-wmns-zoom-skylon-11-white-metallic-silver-grey-fog",
-        "in_stock": true
-      },
-      "10578928337162": {
-        "title": "Nike WMNS Zoom Skylon 11",
-        "handle": "nike-wmns-zoom-skylon-11-black-black-anthracite",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127006666957": {
+        "title": "Men's Vestige Coat Charcoal",
+        "handle": "_j-l-a-l_-clothing-vestige-coat-grey-j348553",
+        "in_stock": true
+      },
+      "9127006339277": {
+        "title": "Bower Tie Jet Black",
+        "handle": "_j-l-a-l_-accessories-tie-black-j349298",
+        "in_stock": true
+      },
+      "9127006404813": {
+        "title": "Men's Triple Collar Shirt White",
+        "handle": "_j-l-a-l_-clothing-triple-collar-shirt-white-j349309",
+        "in_stock": true
+      },
+      "9127006437581": {
+        "title": "Men's Triple Collar Shirt Onyx",
+        "handle": "_j-l-a-l_-clothing-triple-collar-shirt-black-j349310",
+        "in_stock": true
+      },
+      "9127006306509": {
+        "title": "Shin Loafers Black / Burgundy",
+        "handle": "_j-l-a-l_-footwear-shin-loafer-black-j354631",
+        "in_stock": true
+      },
       "9126915342541": {
         "title": "Men's Tasman II Sandals Black",
         "handle": "ugg-footwear-tasman-ii-black-j368183",
@@ -8738,33 +8763,29 @@
         "title": "Flocked Denim Chino Pants Black",
         "handle": "erl-clothing-flocked-denim-chino-pants-woven-black-j368207",
         "in_stock": true
-      },
-      "9125188108493": {
-        "title": "Cable Knit Vest Red",
-        "handle": "erl-clothing-cable-knit-vest-knit-red-j368210",
-        "in_stock": true
-      },
-      "9125188141261": {
-        "title": "Varsity Jacket Purple",
-        "handle": "erl-clothing-varsity-jacket-woven-purple-j368208",
-        "in_stock": true
-      },
-      "9125188174029": {
-        "title": "Men's Folded Wool Pants Black",
-        "handle": "dries-van-noten-clothing-preston-bis-4265-mwpants-black-black-j363821",
-        "in_stock": true
-      },
-      "9125188206797": {
-        "title": "Men's Embroidered Wool Sleeveless Sweater Light Grey",
-        "handle": "dries-van-noten-clothing-marl-4748-mksweater-lgry-grey-j363830",
-        "in_stock": true
-      },
-      "9125188042957": {
-        "title": "Plane T-Shirt Black",
-        "handle": "erl-clothing-plane-tee-knit-black-j368206",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Vestige Coat Charcoal\nhttps://www.slamjam.com/products/_j-l-a-l_-clothing-vestige-coat-grey-j348553",
+      "detected_at": "2026-08-19T09:49:41.306427+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Bower Tie Jet Black\nhttps://www.slamjam.com/products/_j-l-a-l_-accessories-tie-black-j349298",
+      "detected_at": "2026-08-19T09:49:41.306427+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Triple Collar Shirt White\nhttps://www.slamjam.com/products/_j-l-a-l_-clothing-triple-collar-shirt-white-j349309",
+      "detected_at": "2026-08-19T09:49:41.306427+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Triple Collar Shirt Onyx\nhttps://www.slamjam.com/products/_j-l-a-l_-clothing-triple-collar-shirt-black-j349310",
+      "detected_at": "2026-08-19T09:49:41.306427+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Shin Loafers Black / Burgundy\nhttps://www.slamjam.com/products/_j-l-a-l_-footwear-shin-loafer-black-j354631",
+      "detected_at": "2026-08-19T09:49:41.306427+00:00"
+    }
+  ]
 }
