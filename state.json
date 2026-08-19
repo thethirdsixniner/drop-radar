@@ -434,7 +434,7 @@
       "8286652006528": {
         "title": "Kith for BMW Watch Box - Vitality",
         "handle": "khma340089-345",
-        "in_stock": true
+        "in_stock": false
       },
       "8286651875456": {
         "title": "Kith for BMW M1 Racer Brushed Twill Classic Cap - Nocturnal",
@@ -629,7 +629,7 @@
       "8286649483392": {
         "title": "Kith for BMW 1602 Elektro Poster - Multi",
         "handle": "khla150106-906",
-        "in_stock": true
+        "in_stock": false
       },
       "8286649450624": {
         "title": "Kith for BMW Poker Card Deck - Multi",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Slam Jam: Plane T-Shirt Black\nhttps://www.slamjam.com/products/erl-clothing-plane-tee-knit-black-j368206",
-      "detected_at": "2026-08-19T01:46:44.112321+00:00"
-    }
-  ]
+  "pending_free": []
 }
