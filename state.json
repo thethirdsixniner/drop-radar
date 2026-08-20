@@ -1179,7 +1179,7 @@
       "8286650761344": {
         "title": "Kith for BMW M1 Racer Brushed Twill Classic Cap - Black",
         "handle": "khma050102-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650695808": {
         "title": "Kith for BMW Suede Driving Gloves - Black",
@@ -3757,11 +3757,6 @@
       }
     },
     "https://sneakerpolitics.com": {
-      "9295877931196": {
-        "title": "Nike Air Force 1 Low Retro - Obsidian/White",
-        "handle": "nike-air-force-1-low-retro-multi-color-obsidian",
-        "in_stock": true
-      },
       "9294126186684": {
         "title": "Air Jordan 3 Retro 'World's Best Dad' (GS) - Sail/Black",
         "handle": "air-jordan-3-retro-worlds-best-dad-gs-sail-black",
@@ -4041,11 +4036,6 @@
         "title": "Metalwood Studio Dewey Crew Socks - White",
         "handle": "metalwood-dewey-crew-socks-white",
         "in_stock": true
-      },
-      "9261911965884": {
-        "title": "Nike Air Max 95 (PS) - Black/Pink Foam",
-        "handle": "nike-air-max-95-ps-black-pink-foam",
-        "in_stock": false
       },
       "9365151973564": {
         "title": "Nahmias MVP Sweatpant - Heather Grey/Black",
@@ -5005,6 +4995,16 @@
       "9286282903740": {
         "title": "Pleasures Forever Track Pants - Navy",
         "handle": "pleasures-forever-track-pants-navy",
+        "in_stock": true
+      },
+      "9154749956284": {
+        "title": "Pleasures Dysfunction Hoodie - Multi",
+        "handle": "pleasures-dysfunction-hoodie-multi",
+        "in_stock": true
+      },
+      "9286254592188": {
+        "title": "Pleasures Nordique Tee - Vintage White",
+        "handle": "pleasures-nordique-tee-vintage-white",
         "in_stock": true
       }
     },
@@ -8858,6 +8858,14 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Men's Polyester Trousers Black\nhttps://www.slamjam.com/products/undercover-clothing-pants-black-j333652",
       "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Dysfunction Hoodie - Multi\nhttps://sneakerpolitics.com/products/pleasures-dysfunction-hoodie-multi",
+      "detected_at": "2026-08-20T15:16:51.302363+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Nordique Tee - Vintage White\nhttps://sneakerpolitics.com/products/pleasures-nordique-tee-vintage-white",
+      "detected_at": "2026-08-20T15:16:51.302363+00:00"
     }
   ]
 }
