@@ -2908,7 +2908,7 @@
       "8932928389387": {
         "title": "Adidas Mundial FC",
         "handle": "adidas-mundial-fc-footwear-white-core-black-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "8876357648651": {
         "title": "Adidas adizero Evo SL M",
@@ -4015,7 +4015,7 @@
       "9279518277820": {
         "title": "Godspeed New York Mood Trucker II - White/Black",
         "handle": "godspeed-new-york-mood-trucker-ii-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9072881139900": {
         "title": "Timberland Textured Premium 6\" Lace Up Boot - Medium Beige Full Grain",
@@ -7229,12 +7229,12 @@
       "10582290202890": {
         "title": "Asics GEL-KINETIC FR",
         "handle": "asics-gel-kinetic-fr-black-pure-silver",
-        "in_stock": false
+        "in_stock": true
       },
       "10582288859402": {
         "title": "Asics GEL-KINETIC FR",
         "handle": "asics-gel-kinetic-fr-cocoa-powder-champagne",
-        "in_stock": false
+        "in_stock": true
       },
       "10581775089930": {
         "title": "Nike Tech Dri-FIT ADV Tee",
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Afew Store: Asics GEL-KINETIC FR\nhttps://www.afew-store.com/products/asics-gel-kinetic-fr-black-pure-silver",
+      "detected_at": "2026-08-20T22:02:10.445154+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Asics GEL-KINETIC FR\nhttps://www.afew-store.com/products/asics-gel-kinetic-fr-cocoa-powder-champagne",
+      "detected_at": "2026-08-20T22:02:10.445154+00:00"
+    }
+  ]
 }
