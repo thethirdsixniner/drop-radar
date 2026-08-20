@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9261911965884": {
+        "title": "Nike Air Max 95 (PS) - Black/Pink Foam",
+        "handle": "nike-air-max-95-ps-black-pink-foam",
+        "in_stock": false
+      },
       "9359861514428": {
         "title": "Crocs Roy - Nightfall",
         "handle": "crocs-roy-nightfall",
@@ -5000,11 +5005,6 @@
       "9286282903740": {
         "title": "Pleasures Forever Track Pants - Navy",
         "handle": "pleasures-forever-track-pants-navy",
-        "in_stock": true
-      },
-      "9154749956284": {
-        "title": "Pleasures Dysfunction Hoodie - Multi",
-        "handle": "pleasures-dysfunction-hoodie-multi",
         "in_stock": true
       }
     },
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Dysfunction Hoodie - Multi\nhttps://sneakerpolitics.com/products/pleasures-dysfunction-hoodie-multi",
-      "detected_at": "2026-08-20T20:03:16.775203+00:00"
-    }
-  ]
+  "pending_free": []
 }
