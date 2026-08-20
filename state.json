@@ -3977,11 +3977,6 @@
         "handle": "carhartt-wip-primary-tee-hamilton-brown",
         "in_stock": true
       },
-      "9088584679612": {
-        "title": "On Cloudmonster Void - Iceberg/Tin",
-        "handle": "on-cloudmonster-void-iceberg-tin",
-        "in_stock": false
-      },
       "9103536685244": {
         "title": "Saucony Progrid Omni 9 - Vizired/Multi",
         "handle": "saucony-progrid-omni-9-vizired-multi",
@@ -4670,7 +4665,7 @@
       "8985214746812": {
         "title": "Nike Nigeria Premium Goalkeeper Tee - Black",
         "handle": "nike-nigeria-premium-goalkeeper-tee-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9029713002684": {
         "title": "Godspeed New York AGYAL Layered Tee - Black",
@@ -5005,6 +5000,11 @@
       "9286254592188": {
         "title": "Pleasures Nordique Tee - Vintage White",
         "handle": "pleasures-nordique-tee-vintage-white",
+        "in_stock": true
+      },
+      "9281652687036": {
+        "title": "Market Hard In The Yard Tee - White",
+        "handle": "market-hard-in-the-yard-tee-white",
         "in_stock": true
       }
     },
@@ -7517,7 +7517,7 @@
       "9123631038669": {
         "title": "ACG Radical AirFlow Fly Cap Anthracite",
         "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
-        "in_stock": true
+        "in_stock": false
       },
       "9112091721933": {
         "title": "Men's NOCTA Hoodie Alabaster",
@@ -7537,7 +7537,7 @@
       "9122642329805": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White",
         "handle": "nike-clothing-m-acg-df-radical-airflow-tank-white-j364333",
-        "in_stock": true
+        "in_stock": false
       },
       "9110402040013": {
         "title": "Men's MD Corporate Entity T-Shirt White",
@@ -8768,12 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Undefeated: NIKE AIR MAX GOADOME LOW SP - BLACK\nhttps://undefeated.com/products/nike-air-max-goadome-low-sp-black",
-      "detected_at": "2026-08-20T16:45:31.050657+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: ASICS GEL-STRATUS MC - GRAPHITE GREY/ BLACK\nhttps://undefeated.com/products/asics-gel-stratus-mc-graphite-grey-black",
-      "detected_at": "2026-08-20T16:45:31.050657+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Market Hard In The Yard Tee - White\nhttps://sneakerpolitics.com/products/market-hard-in-the-yard-tee-white",
+      "detected_at": "2026-08-20T17:31:53.898362+00:00"
     }
   ]
 }
