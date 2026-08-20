@@ -1,6 +1,21 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286676877440": {
+        "title": "New Balance Made in USA 2040v5 - Castlerock / Mood Indigo / Blacktop",
+        "handle": "nwbu2040509",
+        "in_stock": true
+      },
+      "8286676779136": {
+        "title": "adidas x Song For The Mute Supernova Rise 3 - Trace Olive / Carbon / Clay",
+        "handle": "aaki5185",
+        "in_stock": true
+      },
+      "8286676746368": {
+        "title": "adidas x Song For The Mute Supernova Rise 3 - Cream White / Carbon / Cloud White",
+        "handle": "aala3962",
+        "in_stock": true
+      },
       "8286662688896": {
         "title": "MADE-TO-ORDER | Kith & Yellowpop for BMW Fast Logo Neon Sign - Multi - PH",
         "handle": "ypkith-bmw-ph",
@@ -1164,7 +1179,7 @@
       "8286650761344": {
         "title": "Kith for BMW M1 Racer Brushed Twill Classic Cap - Black",
         "handle": "khma050102-001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286650695808": {
         "title": "Kith for BMW Suede Driving Gloves - Black",
@@ -1235,32 +1250,22 @@
         "title": "Kith for BMW Tapestry Blanket - Sandrift",
         "handle": "khla180071-104",
         "in_stock": true
-      },
-      "8286649843840": {
-        "title": "Kith for BMW Pack of 4 Tire Caps - Black",
-        "handle": "khla150117-001",
-        "in_stock": false
-      },
-      "8286649811072": {
-        "title": "Kith for BMW CSi 3.0 Poster - Multi",
-        "handle": "khla150120-906",
-        "in_stock": true
-      },
-      "8286649712768": {
-        "title": "Kith for BMW Microsuede Classic Cap - Black",
-        "handle": "khma050100-001",
-        "in_stock": false
       }
     },
     "https://undefeated.com": {
-      "6702689583365": {
-        "title": "ASICS X CARNAN GEL-CUMULUS 16 - BLACKBERRY/ PURPLE",
-        "handle": "asics-x-carnan-gel-cumulus-16-blackberry-purple",
-        "in_stock": true
+      "6702706065669": {
+        "title": "NIKE AIR MAX GOADOME LOW SP - BLACK",
+        "handle": "nike-air-max-goadome-low-sp-black",
+        "in_stock": false
       },
       "6702666973445": {
         "title": "VANS PREMUIM OLD SKOOL 36 'SOUVENIR' - NAVY",
         "handle": "vans-premuim-old-skool-36-souvenir-navy",
+        "in_stock": false
+      },
+      "6702689583365": {
+        "title": "ASICS X CARNAN GEL-CUMULUS 16 - BLACKBERRY/ PURPLE",
+        "handle": "asics-x-carnan-gel-cumulus-16-blackberry-purple",
         "in_stock": false
       },
       "6702089240837": {
@@ -1272,6 +1277,11 @@
         "title": "UNDEFEATED X BURTON LOGAN WAVECEL® HELMET - TAN",
         "handle": "undefeated-x-burton-logan-wavecel-helmet-tan",
         "in_stock": true
+      },
+      "6702706000133": {
+        "title": "NIKE MIND 001 - BLACK/ ANTHRACITE",
+        "handle": "nike-mind-001-black-anthracite",
+        "in_stock": false
       },
       "6702691025157": {
         "title": "JORDAN X FREE THE YOUTH TRACK JACKET - BLACK",
@@ -1656,7 +1666,7 @@
       "6702655308037": {
         "title": "ADIDAS PW ADISTAR JELLYFISH - CWHITE/ CBLACK",
         "handle": "adidas-pw-adistar-jellyfish-cwhite-cblack",
-        "in_stock": true
+        "in_stock": false
       },
       "6702108213509": {
         "title": "NIKE X KOBE BRYANT '81' MAX90 S/S TEE - BLACK",
@@ -2492,19 +2502,44 @@
         "title": "SALOMON XT-6 GTX - BLACK/ ASPHALT",
         "handle": "salomon-xt-6-gtx-black-asphalt",
         "in_stock": true
-      },
-      "6702636990725": {
-        "title": "ASICS GEL-STRATUS MC - GRAPHITE GREY/ BLACK",
-        "handle": "asics-gel-stratus-mc-graphite-grey-black",
-        "in_stock": true
-      },
-      "6702637121797": {
-        "title": "SALOMON XT-QUEST - VANILLA ICE/ BLACK",
-        "handle": "salomon-xt-quest-vanilla-ice-black",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11024054845707": {
+        "title": "Adidas Samba Bowling",
+        "handle": "adidas-samba-bowling-core-black-footwear-white-ecru-tint",
+        "in_stock": true
+      },
+      "11019707973899": {
+        "title": "Adidas Stan Smith 80s W *Croc*",
+        "handle": "adidas-stan-smith-80s-w-croc-footwear-white-footwear-white-green",
+        "in_stock": true
+      },
+      "11019704271115": {
+        "title": "Adidas Superstar II",
+        "handle": "adidas-superstar-ii-preloved-brown-crew-white-silver-metallic",
+        "in_stock": true
+      },
+      "11019707547915": {
+        "title": "Adidas Adistar Control 5 W",
+        "handle": "adidas-adistar-control-5-w-off-white-sand-strata-dark-brown",
+        "in_stock": true
+      },
+      "11019707253003": {
+        "title": "Adidas Samba OG W *Stingray*",
+        "handle": "adidas-samba-og-w-stingray-core-black-cloud-white-gum-5",
+        "in_stock": true
+      },
+      "11019709186315": {
+        "title": "Adidas Gazelle Indoor W",
+        "handle": "adidas-gazelle-indoor-w-magic-beige-brown-preloved-yellow",
+        "in_stock": true
+      },
+      "11019709448459": {
+        "title": "Adidas Handball Spezial W",
+        "handle": "adidas-handball-spezial-w-cloud-white-core-black-gold-metallic",
+        "in_stock": true
+      },
       "11010682913035": {
         "title": "Adidas x Pharrell Williams Adistar Jellyfish",
         "handle": "adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown",
@@ -3563,7 +3598,7 @@
       "10817394016523": {
         "title": "Metalwood Woodlite Hooded Sweatshirt",
         "handle": "metalwood-woodlite-hooded-sweatshirt-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "10762892771595": {
         "title": "Autry College Check Sweatshirt",
@@ -3719,44 +3754,29 @@
         "title": "Polo Ralph Lauren Polo Sport Knit Rugby Pullover",
         "handle": "polo-ralph-lauren-polo-sport-knit-rugby-pullover-purple-lilac-multi",
         "in_stock": true
-      },
-      "11016290009355": {
-        "title": "Jason Markk Complete Clean Kit",
-        "handle": "jason-markk-complete-clean-kit",
-        "in_stock": true
-      },
-      "11016291221771": {
-        "title": "Jason Markk Quick Wipes 12 Pack",
-        "handle": "jason-markk-quick-wipes-12-pack-white",
-        "in_stock": true
-      },
-      "11016291975435": {
-        "title": "Jason Markk Refresh Spray Fragrance Free",
-        "handle": "jason-markk-refresh-spray-fragrance-free-fragrance-free",
-        "in_stock": true
-      },
-      "11016293744907": {
-        "title": "Jason Markk Repel Spray Refill Pouch",
-        "handle": "jason-markk-repel-spray-refill-pouch-white",
-        "in_stock": true
-      },
-      "11016279163147": {
-        "title": "Carhartt WIP Chapter Script T-Shirt",
-        "handle": "carhartt-wip-chapter-script-tshirt-white-black",
-        "in_stock": true
-      },
-      "11016283357451": {
-        "title": "Carhartt WIP 1989 Winners T-Shirt",
-        "handle": "carhartt-wip-1989-winners-tshirt-white",
-        "in_stock": true
-      },
-      "11016275198219": {
-        "title": "Carhartt WIP American Script T-Shirt",
-        "handle": "carhartt-wip-american-script-tshirt-raven",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9295877931196": {
+        "title": "Nike Air Force 1 Low Retro - Obsidian/White",
+        "handle": "nike-air-force-1-low-retro-multi-color-obsidian",
+        "in_stock": true
+      },
+      "9294126186684": {
+        "title": "Air Jordan 3 Retro 'World's Best Dad' (GS) - Sail/Black",
+        "handle": "air-jordan-3-retro-worlds-best-dad-gs-sail-black",
+        "in_stock": true
+      },
+      "9370393706684": {
+        "title": "CARNAN x Asics Gel-Cumulus 16 - Black Berry/Purple",
+        "handle": "asics-gel-cumulus-16-black-berry-purple",
+        "in_stock": true
+      },
+      "9472698810556": {
+        "title": "Nike Air Max Goadome Low 'Dot Pack' - Black/Black",
+        "handle": "nike-air-max-goadome-low-dot-pack-black-black",
+        "in_stock": true
+      },
       "9369265209532": {
         "title": "Market Smiley Lockup Tee - Black",
         "handle": "market-smiley-lockup-tee-black",
@@ -4985,26 +5005,6 @@
       "9286282903740": {
         "title": "Pleasures Forever Track Pants - Navy",
         "handle": "pleasures-forever-track-pants-navy",
-        "in_stock": true
-      },
-      "9154749956284": {
-        "title": "Pleasures Dysfunction Hoodie - Multi",
-        "handle": "pleasures-dysfunction-hoodie-multi",
-        "in_stock": true
-      },
-      "9286254592188": {
-        "title": "Pleasures Nordique Tee - Vintage White",
-        "handle": "pleasures-nordique-tee-vintage-white",
-        "in_stock": true
-      },
-      "9281652687036": {
-        "title": "Market Hard In The Yard Tee - White",
-        "handle": "market-hard-in-the-yard-tee-white",
-        "in_stock": true
-      },
-      "9472746651836": {
-        "title": "Nike Blazy - White/Summit White",
-        "handle": "nike-blazy-white-summit-white",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,46 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9123631038669": {
+        "title": "ACG Radical AirFlow Fly Cap Anthracite",
+        "handle": "nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
+        "in_stock": true
+      },
+      "9112091721933": {
+        "title": "Men's NOCTA Hoodie Alabaster",
+        "handle": "nike-clothing-nocta-fleece-cs-hoodie-2-multicolor-j356681",
+        "in_stock": true
+      },
+      "9108378845389": {
+        "title": "Women's Firebird Track Top Black",
+        "handle": "adidas-clothing-wmns-firebird-tt-black-j346795",
+        "in_stock": true
+      },
+      "9098086777037": {
+        "title": "Men's Bay Meadows Crewneck Sweatshirt Jet Black",
+        "handle": "levis-clothing-lvc-bay-meadows-swhirt-jet-bla-black-j348715",
+        "in_stock": true
+      },
+      "9122642329805": {
+        "title": "Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White",
+        "handle": "nike-clothing-m-acg-df-radical-airflow-tank-white-j364333",
+        "in_stock": true
+      },
+      "9110402040013": {
+        "title": "Men's MD Corporate Entity T-Shirt White",
+        "handle": "cav-empt-clothing-md-corporate-entity-t-white-j355885",
+        "in_stock": true
+      },
+      "9108026654925": {
+        "title": "Women's Stretch Jacket Dark Green / Black",
+        "handle": "martine-rose-clothing-wmns-womens-stretch-jacket-green-j356142",
+        "in_stock": true
+      },
+      "9052445016269": {
+        "title": "Men's Polyester Trousers Black",
+        "handle": "undercover-clothing-pants-black-j333652",
+        "in_stock": true
+      },
       "9127152615629": {
         "title": "SAYSKY Deviate NITRO Elite 4 Sneakers Flat Dark Gray / Vivid Blue",
         "handle": "puma-footwear-deviate-nitro-elite-4-saysky-grey-j363728",
@@ -8723,57 +8763,101 @@
         "title": "Homura OG+ Sneakers Black / Flat Medium Gray",
         "handle": "puma-footwear-homura-og-black-j363744",
         "in_stock": true
-      },
-      "9125203869901": {
-        "title": "204V Sneakers Turtledove / Timberwolf",
-        "handle": "new-balance-footwear-u204v2w0-beige-j359410",
-        "in_stock": true
-      },
-      "9125203968205": {
-        "title": "Made in UK 991v2 Sneakers Wind Chime / Brilliant White / Flint Gray",
-        "handle": "new-balance-footwear-u991ac2-multicolor-j359378",
-        "in_stock": true
-      },
-      "9125203902669": {
-        "title": "204V Sneakers Bayberry / Lone Star Grey",
-        "handle": "new-balance-footwear-u204v2pt-blue-j359409",
-        "in_stock": true
-      },
-      "9125203935437": {
-        "title": "Aimé Leon Dore Gator Run Sneakers Cream",
-        "handle": "new-balance-footwear-ugtr4dy-grey-j359362",
-        "in_stock": true
-      },
-      "9125203804365": {
-        "title": "1954R Sneakers Black",
-        "handle": "new-balance-footwear-u19543vu-black-j359355",
-        "in_stock": true
-      },
-      "9125203771597": {
-        "title": "1954R Sneakers Slate Grey / Castlerock",
-        "handle": "new-balance-footwear-u195438r-grey-j359354",
-        "in_stock": true
-      },
-      "9125203738829": {
-        "title": "1954R Sneakers Sea Salt / Linen",
-        "handle": "new-balance-footwear-u19541r3-grey-j359353",
-        "in_stock": true
-      },
-      "9108026360013": {
-        "title": "French Knickers Black / Green",
-        "handle": "martine-rose-clothing-french-knickers-black-j356139",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Afew Store: G-SHOCK GA-2100LXB-1AER\nhttps://www.afew-store.com/products/g-shock-ga-2100lxb-1aer-black",
-      "detected_at": "2026-08-20T13:53:16.118572+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance Made in USA 2040v5 - Castlerock / Mood Indigo / Blacktop\nhttps://kith.com/products/nwbu2040509",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: G-SHOCK GM-2100LXB-1AER\nhttps://www.afew-store.com/products/g-shock-gm-2100lxb-1aer-black",
-      "detected_at": "2026-08-20T13:53:16.118572+00:00"
+      "message": "🆕 **New drop** at Kith: adidas x Song For The Mute Supernova Rise 3 - Trace Olive / Carbon / Clay\nhttps://kith.com/products/aaki5185",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: adidas x Song For The Mute Supernova Rise 3 - Cream White / Carbon / Cloud White\nhttps://kith.com/products/aala3962",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW M1 Racer Brushed Twill Classic Cap - Black\nhttps://kith.com/products/khma050102-001",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba Bowling\nhttps://www.asphaltgold.de/products/adidas-samba-bowling-core-black-footwear-white-ecru-tint",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Stan Smith 80s W *Croc*\nhttps://www.asphaltgold.de/products/adidas-stan-smith-80s-w-croc-footwear-white-footwear-white-green",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Superstar II\nhttps://www.asphaltgold.de/products/adidas-superstar-ii-preloved-brown-crew-white-silver-metallic",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Adistar Control 5 W\nhttps://www.asphaltgold.de/products/adidas-adistar-control-5-w-off-white-sand-strata-dark-brown",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W *Stingray*\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-stingray-core-black-cloud-white-gum-5",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Indoor W\nhttps://www.asphaltgold.de/products/adidas-gazelle-indoor-w-magic-beige-brown-preloved-yellow",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Handball Spezial W\nhttps://www.asphaltgold.de/products/adidas-handball-spezial-w-cloud-white-core-black-gold-metallic",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 Low Retro - Obsidian/White\nhttps://sneakerpolitics.com/products/nike-air-force-1-low-retro-multi-color-obsidian",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'World's Best Dad' (GS) - Sail/Black\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-worlds-best-dad-gs-sail-black",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: CARNAN x Asics Gel-Cumulus 16 - Black Berry/Purple\nhttps://sneakerpolitics.com/products/asics-gel-cumulus-16-black-berry-purple",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max Goadome Low 'Dot Pack' - Black/Black\nhttps://sneakerpolitics.com/products/nike-air-max-goadome-low-dot-pack-black-black",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: ACG Radical AirFlow Fly Cap Anthracite\nhttps://www.slamjam.com/products/nike-accessories-u-nk-df-fly-cap-ab-acg-radair-grey-j364341",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's NOCTA Hoodie Alabaster\nhttps://www.slamjam.com/products/nike-clothing-nocta-fleece-cs-hoodie-2-multicolor-j356681",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Firebird Track Top Black\nhttps://www.slamjam.com/products/adidas-clothing-wmns-firebird-tt-black-j346795",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Bay Meadows Crewneck Sweatshirt Jet Black\nhttps://www.slamjam.com/products/levis-clothing-lvc-bay-meadows-swhirt-jet-bla-black-j348715",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White\nhttps://www.slamjam.com/products/nike-clothing-m-acg-df-radical-airflow-tank-white-j364333",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MD Corporate Entity T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-md-corporate-entity-t-white-j355885",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Stretch Jacket Dark Green / Black\nhttps://www.slamjam.com/products/martine-rose-clothing-wmns-womens-stretch-jacket-green-j356142",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Polyester Trousers Black\nhttps://www.slamjam.com/products/undercover-clothing-pants-black-j333652",
+      "detected_at": "2026-08-20T14:38:34.516162+00:00"
     }
   ]
 }
