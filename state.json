@@ -969,7 +969,7 @@
       "8286653481088": {
         "title": "Kith for BMW M3 Schematic Pocket Tee - Black",
         "handle": "khmg030038-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286653448320": {
         "title": "Kith for BMW 1602 Photo Tee - White",
@@ -2703,7 +2703,7 @@
       "10654617272587": {
         "title": "Adidas SC Powerphase Consortium",
         "handle": "adidas-sc-powerphase-consortium-off-white-core-black-crew-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10672202187019": {
         "title": "The North Face Red Box Nylon Hat",
@@ -4322,11 +4322,6 @@
         "handle": "new-balance-1906l-silver-metallic-black",
         "in_stock": true
       },
-      "9402906214588": {
-        "title": "A$AP Rocky x Puma Suede '94 - Black/White",
-        "handle": "a-ap-rocky-x-puma-suede-94-black-white",
-        "in_stock": false
-      },
       "9143990616252": {
         "title": "Danielle Cathari x Puma Speedcat Washed - Pistachio Green",
         "handle": "danielle-cathari-x-puma-speedcat-washed-pistachio-green",
@@ -5005,6 +5000,11 @@
       "9281652687036": {
         "title": "Market Hard In The Yard Tee - White",
         "handle": "market-hard-in-the-yard-tee-white",
+        "in_stock": true
+      },
+      "9472746651836": {
+        "title": "Nike Blazy - White/Summit White",
+        "handle": "nike-blazy-white-summit-white",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Blazy - White/Summit White\nhttps://sneakerpolitics.com/products/nike-blazy-white-summit-white",
+      "detected_at": "2026-08-20T06:58:03.734804+00:00"
+    }
+  ]
 }
