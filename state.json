@@ -1616,7 +1616,7 @@
       "6702689059077": {
         "title": "VANS PREMIUM ERA 95 'RELIC PACK' -  BLACK",
         "handle": "vans-premium-era-95-relic-pack-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6702688993541": {
         "title": "VANS PREMIUM ERA 95 'RELIC PACK' -  CHECKERBOARD",
@@ -2858,7 +2858,7 @@
       "10534363660555": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-ecru-rubwine",
-        "in_stock": true
+        "in_stock": false
       },
       "8996545495307": {
         "title": "Asphaltgold Pleated Shorts",
@@ -5047,12 +5047,12 @@
       "15047631438200": {
         "title": "On Logo Sock Mid 3P 'White'",
         "handle": "on-logo-sock-mid-3p-white",
-        "in_stock": false
+        "in_stock": true
       },
       "15047631274360": {
         "title": "On Logo Sock High 3P 'Black'",
         "handle": "on-logo-sock-high-3p-black",
-        "in_stock": false
+        "in_stock": true
       },
       "15047631110520": {
         "title": "On Logo Sock High 3P 'White'",
@@ -6264,42 +6264,42 @@
       "10596276404490": {
         "title": "Converse Chuck 70 Industrial",
         "handle": "converse-chuck-70-industrial-bog-down-bog-down-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10596275945738": {
         "title": "Converse Chuck 70 Canvas",
         "handle": "converse-chuck-70-canvas-parchment-garnet-egret",
-        "in_stock": false
+        "in_stock": true
       },
       "10596275388682": {
         "title": "Converse Chuck 70 Washed Canvas",
         "handle": "converse-chuck-70-washed-canvas-classic-grey-egret-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10596274307338": {
         "title": "Converse Chuck 70 Washed Canvas",
         "handle": "converse-chuck-70-washed-canvas-brick-snack-brick-snack-egret",
-        "in_stock": false
+        "in_stock": true
       },
       "10596271030538": {
         "title": "adidas Originals JAPAN",
         "handle": "adidas-originals-japan-nindig-eqtred-gum4",
-        "in_stock": false
+        "in_stock": true
       },
       "10596267458826": {
         "title": "adidas Originals HANDBALL SPEZIAL",
         "handle": "adidas-originals-handball-spezial-branch-crewht-cblack",
-        "in_stock": false
+        "in_stock": true
       },
       "10596260020490": {
         "title": "adidas Originals BARRICADE V",
         "handle": "adidas-originals-barricade-v-msilve-silvmt-cblack",
-        "in_stock": false
+        "in_stock": true
       },
       "10596259168522": {
         "title": "adidas Originals WMNS ADIZERO ADIOS OG",
         "handle": "adidas-originals-wmns-adizero-adios-og-alumin-cofmet-maroon",
-        "in_stock": false
+        "in_stock": true
       },
       "10595527885066": {
         "title": "New Balance 880R",
@@ -7514,6 +7514,41 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127150551245": {
+        "title": "Men's SAYSKY Ultraweave Singlet Cobalt Glaze",
+        "handle": "puma-clothing-m-puma-x-saysky-ultraweave-singlet-blue-j363797",
+        "in_stock": true
+      },
+      "9127150584013": {
+        "title": "Men's SAYSKY ULTRAWEAVE Performance Fit T-Shirt Cobalt Glaze",
+        "handle": "puma-clothing-m-puma-x-saysky-ultraweave-short-sleeve-blue-j363796",
+        "in_stock": true
+      },
+      "9127150518477": {
+        "title": "Men's SAYSKY 2-in-1 9in Shorts Flat Dark Gray",
+        "handle": "puma-clothing-m-puma-x-saysky-9-2in1-short-grey-j363794",
+        "in_stock": true
+      },
+      "9127150616781": {
+        "title": "Men's SAYSKY Half-Zip Longsleeve Top Cobalt Glaze",
+        "handle": "puma-clothing-m-puma-x-saysky-ls-1-2-zip-blue-j363795",
+        "in_stock": true
+      },
+      "9127150452941": {
+        "title": "SAYSKY Storm 5-Panel Cap Flat Dark Gray",
+        "handle": "puma-accessories-puma-x-saysky-storm-5-panel-cap-grey-j363788",
+        "in_stock": true
+      },
+      "9127150420173": {
+        "title": "SAYSKY ULTRAWEAVE 5 Panel Cap Cobalt Glaze / Lavender Alert / White",
+        "handle": "puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-blue-j363789",
+        "in_stock": true
+      },
+      "9127150387405": {
+        "title": "SAYSKY ULTRAWEAVE 5 Panel Cap Ultra Purple / Cobalt Glaze / White",
+        "handle": "puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-purple-j363790",
+        "in_stock": true
+      },
       "9127126728909": {
         "title": "Air Jordan 7 Retro 'Miró' Sneakers White / Multicolor",
         "handle": "nike-jordan-footwear-air-jordan-7-retro-bb-white-j352557",
@@ -8728,43 +8763,77 @@
         "title": "Chukka 49 Vibram Sneakers Marshmallow",
         "handle": "vans-footwear-otw-chukka-49-vibram-white-j361927",
         "in_stock": true
-      },
-      "9125203247309": {
-        "title": "Chukka 49 Vibram Sneakers Black",
-        "handle": "vans-footwear-otw-chukka-49-vibram-black-j361928",
-        "in_stock": true
-      },
-      "9125203378381": {
-        "title": "Premium Old Skool 36 Sneakers Charcoal Grey",
-        "handle": "vans-footwear-lx-old-skool-36-grey-j361929",
-        "in_stock": true
-      },
-      "9125203345613": {
-        "title": "Premium Old Skool 36 Sneakers Turtledove",
-        "handle": "vans-footwear-lx-old-skool-36-white-j361930",
-        "in_stock": true
-      },
-      "9125202952397": {
-        "title": "Premium Authentic 44 Sneakers Heritage Black",
-        "handle": "vans-footwear-lx-authentic-44-black-j361933",
-        "in_stock": true
-      },
-      "9125202821325": {
-        "title": "Premium Authentic 44 Sneakers Pale Petal Pink",
-        "handle": "vans-footwear-lx-authentic-44-pink-j361943",
-        "in_stock": true
-      },
-      "9125203017933": {
-        "title": "Premium Authentic Hi 2.0 Sneakers Red",
-        "handle": "vans-footwear-lx-authentic-hi-20-red-j361946",
-        "in_stock": true
-      },
-      "9125203083469": {
-        "title": "Premium Authentic Hi 2.0 Sneakers Marshmallow",
-        "handle": "vans-footwear-lx-authentic-hi-20-white-j361947",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Kick Game: On Logo Sock Mid 3P 'White'\nhttps://www.kickgame.co.uk/products/on-logo-sock-mid-3p-white",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: On Logo Sock High 3P 'Black'\nhttps://www.kickgame.co.uk/products/on-logo-sock-high-3p-black",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Converse Chuck 70 Industrial\nhttps://www.afew-store.com/products/converse-chuck-70-industrial-bog-down-bog-down-black",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Converse Chuck 70 Canvas\nhttps://www.afew-store.com/products/converse-chuck-70-canvas-parchment-garnet-egret",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Converse Chuck 70 Washed Canvas\nhttps://www.afew-store.com/products/converse-chuck-70-washed-canvas-classic-grey-egret-black",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Converse Chuck 70 Washed Canvas\nhttps://www.afew-store.com/products/converse-chuck-70-washed-canvas-brick-snack-brick-snack-egret",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals JAPAN\nhttps://www.afew-store.com/products/adidas-originals-japan-nindig-eqtred-gum4",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals HANDBALL SPEZIAL\nhttps://www.afew-store.com/products/adidas-originals-handball-spezial-branch-crewht-cblack",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals BARRICADE V\nhttps://www.afew-store.com/products/adidas-originals-barricade-v-msilve-silvmt-cblack",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: adidas Originals WMNS ADIZERO ADIOS OG\nhttps://www.afew-store.com/products/adidas-originals-wmns-adizero-adios-og-alumin-cofmet-maroon",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY Ultraweave Singlet Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ultraweave-singlet-blue-j363797",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY ULTRAWEAVE Performance Fit T-Shirt Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ultraweave-short-sleeve-blue-j363796",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY 2-in-1 9in Shorts Flat Dark Gray\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-9-2in1-short-grey-j363794",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY Half-Zip Longsleeve Top Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ls-1-2-zip-blue-j363795",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY Storm 5-Panel Cap Flat Dark Gray\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-storm-5-panel-cap-grey-j363788",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY ULTRAWEAVE 5 Panel Cap Cobalt Glaze / Lavender Alert / White\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-blue-j363789",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY ULTRAWEAVE 5 Panel Cap Ultra Purple / Cobalt Glaze / White\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-purple-j363790",
+      "detected_at": "2026-08-20T10:47:49.390303+00:00"
+    }
+  ]
 }
