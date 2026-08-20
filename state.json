@@ -1256,7 +1256,7 @@
       "6702706065669": {
         "title": "NIKE AIR MAX GOADOME LOW SP - BLACK",
         "handle": "nike-air-max-goadome-low-sp-black",
-        "in_stock": false
+        "in_stock": true
       },
       "6702666973445": {
         "title": "VANS PREMUIM OLD SKOOL 36 'SOUVENIR' - NAVY",
@@ -1277,11 +1277,6 @@
         "title": "UNDEFEATED X BURTON LOGAN WAVECEL® HELMET - TAN",
         "handle": "undefeated-x-burton-logan-wavecel-helmet-tan",
         "in_stock": true
-      },
-      "6702706000133": {
-        "title": "NIKE MIND 001 - BLACK/ ANTHRACITE",
-        "handle": "nike-mind-001-black-anthracite",
-        "in_stock": false
       },
       "6702691025157": {
         "title": "JORDAN X FREE THE YOUTH TRACK JACKET - BLACK",
@@ -2502,6 +2497,11 @@
         "title": "SALOMON XT-6 GTX - BLACK/ ASPHALT",
         "handle": "salomon-xt-6-gtx-black-asphalt",
         "in_stock": true
+      },
+      "6702636990725": {
+        "title": "ASICS GEL-STRATUS MC - GRAPHITE GREY/ BLACK",
+        "handle": "asics-gel-stratus-mc-graphite-grey-black",
+        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2713,7 +2713,7 @@
       "10798418002187": {
         "title": "Adidas Adiracer Lo W",
         "handle": "adidas-adiracer-lo-w-dark-brown-dark-brown-cream-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10866647433483": {
         "title": "Adidas Y-3 Elite 5 Baseball Shirt",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9507661742268": {
+        "title": "Air Jordan 8 Retro - Black/White",
+        "handle": "air-jordan-8-retro-black-white-1",
+        "in_stock": false
+      },
       "9294126186684": {
         "title": "Air Jordan 3 Retro 'World's Best Dad' (GS) - Sail/Black",
         "handle": "air-jordan-3-retro-worlds-best-dad-gs-sail-black",
@@ -3985,11 +3990,6 @@
       "9217668186300": {
         "title": "A Bathing Ape Bape Sta #2 M2 - White/Black",
         "handle": "a-bathing-ape-bape-sta-2-m2-white-black",
-        "in_stock": true
-      },
-      "9410290516156": {
-        "title": "Air Jordan 8 Retro - Black/White",
-        "handle": "air-jordan-8-retro-black-white-1",
         "in_stock": true
       },
       "9007448850620": {
@@ -8768,84 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Dysfunction Hoodie - Multi\nhttps://sneakerpolitics.com/products/pleasures-dysfunction-hoodie-multi",
-      "detected_at": "2026-08-20T15:16:51.302363+00:00"
+      "message": "🔥 **Restock** at Undefeated: NIKE AIR MAX GOADOME LOW SP - BLACK\nhttps://undefeated.com/products/nike-air-max-goadome-low-sp-black",
+      "detected_at": "2026-08-20T16:45:31.050657+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Pleasures Nordique Tee - Vintage White\nhttps://sneakerpolitics.com/products/pleasures-nordique-tee-vintage-white",
-      "detected_at": "2026-08-20T15:16:51.302363+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Curtis Sweater Jacket\nhttps://www.asphaltgold.de/products/carhartt-wip-curtis-sweater-jacket-tangled-shungite",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Curtis Sweater Jacket\nhttps://www.asphaltgold.de/products/carhartt-wip-curtis-sweater-jacket-tangled-black",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: mfpen Executive Shirt\nhttps://www.asphaltgold.de/products/mfpen-executive-shirt-ranch-check",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: mfpen Service Trousers\nhttps://www.asphaltgold.de/products/mfpen-service-trousers-muted-black",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Care Bear Crew Sock 3 Pairs\nhttps://www.asphaltgold.de/products/adidasx-care-bear-crew-sock-3-pairs-clear-pink-clear-sky-almost-yellow",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Summit Pacesetter Graphic Shorts\nhttps://www.asphaltgold.de/products/the-north-face-summit-pacesetter-graphic-shorts-canal-blue",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Summit Superior FUTURELIGHT Graphic Jacket\nhttps://www.asphaltgold.de/products/the-north-face-summit-superior-futurelight-graphic-jacket-canal-blue",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Red Box Nylon Fleece-Lined Jacket\nhttps://www.asphaltgold.de/products/the-north-face-red-box-nylon-fleecelined-jacket-obsidian",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Extreme Pile 2 Printed Jacket\nhttps://www.asphaltgold.de/products/the-north-face-extreme-pile-2-printed-jacket-new-taupe-green-yosemite-oak-printnew-taupe-green",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Denali Etip Glove\nhttps://www.asphaltgold.de/products/the-north-face-denali-etip-glove-dark-chestnut",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Red Box Down Jacket\nhttps://www.asphaltgold.de/products/the-north-face-red-box-down-jacket-smokey-brown",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Fisherman Beanie\nhttps://www.asphaltgold.de/products/the-north-face-fisherman-beanie-timeless-taupe",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Fisherman Beanie\nhttps://www.asphaltgold.de/products/the-north-face-fisherman-beanie-tnf-black",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Salty Lined Beanie\nhttps://www.asphaltgold.de/products/the-north-face-salty-lined-beanie-dark-chestnut",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Salty Lined Beanie\nhttps://www.asphaltgold.de/products/the-north-face-salty-lined-beanie-tnf-black",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Jim Beanie\nhttps://www.asphaltgold.de/products/the-north-face-jim-beanie-dark-chestnut-heather",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Reversible Highline Beanie\nhttps://www.asphaltgold.de/products/the-north-face-reversible-highline-beanie-stone-slabcumulus-cloud",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: 204V Sneakers Turtledove / Timberwolf\nhttps://www.slamjam.com/products/new-balance-footwear-u204v2w0-beige-j359410",
-      "detected_at": "2026-08-20T15:59:21.269551+00:00"
+      "message": "🆕 **New drop** at Undefeated: ASICS GEL-STRATUS MC - GRAPHITE GREY/ BLACK\nhttps://undefeated.com/products/asics-gel-stratus-mc-graphite-grey-black",
+      "detected_at": "2026-08-20T16:45:31.050657+00:00"
     }
   ]
 }
