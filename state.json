@@ -1224,7 +1224,7 @@
       "8286650204288": {
         "title": "Kith for BMW Umbrella - Sandrift",
         "handle": "khla150116-104",
-        "in_stock": false
+        "in_stock": true
       },
       "8286650138752": {
         "title": "Kith for BMW Mug - Cinnabar",
@@ -8878,6 +8878,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Nike Air More Uptempo '96 - Black/White\nhttps://sneakerpolitics.com/products/nike-air-more-uptempo-96-black-white-1",
       "detected_at": "2026-08-20T23:27:52.000156+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith for BMW Umbrella - Sandrift\nhttps://kith.com/products/khla150116-104",
+      "detected_at": "2026-08-20T23:52:18.840537+00:00"
     }
   ]
 }
