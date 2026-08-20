@@ -119,7 +119,7 @@
       "8286666588288": {
         "title": "Polaroid Go Generation 3 Camera - Teal",
         "handle": "po-009194",
-        "in_stock": false
+        "in_stock": true
       },
       "8286666686592": {
         "title": "Polaroid Go Generation 3 Camera - Purple",
@@ -2748,7 +2748,7 @@
       "10738564759819": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-aluminum-medium-dark-khaki-gum-5",
-        "in_stock": true
+        "in_stock": false
       },
       "10792253030667": {
         "title": "Autry Windspin W *Pony / Nylon*",
@@ -3123,7 +3123,7 @@
       "10840735351051": {
         "title": "Carhartt WIP Mitch Jacket",
         "handle": "carhartt-wip-mitch-jacket-brass-dusky-canvas",
-        "in_stock": true
+        "in_stock": false
       },
       "10839376920843": {
         "title": "New Balance 90/60",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8990983028924": {
+        "title": "Women's Air Jordan 1 Low - Sail/Ghost",
+        "handle": "womens-air-jordan-1-low-sail-ghost",
+        "in_stock": true
+      },
       "9303649943740": {
         "title": "Nike Pegasus Premium - Pale Ivory/Black Spruce",
         "handle": "nike-pegasus-premium-pale-ivory-black-spruce",
@@ -3860,7 +3865,7 @@
       "9382656311484": {
         "title": "Nike Air Force 1 '07 LV8 'Beef & Broccoli' - Black Spruce/Black",
         "handle": "nike-air-force-1-07-lv8-beef-broccoli-black-spruce-black",
-        "in_stock": false
+        "in_stock": true
       },
       "9151215861948": {
         "title": "Metalwood Studio Metal Logo Crew Socks - Black",
@@ -3995,7 +4000,7 @@
       "9007448850620": {
         "title": "Fear Of God Essentials Classic L/S Tee - Oatmeal Heather",
         "handle": "fear-of-god-essentials-classic-l-s-tee-oatmeal-heather",
-        "in_stock": true
+        "in_stock": false
       },
       "8906800169148": {
         "title": "Asics Gel-Cumulus 16 'TOMO' - Cream/Malachite Green",
@@ -5000,11 +5005,6 @@
       "9154749956284": {
         "title": "Pleasures Dysfunction Hoodie - Multi",
         "handle": "pleasures-dysfunction-hoodie-multi",
-        "in_stock": true
-      },
-      "9286254592188": {
-        "title": "Pleasures Nordique Tee - Vintage White",
-        "handle": "pleasures-nordique-tee-vintage-white",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Market Hard In The Yard Tee - White\nhttps://sneakerpolitics.com/products/market-hard-in-the-yard-tee-white",
-      "detected_at": "2026-08-20T17:31:53.898362+00:00"
+      "message": "🔥 **Restock** at Kith: Polaroid Go Generation 3 Camera - Teal\nhttps://kith.com/products/po-009194",
+      "detected_at": "2026-08-20T18:59:46.595959+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Pegasus Premium - Pale Ivory/Black Spruce\nhttps://sneakerpolitics.com/products/nike-pegasus-premium-pale-ivory-black-spruce",
-      "detected_at": "2026-08-20T18:03:27.267750+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Air Jordan 1 Low - Sail/Ghost\nhttps://sneakerpolitics.com/products/womens-air-jordan-1-low-sail-ghost",
+      "detected_at": "2026-08-20T18:59:46.595959+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Sneaker Politics: Nike Air Force 1 '07 LV8 'Beef & Broccoli' - Black Spruce/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-beef-broccoli-black-spruce-black",
+      "detected_at": "2026-08-20T18:59:46.595959+00:00"
     }
   ]
 }
