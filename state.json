@@ -7514,6 +7514,11 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127126728909": {
+        "title": "Air Jordan 7 Retro 'Miró' Sneakers White / Multicolor",
+        "handle": "nike-jordan-footwear-air-jordan-7-retro-bb-white-j352557",
+        "in_stock": false
+      },
       "9127006372045": {
         "title": "Men's Barbette Trousers Basalt Grey",
         "handle": "_j-l-a-l_-clothing-barbette-trouser-grey-j349260",
@@ -8758,26 +8763,8 @@
         "title": "Premium Authentic Hi 2.0 Sneakers Marshmallow",
         "handle": "vans-footwear-lx-authentic-hi-20-white-j361947",
         "in_stock": true
-      },
-      "9125202886861": {
-        "title": "Premium Authentic 44 Sneakers Citrus Burst",
-        "handle": "vans-footwear-lx-authentic-44-orange-j361944",
-        "in_stock": true
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike AIR MAX III\nhttps://www.afew-store.com/products/nike-air-max-iii-black-cool-grey-infrared-23",
-      "detected_at": "2026-08-20T07:49:27.186712+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: JJJJound Tracks Headphones Black\nhttps://www.slamjam.com/products/aiaiai-lifestyle-tracks-jjjjound-usbc-black-black-j357563",
-      "detected_at": "2026-08-20T07:49:27.186712+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: JJJJound Tracks Headphones Yellow\nhttps://www.slamjam.com/products/aiaiai-lifestyle-tracks-jjjjound-usbc-yellow-yellow-j357562",
-      "detected_at": "2026-08-20T07:49:27.186712+00:00"
-    }
-  ]
+  "pending_free": []
 }
