@@ -2843,7 +2843,7 @@
       "10662892011787": {
         "title": "Ugg Wmns Tazz II",
         "handle": "ugg-wmns-tazz-ii-sand",
-        "in_stock": true
+        "in_stock": false
       },
       "10732511068427": {
         "title": "The North Face Denali Etip Glove",
@@ -3148,7 +3148,7 @@
       "8812816924939": {
         "title": "New Balance U1906LAE",
         "handle": "new-balance-u1906lae-magnet",
-        "in_stock": true
+        "in_stock": false
       },
       "10539156930827": {
         "title": "Autry Reelwind Low",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9303649943740": {
+        "title": "Nike Pegasus Premium - Pale Ivory/Black Spruce",
+        "handle": "nike-pegasus-premium-pale-ivory-black-spruce",
+        "in_stock": true
+      },
       "9507661742268": {
         "title": "Air Jordan 8 Retro - Black/White",
         "handle": "air-jordan-8-retro-black-white-1",
@@ -5000,11 +5005,6 @@
       "9286254592188": {
         "title": "Pleasures Nordique Tee - Vintage White",
         "handle": "pleasures-nordique-tee-vintage-white",
-        "in_stock": true
-      },
-      "9281652687036": {
-        "title": "Market Hard In The Yard Tee - White",
-        "handle": "market-hard-in-the-yard-tee-white",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Market Hard In The Yard Tee - White\nhttps://sneakerpolitics.com/products/market-hard-in-the-yard-tee-white",
       "detected_at": "2026-08-20T17:31:53.898362+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Pegasus Premium - Pale Ivory/Black Spruce\nhttps://sneakerpolitics.com/products/nike-pegasus-premium-pale-ivory-black-spruce",
+      "detected_at": "2026-08-20T18:03:27.267750+00:00"
     }
   ]
 }
