@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286662688896": {
+        "title": "MADE-TO-ORDER | Kith & Yellowpop for BMW Fast Logo Neon Sign - Multi - PH",
+        "handle": "ypkith-bmw-ph",
+        "in_stock": false
+      },
       "8286669308032": {
         "title": "Tekla Swim Short - Olive",
         "handle": "tekss-olv",
@@ -482,7 +487,7 @@
         "in_stock": true
       },
       "8286667374720": {
-        "title": "Diesel Load-D Crossbody bag - Brown",
+        "title": "Diesel Load-D Crossbody Bag - Brown",
         "handle": "x10737p9146-t2232",
         "in_stock": true
       },
@@ -824,11 +829,6 @@
       "8286669602944": {
         "title": "ASICS GS GEL-1130 - White / Dragon Fruit",
         "handle": "asi1204a169-107",
-        "in_stock": true
-      },
-      "8286665736320": {
-        "title": "VANS LX Authentic 44 - Herringbone Black / Tan Brown",
-        "handle": "vn000z6rbml1",
         "in_stock": true
       },
       "8286656430208": {
@@ -6264,12 +6264,12 @@
       "10596353573130": {
         "title": "G-SHOCK GA-2100LXB-1AER",
         "handle": "g-shock-ga-2100lxb-1aer-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10596351541514": {
         "title": "G-SHOCK GM-2100LXB-1AER",
         "handle": "g-shock-gm-2100lxb-1aer-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10596344725770": {
         "title": "Keen Jasper III",
@@ -7702,7 +7702,7 @@
       "9101410205901": {
         "title": "Adizero EVO SL Sneakers Silver Metallic / Iron Metallic / Halo Silver",
         "handle": "adidas-footwear-adizero-evo-sl-m-grey-j345862",
-        "in_stock": true
+        "in_stock": false
       },
       "9126903906509": {
         "title": "Women's Rejuven8 Run Sneakers Black",
@@ -8768,116 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: ASICS X CARNAN GEL-CUMULUS 16 - BLACKBERRY/ PURPLE\nhttps://undefeated.com/products/asics-x-carnan-gel-cumulus-16-blackberry-purple",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
+      "message": "🔥 **Restock** at Afew Store: G-SHOCK GA-2100LXB-1AER\nhttps://www.afew-store.com/products/g-shock-ga-2100lxb-1aer-black",
+      "detected_at": "2026-08-20T13:53:16.118572+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Pharrell Williams Adistar Jellyfish\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba ST\nhttps://www.asphaltgold.de/products/adidas-samba-st-aurora-coffee-off-white-khaki-three",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Clarks Originals Wallabee *GORE-Tex*\nhttps://www.asphaltgold.de/products/clarks-originals-wallabee-boot-goretex-dark-olive",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Clarks Originals Wallabee Boot *GORE-Tex*\nhttps://www.asphaltgold.de/products/clarks-originals-wallabee-boot-goretex-ink",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Deviate Nitro\nhttps://www.asphaltgold.de/products/puma-deviate-nitro-sunny-lime-puma-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: On Court Cap 'Black'\nhttps://www.kickgame.co.uk/products/on-court-cap-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: On Logo Sock Mid 3P 'Black'\nhttps://www.kickgame.co.uk/products/on-logo-sock-mid-3p-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'Blissful White'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-blissful-white",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Keen Jasper III\nhttps://www.afew-store.com/products/keen-jasper-iii-black-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Oakley Remix dad hat\nhttps://www.afew-store.com/products/oakley-remix-dad-hat-dark-umber",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Harlem Cap\nhttps://www.afew-store.com/products/carhartt-wip-harlem-cap-amarone-white",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Harlem Cap\nhttps://www.afew-store.com/products/carhartt-wip-harlem-cap-wall-white",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Harlem Cap\nhttps://www.afew-store.com/products/carhartt-wip-harlem-cap-raven-white",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Mini Script T-Shirt Keychain\nhttps://www.afew-store.com/products/carhartt-wip-mini-script-t-shirt-keychain-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Mini Script T-Shirt Keychain\nhttps://www.afew-store.com/products/carhartt-wip-mini-script-t-shirt-keychain-hamilton-brown",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Mini Active Jacket Keychain\nhttps://www.afew-store.com/products/carhartt-wip-mini-active-jacket-keychain-hamilton-brown",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Carhartt WIP Mini Active Jacket Keychain\nhttps://www.afew-store.com/products/carhartt-wip-mini-active-jacket-keychain-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Saucony PROGRID RIDE 1\nhttps://www.afew-store.com/products/saucony-progrid-ride-1-white-slime",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Timberland WMNS AUTH LOAFER\nhttps://www.afew-store.com/products/timberland-wmns-auth-loafer-shoe-bur-f-grain",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 9060\nhttps://www.afew-store.com/products/new-balance-9060-breakfast-tea-angora",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: New Balance 880R\nhttps://www.afew-store.com/products/new-balance-880r-black-castlerock",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Hoka One One CLIFTON UTL\nhttps://www.afew-store.com/products/hoka-one-one-clifton-utl-frost-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Hoka One One CLIFTON UTL\nhttps://www.afew-store.com/products/hoka-one-one-clifton-utl-black-black",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Hoka One One CLIFTON UTL\nhttps://www.afew-store.com/products/hoka-one-one-clifton-utl-cosmic-grey-stellar",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Salomon XT-6 Gore-Tex\nhttps://www.afew-store.com/products/salomon-xt-6-gtx-grayviolet-cosmic-wht",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: SAYSKY Deviate NITRO Elite 4 Sneakers Flat Dark Gray / Vivid Blue\nhttps://www.slamjam.com/products/puma-footwear-deviate-nitro-elite-4-saysky-grey-j363728",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: SAYSKY Storm Shield Fingered Gloves Black\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-storm-shield-gloves-black-j363724",
-      "detected_at": "2026-08-20T12:59:33.747324+00:00"
+      "message": "🔥 **Restock** at Afew Store: G-SHOCK GM-2100LXB-1AER\nhttps://www.afew-store.com/products/g-shock-gm-2100lxb-1aer-black",
+      "detected_at": "2026-08-20T13:53:16.118572+00:00"
     }
   ]
 }
