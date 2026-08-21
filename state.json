@@ -3942,11 +3942,6 @@
         "handle": "nike-air-more-uptempo-96-black-white",
         "in_stock": true
       },
-      "9261911965884": {
-        "title": "Nike Air Max 95 (PS) - Black/Pink Foam",
-        "handle": "nike-air-max-95-ps-black-pink-foam",
-        "in_stock": false
-      },
       "9359861514428": {
         "title": "Crocs Roy - Nightfall",
         "handle": "crocs-roy-nightfall",
@@ -5005,6 +5000,11 @@
       "9351480017084": {
         "title": "Jordan 6 Retro 'Oreo' (PS) - White/Black",
         "handle": "jordan-6-retro-oreo-ps-white-black",
+        "in_stock": true
+      },
+      "9391915663548": {
+        "title": "Air Jordan 6 Retro 'Oreo' - White/Black",
+        "handle": "air-jordan-6-retro-oreo-white-black",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Nike Ja 4 'Nightmare' - Obsidian/Voltage Green\nhttps://sneakerpolitics.com/products/nike-ja-4-nightmare-obsidian-voltage-green",
       "detected_at": "2026-08-21T20:41:54.115158+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 6 Retro 'Oreo' - White/Black\nhttps://sneakerpolitics.com/products/air-jordan-6-retro-oreo-white-black",
+      "detected_at": "2026-08-21T21:03:19.603605+00:00"
     }
   ]
 }
