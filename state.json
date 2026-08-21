@@ -2118,11 +2118,6 @@
         "handle": "jordan-aj-1-mid-true-blue-summit-white",
         "in_stock": true
       },
-      "6702457553157": {
-        "title": "NIKE KOBE XI ELITE PROTRO - BLACK",
-        "handle": "nike-kobe-xi-elite-protro-black",
-        "in_stock": true
-      },
       "6702479540485": {
         "title": "NIKE KOBE VIII PROTRO - TWINE/ BAROQUE BROWN",
         "handle": "nike-kobe-viii-protro-twine-baroque-brown",
@@ -2478,11 +2473,6 @@
         "handle": "nike-womens-air-rift-white-black",
         "in_stock": true
       },
-      "6702637285637": {
-        "title": "SALOMON XT-6 - MARITIME BLUE/ BLACK",
-        "handle": "salomon-xt-6-maritime-blue-black",
-        "in_stock": false
-      },
       "6702637252869": {
         "title": "SAUCONY TRAINER 80 - BLACK/ WHITE",
         "handle": "saucony-trainer-80-black-white",
@@ -2501,6 +2491,16 @@
       "6702628274437": {
         "title": "SHAI 001 PREMIUM OX VINTAGE - SLITHER",
         "handle": "shai-001-premium-ox-vintage-slither",
+        "in_stock": true
+      },
+      "2195148636233": {
+        "title": "CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK",
+        "handle": "chuck-70-hi-obsidian-egret-black",
+        "in_stock": true
+      },
+      "6677432467717": {
+        "title": "NEW BALANCE 2002R - STEEL",
+        "handle": "new-balance-2002r-steel",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,36 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9294116847804": {
+        "title": "Air Jordan 5 Retro (GS) - White/Metallic Silver",
+        "handle": "air-jordan-5-retro-gs-white-metallic-silver",
+        "in_stock": false
+      },
+      "9189417943228": {
+        "title": "Willy Chavarria x Adidas Superstar - Core Black/Off White",
+        "handle": "willy-chavarria-x-adidas-superstar-core-black-off-white",
+        "in_stock": true
+      },
+      "9117947723964": {
+        "title": "Nike Zoom Hyperflight - Black/White",
+        "handle": "nike-zoom-hyperflight-black-white",
+        "in_stock": true
+      },
+      "9363148243132": {
+        "title": "Jacquemus x France x Nike Reissue Track Jacket - Blackened Blue/White",
+        "handle": "jacquemus-x-france-x-nike-reissue-track-jacket-blackened-blue-white",
+        "in_stock": false
+      },
+      "9363119407292": {
+        "title": "Palace x England x Nike Academy Pro Soccer Top - Pewter Grey/Bright Crimson",
+        "handle": "palace-x-england-x-nike-academy-pro-soccer-top-pewter-grey-bright-crimson-1",
+        "in_stock": false
+      },
+      "9410290516156": {
+        "title": "Air Jordan 8 Retro 'Chrome' - Black/White",
+        "handle": "air-jordan-8-retro-black-white-1",
+        "in_stock": true
+      },
       "9342077141180": {
         "title": "Air Jordan 1 Low OG 'Laser' (GS) - Black/Varsity Red",
         "handle": "air-jordan-1-low-og-laser-gs-black-varsity-red",
@@ -3932,20 +3962,10 @@
         "handle": "nike-pegasus-premium-pale-ivory-black-spruce",
         "in_stock": true
       },
-      "9507661742268": {
-        "title": "Air Jordan 8 Retro - Black/White",
-        "handle": "air-jordan-8-retro-black-white-1",
-        "in_stock": false
-      },
       "9294126186684": {
         "title": "Air Jordan 3 Retro 'World's Best Dad' (GS) - Sail/Black",
         "handle": "air-jordan-3-retro-worlds-best-dad-gs-sail-black",
         "in_stock": true
-      },
-      "9370393706684": {
-        "title": "CARNAN x Asics Gel-Cumulus 16 - Black Berry/Purple",
-        "handle": "asics-gel-cumulus-16-black-berry-purple",
-        "in_stock": false
       },
       "9472698810556": {
         "title": "Nike Air Max Goadome Low 'Dot Pack' - Black/Black",
@@ -4156,11 +4176,6 @@
         "title": "A Bathing Ape Bape Sta #2 M2 - White/Black",
         "handle": "a-bathing-ape-bape-sta-2-m2-white-black",
         "in_stock": true
-      },
-      "9007448850620": {
-        "title": "Fear Of God Essentials Classic L/S Tee - Oatmeal Heather",
-        "handle": "fear-of-god-essentials-classic-l-s-tee-oatmeal-heather",
-        "in_stock": false
       },
       "8906800169148": {
         "title": "Asics Gel-Cumulus 16 'TOMO' - Cream/Malachite Green",
@@ -4990,21 +5005,6 @@
       "9351480017084": {
         "title": "Jordan 6 Retro 'Oreo' (PS) - White/Black",
         "handle": "jordan-6-retro-oreo-ps-white-black",
-        "in_stock": true
-      },
-      "9391915663548": {
-        "title": "Air Jordan 6 Retro 'Oreo' - White/Black",
-        "handle": "air-jordan-6-retro-oreo-white-black",
-        "in_stock": true
-      },
-      "9279621234876": {
-        "title": "KidSuper Face Camo Wide Leg Jean - Black",
-        "handle": "kidsuper-face-camo-wide-leg-jean-black",
-        "in_stock": true
-      },
-      "9279597576380": {
-        "title": "KidSuper Velour Stars Rugby - Brown",
-        "handle": "kidsuper-velour-stars-rugby-brown",
         "in_stock": true
       }
     },
@@ -8768,20 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD\nhttps://undefeated.com/products/nike-air-griffey-max-1-midnight-navy-team-gold",
-      "detected_at": "2026-08-21T17:49:22.853862+00:00"
+      "message": "🆕 **New drop** at Undefeated: CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK\nhttps://undefeated.com/products/chuck-70-hi-obsidian-egret-black",
+      "detected_at": "2026-08-21T18:39:57.890503+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: SAUCONY TRAINER 80 - ROYAL/ WHITE\nhttps://undefeated.com/products/saucony-trainer-80-royal-white",
-      "detected_at": "2026-08-21T17:49:22.853862+00:00"
+      "message": "🆕 **New drop** at Undefeated: NEW BALANCE 2002R - STEEL\nhttps://undefeated.com/products/new-balance-2002r-steel",
+      "detected_at": "2026-08-21T18:39:57.890503+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: SHAI 001 PREMIUM OX VINTAGE - SLITHER\nhttps://undefeated.com/products/shai-001-premium-ox-vintage-slither",
-      "detected_at": "2026-08-21T17:49:22.853862+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Superstar - Core Black/Off White\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-superstar-core-black-off-white",
+      "detected_at": "2026-08-21T18:39:57.890503+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low OG 'Laser' (GS) - Black/Varsity Red\nhttps://sneakerpolitics.com/products/air-jordan-1-low-og-laser-gs-black-varsity-red",
-      "detected_at": "2026-08-21T17:49:22.853862+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Zoom Hyperflight - Black/White\nhttps://sneakerpolitics.com/products/nike-zoom-hyperflight-black-white",
+      "detected_at": "2026-08-21T18:39:57.890503+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro 'Chrome' - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
+      "detected_at": "2026-08-21T18:39:57.890503+00:00"
     }
   ]
 }
