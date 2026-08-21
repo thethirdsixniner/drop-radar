@@ -2123,11 +2123,6 @@
         "handle": "nike-kobe-xi-elite-protro-black",
         "in_stock": true
       },
-      "6702411645189": {
-        "title": "NIKE AIR MAX 95 'GREEDY' - HYPER TURQUOISE/ VOLT",
-        "handle": "nike-air-max-95-greedy-hyper-turquoise-volt",
-        "in_stock": true
-      },
       "6702479540485": {
         "title": "NIKE KOBE VIII PROTRO - TWINE/ BAROQUE BROWN",
         "handle": "nike-kobe-viii-protro-twine-baroque-brown",
@@ -2408,16 +2403,6 @@
         "handle": "nike-wmns-shox-z-se-phantom-multi-color",
         "in_stock": true
       },
-      "6702238400773": {
-        "title": "NIKE WMNS ASTROGRABBER TXT - SAIL/ BLACK/ MUSLIN",
-        "handle": "nike-wmns-astrograbber-txt-sail-black-muslin",
-        "in_stock": true
-      },
-      "6702214643973": {
-        "title": "NIKE WMNS REACTX REJUVEN8 - LIGHT LEMON TWIST",
-        "handle": "nike-wmns-reactx-rejuven8-light-lemon-twist",
-        "in_stock": true
-      },
       "6702638104837": {
         "title": "NIKE AIR MAX JOGA BONITO R9 - METALLIC SILVER/ VARSITY MAIZE",
         "handle": "nike-air-max-joga-bonito-r9-metallic-silver-varsity-maize",
@@ -2501,6 +2486,21 @@
       "6702637252869": {
         "title": "SAUCONY TRAINER 80 - BLACK/ WHITE",
         "handle": "saucony-trainer-80-black-white",
+        "in_stock": true
+      },
+      "6702619689221": {
+        "title": "NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD",
+        "handle": "nike-air-griffey-max-1-midnight-navy-team-gold",
+        "in_stock": true
+      },
+      "6702637383941": {
+        "title": "SAUCONY TRAINER 80 - ROYAL/ WHITE",
+        "handle": "saucony-trainer-80-royal-white",
+        "in_stock": true
+      },
+      "6702628274437": {
+        "title": "SHAI 001 PREMIUM OX VINTAGE - SLITHER",
+        "handle": "shai-001-premium-ox-vintage-slither",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9342077141180": {
+        "title": "Air Jordan 1 Low OG 'Laser' (GS) - Black/Varsity Red",
+        "handle": "air-jordan-1-low-og-laser-gs-black-varsity-red",
+        "in_stock": true
+      },
+      "9364511981756": {
+        "title": "Vans OTW Era 95 DST 'Relic' - Checkerboard",
+        "handle": "vans-otw-era-95-dst-relic-checkerboard",
+        "in_stock": false
+      },
       "8952025481404": {
         "title": "Purple Brand Headlights Tee - Black",
         "handle": "purple-brand-headlights-tee-black",
@@ -3830,7 +3840,7 @@
       "9286308069564": {
         "title": "Godspeed New York Carpenter Distressed Shorts - Black",
         "handle": "godspeed-new-york-carpenter-distressed-shorts-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9294102790332": {
         "title": "Jordan 11 Retro Low 'Mother's Day' (PS) - White/Metallic Gold",
@@ -3899,7 +3909,7 @@
       },
       "9372682584252": {
         "title": "Nike Air More Uptempo '96 - Black/White",
-        "handle": "nike-air-more-uptempo-96-black-white-1",
+        "handle": "nike-air-more-uptempo-96-black-white",
         "in_stock": true
       },
       "9261911965884": {
@@ -4529,7 +4539,7 @@
       },
       "9502888919228": {
         "title": "Nike Kobe 10 Protro 'Halo' - White/Multi",
-        "handle": "nike-kobe-10-protro-halo-white-multi-1",
+        "handle": "nike-kobe-10-protro-halo-white-multi",
         "in_stock": false
       },
       "9404556148924": {
@@ -4782,11 +4792,6 @@
         "handle": "crocs-classic-exp-deep-olive-gum",
         "in_stock": true
       },
-      "9497487114428": {
-        "title": "Nike Kobe V Protro 'Dodgers' - Hyper Royal/Wolf Grey",
-        "handle": "nike-kobe-v-protro-dodgers-hyper-royal-wolf-grey",
-        "in_stock": false
-      },
       "9341285597372": {
         "title": "Air Jordan 1 Low SE - Off Noir/Sail",
         "handle": "air-jordan-1-low-se-off-noir-sail",
@@ -5001,11 +5006,6 @@
         "title": "KidSuper Velour Stars Rugby - Brown",
         "handle": "kidsuper-velour-stars-rugby-brown",
         "in_stock": true
-      },
-      "9043721322684": {
-        "title": "Adidas Predator 94 ST - Iron Metallic/Matte Silver",
-        "handle": "adidas-predator-94-st-iron-metallic-matte-silver",
-        "in_stock": false
       }
     },
     "https://www.kickgame.co.uk": {
@@ -8768,8 +8768,20 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Purple Brand Headlights Tee - Black\nhttps://sneakerpolitics.com/products/purple-brand-headlights-tee-black",
-      "detected_at": "2026-08-21T16:45:02.254531+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD\nhttps://undefeated.com/products/nike-air-griffey-max-1-midnight-navy-team-gold",
+      "detected_at": "2026-08-21T17:49:22.853862+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SAUCONY TRAINER 80 - ROYAL/ WHITE\nhttps://undefeated.com/products/saucony-trainer-80-royal-white",
+      "detected_at": "2026-08-21T17:49:22.853862+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: SHAI 001 PREMIUM OX VINTAGE - SLITHER\nhttps://undefeated.com/products/shai-001-premium-ox-vintage-slither",
+      "detected_at": "2026-08-21T17:49:22.853862+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low OG 'Laser' (GS) - Black/Varsity Red\nhttps://sneakerpolitics.com/products/air-jordan-1-low-og-laser-gs-black-varsity-red",
+      "detected_at": "2026-08-21T17:49:22.853862+00:00"
     }
   ]
 }
