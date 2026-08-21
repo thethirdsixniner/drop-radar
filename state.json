@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286677827712": {
+        "title": "Nike Air Tech Challenge II - Photon Dust / White / Dusty Cactus / Picante Red / Sundial / Blue Tint",
+        "handle": "nkix4084-025",
+        "in_stock": true
+      },
+      "8286677860480": {
+        "title": "New Balance 750 - Outfield / Angora",
+        "handle": "nwbu7507jh",
+        "in_stock": true
+      },
       "8286656462976": {
         "title": "ASICS x VandyThePink GEL KAYANO 12.1 - Antique White / Multi-Color",
         "handle": "asi1203b302-100",
@@ -1229,7 +1239,7 @@
       "8286650204288": {
         "title": "Kith for BMW Umbrella - Sandrift",
         "handle": "khla150116-104",
-        "in_stock": true
+        "in_stock": false
       },
       "8286650138752": {
         "title": "Kith for BMW Mug - Cinnabar",
@@ -1240,19 +1250,14 @@
         "title": "Kith for BMW 1981 M1 E26 Poster - Multi",
         "handle": "khla150105-906",
         "in_stock": true
-      },
-      "8286650073216": {
-        "title": "Kith for BMW Umbrella - Multi",
-        "handle": "khla150115-906",
-        "in_stock": false
-      },
-      "8286650040448": {
-        "title": "Kith for BMW Mug - Vitality",
-        "handle": "khla150095-345",
-        "in_stock": false
       }
     },
     "https://undefeated.com": {
+      "6702706655493": {
+        "title": "NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE",
+        "handle": "nike-air-more-uptempo-96-black-white",
+        "in_stock": true
+      },
       "6702706065669": {
         "title": "NIKE AIR MAX GOADOME LOW SP - BLACK",
         "handle": "nike-air-max-goadome-low-sp-black",
@@ -2497,14 +2502,19 @@
         "title": "SAUCONY TRAINER 80 - BLACK/ WHITE",
         "handle": "saucony-trainer-80-black-white",
         "in_stock": true
-      },
-      "6702619689221": {
-        "title": "NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD",
-        "handle": "nike-air-griffey-max-1-midnight-navy-team-gold",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11023419605259": {
+        "title": "Salomon XT-6 GTX",
+        "handle": "salomon-xt6-gtx-white-pepper-silver-sage",
+        "in_stock": true
+      },
+      "11023279358219": {
+        "title": "Mizuno Wave Mustang 4 LS",
+        "handle": "mizuno-wave-mustang-4-ls-foggy-dew-harbor-mist-silver",
+        "in_stock": true
+      },
       "11020805046539": {
         "title": "Adidas Adistar Control 5 W",
         "handle": "adidas-adistar-control-5-w-warm-vanilla-clear-pink-silver-metallic",
@@ -2898,7 +2908,7 @@
       "10744392810763": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-wonder-beige-aluminum-wonder-beige",
-        "in_stock": true
+        "in_stock": false
       },
       "10744388256011": {
         "title": "Adidas SL 72 OG W",
@@ -2958,7 +2968,7 @@
       "10655646810379": {
         "title": "Adidas BRMD W",
         "handle": "adidas-brmd-w-linen-grey-wonder-taupe-wonder-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10662892011787": {
         "title": "Ugg Wmns Tazz II",
@@ -3744,16 +3754,6 @@
         "title": "New Balance 1906R",
         "handle": "new-balance-1906r-dark-silver-metallic",
         "in_stock": true
-      },
-      "10823814480139": {
-        "title": "Adidas Gazelle Sala",
-        "handle": "adidas-gazelle-sala-trace-khaki-team-victory-red-gum",
-        "in_stock": true
-      },
-      "10170260422923": {
-        "title": "Adidas BRMD W",
-        "handle": "adidas-brmd-w-semi-green-spark-linen-green-silver-green",
-        "in_stock": false
       }
     },
     "https://sneakerpolitics.com": {
@@ -3975,7 +3975,7 @@
       "9138926354620": {
         "title": "Diet Starts Monday Winners L/S Tee - Vintage Black",
         "handle": "diet-starts-monday-winners-l-s-tee-vintage-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9470933336252": {
         "title": "Politics x L/AB c/o Off-White Staff Tee - Black",
@@ -6261,6 +6261,26 @@
       }
     },
     "https://www.afew-store.com": {
+      "10597402181898": {
+        "title": "Lacoste OVERSHIRT",
+        "handle": "lacoste-overshirt-dark-navy-blue",
+        "in_stock": false
+      },
+      "10597401067786": {
+        "title": "Carhartt WIP Shortsleeve Vista T-Shirt",
+        "handle": "carhartt-wip-shortsleeve-vista-t-shirt-tobacco",
+        "in_stock": false
+      },
+      "10597398937866": {
+        "title": "Carhartt WIP Brandon Pant",
+        "handle": "carhartt-wip-brandon-pant-palisander",
+        "in_stock": false
+      },
+      "10597397266698": {
+        "title": "Carhartt WIP Brandon Pant",
+        "handle": "carhartt-wip-brandon-pant-styx",
+        "in_stock": false
+      },
       "10597149966602": {
         "title": "Air Jordan 1 Low OG",
         "handle": "air-jordan-1-low-og-black-varsity-red-summit-white",
@@ -7489,26 +7509,6 @@
       "10580319305994": {
         "title": "adidas Originals WMNS HANDBALL SPEZIAL",
         "handle": "adidas-originals-wmns-handball-spezial-ricgrn-warvan-goldmt",
-        "in_stock": true
-      },
-      "10580319109386": {
-        "title": "Clarks Originals WMNS Wallabee",
-        "handle": "clarks-originals-wmns-wallabee-chocolate-suede",
-        "in_stock": true
-      },
-      "10580318650634": {
-        "title": "Clarks Originals WMNS Meare Walla",
-        "handle": "clarks-originals-wmns-meare-walla-chocolate-sde",
-        "in_stock": true
-      },
-      "10580317339914": {
-        "title": "adidas Originals ADIMULE",
-        "handle": "adidas-originals-adimule-cblack-cblack-ftwwht",
-        "in_stock": true
-      },
-      "10580317110538": {
-        "title": "Asics GEL-1130",
-        "handle": "asics-gel-1130-cream-pink-cloud",
         "in_stock": true
       }
     },
@@ -8768,28 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith for BMW Umbrella - Sandrift\nhttps://kith.com/products/khla150116-104",
-      "detected_at": "2026-08-21T13:51:20.542986+00:00"
+      "message": "🆕 **New drop** at Kith: Nike Air Tech Challenge II - Photon Dust / White / Dusty Cactus / Picante Red / Sundial / Blue Tint\nhttps://kith.com/products/nkix4084-025",
+      "detected_at": "2026-08-21T14:37:51.150582+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Adistar Control 5 W\nhttps://www.asphaltgold.de/products/adidas-adistar-control-5-w-warm-vanilla-clear-pink-silver-metallic",
-      "detected_at": "2026-08-21T13:51:20.542986+00:00"
+      "message": "🆕 **New drop** at Kith: New Balance 750 - Outfield / Angora\nhttps://kith.com/products/nwbu7507jh",
+      "detected_at": "2026-08-21T14:37:51.150582+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas BW Army\nhttps://www.asphaltgold.de/products/c-core-black-core-black-core-black",
-      "detected_at": "2026-08-21T13:51:20.542986+00:00"
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE\nhttps://undefeated.com/products/nike-air-more-uptempo-96-black-white",
+      "detected_at": "2026-08-21T14:37:51.150582+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Handball Spezial Loafer\nhttps://www.asphaltgold.de/products/adidas-handball-spezial-loafer-fox-brown-fox-brow-dark-brown",
-      "detected_at": "2026-08-21T13:51:20.542986+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-6 GTX\nhttps://www.asphaltgold.de/products/salomon-xt6-gtx-white-pepper-silver-sage",
+      "detected_at": "2026-08-21T14:37:51.150582+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Superstar II *Ripple*\nhttps://www.asphaltgold.de/products/adidas-superstar-ii-ripple-core-white-core-white-warm-sandstone",
-      "detected_at": "2026-08-21T13:51:20.542986+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'White Vizired'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-white-vizired",
-      "detected_at": "2026-08-21T13:51:20.542986+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Mizuno Wave Mustang 4 LS\nhttps://www.asphaltgold.de/products/mizuno-wave-mustang-4-ls-foggy-dew-harbor-mist-silver",
+      "detected_at": "2026-08-21T14:37:51.150582+00:00"
     }
   ]
 }
