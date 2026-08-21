@@ -214,7 +214,7 @@
       "8286667735168": {
         "title": "NAHMIAS Warm Up Pant - Seaweed Green",
         "handle": "w111-p50-304",
-        "in_stock": true
+        "in_stock": false
       },
       "8286667571328": {
         "title": "NAHMIAS Warm Up Jacket - Seaweed Green",
@@ -549,7 +549,7 @@
       "8286667112576": {
         "title": "Engineered Garments Cotton Heavy Shadow Plaid Flannel Work Shirt - Khaki",
         "handle": "engtx043-zt253",
-        "in_stock": true
+        "in_stock": false
       },
       "8286667276416": {
         "title": "Engineered Garments Cotton Flannel Plaid Work Shirt - Brown / Black Plaid",
@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6688118276357": {
+        "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
+        "handle": "undefeated-x-bunbuku-tapered-trash-can",
+        "in_stock": true
+      },
       "6702665105669": {
         "title": "UNDEFEATED REVERSIBLE TRUCKER JACKET",
         "handle": "undefeated-reversible-trucker-jacket",
@@ -2497,14 +2502,14 @@
         "title": "CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK",
         "handle": "chuck-70-hi-obsidian-egret-black",
         "in_stock": true
-      },
-      "6677432467717": {
-        "title": "NEW BALANCE 2002R - STEEL",
-        "handle": "new-balance-2002r-steel",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "10867374096651": {
+        "title": "New Balance 204L",
+        "handle": "new-balance-204l-dark-silver-metallic-slate-grey",
+        "in_stock": true
+      },
       "10862754234635": {
         "title": "Nike Vomero Plus",
         "handle": "nike-vomero-plus-platinum-tint-reflect-silver-grey-fog",
@@ -3749,11 +3754,6 @@
         "title": "Vans OTW x Neighborhood OTW Authentic 44",
         "handle": "vans-otw-x-neighborhood-otw-authentic-44-natural",
         "in_stock": true
-      },
-      "11020713722123": {
-        "title": "Puma x A$AP Rocky Straycat",
-        "handle": "puma-x-aap-rocky-straycat-puma-black-formula-red",
-        "in_stock": false
       }
     },
     "https://sneakerpolitics.com": {
@@ -3887,25 +3887,10 @@
         "handle": "womens-air-jordan-4-retro-pearl-pink-iced-carmine",
         "in_stock": true
       },
-      "9293975978172": {
-        "title": "Ice Cream x Reebok Board Flip 'Pink Lemonade' - Red/Pink",
-        "handle": "ice-cream-x-reebok-board-flip-pink-lemonade-red-pink",
-        "in_stock": false
-      },
-      "9170019614908": {
-        "title": "Converse SHAI 001 - Camo/Camo",
-        "handle": "converse-shai-001-camo-camo",
-        "in_stock": false
-      },
       "9095675969724": {
         "title": "Nike Air Flightposite 'Jason Kidd' - Multi-Color/Midnight Navy",
         "handle": "nike-air-flightposite-jason-kidd-multi-color-midnight-navy",
         "in_stock": true
-      },
-      "9255875281084": {
-        "title": "Nike Air DT Max '96 Low - Black/Metallic Gold",
-        "handle": "nike-air-dt-max-96-low-black-metallic-gold",
-        "in_stock": false
       },
       "9265294016700": {
         "title": "Jordan 1 Mid (PS) - Enigma Stone/Olive Grey",
@@ -3926,11 +3911,6 @@
         "title": "Timberland Textured Premium 6\" Lace Up Boot - Olive Full Grain",
         "handle": "timberland-textured-premium-6-lace-up-boot-olive-full-grain",
         "in_stock": true
-      },
-      "9303419322556": {
-        "title": "Nike Air Max 90 'Laser 90' - Zest/Black",
-        "handle": "nike-air-max-90-laser-90-zest-black",
-        "in_stock": false
       },
       "9122037137596": {
         "title": "New Balance Made in USA 992 - Sea Stone/Green Apple",
@@ -5005,6 +4985,26 @@
       "9279621234876": {
         "title": "KidSuper Face Camo Wide Leg Jean - Black",
         "handle": "kidsuper-face-camo-wide-leg-jean-black",
+        "in_stock": true
+      },
+      "9279597576380": {
+        "title": "KidSuper Velour Stars Rugby - Brown",
+        "handle": "kidsuper-velour-stars-rugby-brown",
+        "in_stock": true
+      },
+      "9043721322684": {
+        "title": "Adidas Predator 94 ST - Iron Metallic/Matte Silver",
+        "handle": "adidas-predator-94-st-iron-metallic-matte-silver",
+        "in_stock": false
+      },
+      "9339718533308": {
+        "title": "Anta KAI 2 Mule - Silver/Black",
+        "handle": "anta-kai-2-mule-silver-black",
+        "in_stock": true
+      },
+      "9339714797756": {
+        "title": "Anta KAI 2 Mule - Yellow/White",
+        "handle": "anta-kai-2-mule-yellow-white",
         "in_stock": true
       }
     },
@@ -8768,134 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Vans OTW x Neighborhood OTW Authentic 44\nhttps://www.asphaltgold.de/products/vans-otw-x-neighborhood-otw-authentic-44-black",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-740-pumpernickel-sea-salt",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-mushroom",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Arizona Suede\nhttps://www.asphaltgold.de/products/puma-arizona-suede-chocolate-fondue-chocolate-gum",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance Quilted Bomber\nhttps://www.asphaltgold.de/products/new-balance-quilted-bomber-dark-night",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Singlet\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-singlet-collegiate-geen-aurora-ivy",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Hoodie\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-hoodie-cream-white",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Short Tights\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-short-tights-black",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Singlet\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-singlet-carbon-black",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 1906R\nhttps://www.asphaltgold.de/products/new-balance-1906r-dark-silver-metallic",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Sala\nhttps://www.asphaltgold.de/products/adidas-gazelle-sala-trace-khaki-team-victory-red-gum",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Stan Smith Lo Pro W\nhttps://www.asphaltgold.de/products/adidas-stan-smith-lo-pro-w-footwear-white-footwear-white-footwear-white",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Quantum™ 360 I\nhttps://www.asphaltgold.de/products/asics-gelquantum-360-i-graphite-grey-hazard-green",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 471\nhttps://www.asphaltgold.de/products/new-balance-u471am-sea-salt-tea-green",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Low Pro W\nhttps://www.asphaltgold.de/products/adidas-gazelle-low-pro-w-clear-sky-footwear-white-gum-3",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W *Leather / Suede*\nhttps://www.asphaltgold.de/products/autry-medalist-w-leather-suede-white-peach-pink",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Phileo x Novesta Kix Lace Ballerina\nhttps://www.asphaltgold.de/products/phileo-x-novesta-kix-lace-ballerina-black",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry College Check Sweatshirt\nhttps://www.asphaltgold.de/products/autry-college-check-sweatshirt-dark-grey-melange",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry College Check Sweatshirt\nhttps://www.asphaltgold.de/products/autry-college-check-sweatshirt-melange-make-up",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Omni 9\nhttps://www.asphaltgold.de/products/saucony-pro-grid-omni-9-sage",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans Premium Authentic 44 LX *Combat*\nhttps://www.asphaltgold.de/products/vans-premium-authentic-44-lx-combat-field-green",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-footwear-white-magic-mauve-quiet-crimson",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans Classic Slip-On 98 LX\nhttps://www.asphaltgold.de/products/vans-classic-slipon-camo",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans Premium Authentic 44 LX *Combat*\nhttps://www.asphaltgold.de/products/vans-premium-authentic-44-lx-combat-field-black",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Logo Rugby Sweater\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-logo-rugby-sweater-polo-black",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Era MLB San Diego Padres Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-san-diego-padres-washed-contrast-9twenty-cap-denim-brown-gold",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Relaxed Fit Wool-Cotton Jumper\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-relaxed-fit-woolcotton-jumper-andover-cream",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Kai Serif Logo Socks - White/Red\nhttps://sneakerpolitics.com/products/politics-kai-serif-logo-socks-white-red",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Crystal Sand/Trace Brown\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-crystal-sand-trace-brown",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Air Jordan 3 'Laser' Sneakers Phantom / Sail\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-3-retro-laser-multicolor-j368518",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Women's Air Max Dolce Sneakers Light Magenta\nhttps://www.slamjam.com/products/nike-footwear-wmns-w-air-max-dolce-pink-j368354",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Air Max Goadome Low Holey Sneakers Black\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-goadome-low-sp-black-j369065",
-      "detected_at": "2026-08-21T22:34:51.914005+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Asphaltgold: Nike Vomero Plus\nhttps://www.asphaltgold.de/products/nike-vomero-plus-platinum-tint-reflect-silver-grey-fog",
       "detected_at": "2026-08-21T23:01:21.453378+00:00"
     },
@@ -9018,6 +8890,26 @@
     {
       "message": "🆕 **New drop** at Asphaltgold: C.P. Company Extra Fine Merino Wool Knit Logo Beanie\nhttps://www.asphaltgold.de/products/cp-company-extra-fine-merino-wool-knit-logo-beanie-black",
       "detected_at": "2026-08-21T23:01:21.453378+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED x BUNBUKU TAPERED TRASH CAN\nhttps://undefeated.com/products/undefeated-x-bunbuku-tapered-trash-can",
+      "detected_at": "2026-08-21T23:40:03.603687+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 204L\nhttps://www.asphaltgold.de/products/new-balance-204l-dark-silver-metallic-slate-grey",
+      "detected_at": "2026-08-21T23:40:03.603687+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: KidSuper Velour Stars Rugby - Brown\nhttps://sneakerpolitics.com/products/kidsuper-velour-stars-rugby-brown",
+      "detected_at": "2026-08-21T23:40:03.603687+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Anta KAI 2 Mule - Silver/Black\nhttps://sneakerpolitics.com/products/anta-kai-2-mule-silver-black",
+      "detected_at": "2026-08-21T23:40:03.603687+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Anta KAI 2 Mule - Yellow/White\nhttps://sneakerpolitics.com/products/anta-kai-2-mule-yellow-white",
+      "detected_at": "2026-08-21T23:40:03.603687+00:00"
     }
   ]
 }
