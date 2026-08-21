@@ -2908,7 +2908,7 @@
       "10792983068939": {
         "title": "Adidas Japan W",
         "handle": "adidas-japan-w-shadow-olive-cream-white-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10798418002187": {
         "title": "Adidas Adiracer Lo W",
@@ -3028,7 +3028,7 @@
       "10817412530443": {
         "title": "Metalwood Mini Metal Logo Thermal Shirt",
         "handle": "metalwood-mini-metal-logo-thermal-shirt-tar",
-        "in_stock": true
+        "in_stock": false
       },
       "10747563475211": {
         "title": "Arte Antwerp Arte Blocks Shirt",
@@ -3078,7 +3078,7 @@
       "10567363559691": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-clear-sky-cream-white-warm-sand",
-        "in_stock": true
+        "in_stock": false
       },
       "10564691853579": {
         "title": "Adidas Gazelle Indoor",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9346554822844": {
+        "title": "Nike Ja 4 'Nightmare' - Obsidian/Voltage Green",
+        "handle": "nike-ja-4-nightmare-obsidian-voltage-green",
+        "in_stock": true
+      },
       "9294116847804": {
         "title": "Air Jordan 5 Retro (GS) - White/Metallic Silver",
         "handle": "air-jordan-5-retro-gs-white-metallic-silver",
@@ -3791,11 +3796,6 @@
         "title": "Air Jordan 1 Low OG 'Laser' (GS) - Black/Varsity Red",
         "handle": "air-jordan-1-low-og-laser-gs-black-varsity-red",
         "in_stock": true
-      },
-      "9364511981756": {
-        "title": "Vans OTW Era 95 DST 'Relic' - Checkerboard",
-        "handle": "vans-otw-era-95-dst-relic-checkerboard",
-        "in_stock": false
       },
       "8952025481404": {
         "title": "Purple Brand Headlights Tee - Black",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Ja 4 'Nightmare' - Obsidian/Voltage Green\nhttps://sneakerpolitics.com/products/nike-ja-4-nightmare-obsidian-voltage-green",
+      "detected_at": "2026-08-21T20:41:54.115158+00:00"
+    }
+  ]
 }
