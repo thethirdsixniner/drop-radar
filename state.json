@@ -2331,7 +2331,7 @@
       "6700127944965": {
         "title": "ASICS X MIN-NANO GEL-NIMBUS 10.1 - WHITE/ SHEET ROCK",
         "handle": "asics-x-min-nano-gel-nimbus-10-1-white-sheet-rock",
-        "in_stock": true
+        "in_stock": false
       },
       "6683941044485": {
         "title": "SALOMON ACS PRO - WHITE/ VANILLAICE/  LUNARROCK",
@@ -2655,11 +2655,6 @@
         "handle": "adidas-samba-xlg-footwear-white-blue-royal-clear-granite",
         "in_stock": true
       },
-      "10746824982795": {
-        "title": "Adidas Gazelle Indoor Pro",
-        "handle": "adidas-gazelle-indoor-pro-supplier-color-shock-yellow-charcoal",
-        "in_stock": false
-      },
       "10724688691467": {
         "title": "HOKA Clifton One9",
         "handle": "hoka-clifton-one9-ash-grey-silver",
@@ -2669,16 +2664,6 @@
         "title": "Saucony Pro Grid Omni 9",
         "handle": "saucony-pro-grid-omni-9-beige-silver",
         "in_stock": true
-      },
-      "10731736367371": {
-        "title": "New Balance 204L",
-        "handle": "new-balance-u204lswa-silver-metallic-flat-taupe",
-        "in_stock": false
-      },
-      "10727157301515": {
-        "title": "Nike\tSolo Swoosh Fleece Crewneck",
-        "handle": "nike-solo-swoosh-fleece-crewneck-celestine-blue-white",
-        "in_stock": false
       },
       "10867287261451": {
         "title": "Arte Antwerp Heart Logo Cap",
@@ -2855,11 +2840,6 @@
         "handle": "puma-deviate-nitro-sunny-lime-puma-black",
         "in_stock": true
       },
-      "10833221288203": {
-        "title": "Adidas Samba OG W *Rhinestone*",
-        "handle": "adidas-samba-og-w-rhinestone-crystal-white-chalk-white-silver-metallic",
-        "in_stock": false
-      },
       "10809185370379": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-charcoal-cofmetallic-aurora-black",
@@ -2905,16 +2885,6 @@
         "handle": "adidas3stripes-ringer-tee-white",
         "in_stock": true
       },
-      "10792983068939": {
-        "title": "Adidas Japan W",
-        "handle": "adidas-japan-w-shadow-olive-cream-white-gold-metallic",
-        "in_stock": false
-      },
-      "10798418002187": {
-        "title": "Adidas Adiracer Lo W",
-        "handle": "adidas-adiracer-lo-w-dark-brown-dark-brown-cream-white",
-        "in_stock": false
-      },
       "10866647433483": {
         "title": "Adidas Y-3 Elite 5 Baseball Shirt",
         "handle": "adidas-y3-elite-5-baseball-shirt-black",
@@ -2945,11 +2915,6 @@
         "handle": "adidas-samba-og-fox-brown-off-white-gum-4",
         "in_stock": true
       },
-      "10738564759819": {
-        "title": "Adidas Samba OG",
-        "handle": "adidas-samba-og-aluminum-medium-dark-khaki-gum-5",
-        "in_stock": false
-      },
       "10792253030667": {
         "title": "Autry Windspin W *Pony / Nylon*",
         "handle": "autry-windspin-w-pony-nylon-animal-ivory",
@@ -2964,21 +2929,6 @@
         "title": "Adidas SPZL GS II",
         "handle": "adidas-spzl-gs-ii-crystal-white-stone-grey-one",
         "in_stock": true
-      },
-      "10788152770827": {
-        "title": "Adidas Borg Fleece Teamgeist Tracktop",
-        "handle": "adidas-borg-fleece-teamgeist-tracktop-black",
-        "in_stock": false
-      },
-      "10746829013259": {
-        "title": "Adidas Tobacco",
-        "handle": "adidas-tobacco-core-black-dark-brown-gum-5",
-        "in_stock": false
-      },
-      "10744392810763": {
-        "title": "Adidas Handball Spezial",
-        "handle": "adidas-handball-spezial-wonder-beige-aluminum-wonder-beige",
-        "in_stock": false
       },
       "10744388256011": {
         "title": "Adidas SL 72 OG W",
@@ -3005,11 +2955,6 @@
         "handle": "adidas-gazelle-low-pro-w-grey-two-footwear-white-gum-3",
         "in_stock": true
       },
-      "10795478941963": {
-        "title": "Ugg Wmns Classic Ultra Mini Dipper",
-        "handle": "ugg-wmns-classic-ultra-mini-dipper-chestnut",
-        "in_stock": false
-      },
       "10653542285579": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-almost-pink-blue-spark-gum",
@@ -3025,35 +2970,15 @@
         "handle": "salomon-xtquest-gtx-almond-milk-aloe-wash-vintage-khaki",
         "in_stock": true
       },
-      "10817412530443": {
-        "title": "Metalwood Mini Metal Logo Thermal Shirt",
-        "handle": "metalwood-mini-metal-logo-thermal-shirt-tar",
-        "in_stock": false
-      },
       "10747563475211": {
         "title": "Arte Antwerp Arte Blocks Shirt",
         "handle": "arte-antwerp-arte-blocks-shirt-striped",
         "in_stock": true
       },
-      "10655646810379": {
-        "title": "Adidas BRMD W",
-        "handle": "adidas-brmd-w-linen-grey-wonder-taupe-wonder-silver",
-        "in_stock": false
-      },
-      "10662892011787": {
-        "title": "Ugg Wmns Tazz II",
-        "handle": "ugg-wmns-tazz-ii-sand",
-        "in_stock": false
-      },
       "10732511068427": {
         "title": "The North Face Denali Etip Glove",
         "handle": "the-north-face-denali-etip-glove-tnf-black",
         "in_stock": true
-      },
-      "10654617272587": {
-        "title": "Adidas SC Powerphase Consortium",
-        "handle": "adidas-sc-powerphase-consortium-off-white-core-black-crew-white",
-        "in_stock": false
       },
       "10672202187019": {
         "title": "The North Face Red Box Nylon Hat",
@@ -3075,20 +3000,10 @@
         "handle": "adidas-handball-spezial-hazey-copper-off-white-wonder-taupe",
         "in_stock": true
       },
-      "10567363559691": {
-        "title": "Adidas Handball Spezial",
-        "handle": "adidas-handball-spezial-clear-sky-cream-white-warm-sand",
-        "in_stock": false
-      },
       "10564691853579": {
         "title": "Adidas Gazelle Indoor",
         "handle": "adidas-gazelle-indoor-brown-desert-wonder-white-magic-beige",
         "in_stock": true
-      },
-      "10587433304331": {
-        "title": "Adidas Montreal RM",
-        "handle": "adidas-montreal-rm-core-black-footwear-white-gum-5",
-        "in_stock": false
       },
       "10197960098059": {
         "title": "Adidas Gazelle Indoor W",
@@ -3105,11 +3020,6 @@
         "handle": "adidas-samba-xlg-putty-grey-collegiate-green-gum-3",
         "in_stock": true
       },
-      "8932928389387": {
-        "title": "Adidas Mundial FC",
-        "handle": "adidas-mundial-fc-footwear-white-core-black-gum-3",
-        "in_stock": false
-      },
       "8876357648651": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-footwear-white-core-black-footwear-white",
@@ -3125,25 +3035,10 @@
         "handle": "adidas-handball-spezial-w-lucid-red-glow-blue-gum-1",
         "in_stock": true
       },
-      "10122494443787": {
-        "title": "Adidas Tobacco",
-        "handle": "adidas-tobacco-team-victory-red-power-red-gum-4",
-        "in_stock": false
-      },
-      "10647848550667": {
-        "title": "Adidas SL 72 RS",
-        "handle": "adidas-sl-72-rs-royal-blue-crew-orange-off-white",
-        "in_stock": false
-      },
       "10477276463371": {
         "title": "Adidas München W",
         "handle": "adidas-mnchen-w-wonder-mauve-off-white-silver-metallic",
         "in_stock": true
-      },
-      "8932937400587": {
-        "title": "Adidas Campus 00s W",
-        "handle": "adidas-campus-00s-w-linen-green-core-black-footwear-white",
-        "in_stock": false
       },
       "10218336518411": {
         "title": "Adidas Handball Spezial",
@@ -3195,20 +3090,10 @@
         "handle": "adidas-gazelle-w-green-semi-flash-aqua-gold-metallic",
         "in_stock": true
       },
-      "10170526105867": {
-        "title": "Adidas Samba OG W",
-        "handle": "adidas-samba-og-w-footwear-white-off-white-gum-3",
-        "in_stock": false
-      },
       "10170176831755": {
         "title": "Adidas Gazelle Bold W",
         "handle": "adidas-gazelle-bold-w-warm-vanilla-silver-pebble-earth-strata",
         "in_stock": true
-      },
-      "10534363660555": {
-        "title": "Autry Reelwind Low",
-        "handle": "autry-reelwind-low-ecru-rubwine",
-        "in_stock": false
       },
       "8996545495307": {
         "title": "Asphaltgold Pleated Shorts",
@@ -3270,16 +3155,6 @@
         "handle": "adidas-beckenbauer-track-top-aurora-coffee",
         "in_stock": true
       },
-      "10886298665227": {
-        "title": "Puma Speedcat Ballet Venus",
-        "handle": "puma-speedcat-ballet-venus-jasmine-flower-warm-white",
-        "in_stock": false
-      },
-      "10860685099275": {
-        "title": "Mizuno Wave Rider 10 Sport",
-        "handle": "mizuno-wave-rider-10-sport-harbor-mist-black-dazzling-blue",
-        "in_stock": false
-      },
       "10694657966347": {
         "title": "Nike Pegasus Premium SP",
         "handle": "nike-pegasus-premium-sp-mushroom-metallic-silver-white",
@@ -3289,11 +3164,6 @@
         "title": "Sunflower Mike Shorts",
         "handle": "sunflower-mike-shorts-black",
         "in_stock": true
-      },
-      "10885817696523": {
-        "title": "Gramicci Ultra-Light Tech Cap",
-        "handle": "gramicci-ultralight-tech-cap-concrete",
-        "in_stock": false
       },
       "10714025591051": {
         "title": "Carhartt WIP American Script Sweat",
@@ -3320,11 +3190,6 @@
         "handle": "gramicci-gpant-olive",
         "in_stock": true
       },
-      "10840735351051": {
-        "title": "Carhartt WIP Mitch Jacket",
-        "handle": "carhartt-wip-mitch-jacket-brass-dusky-canvas",
-        "in_stock": false
-      },
       "10839376920843": {
         "title": "New Balance 90/60",
         "handle": "new-balance-9060-truffle-salt-timberwolf",
@@ -3344,16 +3209,6 @@
         "title": "Nike Pegasus Premium",
         "handle": "nike-pegasus-premium-anthracite-pure-platinum-ashen-slate",
         "in_stock": true
-      },
-      "8812816924939": {
-        "title": "New Balance U1906LAE",
-        "handle": "new-balance-u1906lae-magnet",
-        "in_stock": false
-      },
-      "10539156930827": {
-        "title": "Autry Reelwind Low",
-        "handle": "autry-reelwind-low-space-silver",
-        "in_stock": false
       },
       "10860642533643": {
         "title": "Autry Reelwind Low *Suede / Net*",
@@ -3395,11 +3250,6 @@
         "handle": "gramicci-thermal-fleece-beanie-heather-grey",
         "in_stock": true
       },
-      "10659526344971": {
-        "title": "Adidas Venice Wind Jacket",
-        "handle": "adidas-venice-wind-jacket-tech-mineral",
-        "in_stock": false
-      },
       "9792035881227": {
         "title": "Carhartt WIP Hartt's Football Short",
         "handle": "carhartt-wip-hartts-football-short-heart-train-jacquard-bluebird",
@@ -3419,11 +3269,6 @@
         "title": "Perplex Core Shorts",
         "handle": "perplex-core-shorts-black",
         "in_stock": true
-      },
-      "8443158266123": {
-        "title": "Lacoste Organic Cotton Twill Cap",
-        "handle": "lacoste-organic-cotton-twill-cap-black",
-        "in_stock": false
       },
       "11019601314059": {
         "title": "Our Legacy Full Zip Hoodie",
@@ -3574,11 +3419,6 @@
         "title": "Adidas x Willy Chavarria Satin Bomber Jacket",
         "handle": "adidas-x-willy-chavarria-satin-bomber-jacket-black",
         "in_stock": true
-      },
-      "10795610112267": {
-        "title": "Carhartt WIP Brady Pant",
-        "handle": "carhartt-wip-brady-pant-black-rinsed",
-        "in_stock": false
       },
       "10795491885323": {
         "title": "Carhartt WIP Brandon Pant",
@@ -3754,9 +3594,179 @@
         "title": "Vans OTW x Neighborhood OTW Authentic 44",
         "handle": "vans-otw-x-neighborhood-otw-authentic-44-natural",
         "in_stock": true
+      },
+      "11020713722123": {
+        "title": "Puma x A$AP Rocky Straycat",
+        "handle": "puma-x-aap-rocky-straycat-puma-black-formula-red",
+        "in_stock": false
+      },
+      "11019601051915": {
+        "title": "Vans OTW x Neighborhood OTW Authentic 44",
+        "handle": "vans-otw-x-neighborhood-otw-authentic-44-black",
+        "in_stock": true
+      },
+      "11016289353995": {
+        "title": "New Balance 991 v2 *Made in England*",
+        "handle": "new-balance-991-v2-made-in-england-insignia-blue",
+        "in_stock": false
+      },
+      "11016288108811": {
+        "title": "New Balance 991 v2 *Made in England*",
+        "handle": "new-balance-991-v2-made-in-england-rose-taupe",
+        "in_stock": false
+      },
+      "11016283521291": {
+        "title": "New Balance 740",
+        "handle": "new-balance-740-pumpernickel-sea-salt",
+        "in_stock": true
+      },
+      "11016276934923": {
+        "title": "New Balance 90/60",
+        "handle": "new-balance-9060-mushroom",
+        "in_stock": true
+      },
+      "11016290304267": {
+        "title": "New Balance Gator Run",
+        "handle": "new-balance-gator-run-bark-linen",
+        "in_stock": false
+      },
+      "11018922656011": {
+        "title": "Puma Arizona Suede",
+        "handle": "puma-arizona-suede-chocolate-fondue-chocolate-gum",
+        "in_stock": true
+      },
+      "11008877986059": {
+        "title": "New Balance Quilted Bomber",
+        "handle": "new-balance-quilted-bomber-dark-night",
+        "in_stock": true
+      },
+      "11015199949067": {
+        "title": "Adidas\tAdizero NYC Running Singlet",
+        "handle": "adidasadizero-nyc-running-singlet-collegiate-geen-aurora-ivy",
+        "in_stock": true
+      },
+      "11015197360395": {
+        "title": "Adidas\tAdizero NYC Running Hoodie",
+        "handle": "adidasadizero-nyc-running-hoodie-cream-white",
+        "in_stock": true
+      },
+      "11016635416843": {
+        "title": "Adidas\tAdizero NYC Running Short Tights",
+        "handle": "adidasadizero-nyc-running-short-tights-black",
+        "in_stock": true
+      },
+      "11016566571275": {
+        "title": "Adidas\tAdizero NYC Running Singlet",
+        "handle": "adidasadizero-nyc-running-singlet-carbon-black",
+        "in_stock": true
+      },
+      "10833409081611": {
+        "title": "New Balance 1906R",
+        "handle": "new-balance-1906r-dark-silver-metallic",
+        "in_stock": true
+      },
+      "10823814480139": {
+        "title": "Adidas Gazelle Sala",
+        "handle": "adidas-gazelle-sala-trace-khaki-team-victory-red-gum",
+        "in_stock": true
+      },
+      "10736926753035": {
+        "title": "Adidas Stan Smith Lo Pro W",
+        "handle": "adidas-stan-smith-lo-pro-w-footwear-white-footwear-white-footwear-white",
+        "in_stock": true
+      },
+      "10660673159435": {
+        "title": "Asics GEL-Quantum™ 360 I",
+        "handle": "asics-gelquantum-360-i-graphite-grey-hazard-green",
+        "in_stock": true
+      },
+      "10140088467723": {
+        "title": "New Balance 471",
+        "handle": "new-balance-u471am-sea-salt-tea-green",
+        "in_stock": true
+      },
+      "10216596963595": {
+        "title": "Adidas Gazelle Low Pro W",
+        "handle": "adidas-gazelle-low-pro-w-clear-sky-footwear-white-gum-3",
+        "in_stock": true
+      },
+      "10866596577547": {
+        "title": "Autry Medalist W *Leather / Suede*",
+        "handle": "autry-medalist-w-leather-suede-white-peach-pink",
+        "in_stock": true
+      },
+      "10693878251787": {
+        "title": "Phileo x Novesta Kix Lace Ballerina",
+        "handle": "phileo-x-novesta-kix-lace-ballerina-black",
+        "in_stock": true
+      },
+      "10762847617291": {
+        "title": "Autry College Check Sweatshirt",
+        "handle": "autry-college-check-sweatshirt-dark-grey-melange",
+        "in_stock": true
+      },
+      "10762892771595": {
+        "title": "Autry College Check Sweatshirt",
+        "handle": "autry-college-check-sweatshirt-melange-make-up",
+        "in_stock": true
+      },
+      "11019094819083": {
+        "title": "Saucony Pro Grid Omni 9",
+        "handle": "saucony-pro-grid-omni-9-sage",
+        "in_stock": true
+      },
+      "11018755506443": {
+        "title": "Vans Premium Authentic 44 LX *Combat*",
+        "handle": "vans-premium-authentic-44-lx-combat-field-green",
+        "in_stock": true
+      },
+      "11019430297867": {
+        "title": "Adidas Samba OG W",
+        "handle": "adidas-samba-og-w-footwear-white-magic-mauve-quiet-crimson",
+        "in_stock": true
+      },
+      "11018741416203": {
+        "title": "Vans Classic Slip-On 98 LX",
+        "handle": "vans-classic-slipon-camo",
+        "in_stock": true
+      },
+      "11018753310987": {
+        "title": "Vans Premium Authentic 44 LX *Combat*",
+        "handle": "vans-premium-authentic-44-lx-combat-field-black",
+        "in_stock": true
+      },
+      "11016358396171": {
+        "title": "Nike Air Max Goadome Low QS *Polkadot*",
+        "handle": "nike-air-max-goadome-low-qs-polkadot-light-orewood-brown-black",
+        "in_stock": false
+      },
+      "11017721610507": {
+        "title": "Polo Ralph Lauren Logo Rugby Sweater",
+        "handle": "polo-ralph-lauren-logo-rugby-sweater-polo-black",
+        "in_stock": true
+      },
+      "11018266083595": {
+        "title": "New Era MLB San Diego Padres Washed Contrast 9TWENTY Cap",
+        "handle": "new-era-mlb-san-diego-padres-washed-contrast-9twenty-cap-denim-brown-gold",
+        "in_stock": true
+      },
+      "11018761011467": {
+        "title": "Polo Ralph Lauren Relaxed Fit Wool-Cotton Jumper",
+        "handle": "polo-ralph-lauren-relaxed-fit-woolcotton-jumper-andover-cream",
+        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9262343094460": {
+        "title": "Politics Kai Serif Logo Socks - White/Red",
+        "handle": "politics-kai-serif-logo-socks-white-red",
+        "in_stock": true
+      },
+      "9405655777468": {
+        "title": "Pharrell Williams x Adidas Adistar Jellyfish - Crystal Sand/Trace Brown",
+        "handle": "pharrell-williams-x-adidas-adistar-jellyfish-crystal-sand-trace-brown",
+        "in_stock": true
+      },
       "9346554822844": {
         "title": "Nike Ja 4 'Nightmare' - Obsidian/Voltage Green",
         "handle": "nike-ja-4-nightmare-obsidian-voltage-green",
@@ -3847,11 +3857,6 @@
         "handle": "awake-mobile-soccer-jersey-pink",
         "in_stock": true
       },
-      "9508219814076": {
-        "title": "Pharrell Williams x Adidas Adistar Jellyfish - Crystal Sand/Trace Brown",
-        "handle": "pharrell-williams-x-adidas-adistar-jellyfish-crystal-sand-trace-brown",
-        "in_stock": false
-      },
       "9177326977212": {
         "title": "Anti Social Social Club Cancelled Hand Painted Tee - Pink",
         "handle": "anti-social-social-club-cancelled-hand-painted-tee-pink",
@@ -3941,11 +3946,6 @@
         "title": "Nike Air More Uptempo '96 - Black/White",
         "handle": "nike-air-more-uptempo-96-black-white",
         "in_stock": true
-      },
-      "9359861514428": {
-        "title": "Crocs Roy - Nightfall",
-        "handle": "crocs-roy-nightfall",
-        "in_stock": false
       },
       "8990983028924": {
         "title": "Women's Air Jordan 1 Low - Sail/Ghost",
@@ -6261,6 +6261,11 @@
       }
     },
     "https://www.afew-store.com": {
+      "10597571166474": {
+        "title": "Nike Air Max Goadome Low SP",
+        "handle": "nike-air-max-goadome-low-sp-lt-orewood-brn-black-black",
+        "in_stock": false
+      },
       "10597402181898": {
         "title": "Lacoste OVERSHIRT",
         "handle": "lacoste-overshirt-dark-navy-blue",
@@ -7505,11 +7510,6 @@
         "title": "adidas Originals WMNS MUENCHEN",
         "handle": "adidas-originals-wmns-muenchen-gum4-magbei-clpink",
         "in_stock": true
-      },
-      "10580319305994": {
-        "title": "adidas Originals WMNS HANDBALL SPEZIAL",
-        "handle": "adidas-originals-wmns-handball-spezial-ricgrn-warvan-goldmt",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7682,17 +7682,17 @@
       "9127025443021": {
         "title": "Air Jordan 3 'Laser' Sneakers Phantom / Sail",
         "handle": "nike-jordan-footwear-air-jordan-3-retro-laser-multicolor-j368518",
-        "in_stock": false
+        "in_stock": true
       },
       "9127024918733": {
         "title": "Women's Air Max Dolce Sneakers Light Magenta",
         "handle": "nike-footwear-wmns-w-air-max-dolce-pink-j368354",
-        "in_stock": false
+        "in_stock": true
       },
       "9127024853197": {
         "title": "Air Max Goadome Low Holey Sneakers Black",
         "handle": "nike-footwear-nike-air-max-goadome-low-sp-black-j369065",
-        "in_stock": false
+        "in_stock": true
       },
       "9127012991181": {
         "title": "Blazy Sneakers White / Sail",
@@ -8768,8 +8768,132 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: KidSuper Face Camo Wide Leg Jean - Black\nhttps://sneakerpolitics.com/products/kidsuper-face-camo-wide-leg-jean-black",
-      "detected_at": "2026-08-21T21:39:57.648041+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Vans OTW x Neighborhood OTW Authentic 44\nhttps://www.asphaltgold.de/products/vans-otw-x-neighborhood-otw-authentic-44-black",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-740-pumpernickel-sea-salt",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-mushroom",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Puma Arizona Suede\nhttps://www.asphaltgold.de/products/puma-arizona-suede-chocolate-fondue-chocolate-gum",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance Quilted Bomber\nhttps://www.asphaltgold.de/products/new-balance-quilted-bomber-dark-night",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Singlet\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-singlet-collegiate-geen-aurora-ivy",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Hoodie\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-hoodie-cream-white",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Short Tights\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-short-tights-black",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas\tAdizero NYC Running Singlet\nhttps://www.asphaltgold.de/products/adidasadizero-nyc-running-singlet-carbon-black",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 1906R\nhttps://www.asphaltgold.de/products/new-balance-1906r-dark-silver-metallic",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Sala\nhttps://www.asphaltgold.de/products/adidas-gazelle-sala-trace-khaki-team-victory-red-gum",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Stan Smith Lo Pro W\nhttps://www.asphaltgold.de/products/adidas-stan-smith-lo-pro-w-footwear-white-footwear-white-footwear-white",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Quantum™ 360 I\nhttps://www.asphaltgold.de/products/asics-gelquantum-360-i-graphite-grey-hazard-green",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance 471\nhttps://www.asphaltgold.de/products/new-balance-u471am-sea-salt-tea-green",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Gazelle Low Pro W\nhttps://www.asphaltgold.de/products/adidas-gazelle-low-pro-w-clear-sky-footwear-white-gum-3",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W *Leather / Suede*\nhttps://www.asphaltgold.de/products/autry-medalist-w-leather-suede-white-peach-pink",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Phileo x Novesta Kix Lace Ballerina\nhttps://www.asphaltgold.de/products/phileo-x-novesta-kix-lace-ballerina-black",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry College Check Sweatshirt\nhttps://www.asphaltgold.de/products/autry-college-check-sweatshirt-dark-grey-melange",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry College Check Sweatshirt\nhttps://www.asphaltgold.de/products/autry-college-check-sweatshirt-melange-make-up",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Omni 9\nhttps://www.asphaltgold.de/products/saucony-pro-grid-omni-9-sage",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Vans Premium Authentic 44 LX *Combat*\nhttps://www.asphaltgold.de/products/vans-premium-authentic-44-lx-combat-field-green",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG W\nhttps://www.asphaltgold.de/products/adidas-samba-og-w-footwear-white-magic-mauve-quiet-crimson",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Vans Classic Slip-On 98 LX\nhttps://www.asphaltgold.de/products/vans-classic-slipon-camo",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Vans Premium Authentic 44 LX *Combat*\nhttps://www.asphaltgold.de/products/vans-premium-authentic-44-lx-combat-field-black",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Logo Rugby Sweater\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-logo-rugby-sweater-polo-black",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Era MLB San Diego Padres Washed Contrast 9TWENTY Cap\nhttps://www.asphaltgold.de/products/new-era-mlb-san-diego-padres-washed-contrast-9twenty-cap-denim-brown-gold",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Relaxed Fit Wool-Cotton Jumper\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-relaxed-fit-woolcotton-jumper-andover-cream",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Kai Serif Logo Socks - White/Red\nhttps://sneakerpolitics.com/products/politics-kai-serif-logo-socks-white-red",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Crystal Sand/Trace Brown\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-crystal-sand-trace-brown",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Air Jordan 3 'Laser' Sneakers Phantom / Sail\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-3-retro-laser-multicolor-j368518",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Women's Air Max Dolce Sneakers Light Magenta\nhttps://www.slamjam.com/products/nike-footwear-wmns-w-air-max-dolce-pink-j368354",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Air Max Goadome Low Holey Sneakers Black\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-goadome-low-sp-black-j369065",
+      "detected_at": "2026-08-21T22:34:51.914005+00:00"
     }
   ]
 }
