@@ -1,6 +1,21 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286677958784": {
+        "title": "Jordan GS Air Jordan 1 Retro Low OG - Black / Palomino / Summit White / Multicolor",
+        "handle": "jbiv7010-001",
+        "in_stock": true
+      },
+      "8286677926016": {
+        "title": "Jordan Air Jordan 1 Low OG - Black / Summit White / Varsity Red",
+        "handle": "jbiv6750-001",
+        "in_stock": true
+      },
+      "8286677893248": {
+        "title": "adidas x Pharrell Williams Adistar Jellyfish - Crystal Sand",
+        "handle": "aakh6729",
+        "in_stock": true
+      },
       "8286670389376": {
         "title": "Kith Records for New Order True Faith Vintage Alex Tee - Black",
         "handle": "khm035096-001",
@@ -1235,29 +1250,9 @@
         "title": "Kith for BMW Moto Gloves - Multi",
         "handle": "khma020076-906",
         "in_stock": true
-      },
-      "8286650892416": {
-        "title": "Kith & '47 for BMW Franchise LS Cap - Black",
-        "handle": "khma050104-001",
-        "in_stock": true
-      },
-      "8286650859648": {
-        "title": "Kith for BMW 3-Pack Crew Socks - Multi",
-        "handle": "khma220086-906",
-        "in_stock": false
-      },
-      "8286650826880": {
-        "title": "Kith for BMW M1 Cardholder - Techno Violet",
-        "handle": "khma340083-599",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
-      "6688118276357": {
-        "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
-        "handle": "undefeated-x-bunbuku-tapered-trash-can",
-        "in_stock": true
-      },
       "6702665105669": {
         "title": "UNDEFEATED REVERSIBLE TRUCKER JACKET",
         "handle": "undefeated-reversible-trucker-jacket",
@@ -1338,9 +1333,9 @@
         "handle": "undefeated-fiend-s-s-tee",
         "in_stock": true
       },
-      "6702536851717": {
-        "title": "UNDEFEATED LIGHTWEIGHT ZIP HOOD",
-        "handle": "undefeated-lightweight-zip-hood",
+      "6702665793797": {
+        "title": "UNDEFEATED SHIELD S/S TEE",
+        "handle": "undefeated-shield-s-s-tee",
         "in_stock": true
       },
       "6702666055941": {
@@ -1403,9 +1398,9 @@
         "handle": "undefeated-premium-icon-crew-sock",
         "in_stock": true
       },
-      "6702665793797": {
-        "title": "UNDEFEATED SHIELD S/S TEE",
-        "handle": "undefeated-shield-s-s-tee",
+      "6702536851717": {
+        "title": "UNDEFEATED LIGHTWEIGHT ZIP HOOD",
+        "handle": "undefeated-lightweight-zip-hood",
         "in_stock": true
       },
       "6702537048325": {
@@ -1443,6 +1438,11 @@
         "handle": "nike-air-more-uptempo-96-black-white",
         "in_stock": false
       },
+      "6688118276357": {
+        "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
+        "handle": "undefeated-x-bunbuku-tapered-trash-can",
+        "in_stock": true
+      },
       "6702706065669": {
         "title": "NIKE AIR MAX GOADOME LOW SP - BLACK",
         "handle": "nike-air-max-goadome-low-sp-black",
@@ -1456,6 +1456,11 @@
       "6702089142533": {
         "title": "UNDEFEATED X BURTON LOGAN WAVECEL® HELMET - TAN",
         "handle": "undefeated-x-burton-logan-wavecel-helmet-tan",
+        "in_stock": true
+      },
+      "6702706589957": {
+        "title": "JORDAN AJ 1 LOW OG 'LASER' - BLACK/ VARSITY RED",
+        "handle": "jordan-aj-1-low-og-laser-black-varsity-red",
         "in_stock": true
       },
       "6702691025157": {
@@ -2496,11 +2501,6 @@
       "6702628274437": {
         "title": "SHAI 001 PREMIUM OX VINTAGE - SLITHER",
         "handle": "shai-001-premium-ox-vintage-slither",
-        "in_stock": true
-      },
-      "2195148636233": {
-        "title": "CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK",
-        "handle": "chuck-70-hi-obsidian-egret-black",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9349834932412": {
+        "title": "Nike Cryoshot Tiempo '94 OG - Black/White",
+        "handle": "nike-cryoshot-tiempo-94-og-black-white",
+        "in_stock": true
+      },
       "9337993396412": {
         "title": "Supervsn Studio CWW Trucker Hat - Black",
         "handle": "supervsn-studio-cww-hat-black",
@@ -4086,11 +4091,6 @@
         "title": "Market Big Stitch Tee - Black",
         "handle": "market-big-stitch-tee-black",
         "in_stock": true
-      },
-      "9138926354620": {
-        "title": "Diet Starts Monday Winners L/S Tee - Vintage Black",
-        "handle": "diet-starts-monday-winners-l-s-tee-vintage-black",
-        "in_stock": false
       },
       "9470933336252": {
         "title": "Politics x L/AB c/o Off-White Staff Tee - Black",
@@ -5057,7 +5057,7 @@
       "15038388699512": {
         "title": "Formes Porto Duffle Dune",
         "handle": "porto-duffle-dune",
-        "in_stock": true
+        "in_stock": false
       },
       "15038388666744": {
         "title": "Formes Classic Cardholder Nero",
@@ -8766,5 +8766,26 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 1 Retro Low OG - Black / Palomino / Summit White / Multicolor\nhttps://kith.com/products/jbiv7010-001",
+      "detected_at": "2026-08-22T14:24:27.672450+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 1 Low OG - Black / Summit White / Varsity Red\nhttps://kith.com/products/jbiv6750-001",
+      "detected_at": "2026-08-22T14:24:27.672450+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: adidas x Pharrell Williams Adistar Jellyfish - Crystal Sand\nhttps://kith.com/products/aakh6729",
+      "detected_at": "2026-08-22T14:24:27.672450+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 1 LOW OG 'LASER' - BLACK/ VARSITY RED\nhttps://undefeated.com/products/jordan-aj-1-low-og-laser-black-varsity-red",
+      "detected_at": "2026-08-22T14:24:27.672450+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Cryoshot Tiempo '94 OG - Black/White\nhttps://sneakerpolitics.com/products/nike-cryoshot-tiempo-94-og-black-white",
+      "detected_at": "2026-08-22T14:24:27.672450+00:00"
+    }
+  ]
 }
