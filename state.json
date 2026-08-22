@@ -3218,7 +3218,7 @@
       "10534549455115": {
         "title": "Nike Wmns P-6000",
         "handle": "nike-wmns-p6000-summit-white-wolf-grey-vast-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10216687173899": {
         "title": "Adidas SL 72 RS",
@@ -4992,11 +4992,6 @@
         "handle": "kidsuper-velour-stars-rugby-brown",
         "in_stock": true
       },
-      "9043721322684": {
-        "title": "Adidas Predator 94 ST - Iron Metallic/Matte Silver",
-        "handle": "adidas-predator-94-st-iron-metallic-matte-silver",
-        "in_stock": false
-      },
       "9339718533308": {
         "title": "Anta KAI 2 Mule - Silver/Black",
         "handle": "anta-kai-2-mule-silver-black",
@@ -5005,6 +5000,11 @@
       "9339714797756": {
         "title": "Anta KAI 2 Mule - Yellow/White",
         "handle": "anta-kai-2-mule-yellow-white",
+        "in_stock": true
+      },
+      "9306953679036": {
+        "title": "Women's Fear Of God Essentials Running Shorts - Seal",
+        "handle": "womens-fear-of-god-essentials-running-shorts-seal",
         "in_stock": true
       }
     },
@@ -8768,24 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: UNDEFEATED x BUNBUKU TAPERED TRASH CAN\nhttps://undefeated.com/products/undefeated-x-bunbuku-tapered-trash-can",
-      "detected_at": "2026-08-21T23:40:03.603687+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 204L\nhttps://www.asphaltgold.de/products/new-balance-204l-dark-silver-metallic-slate-grey",
-      "detected_at": "2026-08-21T23:40:03.603687+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: KidSuper Velour Stars Rugby - Brown\nhttps://sneakerpolitics.com/products/kidsuper-velour-stars-rugby-brown",
-      "detected_at": "2026-08-21T23:40:03.603687+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Anta KAI 2 Mule - Silver/Black\nhttps://sneakerpolitics.com/products/anta-kai-2-mule-silver-black",
-      "detected_at": "2026-08-21T23:40:03.603687+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Anta KAI 2 Mule - Yellow/White\nhttps://sneakerpolitics.com/products/anta-kai-2-mule-yellow-white",
-      "detected_at": "2026-08-21T23:40:03.603687+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Fear Of God Essentials Running Shorts - Seal\nhttps://sneakerpolitics.com/products/womens-fear-of-god-essentials-running-shorts-seal",
+      "detected_at": "2026-08-22T01:45:00.241302+00:00"
     }
   ]
 }
