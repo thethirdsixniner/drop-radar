@@ -2528,7 +2528,7 @@
       "10857018720523": {
         "title": "New Balance 991 v2 *Made in England*",
         "handle": "new-balance-991-v2-made-in-england-polignac-toadstool-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10888469741835": {
         "title": "By Parra Sporte 5 Panel Hat",
@@ -2598,7 +2598,7 @@
       "10676847345931": {
         "title": "AMI Paris\tAmi De Coeur Wool Sweater",
         "handle": "ami-parisami-de-coeur-wool-sweater-heather-grey-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10676144406795": {
         "title": "HAL Studios Haus Hooded Zip Sweatshirt",
@@ -4010,7 +4010,7 @@
       "9372682584252": {
         "title": "Nike Air More Uptempo '96 - Black/White",
         "handle": "nike-air-more-uptempo-96-black-white",
-        "in_stock": true
+        "in_stock": false
       },
       "8990983028924": {
         "title": "Women's Air Jordan 1 Low - Sail/Ghost",
@@ -8766,14 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Sneaker Politics: Pharrell Williams x Adidas Adistar Jellyfish - Crystal Sand/Trace Brown\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-adistar-jellyfish-crystal-sand-trace-brown",
-      "detected_at": "2026-08-22T19:36:08.117154+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Formes Porto Duffle Dune\nhttps://www.kickgame.co.uk/products/porto-duffle-dune",
-      "detected_at": "2026-08-22T19:36:08.117154+00:00"
-    }
-  ]
+  "pending_free": []
 }
