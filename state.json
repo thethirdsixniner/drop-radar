@@ -1014,7 +1014,7 @@
       "8286654267520": {
         "title": "Kith for BMW CSi 3.0 Tee - Black",
         "handle": "khmg030033-001",
-        "in_stock": false
+        "in_stock": true
       },
       "8286654234752": {
         "title": "Kith for BMW Nelson Quarter Zip - Vitality",
@@ -3128,7 +3128,7 @@
       "10685540794635": {
         "title": "Salomon XT-Quest GTX",
         "handle": "salomon-xtquest-gtx-almond-milk-aloe-wash-vintage-khaki",
-        "in_stock": true
+        "in_stock": false
       },
       "10747563475211": {
         "title": "Arte Antwerp Arte Blocks Shirt",
@@ -4572,11 +4572,6 @@
         "handle": "air-jordan-9-retro-low-what-the-kilroy-black-challenge-red",
         "in_stock": true
       },
-      "9119233015996": {
-        "title": "New Balance 1906L - Silver Metallic/Black",
-        "handle": "new-balance-1906l-silver-metallic-black",
-        "in_stock": false
-      },
       "9143990616252": {
         "title": "Danielle Cathari x Puma Speedcat Washed - Pistachio Green",
         "handle": "danielle-cathari-x-puma-speedcat-washed-pistachio-green",
@@ -5005,6 +5000,11 @@
       "9356170985660": {
         "title": "Rhude Tiger Camo Footy Sock - Camo/Black",
         "handle": "rhude-tiger-camo-footy-sock-camo-black",
+        "in_stock": true
+      },
+      "9356171477180": {
+        "title": "Rhude Moonlight Pista Sock - White/Black",
+        "handle": "rhude-moonlight-pista-sock-white-black",
         "in_stock": true
       }
     },
@@ -8367,7 +8367,7 @@
       "9100191334605": {
         "title": "Men's Chaise Longsleeve Top Pelosa Grey",
         "handle": "_j-l-a-l_-clothing-chaise-longsleeve-grey-j325965",
-        "in_stock": true
+        "in_stock": false
       },
       "9110404038861": {
         "title": "Baseball Cap Military Green",
@@ -8768,8 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: GEL-Resolution 5 Sneakers Cocoa Powder / Cream\nhttps://www.slamjam.com/products/asics-footwear-gel-resolution-5-beige-j359702",
-      "detected_at": "2026-08-22T15:47:32.798915+00:00"
+      "message": "🔥 **Restock** at Kith: Kith for BMW CSi 3.0 Tee - Black\nhttps://kith.com/products/khmg030033-001",
+      "detected_at": "2026-08-22T16:52:32.033873+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Moonlight Pista Sock - White/Black\nhttps://sneakerpolitics.com/products/rhude-moonlight-pista-sock-white-black",
+      "detected_at": "2026-08-22T16:52:32.033873+00:00"
     }
   ]
 }
