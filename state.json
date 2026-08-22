@@ -3208,7 +3208,7 @@
       "8976394256651": {
         "title": "Adidas Samba XLG",
         "handle": "adidas-samba-xlg-footwear-white-footwear-white-footwear-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10164572291339": {
         "title": "Adidas x Liberty London Samba OG W",
@@ -3278,7 +3278,7 @@
       "11019531452683": {
         "title": "Nike\tAir Jordan 3 Retro *Laser*",
         "handle": "nikeair-jordan-3-retro-laser-phantom-university-red-palomino-sail",
-        "in_stock": false
+        "in_stock": true
       },
       "11017605284107": {
         "title": "Asics GEL-NYC",
@@ -6289,7 +6289,7 @@
       "10597149966602": {
         "title": "Air Jordan 1 Low OG",
         "handle": "air-jordan-1-low-og-black-varsity-red-summit-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10597148492042": {
         "title": "Asics GEL-1130",
@@ -6739,22 +6739,22 @@
       "10592937509130": {
         "title": "Nike x Nocta Northstar Jacket",
         "handle": "nike-x-nocta-northstar-jacket-work-blue-chambray-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10592937476362": {
         "title": "Nike x Nocta Cardinal Fleeceshorts",
         "handle": "nike-x-nocta-cardinal-fleeceshorts-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10592937443594": {
         "title": "Nike x Nocta S.S.C. Cap",
         "handle": "nike-x-nocta-s-s-c-cap-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10592937345290": {
         "title": "Nike x Nocta T-Shirt",
         "handle": "nike-x-nocta-t-shirt-work-blue-polar",
-        "in_stock": false
+        "in_stock": true
       },
       "10592818692362": {
         "title": "Oakley URBANSLOPE SHIRT JACKET",
@@ -7224,7 +7224,7 @@
       "10587016528138": {
         "title": "AIR JORDAN 3 RETRO 'Laser'",
         "handle": "air-jordan-3-retro-laserphantom-university-red-palomino-sail",
-        "in_stock": false
+        "in_stock": true
       },
       "10586478641418": {
         "title": "Salomon XT-4 OG",
@@ -7677,7 +7677,7 @@
       "9127025541325": {
         "title": "Pharrel Williams Virginia Adistar Jellyfish Sneakers Crystal Sand / Trace Brown / Core Black",
         "handle": "adidas-footwear-pw-adistar-jellyfis-beige-j362346",
-        "in_stock": false
+        "in_stock": true
       },
       "9127025443021": {
         "title": "Air Jordan 3 'Laser' Sneakers Phantom / Sail",
@@ -8766,5 +8766,38 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Nike\tAir Jordan 3 Retro *Laser*\nhttps://www.asphaltgold.de/products/nikeair-jordan-3-retro-laser-phantom-university-red-palomino-sail",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan 1 Low OG\nhttps://www.afew-store.com/products/air-jordan-1-low-og-black-varsity-red-summit-white",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike x Nocta Northstar Jacket\nhttps://www.afew-store.com/products/nike-x-nocta-northstar-jacket-work-blue-chambray-blue-polar",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike x Nocta Cardinal Fleeceshorts\nhttps://www.afew-store.com/products/nike-x-nocta-cardinal-fleeceshorts-work-blue-polar",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike x Nocta S.S.C. Cap\nhttps://www.afew-store.com/products/nike-x-nocta-s-s-c-cap-work-blue-polar",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike x Nocta T-Shirt\nhttps://www.afew-store.com/products/nike-x-nocta-t-shirt-work-blue-polar",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: AIR JORDAN 3 RETRO 'Laser'\nhttps://www.afew-store.com/products/air-jordan-3-retro-laserphantom-university-red-palomino-sail",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Pharrel Williams Virginia Adistar Jellyfish Sneakers Crystal Sand / Trace Brown / Core Black\nhttps://www.slamjam.com/products/adidas-footwear-pw-adistar-jellyfis-beige-j362346",
+      "detected_at": "2026-08-22T07:38:38.134564+00:00"
+    }
+  ]
 }
