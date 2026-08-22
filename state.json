@@ -3987,11 +3987,6 @@
         "handle": "air-jordan-1-high-og-all-star-gs-cool-grey-black",
         "in_stock": true
       },
-      "9286308069564": {
-        "title": "Godspeed New York Carpenter Distressed Shorts - Black",
-        "handle": "godspeed-new-york-carpenter-distressed-shorts-black",
-        "in_stock": false
-      },
       "9294102790332": {
         "title": "Jordan 11 Retro Low 'Mother's Day' (PS) - White/Metallic Gold",
         "handle": "jordan-11-retro-low-mothers-day-ps-white-metallic-gold",
@@ -5005,6 +5000,11 @@
       "9356171477180": {
         "title": "Rhude Moonlight Pista Sock - White/Black",
         "handle": "rhude-moonlight-pista-sock-white-black",
+        "in_stock": true
+      },
+      "9356172230844": {
+        "title": "Rhude Filtaro Logo Sock - White/Red",
+        "handle": "rhude-filtaro-logo-sock-white-red",
         "in_stock": true
       }
     },
@@ -8774,6 +8774,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Rhude Moonlight Pista Sock - White/Black\nhttps://sneakerpolitics.com/products/rhude-moonlight-pista-sock-white-black",
       "detected_at": "2026-08-22T16:52:32.033873+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Filtaro Logo Sock - White/Red\nhttps://sneakerpolitics.com/products/rhude-filtaro-logo-sock-white-red",
+      "detected_at": "2026-08-22T17:22:52.373899+00:00"
     }
   ]
 }
