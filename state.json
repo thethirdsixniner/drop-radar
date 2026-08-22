@@ -3887,20 +3887,10 @@
         "handle": "nike-ja-4-nightmare-obsidian-voltage-green",
         "in_stock": true
       },
-      "9294116847804": {
-        "title": "Air Jordan 5 Retro (GS) - White/Metallic Silver",
-        "handle": "air-jordan-5-retro-gs-white-metallic-silver",
-        "in_stock": false
-      },
       "9189417943228": {
         "title": "Willy Chavarria x Adidas Superstar - Core Black/Off White",
         "handle": "willy-chavarria-x-adidas-superstar-core-black-off-white",
         "in_stock": true
-      },
-      "9117947723964": {
-        "title": "Nike Zoom Hyperflight - Black/White",
-        "handle": "nike-zoom-hyperflight-black-white",
-        "in_stock": false
       },
       "9410290516156": {
         "title": "Air Jordan 8 Retro 'Chrome' - Black/White",
@@ -3965,7 +3955,7 @@
       "9177326977212": {
         "title": "Anti Social Social Club Cancelled Hand Painted Tee - Pink",
         "handle": "anti-social-social-club-cancelled-hand-painted-tee-pink",
-        "in_stock": true
+        "in_stock": false
       },
       "9072936222908": {
         "title": "Converse SHAI 001 'Clean Slate' - White/White",
@@ -5005,6 +4995,16 @@
       "8703529943228": {
         "title": "Honor The Gift x Politics Rally Time Tee - Vintage White",
         "handle": "honor-the-gift-x-politics-rally-time-tee-vintage-white",
+        "in_stock": true
+      },
+      "8703530598588": {
+        "title": "Honor The Gift x Politics Rally Time Tee - Faded Black",
+        "handle": "honor-the-gift-x-politics-rally-time-tee-faded-black",
+        "in_stock": true
+      },
+      "9045866119356": {
+        "title": "Politics Busy Being Nice Blue Collar Jacket - Grey",
+        "handle": "politics-busy-being-nice-blue-collar-jacket-grey",
         "in_stock": true
       }
     },
@@ -8774,6 +8774,14 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Rally Time Tee - Vintage White\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-rally-time-tee-vintage-white",
       "detected_at": "2026-08-22T18:34:19.584698+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift x Politics Rally Time Tee - Faded Black\nhttps://sneakerpolitics.com/products/honor-the-gift-x-politics-rally-time-tee-faded-black",
+      "detected_at": "2026-08-22T19:04:43.100527+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Busy Being Nice Blue Collar Jacket - Grey\nhttps://sneakerpolitics.com/products/politics-busy-being-nice-blue-collar-jacket-grey",
+      "detected_at": "2026-08-22T19:04:43.100527+00:00"
     }
   ]
 }
