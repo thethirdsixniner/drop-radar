@@ -5832,7 +5832,7 @@
       "15034695745912": {
         "title": "On Cloudrunner 3 'Black Ivory'",
         "handle": "on-cloudrunner-3-black-ivory",
-        "in_stock": true
+        "in_stock": false
       },
       "15034695254392": {
         "title": "On Cloudrunner 3 'White Glacier'",
@@ -7784,11 +7784,6 @@
         "handle": "junya-watanabe-man-footwear-mens-shoes-x-new-balance-black-j353387",
         "in_stock": true
       },
-      "9094862078157": {
-        "title": "GEL-1130 Sneakers Black / Cream",
-        "handle": "asics-footwear-gel-1130-black-j340180",
-        "in_stock": false
-      },
       "9113871548621": {
         "title": "Racerpods Necklace Silver",
         "handle": "racer-worldwide-accessories-racerpods-necklace-grey-j356279",
@@ -8763,8 +8758,18 @@
         "title": "GEL-Resolution 5 Sneakers Cocoa Powder / Cream",
         "handle": "asics-footwear-gel-resolution-5-beige-j359702",
         "in_stock": true
+      },
+      "9125204459725": {
+        "title": "GEL-Kayano 14 Sneakers Ivory / Cream",
+        "handle": "asics-footwear-gel-kayano-14-beige-j359672",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: GEL-Kayano 14 Sneakers Ivory / Cream\nhttps://www.slamjam.com/products/asics-footwear-gel-kayano-14-beige-j359672",
+      "detected_at": "2026-08-23T12:55:41.250595+00:00"
+    }
+  ]
 }
