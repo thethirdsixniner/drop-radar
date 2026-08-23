@@ -2793,7 +2793,7 @@
       "10859899879691": {
         "title": "Saucony Pro Grid Omni 9",
         "handle": "saucony-pro-grid-omni-9-beige-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10867287261451": {
         "title": "Arte Antwerp Heart Logo Cap",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-black-atomic-red",
-      "detected_at": "2026-08-23T20:31:38.290992+00:00"
-    }
-  ]
+  "pending_free": []
 }
