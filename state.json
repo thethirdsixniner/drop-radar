@@ -3138,7 +3138,7 @@
       "10216687173899": {
         "title": "Adidas SL 72 RS",
         "handle": "adidas-sl-72-rs-cloud-white-aurora-ivy-crystal-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10205582786827": {
         "title": "Adidas Sambae W",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (TD) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-td-black-atomic-red",
-      "detected_at": "2026-08-23T05:47:50.463018+00:00"
-    }
-  ]
+  "pending_free": []
 }
