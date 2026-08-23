@@ -3967,11 +3967,6 @@
         "handle": "jordan-11-retro-low-mothers-day-ps-white-metallic-gold",
         "in_stock": true
       },
-      "9265245618364": {
-        "title": "Women's Air Jordan 4 Retro - Pearl Pink/Iced Carmine",
-        "handle": "womens-air-jordan-4-retro-pearl-pink-iced-carmine",
-        "in_stock": false
-      },
       "9095675969724": {
         "title": "Nike Air Flightposite 'Jason Kidd' - Multi-Color/Midnight Navy",
         "handle": "nike-air-flightposite-jason-kidd-multi-color-midnight-navy",
@@ -5005,6 +5000,11 @@
       "9405688185020": {
         "title": "HELLSTAR x Adidas Megaride S2 - Cloud White/Off White",
         "handle": "hellstar-x-adidas-megaride-s2-cloud-white-off-white",
+        "in_stock": true
+      },
+      "9354268770492": {
+        "title": "Nike KD 6 'Meteorology' (TD) - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-td-black-atomic-red",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (TD) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-td-black-atomic-red",
+      "detected_at": "2026-08-23T05:47:50.463018+00:00"
+    }
+  ]
 }
