@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702706524421": {
+        "title": "NIKE KOBE 10 - WHITE/ MULTI-COLOR",
+        "handle": "nike-kobe-10-white-multi-color",
+        "in_stock": true
+      },
       "6702665105669": {
         "title": "UNDEFEATED REVERSIBLE TRUCKER JACKET",
         "handle": "undefeated-reversible-trucker-jacket",
@@ -2497,11 +2502,6 @@
         "title": "SAUCONY TRAINER 80 - ROYAL/ WHITE",
         "handle": "saucony-trainer-80-royal-white",
         "in_stock": true
-      },
-      "6702628274437": {
-        "title": "SHAI 001 PREMIUM OX VINTAGE - SLITHER",
-        "handle": "shai-001-premium-ox-vintage-slither",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2983,7 +2983,7 @@
       "10792983429387": {
         "title": "Adidas Japan W",
         "handle": "adidas-japan-w-night-navy-cream-white-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10885535695115": {
         "title": "Gramicci Running Man Tee",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE KOBE 10 - WHITE/ MULTI-COLOR\nhttps://undefeated.com/products/nike-kobe-10-white-multi-color",
+      "detected_at": "2026-08-23T17:57:13.262857+00:00"
+    }
+  ]
 }
