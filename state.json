@@ -3043,7 +3043,7 @@
       "10792253030667": {
         "title": "Autry Windspin W *Pony / Nylon*",
         "handle": "autry-windspin-w-pony-nylon-animal-ivory",
-        "in_stock": true
+        "in_stock": false
       },
       "10855844708619": {
         "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
@@ -3951,11 +3951,6 @@
         "title": "Awake Mobile Soccer Jersey - Pink",
         "handle": "awake-mobile-soccer-jersey-pink",
         "in_stock": true
-      },
-      "9177326977212": {
-        "title": "Anti Social Social Club Cancelled Hand Painted Tee - Pink",
-        "handle": "anti-social-social-club-cancelled-hand-painted-tee-pink",
-        "in_stock": false
       },
       "9072936222908": {
         "title": "Converse SHAI 001 'Clean Slate' - White/White",
@@ -5005,6 +5000,11 @@
       "9354216276156": {
         "title": "Nike KD 6 'Meteorology' (GS) - Black/Atomic Red",
         "handle": "nike-kd-6-meteorology-gs-black-atomic-red",
+        "in_stock": true
+      },
+      "9356315099324": {
+        "title": "Nike KD 6 'Meteorology' - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-black-atomic-red",
         "in_stock": true
       }
     },
@@ -8768,16 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE KOBE 10 - WHITE/ MULTI-COLOR\nhttps://undefeated.com/products/nike-kobe-10-white-multi-color",
-      "detected_at": "2026-08-23T17:57:13.262857+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (PS) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-ps-black-atomic-red",
       "detected_at": "2026-08-23T18:40:01.643790+00:00"
     },
     {
       "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (GS) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-gs-black-atomic-red",
       "detected_at": "2026-08-23T18:40:01.643790+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-black-atomic-red",
+      "detected_at": "2026-08-23T19:04:03.036251+00:00"
     }
   ]
 }
