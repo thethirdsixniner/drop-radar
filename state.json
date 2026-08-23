@@ -3498,7 +3498,7 @@
       "10856528118027": {
         "title": "Carhartt WIP OG Santa Fe Jacket",
         "handle": "carhartt-wip-og-santa-fe-jacket-black-black-grind-wash",
-        "in_stock": true
+        "in_stock": false
       },
       "10839092986123": {
         "title": "New Amsterdam Surf Association Beach Sign Tee",
@@ -3996,11 +3996,6 @@
         "title": "Adidas Bringbacks Remixed Argentina Jersey - Clear Blue/White",
         "handle": "adidas-bringbacks-remixed-argentina-jersey-clear-blue-white",
         "in_stock": true
-      },
-      "9372682584252": {
-        "title": "Nike Air More Uptempo '96 - Black/White",
-        "handle": "nike-air-more-uptempo-96-black-white",
-        "in_stock": false
       },
       "8990983028924": {
         "title": "Women's Air Jordan 1 Low - Sail/Ghost",
@@ -4535,7 +4530,7 @@
       "9143990616252": {
         "title": "Danielle Cathari x Puma Speedcat Washed - Pistachio Green",
         "handle": "danielle-cathari-x-puma-speedcat-washed-pistachio-green",
-        "in_stock": true
+        "in_stock": false
       },
       "8988485517500": {
         "title": "Women's Nike Calm SE - Sanddrift/Sanddrift",
@@ -5005,6 +5000,11 @@
       "9354216276156": {
         "title": "Nike KD 6 'Meteorology' (GS) - Black/Atomic Red",
         "handle": "nike-kd-6-meteorology-gs-black-atomic-red",
+        "in_stock": true
+      },
+      "9356315099324": {
+        "title": "Nike KD 6 'Meteorology' - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-black-atomic-red",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,10 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Kool-Aid x Nike Ja 3 - Light Lemon/Pink Beam\nhttps://sneakerpolitics.com/products/kool-aid-x-nike-ja-3-light-lemon-pink-beam",
       "detected_at": "2026-08-23T19:56:58.952415+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-black-atomic-red",
+      "detected_at": "2026-08-23T20:31:38.290992+00:00"
     }
   ]
 }
