@@ -3992,11 +3992,6 @@
         "handle": "jordan-6-retro-cap-and-gown-ps-black-reflect-silver",
         "in_stock": true
       },
-      "9072882122940": {
-        "title": "Timberland Textured Premium 6\" Lace Up Boot - Olive Full Grain",
-        "handle": "timberland-textured-premium-6-lace-up-boot-olive-full-grain",
-        "in_stock": false
-      },
       "9108112867516": {
         "title": "Adidas Bringbacks Remixed Argentina Jersey - Clear Blue/White",
         "handle": "adidas-bringbacks-remixed-argentina-jersey-clear-blue-white",
@@ -4231,11 +4226,6 @@
         "title": "Asics Gel-Cumulus 16 'TOMO' - Cream/Malachite Green",
         "handle": "asics-gel-cumulus-16-tomo-cream-malachite-green",
         "in_stock": true
-      },
-      "9072881139900": {
-        "title": "Timberland Textured Premium 6\" Lace Up Boot - Medium Beige Full Grain",
-        "handle": "timberland-textured-premium-6-lace-up-boot-medium-beige-full-grain",
-        "in_stock": false
       },
       "9049935151292": {
         "title": "Nike Air Diamond Turf II - Prime Red/White",
@@ -5005,6 +4995,16 @@
       "9354268770492": {
         "title": "Nike KD 6 'Meteorology' (TD) - Black/Atomic Red",
         "handle": "nike-kd-6-meteorology-td-black-atomic-red",
+        "in_stock": true
+      },
+      "9354214113468": {
+        "title": "Nike KD 6 'Meteorology' (PS) - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-ps-black-atomic-red",
+        "in_stock": true
+      },
+      "9354216276156": {
+        "title": "Nike KD 6 'Meteorology' (GS) - Black/Atomic Red",
+        "handle": "nike-kd-6-meteorology-gs-black-atomic-red",
         "in_stock": true
       }
     },
@@ -8770,6 +8770,14 @@
     {
       "message": "🆕 **New drop** at Undefeated: NIKE KOBE 10 - WHITE/ MULTI-COLOR\nhttps://undefeated.com/products/nike-kobe-10-white-multi-color",
       "detected_at": "2026-08-23T17:57:13.262857+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (PS) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-ps-black-atomic-red",
+      "detected_at": "2026-08-23T18:40:01.643790+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike KD 6 'Meteorology' (GS) - Black/Atomic Red\nhttps://sneakerpolitics.com/products/nike-kd-6-meteorology-gs-black-atomic-red",
+      "detected_at": "2026-08-23T18:40:01.643790+00:00"
     }
   ]
 }
