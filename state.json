@@ -2948,7 +2948,7 @@
       "11017612165387": {
         "title": "Adidas x Pharrell Williams Adistar Jellyfish",
         "handle": "adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown-1",
-        "in_stock": false
+        "in_stock": true
       },
       "11023212151051": {
         "title": "Clarks Originals Wallabee *GORE-Tex*",
@@ -3971,11 +3971,6 @@
         "title": "Jordan 11 Retro Low 'Mother's Day' (PS) - White/Metallic Gold",
         "handle": "jordan-11-retro-low-mothers-day-ps-white-metallic-gold",
         "in_stock": true
-      },
-      "9095675969724": {
-        "title": "Nike Air Flightposite 'Jason Kidd' - Multi-Color/Midnight Navy",
-        "handle": "nike-air-flightposite-jason-kidd-multi-color-midnight-navy",
-        "in_stock": false
       },
       "9265294016700": {
         "title": "Jordan 1 Mid (PS) - Enigma Stone/Olive Grey",
@@ -5005,6 +5000,11 @@
       "9351500300476": {
         "title": "Jordan 6 Retro 'Oreo' (TD) - White/Black",
         "handle": "jordan-6-retro-oreo-td-white-black",
+        "in_stock": true
+      },
+      "9351491616956": {
+        "title": "Air Jordan 6 Retro 'Oreo' (GS) - White/Black",
+        "handle": "air-jordan-6-retro-oreo-gs-white-black",
         "in_stock": true
       }
     },
@@ -6489,7 +6489,7 @@
       "10596317266186": {
         "title": "Nike Tennis Classic CS PRM",
         "handle": "nike-tennis-classic-cs-prm-white-white-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10596276404490": {
         "title": "Converse Chuck 70 Industrial",
@@ -6569,12 +6569,12 @@
       "10595461726474": {
         "title": "Nike TENNIS CLASSIC PRM",
         "handle": "nike-tennis-classic-cs-prm-terry-fir-fir-white-sail",
-        "in_stock": false
+        "in_stock": true
       },
       "10595461497098": {
         "title": "Nike TENNIS CLASSIC PRM",
         "handle": "nike-tennis-classic-cs-prm-terry-2-white-white-sail-safety-orange",
-        "in_stock": false
+        "in_stock": true
       },
       "10595457368330": {
         "title": "Nike WMNS P-6000",
@@ -7657,7 +7657,7 @@
       "9127126728909": {
         "title": "Air Jordan 7 Retro 'Miró' Sneakers White / Multicolor",
         "handle": "nike-jordan-footwear-air-jordan-7-retro-bb-white-j352557",
-        "in_stock": false
+        "in_stock": true
       },
       "9127006372045": {
         "title": "Men's Barbette Trousers Basalt Grey",
@@ -8307,7 +8307,7 @@
       "9125869093069": {
         "title": "Men's Multi-Pocket Patched Daicock Jeans Mid Tone Indigo",
         "handle": "evisu-clothing-ht-multi-pocket-patched-daicock-jeans-blue-j352986",
-        "in_stock": true
+        "in_stock": false
       },
       "9125869125837": {
         "title": "Men's Daikoku Ripped Jeans Mid Tone Indigo",
@@ -8559,11 +8559,6 @@
         "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-clara-borde-multicolor-j367818",
         "in_stock": true
       },
-      "9104746840269": {
-        "title": "Men's Atro Lace Up Shoes Soot Black",
-        "handle": "kiko-kostadinov-footwear-atro-lace-ups-black-j339466",
-        "in_stock": false
-      },
       "9100438536397": {
         "title": "Men's No Fun Sweater Black",
         "handle": "hysteric-glamour-clothing-no-fun-sweater-multicolor-j353566",
@@ -8763,8 +8758,38 @@
         "title": "GEL-Kinetic 2.0 Sneakers Cocoa Powder / Oatmeal",
         "handle": "asics-footwear-gel-kinetic-2-0-brown-j359677",
         "in_stock": true
+      },
+      "9104979427533": {
+        "title": "Women's Karasu Sandals Black",
+        "handle": "our-legacy-footwear-wmns-karasu-sandal-black-j337900",
+        "in_stock": false
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Adistar Jellyfish\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown-1",
+      "detected_at": "2026-08-24T07:37:40.523611+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 6 Retro 'Oreo' (GS) - White/Black\nhttps://sneakerpolitics.com/products/air-jordan-6-retro-oreo-gs-white-black",
+      "detected_at": "2026-08-24T07:37:40.523611+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Tennis Classic CS PRM\nhttps://www.afew-store.com/products/nike-tennis-classic-cs-prm-white-white-black",
+      "detected_at": "2026-08-24T07:37:40.523611+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike TENNIS CLASSIC PRM\nhttps://www.afew-store.com/products/nike-tennis-classic-cs-prm-terry-fir-fir-white-sail",
+      "detected_at": "2026-08-24T07:37:40.523611+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike TENNIS CLASSIC PRM\nhttps://www.afew-store.com/products/nike-tennis-classic-cs-prm-terry-2-white-white-sail-safety-orange",
+      "detected_at": "2026-08-24T07:37:40.523611+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Air Jordan 7 Retro 'Miró' Sneakers White / Multicolor\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-7-retro-bb-white-j352557",
+      "detected_at": "2026-08-24T07:37:40.523611+00:00"
+    }
+  ]
 }
