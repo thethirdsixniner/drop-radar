@@ -2548,7 +2548,7 @@
       "10861915734283": {
         "title": "Salomon X-Alp Leather",
         "handle": "salomon-xalp-leather-black-vanilla-ice-rainy-day",
-        "in_stock": true
+        "in_stock": false
       },
       "10798494384395": {
         "title": "Nike Wmns Shox Z SE",
@@ -2948,7 +2948,7 @@
       "11017612165387": {
         "title": "Adidas x Pharrell Williams Adistar Jellyfish",
         "handle": "adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown-1",
-        "in_stock": true
+        "in_stock": false
       },
       "11023212151051": {
         "title": "Clarks Originals Wallabee *GORE-Tex*",
@@ -5182,7 +5182,7 @@
       "15038387814776": {
         "title": "Formes Mini Adapt Ripple Nero",
         "handle": "mini-adapt-ripple-nero",
-        "in_stock": false
+        "in_stock": true
       },
       "15038387782008": {
         "title": "Formes Mini Porto Verdal",
@@ -6261,6 +6261,16 @@
       }
     },
     "https://www.afew-store.com": {
+      "10598672564490": {
+        "title": "Nike Air Max Goadome Low SP",
+        "handle": "nike-air-max-goadome-low-sp-black-black-black",
+        "in_stock": false
+      },
+      "10598672040202": {
+        "title": "Nike Ja 3 \"Black Label\"",
+        "handle": "nike-ja-3-sail-metallic-silver-cobalt-bliss",
+        "in_stock": false
+      },
       "10597571166474": {
         "title": "Nike Air Max Goadome Low SP",
         "handle": "nike-air-max-goadome-low-sp-lt-orewood-brn-black-black",
@@ -7219,7 +7229,7 @@
       "10587027833098": {
         "title": "Air Jordan 7 Retro 'Miró'",
         "handle": "air-jordan-7-retro-white-metallic-gold-sport-red",
-        "in_stock": false
+        "in_stock": true
       },
       "10587016528138": {
         "title": "AIR JORDAN 3 RETRO 'Laser'",
@@ -7500,20 +7510,20 @@
         "title": "Saucony WMNS ENDORPHIN AZURA",
         "handle": "saucony-wmns-endorphin-azura-torte",
         "in_stock": true
-      },
-      "10580319633674": {
-        "title": "adidas Originals WMNS ADISTAR MLD",
-        "handle": "adidas-originals-wmns-adistar-mld-warvan-crewht-duayel",
-        "in_stock": true
-      },
-      "10580319600906": {
-        "title": "adidas Originals WMNS MUENCHEN",
-        "handle": "adidas-originals-wmns-muenchen-gum4-magbei-clpink",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127453917389": {
+        "title": "Men's Cable-Knit Rugby Shirt Purple Mix",
+        "handle": "polo-ralph-lauren-clothing-sweater-pullover-purple-j360785",
+        "in_stock": true
+      },
+      "9127453884621": {
+        "title": "Men's Dungaree Fit Barn-Toile Jeans North Row",
+        "handle": "polo-ralph-lauren-clothing-woven-pants-multicolor-j360768",
+        "in_stock": true
+      },
       "9127230898381": {
         "title": "Men's Corbel Pants Sable",
         "handle": "arcteryx-veilance-clothing-corbel-pant-brown-j364242",
@@ -8753,23 +8763,25 @@
         "title": "GEL-Kayano 14 Sneakers Ivory / Cream",
         "handle": "asics-footwear-gel-kayano-14-beige-j359672",
         "in_stock": true
-      },
-      "9125204525261": {
-        "title": "GEL-Kinetic 2.0 Sneakers Cocoa Powder / Oatmeal",
-        "handle": "asics-footwear-gel-kinetic-2-0-brown-j359677",
-        "in_stock": true
-      },
-      "9104979427533": {
-        "title": "Women's Karasu Sandals Black",
-        "handle": "our-legacy-footwear-wmns-karasu-sandal-black-j337900",
-        "in_stock": false
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 6 Retro 'Oreo' (PS) - White/Black\nhttps://sneakerpolitics.com/products/jordan-6-retro-oreo-ps-white-black",
-      "detected_at": "2026-08-24T08:27:31.923789+00:00"
+      "message": "🔥 **Restock** at Kick Game: Formes Mini Adapt Ripple Nero\nhttps://www.kickgame.co.uk/products/mini-adapt-ripple-nero",
+      "detected_at": "2026-08-24T09:25:45.472072+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan 7 Retro 'Miró'\nhttps://www.afew-store.com/products/air-jordan-7-retro-white-metallic-gold-sport-red",
+      "detected_at": "2026-08-24T09:25:45.472072+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Cable-Knit Rugby Shirt Purple Mix\nhttps://www.slamjam.com/products/polo-ralph-lauren-clothing-sweater-pullover-purple-j360785",
+      "detected_at": "2026-08-24T09:25:45.472072+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Dungaree Fit Barn-Toile Jeans North Row\nhttps://www.slamjam.com/products/polo-ralph-lauren-clothing-woven-pants-multicolor-j360768",
+      "detected_at": "2026-08-24T09:25:45.472072+00:00"
     }
   ]
 }
