@@ -524,7 +524,7 @@
       "8286670356608": {
         "title": "Kith Records for New Order Technique Vintage Alex Tee - White",
         "handle": "khm035098-101",
-        "in_stock": false
+        "in_stock": true
       },
       "8286670258304": {
         "title": "Kith Records for New Order Set of 2 Slip Mats - Multi",
@@ -1926,7 +1926,7 @@
       "6700414861573": {
         "title": "UNDEFEATED X BADFRIEND STADIUM JERSEY - LIGHT BLUE",
         "handle": "undefeated-x-badfriend-stadium-jersey-light-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "6700305350917": {
         "title": "MALBON X UNDEFEATED RAIN PANT - BLACK",
@@ -3757,6 +3757,21 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9337978945724": {
+        "title": "Supervsn Studio Yung Viz Tee - White",
+        "handle": "supervsn-studio-3rd-eye-kid-ss-tee-white",
+        "in_stock": true
+      },
+      "9337939591356": {
+        "title": "Supervsn Studio Manifesto Tee - White",
+        "handle": "supervsn-studio-manifesto-tee-white",
+        "in_stock": true
+      },
+      "8762208157884": {
+        "title": "Ice Cream Worldwide Tee - White",
+        "handle": "ice-cream-worldwide-tee-white",
+        "in_stock": true
+      },
       "8991041355964": {
         "title": "Ice Cream Cones N Cash Tee - Black",
         "handle": "ice-cream-cones-n-cash-tee-black",
@@ -4990,21 +5005,6 @@
       "9045866119356": {
         "title": "Politics Busy Being Nice Blue Collar Jacket - Grey",
         "handle": "politics-busy-being-nice-blue-collar-jacket-grey",
-        "in_stock": true
-      },
-      "9405688185020": {
-        "title": "HELLSTAR x Adidas Megaride S2 - Cloud White/Off White",
-        "handle": "hellstar-x-adidas-megaride-s2-cloud-white-off-white",
-        "in_stock": true
-      },
-      "9354268770492": {
-        "title": "Nike KD 6 'Meteorology' (TD) - Black/Atomic Red",
-        "handle": "nike-kd-6-meteorology-td-black-atomic-red",
-        "in_stock": true
-      },
-      "9354214113468": {
-        "title": "Nike KD 6 'Meteorology' (PS) - Black/Atomic Red",
-        "handle": "nike-kd-6-meteorology-ps-black-atomic-red",
         "in_stock": true
       }
     },
@@ -8768,46 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Dark Green\nhttps://kith.com/products/ck26188673",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Navy\nhttps://kith.com/products/ck26188674",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Chestnut\nhttps://kith.com/products/ck26188672",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Coffee\nhttps://kith.com/products/ck26183617",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Black\nhttps://kith.com/products/ck26183619",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 3 RETRO 'LASER' - PHANTOM/ UNIVERSITY RED\nhttps://undefeated.com/products/jordan-aj-3-retro-laser-phantom-university-red",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Cones N Cash Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-cones-n-cash-tee-black",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's NOCTA Woven Track Pants Alabaster\nhttps://www.slamjam.com/products/nike-clothing-nocta-northstar-nylon-track-pants-yellow-j356594",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Logo T-Shirt White\nhttps://www.slamjam.com/products/and-wander-clothing-081-and-wander-big-logo-ss-t-white-j338551",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Third Cut Jeans Destroyed Wash\nhttps://www.slamjam.com/products/our-legacy-clothing-third-cut-white-j337841",
-      "detected_at": "2026-08-24T16:44:30.933040+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Undefeated: NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD\nhttps://undefeated.com/products/nike-air-griffey-max-1-midnight-navy-team-gold",
       "detected_at": "2026-08-24T17:17:41.766806+00:00"
     },
@@ -8826,6 +8786,22 @@
     {
       "message": "🆕 **New drop** at Undefeated: NEW BALANCE 2002R - STEEL\nhttps://undefeated.com/products/new-balance-2002r-steel",
       "detected_at": "2026-08-24T17:17:41.766806+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kith: Kith Records for New Order Technique Vintage Alex Tee - White\nhttps://kith.com/products/khm035098-101",
+      "detected_at": "2026-08-24T17:58:27.315157+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Yung Viz Tee - White\nhttps://sneakerpolitics.com/products/supervsn-studio-3rd-eye-kid-ss-tee-white",
+      "detected_at": "2026-08-24T17:58:27.315157+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Manifesto Tee - White\nhttps://sneakerpolitics.com/products/supervsn-studio-manifesto-tee-white",
+      "detected_at": "2026-08-24T17:58:27.315157+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Worldwide Tee - White\nhttps://sneakerpolitics.com/products/ice-cream-worldwide-tee-white",
+      "detected_at": "2026-08-24T17:58:27.315157+00:00"
     }
   ]
 }
