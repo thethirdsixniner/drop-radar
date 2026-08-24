@@ -3882,11 +3882,6 @@
         "handle": "palm-angels-vintage-box-logo-loose-tee-off-white",
         "in_stock": true
       },
-      "9405655777468": {
-        "title": "Pharrell Williams x Adidas Adistar Jellyfish - Crystal Sand/Trace Brown",
-        "handle": "pharrell-williams-x-adidas-adistar-jellyfish-crystal-sand-trace-brown",
-        "in_stock": false
-      },
       "9346554822844": {
         "title": "Nike Ja 4 'Nightmare' - Obsidian/Voltage Green",
         "handle": "nike-ja-4-nightmare-obsidian-voltage-green",
@@ -4625,7 +4620,7 @@
       "9297396793532": {
         "title": "Nike Force 1 Low Patent Leather (PS) - Black/Black",
         "handle": "nike-force-1-low-patent-leather-ps-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9369299648700": {
         "title": "Billionaire Boys Club Flagship Apollo Pant - Black",
@@ -5005,6 +5000,11 @@
       "9351491616956": {
         "title": "Air Jordan 6 Retro 'Oreo' (GS) - White/Black",
         "handle": "air-jordan-6-retro-oreo-gs-white-black",
+        "in_stock": true
+      },
+      "9351480017084": {
+        "title": "Jordan 6 Retro 'Oreo' (PS) - White/Black",
+        "handle": "jordan-6-retro-oreo-ps-white-black",
         "in_stock": true
       }
     },
@@ -7546,12 +7546,12 @@
       },
       "9127229325517": {
         "title": "Mini Active Jacket Keychain Hamilton Brown",
-        "handle": "carhartt-wip-lifestyle-mini-active-jacket-keychain-brown-j359158",
+        "handle": "carhartt-wip-accessories-mini-active-jacket-keychain-brown-j359158",
         "in_stock": true
       },
       "9127229358285": {
         "title": "Mini Active Jacket Keychain Black",
-        "handle": "carhartt-wip-lifestyle-mini-active-jacket-keychain-black-j359157",
+        "handle": "carhartt-wip-accessories-mini-active-jacket-keychain-black-j359157",
         "in_stock": true
       },
       "8973977878733": {
@@ -7935,7 +7935,7 @@
         "in_stock": true
       },
       "9126761103565": {
-        "title": "Men's OG Active Jacket Camo Feather Tree / Black (Heavy Stone Wash)",
+        "title": "Men's OG Active Jacket Camo Feather Tree (Heavy Stone Wash)",
         "handle": "carhartt-wip-clothing-og-active-jacket-multicolor-j359148",
         "in_stock": true
       },
@@ -8768,28 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Adistar Jellyfish\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown-1",
-      "detected_at": "2026-08-24T07:37:40.523611+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 6 Retro 'Oreo' (GS) - White/Black\nhttps://sneakerpolitics.com/products/air-jordan-6-retro-oreo-gs-white-black",
-      "detected_at": "2026-08-24T07:37:40.523611+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike Tennis Classic CS PRM\nhttps://www.afew-store.com/products/nike-tennis-classic-cs-prm-white-white-black",
-      "detected_at": "2026-08-24T07:37:40.523611+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike TENNIS CLASSIC PRM\nhttps://www.afew-store.com/products/nike-tennis-classic-cs-prm-terry-fir-fir-white-sail",
-      "detected_at": "2026-08-24T07:37:40.523611+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Nike TENNIS CLASSIC PRM\nhttps://www.afew-store.com/products/nike-tennis-classic-cs-prm-terry-2-white-white-sail-safety-orange",
-      "detected_at": "2026-08-24T07:37:40.523611+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Air Jordan 7 Retro 'Miró' Sneakers White / Multicolor\nhttps://www.slamjam.com/products/nike-jordan-footwear-air-jordan-7-retro-bb-white-j352557",
-      "detected_at": "2026-08-24T07:37:40.523611+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 6 Retro 'Oreo' (PS) - White/Black\nhttps://sneakerpolitics.com/products/jordan-6-retro-oreo-ps-white-black",
+      "detected_at": "2026-08-24T08:27:31.923789+00:00"
     }
   ]
 }
