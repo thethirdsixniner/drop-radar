@@ -4082,11 +4082,6 @@
         "handle": "womens-air-jordan-1-retro-high-og-nails-grails-university-red-metallic-silver",
         "in_stock": true
       },
-      "9382656311484": {
-        "title": "Nike Air Force 1 '07 LV8 'Beef & Broccoli' - Black Spruce/Black",
-        "handle": "nike-air-force-1-07-lv8-beef-broccoli-black-spruce-black",
-        "in_stock": false
-      },
       "9151215861948": {
         "title": "Metalwood Studio Metal Logo Crew Socks - Black",
         "handle": "metalwood-studio-metal-logo-crew-socks-black",
@@ -5005,6 +5000,11 @@
       "9356315099324": {
         "title": "Nike KD 6 'Meteorology' - Black/Atomic Red",
         "handle": "nike-kd-6-meteorology-black-atomic-red",
+        "in_stock": true
+      },
+      "9351500300476": {
+        "title": "Jordan 6 Retro 'Oreo' (TD) - White/Black",
+        "handle": "jordan-6-retro-oreo-td-white-black",
         "in_stock": true
       }
     },
@@ -7587,7 +7587,7 @@
       "9098086777037": {
         "title": "Men's Bay Meadows Crewneck Sweatshirt Jet Black",
         "handle": "levis-clothing-lvc-bay-meadows-swhirt-jet-bla-black-j348715",
-        "in_stock": true
+        "in_stock": false
       },
       "9122642329805": {
         "title": "Men's ACG Radical AirFlow Dri-FIT Trail Running Tank Top White",
@@ -8768,8 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat *Gore-Tex Windstopper* Gear Jacket\nhttps://www.asphaltgold.de/products/thisisneverthat-goretex-windstopper-gear-jacket-black",
-      "detected_at": "2026-08-23T23:29:15.578941+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 6 Retro 'Oreo' (TD) - White/Black\nhttps://sneakerpolitics.com/products/jordan-6-retro-oreo-td-white-black",
+      "detected_at": "2026-08-24T01:27:30.495679+00:00"
     }
   ]
 }
