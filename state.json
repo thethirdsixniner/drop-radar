@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8815868936380": {
+        "title": "Jungles Moto Jersey - Multi",
+        "handle": "jungles-moto-jersey-multi",
+        "in_stock": true
+      },
+      "9015405412540": {
+        "title": "Represent R2 Straight Leg Denim Pants - Blue Cream",
+        "handle": "represent-r2-straight-leg-denim-pants-blue-cream",
+        "in_stock": true
+      },
       "9337978945724": {
         "title": "Supervsn Studio Yung Viz Tee - White",
         "handle": "supervsn-studio-3rd-eye-kid-ss-tee-white",
@@ -4996,16 +5006,6 @@
         "title": "Honor The Gift x Politics Rally Time Tee - Vintage White",
         "handle": "honor-the-gift-x-politics-rally-time-tee-vintage-white",
         "in_stock": false
-      },
-      "8703530598588": {
-        "title": "Honor The Gift x Politics Rally Time Tee - Faded Black",
-        "handle": "honor-the-gift-x-politics-rally-time-tee-faded-black",
-        "in_stock": true
-      },
-      "9045866119356": {
-        "title": "Politics Busy Being Nice Blue Collar Jacket - Grey",
-        "handle": "politics-busy-being-nice-blue-collar-jacket-grey",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Jungles Moto Jersey - Multi\nhttps://sneakerpolitics.com/products/jungles-moto-jersey-multi",
+      "detected_at": "2026-08-24T20:03:19.526870+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Represent R2 Straight Leg Denim Pants - Blue Cream\nhttps://sneakerpolitics.com/products/represent-r2-straight-leg-denim-pants-blue-cream",
+      "detected_at": "2026-08-24T20:03:19.526870+00:00"
+    }
+  ]
 }
