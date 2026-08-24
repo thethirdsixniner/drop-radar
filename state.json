@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702655340805": {
+        "title": "ADIDAS PW ADISTAR JELLYFISH - CRYSAN/ TRABRN",
+        "handle": "adidas-pw-adistar-jellyfish-crysan-trabrn",
+        "in_stock": true
+      },
       "6702706524421": {
         "title": "NIKE KOBE 10 - WHITE/ MULTI-COLOR",
         "handle": "nike-kobe-10-white-multi-color",
@@ -2497,14 +2502,24 @@
         "title": "NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD",
         "handle": "nike-air-griffey-max-1-midnight-navy-team-gold",
         "in_stock": true
-      },
-      "6702637383941": {
-        "title": "SAUCONY TRAINER 80 - ROYAL/ WHITE",
-        "handle": "saucony-trainer-80-royal-white",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11022866776331": {
+        "title": "Converse\tx Golf le Fleur 1908 Pro Leather OX",
+        "handle": "conversex-golf-le-fleur-1908-pro-leather-ox-bison-dusty-citron-banana",
+        "in_stock": false
+      },
+      "11025958469899": {
+        "title": "Vans OTW Era 95 *Distressed*",
+        "handle": "vans-otw-era-95-distressed-black",
+        "in_stock": true
+      },
+      "11025952866571": {
+        "title": "Vans OTW Era 95 *Distressed*",
+        "handle": "vans-otw-era-95-distressed-checkerboard",
+        "in_stock": true
+      },
       "11025958928651": {
         "title": "Vans OTW Era 95 *Distressed*",
         "handle": "vans-otw-era-95-distressed-navy-red",
@@ -3093,7 +3108,7 @@
       "10197960098059": {
         "title": "Adidas Gazelle Indoor W",
         "handle": "adidas-gazelle-indoor-w-bliss-lilac-footwear-white-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "10535549829387": {
         "title": "Adidas Samba OG",
@@ -3738,21 +3753,6 @@
       "11018755506443": {
         "title": "Vans Premium Authentic 44 LX *Combat*",
         "handle": "vans-premium-authentic-44-lx-combat-field-green",
-        "in_stock": true
-      },
-      "11019430297867": {
-        "title": "Adidas Samba OG W",
-        "handle": "adidas-samba-og-w-footwear-white-magic-mauve-quiet-crimson",
-        "in_stock": true
-      },
-      "11018741416203": {
-        "title": "Vans Classic Slip-On 98 LX",
-        "handle": "vans-classic-slipon-camo",
-        "in_stock": true
-      },
-      "11018753310987": {
-        "title": "Vans Premium Authentic 44 LX *Combat*",
-        "handle": "vans-premium-authentic-44-lx-combat-field-black",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,31 @@
       }
     },
     "https://www.afew-store.com": {
+      "10598910492938": {
+        "title": "Carhartt WIP Shortsleeve Cutout T-Shirt",
+        "handle": "carhartt-wip-shortsleeve-cutout-t-shirt-white",
+        "in_stock": false
+      },
+      "10598905577738": {
+        "title": "Columbia Rugged Ridge High Pile Full Zip",
+        "handle": "columbia-rugged-ridge-high-pile-full-zip-black",
+        "in_stock": false
+      },
+      "10598904299786": {
+        "title": "Columbia Rugged Ridge High Pile Full Zip",
+        "handle": "columbia-rugged-ridge-high-pile-full-zip-delta",
+        "in_stock": false
+      },
+      "10598868680970": {
+        "title": "MAMMUT Crater Light HS Hooded Gore-Tex Jacket",
+        "handle": "mammut-crater-light-hs-hooded-gore-tex-jacket-black",
+        "in_stock": true
+      },
+      "10598863503626": {
+        "title": "MAMMUT Rime IN Hooded Jacket",
+        "handle": "mammut-rime-in-hooded-jacket-black",
+        "in_stock": true
+      },
       "10598672564490": {
         "title": "Nike Air Max Goadome Low SP",
         "handle": "nike-air-max-goadome-low-sp-black-black-black",
@@ -7485,31 +7510,6 @@
         "title": "Clarks Originals Wallabee",
         "handle": "clarks-originals-wallabee-ash-suede",
         "in_stock": true
-      },
-      "10580402667786": {
-        "title": "On Running WMNS Cloud 6",
-        "handle": "on-running-wmns-cloud-6-glacier-eclipse",
-        "in_stock": true
-      },
-      "10580401651978": {
-        "title": "Clarks Originals WMNS Wallabee",
-        "handle": "clarks-originals-wmns-wallabee-brown-cow-print1",
-        "in_stock": true
-      },
-      "10580325499146": {
-        "title": "Saucony GRID LEGACY",
-        "handle": "saucony-grid-legacy-silver-spa1",
-        "in_stock": true
-      },
-      "10580324188426": {
-        "title": "Saucony PROGRID OMNI 9",
-        "handle": "saucony-progrid-omni-9-white-touch",
-        "in_stock": true
-      },
-      "10580322582794": {
-        "title": "Saucony WMNS ENDORPHIN AZURA",
-        "handle": "saucony-wmns-endorphin-azura-torte",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7682,12 +7682,12 @@
       "9127454834893": {
         "title": "Men's Jacquemus Dri-FIT Academy Pro Football T-Shirt Game Royal / University Red",
         "handle": "nike-clothing-ffx-m-nk-df-acdpr-ss-pm-top-multicolor-j356669",
-        "in_stock": true
+        "in_stock": false
       },
       "9127454867661": {
         "title": "Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White",
         "handle": "nike-clothing-as-kox-m-nk-df-acdpr-ss-pm-top-black-j352034",
-        "in_stock": true
+        "in_stock": false
       },
       "9127453917389": {
         "title": "Men's Cable-Knit Rugby Shirt Purple Mix",
@@ -8045,7 +8045,7 @@
         "in_stock": true
       },
       "9126902890701": {
-        "title": "Men's  Blue Tab Relaxed Button-Down Shirt Grey",
+        "title": "Men's Blue Tab Relaxed Button-Down Shirt Grey",
         "handle": "levis-clothing-blue-tab-relaxed-button-down-greys-grey-j360270",
         "in_stock": true
       },
@@ -8768,132 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Layered Zipped Longsleeve T-Shirt White\nhttps://www.slamjam.com/products/undercover-clothing-c-s-white-j367772",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
+      "message": "🆕 **New drop** at Undefeated: ADIDAS PW ADISTAR JELLYFISH - CRYSAN/ TRABRN\nhttps://undefeated.com/products/adidas-pw-adistar-jellyfish-crysan-trabrn",
+      "detected_at": "2026-08-24T13:13:35.608885+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cindy Sherman Padded Cotton Hooded Jacket Black\nhttps://www.slamjam.com/products/undercover-clothing-blouson-black-j367767",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Vans OTW Era 95 *Distressed*\nhttps://www.asphaltgold.de/products/vans-otw-era-95-distressed-black",
+      "detected_at": "2026-08-24T13:13:35.608885+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Zipped Cardigan Grey\nhttps://www.slamjam.com/products/undercover-clothing-knit-grey-j367756",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Vans OTW Era 95 *Distressed*\nhttps://www.asphaltgold.de/products/vans-otw-era-95-distressed-checkerboard",
+      "detected_at": "2026-08-24T13:13:35.608885+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Raw-Cut Pocket Crewneck Sweatshirt Khaki\nhttps://www.slamjam.com/products/undercover-clothing-c-s-green-j367754",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
+      "message": "🆕 **New drop** at Afew Store: MAMMUT Crater Light HS Hooded Gore-Tex Jacket\nhttps://www.afew-store.com/products/mammut-crater-light-hs-hooded-gore-tex-jacket-black",
+      "detected_at": "2026-08-24T13:13:35.608885+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Zipped Crewneck Sweatshirt Off White\nhttps://www.slamjam.com/products/undercover-clothing-c-s-white-j367753",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Hoodie Light Photo Blue\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-hoodies-blue-j368963",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Crewneck Sweatshirt Light Photo Blue\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-crewneck-blue-j368970",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Crewneck Sweatshirt Cargo Khaki\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-crewneck-green-j368969",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Hoodie Cargo Khaki\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-hoodies-green-j368962",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Crewneck Sweatshirt Birch Heather\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-crewneck-grey-j368968",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Crewneck Sweatshirt Black\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-crewneck-black-j368967",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Zip Hoodie Light Photo Blue\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-zip-ups-blue-j368966",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Zip Hoodie Cargo Khaki\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-zip-ups-green-j368965",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Zip Hoodie Birch Heather\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-zip-ups-grey-j368964",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Hoodie Birch Heather\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-hoodies-grey-j368961",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Hoodie Black\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-hoodies-black-j368960",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy T-Shirt White\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-shortsleeve-white-j368981",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy T-Shirt Black\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-shortsleeve-black-j368979",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy T-Shirt Birch Heather\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-shortsleeve-grey-j368980",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Pants Cargo Khaki\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-sweatpants-green-j368977",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Tech Dri-FIT Woven Pro Pants Silver Sage / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-tch-df-wvn-pant-aop-multicolor-j368501",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Pants Light Photo Blue\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-sweatpants-blue-j368978",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Pants Birch Heather\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-sweatpants-grey-j368976",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Pants Black\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-sweatpants-black-j368975",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Shorts Cargo Khaki\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-short-green-j368973",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Shorts Black\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-short-black-j368971",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's ACG High Stakes Hiking Pants Black\nhttps://www.slamjam.com/products/nike-clothing-m-acg-high-stakes-pants-black-j364314",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Shorts Light Photo Blue\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-short-blue-j368974",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Shorts Birch Heather\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-short-grey-j368972",
-      "detected_at": "2026-08-24T11:32:48.134308+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Undefeated: NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE\nhttps://undefeated.com/products/nike-air-more-uptempo-96-black-white",
-      "detected_at": "2026-08-24T12:02:10.202692+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans OTW Era 95 *Distressed*\nhttps://www.asphaltgold.de/products/vans-otw-era-95-distressed-navy-red",
-      "detected_at": "2026-08-24T12:02:10.202692+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kick Game: Reprimo Vortex Shorts 'Blue Steel Cyan'\nhttps://www.kickgame.co.uk/products/reprimo-vortex-shorts-blue-steel-cyan",
-      "detected_at": "2026-08-24T12:02:10.202692+00:00"
+      "message": "🆕 **New drop** at Afew Store: MAMMUT Rime IN Hooded Jacket\nhttps://www.afew-store.com/products/mammut-rime-in-hooded-jacket-black",
+      "detected_at": "2026-08-24T13:13:35.608885+00:00"
     }
   ]
 }
