@@ -1,6 +1,31 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286403133568": {
+        "title": "PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Dark Green",
+        "handle": "ck26188673",
+        "in_stock": true
+      },
+      "8286403100800": {
+        "title": "PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Navy",
+        "handle": "ck26188674",
+        "in_stock": true
+      },
+      "8286403068032": {
+        "title": "PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Chestnut",
+        "handle": "ck26188672",
+        "in_stock": true
+      },
+      "8285319200896": {
+        "title": "PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Coffee",
+        "handle": "ck26183617",
+        "in_stock": true
+      },
+      "8285319168128": {
+        "title": "PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Black",
+        "handle": "ck26183619",
+        "in_stock": true
+      },
       "8286673404032": {
         "title": "Kith Script Double-Face Wool Drivers Cap - Medium Heather Grey",
         "handle": "khm051591-198",
@@ -1225,34 +1250,14 @@
         "title": "New Balance 1890P - Team Red / Pink",
         "handle": "nwbu18902uh",
         "in_stock": true
-      },
-      "8286669799552": {
-        "title": "New Balance 1890P - Fairweather / Blue",
-        "handle": "nwbu1890787",
-        "in_stock": true
-      },
-      "8284513075328": {
-        "title": "UGG Classic Mini - Chestnut",
-        "handle": "ug1002072-che",
-        "in_stock": true
-      },
-      "2069473951872": {
-        "title": "Salomon XT-QUEST ADV - Black / Phantom",
-        "handle": "sl41013900",
-        "in_stock": false
-      },
-      "8286284054656": {
-        "title": "VANS Premium Old Skool 36 - Cheetah Olive",
-        "handle": "vn000ehdolv1",
-        "in_stock": true
-      },
-      "8286248566912": {
-        "title": "VANS LX Authentic 44 - Gemstone / Marshmallow",
-        "handle": "vn000db8cda",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702713700613": {
+        "title": "JORDAN AJ 3 RETRO 'LASER' - PHANTOM/ UNIVERSITY RED",
+        "handle": "jordan-aj-3-retro-laser-phantom-university-red",
+        "in_stock": true
+      },
       "6702655340805": {
         "title": "ADIDAS PW ADISTAR JELLYFISH - CRYSAN/ TRABRN",
         "handle": "adidas-pw-adistar-jellyfish-crysan-trabrn",
@@ -2496,11 +2501,6 @@
       "6702637252869": {
         "title": "SAUCONY TRAINER 80 - BLACK/ WHITE",
         "handle": "saucony-trainer-80-black-white",
-        "in_stock": true
-      },
-      "6702619689221": {
-        "title": "NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD",
-        "handle": "nike-air-griffey-max-1-midnight-navy-team-gold",
         "in_stock": true
       }
     },
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8991041355964": {
+        "title": "Ice Cream Cones N Cash Tee - Black",
+        "handle": "ice-cream-cones-n-cash-tee-black",
+        "in_stock": true
+      },
       "9469812310204": {
         "title": "Godspeed New York OG Logo Slides V2 - Red",
         "handle": "godspeed-new-york-og-logo-slides-v2-red",
@@ -5000,11 +5005,6 @@
       "9354214113468": {
         "title": "Nike KD 6 'Meteorology' (PS) - Black/Atomic Red",
         "handle": "nike-kd-6-meteorology-ps-black-atomic-red",
-        "in_stock": true
-      },
-      "9354216276156": {
-        "title": "Nike KD 6 'Meteorology' (GS) - Black/Atomic Red",
-        "handle": "nike-kd-6-meteorology-gs-black-atomic-red",
         "in_stock": true
       }
     },
@@ -7514,9 +7514,39 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9112091623629": {
+        "title": "Men's NOCTA Woven Track Pants Alabaster",
+        "handle": "nike-clothing-nocta-northstar-nylon-track-pants-yellow-j356594",
+        "in_stock": true
+      },
+      "9107034210509": {
+        "title": "Men's Logo T-Shirt White",
+        "handle": "and-wander-clothing-081-and-wander-big-logo-ss-t-white-j338551",
+        "in_stock": true
+      },
+      "9112853643469": {
+        "title": "Men's Third Cut Jeans Destroyed Wash",
+        "handle": "our-legacy-clothing-third-cut-white-j337841",
+        "in_stock": true
+      },
+      "9127468794061": {
+        "title": "Mind 001 Sandals Cucumber Calm",
+        "handle": "nike-footwear-nike-mind-001-black-j368358",
+        "in_stock": false
+      },
+      "9125741887693": {
+        "title": "Women's Rift 2 Sandals Black / Metallic Silver",
+        "handle": "nike-footwear-wmns-nike-rift-2-white-j368343",
+        "in_stock": false
+      },
       "9127468105933": {
         "title": "Brain Dead Echo 2 Clogs Astro Blue",
         "handle": "crocs-footwear-braindead-x-crocs-echo-2-multicolor-j368317",
+        "in_stock": false
+      },
+      "9127025377485": {
+        "title": "Air Jordan 1 Low OG 'Laser' Sneakers Black / Varsity Red",
+        "handle": "nike-jordan-footwear-air-jordan-1-retro-low-og-ls-black-j368516",
         "in_stock": false
       },
       "9126903349453": {
@@ -8733,427 +8763,49 @@
         "title": "MAFC Issue N1 Tiannuska Cover",
         "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-tiannuska-multicolor-j367817",
         "in_stock": true
-      },
-      "9125528010957": {
-        "title": "MAFC Issue N1 Clara Borde Cover",
-        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-clara-borde-multicolor-j367818",
-        "in_stock": true
-      },
-      "9100438536397": {
-        "title": "Men's No Fun Sweater Black",
-        "handle": "hysteric-glamour-clothing-no-fun-sweater-multicolor-j353566",
-        "in_stock": false
-      },
-      "8996396368077": {
-        "title": "Men's 98/99 Hard Times Shorts Black",
-        "handle": "umbro-clothing-98-99-hard-times-shorts-black-j301042",
-        "in_stock": false
-      },
-      "9113775505613": {
-        "title": "Men's Washed MD Wirecutter Longsleeve T-Shirt Black",
-        "handle": "cav-empt-clothing-washed-md-wirecutter-long-sleeve-t-black-j355894",
-        "in_stock": false
-      },
-      "9110067314893": {
-        "title": "Men's Ian Longsleeve T-Shirt Black / Grey",
-        "handle": "wtaps-clothing-ian-ls-cotton-black-j355397",
-        "in_stock": false
-      },
-      "9107033096397": {
-        "title": "Men's Advanced Vee Longsleeve T-Shirt Black",
-        "handle": "vans-clothing-advanced-vee-ls-tee-black-j345123",
-        "in_stock": false
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith Script Double-Face Wool Drivers Cap - Medium Heather Grey\nhttps://kith.com/products/khm051591-198",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Dark Green\nhttps://kith.com/products/ck26188673",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Low Profile Fine Wool Classic Cap - Black\nhttps://kith.com/products/khma050071-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Navy\nhttps://kith.com/products/ck26188674",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith NY Cotton Slouchy Crew Socks - Black\nhttps://kith.com/products/khma220076-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Chestnut\nhttps://kith.com/products/ck26188672",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Chunky Cotton 3-Pack Crew Socks - Silk\nhttps://kith.com/products/khma220081-116",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Coffee\nhttps://kith.com/products/ck26183617",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Relaxed Twill Nolan Trucker Hat - Black\nhttps://kith.com/products/khma050073-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Kith: PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Black\nhttps://kith.com/products/ck26183619",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith NY Cotton Slouchy Crew Socks - Heather Oatmeal\nhttps://kith.com/products/khma220076-216",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 3 RETRO 'LASER' - PHANTOM/ UNIVERSITY RED\nhttps://undefeated.com/products/jordan-aj-3-retro-laser-phantom-university-red",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Mets Herringbone Brand Franchise LS Cap - Black\nhttps://kith.com/products/khma050083-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Cones N Cash Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-cones-n-cash-tee-black",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Script K Laurel Stripe Cotton Chunky Crew Socks - White\nhttps://kith.com/products/khma220071-101",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's NOCTA Woven Track Pants Alabaster\nhttps://www.slamjam.com/products/nike-clothing-nocta-northstar-nylon-track-pants-yellow-j356594",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Script Double-Face Wool Drivers Cap - Nocturnal\nhttps://kith.com/products/khm051591-413",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Logo T-Shirt White\nhttps://www.slamjam.com/products/and-wander-clothing-081-and-wander-big-logo-ss-t-white-j338551",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Calf Stripe Socks - Silk\nhttps://kith.com/products/khma220078-116",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Lighter Case - Black\nhttps://kith.com/products/khl151091-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Raw Denim Classic Cap - Savin Wash\nhttps://kith.com/products/khma050070-5102",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Low Profile Fine Wool Classic Cap - Stadium\nhttps://kith.com/products/khma050071-302",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith 3-Pack Script Plaque Crew Socks - Multi\nhttps://kith.com/products/khma220072-906",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Lighter Case - Stadium\nhttps://kith.com/products/khl151091-302",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for ‘47 for the New York Yankees Corduroy Franchise LS Cap - Nocturnal\nhttps://kith.com/products/khma050120-413",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the Los Angeles Dodgers Lightweight Suede Velour Long Bill Cap - Nocturnal\nhttps://kith.com/products/khma050124-413",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Smooth Leather Nolan Trucker Hat - Black\nhttps://kith.com/products/khma050127-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Autograph Brushed Twill Bay Low Pinch Crown Cap - Black\nhttps://kith.com/products/khm051582-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Mets Lightweight Sueded Velour Long Bill Cap - Black\nhttps://kith.com/products/khma050123-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 for the New York Yankees Denim Franchise LS Cap - Black\nhttps://kith.com/products/khma050121-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 for the New York Yankees Corduroy Franchise LS Cap - Kindling\nhttps://kith.com/products/khma050120-211",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Studded Leather Belt - Black\nhttps://kith.com/products/khma090070-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Studded Leather Belt - Robusta\nhttps://kith.com/products/khma090070-3042",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Botanical Twill Bay Low Pinch Crown Cap - Clever\nhttps://kith.com/products/khma050129-3060",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Botanical Twill Bay Low Pinch Crown Cap - Sandrift\nhttps://kith.com/products/khma050129-104",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Autograph Brushed Twill Bay Low Pinch Crown Cap - Nocturnal\nhttps://kith.com/products/khm051582-413",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 Micro Suede Fitted Clean Up Cap - Oxford\nhttps://kith.com/products/khma050126-224",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 for the New York Yankees Barre Stripe Franchise LS Cap - Apocalypse\nhttps://kith.com/products/khma050122-020",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 for the New York Yankees Barre Stripe Franchise LS Cap - Nocturnal\nhttps://kith.com/products/khma050122-413",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 for the New York Mets Tapestry Franchise LS Cap - Sage\nhttps://kith.com/products/khma050125-4046",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 for the New York Mets Tapestry Franchise LS Cap - Durum\nhttps://kith.com/products/khma050125-957",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Pegasus Keyring - Gold\nhttps://kith.com/products/khla150135-914",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Pegasus Keyring - Silver\nhttps://kith.com/products/khla150135-910",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Printed Silk Scarf - Sandrift\nhttps://kith.com/products/khma130087-104",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Printed Silk Scarf - Kindling\nhttps://kith.com/products/khma130085-211",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & '47 Canvas Long Visor Clean Up Cap - Sandrift\nhttps://kith.com/products/khma050084-104",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Printed Silk Rally Scarf - Auberge\nhttps://kith.com/products/khma130089-6023",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Printed Silk Neck Tie - Sage\nhttps://kith.com/products/khma130088-4046",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Printed Silk Scarf - Magma\nhttps://kith.com/products/khma130087-601",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Printed Silk Scarf - Black\nhttps://kith.com/products/khma130086-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & ‘47 for the New York Yankees Denim Franchise LS Cap - Mystery\nhttps://kith.com/products/khma050121-5057",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith New York Plaque Belt - Walnut\nhttps://kith.com/products/khmsl0066-3029",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Crest Monogram Backgammon Board - Incognito\nhttps://kith.com/products/khl150699-244",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Belt - Ink\nhttps://kith.com/products/khma340073-432",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Traveler K40 Duffle Bag - Java\nhttps://kith.com/products/khma040083-3004",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Suede Applique Canvas Tote - Black\nhttps://kith.com/products/khma040089-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Card Holder - Black\nhttps://kith.com/products/khma340070-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Suede Manhattan Gloves - Argil\nhttps://kith.com/products/khma020072-299",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Backpack - Argil\nhttps://kith.com/products/khma040084-299",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Backpack - Black\nhttps://kith.com/products/khma040080-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Saffiano Leather Watch Box - Ink\nhttps://kith.com/products/khma270071-432",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Suede Applique Canvas Tote - Java\nhttps://kith.com/products/khma040089-3004",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Passenger K15 Bag - Ink\nhttps://kith.com/products/khma040076-432",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Cardholder - Argil\nhttps://kith.com/products/khma340072-299",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Smooth Leather Explorer Pack - Zoom\nhttps://kith.com/products/khma040077-3012",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Traveler K55 Duffle Bag - Java\nhttps://kith.com/products/khma040087-3004",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Smooth Leather Traveler K55 Duffle Bag - Zoom\nhttps://kith.com/products/khma040086-3012",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Cardholder - Java\nhttps://kith.com/products/khma340072-3004",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Traveler K55 Duffle Bag - Black\nhttps://kith.com/products/khma040085-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Traveler K55 Duffle Bag - Ink\nhttps://kith.com/products/khma040085-432",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Traveler K40 Duffle Bag - Ink\nhttps://kith.com/products/khma040081-432",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Camera Crossbody Bag - Black\nhttps://kith.com/products/khma040075-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Smooth Leather Traveler K40 Duffle Bag - Zoom\nhttps://kith.com/products/khma040082-3012",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Tumbled Leather Manhattan Gloves - Ink\nhttps://kith.com/products/khma020070-432",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Nappa Leather Manhattan Gloves - Zoom\nhttps://kith.com/products/khma020071-3012",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Airpod Case - Argil\nhttps://kith.com/products/khma340079-299",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Tumbled Leather Manhattan Gloves - Black\nhttps://kith.com/products/khma020070-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Card Holder - Ink\nhttps://kith.com/products/khma340070-432",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Western Suede Belt - Argil\nhttps://kith.com/products/khma340076-299",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Traveler K55 Duffle Bag - Argil\nhttps://kith.com/products/khma040087-299",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Belt - Java\nhttps://kith.com/products/khma340075-3004",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Suede Manhattan Gloves - Java\nhttps://kith.com/products/khma020072-3004",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Drawstring Pouch - Java\nhttps://kith.com/products/khma040073-3004",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Tumbled Leather Belt - Black\nhttps://kith.com/products/khma340073-001",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Western Smooth Leather Belt  - Zoom\nhttps://kith.com/products/khma340074-3012",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Smooth Leather Crosswalk K20 Bag - Zoom\nhttps://kith.com/products/khma040072-3012",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Smooth Leather Card Holder - Zoom\nhttps://kith.com/products/khma340071-3012",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Suede Crosswalk K20 Bag - Argil\nhttps://kith.com/products/khma040074-299",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Silk Bandana - Multi\nhttps://kith.com/products/khm10115-906",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Relaxed Twill Nolan Trucker Hat - Kindling\nhttps://kith.com/products/khma050073-211",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Yankees Washed Suede Franchise LS Cap - Flagstaff\nhttps://kith.com/products/khm051390-301",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith New York to The World Umbrella - Multi\nhttps://kith.com/products/khl150840-906",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith & '47 for the New York Yankees Washed Suede Franchise LS Cap - Torpedo\nhttps://kith.com/products/khm051390-402",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Raw Denim Dawson Bucket Hat - Savin Wash\nhttps://kith.com/products/khma050075-5102",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Calf Stripe Socks - Heather Grey\nhttps://kith.com/products/khma220078-151",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Script Brushed Twill Bay Low Pinch Crown Cap - Nocturnal\nhttps://kith.com/products/khm051581-413",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith NY Cotton Slouchy Crew Socks - Silk\nhttps://kith.com/products/khma220076-116",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Laurel Stripe Cotton Chunky Crew Socks - Silk\nhttps://kith.com/products/khma220070-116",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Monogram Nylon Leather Duffle Bag - Tectonic\nhttps://kith.com/products/khma040111-245",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Low Profile Raw Denim Classic Cap - Savin Wash\nhttps://kith.com/products/khma050072-5102",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith NY All-Over Embroidery Dawson Bucket Hat - Medium Indigo\nhttps://kith.com/products/khma050076-452",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Calf Stripe Socks - White\nhttps://kith.com/products/khma220078-101",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith 3-Pack Variegated Stripe Crew Socks - Multi\nhttps://kith.com/products/khma220073-906",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Era Los Angeles Dodgers Wide Cuff Beanie\nhttps://www.asphaltgold.de/products/new-era-los-angeles-dodgers-wide-cuff-beanie-brown",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York OG Logo Slides V2 - Red\nhttps://sneakerpolitics.com/products/godspeed-new-york-og-logo-slides-v2-red",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'Laser' - Phantom/University Red\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-laser-phantom-university-red",
-      "detected_at": "2026-08-24T15:56:07.460937+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Third Cut Jeans Destroyed Wash\nhttps://www.slamjam.com/products/our-legacy-clothing-third-cut-white-j337841",
+      "detected_at": "2026-08-24T16:44:30.933040+00:00"
     }
   ]
 }
