@@ -194,7 +194,7 @@
       "8286671241344": {
         "title": "Kith Pegasus Keyring - Silver",
         "handle": "khla150135-910",
-        "in_stock": true
+        "in_stock": false
       },
       "8286671175808": {
         "title": "Kith Jacquard Classic Logo Tie - Black",
@@ -3248,7 +3248,7 @@
       "10205582786827": {
         "title": "Adidas Sambae W",
         "handle": "adidas-sambae-w-footwear-white-off-white-aurich-ivy",
-        "in_stock": true
+        "in_stock": false
       },
       "10188199854347": {
         "title": "Adidas Japan W",
@@ -8766,42 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR GRIFFEY MAX 1 - MIDNIGHT NAVY/ TEAM GOLD\nhttps://undefeated.com/products/nike-air-griffey-max-1-midnight-navy-team-gold",
-      "detected_at": "2026-08-24T17:17:41.766806+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: SAUCONY TRAINER 80 - ROYAL/ WHITE\nhttps://undefeated.com/products/saucony-trainer-80-royal-white",
-      "detected_at": "2026-08-24T17:17:41.766806+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: SHAI 001 PREMIUM OX VINTAGE - SLITHER\nhttps://undefeated.com/products/shai-001-premium-ox-vintage-slither",
-      "detected_at": "2026-08-24T17:17:41.766806+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: CONVERSE CHUCK 70 HI - OBSIDIAN/EGRET/BLACK\nhttps://undefeated.com/products/chuck-70-hi-obsidian-egret-black",
-      "detected_at": "2026-08-24T17:17:41.766806+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NEW BALANCE 2002R - STEEL\nhttps://undefeated.com/products/new-balance-2002r-steel",
-      "detected_at": "2026-08-24T17:17:41.766806+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith Records for New Order Technique Vintage Alex Tee - White\nhttps://kith.com/products/khm035098-101",
-      "detected_at": "2026-08-24T17:58:27.315157+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Yung Viz Tee - White\nhttps://sneakerpolitics.com/products/supervsn-studio-3rd-eye-kid-ss-tee-white",
-      "detected_at": "2026-08-24T17:58:27.315157+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Manifesto Tee - White\nhttps://sneakerpolitics.com/products/supervsn-studio-manifesto-tee-white",
-      "detected_at": "2026-08-24T17:58:27.315157+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Worldwide Tee - White\nhttps://sneakerpolitics.com/products/ice-cream-worldwide-tee-white",
-      "detected_at": "2026-08-24T17:58:27.315157+00:00"
-    }
-  ]
+  "pending_free": []
 }
