@@ -1441,7 +1441,7 @@
       "6702706655493": {
         "title": "NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE",
         "handle": "nike-air-more-uptempo-96-black-white",
-        "in_stock": false
+        "in_stock": true
       },
       "6688118276357": {
         "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11025958928651": {
+        "title": "Vans OTW Era 95 *Distressed*",
+        "handle": "vans-otw-era-95-distressed-navy-red",
+        "in_stock": true
+      },
       "11024493216011": {
         "title": "C.P. Company 30/2 Mercerized Jersey Lens Longsleeve T-Shirt",
         "handle": "cp-company-302-mercerized-jersey-lens-longsleeve-tshirt-black",
@@ -3749,11 +3754,6 @@
         "title": "Vans Premium Authentic 44 LX *Combat*",
         "handle": "vans-premium-authentic-44-lx-combat-field-black",
         "in_stock": true
-      },
-      "11016358396171": {
-        "title": "Nike Air Max Goadome Low QS *Polkadot*",
-        "handle": "nike-air-max-goadome-low-qs-polkadot-light-orewood-brown-black",
-        "in_stock": false
       }
     },
     "https://sneakerpolitics.com": {
@@ -5967,7 +5967,7 @@
       "15031090741624": {
         "title": "Reprimo Vortex Shorts 'Blue Steel Cyan'",
         "handle": "reprimo-vortex-shorts-blue-steel-cyan",
-        "in_stock": false
+        "in_stock": true
       },
       "15031089955192": {
         "title": "Reprimo Vortex Windbreaker Jacket 'Blue Steel Cyan'",
@@ -8768,30 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: C.P. Company 30/2 Mercerized Jersey Lens Longsleeve T-Shirt\nhttps://www.asphaltgold.de/products/cp-company-302-mercerized-jersey-lens-longsleeve-tshirt-black",
-      "detected_at": "2026-08-24T10:55:28.820417+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: C.P. Company Brushed Emerized Diagonal Fleece Lens Sweatshirt\nhttps://www.asphaltgold.de/products/cp-company-brushed-emerized-diagonal-fleece-lens-sweatshirt-fallen-rock",
-      "detected_at": "2026-08-24T10:55:28.820417+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's V.A.A Dri-FIT Academy Pro Football T-Shirt White / Deep Royal Blue\nhttps://www.slamjam.com/products/nike-clothing-usx-m-nk-df-acdpr-x2-ss-pm-top-white-j352036",
-      "detected_at": "2026-08-24T10:55:28.820417+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Jacquemus Dri-FIT Academy Pro Football T-Shirt Game Royal / University Red\nhttps://www.slamjam.com/products/nike-clothing-ffx-m-nk-df-acdpr-ss-pm-top-multicolor-j356669",
-      "detected_at": "2026-08-24T10:55:28.820417+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White\nhttps://www.slamjam.com/products/nike-clothing-as-kox-m-nk-df-acdpr-ss-pm-top-black-j352034",
-      "detected_at": "2026-08-24T10:55:28.820417+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's MD Corporate Entity T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-md-corporate-entity-t-white-j355885",
-      "detected_at": "2026-08-24T10:55:28.820417+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Slam Jam: Men's Layered Zipped Longsleeve T-Shirt White\nhttps://www.slamjam.com/products/undercover-clothing-c-s-white-j367772",
       "detected_at": "2026-08-24T11:32:48.134308+00:00"
     },
@@ -8906,6 +8882,18 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Men's Energy Fleece Shorts Birch Heather\nhttps://www.slamjam.com/products/nike-clothing-nike-energy-short-grey-j368972",
       "detected_at": "2026-08-24T11:32:48.134308+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Undefeated: NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE\nhttps://undefeated.com/products/nike-air-more-uptempo-96-black-white",
+      "detected_at": "2026-08-24T12:02:10.202692+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Vans OTW Era 95 *Distressed*\nhttps://www.asphaltgold.de/products/vans-otw-era-95-distressed-navy-red",
+      "detected_at": "2026-08-24T12:02:10.202692+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Reprimo Vortex Shorts 'Blue Steel Cyan'\nhttps://www.kickgame.co.uk/products/reprimo-vortex-shorts-blue-steel-cyan",
+      "detected_at": "2026-08-24T12:02:10.202692+00:00"
     }
   ]
 }
