@@ -3163,7 +3163,7 @@
       "10746805092619": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-fox-brown-off-white-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "10855844708619": {
         "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9088584679612": {
+        "title": "On Cloudmonster Void - Iceberg/Tin",
+        "handle": "on-cloudmonster-void-iceberg-tin",
+        "in_stock": true
+      },
+      "9100857376956": {
+        "title": "Rhude Moonlight Footy Sock - Black/White",
+        "handle": "rhude-moonlight-footy-sock-black-white",
+        "in_stock": true
+      },
       "9410245558460": {
         "title": "Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow",
         "handle": "air-jordan-4-retro-rare-air-white-tour-yellow",
@@ -4995,16 +5005,6 @@
       "9356144083132": {
         "title": "Rhude RH Logo Shorts - Taupe",
         "handle": "rhude-rh-logo-shorts-taupe",
-        "in_stock": true
-      },
-      "9356144345276": {
-        "title": "Rhude RH Logo Shorts - Navy",
-        "handle": "rhude-rh-logo-shorts-navy",
-        "in_stock": true
-      },
-      "9356152406204": {
-        "title": "Rhude Lightning Football Jersey - Grey/White",
-        "handle": "rhude-lightning-football-jersey-grey-white",
         "in_stock": true
       }
     },
@@ -8814,6 +8814,14 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Rhude The Desert Decides Hoodie - Heather Grey/Red\nhttps://sneakerpolitics.com/products/rhude-the-desert-decides-hoodie-heather-grey-red",
       "detected_at": "2026-08-24T20:49:10.074576+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: On Cloudmonster Void - Iceberg/Tin\nhttps://sneakerpolitics.com/products/on-cloudmonster-void-iceberg-tin",
+      "detected_at": "2026-08-24T21:32:04.005328+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Moonlight Footy Sock - Black/White\nhttps://sneakerpolitics.com/products/rhude-moonlight-footy-sock-black-white",
+      "detected_at": "2026-08-24T21:32:04.005328+00:00"
     }
   ]
 }
