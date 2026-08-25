@@ -2505,6 +2505,21 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11024432464139": {
+        "title": "On x FKA twigs Cloudmonster 3 Mule W",
+        "handle": "on-x-fka-twigs-cloudmonster-3-mule-w-loess-hare",
+        "in_stock": false
+      },
+      "11026043044107": {
+        "title": "Saucony Pro Grid Omni 9",
+        "handle": "saucony-pro-grid-omni-9-peat",
+        "in_stock": true
+      },
+      "11025959321867": {
+        "title": "Saucony Pro Grid Omni 9",
+        "handle": "saucony-pro-grid-omni-9-mole",
+        "in_stock": true
+      },
       "11019738415371": {
         "title": "Adidas\tReal Madrid EQT Half Zip Top",
         "handle": "adidasreal-madrid-eqt-half-zip-top-black",
@@ -3738,21 +3753,6 @@
       "11018778018059": {
         "title": "Carhartt WIP Chapter Script T-Shirt",
         "handle": "carhartt-wip-chapter-script-tshirt-tobacco-white",
-        "in_stock": true
-      },
-      "11018778837259": {
-        "title": "Carhartt WIP Gabe Beanie",
-        "handle": "carhartt-wip-gabe-beanie-fleur-de-sel",
-        "in_stock": true
-      },
-      "11018779164939": {
-        "title": "Carhartt WIP Gabe Beanie",
-        "handle": "carhartt-wip-gabe-beanie-hortensia",
-        "in_stock": true
-      },
-      "11020756189451": {
-        "title": "Carhartt WIP Gabe Beanie",
-        "handle": "carhartt-wip-gabe-beanie-styx",
         "in_stock": true
       }
     },
@@ -7034,7 +7034,7 @@
       "10591395021066": {
         "title": "Hoka One One x Beams BONDI 7",
         "handle": "hoka-one-one-x-beams-bondi-7-chestnut-black-bean",
-        "in_stock": false
+        "in_stock": true
       },
       "10591394496778": {
         "title": "adidas Originals BW ARMY",
@@ -8768,8 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift Nep Yarn Jacket - Navy\nhttps://sneakerpolitics.com/products/honor-the-gift-nep-yarn-jacket-navy",
-      "detected_at": "2026-08-25T07:46:40.849835+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Omni 9\nhttps://www.asphaltgold.de/products/saucony-pro-grid-omni-9-peat",
+      "detected_at": "2026-08-25T08:46:18.777112+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Omni 9\nhttps://www.asphaltgold.de/products/saucony-pro-grid-omni-9-mole",
+      "detected_at": "2026-08-25T08:46:18.777112+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Hoka One One x Beams BONDI 7\nhttps://www.afew-store.com/products/hoka-one-one-x-beams-bondi-7-chestnut-black-bean",
+      "detected_at": "2026-08-25T08:46:18.777112+00:00"
     }
   ]
 }
