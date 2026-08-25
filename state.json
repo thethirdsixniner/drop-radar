@@ -4367,11 +4367,6 @@
         "handle": "air-jordan-1-low-se-obsidian-university-gold",
         "in_stock": true
       },
-      "9274247741628": {
-        "title": "Jordan 6 Retro 'Cap And Gown' (PS) - Black/Reflect Silver",
-        "handle": "jordan-6-retro-cap-and-gown-ps-black-reflect-silver",
-        "in_stock": false
-      },
       "9108112867516": {
         "title": "Adidas Bringbacks Remixed Argentina Jersey - Clear Blue/White",
         "handle": "adidas-bringbacks-remixed-argentina-jersey-clear-blue-white",
@@ -5005,6 +5000,11 @@
       "9369299648700": {
         "title": "Billionaire Boys Club Flagship Apollo Pant - Black",
         "handle": "billionaire-boys-club-flagship-apollo-pant-black",
+        "in_stock": true
+      },
+      "9369300238524": {
+        "title": "Billionaire Boys Club Curve Logo SS Tee - Black",
+        "handle": "billionaire-boys-club-curve-logo-ss-tee-black",
         "in_stock": true
       }
     },
@@ -8768,50 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Lacoste\tDenim Bermuda Shorts\nhttps://www.asphaltgold.de/products/lacostedenim-bermuda-shorts-washed-bleach",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Willy Chavarria Satin Bomber Jacket\nhttps://www.asphaltgold.de/products/adidas-x-willy-chavarria-satin-bomber-jacket-black",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Brandon Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-brandon-pant-blue-rigid",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Beach Sign Tee\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-beach-sign-tee-white",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Detroit Half Zip Sweater\nhttps://www.asphaltgold.de/products/carhartt-wip-detroit-half-zip-sweater-black",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: HAL Studios Studio Pant\nhttps://www.asphaltgold.de/products/hal-studios-studio-pant-black",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP L/S Vista Waffle T-Shirt\nhttps://www.asphaltgold.de/products/carhartt-wip-ls-vista-waffle-tshirt-fleur-de-sel",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Gabe Beanie\nhttps://www.asphaltgold.de/products/carhartt-wip-gabe-beanie-black",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-american-script-sweat-raven",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP OG Cargo Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-og-cargo-pant-black-stone-washed",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Half Zip American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-half-zip-american-script-sweat-amarone",
-      "detected_at": "2026-08-25T22:45:56.078552+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-suede-net-pistacchio-black",
       "detected_at": "2026-08-25T23:26:47.173237+00:00"
     },
@@ -9050,6 +9006,10 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Smoking Tiger T-Shirt White\nhttps://www.slamjam.com/products/aries-clothing-smoking-tiger-ss-tee-white-j354746",
       "detected_at": "2026-08-25T23:26:47.173237+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Curve Logo SS Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-curve-logo-ss-tee-black",
+      "detected_at": "2026-08-25T23:50:23.145005+00:00"
     }
   ]
 }
