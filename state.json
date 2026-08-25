@@ -3243,7 +3243,7 @@
       "10747475722507": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-focus-olive-fox-brown-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10781133373707": {
         "title": "Nike Pegasus Premium",
@@ -3926,11 +3926,6 @@
         "title": "Godspeed New York Badges Of Honor Tee - Military Green",
         "handle": "godspeed-new-york-badges-of-honor-tee-military-green",
         "in_stock": true
-      },
-      "9312599408828": {
-        "title": "Kool-Aid x Nike Ja 3 - Light Lemon/Pink Beam",
-        "handle": "kool-aid-x-nike-ja-3-light-lemon-pink-beam",
-        "in_stock": false
       },
       "9346461434044": {
         "title": "Nike Kobe 10 Protro 'Halo' - White/Multi",
@@ -5005,6 +5000,11 @@
       "9472703332540": {
         "title": "Nike Vomero Plus SP - Desert Camo/Yukon Brown",
         "handle": "nike-vomero-plus-sp-desert-camo-yukon-brown",
+        "in_stock": true
+      },
+      "9472685113532": {
+        "title": "Nike Air Max 90 SP - Shadow Brown/Buff",
+        "handle": "nike-air-max-90-sp-shadow-brown-buff",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 90 SP - Shadow Brown/Buff\nhttps://sneakerpolitics.com/products/nike-air-max-90-sp-shadow-brown-buff",
+      "detected_at": "2026-08-25T05:48:06.768320+00:00"
+    }
+  ]
 }
