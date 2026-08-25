@@ -2505,6 +2505,21 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11019738415371": {
+        "title": "Adidas\tReal Madrid EQT Half Zip Top",
+        "handle": "adidasreal-madrid-eqt-half-zip-top-black",
+        "in_stock": false
+      },
+      "11015243727115": {
+        "title": "Tekla Duvet Cover",
+        "handle": "tekla-duvet-cover-clay-stripes",
+        "in_stock": true
+      },
+      "11015244939531": {
+        "title": "Tekla Pillow Sham",
+        "handle": "tekla-pillow-sham-clay-stripes",
+        "in_stock": true
+      },
       "10831127150859": {
         "title": "Adidas x Hermanos Koumori Socks",
         "handle": "adidas-x-hermanos-koumori-socks-black-reflective-silver",
@@ -3643,7 +3658,7 @@
       "10800048734475": {
         "title": "Carhartt WIP Aaron Pant",
         "handle": "carhartt-wip-aaron-pant-blue-burst-washed",
-        "in_stock": true
+        "in_stock": false
       },
       "10799641428235": {
         "title": "Adidas x Willy Chavarria Satin Bomber Jacket",
@@ -3738,21 +3753,6 @@
       "11020756189451": {
         "title": "Carhartt WIP Gabe Beanie",
         "handle": "carhartt-wip-gabe-beanie-styx",
-        "in_stock": true
-      },
-      "11018780377355": {
-        "title": "Carhartt WIP Brandon Pant",
-        "handle": "carhartt-wip-brandon-pant-palisander-stone-dyed",
-        "in_stock": true
-      },
-      "11018781032715": {
-        "title": "Carhartt WIP L/S Vista Waffle T-Shirt",
-        "handle": "carhartt-wip-ls-vista-waffle-tshirt-tobacco-garment-dyed",
-        "in_stock": true
-      },
-      "11018781917451": {
-        "title": "Carhartt WIP Firth Sweater",
-        "handle": "carhartt-wip-firth-sweater-palisander",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max 90 SP - Shadow Brown/Buff\nhttps://sneakerpolitics.com/products/nike-air-max-90-sp-shadow-brown-buff",
-      "detected_at": "2026-08-25T05:48:06.768320+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Tekla Duvet Cover\nhttps://www.asphaltgold.de/products/tekla-duvet-cover-clay-stripes",
+      "detected_at": "2026-08-25T06:52:33.687225+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Tekla Pillow Sham\nhttps://www.asphaltgold.de/products/tekla-pillow-sham-clay-stripes",
+      "detected_at": "2026-08-25T06:52:33.687225+00:00"
     }
   ]
 }
