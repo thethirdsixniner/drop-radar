@@ -2505,6 +2505,36 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11026186764555": {
+        "title": "On Cloudsurfer Trail 2 WP",
+        "handle": "on-cloudsurfer-trail-2-wp-black-black",
+        "in_stock": true
+      },
+      "11024433316107": {
+        "title": "On x FKA twigs Cloudmonster 3 Mule W",
+        "handle": "on-x-fka-twigs-cloudmonster-3-mule-w-cacao-espresso",
+        "in_stock": false
+      },
+      "11024683630859": {
+        "title": "New Era Fluffy Mohair Beanie",
+        "handle": "new-era-fluffy-mohair-beanie-gray",
+        "in_stock": true
+      },
+      "11024678224139": {
+        "title": "New Era Fluffy Mohair Beanie",
+        "handle": "new-era-fluffy-mohair-beanie-pastel-pink",
+        "in_stock": true
+      },
+      "11024675504395": {
+        "title": "New Era New York Yankees Chunky Knit Beanie",
+        "handle": "new-era-new-york-yankees-chunky-knit-beanie-cigar-novmber-green",
+        "in_stock": true
+      },
+      "11024667836683": {
+        "title": "New Era Detroit Tigers Wide Cuff Beanie",
+        "handle": "new-era-detroit-tigers-wide-cuff-beanie-navy",
+        "in_stock": true
+      },
       "11024432464139": {
         "title": "On x FKA twigs Cloudmonster 3 Mule W",
         "handle": "on-x-fka-twigs-cloudmonster-3-mule-w-loess-hare",
@@ -2523,7 +2553,7 @@
       "11019738415371": {
         "title": "Adidas\tReal Madrid EQT Half Zip Top",
         "handle": "adidasreal-madrid-eqt-half-zip-top-black",
-        "in_stock": false
+        "in_stock": true
       },
       "11015243727115": {
         "title": "Tekla Duvet Cover",
@@ -3723,36 +3753,6 @@
       "11018769039627": {
         "title": "Carhartt WIP OG Cargo Pant",
         "handle": "carhartt-wip-og-cargo-pant-black-stone-washed",
-        "in_stock": true
-      },
-      "11018770940171": {
-        "title": "Carhartt WIP Half Zip American Script Sweat",
-        "handle": "carhartt-wip-half-zip-american-script-sweat-amarone",
-        "in_stock": true
-      },
-      "11018773168395": {
-        "title": "Carhartt WIP American Script T-Shirt",
-        "handle": "carhartt-wip-american-script-tshirt-amarone",
-        "in_stock": true
-      },
-      "11018773758219": {
-        "title": "Carhartt WIP L/S Madison Cord Shirt",
-        "handle": "carhartt-wip-ls-madison-cord-shirt-raven",
-        "in_stock": true
-      },
-      "11018774315275": {
-        "title": "Carhartt WIP L/S Madison Cord Shirt",
-        "handle": "carhartt-wip-ls-madison-cord-shirt-tobacco",
-        "in_stock": true
-      },
-      "11018777592075": {
-        "title": "Carhartt WIP Chapter Script T-Shirt",
-        "handle": "carhartt-wip-chapter-script-tshirt-black-white",
-        "in_stock": true
-      },
-      "11018778018059": {
-        "title": "Carhartt WIP Chapter Script T-Shirt",
-        "handle": "carhartt-wip-chapter-script-tshirt-tobacco-white",
         "in_stock": true
       }
     },
@@ -6047,7 +6047,7 @@
       "15030847046008": {
         "title": "ASICS Gel NYC 'Cream Cloud Grey'",
         "handle": "asics-gel-nyc-cream-cloud-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "15030846685560": {
         "title": "ASICS Gel NYC 2.0 'Umeboshi Moonrock'",
@@ -7767,17 +7767,17 @@
       "8973977878733": {
         "title": "Adizero PR Sneakers Collegiate Royal / Bright Red",
         "handle": "adidas-footwear-adizero-pr-multicolor-j316159",
-        "in_stock": false
+        "in_stock": true
       },
       "9058352758989": {
         "title": "Wave Prophecy LS Sneakers Odyssey Gray / Black / Metallic Gray",
         "handle": "mizuno-footwear-wave-prophecy-ls-sport-grey-j338171",
-        "in_stock": false
+        "in_stock": true
       },
       "9021047144653": {
         "title": "Men's Space-O Singlet Chalk",
         "handle": "satisfy-clothing-space-o-singlet-beige-j328858",
-        "in_stock": false
+        "in_stock": true
       },
       "9123631038669": {
         "title": "ACG Radical AirFlow Fly Cap Anthracite",
@@ -8768,16 +8768,40 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Omni 9\nhttps://www.asphaltgold.de/products/saucony-pro-grid-omni-9-peat",
-      "detected_at": "2026-08-25T08:46:18.777112+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: On Cloudsurfer Trail 2 WP\nhttps://www.asphaltgold.de/products/on-cloudsurfer-trail-2-wp-black-black",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Saucony Pro Grid Omni 9\nhttps://www.asphaltgold.de/products/saucony-pro-grid-omni-9-mole",
-      "detected_at": "2026-08-25T08:46:18.777112+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Era Fluffy Mohair Beanie\nhttps://www.asphaltgold.de/products/new-era-fluffy-mohair-beanie-gray",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Hoka One One x Beams BONDI 7\nhttps://www.afew-store.com/products/hoka-one-one-x-beams-bondi-7-chestnut-black-bean",
-      "detected_at": "2026-08-25T08:46:18.777112+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Era Fluffy Mohair Beanie\nhttps://www.asphaltgold.de/products/new-era-fluffy-mohair-beanie-pastel-pink",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Era New York Yankees Chunky Knit Beanie\nhttps://www.asphaltgold.de/products/new-era-new-york-yankees-chunky-knit-beanie-cigar-novmber-green",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Era Detroit Tigers Wide Cuff Beanie\nhttps://www.asphaltgold.de/products/new-era-detroit-tigers-wide-cuff-beanie-navy",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Adidas\tReal Madrid EQT Half Zip Top\nhttps://www.asphaltgold.de/products/adidasreal-madrid-eqt-half-zip-top-black",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Adizero PR Sneakers Collegiate Royal / Bright Red\nhttps://www.slamjam.com/products/adidas-footwear-adizero-pr-multicolor-j316159",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Wave Prophecy LS Sneakers Odyssey Gray / Black / Metallic Gray\nhttps://www.slamjam.com/products/mizuno-footwear-wave-prophecy-ls-sport-grey-j338171",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Men's Space-O Singlet Chalk\nhttps://www.slamjam.com/products/satisfy-clothing-space-o-singlet-beige-j328858",
+      "detected_at": "2026-08-25T09:38:02.243024+00:00"
     }
   ]
 }
