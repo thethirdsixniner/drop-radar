@@ -3815,12 +3815,12 @@
       "9088584679612": {
         "title": "On Cloudmonster Void - Iceberg/Tin",
         "handle": "on-cloudmonster-void-iceberg-tin",
-        "in_stock": true
+        "in_stock": false
       },
       "9100857376956": {
         "title": "Rhude Moonlight Footy Sock - Black/White",
         "handle": "rhude-moonlight-footy-sock-black-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9410245558460": {
         "title": "Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow",
@@ -4258,8 +4258,8 @@
         "in_stock": true
       },
       "9409193312444": {
-        "title": "Nike Sportswear Windrunner - Black",
-        "handle": "nike-sportswear-windrunner-black",
+        "title": "Nike Sportswear Windrunner Lined Jacket - Black",
+        "handle": "nike-sportswear-windrunner-lined-jacket-black",
         "in_stock": true
       },
       "9409203732668": {
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air DT Max '96 Low (GS) - Black/Metallic Gold\nhttps://sneakerpolitics.com/products/nike-air-dt-max-96-low-gs-black-metallic-gold",
-      "detected_at": "2026-08-25T03:32:22.771556+00:00"
-    }
-  ]
+  "pending_free": []
 }
