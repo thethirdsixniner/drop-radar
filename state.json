@@ -3308,7 +3308,7 @@
       "10781133373707": {
         "title": "Nike Pegasus Premium",
         "handle": "nike-pegasus-premium-light-loden-metallic-medium-ash",
-        "in_stock": true
+        "in_stock": false
       },
       "10739164152075": {
         "title": "Adidas Adistar Control 5",
@@ -5427,12 +5427,12 @@
       "15044347298168": {
         "title": "Nike Air Max Plus Aqua Blue",
         "handle": "nike-air-max-plus-aqua-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "15044346642808": {
         "title": "Nike Vomero 18 Light Silver Barely Volt Dusty Olive College Grey",
         "handle": "nike-vomero-18-light-silver-barely-volt-dusty-olive-college-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "15044346577272": {
         "title": "Nike Air Max Plus Iron Gray Light Liquid Lime Black",
@@ -6261,6 +6261,11 @@
       }
     },
     "https://www.afew-store.com": {
+      "10599689191690": {
+        "title": "Sorel DAYSTORM HORIZON Gore-Tex",
+        "handle": "sorel-daystorm-horizon-gore-tex-black-black",
+        "in_stock": false
+      },
       "10599349420298": {
         "title": "adidas Originals CLIMACOOL",
         "handle": "adidas-originals-climacool-wontau-ironmt-cblack",
@@ -7504,11 +7509,6 @@
       "10581638742282": {
         "title": "adidas Originals WMNS ADISTAR CONTROL 5",
         "handle": "adidas-originals-wmns-adistar-control-5-warvan-clpink-silvmt",
-        "in_stock": true
-      },
-      "10581638447370": {
-        "title": "adidas Originals HANDBALL SPEZIAL LO",
-        "handle": "adidas-originals-handball-spezial-lo-foxbrn-foxbrn-dbrown",
         "in_stock": true
       }
     },
@@ -8767,26 +8767,6 @@
     }
   },
   "pending_free": [
-    {
-      "message": "🔥 **Restock** at Asphaltgold: Crocs x Brain Dead Echo II\nhttps://www.asphaltgold.de/products/crocs-x-brain-dead-echo-ii-astro-blue",
-      "detected_at": "2026-08-25T10:12:58.577164+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Women's Caspian Dress Powder Blue\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-caspian-dress-blue-j359632",
-      "detected_at": "2026-08-25T10:12:58.577164+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Women's Caspian Dress Prism Pink\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-caspian-dress-pink-j359633",
-      "detected_at": "2026-08-25T10:12:58.577164+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White\nhttps://www.slamjam.com/products/nike-clothing-as-kox-m-nk-df-acdpr-ss-pm-top-black-j352034",
-      "detected_at": "2026-08-25T10:12:58.577164+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's OG Santa Fe Jacket Raven / Black (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-santa-fe-jacket-multicolor-j359206",
-      "detected_at": "2026-08-25T10:12:58.577164+00:00"
-    },
     {
       "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Adistar Jellyfish\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown-1",
       "detected_at": "2026-08-25T10:52:28.605733+00:00"
