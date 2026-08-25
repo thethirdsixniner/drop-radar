@@ -3458,7 +3458,7 @@
       "8470307701003": {
         "title": "New Balance BB550PWT",
         "handle": "new-balance-bb550pwt-sea-salt",
-        "in_stock": true
+        "in_stock": false
       },
       "10218347888907": {
         "title": "Adidas Handball Spezial W",
@@ -3780,7 +3780,7 @@
       "9126460653756": {
         "title": "Asics Gel-Kayano 14 - White/Light Navy",
         "handle": "asics-gel-kayano-14-white-light-navy",
-        "in_stock": false
+        "in_stock": true
       },
       "9081160695996": {
         "title": "Casio Digital Ring Watch - Gold",
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Sneaker Politics: Asics Gel-Kayano 14 - White/Light Navy\nhttps://sneakerpolitics.com/products/asics-gel-kayano-14-white-light-navy",
+      "detected_at": "2026-08-25T19:39:28.385122+00:00"
+    }
+  ]
 }
