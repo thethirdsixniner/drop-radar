@@ -2643,12 +2643,12 @@
       "10080446808331": {
         "title": "Frama Columnae Hand Cream Tube 60 mL",
         "handle": "frama-columnae-hand-cream-tube-60-ml",
-        "in_stock": true
+        "in_stock": false
       },
       "10682906509579": {
         "title": "Byredo Alto Astral Eau de Parfum 50ml",
         "handle": "byredo-alto-astral-eau-de-parfum-50ml-uni",
-        "in_stock": true
+        "in_stock": false
       },
       "10080452509963": {
         "title": "Frama Escalier Hand Cream Tube 60 mL",
@@ -3757,6 +3757,51 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9342165778620": {
+        "title": "Air Jordan 5 Retro (GS) - Black/University Blue",
+        "handle": "air-jordan-5-retro-gs-black-university-blue",
+        "in_stock": false
+      },
+      "9263362998460": {
+        "title": "Pharrell Williams x Adidas Vario Flat Earther - Chalk White/Core Black",
+        "handle": "pharrell-williams-x-adidas-vario-flat-earther-chalk-white-core-black",
+        "in_stock": true
+      },
+      "9106320752828": {
+        "title": "Nike Vomero 18 - Indigo Burst/Hot Lava",
+        "handle": "nike-vomero-18-indigo-burst-hot-lava",
+        "in_stock": true
+      },
+      "9113646989500": {
+        "title": "Salomon XT-4 OG - Vanilla Ice/Ice Flow",
+        "handle": "salomon-xt-4-og-vanilla-ice-ice-flow",
+        "in_stock": true
+      },
+      "8912919265468": {
+        "title": "Stussy Big Ol Jeans - Vintage Black",
+        "handle": "stussy-big-ol-jeans-vintage-black",
+        "in_stock": true
+      },
+      "9358547255484": {
+        "title": "Ryoko Rain Art Has No Rules Tee - Grey",
+        "handle": "ryoko-rain-art-has-no-rules-tee-grey",
+        "in_stock": true
+      },
+      "7781496094908": {
+        "title": "Oakley BXTR Metal - Matte Clear/Prizm Violet",
+        "handle": "oakley-bxtr-metal-matte-clear-prizm-violet",
+        "in_stock": true
+      },
+      "9265251614908": {
+        "title": "Jordan 4 Retro (PS) - Pearl Pink/Iced Carmine",
+        "handle": "jordan-4-retro-ps-pearl-pink-iced-carmine",
+        "in_stock": true
+      },
+      "9295873409212": {
+        "title": "Nike Air Force 1 '07 LV8 'On Tour' - White/White",
+        "handle": "nike-air-force-1-07-lv8-on-tour-white-white",
+        "in_stock": false
+      },
       "9346472706236": {
         "title": "Nike Kobe V Protro 'Dodgers' - Hyper Royal/Wolf Grey",
         "handle": "nike-kobe-v-protro-dodgers-hyper-royal-wolf-grey",
@@ -4815,7 +4860,7 @@
       "9094362792124": {
         "title": "Billionaire Boys Club Stones Tee - Sodalite Blue",
         "handle": "billionaire-boys-club-stones-tee-sodalite-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "8991078023356": {
         "title": "Ice Cream Racing Knit Tee - Antique White",
@@ -4960,51 +5005,6 @@
       "9369319342268": {
         "title": "Billionaire Boys Club Paparazzi SS Tee - Gardenia",
         "handle": "billionaire-boys-club-paparazzi-ss-tee-gardenia",
-        "in_stock": true
-      },
-      "9369319997628": {
-        "title": "Billionaire Boys Club Leopard SS Tee - Black",
-        "handle": "billionaire-boys-club-leopard-ss-tee-black",
-        "in_stock": true
-      },
-      "9369320882364": {
-        "title": "Billionaire Boys Club Clubs SS Tee - Gardenia",
-        "handle": "billionaire-boys-club-clubs-ss-tee-gardenia",
-        "in_stock": true
-      },
-      "9369321767100": {
-        "title": "Billionaire Boys Club Clubs SS Tee - Black",
-        "handle": "billionaire-boys-club-clubs-ss-tee-black",
-        "in_stock": true
-      },
-      "9369322324156": {
-        "title": "Billionaire Boys Club Original L/S Tee - Black",
-        "handle": "billionaire-boys-club-original-l-s-tee-black",
-        "in_stock": true
-      },
-      "9369323110588": {
-        "title": "Billionaire Boys Club Crest Fleece - Heather Grey",
-        "handle": "billionaire-boys-club-crest-fleece-heather-grey",
-        "in_stock": true
-      },
-      "9369323405500": {
-        "title": "Billionaire Boys Club Faded Curve SS Tee - Gardenia",
-        "handle": "billionaire-boys-club-faded-curve-ss-tee-gardenia",
-        "in_stock": true
-      },
-      "9369324650684": {
-        "title": "Billionaire Boys Club Aggie Cord Jacket - Black",
-        "handle": "billionaire-boys-club-aggie-cord-jacket-black",
-        "in_stock": true
-      },
-      "9369325306044": {
-        "title": "Billionaire Boys Club Coat of Arms L/S Shirt - Mediterranea",
-        "handle": "billionaire-boys-club-coat-of-arms-l-s-shirt-mediterranea",
-        "in_stock": true
-      },
-      "9369325895868": {
-        "title": "Billionaire Boys Club Decorated Hat - Lapis Blue",
-        "handle": "billionaire-boys-club-decorated-hat-lapis-blue",
         "in_stock": true
       }
     },
@@ -8768,10 +8768,6 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Asics Gel-Kayano 14 - White/Light Navy\nhttps://sneakerpolitics.com/products/asics-gel-kayano-14-white-light-navy",
-      "detected_at": "2026-08-25T19:39:28.385122+00:00"
-    },
-    {
       "message": "🆕 **New drop** at Sneaker Politics: Nike Kobe V Protro 'Dodgers' - Hyper Royal/Wolf Grey\nhttps://sneakerpolitics.com/products/nike-kobe-v-protro-dodgers-hyper-royal-wolf-grey",
       "detected_at": "2026-08-25T20:01:52.840450+00:00"
     },
@@ -8810,6 +8806,34 @@
     {
       "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-camo",
       "detected_at": "2026-08-25T20:01:52.840450+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Vario Flat Earther - Chalk White/Core Black\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-vario-flat-earther-chalk-white-core-black",
+      "detected_at": "2026-08-25T20:46:47.124526+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Vomero 18 - Indigo Burst/Hot Lava\nhttps://sneakerpolitics.com/products/nike-vomero-18-indigo-burst-hot-lava",
+      "detected_at": "2026-08-25T20:46:47.124526+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Salomon XT-4 OG - Vanilla Ice/Ice Flow\nhttps://sneakerpolitics.com/products/salomon-xt-4-og-vanilla-ice-ice-flow",
+      "detected_at": "2026-08-25T20:46:47.124526+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Stussy Big Ol Jeans - Vintage Black\nhttps://sneakerpolitics.com/products/stussy-big-ol-jeans-vintage-black",
+      "detected_at": "2026-08-25T20:46:47.124526+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Ryoko Rain Art Has No Rules Tee - Grey\nhttps://sneakerpolitics.com/products/ryoko-rain-art-has-no-rules-tee-grey",
+      "detected_at": "2026-08-25T20:46:47.124526+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley BXTR Metal - Matte Clear/Prizm Violet\nhttps://sneakerpolitics.com/products/oakley-bxtr-metal-matte-clear-prizm-violet",
+      "detected_at": "2026-08-25T20:46:47.124526+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 4 Retro (PS) - Pearl Pink/Iced Carmine\nhttps://sneakerpolitics.com/products/jordan-4-retro-ps-pearl-pink-iced-carmine",
+      "detected_at": "2026-08-25T20:46:47.124526+00:00"
     }
   ]
 }
