@@ -3068,7 +3068,7 @@
       "11002458898699": {
         "title": "Crocs x Brain Dead Echo II",
         "handle": "crocs-x-brain-dead-echo-ii-astro-blue",
-        "in_stock": false
+        "in_stock": true
       },
       "10723903832331": {
         "title": "Salomon XT-Whisper",
@@ -7552,12 +7552,12 @@
       "9126903349453": {
         "title": "Women's Caspian Dress Powder Blue",
         "handle": "kiko-kostadinov-clothing-wmns-caspian-dress-blue-j359632",
-        "in_stock": false
+        "in_stock": true
       },
       "9126903316685": {
         "title": "Women's Caspian Dress Prism Pink",
         "handle": "kiko-kostadinov-clothing-wmns-caspian-dress-pink-j359633",
-        "in_stock": false
+        "in_stock": true
       },
       "9127456440525": {
         "title": "Men's Layered Zipped Longsleeve T-Shirt White",
@@ -7712,7 +7712,7 @@
       "9127454867661": {
         "title": "Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White",
         "handle": "nike-clothing-as-kox-m-nk-df-acdpr-ss-pm-top-black-j352034",
-        "in_stock": false
+        "in_stock": true
       },
       "9127453917389": {
         "title": "Men's Cable-Knit Rugby Shirt Purple Mix",
@@ -8182,7 +8182,7 @@
       "9126760808653": {
         "title": "Men's OG Santa Fe Jacket Raven / Black (Stone Canvas)",
         "handle": "carhartt-wip-clothing-og-santa-fe-jacket-multicolor-j359206",
-        "in_stock": false
+        "in_stock": true
       },
       "9126760775885": {
         "title": "Men's OG Chore Coat WIP Dusty H / Tobacco (Stone Canvas)",
@@ -8802,6 +8802,26 @@
     {
       "message": "🔥 **Restock** at Slam Jam: Men's Space-O Singlet Chalk\nhttps://www.slamjam.com/products/satisfy-clothing-space-o-singlet-beige-j328858",
       "detected_at": "2026-08-25T09:38:02.243024+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Crocs x Brain Dead Echo II\nhttps://www.asphaltgold.de/products/crocs-x-brain-dead-echo-ii-astro-blue",
+      "detected_at": "2026-08-25T10:12:58.577164+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Women's Caspian Dress Powder Blue\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-caspian-dress-blue-j359632",
+      "detected_at": "2026-08-25T10:12:58.577164+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Women's Caspian Dress Prism Pink\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-wmns-caspian-dress-pink-j359633",
+      "detected_at": "2026-08-25T10:12:58.577164+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Men's Korea x PEACEMINUSONE Dri-FIT Academy Pro Football T-Shirt Black / White\nhttps://www.slamjam.com/products/nike-clothing-as-kox-m-nk-df-acdpr-ss-pm-top-black-j352034",
+      "detected_at": "2026-08-25T10:12:58.577164+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: Men's OG Santa Fe Jacket Raven / Black (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-santa-fe-jacket-multicolor-j359206",
+      "detected_at": "2026-08-25T10:12:58.577164+00:00"
     }
   ]
 }
