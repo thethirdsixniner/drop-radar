@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9261906886844": {
+        "title": "Nike Air DT Max '96 Low (GS) - Black/Metallic Gold",
+        "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
+        "in_stock": true
+      },
       "9126460653756": {
         "title": "Asics Gel-Kayano 14 - White/Light Navy",
         "handle": "asics-gel-kayano-14-white-light-navy",
@@ -5000,11 +5005,6 @@
       "9472703332540": {
         "title": "Nike Vomero Plus SP - Desert Camo/Yukon Brown",
         "handle": "nike-vomero-plus-sp-desert-camo-yukon-brown",
-        "in_stock": true
-      },
-      "9472685113532": {
-        "title": "Nike Air Max 90 SP - Shadow Brown/Buff",
-        "handle": "nike-air-max-90-sp-shadow-brown-buff",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air DT Max '96 Low (GS) - Black/Metallic Gold\nhttps://sneakerpolitics.com/products/nike-air-dt-max-96-low-gs-black-metallic-gold",
+      "detected_at": "2026-08-25T03:32:22.771556+00:00"
+    }
+  ]
 }
