@@ -3098,7 +3098,7 @@
       "10793558311179": {
         "title": "Adidas x Wales Bonner Wool Pant",
         "handle": "adidas-x-wales-bonner-wool-pant-dark-grey-heather",
-        "in_stock": true
+        "in_stock": false
       },
       "10672171385099": {
         "title": "The North Face Red Box Sweatpants",
@@ -6261,10 +6261,20 @@
       }
     },
     "https://www.afew-store.com": {
+      "10599726317834": {
+        "title": "Crocs x Brain Dead Echo Clog 2",
+        "handle": "crocs-x-brain-dead-multi",
+        "in_stock": false
+      },
+      "10599698563338": {
+        "title": "NEW AMSTERDAM SURF ASSOCIATION KNITTED HALF ZIP",
+        "handle": "new-amsterdam-surf-association-knitted-half-zip-night",
+        "in_stock": true
+      },
       "10599689191690": {
         "title": "Sorel DAYSTORM HORIZON Gore-Tex",
         "handle": "sorel-daystorm-horizon-gore-tex-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10599349420298": {
         "title": "adidas Originals CLIMACOOL",
@@ -7499,16 +7509,6 @@
       "10581640151306": {
         "title": "Mizuno MORELIA LS SUEDE",
         "handle": "mizuno-morelia-ls-suede-zephyr-black-football-gold",
-        "in_stock": true
-      },
-      "10581640085770": {
-        "title": "Mizuno MORELIA LS SUEDE",
-        "handle": "mizuno-morelia-ls-suede-chicory-coffee-black-bean-football-gold",
-        "in_stock": true
-      },
-      "10581638742282": {
-        "title": "adidas Originals WMNS ADISTAR CONTROL 5",
-        "handle": "adidas-originals-wmns-adistar-control-5-warvan-clpink-silvmt",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Adistar Jellyfish\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-adistar-jellyfish-chalk-white-off-white-clear-brown-1",
-      "detected_at": "2026-08-25T10:52:28.605733+00:00"
+      "message": "🆕 **New drop** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION KNITTED HALF ZIP\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-knitted-half-zip-night",
+      "detected_at": "2026-08-25T12:03:47.161516+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Sorel DAYSTORM HORIZON Gore-Tex\nhttps://www.afew-store.com/products/sorel-daystorm-horizon-gore-tex-black-black",
+      "detected_at": "2026-08-25T12:03:47.161516+00:00"
     }
   ]
 }
