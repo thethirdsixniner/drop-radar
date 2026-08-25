@@ -2640,16 +2640,6 @@
         "handle": "byredo-desert-dawn-eau-de-parfum-50ml-uni",
         "in_stock": true
       },
-      "10080446808331": {
-        "title": "Frama Columnae Hand Cream Tube 60 mL",
-        "handle": "frama-columnae-hand-cream-tube-60-ml",
-        "in_stock": false
-      },
-      "10682906509579": {
-        "title": "Byredo Alto Astral Eau de Parfum 50ml",
-        "handle": "byredo-alto-astral-eau-de-parfum-50ml-uni",
-        "in_stock": false
-      },
       "10080452509963": {
         "title": "Frama Escalier Hand Cream Tube 60 mL",
         "handle": "frama-escalier-hand-cream-tube-60-ml-uni",
@@ -2910,11 +2900,6 @@
         "handle": "new-balance-204l-dark-silver-metallic-slate-grey",
         "in_stock": true
       },
-      "10887365820683": {
-        "title": "Adidas Handball Spezial",
-        "handle": "adidas-handball-spezial-clay-wonder-aluminium-gum-4",
-        "in_stock": false
-      },
       "10888469741835": {
         "title": "By Parra Sporte 5 Panel Hat",
         "handle": "by-parra-sporte-5-panel-hat-white",
@@ -3135,11 +3120,6 @@
         "handle": "salomon-xtwhisper-sharp-green-monument-nine-iron",
         "in_stock": true
       },
-      "10647298310411": {
-        "title": "HOKA Mafate Speed 4 Lite",
-        "handle": "hoka-mafate-speed-4-lite-electric-cobalt-dry-chili",
-        "in_stock": false
-      },
       "10620969943307": {
         "title": "Adidas Adizero Aruku",
         "handle": "adidas-adizero-aruku-silver-metallic-crystal-white-grey-three",
@@ -3154,11 +3134,6 @@
         "title": "HOKA Clifton One9",
         "handle": "hoka-clifton-one9-ash-grey-silver",
         "in_stock": true
-      },
-      "10793558311179": {
-        "title": "Adidas x Wales Bonner Wool Pant",
-        "handle": "adidas-x-wales-bonner-wool-pant-dark-grey-heather",
-        "in_stock": false
       },
       "10672171385099": {
         "title": "The North Face Red Box Sweatpants",
@@ -3355,21 +3330,6 @@
         "handle": "adidas-y3-elite-5-baseball-shirt-black",
         "in_stock": true
       },
-      "10862720221451": {
-        "title": "Adidas Beckenbauer Track Top",
-        "handle": "adidas-beckenbauer-track-top-black",
-        "in_stock": false
-      },
-      "10747475722507": {
-        "title": "Adidas Handball Spezial",
-        "handle": "adidas-handball-spezial-focus-olive-fox-brown-gum",
-        "in_stock": false
-      },
-      "10781133373707": {
-        "title": "Nike Pegasus Premium",
-        "handle": "nike-pegasus-premium-light-loden-metallic-medium-ash",
-        "in_stock": false
-      },
       "10739164152075": {
         "title": "Adidas Adistar Control 5",
         "handle": "adidas-adistar-control-5-grey-3-core-black-silver-metallic",
@@ -3455,20 +3415,10 @@
         "handle": "adidas-japan-w-footwear-white-preloved-brown-cream-white",
         "in_stock": true
       },
-      "8470307701003": {
-        "title": "New Balance BB550PWT",
-        "handle": "new-balance-bb550pwt-sea-salt",
-        "in_stock": false
-      },
       "10218347888907": {
         "title": "Adidas Handball Spezial W",
         "handle": "adidas-handball-spezial-w-glow-pink-flat-orange-gum-1",
         "in_stock": true
-      },
-      "10150387712267": {
-        "title": "Adidas Gazelle W",
-        "handle": "adidas-gazelle-w-green-semi-flash-aqua-gold-metallic",
-        "in_stock": false
       },
       "8996545495307": {
         "title": "Asphaltgold Pleated Shorts",
@@ -3579,11 +3529,6 @@
         "title": "Autry Medalist W",
         "handle": "autry-medalist-w-beige",
         "in_stock": true
-      },
-      "10795018125579": {
-        "title": "Adidas Motor Ave Racer Jacket",
-        "handle": "adidas-motor-ave-racer-jacket-off-white",
-        "in_stock": false
       },
       "10748973220107": {
         "title": "Farah Japan Long Chester Coat",
@@ -3753,6 +3698,61 @@
       "10881549009163": {
         "title": "mfpen\tNew Input Shirt",
         "handle": "mfpennew-input-shirt-dark-brown-triple-stripe",
+        "in_stock": true
+      },
+      "10877061726475": {
+        "title": "Lacoste\tDenim Bermuda Shorts",
+        "handle": "lacostedenim-bermuda-shorts-washed-bleach",
+        "in_stock": true
+      },
+      "10799641428235": {
+        "title": "Adidas x Willy Chavarria Satin Bomber Jacket",
+        "handle": "adidas-x-willy-chavarria-satin-bomber-jacket-black",
+        "in_stock": true
+      },
+      "10795491885323": {
+        "title": "Carhartt WIP Brandon Pant",
+        "handle": "carhartt-wip-brandon-pant-blue-rigid",
+        "in_stock": true
+      },
+      "10839092986123": {
+        "title": "New Amsterdam Surf Association Beach Sign Tee",
+        "handle": "new-amsterdam-surf-association-beach-sign-tee-white",
+        "in_stock": true
+      },
+      "10730412146955": {
+        "title": "Carhartt WIP Detroit Half Zip Sweater",
+        "handle": "carhartt-wip-detroit-half-zip-sweater-black",
+        "in_stock": true
+      },
+      "10676338721035": {
+        "title": "HAL Studios Studio Pant",
+        "handle": "hal-studios-studio-pant-black",
+        "in_stock": true
+      },
+      "10733299335435": {
+        "title": "Carhartt WIP L/S Vista Waffle T-Shirt",
+        "handle": "carhartt-wip-ls-vista-waffle-tshirt-fleur-de-sel",
+        "in_stock": true
+      },
+      "8319775899915": {
+        "title": "Carhartt WIP Gabe Beanie",
+        "handle": "carhartt-wip-gabe-beanie-black",
+        "in_stock": true
+      },
+      "11018769989899": {
+        "title": "Carhartt WIP American Script Sweat",
+        "handle": "carhartt-wip-american-script-sweat-raven",
+        "in_stock": true
+      },
+      "11018769039627": {
+        "title": "Carhartt WIP OG Cargo Pant",
+        "handle": "carhartt-wip-og-cargo-pant-black-stone-washed",
+        "in_stock": true
+      },
+      "11018770940171": {
+        "title": "Carhartt WIP Half Zip American Script Sweat",
+        "handle": "carhartt-wip-half-zip-american-script-sweat-amarone",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,21 @@
       }
     },
     "https://www.afew-store.com": {
+      "10600433516810": {
+        "title": "Karhu Fusion 2.0",
+        "handle": "karhu-fusion-2-0-dark-gull-gray-turtledove",
+        "in_stock": false
+      },
+      "10600433451274": {
+        "title": "Karhu Legacy 96",
+        "handle": "karhu-legacy-96-foggy-dew-pineneedle",
+        "in_stock": false
+      },
+      "10600433385738": {
+        "title": "Asics GEL-KAYANO 12.1",
+        "handle": "asics-gel-kayano-12-1-cocoa-powder-cream",
+        "in_stock": false
+      },
       "10599819018506": {
         "title": "Columbia Grave Creek Shirt",
         "handle": "columbia-grave-creek-shirt-sedona-sage",
@@ -7494,21 +7509,6 @@
       "10582553755914": {
         "title": "Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L",
         "handle": "stanley-1913-the-iceflow-flip-straw-2-0-tumbler-30-oz-0-89-lcoffee",
-        "in_stock": true
-      },
-      "10582553624842": {
-        "title": "Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 20 oz / 0.59 L",
-        "handle": "stanley-1913-the-iceflow-flip-straw-2-0-tumbler-20-oz-0-59-lcoffee",
-        "in_stock": true
-      },
-      "10582553329930": {
-        "title": "Stanley 1913 The Quencher H2.0 FlowState Tumbler 40 oz / 1.18 L",
-        "handle": "stanley-1913-the-quencher-h2-0-flowstate-tumbler-40-oz-1-18-lcoffee",
-        "in_stock": true
-      },
-      "10582290202890": {
-        "title": "Asics GEL-KINETIC FR",
-        "handle": "asics-gel-kinetic-fr-black-pure-silver",
         "in_stock": true
       }
     },
@@ -8768,52 +8768,48 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE CRYO SHOT TIEMPO 94 OG - BLACK/ WHITE\nhttps://undefeated.com/products/nike-cryo-shot-tiempo-94-og-black-white",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Lacoste\tDenim Bermuda Shorts\nhttps://www.asphaltgold.de/products/lacostedenim-bermuda-shorts-washed-bleach",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Rouler Tee - Tie Dye\nhttps://sneakerpolitics.com/products/politics-rouler-tee-tie-dye",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas x Willy Chavarria Satin Bomber Jacket\nhttps://www.asphaltgold.de/products/adidas-x-willy-chavarria-satin-bomber-jacket-black",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 4 Retro (PS) - White/Medium Soft Pink\nhttps://sneakerpolitics.com/products/jordan-4-retro-ps-white-medium-soft-pink",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Brandon Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-brandon-pant-blue-rigid",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Max TL 2.5 - Pearl Grey/Neon Yellow\nhttps://sneakerpolitics.com/products/nike-air-max-tl-2-5-pearl-grey-neon-yellow",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Beach Sign Tee\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-beach-sign-tee-white",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Rich Paul x New Balance 2010 - Plum Brown/Burgundy\nhttps://sneakerpolitics.com/products/new-balance-u2010rp1-plum-brown",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Detroit Half Zip Sweater\nhttps://www.asphaltgold.de/products/carhartt-wip-detroit-half-zip-sweater-black",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: New Balance 9060 - Slate Grey/Calcium\nhttps://sneakerpolitics.com/products/new-balance-9060-slate-grey-calcium",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: HAL Studios Studio Pant\nhttps://www.asphaltgold.de/products/hal-studios-studio-pant-black",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Six Pack Tee - White\nhttps://sneakerpolitics.com/products/ice-cream-six-pack-tee-white",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP L/S Vista Waffle T-Shirt\nhttps://www.asphaltgold.de/products/carhartt-wip-ls-vista-waffle-tshirt-fleur-de-sel",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Cashier Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-cashier-tee-black",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Gabe Beanie\nhttps://www.asphaltgold.de/products/carhartt-wip-gabe-beanie-black",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Purple Brand Vintage Denim Shorts - Mid Indigo\nhttps://sneakerpolitics.com/products/purple-brand-vintage-denim-shorts-mid-indigo",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-american-script-sweat-raven",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Ray-Ban Meta Wayfarer - Shiny Black/G15 Green\nhttps://sneakerpolitics.com/products/ray-ban-meta-wayfarer-shiny-black-g15-green",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP OG Cargo Pant\nhttps://www.asphaltgold.de/products/carhartt-wip-og-cargo-pant-black-stone-washed",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Purple Brand Studded Scratch Hoodie - Black\nhttps://sneakerpolitics.com/products/purple-brand-studded-scratch-hoodie-black",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Stride Shorts - Plum\nhttps://sneakerpolitics.com/products/politics-stride-shorts-plum",
-      "detected_at": "2026-08-25T21:30:53.238376+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Half Zip American Script Sweat\nhttps://www.asphaltgold.de/products/carhartt-wip-half-zip-american-script-sweat-amarone",
+      "detected_at": "2026-08-25T22:45:56.078552+00:00"
     }
   ]
 }
