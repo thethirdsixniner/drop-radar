@@ -3468,7 +3468,7 @@
       "10150387712267": {
         "title": "Adidas Gazelle W",
         "handle": "adidas-gazelle-w-green-semi-flash-aqua-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "8996545495307": {
         "title": "Asphaltgold Pleated Shorts",
@@ -3583,7 +3583,7 @@
       "10795018125579": {
         "title": "Adidas Motor Ave Racer Jacket",
         "handle": "adidas-motor-ave-racer-jacket-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10748973220107": {
         "title": "Farah Japan Long Chester Coat",
@@ -7672,7 +7672,7 @@
       "9112091623629": {
         "title": "Men's NOCTA Woven Track Pants Alabaster",
         "handle": "nike-clothing-nocta-northstar-nylon-track-pants-yellow-j356594",
-        "in_stock": true
+        "in_stock": false
       },
       "9107034210509": {
         "title": "Men's Logo T-Shirt White",
@@ -8766,14 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Slam Jam: Brain Dead Echo 2 Clogs Astro Blue\nhttps://www.slamjam.com/products/crocs-footwear-braindead-x-crocs-echo-2-multicolor-j368317",
-      "detected_at": "2026-08-25T17:36:23.675631+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Kith: Kith Records for New Order Technique Vintage Alex Tee - White\nhttps://kith.com/products/khm035098-101",
-      "detected_at": "2026-08-25T18:04:34.219556+00:00"
-    }
-  ]
+  "pending_free": []
 }
