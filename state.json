@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286688215168": {
+        "title": "Nike WMNS Air Superfly Slip Neo SP - Orange Frost / Pink Prime",
+        "handle": "nkiu3170-800",
+        "in_stock": true
+      },
+      "8286526242944": {
+        "title": "SATISFY TheROCKER - Aluminum",
+        "handle": "stf40002-81200",
+        "in_stock": true
+      },
       "8286403133568": {
         "title": "PRE-ORDER | 8th St by Ronnie Fieg for Clarks Originals Ridgevale - Dark Green",
         "handle": "ck26188673",
@@ -1239,16 +1249,6 @@
       "8286669209728": {
         "title": "A.P.C. Chemise Bennet Shirt - Ecru",
         "handle": "apcviamm-h12682-aad",
-        "in_stock": true
-      },
-      "8286669144192": {
-        "title": "A.P.C. Chemise Bennet Shirt - Dark Navy",
-        "handle": "apcviamm-h12682-iak",
-        "in_stock": true
-      },
-      "8286669832320": {
-        "title": "New Balance 1890P - Team Red / Pink",
-        "handle": "nwbu18902uh",
         "in_stock": true
       }
     },
@@ -2505,6 +2505,26 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11026661703947": {
+        "title": "AMI Paris\tAmi De Coeur Quarter-Zip Sweater",
+        "handle": "ami-parisami-de-coeur-quarterzip-sweater-noir",
+        "in_stock": true
+      },
+      "11026658230539": {
+        "title": "AMI Paris Ami De Coeur Bicolor Zipped Sweatshirt",
+        "handle": "ami-paris-ami-de-coeur-bicolor-zipped-sweatshirt-noir-ivoire",
+        "in_stock": true
+      },
+      "11026652299531": {
+        "title": "AMI Paris Double Sleeves Longsleeve",
+        "handle": "ami-paris-double-sleeves-longsleeve-gris-cendre-chine-rouge",
+        "in_stock": true
+      },
+      "11026649809163": {
+        "title": "AMI Paris Baggy Fit Jeans",
+        "handle": "ami-paris-baggy-fit-jeans-bleu-used",
+        "in_stock": true
+      },
       "8491892474123": {
         "title": "Adidas Handball Spezial W",
         "handle": "adidas-handball-spezial-w-wonder-silver-off-white-gum",
@@ -3734,29 +3754,19 @@
         "title": "Adidas x Willy Chavarria Satin Bomber Jacket",
         "handle": "adidas-x-willy-chavarria-satin-bomber-jacket-black",
         "in_stock": true
-      },
-      "10795491885323": {
-        "title": "Carhartt WIP Brandon Pant",
-        "handle": "carhartt-wip-brandon-pant-blue-rigid",
-        "in_stock": true
-      },
-      "10839092986123": {
-        "title": "New Amsterdam Surf Association Beach Sign Tee",
-        "handle": "new-amsterdam-surf-association-beach-sign-tee-white",
-        "in_stock": true
-      },
-      "10730412146955": {
-        "title": "Carhartt WIP Detroit Half Zip Sweater",
-        "handle": "carhartt-wip-detroit-half-zip-sweater-black",
-        "in_stock": true
-      },
-      "10676338721035": {
-        "title": "HAL Studios Studio Pant",
-        "handle": "hal-studios-studio-pant-black",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9505926611132": {
+        "title": "Brain Dead x Crocs Trailbreak 2 - Multi/Deep Green",
+        "handle": "brain-dead-x-crocs-trailbreak-2-multi-deep-green",
+        "in_stock": true
+      },
+      "9474071855292": {
+        "title": "Brain Dead x Crocs Echo II - Astro Blue",
+        "handle": "brain-dead-x-crocs-echo-ii-astro-blue",
+        "in_stock": true
+      },
       "9261906886844": {
         "title": "Nike Air DT Max '96 Low (GS) - Black/Metallic Gold",
         "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
@@ -4996,19 +5006,19 @@
         "title": "Nike Vomero Plus SP - Desert Camo/Yukon Brown",
         "handle": "nike-vomero-plus-sp-desert-camo-yukon-brown",
         "in_stock": true
-      },
-      "9472685113532": {
-        "title": "Nike Air Max 90 SP - Shadow Brown/Buff",
-        "handle": "nike-air-max-90-sp-shadow-brown-buff",
-        "in_stock": true
-      },
-      "8970816192700": {
-        "title": "Honor The Gift Nep Yarn Jacket - Navy",
-        "handle": "honor-the-gift-nep-yarn-jacket-navy",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
+      "15047456653688": {
+        "title": "Samuel Bailey Faded Flannel",
+        "handle": "faded-flannel",
+        "in_stock": false
+      },
+      "15047456751992": {
+        "title": "Samuel Bailey Red Design Dept Tee",
+        "handle": "red-design-dept-tee",
+        "in_stock": true
+      },
       "15038388994424": {
         "title": "Formes Classic Cardholder Glace",
         "handle": "classic-cardholder-glace",
@@ -6248,43 +6258,33 @@
         "title": "Nike P-6000 Sail Wolf Grey",
         "handle": "nike-p-6000-sail-wolf-grey",
         "in_stock": false
-      },
-      "15029892809080": {
-        "title": "Nike P-6000 Spring Green",
-        "handle": "nike-p-6000-spring-green",
-        "in_stock": false
-      },
-      "15029892776312": {
-        "title": "Nike P-6000 Dusty Cactus",
-        "handle": "nike-p-6000-dusty-cactus",
-        "in_stock": false
       }
     },
     "https://www.afew-store.com": {
       "10599819018506": {
         "title": "Columbia Grave Creek Shirt",
         "handle": "columbia-grave-creek-shirt-sedona-sage",
-        "in_stock": false
+        "in_stock": true
       },
       "10599816397066": {
         "title": "Columbia Street Commuter II FZ Fleece Jacket",
         "handle": "columbia-street-commuter-ii-fz-fleece-jacket-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10599813579018": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION BEACH SHIRT",
         "handle": "new-amsterdam-surf-association-beach-shirt-white-red-stripe",
-        "in_stock": false
+        "in_stock": true
       },
       "10599812464906": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION BEACH SHIRT",
         "handle": "new-amsterdam-surf-association-beach-shirt-check-night-grey-check",
-        "in_stock": false
+        "in_stock": true
       },
       "10599810171146": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION LOGO CREWNECK",
         "handle": "new-amsterdam-surf-association-logo-crewneck-falcon-white",
-        "in_stock": false
+        "in_stock": true
       },
       "10599805354250": {
         "title": "Columbia Helvetia II Half Snap Fleece",
@@ -7514,6 +7514,81 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127557726413": {
+        "title": "C / E Cap Brown",
+        "handle": "cav-empt-accessories-c-e-cap-brown-brown-j360762",
+        "in_stock": true
+      },
+      "9127558119629": {
+        "title": "Men's Portray #2 T-Shirt White",
+        "handle": "cav-empt-clothing-portray-2-t-white-j360744",
+        "in_stock": true
+      },
+      "9127558349005": {
+        "title": "Men's MD Temporal Distortion Mesh Shortsleeve Top Navy",
+        "handle": "cav-empt-clothing-md-temporal-distortion-mesh-ss-top-navy-blue-j360738",
+        "in_stock": true
+      },
+      "9127558316237": {
+        "title": "Men's MD Crossed Wires Big T-Shirt White",
+        "handle": "cav-empt-clothing-md-crossed-wires-big-t-white-j360753",
+        "in_stock": true
+      },
+      "9127558217933": {
+        "title": "Men's AS 2x Origin T-Shirt Black",
+        "handle": "cav-empt-clothing-as-2x-origin-t-black-j360751",
+        "in_stock": true
+      },
+      "9127558185165": {
+        "title": "Men's MD Necessity T-Shirt Black",
+        "handle": "cav-empt-clothing-md-necessity-t-black-black-j360748",
+        "in_stock": true
+      },
+      "9127557988557": {
+        "title": "Men's 1992 Washed Denim Pants Indigo",
+        "handle": "cav-empt-clothing-1992-washed-denim-blue-j360720",
+        "in_stock": true
+      },
+      "9127557824717": {
+        "title": "Structure Socks Red",
+        "handle": "cav-empt-clothing-structure-socks-red-red-j360759",
+        "in_stock": true
+      },
+      "9127557857485": {
+        "title": "Structure Socks Blue",
+        "handle": "cav-empt-clothing-structure-socks-blue-blue-j360758",
+        "in_stock": true
+      },
+      "9127557202125": {
+        "title": "Men's Fjord Flannel Shirt Rinsed Green / Thermal Blue",
+        "handle": "patagonia-clothing-men-fjord-flannel-shirt-green-j362324",
+        "in_stock": true
+      },
+      "9127557136589": {
+        "title": "Men's Fjord Flannel Shirt Rinsed Moss / Brown",
+        "handle": "patagonia-clothing-men-fjord-flannel-shirt-brown-j362235",
+        "in_stock": true
+      },
+      "9127557103821": {
+        "title": "Men's Lightweight Synchilla Snap-T Fleece Pullover Dried Fog / Grey",
+        "handle": "patagonia-clothing-men-lw-synch-snap-t-grey-j362323",
+        "in_stock": true
+      },
+      "9127556546765": {
+        "title": "Men's 1933 501 Jeans Dark Wash",
+        "handle": "levis-clothing-1933-501-jeans-dark-indigo-worn-in-blue-j360075",
+        "in_stock": true
+      },
+      "9127556579533": {
+        "title": "Men's 1960s Casual T-Shirt Carbon / Plum",
+        "handle": "levis-clothing-lvc-1960s-casuals-tee-multicolor-multicolor-j360081",
+        "in_stock": true
+      },
+      "9127556612301": {
+        "title": "Men's Bay Meadows Crewneck Sweatshirt Midnight Navy",
+        "handle": "levis-clothing-lvc-bay-meadows-swhirt-blues-blue-j360079",
+        "in_stock": true
+      },
       "9108405616845": {
         "title": "Metal Airtex Longsleeve T-Shirt Black",
         "handle": "aries-clothing-metal-airtex-ls-tee-black-j333020",
@@ -8688,132 +8763,125 @@
         "title": "No Silence Longsleeve T-Shirt White",
         "handle": "no-problemo-clothing-no-silence-ls-tee-white-j350758",
         "in_stock": true
-      },
-      "9125627494605": {
-        "title": "Striped Longsleeve T-Shirt Sand",
-        "handle": "no-problemo-clothing-no-problemo-striped-ls-tee-beige-j350731",
-        "in_stock": true
-      },
-      "9125627363533": {
-        "title": "Double Knee Overdyed Twill Pants Brown",
-        "handle": "no-problemo-clothing-double-knee-overdyed-twill-pants-brown-j350714",
-        "in_stock": true
-      },
-      "9125627396301": {
-        "title": "Heavyweight Bagi Jeans Blue",
-        "handle": "no-problemo-clothing-bagi-jeans-blue-j350713",
-        "in_stock": true
-      },
-      "9125627330765": {
-        "title": "Logo Scarf Red",
-        "handle": "no-problemo-accessories-no-problemo-scarf-red-j350789",
-        "in_stock": true
-      },
-      "9125627297997": {
-        "title": "J'adoro Weedie Pie T-Shirt Black",
-        "handle": "aries-clothing-jadoro-weedie-pie-ss-tee-black-j354742",
-        "in_stock": true
-      },
-      "9125627265229": {
-        "title": "Men's Landon Pants Black (Marble Used Wash)",
-        "handle": "carhartt-wip-clothing-landon-pant-black-j359116",
-        "in_stock": true
-      },
-      "9125626708173": {
-        "title": "Lowell Chukka Moc Toe Leather Ankle Boots Spiced Brown",
-        "handle": "dr-martens-footwear-lowell-chukka-brown-j367937",
-        "in_stock": true
-      },
-      "9125626609869": {
-        "title": "Delapre Penny Loafers Black",
-        "handle": "dr-martens-footwear-delapre-penny-loafer-black-j367925",
-        "in_stock": true
-      },
-      "9125626642637": {
-        "title": "Lowell Leather Moc Toe Shoes Spiced Brown",
-        "handle": "dr-martens-footwear-lowell-brown-j367934",
-        "in_stock": true
-      },
-      "9125626675405": {
-        "title": "Lowell Chukka Moc Toe Leather Ankle Boots Black",
-        "handle": "dr-martens-footwear-lowell-chukka-black-j367936",
-        "in_stock": true
-      },
-      "9125602623693": {
-        "title": "Men's Mineral Dyed Hooded Jacket Military Green",
-        "handle": "stone-island-clothing-jacket-green-j362204",
-        "in_stock": false
-      },
-      "9125527945421": {
-        "title": "MAFC Issue N1 Rat Cover",
-        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-rat-multicolor-j367820",
-        "in_stock": true
-      },
-      "9125527978189": {
-        "title": "MAFC Issue N1 Secret Cover",
-        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-secret-multicolor-j367819",
-        "in_stock": true
-      },
-      "9125528043725": {
-        "title": "MAFC Issue N1 Tiannuska Cover",
-        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-tiannuska-multicolor-j367817",
-        "in_stock": true
-      },
-      "9125528010957": {
-        "title": "MAFC Issue N1 Clara Borde Cover",
-        "handle": "mental-athletic-lifestyle-mental-athletic-mafc-cover-clara-borde-multicolor-j367818",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Handball Spezial W\nhttps://www.asphaltgold.de/products/adidas-handball-spezial-w-wonder-silver-off-white-gum",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Kith: Nike WMNS Air Superfly Slip Neo SP - Orange Frost / Pink Prime\nhttps://kith.com/products/nkiu3170-800",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Terrex Freehiker SL *GORE-TEX*\nhttps://www.asphaltgold.de/products/adidas-terrex-freehiker-sl-goretex-core-black-grey-six-grey-six",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Kith: SATISFY TheROCKER - Aluminum\nhttps://kith.com/products/stf40002-81200",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Adimule *Cow*\nhttps://www.asphaltgold.de/products/adidas-adimule-cow-core-black-core-black-cloud-white",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: AMI Paris\tAmi De Coeur Quarter-Zip Sweater\nhttps://www.asphaltgold.de/products/ami-parisami-de-coeur-quarterzip-sweater-noir",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Adimule\nhttps://www.asphaltgold.de/products/adidas-adimule-core-black-core-black-gum-5",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Ami De Coeur Bicolor Zipped Sweatshirt\nhttps://www.asphaltgold.de/products/ami-paris-ami-de-coeur-bicolor-zipped-sweatshirt-noir-ivoire",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Columbia Helvetia II Half Snap Fleece\nhttps://www.afew-store.com/products/columbia-helvetia-ii-half-snap-fleece-black",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Double Sleeves Longsleeve\nhttps://www.asphaltgold.de/products/ami-paris-double-sleeves-longsleeve-gris-cendre-chine-rouge",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Columbia Helvetia II Printed Half Snap Fleece\nhttps://www.afew-store.com/products/columbia-helvetia-ii-printed-half-snap-fleece-iron-dyeflow",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Baggy Fit Jeans\nhttps://www.asphaltgold.de/products/ami-paris-baggy-fit-jeans-bleu-used",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Columbia Helvetia II Printed Half Snap Fleece\nhttps://www.afew-store.com/products/columbia-helvetia-ii-printed-half-snap-fleece-sedona-sage-summits",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Brain Dead x Crocs Trailbreak 2 - Multi/Deep Green\nhttps://sneakerpolitics.com/products/brain-dead-x-crocs-trailbreak-2-multi-deep-green",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Columbia Helvetia II Printed Half Snap Fleece\nhttps://www.afew-store.com/products/columbia-helvetia-ii-printed-half-snap-fleece-stone-green-soarin",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Brain Dead x Crocs Echo II - Astro Blue\nhttps://sneakerpolitics.com/products/brain-dead-x-crocs-echo-ii-astro-blue",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Columbia Helvetia II Printed Half Snap Fleece\nhttps://www.afew-store.com/products/columbia-helvetia-ii-printed-half-snap-fleece-iron-topoglitch",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🆕 **New drop** at Kick Game: Samuel Bailey Red Design Dept Tee\nhttps://www.kickgame.co.uk/products/red-design-dept-tee",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: adidas Originals x Song For The Mute T-Shirt\nhttps://www.afew-store.com/products/adidas-originals-x-sftm-t-uf-utigre",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🔥 **Restock** at Afew Store: Columbia Grave Creek Shirt\nhttps://www.afew-store.com/products/columbia-grave-creek-shirt-sedona-sage",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Crocs x Brain Dead Echo Clog 2\nhttps://www.afew-store.com/products/crocs-x-brain-dead-multi",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🔥 **Restock** at Afew Store: Columbia Street Commuter II FZ Fleece Jacket\nhttps://www.afew-store.com/products/columbia-street-commuter-ii-fz-fleece-jacket-black",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Metal Airtex Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/aries-clothing-metal-airtex-ls-tee-black-j333020",
-      "detected_at": "2026-08-25T13:11:39.524205+00:00"
+      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION BEACH SHIRT\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-beach-shirt-white-red-stripe",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION BEACH SHIRT\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-beach-shirt-check-night-grey-check",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION LOGO CREWNECK\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-logo-crewneck-falcon-white",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: C / E Cap Brown\nhttps://www.slamjam.com/products/cav-empt-accessories-c-e-cap-brown-brown-j360762",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Portray #2 T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-portray-2-t-white-j360744",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MD Temporal Distortion Mesh Shortsleeve Top Navy\nhttps://www.slamjam.com/products/cav-empt-clothing-md-temporal-distortion-mesh-ss-top-navy-blue-j360738",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MD Crossed Wires Big T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-md-crossed-wires-big-t-white-j360753",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's AS 2x Origin T-Shirt Black\nhttps://www.slamjam.com/products/cav-empt-clothing-as-2x-origin-t-black-j360751",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MD Necessity T-Shirt Black\nhttps://www.slamjam.com/products/cav-empt-clothing-md-necessity-t-black-black-j360748",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 1992 Washed Denim Pants Indigo\nhttps://www.slamjam.com/products/cav-empt-clothing-1992-washed-denim-blue-j360720",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Structure Socks Red\nhttps://www.slamjam.com/products/cav-empt-clothing-structure-socks-red-red-j360759",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Structure Socks Blue\nhttps://www.slamjam.com/products/cav-empt-clothing-structure-socks-blue-blue-j360758",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Fjord Flannel Shirt Rinsed Green / Thermal Blue\nhttps://www.slamjam.com/products/patagonia-clothing-men-fjord-flannel-shirt-green-j362324",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Fjord Flannel Shirt Rinsed Moss / Brown\nhttps://www.slamjam.com/products/patagonia-clothing-men-fjord-flannel-shirt-brown-j362235",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Lightweight Synchilla Snap-T Fleece Pullover Dried Fog / Grey\nhttps://www.slamjam.com/products/patagonia-clothing-men-lw-synch-snap-t-grey-j362323",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 1933 501 Jeans Dark Wash\nhttps://www.slamjam.com/products/levis-clothing-1933-501-jeans-dark-indigo-worn-in-blue-j360075",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 1960s Casual T-Shirt Carbon / Plum\nhttps://www.slamjam.com/products/levis-clothing-lvc-1960s-casuals-tee-multicolor-multicolor-j360081",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Bay Meadows Crewneck Sweatshirt Midnight Navy\nhttps://www.slamjam.com/products/levis-clothing-lvc-bay-meadows-swhirt-blues-blue-j360079",
+      "detected_at": "2026-08-25T14:05:38.698556+00:00"
     }
   ]
 }
