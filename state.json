@@ -2718,7 +2718,7 @@
       "10736886317323": {
         "title": "Autry Dallas W *Suede / Leather*",
         "handle": "autry-dallas-w-suede-leather-cigar-marshmallow",
-        "in_stock": true
+        "in_stock": false
       },
       "10827749523723": {
         "title": "Adidas 3-Sripes Crew Socks 3 Pairs",
@@ -6261,6 +6261,11 @@
       }
     },
     "https://www.afew-store.com": {
+      "10600575729930": {
+        "title": "Saucony x Westside Gunn GRID JAZZ 9",
+        "handle": "saucony-x-westside-gunn-grid-jazz-9-multi-ivory",
+        "in_stock": false
+      },
       "10600562196746": {
         "title": "Nike Book 2 \"Camo\"",
         "handle": "nike-book-2-black-black-total-orange-flax",
@@ -6269,7 +6274,7 @@
       "10600556724490": {
         "title": "Crocs x Brain Dead Trailbreak 2",
         "handle": "crocs-x-brain-dead-trailbreak-2-multi",
-        "in_stock": false
+        "in_stock": true
       },
       "10600433516810": {
         "title": "Karhu Fusion 2.0",
@@ -7505,15 +7510,15 @@
         "title": "Y-3 CHITO CITY GRAPHIC TEE",
         "handle": "y-3-city-gfx-ss-tee-lgsogr",
         "in_stock": true
-      },
-      "10582588129546": {
-        "title": "On Running Cloudrock Low Waterproof",
-        "handle": "on-running-cloudrock-low-wp-glacier-rock",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127614546125": {
+        "title": "A$AP ROCKY Straycat Sneakers Black / Formula Red",
+        "handle": "puma-footwear-a-ap-rocky-x-puma-straycat-black-j363733",
+        "in_stock": false
+      },
       "9056203079885": {
         "title": "Men's Carlson Cut Jeans Rodeo Wash",
         "handle": "our-legacy-clothing-carlson-cut-blue-j322565",
@@ -8758,22 +8763,13 @@
         "title": "Reversible Barbed Love Temple Waffle Longsleeve T-Shirt Black",
         "handle": "aries-clothing-reversible-barbed-love-temple-waffle-ls-tee-black-j354728",
         "in_stock": true
-      },
-      "9125741101261": {
-        "title": "Vintage Western Batten Jean Blue",
-        "handle": "aries-clothing-vintage-western-batten-jean-blue-j354695",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Slam Jam: Reversible Barbed Love Temple Waffle Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/aries-clothing-reversible-barbed-love-temple-waffle-ls-tee-black-j354728",
-      "detected_at": "2026-08-26T08:00:29.155781+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Vintage Western Batten Jean Blue\nhttps://www.slamjam.com/products/aries-clothing-vintage-western-batten-jean-blue-j354695",
-      "detected_at": "2026-08-26T08:00:29.155781+00:00"
+      "message": "🔥 **Restock** at Afew Store: Crocs x Brain Dead Trailbreak 2\nhttps://www.afew-store.com/products/crocs-x-brain-dead-trailbreak-2-multi",
+      "detected_at": "2026-08-26T09:02:53.641390+00:00"
     }
   ]
 }
