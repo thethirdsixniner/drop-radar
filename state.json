@@ -689,7 +689,7 @@
       "8286670356608": {
         "title": "Kith Records for New Order Technique Vintage Alex Tee - White",
         "handle": "khm035098-101",
-        "in_stock": true
+        "in_stock": false
       },
       "8286670258304": {
         "title": "Kith Records for New Order Set of 2 Slip Mats - Multi",
@@ -3987,11 +3987,6 @@
         "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
         "in_stock": true
       },
-      "9126460653756": {
-        "title": "Asics Gel-Kayano 14 - White/Light Navy",
-        "handle": "asics-gel-kayano-14-white-light-navy",
-        "in_stock": false
-      },
       "9081160695996": {
         "title": "Casio Digital Ring Watch - Gold",
         "handle": "casio-digital-ring-watch-gold",
@@ -4867,11 +4862,6 @@
         "handle": "adidas-adistar-xlg-2-0-grey-one-silver-metallic",
         "in_stock": true
       },
-      "8235905974460": {
-        "title": "Salomon XT-4 OG Aurora Borealis - Canteen/Transparent Yellow",
-        "handle": "salomon-xt-4-og-aurora-borealis-canteen-transparent-yellow",
-        "in_stock": false
-      },
       "9490403885244": {
         "title": "Free The Youth x Jordan Track Jacket - Black",
         "handle": "free-the-youth-x-jordan-track-jacket-black",
@@ -5005,6 +4995,16 @@
       "9369300238524": {
         "title": "Billionaire Boys Club Curve Logo SS Tee - Black",
         "handle": "billionaire-boys-club-curve-logo-ss-tee-black",
+        "in_stock": true
+      },
+      "9369300500668": {
+        "title": "Billionaire Boys Club Curve Logo SS Tee - Lemon Meringue",
+        "handle": "billionaire-boys-club-curve-logo-ss-tee-lemon-meringue",
+        "in_stock": true
+      },
+      "9369300730044": {
+        "title": "Billionaire Boys Club Wealth Curve SS Tee - Black",
+        "handle": "billionaire-boys-club-wealth-curve-ss-tee-black",
         "in_stock": true
       }
     },
@@ -7927,7 +7927,7 @@
       "9058352758989": {
         "title": "Wave Prophecy LS Sneakers Odyssey Gray / Black / Metallic Gray",
         "handle": "mizuno-footwear-wave-prophecy-ls-sport-grey-j338171",
-        "in_stock": true
+        "in_stock": false
       },
       "9021047144653": {
         "title": "Men's Space-O Singlet Chalk",
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Curve Logo SS Tee - Lemon Meringue\nhttps://sneakerpolitics.com/products/billionaire-boys-club-curve-logo-ss-tee-lemon-meringue",
+      "detected_at": "2026-08-26T02:50:01.486680+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Wealth Curve SS Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-wealth-curve-ss-tee-black",
+      "detected_at": "2026-08-26T02:50:01.486680+00:00"
+    }
+  ]
 }
