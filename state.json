@@ -2505,6 +2505,26 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11027006718219": {
+        "title": "Hoka Clifton 11 GORE-TEX®",
+        "handle": "hoka-clifton-11-goretex-black-black",
+        "in_stock": true
+      },
+      "11027204931851": {
+        "title": "Hoka Bondi 9 W GLM",
+        "handle": "hoka-bondi-9-w-glm-alabaster-mineral-blue",
+        "in_stock": true
+      },
+      "11026673729803": {
+        "title": "Hoka Clifton 11",
+        "handle": "hoka-clifton-11-boulder-grey-pebble-grey",
+        "in_stock": true
+      },
+      "11026675138827": {
+        "title": "HOKA Tor Summit FLD",
+        "handle": "hoka-tor-summit-fld-black-black",
+        "in_stock": true
+      },
       "11023337160971": {
         "title": "Adidas\tOriginals Varsity Crewneck",
         "handle": "adidasoriginals-varsity-crewneck-light-grey-heather",
@@ -2559,16 +2579,6 @@
         "title": "Adidas Tangum",
         "handle": "adidas-tangum-cloud-white-blue-bird-cream-white",
         "in_stock": true
-      },
-      "11026532466955": {
-        "title": "Adidas x Hermanos Koumori Adizero Evo SL *Woven*",
-        "handle": "adidas-x-hermanos-koumori-adizero-evo-sl-woven-charcoal-night-grey-clear-sky",
-        "in_stock": false
-      },
-      "11026519490827": {
-        "title": "Adidas x Tyrrell Winston ClimaCool 4D",
-        "handle": "adidas-x-tyrrell-winston-climacool-4d-collegiate-red-off-white-matte-gold",
-        "in_stock": false
       },
       "11025950245131": {
         "title": "Adidas München W",
@@ -3744,19 +3754,19 @@
         "title": "Adidas Handball Spezial W",
         "handle": "adidas-handball-spezial-w-glow-pink-flat-orange-gum-1",
         "in_stock": true
-      },
-      "8996545495307": {
-        "title": "Asphaltgold Pleated Shorts",
-        "handle": "asphaltgold-pleated-shorts-brown",
-        "in_stock": true
-      },
-      "8795228864779": {
-        "title": "The North Face Reversible Highline Beanie",
-        "handle": "the-north-face-reversible-highline-beanie-tnf-black-tnf-black-tnf-white",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "9381359485116": {
+        "title": "Nike Vomero Plus 'Cow Print' - Sail/Sail",
+        "handle": "nike-vomero-plus-cow-print-sail-sail",
+        "in_stock": true
+      },
+      "9513745842364": {
+        "title": "Westside Gunn x Saucony Grid Jazz 9 'Awesome God' - Multi/Ivory",
+        "handle": "westside-gunn-x-saucony-grid-jazz-9-awesome-god-multi-ivory-copy",
+        "in_stock": false
+      },
       "9369276874940": {
         "title": "Anti Social Social Club Embroidered Rose Kkotch Tee - White",
         "handle": "anti-social-social-club-embroidered-rose-kkotch-tee-white",
@@ -4996,16 +5006,6 @@
         "title": "Billionaire Boys Club Wealth Curve SS Tee - Black",
         "handle": "billionaire-boys-club-wealth-curve-ss-tee-black",
         "in_stock": true
-      },
-      "9369301254332": {
-        "title": "Billionaire Boys Club Wealth Curve SS Tee - White",
-        "handle": "billionaire-boys-club-wealth-curve-ss-tee-white",
-        "in_stock": true
-      },
-      "9369301614780": {
-        "title": "Billionaire Boys Club Writer SS Tee - Mediterranea",
-        "handle": "billionaire-boys-club-writer-ss-tee-mediterranea",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5222,7 +5222,7 @@
       "15038388339064": {
         "title": "Formes Luxe Washbag Nero",
         "handle": "luxe-washbag-nero",
-        "in_stock": true
+        "in_stock": false
       },
       "15038388306296": {
         "title": "Formes Porto Sling Verdal",
@@ -7552,7 +7552,7 @@
       "9100907348173": {
         "title": "Women's Air Force 1 '07 Sneakers White",
         "handle": "nike-footwear-nike-air-force-1-07-womens-s-black-j335534",
-        "in_stock": true
+        "in_stock": false
       },
       "8990078042317": {
         "title": "Men's Static Shorts Shungite Black",
@@ -8768,88 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Kith Records for New Order Technique Vintage Alex Tee - White\nhttps://kith.com/products/khm035098-101",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Hoka Clifton 11 GORE-TEX®\nhttps://www.asphaltgold.de/products/hoka-clifton-11-goretex-black-black",
+      "detected_at": "2026-08-26T14:54:02.990379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tOriginals Varsity Crewneck\nhttps://www.asphaltgold.de/products/adidasoriginals-varsity-crewneck-light-grey-heather",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Hoka Bondi 9 W GLM\nhttps://www.asphaltgold.de/products/hoka-bondi-9-w-glm-alabaster-mineral-blue",
+      "detected_at": "2026-08-26T14:54:02.990379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tMunich 93 Tracktop\nhttps://www.asphaltgold.de/products/adidasmunich-93-tracktop-warm-vanilla",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Hoka Clifton 11\nhttps://www.asphaltgold.de/products/hoka-clifton-11-boulder-grey-pebble-grey",
+      "detected_at": "2026-08-26T14:54:02.990379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas 3-Stripes Rugby Longsleeve Polo Shirt\nhttps://www.asphaltgold.de/products/adidas-3stripes-rugby-longsleeve-polo-shirt-aurora-coffee",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: HOKA Tor Summit FLD\nhttps://www.asphaltgold.de/products/hoka-tor-summit-fld-black-black",
+      "detected_at": "2026-08-26T14:54:02.990379+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tPowder Tongue Hoodie\nhttps://www.asphaltgold.de/products/adidaspowder-tongue-hoodie-black",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tQuality T-Shirts\nhttps://www.asphaltgold.de/products/adidasquality-tshirts-cloud-white",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Ami De Coeur Alpaca Beanie\nhttps://www.asphaltgold.de/products/ami-paris-ami-de-coeur-alpaca-beanie-marron-chocolat-ecru",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Ami De Coeur Alpaca Beanie\nhttps://www.asphaltgold.de/products/ami-paris-ami-de-coeur-alpaca-beanie-gris-cendre-ecru",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Ami De Coeur Alpaca Beanie\nhttps://www.asphaltgold.de/products/ami-paris-ami-de-coeur-alpaca-beanie-vert-bouteille-ecru",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: mfpen Leisure Zip Up\nhttps://www.asphaltgold.de/products/mfpen-leisure-zip-up-grey-herringbone",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: mfpen Generation Trousers\nhttps://www.asphaltgold.de/products/mfpen-generation-trousers-anthracite-amplified-cord",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Tangum\nhttps://www.asphaltgold.de/products/adidas-tangum-cloud-white-blue-bird-cream-white",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 101 Graphic T-Shirt Bright White\nhttps://www.slamjam.com/products/lee-101-clothing-101-short-slv-graphic-tee-bright-wh-white-j354610",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Faded Will Rise Again T-Shirt Black\nhttps://www.slamjam.com/products/aries-clothing-faded-will-rise-again-ss-tee-black-j354741",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Hot For You T-Shirt Black\nhttps://www.slamjam.com/products/hysteric-glamour-clothing-hot-for-you-t-shirt-black-j362080",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Snake Loop Denim Shorts Indigo\nhttps://www.slamjam.com/products/hysteric-glamour-clothing-snake-loop-denim-shorts-blue-j353930",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Hysteric Days 50's XX Straight Denim Pants Indigo\nhttps://www.slamjam.com/products/hysteric-glamour-clothing-hysteric-days-50s-xx-straight-denim-pants-blue-j353932",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Hysteric Club Baby T-Shirt White\nhttps://www.slamjam.com/products/hysteric-glamour-clothing-hysteric-club-baby-tshirt-white-j353967",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Tech Dri-Fit Woven Full-Zip Jacket Silver Sage / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-tch-df-wvn-wr-fz-jkt-aop-multicolor-j368499",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Air Force 1 '07 Sneakers White\nhttps://www.slamjam.com/products/nike-footwear-nike-air-force-1-07-womens-s-black-j335534",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Static Shorts Shungite Black\nhttps://www.slamjam.com/products/_j-l-a-l_-clothing-static-short-black-j304302",
-      "detected_at": "2026-08-26T13:58:57.869253+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Vomero Plus 'Cow Print' - Sail/Sail\nhttps://sneakerpolitics.com/products/nike-vomero-plus-cow-print-sail-sail",
+      "detected_at": "2026-08-26T14:54:02.990379+00:00"
     }
   ]
 }
