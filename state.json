@@ -1771,7 +1771,7 @@
       "6702691483909": {
         "title": "TIMBERLAND X MLB NEW ERA FITTED 5950 'WHITE SOX' - WHEAT",
         "handle": "timberland-x-mlb-new-era-fitted-5950-white-sox-wheat",
-        "in_stock": true
+        "in_stock": false
       },
       "6702691221765": {
         "title": "TIMBERLAND X MLB NEW ERA FITTED 5950  'LA DODGERS' - WHEAT",
@@ -4032,16 +4032,6 @@
         "handle": "ksubi-spare-ekcess-tee-militant-green",
         "in_stock": true
       },
-      "9088584679612": {
-        "title": "On Cloudmonster Void - Iceberg/Tin",
-        "handle": "on-cloudmonster-void-iceberg-tin",
-        "in_stock": false
-      },
-      "9100857376956": {
-        "title": "Rhude Moonlight Footy Sock - Black/White",
-        "handle": "rhude-moonlight-footy-sock-black-white",
-        "in_stock": false
-      },
       "9410245558460": {
         "title": "Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow",
         "handle": "air-jordan-4-retro-rare-air-white-tour-yellow",
@@ -5005,6 +4995,16 @@
       "9369300730044": {
         "title": "Billionaire Boys Club Wealth Curve SS Tee - Black",
         "handle": "billionaire-boys-club-wealth-curve-ss-tee-black",
+        "in_stock": true
+      },
+      "9369301254332": {
+        "title": "Billionaire Boys Club Wealth Curve SS Tee - White",
+        "handle": "billionaire-boys-club-wealth-curve-ss-tee-white",
+        "in_stock": true
+      },
+      "9369301614780": {
+        "title": "Billionaire Boys Club Writer SS Tee - Mediterranea",
+        "handle": "billionaire-boys-club-writer-ss-tee-mediterranea",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Wealth Curve SS Tee - White\nhttps://sneakerpolitics.com/products/billionaire-boys-club-wealth-curve-ss-tee-white",
+      "detected_at": "2026-08-26T04:42:24.674314+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Writer SS Tee - Mediterranea\nhttps://sneakerpolitics.com/products/billionaire-boys-club-writer-ss-tee-mediterranea",
+      "detected_at": "2026-08-26T04:42:24.674314+00:00"
+    }
+  ]
 }
