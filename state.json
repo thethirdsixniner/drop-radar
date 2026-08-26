@@ -609,7 +609,7 @@
       "8286674256000": {
         "title": "Kith New York to The World Umbrella - Multi",
         "handle": "khl150840-906",
-        "in_stock": true
+        "in_stock": false
       },
       "8286674223232": {
         "title": "Kith & '47 for the New York Yankees Washed Suede Franchise LS Cap - Torpedo",
@@ -1441,7 +1441,7 @@
       "6702685421829": {
         "title": "NIKE AIR FORCE 1 LOW PROTRO - WOLFGREY/ RUSHBLUE",
         "handle": "nike-air-force-1-low-protro-lad-wolf-grey-rush-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "6702685356293": {
         "title": "NIKE KOBE V PROTRO - HYPERROYAL/ WOLFGREY / WHITE",
@@ -2505,6 +2505,16 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11026532466955": {
+        "title": "Adidas x Hermanos Koumori Adizero Evo SL *Woven*",
+        "handle": "adidas-x-hermanos-koumori-adizero-evo-sl-woven-charcoal-night-grey-clear-sky",
+        "in_stock": false
+      },
+      "11026519490827": {
+        "title": "Adidas x Tyrrell Winston ClimaCool 4D",
+        "handle": "adidas-x-tyrrell-winston-climacool-4d-collegiate-red-off-white-matte-gold",
+        "in_stock": false
+      },
       "11025950245131": {
         "title": "Adidas München W",
         "handle": "adidas-mnchen-w-earth-strata-off-white-gum-3",
@@ -3593,7 +3603,7 @@
       "10739164152075": {
         "title": "Adidas Adistar Control 5",
         "handle": "adidas-adistar-control-5-grey-3-core-black-silver-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "10855844708619": {
         "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
@@ -3743,16 +3753,6 @@
       "10818546041099": {
         "title": "thisisneverthat\tTextured Knit Zip Hoodie",
         "handle": "thisisneverthattextured-knit-zip-hoodie-brown",
-        "in_stock": true
-      },
-      "10860740804875": {
-        "title": "Karhu Fusion 2.0",
-        "handle": "karhu-fusion-20-bright-white-foggy-dew",
-        "in_stock": true
-      },
-      "10793681125643": {
-        "title": "Adidas Santa Monica Crewneck",
-        "handle": "adidas-santa-monica-crewneck-black",
         "in_stock": true
       }
     },
@@ -6261,40 +6261,65 @@
       }
     },
     "https://www.afew-store.com": {
+      "10600768766218": {
+        "title": "Satisfy FliteSilk 5-Panel Pinch Cap",
+        "handle": "satisfy-flitesilk-5-panel-pinch-cap-black-eagle1",
+        "in_stock": false
+      },
+      "10600768733450": {
+        "title": "Satisfy FliteSilk 5-Panel Pinch Cap",
+        "handle": "satisfy-flitesilk-5-panel-pinch-cap-rain-drum-caps-eagle",
+        "in_stock": false
+      },
+      "10600764571914": {
+        "title": "Veja x ARPENTEUR PANENKA",
+        "handle": "veja-x-arpenteur-panenka-black",
+        "in_stock": false
+      },
+      "10600762409226": {
+        "title": "Asics GEL-DS TRAINER 14",
+        "handle": "asics-gel-ds-trainer-14-clay-grey-black",
+        "in_stock": false
+      },
+      "10600758313226": {
+        "title": "Sorel AMBLER LUX WATERPROOF",
+        "handle": "sorel-ambler-lx-wp-tobacco-velvet-tan",
+        "in_stock": false
+      },
       "10600749826314": {
         "title": "Satisfy AmbientWarp River Shirt",
         "handle": "satisfy-ambientwarp-river-shirt-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10600748941578": {
         "title": "Alpha Industries MA-1 Heritage",
         "handle": "alpha-industries-ma-1-heritage-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10600748187914": {
         "title": "Alpha Industries G-8 WEP 1973 MODify",
         "handle": "alpha-industries-g-8-wep-1973-modify-sage-green",
-        "in_stock": false
+        "in_stock": true
       },
       "10600745664778": {
         "title": "Gramicci CORDUROY GRAMICCI PANT",
         "handle": "gramicci-corduroy-gramicci-pant-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10600741273866": {
         "title": "Satisfy MothTech Long Tee",
         "handle": "satisfy-mothtech-long-tee-faded-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10600727871754": {
         "title": "Columbia Street Heights Padded Jacket",
         "handle": "columbia-street-heights-padded-jacket-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10600726135050": {
         "title": "Columbia Street Heights Padded Jacket",
         "handle": "columbia-street-heights-padded-jacket-iron",
-        "in_stock": false
+        "in_stock": true
       },
       "10600575729930": {
         "title": "Saucony x Westside Gunn GRID JAZZ 9",
@@ -7485,35 +7510,180 @@
         "title": "Nike Air Max 95 Big Bubble 'Blue Sapphire'",
         "handle": "nike-air-max-95-big-bubble-lawson-blue-sapphire-metallic-silver-white",
         "in_stock": true
-      },
-      "10585192890634": {
-        "title": "Asics GEL-NYC",
-        "handle": "asics-gel-nyc-smoke-grey-black",
-        "in_stock": true
-      },
-      "10585189941514": {
-        "title": "adidas Originals ADISTAR CONTROL 5",
-        "handle": "adidas-originals-adistar-control-5-orbgry-clowhi-ironmt",
-        "in_stock": true
-      },
-      "10584376770826": {
-        "title": "New Balance 991V2 - Made in UK",
-        "handle": "new-balance-991v2-made-in-uk-walnut-shitake",
-        "in_stock": true
-      },
-      "10584106893578": {
-        "title": "Hoka One One MAFATE SPEED 2 TS",
-        "handle": "hoka-one-one-mafate-speed-2-ts-overcast-faded-navy",
-        "in_stock": true
-      },
-      "10584102764810": {
-        "title": "Y-3 GAZELLE",
-        "handle": "y-3-y-3-gazelle-owhite-owhite-black",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9119469273293": {
+        "title": "Women's Rift 2 Sandals Black / Tm Dark Green",
+        "handle": "nike-footwear-wmns-nike-rift-2-black-j364932",
+        "in_stock": true
+      },
+      "9111648141517": {
+        "title": "Eye Jacket Redux Sunglasses Prizm Black / Silver",
+        "handle": "oakley-accessories-eyejacket-redux-grey-j356890",
+        "in_stock": true
+      },
+      "9113259901133": {
+        "title": "Men's ABC Camo Milo Hoodie T-Shirt White / Pink",
+        "handle": "a-bathing-ape-clothing-abc-camo-milo-hoodie-tee-multicolor-j349421",
+        "in_stock": true
+      },
+      "9111648305357": {
+        "title": "Tailend TI Sunglasses Prizm Grey / Satin Carbon",
+        "handle": "oakley-accessories-tailend-ti-grey-j356884",
+        "in_stock": true
+      },
+      "9109112291533": {
+        "title": "MUZM Scar Sunglasses Polished Black / Prizm Black",
+        "handle": "oakley-accessories-muzm-scar-black-j356740",
+        "in_stock": true
+      },
+      "9107035226317": {
+        "title": "Men's College Pullover Hoodie Black",
+        "handle": "a-bathing-ape-clothing-college-pullover-hoodie-black-j349412",
+        "in_stock": true
+      },
+      "9107035128013": {
+        "title": "Men's College Raglan Regular Fit T-Shirt White",
+        "handle": "a-bathing-ape-clothing-college-raglan-regular-fit-ls-tee-white-j349409",
+        "in_stock": true
+      },
+      "9106618613965": {
+        "title": "Men's Bape Kiss Logo T-Shirt Ivory",
+        "handle": "a-bathing-ape-clothing-bape-kiss-logo-tee-white-j349406",
+        "in_stock": true
+      },
+      "9113259868365": {
+        "title": "Men's Ape Target T-Shirt Pink",
+        "handle": "a-bathing-ape-clothing-ape-target-tee-pink-j349405",
+        "in_stock": true
+      },
+      "9113259802829": {
+        "title": "Men's Colors Busy Works STA T-Shirt White",
+        "handle": "a-bathing-ape-clothing-colors-busy-works-sta-tee-white-j349404",
+        "in_stock": true
+      },
+      "9114811859149": {
+        "title": "Men's 1st Camo Busy Works T-Shirt White / Yellow",
+        "handle": "a-bathing-ape-clothing-1st-camo-busy-works-tee-multicolor-j349402",
+        "in_stock": true
+      },
+      "9113259933901": {
+        "title": "Men's ABC Camo College T-Shirt Black / Pink",
+        "handle": "a-bathing-ape-clothing-abc-camo-college-tee-multicolor-j349401",
+        "in_stock": true
+      },
+      "9107349930189": {
+        "title": "Men's College T-Shirt Black",
+        "handle": "a-bathing-ape-clothing-college-tee-black-j349399",
+        "in_stock": true
+      },
+      "9114041450701": {
+        "title": "BAPE STA #6-4 M2 Sneakers Red",
+        "handle": "a-bathing-ape-footwear-bape-sta-6-4-m2-red-j349391",
+        "in_stock": true
+      },
+      "9127558119629": {
+        "title": "Men's Portray #2 T-Shirt White",
+        "handle": "cav-empt-clothing-portray-2-t-white-j360744",
+        "in_stock": true
+      },
+      "9114041483469": {
+        "title": "BAPE STA #6-1 M2 Sneakers Brown",
+        "handle": "a-bathing-ape-footwear-bape-sta-6-1-m2-brown-j349390",
+        "in_stock": true
+      },
+      "9115047952589": {
+        "title": "Wave Oval T-Shirt Black",
+        "handle": "stussy-clothing-wave-oval-tee-black-j356121",
+        "in_stock": true
+      },
+      "9106787664077": {
+        "title": "Surf Size Pigment Dyed T-Shirt Faded Black",
+        "handle": "stussy-clothing-surf-size-pig-dyed-tee-black-j356118",
+        "in_stock": true
+      },
+      "9111033118925": {
+        "title": "Shark Pigment Dyed T-Shirt Natural",
+        "handle": "stussy-clothing-shark-pig-dyed-tee-white-j356115",
+        "in_stock": true
+      },
+      "9106753224909": {
+        "title": "Chenille S Low Pro Cap Dark Brown",
+        "handle": "stussy-accessories-chenille-s-low-pro-cap-brown-j356112",
+        "in_stock": true
+      },
+      "9108124795085": {
+        "title": "Women's Satisfy Pertex Diamond Fuse Windbreaker Black",
+        "handle": "satisfy-clothing-wmns-pertex-diamond-fuse-windbreaker-black-j356040",
+        "in_stock": true
+      },
+      "9108125286605": {
+        "title": "Men's Space‑O Jogger Pants Camo",
+        "handle": "satisfy-clothing-space-o-jogger-pants-multicolor-j356025",
+        "in_stock": true
+      },
+      "9114043056333": {
+        "title": "Men's HeatCrush 8in Desert Shorts Moonstruck",
+        "handle": "satisfy-clothing-heatcrush-8-desert-shorts-green-j356017",
+        "in_stock": true
+      },
+      "9108125417677": {
+        "title": "Men's MothTech Baseball Tee Aged Black",
+        "handle": "satisfy-clothing-mothtech-baseball-tee-white-j356009",
+        "in_stock": true
+      },
+      "9108125319373": {
+        "title": "Men's Space‑O T‑Shirt Camo",
+        "handle": "satisfy-clothing-space-o-t-shirt-multicolor-j356010",
+        "in_stock": true
+      },
+      "9114714046669": {
+        "title": "Men's MothTech T‑Shirt Silver Foil",
+        "handle": "satisfy-clothing-mothtech-t-shirt-grey-j355994",
+        "in_stock": true
+      },
+      "9108125089997": {
+        "title": "Men's Space‑O 5\" Shorts Camo",
+        "handle": "satisfy-clothing-space-o-5-shorts-multicolor-j355989",
+        "in_stock": true
+      },
+      "9105657135309": {
+        "title": "Men's MothTech T-Shirt Aged Black",
+        "handle": "satisfy-clothing-mothtech-t-shirt-black-j355992",
+        "in_stock": true
+      },
+      "9115132592333": {
+        "title": "Men's Bad Ass Mama Tour T-Shirt White",
+        "handle": "hysteric-glamour-clothing-bad-ass-mama-tour-tshirt-white-j353941",
+        "in_stock": true
+      },
+      "9115132625101": {
+        "title": "Men's Dart Track Longsleeve T-Shirt White",
+        "handle": "hysteric-glamour-clothing-dart-track-tshirt-white-j353939",
+        "in_stock": true
+      },
+      "9115132690637": {
+        "title": "Men's Metal Guid Polo Shirt Black",
+        "handle": "hysteric-glamour-clothing-metal-guid-polo-shirt-black-j353933",
+        "in_stock": true
+      },
+      "9109745631437": {
+        "title": "Men's MothTech T-Shirt Aged Black",
+        "handle": "satisfy-clothing-mothtech-t-shirt-black-j355986",
+        "in_stock": true
+      },
+      "9107453706445": {
+        "title": "Men's Shark Full Zip Hoodie Black",
+        "handle": "a-bathing-ape-clothing-shark-full-zip-hoodie-m-black-j328841",
+        "in_stock": true
+      },
+      "9127620640973": {
+        "title": "Men's Tech Dri-FIT Woven Pro Pants Light Smoke Grey / Black",
+        "handle": "nike-clothing-m-nk-tch-df-wvn-pant-aop-grey-j368500",
+        "in_stock": true
+      },
       "9127620214989": {
         "title": "Women's Tasna Mohair Zip-Up Sweater Dirty White",
         "handle": "roa-clothing-tasna-mohair-zip-up-sweater-white-j345231",
@@ -8593,295 +8763,173 @@
         "title": "Men's Piping Ripstop Pants Black",
         "handle": "gr10k-clothing-piping-ripstop-pants-black-j334007",
         "in_stock": true
-      },
-      "9104757326029": {
-        "title": "Women's Guniy Inside Out Zip-Up Baby Hoodie Washed Black",
-        "handle": "roa-clothing-guniy-inside-out-zip-up-baby-hoodie-black-j325455",
-        "in_stock": false
-      },
-      "9125919883469": {
-        "title": "Men's 101 Heritage Workwear Relaxed Shirt Dry Blue",
-        "handle": "lee-101-clothing-101-heritage-ww-shirt-dry-blue-j354612",
-        "in_stock": true
-      },
-      "9125919916237": {
-        "title": "Men's 101 Regular Rider Jacket Dry Blue",
-        "handle": "lee-101-clothing-101-rider-jacket-dry-blue-blue-j354595",
-        "in_stock": true
-      },
-      "9125919850701": {
-        "title": "Men's 101 Heritage Workwear Relaxed Shirt Dry Blue",
-        "handle": "lee-101-clothing-101-heritage-ww-shirt-dry-blue-blue-j354603",
-        "in_stock": true
-      },
-      "9125919686861": {
-        "title": "Men's 101 Graphic T-Shirt Washed Black",
-        "handle": "lee-101-clothing-101-short-slv-graphic-tee-washed-bl-black-j354611",
-        "in_stock": true
-      },
-      "9125919785165": {
-        "title": "Men's 101 50S Western Shirt Dry Blue",
-        "handle": "lee-101-clothing-101-50s-western-shirt-dry-blue-blue-j354602",
-        "in_stock": true
-      },
-      "9125919621325": {
-        "title": "Men's 191 Z Dungaree Denim Pants Something Off",
-        "handle": "lee-101-clothing-191-z-dungaree-something-off-grey-j354589",
-        "in_stock": true
-      },
-      "9125919588557": {
-        "title": "Men's 191 Z Dungaree Heavyweight Pants Blue",
-        "handle": "lee-101-clothing-191-z-dungaree-heavyweight-blue-j354583",
-        "in_stock": true
-      },
-      "9125919457485": {
-        "title": "Men's 101 R Relaxed Jeans Dry Blue",
-        "handle": "lee-101-clothing-101-r-dry-blue-blue-j354567",
-        "in_stock": true
-      },
-      "9125919523021": {
-        "title": "Men's 101 Z Heavyweight Denim Pants Blue",
-        "handle": "lee-101-clothing-101-z-heavyweight-blue-j354577",
-        "in_stock": true
-      },
-      "9125919555789": {
-        "title": "Men's 101 Z Denim Pants Dry Blue",
-        "handle": "lee-101-clothing-101-z-dry-blue-blue-j354569",
-        "in_stock": true
-      },
-      "9125919490253": {
-        "title": "Men's 101 Rider Denim Pants Dry Black",
-        "handle": "lee-101-clothing-101-rider-dry-blue-j354565",
-        "in_stock": true
-      },
-      "9125913952461": {
-        "title": "Men's Free The Youth Football Jersey Top Black / Light Crimson",
-        "handle": "nike-jordan-clothing-m-j-fty-bball-jersey-black-j368489",
-        "in_stock": true
-      },
-      "9125913755853": {
-        "title": "Men's Free The Youth Short Black / Light Crimson",
-        "handle": "nike-jordan-clothing-m-j-fty-short-black-j368491",
-        "in_stock": true
-      },
-      "9125913788621": {
-        "title": "Men's Free The Youth Track Pants Black / Light Crimson",
-        "handle": "nike-jordan-clothing-m-j-fty-track-pant-black-j368493",
-        "in_stock": true
-      },
-      "9125913821389": {
-        "title": "Men's Free The Youth Football Jersey T-Shirt Orange / Yellow / Black / Green",
-        "handle": "nike-jordan-clothing-m-j-fty-ftbl-jersey-white-j368490",
-        "in_stock": true
-      },
-      "9125913723085": {
-        "title": "Free The Youth Scarf Orange / Yellow / Black",
-        "handle": "nike-jordan-accessories-m-j-fty-scarf-white-j368488",
-        "in_stock": true
-      },
-      "9125913854157": {
-        "title": "Men's Free The Youth Track Jacket Black",
-        "handle": "nike-jordan-clothing-m-j-fty-track-jkt-black-j368492",
-        "in_stock": true
-      },
-      "9125878038733": {
-        "title": "Men's IBQ Rampage Pullover Top Black",
-        "handle": "gr10k-clothing-ibq-rampage-pullover-top-black-j355305",
-        "in_stock": true
-      },
-      "9125877743821": {
-        "title": "BEAMS Bondi 7 Sneakers Chestnut / Black Bean",
-        "handle": "hoka-one-one-footwear-u-bondi-7-beams-multicolor-j367528",
-        "in_stock": true
-      },
-      "9125877711053": {
-        "title": "BEAMS Bondi 7 Sneakers Turtledove / Tidal Foam",
-        "handle": "hoka-one-one-footwear-u-bondi-7-beams-white-j367529",
-        "in_stock": true
-      },
-      "9125877678285": {
-        "title": "BW Army Sneakers Core White / Gum",
-        "handle": "adidas-footwear-bw-army-white-j362381",
-        "in_stock": true
-      },
-      "9104742711501": {
-        "title": "Cingino Boots Black",
-        "handle": "roa-footwear-cingino-black-j330169",
-        "in_stock": true
-      },
-      "9125870502093": {
-        "title": "Men's 21000 Replicated Longsleeve Shirt Light Blue",
-        "handle": "gr10k-clothing-21000-replicated-l-s-shirt-blue-j349020",
-        "in_stock": true
-      },
-      "9125870469325": {
-        "title": "Men's 21000 Replicated Longsleeve Shirt Small Check Navy",
-        "handle": "gr10k-clothing-21000-replicated-l-s-shirt-seasonal-multicolor-j349058",
-        "in_stock": true
-      },
-      "9125870436557": {
-        "title": "Men's 10005 Replicated Pleated Pants Black",
-        "handle": "gr10k-clothing-10005-replicated-pleated-pants-black-j349049",
-        "in_stock": true
-      },
-      "9125870600397": {
-        "title": "Men's 35000 Replicated Hoodie Phantom Black",
-        "handle": "gr10k-clothing-35000-replicated-hoodie-sweatshirt-black-j349025",
-        "in_stock": true
-      },
-      "9125870567629": {
-        "title": "Men's 30001 Replicated Polo Sweatshirt Blue Navy",
-        "handle": "gr10k-clothing-30001-replicated-polo-sweatshirt-blue-j349027",
-        "in_stock": true
-      },
-      "9125870534861": {
-        "title": "Men's 30001 Replicated Polo Sweatshirt Phantom Black",
-        "handle": "gr10k-clothing-30001-replicated-polo-sweatshirt-black-j349028",
-        "in_stock": true
-      },
-      "9125870403789": {
-        "title": "Mos Boots Black",
-        "handle": "gr10k-footwear-mos-boot-black-j355080",
-        "in_stock": true
-      },
-      "9125869551821": {
-        "title": "Men's Seagull Print Denim Jacket Raw Indigo",
-        "handle": "evisu-clothing-ht-ecru-seagull-printed-denim-jacket-blue-j352949",
-        "in_stock": true
-      },
-      "9125869453517": {
-        "title": "Men's Logo Embroidery Knit Pullover Black",
-        "handle": "evisu-clothing-ht-logo-emb-knit-pullover-black-j352998",
-        "in_stock": true
-      },
-      "9125869420749": {
-        "title": "Men's Seagull Embroidery T-Shirt Black",
-        "handle": "evisu-clothing-ht-seagull-emb-ss-tee-black-j352957",
-        "in_stock": true
-      },
-      "9125869519053": {
-        "title": "Men's Seagull Printed Hoodie Black",
-        "handle": "evisu-clothing-ht-seaguall-printed-hoodie-black-j352947",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas München W\nhttps://www.asphaltgold.de/products/adidas-mnchen-w-earth-strata-off-white-gum-3",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🔥 **Restock** at Afew Store: Satisfy AmbientWarp River Shirt\nhttps://www.afew-store.com/products/satisfy-ambientwarp-river-shirt-black",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Tasna Mohair Zip-Up Sweater Dirty White\nhttps://www.slamjam.com/products/roa-clothing-tasna-mohair-zip-up-sweater-white-j345231",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🔥 **Restock** at Afew Store: Alpha Industries MA-1 Heritage\nhttps://www.afew-store.com/products/alpha-industries-ma-1-heritage-black-black",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Shrub Felted Knit Zip-Up Sweater Fuzzy Brown\nhttps://www.slamjam.com/products/roa-clothing-shrub-felted-knit-zip-up-brown-j345229",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🔥 **Restock** at Afew Store: Alpha Industries G-8 WEP 1973 MODify\nhttps://www.afew-store.com/products/alpha-industries-g-8-wep-1973-modify-sage-green",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Testudo Reinforced Softshell Jacket Black\nhttps://www.slamjam.com/products/roa-clothing-testudo-reinforced-softshell-jacket-black-j345089",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🔥 **Restock** at Afew Store: Gramicci CORDUROY GRAMICCI PANT\nhttps://www.afew-store.com/products/gramicci-corduroy-gramicci-pant-black",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Ewe Furry Jacket Fuzzy Dark Brown\nhttps://www.slamjam.com/products/roa-clothing-ewe-furry-jacket-brown-j345090",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🔥 **Restock** at Afew Store: Satisfy MothTech Long Tee\nhttps://www.afew-store.com/products/satisfy-mothtech-long-tee-faded-black",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Ocular Polartec Thermal Pro Zip-Up Hoodie Black\nhttps://www.slamjam.com/products/roa-clothing-ocular-polartec-thermal-pro-zip-up-hoodie-black-j339545",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🔥 **Restock** at Afew Store: Columbia Street Heights Padded Jacket\nhttps://www.afew-store.com/products/columbia-street-heights-padded-jacket-black",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Logger Wool Check Long Sleeve Shirt Anthracite\nhttps://www.slamjam.com/products/roa-clothing-logger-wool-check-long-sleeve-shirt-black-j341009",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🔥 **Restock** at Afew Store: Columbia Street Heights Padded Jacket\nhttps://www.afew-store.com/products/columbia-street-heights-padded-jacket-iron",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Daze Compression Seamless Long Sleeve Top White\nhttps://www.slamjam.com/products/roa-clothing-daze-compression-seamless-long-sleeve-white-j340033",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Rift 2 Sandals Black / Tm Dark Green\nhttps://www.slamjam.com/products/nike-footwear-wmns-nike-rift-2-black-j364932",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Inside Out Zip-Up Baby Hoodie Washed Black\nhttps://www.slamjam.com/products/roa-clothing-logo-inside-out-zip-up-baby-hoodie-black-j340276",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Eye Jacket Redux Sunglasses Prizm Black / Silver\nhttps://www.slamjam.com/products/oakley-accessories-eyejacket-redux-grey-j356890",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Bee Sun Faded Organic Waffle Zip-Up Hoodie Graphite\nhttps://www.slamjam.com/products/roa-clothing-bee-sun-faded-organic-waffle-zip-up-hoodie-black-j340279",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's ABC Camo Milo Hoodie T-Shirt White / Pink\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-abc-camo-milo-hoodie-tee-multicolor-j349421",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Aune Merino 3D Seamless Top Black\nhttps://www.slamjam.com/products/roa-clothing-aune-merino-3d-seamless-top-black-j346948",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Tailend TI Sunglasses Prizm Grey / Satin Carbon\nhttps://www.slamjam.com/products/oakley-accessories-tailend-ti-grey-j356884",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Logo Baby T-Shirt Washed Black\nhttps://www.slamjam.com/products/roa-clothing-logo-baby-tee-black-j347357",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: MUZM Scar Sunglasses Polished Black / Prizm Black\nhttps://www.slamjam.com/products/oakley-accessories-muzm-scar-black-j356740",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Lava Mountain T-Shirt Anthracite\nhttps://www.slamjam.com/products/roa-clothing-lava-mountain-t-shirt-black-j347349",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's College Pullover Hoodie Black\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-college-pullover-hoodie-black-j349412",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Fuzzy Print Long Sleeve T-Shirt Fuzzy Brown\nhttps://www.slamjam.com/products/roa-clothing-fuzzy-print-long-sleeve-brown-j347356",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's College Raglan Regular Fit T-Shirt White\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-college-raglan-regular-fit-ls-tee-white-j349409",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Signal Mountain T-Shirt Washed Black\nhttps://www.slamjam.com/products/roa-clothing-signal-mountain-t-shirt-black-j347355",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Bape Kiss Logo T-Shirt Ivory\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-bape-kiss-logo-tee-white-j349406",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Bones Logo Q-Skin Technical Socks Black / Burgundy\nhttps://www.slamjam.com/products/roa-clothing-bones-logo-q-skin-technical-socks-black-j339884",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Ape Target T-Shirt Pink\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-ape-target-tee-pink-j349405",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Hiko Mountaineering Pants Petrol\nhttps://www.slamjam.com/products/roa-clothing-hiko-mountaineering-pants-blue-j339543",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Colors Busy Works STA T-Shirt White\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-colors-busy-works-sta-tee-white-j349404",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Hawk Wool Knit Ear Warmer Graphite\nhttps://www.slamjam.com/products/roa-accessories-hawk-wool-knit-ear-warmer-black-j345233",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's 1st Camo Busy Works T-Shirt White / Yellow\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-1st-camo-busy-works-tee-multicolor-j349402",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Logo Mohair Bonnet Beanie Black\nhttps://www.slamjam.com/products/roa-accessories-logo-mohair-bonnet-beanie-black-j345238",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's ABC Camo College T-Shirt Black / Pink\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-abc-camo-college-tee-multicolor-j349401",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Pursuit 6 Panel Cap Fuzzy Dark Brown\nhttps://www.slamjam.com/products/roa-accessories-pursuit-6-panel-cap-brown-j345785",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's College T-Shirt Black\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-college-tee-black-j349399",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Logo Wool Beanie Deep Black\nhttps://www.slamjam.com/products/roa-accessories-logo-wool-beanie-black-j339531",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: BAPE STA #6-4 M2 Sneakers Red\nhttps://www.slamjam.com/products/a-bathing-ape-footwear-bape-sta-6-4-m2-red-j349391",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Logo Biofil Socks White / Dark Green\nhttps://www.slamjam.com/products/roa-clothing-logo-biofil-socks-white-j340263",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Portray #2 T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-portray-2-t-white-j360744",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Logo Biofil Socks Black / Light Grey\nhttps://www.slamjam.com/products/roa-clothing-logo-biofil-socks-black-j340261",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: BAPE STA #6-1 M2 Sneakers Brown\nhttps://www.slamjam.com/products/a-bathing-ape-footwear-bape-sta-6-1-m2-brown-j349390",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Nuna Packable Bag Black\nhttps://www.slamjam.com/products/roa-accessories-nuna-packable-bag-black-j346937",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Wave Oval T-Shirt Black\nhttps://www.slamjam.com/products/stussy-clothing-wave-oval-tee-black-j356121",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Laki Packable Knot Bag Bitter Chocolate\nhttps://www.slamjam.com/products/roa-accessories-laki-packable-knot-bag-brown-j346930",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Surf Size Pigment Dyed T-Shirt Faded Black\nhttps://www.slamjam.com/products/stussy-clothing-surf-size-pig-dyed-tee-black-j356118",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Cingino Boots Brown\nhttps://www.slamjam.com/products/roa-footwear-cingino-brown-j346914",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Shark Pigment Dyed T-Shirt Natural\nhttps://www.slamjam.com/products/stussy-clothing-shark-pig-dyed-tee-white-j356115",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Laki Packable Knot Bag Black\nhttps://www.slamjam.com/products/roa-accessories-laki-packable-knot-bag-black-j346929",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Chenille S Low Pro Cap Dark Brown\nhttps://www.slamjam.com/products/stussy-accessories-chenille-s-low-pro-cap-brown-j356112",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Night Walker Mules Black\nhttps://www.slamjam.com/products/roa-footwear-night-walker-black-j346922",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Satisfy Pertex Diamond Fuse Windbreaker Black\nhttps://www.slamjam.com/products/satisfy-clothing-wmns-pertex-diamond-fuse-windbreaker-black-j356040",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Andreas Boots Honey\nhttps://www.slamjam.com/products/roa-footwear-andreas-yellow-j339323",
-      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Space‑O Jogger Pants Camo\nhttps://www.slamjam.com/products/satisfy-clothing-space-o-jogger-pants-multicolor-j356025",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's HeatCrush 8in Desert Shorts Moonstruck\nhttps://www.slamjam.com/products/satisfy-clothing-heatcrush-8-desert-shorts-green-j356017",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MothTech Baseball Tee Aged Black\nhttps://www.slamjam.com/products/satisfy-clothing-mothtech-baseball-tee-white-j356009",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Space‑O T‑Shirt Camo\nhttps://www.slamjam.com/products/satisfy-clothing-space-o-t-shirt-multicolor-j356010",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MothTech T‑Shirt Silver Foil\nhttps://www.slamjam.com/products/satisfy-clothing-mothtech-t-shirt-grey-j355994",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Space‑O 5\" Shorts Camo\nhttps://www.slamjam.com/products/satisfy-clothing-space-o-5-shorts-multicolor-j355989",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MothTech T-Shirt Aged Black\nhttps://www.slamjam.com/products/satisfy-clothing-mothtech-t-shirt-black-j355992",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Bad Ass Mama Tour T-Shirt White\nhttps://www.slamjam.com/products/hysteric-glamour-clothing-bad-ass-mama-tour-tshirt-white-j353941",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Dart Track Longsleeve T-Shirt White\nhttps://www.slamjam.com/products/hysteric-glamour-clothing-dart-track-tshirt-white-j353939",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Metal Guid Polo Shirt Black\nhttps://www.slamjam.com/products/hysteric-glamour-clothing-metal-guid-polo-shirt-black-j353933",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's MothTech T-Shirt Aged Black\nhttps://www.slamjam.com/products/satisfy-clothing-mothtech-t-shirt-black-j355986",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Shark Full Zip Hoodie Black\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-shark-full-zip-hoodie-m-black-j328841",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Tech Dri-FIT Woven Pro Pants Light Smoke Grey / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-tch-df-wvn-pant-aop-grey-j368500",
+      "detected_at": "2026-08-26T10:43:40.751512+00:00"
     }
   ]
 }
