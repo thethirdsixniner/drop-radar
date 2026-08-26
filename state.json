@@ -2505,6 +2505,11 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11025950245131": {
+        "title": "Adidas München W",
+        "handle": "adidas-mnchen-w-earth-strata-off-white-gum-3",
+        "in_stock": true
+      },
       "10887279149323": {
         "title": "Autry Reelwind Low *Suede / Net*",
         "handle": "autry-reelwind-low-suede-net-pistacchio-black",
@@ -3613,7 +3618,7 @@
       "10715810955531": {
         "title": "Ugg Wmns Classic Micro",
         "handle": "ugg-wmns-classic-micro-chestnut",
-        "in_stock": true
+        "in_stock": false
       },
       "10747563475211": {
         "title": "Arte Antwerp Arte Blocks Shirt",
@@ -3748,11 +3753,6 @@
       "10793681125643": {
         "title": "Adidas Santa Monica Crewneck",
         "handle": "adidas-santa-monica-crewneck-black",
-        "in_stock": true
-      },
-      "10883651272971": {
-        "title": "Gramicci G-Pant",
-        "handle": "gramicci-gpant-olive",
         "in_stock": true
       }
     },
@@ -5552,17 +5552,17 @@
       "15044346577272": {
         "title": "Nike Air Max Plus Iron Gray Light Liquid Lime Black",
         "handle": "nike-air-max-plus-iron-gray-light-liquid-lime-black",
-        "in_stock": true
+        "in_stock": false
       },
       "15044346380664": {
         "title": "Nike P-6000 Summit White Pure Platinum (Women's)",
         "handle": "nike-p-6000-summit-white-pure-platinum-womens",
-        "in_stock": true
+        "in_stock": false
       },
       "15044342710648": {
         "title": "Nike P-6000 Light Bone Pale Ivory",
         "handle": "nike-p-6000-light-bone-pale-ivory",
-        "in_stock": true
+        "in_stock": false
       },
       "15044230250872": {
         "title": "PLAYERS ONLY ATHLETIC SHORTS",
@@ -6261,6 +6261,41 @@
       }
     },
     "https://www.afew-store.com": {
+      "10600749826314": {
+        "title": "Satisfy AmbientWarp River Shirt",
+        "handle": "satisfy-ambientwarp-river-shirt-black",
+        "in_stock": false
+      },
+      "10600748941578": {
+        "title": "Alpha Industries MA-1 Heritage",
+        "handle": "alpha-industries-ma-1-heritage-black-black",
+        "in_stock": false
+      },
+      "10600748187914": {
+        "title": "Alpha Industries G-8 WEP 1973 MODify",
+        "handle": "alpha-industries-g-8-wep-1973-modify-sage-green",
+        "in_stock": false
+      },
+      "10600745664778": {
+        "title": "Gramicci CORDUROY GRAMICCI PANT",
+        "handle": "gramicci-corduroy-gramicci-pant-black",
+        "in_stock": false
+      },
+      "10600741273866": {
+        "title": "Satisfy MothTech Long Tee",
+        "handle": "satisfy-mothtech-long-tee-faded-black",
+        "in_stock": false
+      },
+      "10600727871754": {
+        "title": "Columbia Street Heights Padded Jacket",
+        "handle": "columbia-street-heights-padded-jacket-black",
+        "in_stock": false
+      },
+      "10600726135050": {
+        "title": "Columbia Street Heights Padded Jacket",
+        "handle": "columbia-street-heights-padded-jacket-iron",
+        "in_stock": false
+      },
       "10600575729930": {
         "title": "Saucony x Westside Gunn GRID JAZZ 9",
         "handle": "saucony-x-westside-gunn-grid-jazz-9-multi-ivory",
@@ -7475,45 +7510,155 @@
         "title": "Y-3 GAZELLE",
         "handle": "y-3-y-3-gazelle-owhite-owhite-black",
         "in_stock": true
-      },
-      "10584100602122": {
-        "title": "adidas Originals CLIMACOOL 2",
-        "handle": "adidas-originals-climacool-2-shaoli-shaoli-cblack",
-        "in_stock": true
-      },
-      "10584099455242": {
-        "title": "Nike CRYOSHOT Tiempo 'Legend R10 OG'",
-        "handle": "nike-ncryo-shot-tmp-lgnd-r10-og-white-metallic-gold-white",
-        "in_stock": true
-      },
-      "10582782378250": {
-        "title": "New Balance 740",
-        "handle": "new-balance-740-pink-granite-pink-chalk",
-        "in_stock": true
-      },
-      "10582775890186": {
-        "title": "New Balance 9060",
-        "handle": "new-balance-9060-nightwatch-green-angora",
-        "in_stock": true
-      },
-      "10582622929162": {
-        "title": "Crocs Crocs Classic EXP",
-        "handle": "crocs-crocs-classic-exp-summit-white-gum",
-        "in_stock": true
-      },
-      "10582610837770": {
-        "title": "Y-3 CHITO CITY GRAPHIC TEE",
-        "handle": "y-3-city-gfx-ss-black",
-        "in_stock": true
-      },
-      "10582610739466": {
-        "title": "Y-3 CHITO CITY GRAPHIC TEE",
-        "handle": "y-3-city-gfx-ss-tee-lgsogr",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127620214989": {
+        "title": "Women's Tasna Mohair Zip-Up Sweater Dirty White",
+        "handle": "roa-clothing-tasna-mohair-zip-up-sweater-white-j345231",
+        "in_stock": true
+      },
+      "9127620247757": {
+        "title": "Men's Shrub Felted Knit Zip-Up Sweater Fuzzy Brown",
+        "handle": "roa-clothing-shrub-felted-knit-zip-up-brown-j345229",
+        "in_stock": true
+      },
+      "9127620182221": {
+        "title": "Men's Testudo Reinforced Softshell Jacket Black",
+        "handle": "roa-clothing-testudo-reinforced-softshell-jacket-black-j345089",
+        "in_stock": true
+      },
+      "9127620149453": {
+        "title": "Ewe Furry Jacket Fuzzy Dark Brown",
+        "handle": "roa-clothing-ewe-furry-jacket-brown-j345090",
+        "in_stock": true
+      },
+      "9127620051149": {
+        "title": "Ocular Polartec Thermal Pro Zip-Up Hoodie Black",
+        "handle": "roa-clothing-ocular-polartec-thermal-pro-zip-up-hoodie-black-j339545",
+        "in_stock": true
+      },
+      "9127620083917": {
+        "title": "Men's Logger Wool Check Long Sleeve Shirt Anthracite",
+        "handle": "roa-clothing-logger-wool-check-long-sleeve-shirt-black-j341009",
+        "in_stock": true
+      },
+      "9127620018381": {
+        "title": "Men's Daze Compression Seamless Long Sleeve Top White",
+        "handle": "roa-clothing-daze-compression-seamless-long-sleeve-white-j340033",
+        "in_stock": true
+      },
+      "9127619920077": {
+        "title": "Women's Inside Out Zip-Up Baby Hoodie Washed Black",
+        "handle": "roa-clothing-logo-inside-out-zip-up-baby-hoodie-black-j340276",
+        "in_stock": true
+      },
+      "9127619952845": {
+        "title": "Men's Bee Sun Faded Organic Waffle Zip-Up Hoodie Graphite",
+        "handle": "roa-clothing-bee-sun-faded-organic-waffle-zip-up-hoodie-black-j340279",
+        "in_stock": true
+      },
+      "9127619887309": {
+        "title": "Women's Aune Merino 3D Seamless Top Black",
+        "handle": "roa-clothing-aune-merino-3d-seamless-top-black-j346948",
+        "in_stock": true
+      },
+      "9127619789005": {
+        "title": "Women's Logo Baby T-Shirt Washed Black",
+        "handle": "roa-clothing-logo-baby-tee-black-j347357",
+        "in_stock": true
+      },
+      "9127619821773": {
+        "title": "Women's Nim Baby Long Sleeve Top Fuzzy Brown",
+        "handle": "roa-clothing-nim-baby-long-sleeve-brown-j347359",
+        "in_stock": false
+      },
+      "9127619723469": {
+        "title": "Lava Mountain T-Shirt Anthracite",
+        "handle": "roa-clothing-lava-mountain-t-shirt-black-j347349",
+        "in_stock": true
+      },
+      "9127619854541": {
+        "title": "Fuzzy Print Long Sleeve T-Shirt Fuzzy Brown",
+        "handle": "roa-clothing-fuzzy-print-long-sleeve-brown-j347356",
+        "in_stock": true
+      },
+      "9127619756237": {
+        "title": "Signal Mountain T-Shirt Washed Black",
+        "handle": "roa-clothing-signal-mountain-t-shirt-black-j347355",
+        "in_stock": true
+      },
+      "9127619592397": {
+        "title": "Bones Logo Q-Skin Technical Socks Black / Burgundy",
+        "handle": "roa-clothing-bones-logo-q-skin-technical-socks-black-j339884",
+        "in_stock": true
+      },
+      "9127619690701": {
+        "title": "Men's Hiko Mountaineering Pants Petrol",
+        "handle": "roa-clothing-hiko-mountaineering-pants-blue-j339543",
+        "in_stock": true
+      },
+      "9127619395789": {
+        "title": "Hawk Wool Knit Ear Warmer Graphite",
+        "handle": "roa-accessories-hawk-wool-knit-ear-warmer-black-j345233",
+        "in_stock": true
+      },
+      "9127619494093": {
+        "title": "Logo Mohair Bonnet Beanie Black",
+        "handle": "roa-accessories-logo-mohair-bonnet-beanie-black-j345238",
+        "in_stock": true
+      },
+      "9127619363021": {
+        "title": "Pursuit 6 Panel Cap Fuzzy Dark Brown",
+        "handle": "roa-accessories-pursuit-6-panel-cap-brown-j345785",
+        "in_stock": true
+      },
+      "9127619428557": {
+        "title": "Logo Wool Beanie Deep Black",
+        "handle": "roa-accessories-logo-wool-beanie-black-j339531",
+        "in_stock": true
+      },
+      "9127619559629": {
+        "title": "Logo Biofil Socks White / Dark Green",
+        "handle": "roa-clothing-logo-biofil-socks-white-j340263",
+        "in_stock": true
+      },
+      "9127619526861": {
+        "title": "Logo Biofil Socks Black / Light Grey",
+        "handle": "roa-clothing-logo-biofil-socks-black-j340261",
+        "in_stock": true
+      },
+      "9127619264717": {
+        "title": "Nuna Packable Bag Black",
+        "handle": "roa-accessories-nuna-packable-bag-black-j346937",
+        "in_stock": true
+      },
+      "9127619231949": {
+        "title": "Laki Packable Knot Bag Bitter Chocolate",
+        "handle": "roa-accessories-laki-packable-knot-bag-brown-j346930",
+        "in_stock": true
+      },
+      "9127619133645": {
+        "title": "Cingino Boots Brown",
+        "handle": "roa-footwear-cingino-brown-j346914",
+        "in_stock": true
+      },
+      "9127619199181": {
+        "title": "Laki Packable Knot Bag Black",
+        "handle": "roa-accessories-laki-packable-knot-bag-black-j346929",
+        "in_stock": true
+      },
+      "9127619166413": {
+        "title": "Night Walker Mules Black",
+        "handle": "roa-footwear-night-walker-black-j346922",
+        "in_stock": true
+      },
+      "9127619100877": {
+        "title": "Andreas Boots Honey",
+        "handle": "roa-footwear-andreas-yellow-j339323",
+        "in_stock": true
+      },
       "9127614546125": {
         "title": "A$AP ROCKY Straycat Sneakers Black / Formula Red",
         "handle": "puma-footwear-a-ap-rocky-x-puma-straycat-black-j363733",
@@ -8618,158 +8763,125 @@
         "title": "Men's Seagull Printed Hoodie Black",
         "handle": "evisu-clothing-ht-seaguall-printed-hoodie-black-j352947",
         "in_stock": true
-      },
-      "9125869584589": {
-        "title": "Men's Seagull Print and Multi-Pocket Denim Jacket Raw Indigo",
-        "handle": "evisu-clothing-ht-multi-pocket-denim-jacket-blue-j352941",
-        "in_stock": true
-      },
-      "9125869289677": {
-        "title": "Men's Daicock Print Baggy Jeans Raw Indigo",
-        "handle": "evisu-clothing-ht-2000-daicock-printed-jeans-white-blue-j352942",
-        "in_stock": true
-      },
-      "9125869158605": {
-        "title": "Men's Seagull Printed Pocket Jeans Raw Indigo",
-        "handle": "evisu-clothing-ht-seagull-printed-pocket-selvedge-jeans-blue-j352981",
-        "in_stock": true
-      },
-      "9125869191373": {
-        "title": "Men's Seagull Print Pockets Jeans Raw Indigo",
-        "handle": "evisu-clothing-ht-white-seagull-printed-pocket-jeans-blue-j352954",
-        "in_stock": true
-      },
-      "9125869322445": {
-        "title": "Men's Ebisu & Seagull Print T-Shirt Ecru",
-        "handle": "evisu-clothing-ej-vintage-seagull-s-s-tee-purple-j353043",
-        "in_stock": true
-      },
-      "9125869093069": {
-        "title": "Men's Multi-Pocket Patched Daicock Jeans Mid Tone Indigo",
-        "handle": "evisu-clothing-ht-multi-pocket-patched-daicock-jeans-blue-j352986",
-        "in_stock": false
-      },
-      "9125869125837": {
-        "title": "Men's Daikoku Ripped Jeans Mid Tone Indigo",
-        "handle": "evisu-clothing-ej-pink-daikoku-ripped-jeans-blue-j353026",
-        "in_stock": true
-      },
-      "9125749522637": {
-        "title": "Men's BC Sleeveless T-Shirt Black",
-        "handle": "wtaps-clothing-bc-ss-cotton-black-j355412",
-        "in_stock": true
-      },
-      "9125749555405": {
-        "title": "Men's DUP 03 Polo Shirt White",
-        "handle": "wtaps-clothing-dup-03-ss-ctpl-white-j355411",
-        "in_stock": true
-      },
-      "9125749588173": {
-        "title": "Men's DUP 03 Polo Shirt Black",
-        "handle": "wtaps-clothing-dup-03-ss-ctpl-black-j355410",
-        "in_stock": true
-      },
-      "9125749457101": {
-        "title": "Printed Leather Zip Wallet Multicolor",
-        "handle": "dries-van-noten-accessories-bm262-slg953-504-ml-wallet-desa-multicolor-j363815",
-        "in_stock": true
-      },
-      "9125749391565": {
-        "title": "Printed Leather Zip Wallet Beige",
-        "handle": "dries-van-noten-accessories-bm262-slg953-305-ml-wallet-bei-beige-j363814",
-        "in_stock": true
-      },
-      "9125749489869": {
-        "title": "Leather Weekend Bag Beige",
-        "handle": "dries-van-noten-accessories-bm262-flag188-129-ml-bag-bei-beige-j363813",
-        "in_stock": true
-      },
-      "9125749358797": {
-        "title": "Men's Sargo Shoes Antique Black",
-        "handle": "kiko-kostadinov-footwear-sargo-shoes-black-j359798",
-        "in_stock": true
-      },
-      "9125747392717": {
-        "title": "Men's Tech Dri-Fit Woven Full-Zip Jacket Light Smoke Grey / Black",
-        "handle": "nike-clothing-m-nk-tch-df-wvn-wr-fz-jkt-aop-grey-j368498",
-        "in_stock": true
-      },
-      "9113010766029": {
-        "title": "Women's Spain Reconstructed Bringback Jersey Collegiate Red",
-        "handle": "adidas-clothing-wmns-spain-bad-bunny-jsy-red-j345942",
-        "in_stock": true
-      },
-      "9100191334605": {
-        "title": "Men's Chaise Longsleeve Top Pelosa Grey",
-        "handle": "_j-l-a-l_-clothing-chaise-longsleeve-grey-j325965",
-        "in_stock": false
-      },
-      "9125743722701": {
-        "title": "Women's Air Jordan 3 'Sport Renaissance' Sneakers Obsidian / Track Red",
-        "handle": "nike-jordan-footwear-wmns-air-jordan-3-retro-blue-j368899",
-        "in_stock": true
-      },
-      "9125743755469": {
-        "title": "Free The Youth Air Jordan 16 Sneakers Metallic Silver / Picante Red",
-        "handle": "nike-jordan-footwear-air-jordan-16-fty-sp-multicolor-j368494",
-        "in_stock": false
-      },
-      "9125743689933": {
-        "title": "Air Max 95 Big Bubble Sneakers Blue Sapphire / Action Red",
-        "handle": "nike-footwear-nike-air-max-95-blue-j368355",
-        "in_stock": true
-      },
-      "9125743132877": {
-        "title": "SHAI 001 Lace Up Sneakers Lime Latte",
-        "handle": "converse-footwear-shai-001-lace-up-multicolor-j368991",
-        "in_stock": true
-      },
-      "9125743100109": {
-        "title": "SHAI 001 Lace Up Sneakers Berry Shady",
-        "handle": "converse-footwear-shai-001-lace-up-multicolor-j368984",
-        "in_stock": true
-      },
-      "9125742706893": {
-        "title": "VANDYTHEPINK GEL-Kayano 12.1 Sneakers Antique White",
-        "handle": "asics-footwear-gel-kayano-12-1-white-j359664",
-        "in_stock": false
-      },
-      "9125742379213": {
-        "title": "Air Force 1 Sneakers Campfire Orange / Sunset / White",
-        "handle": "nike-footwear-nike-air-force-1-orange-j368982",
-        "in_stock": true
-      },
-      "9125742215373": {
-        "title": "Air Max 90 Sneakers Shadow Brown / Buff",
-        "handle": "nike-footwear-nike-air-max-90-brown-j368957",
-        "in_stock": true
-      },
-      "9125741789389": {
-        "title": "Tobacco Super Sneakers Fox Brown",
-        "handle": "adidas-footwear-tobacco-super-brown-j362365",
-        "in_stock": true
-      },
-      "9125741297869": {
-        "title": "Teeth Necklace Silver",
-        "handle": "racer-worldwide-accessories-teeth-necklace-grey-j356277",
-        "in_stock": true
-      },
-      "9125741134029": {
-        "title": "Smoking Tiger T-Shirt White",
-        "handle": "aries-clothing-smoking-tiger-ss-tee-white-j354746",
-        "in_stock": true
-      },
-      "9125741166797": {
-        "title": "Reversible Barbed Love Temple Waffle Longsleeve T-Shirt Black",
-        "handle": "aries-clothing-reversible-barbed-love-temple-waffle-ls-tee-black-j354728",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Afew Store: Crocs x Brain Dead Trailbreak 2\nhttps://www.afew-store.com/products/crocs-x-brain-dead-trailbreak-2-multi",
-      "detected_at": "2026-08-26T09:02:53.641390+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Adidas München W\nhttps://www.asphaltgold.de/products/adidas-mnchen-w-earth-strata-off-white-gum-3",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Tasna Mohair Zip-Up Sweater Dirty White\nhttps://www.slamjam.com/products/roa-clothing-tasna-mohair-zip-up-sweater-white-j345231",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Shrub Felted Knit Zip-Up Sweater Fuzzy Brown\nhttps://www.slamjam.com/products/roa-clothing-shrub-felted-knit-zip-up-brown-j345229",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Testudo Reinforced Softshell Jacket Black\nhttps://www.slamjam.com/products/roa-clothing-testudo-reinforced-softshell-jacket-black-j345089",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Ewe Furry Jacket Fuzzy Dark Brown\nhttps://www.slamjam.com/products/roa-clothing-ewe-furry-jacket-brown-j345090",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Ocular Polartec Thermal Pro Zip-Up Hoodie Black\nhttps://www.slamjam.com/products/roa-clothing-ocular-polartec-thermal-pro-zip-up-hoodie-black-j339545",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Logger Wool Check Long Sleeve Shirt Anthracite\nhttps://www.slamjam.com/products/roa-clothing-logger-wool-check-long-sleeve-shirt-black-j341009",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Daze Compression Seamless Long Sleeve Top White\nhttps://www.slamjam.com/products/roa-clothing-daze-compression-seamless-long-sleeve-white-j340033",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Inside Out Zip-Up Baby Hoodie Washed Black\nhttps://www.slamjam.com/products/roa-clothing-logo-inside-out-zip-up-baby-hoodie-black-j340276",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Bee Sun Faded Organic Waffle Zip-Up Hoodie Graphite\nhttps://www.slamjam.com/products/roa-clothing-bee-sun-faded-organic-waffle-zip-up-hoodie-black-j340279",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Aune Merino 3D Seamless Top Black\nhttps://www.slamjam.com/products/roa-clothing-aune-merino-3d-seamless-top-black-j346948",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Logo Baby T-Shirt Washed Black\nhttps://www.slamjam.com/products/roa-clothing-logo-baby-tee-black-j347357",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Lava Mountain T-Shirt Anthracite\nhttps://www.slamjam.com/products/roa-clothing-lava-mountain-t-shirt-black-j347349",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Fuzzy Print Long Sleeve T-Shirt Fuzzy Brown\nhttps://www.slamjam.com/products/roa-clothing-fuzzy-print-long-sleeve-brown-j347356",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Signal Mountain T-Shirt Washed Black\nhttps://www.slamjam.com/products/roa-clothing-signal-mountain-t-shirt-black-j347355",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Bones Logo Q-Skin Technical Socks Black / Burgundy\nhttps://www.slamjam.com/products/roa-clothing-bones-logo-q-skin-technical-socks-black-j339884",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Hiko Mountaineering Pants Petrol\nhttps://www.slamjam.com/products/roa-clothing-hiko-mountaineering-pants-blue-j339543",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Hawk Wool Knit Ear Warmer Graphite\nhttps://www.slamjam.com/products/roa-accessories-hawk-wool-knit-ear-warmer-black-j345233",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Logo Mohair Bonnet Beanie Black\nhttps://www.slamjam.com/products/roa-accessories-logo-mohair-bonnet-beanie-black-j345238",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Pursuit 6 Panel Cap Fuzzy Dark Brown\nhttps://www.slamjam.com/products/roa-accessories-pursuit-6-panel-cap-brown-j345785",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Logo Wool Beanie Deep Black\nhttps://www.slamjam.com/products/roa-accessories-logo-wool-beanie-black-j339531",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Logo Biofil Socks White / Dark Green\nhttps://www.slamjam.com/products/roa-clothing-logo-biofil-socks-white-j340263",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Logo Biofil Socks Black / Light Grey\nhttps://www.slamjam.com/products/roa-clothing-logo-biofil-socks-black-j340261",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Nuna Packable Bag Black\nhttps://www.slamjam.com/products/roa-accessories-nuna-packable-bag-black-j346937",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Laki Packable Knot Bag Bitter Chocolate\nhttps://www.slamjam.com/products/roa-accessories-laki-packable-knot-bag-brown-j346930",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Cingino Boots Brown\nhttps://www.slamjam.com/products/roa-footwear-cingino-brown-j346914",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Laki Packable Knot Bag Black\nhttps://www.slamjam.com/products/roa-accessories-laki-packable-knot-bag-black-j346929",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Night Walker Mules Black\nhttps://www.slamjam.com/products/roa-footwear-night-walker-black-j346922",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Andreas Boots Honey\nhttps://www.slamjam.com/products/roa-footwear-andreas-yellow-j339323",
+      "detected_at": "2026-08-26T09:58:03.622731+00:00"
     }
   ]
 }
