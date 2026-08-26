@@ -2633,7 +2633,7 @@
       "10744401723659": {
         "title": "Adidas Gazelle Bold W",
         "handle": "adidas-gazelle-bold-w-wonder-mauve-off-white-gum-2",
-        "in_stock": true
+        "in_stock": false
       },
       "10795478941963": {
         "title": "Ugg Wmns Classic Ultra Mini Dipper",
@@ -3128,7 +3128,7 @@
       "11025932615947": {
         "title": "Adidas Samba OG Mule W",
         "handle": "adidas-samba-og-mule-w-cream-white-cream-white-gold-metallic",
-        "in_stock": true
+        "in_stock": false
       },
       "11025958469899": {
         "title": "Vans OTW Era 95 *Distressed*",
@@ -5942,7 +5942,7 @@
       "15034695745912": {
         "title": "On Cloudrunner 3 'Black Ivory'",
         "handle": "on-cloudrunner-3-black-ivory",
-        "in_stock": false
+        "in_stock": true
       },
       "15034695254392": {
         "title": "On Cloudrunner 3 'White Glacier'",
@@ -5952,7 +5952,7 @@
       "15034694861176": {
         "title": "On Cloudvista 2 'Black Black'",
         "handle": "on-cloudvista-2-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "15034694467960": {
         "title": "On Cloudsurfer Next 'Glacier Glacier'",
@@ -6264,27 +6264,27 @@
       "10600768766218": {
         "title": "Satisfy FliteSilk 5-Panel Pinch Cap",
         "handle": "satisfy-flitesilk-5-panel-pinch-cap-black-eagle1",
-        "in_stock": false
+        "in_stock": true
       },
       "10600768733450": {
         "title": "Satisfy FliteSilk 5-Panel Pinch Cap",
         "handle": "satisfy-flitesilk-5-panel-pinch-cap-rain-drum-caps-eagle",
-        "in_stock": false
+        "in_stock": true
       },
       "10600764571914": {
         "title": "Veja x ARPENTEUR PANENKA",
         "handle": "veja-x-arpenteur-panenka-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10600762409226": {
         "title": "Asics GEL-DS TRAINER 14",
         "handle": "asics-gel-ds-trainer-14-clay-grey-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10600758313226": {
         "title": "Sorel AMBLER LUX WATERPROOF",
         "handle": "sorel-ambler-lx-wp-tobacco-velvet-tan",
-        "in_stock": false
+        "in_stock": true
       },
       "10600749826314": {
         "title": "Satisfy AmbientWarp River Shirt",
@@ -8930,6 +8930,34 @@
     {
       "message": "🆕 **New drop** at Slam Jam: Men's Tech Dri-FIT Woven Pro Pants Light Smoke Grey / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-tch-df-wvn-pant-aop-grey-j368500",
       "detected_at": "2026-08-26T10:43:40.751512+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: On Cloudrunner 3 'Black Ivory'\nhttps://www.kickgame.co.uk/products/on-cloudrunner-3-black-ivory",
+      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: On Cloudvista 2 'Black Black'\nhttps://www.kickgame.co.uk/products/on-cloudvista-2-black-black",
+      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Satisfy FliteSilk 5-Panel Pinch Cap\nhttps://www.afew-store.com/products/satisfy-flitesilk-5-panel-pinch-cap-black-eagle1",
+      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Satisfy FliteSilk 5-Panel Pinch Cap\nhttps://www.afew-store.com/products/satisfy-flitesilk-5-panel-pinch-cap-rain-drum-caps-eagle",
+      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Veja x ARPENTEUR PANENKA\nhttps://www.afew-store.com/products/veja-x-arpenteur-panenka-black",
+      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Asics GEL-DS TRAINER 14\nhttps://www.afew-store.com/products/asics-gel-ds-trainer-14-clay-grey-black",
+      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Sorel AMBLER LUX WATERPROOF\nhttps://www.afew-store.com/products/sorel-ambler-lx-wp-tobacco-velvet-tan",
+      "detected_at": "2026-08-26T11:14:08.648441+00:00"
     }
   ]
 }
