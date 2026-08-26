@@ -6261,6 +6261,16 @@
       }
     },
     "https://www.afew-store.com": {
+      "10600562196746": {
+        "title": "Nike Book 2 \"Camo\"",
+        "handle": "nike-book-2-black-black-total-orange-flax",
+        "in_stock": false
+      },
+      "10600556724490": {
+        "title": "Crocs x Brain Dead Trailbreak 2",
+        "handle": "crocs-x-brain-dead-trailbreak-2-multi",
+        "in_stock": false
+      },
       "10600433516810": {
         "title": "Karhu Fusion 2.0",
         "handle": "karhu-fusion-2-0-dark-gull-gray-turtledove",
@@ -7500,16 +7510,6 @@
         "title": "On Running Cloudrock Low Waterproof",
         "handle": "on-running-cloudrock-low-wp-glacier-rock",
         "in_stock": true
-      },
-      "10582587736330": {
-        "title": "Mizuno WAVE MUJIN TL Gore-Tex",
-        "handle": "mizuno-wave-mujin-tl-gtx-black-black-royal-blue",
-        "in_stock": true
-      },
-      "10582553755914": {
-        "title": "Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L",
-        "handle": "stanley-1913-the-iceflow-flip-straw-2-0-tumbler-30-oz-0-89-lcoffee",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
@@ -7588,16 +7588,6 @@
         "title": "Brain Dead Trailbreak 2 Sandals Multicolor",
         "handle": "crocs-footwear-braindead-x-trailbreak-multicolor-j368316",
         "in_stock": false
-      },
-      "9127557726413": {
-        "title": "C / E Cap Brown",
-        "handle": "cav-empt-accessories-c-e-cap-brown-brown-j360762",
-        "in_stock": true
-      },
-      "9127558119629": {
-        "title": "Men's Portray #2 T-Shirt White",
-        "handle": "cav-empt-clothing-portray-2-t-white-j360744",
-        "in_stock": true
       },
       "9127558349005": {
         "title": "Men's MD Temporal Distortion Mesh Shortsleeve Top Navy",
@@ -8172,17 +8162,17 @@
       "9126903283917": {
         "title": "Women's Peregrine Jacket Stone Washed Charcoal",
         "handle": "kiko-kostadinov-clothing-wmns-peregrine-jacket-black-j359628",
-        "in_stock": true
+        "in_stock": false
       },
       "9126903021773": {
         "title": "Women's Peregrine Trousers Stone Washed Charcoal",
         "handle": "kiko-kostadinov-clothing-wmns-peregrine-trousers-grey-j359626",
-        "in_stock": true
+        "in_stock": false
       },
       "9126903087309": {
         "title": "Women's Audax Trousers Burnt Umber",
         "handle": "kiko-kostadinov-clothing-wmns-audax-trousers-brown-j359624",
-        "in_stock": true
+        "in_stock": false
       },
       "9126903054541": {
         "title": "Women's Peregrine Trousers Feather Print",
@@ -8763,8 +8753,27 @@
         "title": "Smoking Tiger T-Shirt White",
         "handle": "aries-clothing-smoking-tiger-ss-tee-white-j354746",
         "in_stock": true
+      },
+      "9125741166797": {
+        "title": "Reversible Barbed Love Temple Waffle Longsleeve T-Shirt Black",
+        "handle": "aries-clothing-reversible-barbed-love-temple-waffle-ls-tee-black-j354728",
+        "in_stock": true
+      },
+      "9125741101261": {
+        "title": "Vintage Western Batten Jean Blue",
+        "handle": "aries-clothing-vintage-western-batten-jean-blue-j354695",
+        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Slam Jam: Reversible Barbed Love Temple Waffle Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/aries-clothing-reversible-barbed-love-temple-waffle-ls-tee-black-j354728",
+      "detected_at": "2026-08-26T08:00:29.155781+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Vintage Western Batten Jean Blue\nhttps://www.slamjam.com/products/aries-clothing-vintage-western-batten-jean-blue-j354695",
+      "detected_at": "2026-08-26T08:00:29.155781+00:00"
+    }
+  ]
 }
