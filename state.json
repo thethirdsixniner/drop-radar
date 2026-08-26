@@ -2738,7 +2738,7 @@
       "10676331938059": {
         "title": "HAL Studios Studio T-Shirt",
         "handle": "hal-studios-studio-t-shirt-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10216689762571": {
         "title": "Puma x KidSuper Studios Al-Hilal SFC Jersey Replica",
@@ -3830,7 +3830,7 @@
       "8900937187516": {
         "title": "Rich Paul x New Balance 2010 - Plum Brown/Burgundy",
         "handle": "new-balance-u2010rp1-plum-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "8896888963260": {
         "title": "New Balance 9060 - Slate Grey/Calcium",
@@ -7389,7 +7389,7 @@
       "10587027833098": {
         "title": "Air Jordan 7 Retro 'Miró'",
         "handle": "air-jordan-7-retro-white-metallic-gold-sport-red",
-        "in_stock": true
+        "in_stock": false
       },
       "10587016528138": {
         "title": "AIR JORDAN 3 RETRO 'Laser'",
@@ -8766,14 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Curve Logo SS Tee - Lemon Meringue\nhttps://sneakerpolitics.com/products/billionaire-boys-club-curve-logo-ss-tee-lemon-meringue",
-      "detected_at": "2026-08-26T02:50:01.486680+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Wealth Curve SS Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-wealth-curve-ss-tee-black",
-      "detected_at": "2026-08-26T02:50:01.486680+00:00"
-    }
-  ]
+  "pending_free": []
 }
