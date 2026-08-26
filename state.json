@@ -2553,7 +2553,7 @@
       "10866588221707": {
         "title": "Autry Medalist W *HP*",
         "handle": "autry-medalist-w-hp-white-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10892355141899": {
         "title": "Our Legacy\tLeisure Trouser",
@@ -4885,7 +4885,7 @@
       "9274228834492": {
         "title": "Air Jordan 6 Retro 'Cap And Gown' (GS) - Black/Reflect Silver",
         "handle": "air-jordan-6-retro-cap-and-gown-gs-black-reflect-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "9356471468220": {
         "title": "Politics x Marucci Barbed Wire Tee - Black",
@@ -8766,14 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Wealth Curve SS Tee - White\nhttps://sneakerpolitics.com/products/billionaire-boys-club-wealth-curve-ss-tee-white",
-      "detected_at": "2026-08-26T04:42:24.674314+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Writer SS Tee - Mediterranea\nhttps://sneakerpolitics.com/products/billionaire-boys-club-writer-ss-tee-mediterranea",
-      "detected_at": "2026-08-26T04:42:24.674314+00:00"
-    }
-  ]
+  "pending_free": []
 }
