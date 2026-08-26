@@ -2568,7 +2568,7 @@
       "10866588221707": {
         "title": "Autry Medalist W *HP*",
         "handle": "autry-medalist-w-hp-white-silver",
-        "in_stock": false
+        "in_stock": true
       },
       "10892355141899": {
         "title": "Our Legacy\tLeisure Trouser",
@@ -3173,7 +3173,7 @@
       "10888469741835": {
         "title": "By Parra Sporte 5 Panel Hat",
         "handle": "by-parra-sporte-5-panel-hat-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10676324008203": {
         "title": "New Balance 471",
@@ -5507,12 +5507,12 @@
       "15045530354040": {
         "title": "Saucony Progrid Omni 9 Chrome 'Debonair Silver'",
         "handle": "saucony-progrid-omni-9-chrome-debonair-silver-1",
-        "in_stock": false
+        "in_stock": true
       },
       "15045528715640": {
         "title": "Saucony Progrid Omni 9 Matte 'Sage Black'",
         "handle": "saucony-progrid-omni-9-matte-sage-black",
-        "in_stock": false
+        "in_stock": true
       },
       "15045522358648": {
         "title": "Saucony Progrid Omni 9 OG 'Fatigue'",
@@ -6264,32 +6264,32 @@
       "10600863858954": {
         "title": "Satisfy MothTech T-Shirt",
         "handle": "satisfy-mothtech-t-shirt-faded-black-sa",
-        "in_stock": false
+        "in_stock": true
       },
       "10600861237514": {
         "title": "Satisfy MothTech T-Shirt",
         "handle": "satisfy-mothtech-t-shirt-sun-bleached-rain-drum-wa",
-        "in_stock": false
+        "in_stock": true
       },
       "10600854028554": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION CPR HOODIE",
         "handle": "new-amsterdam-surf-association-cpr-hoodie-sand",
-        "in_stock": false
+        "in_stock": true
       },
       "10600852685066": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION CPR TEE",
         "handle": "new-amsterdam-surf-association-cpr-tee-burned-orange",
-        "in_stock": false
+        "in_stock": true
       },
       "10600851538186": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION TIDE KNIT",
         "handle": "new-amsterdam-surf-association-tide-knit-burned-orange",
-        "in_stock": false
+        "in_stock": true
       },
       "10600849867018": {
         "title": "NEW AMSTERDAM SURF ASSOCIATION TRAFFIC TEE",
         "handle": "new-amsterdam-surf-association-traffic-tee-brown",
-        "in_stock": false
+        "in_stock": true
       },
       "10600845738250": {
         "title": "by Parra A Cross to bear zip hooded sweatshirt",
@@ -7547,7 +7547,7 @@
       "9107035128013": {
         "title": "Men's College Raglan Regular Fit T-Shirt White",
         "handle": "a-bathing-ape-clothing-college-raglan-regular-fit-ls-tee-white-j349409",
-        "in_stock": true
+        "in_stock": false
       },
       "9106618613965": {
         "title": "Men's Bape Kiss Logo T-Shirt Ivory",
@@ -7562,7 +7562,7 @@
       "9113259802829": {
         "title": "Men's Colors Busy Works STA T-Shirt White",
         "handle": "a-bathing-ape-clothing-colors-busy-works-sta-tee-white-j349404",
-        "in_stock": true
+        "in_stock": false
       },
       "9114811859149": {
         "title": "Men's 1st Camo Busy Works T-Shirt White / Yellow",
@@ -7572,12 +7572,12 @@
       "9113259933901": {
         "title": "Men's ABC Camo College T-Shirt Black / Pink",
         "handle": "a-bathing-ape-clothing-abc-camo-college-tee-multicolor-j349401",
-        "in_stock": true
+        "in_stock": false
       },
       "9107349930189": {
         "title": "Men's College T-Shirt Black",
         "handle": "a-bathing-ape-clothing-college-tee-black-j349399",
-        "in_stock": true
+        "in_stock": false
       },
       "9114041450701": {
         "title": "BAPE STA #6-4 M2 Sneakers Red",
@@ -7632,7 +7632,7 @@
       "9108125417677": {
         "title": "Men's MothTech Baseball Tee Aged Black",
         "handle": "satisfy-clothing-mothtech-baseball-tee-white-j356009",
-        "in_stock": true
+        "in_stock": false
       },
       "9108125319373": {
         "title": "Men's Space‑O T‑Shirt Camo",
@@ -8768,32 +8768,40 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kick Game: On Cloudrunner 3 'Black Ivory'\nhttps://www.kickgame.co.uk/products/on-cloudrunner-3-black-ivory",
-      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+      "message": "🔥 **Restock** at Asphaltgold: Autry Medalist W *HP*\nhttps://www.asphaltgold.de/products/autry-medalist-w-hp-white-silver",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kick Game: On Cloudvista 2 'Black Black'\nhttps://www.kickgame.co.uk/products/on-cloudvista-2-black-black",
-      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 Chrome 'Debonair Silver'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-chrome-debonair-silver-1",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Satisfy FliteSilk 5-Panel Pinch Cap\nhttps://www.afew-store.com/products/satisfy-flitesilk-5-panel-pinch-cap-black-eagle1",
-      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 Matte 'Sage Black'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-matte-sage-black",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Satisfy FliteSilk 5-Panel Pinch Cap\nhttps://www.afew-store.com/products/satisfy-flitesilk-5-panel-pinch-cap-rain-drum-caps-eagle",
-      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+      "message": "🔥 **Restock** at Afew Store: Satisfy MothTech T-Shirt\nhttps://www.afew-store.com/products/satisfy-mothtech-t-shirt-faded-black-sa",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Veja x ARPENTEUR PANENKA\nhttps://www.afew-store.com/products/veja-x-arpenteur-panenka-black",
-      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+      "message": "🔥 **Restock** at Afew Store: Satisfy MothTech T-Shirt\nhttps://www.afew-store.com/products/satisfy-mothtech-t-shirt-sun-bleached-rain-drum-wa",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Asics GEL-DS TRAINER 14\nhttps://www.afew-store.com/products/asics-gel-ds-trainer-14-clay-grey-black",
-      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION CPR HOODIE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-cpr-hoodie-sand",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Sorel AMBLER LUX WATERPROOF\nhttps://www.afew-store.com/products/sorel-ambler-lx-wp-tobacco-velvet-tan",
-      "detected_at": "2026-08-26T11:14:08.648441+00:00"
+      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION CPR TEE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-cpr-tee-burned-orange",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION TIDE KNIT\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-tide-knit-burned-orange",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: NEW AMSTERDAM SURF ASSOCIATION TRAFFIC TEE\nhttps://www.afew-store.com/products/new-amsterdam-surf-association-traffic-tee-brown",
+      "detected_at": "2026-08-26T12:57:36.956514+00:00"
     }
   ]
 }
