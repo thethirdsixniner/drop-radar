@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702706688261": {
+        "title": "ASICS X  INVINCIBLE X MADNESS GEL-KAYANO 12.1 VANILLA",
+        "handle": "asics-x-invincible-x-madness-gel-kayano-12-1-vanilla",
+        "in_stock": true
+      },
       "6702664810757": {
         "title": "UNDEFEATED STRIPED L/S RUGBY",
         "handle": "undefeated-striped-l-s-rugby",
@@ -2497,11 +2502,6 @@
         "title": "JORDAN PS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE",
         "handle": "jordan-ps-aj-3-retro-white-fire-red-true-blue",
         "in_stock": true
-      },
-      "6702600814853": {
-        "title": "NIKE X VAA USA STAFF JACKET - WHITE",
-        "handle": "nike-x-vaa-usa-staff-jacket-white",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2603,7 +2603,7 @@
       "10694507004171": {
         "title": "ERL Puffer Coat Woven",
         "handle": "erl-puffer-coat-woven-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10148096770315": {
         "title": "Crocs The Simpsons Meme Jibbitz 5-Pack",
@@ -2728,7 +2728,7 @@
       "11026670190859": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gelnyc-white-midnight",
-        "in_stock": true
+        "in_stock": false
       },
       "11026670321931": {
         "title": "The North Face Summit High Trail Expedition T-Shirt",
@@ -2783,7 +2783,7 @@
       "10883651272971": {
         "title": "Gramicci G-Pant",
         "handle": "gramicci-gpant-olive",
-        "in_stock": true
+        "in_stock": false
       },
       "9016979980555": {
         "title": "Nike Air Zoom Spiridon SP",
@@ -2878,7 +2878,7 @@
       "10676117995787": {
         "title": "HAL Studios Practice Jersey L/S",
         "handle": "hal-studios-practice-jersey-ls-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10727153565963": {
         "title": "Metalwood Safety Trucker Hat",
@@ -3098,7 +3098,7 @@
       "10568812101899": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-off-white-earth-strata-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10676314997003": {
         "title": "New Balance 800",
@@ -3163,7 +3163,7 @@
       "8518645514507": {
         "title": "Autry Medalist W *Honey / Canvas*",
         "handle": "autry-medalist-w-honey-canvas-white-pow",
-        "in_stock": true
+        "in_stock": false
       },
       "10219962237195": {
         "title": "Adidas Wmns Teamgeist Adicolor Oversized Woven Track Pant",
@@ -3743,7 +3743,7 @@
       "11016312750347": {
         "title": "Adidas x Bad Bunny F50 Ghost Sprint",
         "handle": "adidas-x-arte-antwerp-f50-core-black-charcoal-aurora-black",
-        "in_stock": false
+        "in_stock": true
       },
       "11024545644811": {
         "title": "Polo Ralph Lauren Cable-Knit Wool-Blend Jumper",
@@ -3900,7 +3900,7 @@
       "9088636125372": {
         "title": "Women's On Cloudtilt - White/Ivory",
         "handle": "womens-on-cloudtilt-white-ivory",
-        "in_stock": true
+        "in_stock": false
       },
       "9472692846780": {
         "title": "Nike Air Force 1 Low 'Horse of a Different Color' - Campfire Orange/Sunset",
@@ -4020,7 +4020,7 @@
       "9100799082684": {
         "title": "Rhude Pit Stop Tee - Vintage Black/Red",
         "handle": "rhude-pit-stop-tee-vintage-black-red",
-        "in_stock": true
+        "in_stock": false
       },
       "9405351198908": {
         "title": "Hoka Mafate 2 OG - Hoka Citrus/Black",
@@ -6142,7 +6142,7 @@
       "15031076716920": {
         "title": "Saucony Progrid Omni 9 OG 'Black White'",
         "handle": "saucony-progrid-omni-9-og-black-white",
-        "in_stock": true
+        "in_stock": false
       },
       "15031076422008": {
         "title": "Saucony Progrid Omni 9 OG 'Microchip'",
@@ -6594,7 +6594,7 @@
       "10599765639434": {
         "title": "adidas Originals x Bad Bunny F50 Ghost Sprint",
         "handle": "adidas-originals-x-bad-bunny-f50-ghost-sprint-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10599757512970": {
         "title": "Keen Uneek Loafer 'NOCTURNAL PACK'",
@@ -8122,7 +8122,7 @@
       "9115047952589": {
         "title": "Wave Oval T-Shirt Black",
         "handle": "stussy-clothing-wave-oval-tee-black-j356121",
-        "in_stock": true
+        "in_stock": false
       },
       "9106787664077": {
         "title": "Surf Size Pigment Dyed T-Shirt Faded Black",
@@ -8768,24 +8768,16 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock GA-700 Series Analog-Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-ga-700-series-analog-digital-watch-camo",
-      "detected_at": "2026-08-29T07:43:00.174239+00:00"
+      "message": "🆕 **New drop** at Undefeated: ASICS X  INVINCIBLE X MADNESS GEL-KAYANO 12.1 VANILLA\nhttps://undefeated.com/products/asics-x-invincible-x-madness-gel-kayano-12-1-vanilla",
+      "detected_at": "2026-08-29T13:22:53.475629+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Gold/Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-gold-camo",
-      "detected_at": "2026-08-29T07:43:00.174239+00:00"
+      "message": "🔥 **Restock** at Asphaltgold: Adidas x Bad Bunny F50 Ghost Sprint\nhttps://www.asphaltgold.de/products/adidas-x-arte-antwerp-f50-core-black-charcoal-aurora-black",
+      "detected_at": "2026-08-29T13:22:53.475629+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: Nike Air Max Goadome Low SP\nhttps://www.afew-store.com/products/nike-air-max-goadome-low-sp-lt-orewood-brn-black-black",
-      "detected_at": "2026-08-29T07:43:00.174239+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Awake NY T-Shirt White / Light Blue / Royal / Infrared\nhttps://www.slamjam.com/products/nike-jordan-clothing-jordan-x-awake-ny-t-shirt-white-j368903",
-      "detected_at": "2026-08-29T07:43:00.174239+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Awake NY Polo Shirt Light Blue / Royal / Infrared\nhttps://www.slamjam.com/products/nike-jordan-clothing-jordan-x-awake-ny-polo-blue-j368902",
-      "detected_at": "2026-08-29T07:43:00.174239+00:00"
+      "message": "🔥 **Restock** at Afew Store: adidas Originals x Bad Bunny F50 Ghost Sprint\nhttps://www.afew-store.com/products/adidas-originals-x-bad-bunny-f50-ghost-sprint-black",
+      "detected_at": "2026-08-29T13:22:53.475629+00:00"
     }
   ]
 }
