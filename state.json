@@ -2798,7 +2798,7 @@
       "10744384749835": {
         "title": "Adidas Tokyo W",
         "handle": "adidas-tokyo-w-wonder-aqua-offwhite-gum-3",
-        "in_stock": true
+        "in_stock": false
       },
       "10243161063691": {
         "title": "Adidas SL 72 PT",
@@ -3413,7 +3413,7 @@
       "10221483786507": {
         "title": "New Balance 475",
         "handle": "new-balance-u475pd-rose-sugar-black-linen",
-        "in_stock": true
+        "in_stock": false
       },
       "10721641169163": {
         "title": "Birkenstock Tokio Shearling",
@@ -3757,6 +3757,21 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9028606394556": {
+        "title": "Politics Mug - Multi",
+        "handle": "politics-mug-multi",
+        "in_stock": false
+      },
+      "8998928318652": {
+        "title": "Rhude Script Logo Sock - Black/Gold",
+        "handle": "rhude-script-logo-sock-black-gold",
+        "in_stock": false
+      },
+      "9100849414332": {
+        "title": "Rhude Rossa Strapback - Blue/White",
+        "handle": "rhude-rossa-strapback-blue-white",
+        "in_stock": false
+      },
       "9228440993980": {
         "title": "Politics Ritual L/S Tee -  Vintage Black",
         "handle": "politics-ritual-l-s-tee-vintage-black",
@@ -4012,11 +4027,6 @@
         "handle": "hoka-mafate-2-og-hoka-citrus-black",
         "in_stock": true
       },
-      "8950751527100": {
-        "title": "Diet Starts Monday Double Layer Hoodie - Washed Black/Maroon",
-        "handle": "diet-starts-monday-double-layer-hoodie-washed-black-maroon",
-        "in_stock": false
-      },
       "9336120967356": {
         "title": "Saucony Progrid Triumph 4 - Lush/Black",
         "handle": "saucony-progrid-triumph-4-lush-black",
@@ -4142,11 +4152,6 @@
         "handle": "politics-airpod-pro-case-creme",
         "in_stock": true
       },
-      "8932943528124": {
-        "title": "Politics x New Era 59FIFTY Fitted - Everest Green",
-        "handle": "politics-x-new-era-59fifty-fitted-everest-green",
-        "in_stock": false
-      },
       "9028604133564": {
         "title": "Politics Airpod Pro Case - Olive",
         "handle": "politics-airpod-pro-case-olive",
@@ -4216,11 +4221,6 @@
         "title": "Politics Busy Being Nice Hoodie - Black",
         "handle": "politics-busy-being-nice-hoodie-black",
         "in_stock": true
-      },
-      "9134969192636": {
-        "title": "Politics Masquerade Tee - Vintage Black",
-        "handle": "politics-masquerade-tee-vintage-black",
-        "in_stock": false
       },
       "9134939635900": {
         "title": "Politics Windbreaker Pullover - Red",
@@ -4406,11 +4406,6 @@
         "title": "Politics Market Tee - Clear Blue",
         "handle": "politics-market-tee-clear-blue",
         "in_stock": true
-      },
-      "8920067375292": {
-        "title": "Politics Tackle Tee - Creme",
-        "handle": "politics-tackle-tee-creme",
-        "in_stock": false
       },
       "8911657730236": {
         "title": "Politics x MLS All-Star Tee - White",
@@ -4737,11 +4732,6 @@
         "handle": "purple-brand-sharpened-wordmark-tank-top-black",
         "in_stock": true
       },
-      "9156314955964": {
-        "title": "SP5DER x Adidas Tee - Black",
-        "handle": "sp5der-x-adidas-tee-black",
-        "in_stock": false
-      },
       "9243644035260": {
         "title": "A Bathing Ape ABC Camo Bottle Opener - Green",
         "handle": "a-bathing-ape-abc-camo-bottle-opener-green",
@@ -5005,6 +4995,16 @@
       "9497056837820": {
         "title": "Casio G-Shock 6900 Series Digital Watch - Black/Camo",
         "handle": "casio-g-shock-6900-series-digital-watch-black-camo",
+        "in_stock": true
+      },
+      "9497041273020": {
+        "title": "Casio G-Shock GA-700 Series Analog-Digital Watch - Camo",
+        "handle": "casio-g-shock-ga-700-series-analog-digital-watch-camo",
+        "in_stock": true
+      },
+      "9497040781500": {
+        "title": "Casio G-Shock 6900 Series Digital Watch - Gold/Camo",
+        "handle": "casio-g-shock-6900-series-digital-watch-gold-camo",
         "in_stock": true
       }
     },
@@ -6684,7 +6684,7 @@
       "10597571166474": {
         "title": "Nike Air Max Goadome Low SP",
         "handle": "nike-air-max-goadome-low-sp-lt-orewood-brn-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10597402181898": {
         "title": "Lacoste OVERSHIRT",
@@ -7542,12 +7542,12 @@
       "9127779238093": {
         "title": "Men's Awake NY T-Shirt White / Light Blue / Royal / Infrared",
         "handle": "nike-jordan-clothing-jordan-x-awake-ny-t-shirt-white-j368903",
-        "in_stock": false
+        "in_stock": true
       },
       "9127779270861": {
         "title": "Men's Awake NY Polo Shirt Light Blue / Royal / Infrared",
         "handle": "nike-jordan-clothing-jordan-x-awake-ny-polo-blue-j368902",
-        "in_stock": false
+        "in_stock": true
       },
       "9127777796301": {
         "title": "Leather Ballerina Sneakers Beige",
@@ -8272,7 +8272,7 @@
       "9127619723469": {
         "title": "Lava Mountain T-Shirt Anthracite",
         "handle": "roa-clothing-lava-mountain-t-shirt-black-j347349",
-        "in_stock": true
+        "in_stock": false
       },
       "9127619854541": {
         "title": "Fuzzy Print Long Sleeve T-Shirt Fuzzy Brown",
@@ -8768,224 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 992 *Made in USA*\nhttps://www.asphaltgold.de/products/new-balance-u992cc-made-in-usa-sweet-caramel-calcium",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock GA-700 Series Analog-Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-ga-700-series-analog-digital-watch-camo",
+      "detected_at": "2026-08-29T07:43:00.174239+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Japan W\nhttps://www.asphaltgold.de/products/adidas-japan-w-cream-white-maroon-gum",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Gold/Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-gold-camo",
+      "detected_at": "2026-08-29T07:43:00.174239+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas adizero Evo SL M\nhttps://www.asphaltgold.de/products/adidas-adizero-evo-sl-m-core-black-pure-teal-grey-four",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike Air Max Goadome Low SP\nhttps://www.afew-store.com/products/nike-air-max-goadome-low-sp-lt-orewood-brn-black-black",
+      "detected_at": "2026-08-29T07:43:00.174239+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: HOKA Tor Summit\nhttps://www.asphaltgold.de/products/hoka-tor-summit-moss-green-spruce-green",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Awake NY T-Shirt White / Light Blue / Royal / Infrared\nhttps://www.slamjam.com/products/nike-jordan-clothing-jordan-x-awake-ny-t-shirt-white-j368903",
+      "detected_at": "2026-08-29T07:43:00.174239+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics JOG 100S\nhttps://www.asphaltgold.de/products/asics-jog-100s-white-clay-grey",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Mizuno MXR Casual\nhttps://www.asphaltgold.de/products/mizuno-mxr-casual-vintage-khaki-black-sand-iron-gate",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-u740sb2-slate-grey-blue-agate-black-silver-metallic",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Nylon / Hairy Suede / Cracked Leather*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-nylon-hairy-suede-cracked-leather-white-military",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-suede-net-ecru-lemon-meringue",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Suede / Mesh*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-suede-mesh-purple-cel",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist W\nhttps://www.asphaltgold.de/products/autry-medalist-w-virgin-diamond-white-dmn",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Sunflower Relaxed Boot Jeans\nhttps://www.asphaltgold.de/products/sunflower-relaxed-boot-jeans-paint-worn",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tOriginals Basketball Crest T-Shirt\nhttps://www.asphaltgold.de/products/adidasoriginals-basketball-crest-tshirt-off-white-icey-blue",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Satisfy MothTech T-Shirt *Wave*\nhttps://www.asphaltgold.de/products/satisfy-mothtech-tshirt-wave-offwhite",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Hiking Patrol Element Texture Down Vest\nhttps://www.asphaltgold.de/products/hiking-patrol-element-texture-down-vest-grey",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Reebok x Botter Reverse Soccer Tee\nhttps://www.asphaltgold.de/products/reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Ami De Coeur Hoodie\nhttps://www.asphaltgold.de/products/ami-parisami-de-coeur-hoodie-black-white-cream",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Satisfy FuzzFleece AD Long Tee\nhttps://www.asphaltgold.de/products/satisfy-fuzzfleece-ad-long-tee-falcon",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas 3-Sripes Crew Socks 3 Pairs\nhttps://www.asphaltgold.de/products/adidas-3-sripes-crew-socks-3-pairs",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: ERL Puffer Coat Woven\nhttps://www.asphaltgold.de/products/erl-puffer-coat-woven-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Crocs The Simpsons Meme Jibbitz 5-Pack\nhttps://www.asphaltgold.de/products/crocs-the-simpsons-meme-jibbitz-5pack-multicolor",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Crocs The Simpsons Jibbitz 5-Pack\nhttps://www.asphaltgold.de/products/crocs-the-simpsons-jibbitz-5pack-multicolor",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Metalwood Roosevelt 5-Panel Snapback Hat\nhttps://www.asphaltgold.de/products/metalwood-roosevelt-5panel-snapback-hat-spruce",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Politics Houston Blueprint Tee - Off White\nhttps://sneakerpolitics.com/products/politics-houston-blueprint-tee-off-white",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Espresso Trucker Hat - Black\nhttps://sneakerpolitics.com/products/ice-cream-espresso-trucker-hat-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Genuine Snapback - Antique White/Blue\nhttps://sneakerpolitics.com/products/ice-cream-genuine-snapback-antique-white-blue",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Strawberry L/S Knit Tee - Neutral Gray\nhttps://sneakerpolitics.com/products/ice-cream-strawberry-l-s-knit-tee-neutral-gray",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Pomegranate Knit Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-pomegranate-knit-tee-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Melon Knit Tee - Antique White\nhttps://sneakerpolitics.com/products/ice-cream-melon-knit-tee-antique-white",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Coffee Crewneck - Black\nhttps://sneakerpolitics.com/products/ice-cream-coffee-l-s-knit-tee-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Phantom Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-phantom-tee-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Violet Tee - White\nhttps://sneakerpolitics.com/products/ice-cream-violet-tee-white",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Violet Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-violet-tee-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Rose Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-rose-tee-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Marshmallow Tee - White\nhttps://sneakerpolitics.com/products/ice-cream-marshmallow-tee-white",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Root Beer Tee - Heather Grey\nhttps://sneakerpolitics.com/products/ice-cream-root-beer-tee-heather-grey",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Choco Shorts - Jet Set\nhttps://sneakerpolitics.com/products/ice-cream-choco-shorts-jet-set",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Citrus Cargo Pants - Camo\nhttps://sneakerpolitics.com/products/ice-cream-citrus-cargo-pants-camo",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Lavender Jeans - Faded Ash\nhttps://sneakerpolitics.com/products/ice-cream-lavender-jeans-faded-ash",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Milk Jeans - Lemon Tart\nhttps://sneakerpolitics.com/products/ice-cream-milk-jeans-lemon-tart",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Cola Jeans - Pistachio\nhttps://sneakerpolitics.com/products/ice-cream-cola-jeans-pistachio",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Baja Shorts - Black\nhttps://sneakerpolitics.com/products/ice-cream-baja-shorts-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Zoom Skylon 11 - Summit White/Metallic Silver\nhttps://sneakerpolitics.com/products/nike-zoom-skylon-11-summit-white-metallic-silver",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 7 Retro 'Tennis Day' - Phantom/Anthracite\nhttps://sneakerpolitics.com/products/air-jordan-7-retro-tennis-day-phantom-anthracite",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's On Cloudtilt - White/Ivory\nhttps://sneakerpolitics.com/products/womens-on-cloudtilt-white-ivory",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 Low 'Horse of a Different Color' - Campfire Orange/Sunset\nhttps://sneakerpolitics.com/products/nike-air-force-1-low-horse-of-a-different-color-campfire-orange-sunset",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Griffey Max 1 'Freshwater' - White/Black\nhttps://sneakerpolitics.com/products/nike-air-griffey-max-1-white-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Adizero EVO SL EXO - Collegiate Navy/Core Black\nhttps://sneakerpolitics.com/products/adidas-adizero-evo-sl-exo-collegiate-navy-core-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: INVINCIBLE x MADNESS x Asics Gel-Kayano 12.1 - Vanilla/Vanilla\nhttps://sneakerpolitics.com/products/invincible-x-madness-x-asics-gel-kayano-12-1-vanilla-vanilla",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Bad Bunny x Adidas Ballerina 'Flamboyan' - Vivid Red/Chalk White\nhttps://sneakerpolitics.com/products/bad-bunny-x-adidas-ballerina-flamboyan-vivid-red-chalk-white",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-NYC 2.0 - Graphite Grey/Black\nhttps://sneakerpolitics.com/products/asics-gel-nyc-2-0-graphite-grey-black",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Bad Bunny x Adidas F50 Ghost Sprint - Core Black/Charcoal\nhttps://sneakerpolitics.com/products/bad-bunny-x-adidas-f50-ghost-sprint-core-black-charcoal",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-NYC 2055 - Pale Oak/Truffle Grey\nhttps://sneakerpolitics.com/products/asics-gel-nyc-2055-pale-oak-truffle-grey",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Air Max Goadome Low Holey Sneakers Light Orewood Brown / Black\nhttps://www.slamjam.com/products/nike-footwear-nike-air-max-goadome-low-sp-black-j369217",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Bad Bunny F50 Ghost Sprint Sneakers Core Black / Charcoal / Aurora Black\nhttps://www.slamjam.com/products/adidas-footwear-bb-f50-ghost-sprint-black-j362328",
-      "detected_at": "2026-08-29T00:54:22.061450+00:00"
+      "message": "🔥 **Restock** at Slam Jam: Men's Awake NY Polo Shirt Light Blue / Royal / Infrared\nhttps://www.slamjam.com/products/nike-jordan-clothing-jordan-x-awake-ny-polo-blue-j368902",
+      "detected_at": "2026-08-29T07:43:00.174239+00:00"
     }
   ]
 }
