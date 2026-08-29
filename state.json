@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286722621568": {
+        "title": "adidas x Bad Bunny F50 Ghost Sprint - Core Black / Charcoal / Aurora Black",
+        "handle": "aahp4218",
+        "in_stock": true
+      },
       "8286705680512": {
         "title": "Kith Micro Waffle Long Sleeve Colby Pullover - White",
         "handle": "khma030426-101",
@@ -294,7 +299,7 @@
       "8286702796928": {
         "title": "Kith LAX Tee - Black",
         "handle": "khma030214-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286702764160": {
         "title": "Kith LAX Tee - White",
@@ -1245,17 +1250,42 @@
         "title": "Kith for Needles Clip Jacquard Dawson Bucket Hat - Black",
         "handle": "khm051278-001",
         "in_stock": true
-      },
-      "8286722392192": {
-        "title": "Nike Shox BB4 - Black / Lapis / Metallic Silver",
-        "handle": "nkir1984-010",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
-      "6702706688261": {
-        "title": "ASICS X  INVINCIBLE X MADNESS GEL-KAYANO 12.1 VANILLA",
-        "handle": "asics-x-invincible-x-madness-gel-kayano-12-1-vanilla",
+      "6702697709829": {
+        "title": "JORDAN TD AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
+        "handle": "jordan-td-aj-8-retro-black-white-lt-graphite",
+        "in_stock": true
+      },
+      "6702697840901": {
+        "title": "JORDAN AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
+        "handle": "jordan-aj-8-retro-black-white-lt-graphite",
+        "in_stock": true
+      },
+      "6702697742597": {
+        "title": "JORDAN GS AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
+        "handle": "jordan-gs-aj-8-retro-black-white-lt-graphite",
+        "in_stock": true
+      },
+      "6702722744581": {
+        "title": "JORDAN X AWAKE NY POLO - LIGHT BLUE/ GAME ROYAL",
+        "handle": "jordan-x-awake-ny-polo-light-blue-game-royal",
+        "in_stock": false
+      },
+      "6702722711813": {
+        "title": "JORDAN X AWAKE NY TEE - WHITE/ LIGHT BLUE",
+        "handle": "jordan-x-awake-ny-tee-white-light-blue",
+        "in_stock": true
+      },
+      "6702722679045": {
+        "title": "JORDAN X AWAKE NY TRACK PANT - MIDNIGHT NAVY/ INFRARED 23",
+        "handle": "jordan-x-awake-ny-track-pant-midnight-navy-infrared-23",
+        "in_stock": true
+      },
+      "6702722646277": {
+        "title": "JORDAN X AWAKE NY TRACK JACKET - MIDNIGHT NAVY/ INFRARED 23",
+        "handle": "jordan-x-awake-ny-track-jacket-midnight-navy-infrared-23",
         "in_stock": true
       },
       "6702664810757": {
@@ -2243,6 +2273,11 @@
         "handle": "jordan-aj-1-retro-high-og-love-letter-shadow-brown",
         "in_stock": true
       },
+      "6702706688261": {
+        "title": "ASICS X  INVINCIBLE X MADNESS GEL-KAYANO 12.1 VANILLA",
+        "handle": "asics-x-invincible-x-madness-gel-kayano-12-1-vanilla",
+        "in_stock": true
+      },
       "6702673821957": {
         "title": "ASICS GEL-CUMULUS 16 - GRAPHITE GREY/ BLACK",
         "handle": "asics-gel-cumulus-16-graphite-grey-black",
@@ -2467,41 +2502,6 @@
         "title": "NIKE AVA EDGE - SUMMIT WHITE",
         "handle": "nike-ava-edge-summit-white",
         "in_stock": true
-      },
-      "6702652358917": {
-        "title": "ADIDAS HYPERBOOST EUPHORIA CORE BLOACK/ LUCID BLUE",
-        "handle": "adidas-hyperboost-euphoria-core-bloack-lucid-blue",
-        "in_stock": true
-      },
-      "6702652424453": {
-        "title": "ADIDAS HYPERBOOST EUPHORIA - CORE BLACK/ SOLAR RED",
-        "handle": "adidas-hyperboost-euphoria-core-black-solar-red",
-        "in_stock": true
-      },
-      "6702652555525": {
-        "title": "ADIDAS HYPERBOOST EUPHORIA - LIGHT YELLOW",
-        "handle": "adidas-hyperboost-euphoria-light-yellow",
-        "in_stock": true
-      },
-      "6702411284741": {
-        "title": "NIKE BRAZIL 2026 STADIUM HOME JERSEY - CANARY/ LIGHT MENTA",
-        "handle": "nike-brazil-2026-stadium-home-jersey-canary-light-menta",
-        "in_stock": true
-      },
-      "6702628864261": {
-        "title": "JORDAN AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE",
-        "handle": "jordan-aj-3-retro-white-fire-red-true-blue",
-        "in_stock": true
-      },
-      "6702628962565": {
-        "title": "JORDAN GS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE",
-        "handle": "jordan-gs-aj-3-retro-white-fire-red-true-blue",
-        "in_stock": true
-      },
-      "6702629126405": {
-        "title": "JORDAN PS AJ 3 RETRO - WHITE/ FIRE RED/ TRUE BLUE",
-        "handle": "jordan-ps-aj-3-retro-white-fire-red-true-blue",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2513,7 +2513,7 @@
       "10603255365899": {
         "title": "Adidas Japan W",
         "handle": "adidas-japan-w-cream-white-maroon-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10567352090891": {
         "title": "Adidas adizero Evo SL M",
@@ -2753,12 +2753,12 @@
       "10872841797899": {
         "title": "Nike Wmns Pegasus Premium",
         "handle": "nike-wmns-pegasus-premium-summit-white-white-pure-platinum",
-        "in_stock": true
+        "in_stock": false
       },
       "10856459763979": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt6-earth-brown-walnut-footwear-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10861919600907": {
         "title": "Salomon XT-Whisper",
@@ -2808,7 +2808,7 @@
       "10746805092619": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-fox-brown-off-white-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "10885773033739": {
         "title": "Gramicci Nylon Packable G-Short",
@@ -2823,7 +2823,7 @@
       "10134830874891": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-cloud-white-clear-orange-semi-coral",
-        "in_stock": true
+        "in_stock": false
       },
       "10696156971275": {
         "title": "Asics GEL-NYC RGD",
@@ -2883,7 +2883,7 @@
       "10727153565963": {
         "title": "Metalwood Safety Trucker Hat",
         "handle": "metalwood-safety-trucker-hat-camo",
-        "in_stock": true
+        "in_stock": false
       },
       "10660003643659": {
         "title": "Wilson Do All Tote Bag (Classic Navy)",
@@ -3143,7 +3143,7 @@
       "10542368325899": {
         "title": "Adidas SL 72 OG W",
         "handle": "adidas-sl-72-og-w-yellow-core-black-yellow",
-        "in_stock": true
+        "in_stock": false
       },
       "10122494443787": {
         "title": "Adidas Tobacco",
@@ -3158,7 +3158,7 @@
       "8399358951691": {
         "title": "Salomon XT-6 GTX",
         "handle": "salomon-xt-6-gtx-safari-safari-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8518645514507": {
         "title": "Autry Medalist W *Honey / Canvas*",
@@ -3313,7 +3313,7 @@
       "10866588221707": {
         "title": "Autry Medalist W *HP*",
         "handle": "autry-medalist-w-hp-white-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10892355141899": {
         "title": "Our Legacy\tLeisure Trouser",
@@ -3388,17 +3388,17 @@
       "10609248076043": {
         "title": "Adidas Japan W",
         "handle": "adidas-japan-w-trace-brown-off-white-trace-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "8989340172555": {
         "title": "Nike Killshot 2 *Leather*",
         "handle": "nike-killshot-2-leather-sail-light-khaki",
-        "in_stock": true
+        "in_stock": false
       },
       "10653542285579": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-almost-pink-blue-spark-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10124240486667": {
         "title": "Adidas Gazelle Indoor Pro",
@@ -3428,7 +3428,7 @@
       "8614301597963": {
         "title": "Veja Volley *O.T. Leather*",
         "handle": "veja-volley-o-t-leather-white-tent-bark",
-        "in_stock": true
+        "in_stock": false
       },
       "10676908359947": {
         "title": "Timberland Premium 6-Inch Lace Up Boot W",
@@ -3757,6 +3757,26 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9069589921980": {
+        "title": "New Era x Politics Chicago White Sox 59FIFTY Fitted - Chrome/Stone",
+        "handle": "new-era-x-politics-chicago-white-sox-59fifty-fitted-chrome-stone-1",
+        "in_stock": true
+      },
+      "9342208803004": {
+        "title": "Jordan 8 Retro 'Chrome' (TD) - Black/White",
+        "handle": "jordan-8-retro-chrome-td-black-white",
+        "in_stock": true
+      },
+      "9342235345084": {
+        "title": "Jordan 8 Retro 'Chrome' (PS) - Black/White",
+        "handle": "jordan-8-retro-chrome-ps-black-white",
+        "in_stock": true
+      },
+      "9340934783164": {
+        "title": "Air Jordan 8 Retro 'Chrome' (GS) - Black/White",
+        "handle": "air-jordan-8-retro-chrome-gs-black-white",
+        "in_stock": true
+      },
       "9028606394556": {
         "title": "Politics Mug - Multi",
         "handle": "politics-mug-multi",
@@ -3875,7 +3895,7 @@
       "9381359485116": {
         "title": "Nike Vomero Plus 'Cow Print' - Sail/Sail",
         "handle": "nike-vomero-plus-cow-print-sail-sail",
-        "in_stock": false
+        "in_stock": true
       },
       "9357570539708": {
         "title": "Nike Zoom Skylon 11 - Summit White/Metallic Silver",
@@ -3941,11 +3961,6 @@
         "title": "Asics Gel-NYC 2055 - Pale Oak/Truffle Grey",
         "handle": "asics-gel-nyc-2055-pale-oak-truffle-grey",
         "in_stock": true
-      },
-      "9297841946812": {
-        "title": "Women's Nike Moon Shoe OG - Summit White/Soft Pearl",
-        "handle": "womens-nike-moon-shoe-og-summit-white-soft-pearl",
-        "in_stock": false
       },
       "9126570819772": {
         "title": "Asics Gel-NYC - Brown Storm/Black Coffee",
@@ -4172,11 +4187,6 @@
         "handle": "politics-division-tee-white",
         "in_stock": true
       },
-      "8221964042428": {
-        "title": "Politics Embroidered Crew Sock - Grey",
-        "handle": "politics-embroidered-crew-sock-grey",
-        "in_stock": false
-      },
       "9134910636220": {
         "title": "Politics Baseball Jersey - Black",
         "handle": "politics-baseball-jersey-black",
@@ -4292,11 +4302,6 @@
         "handle": "politics-vintage-wash-hoodie-tan",
         "in_stock": true
       },
-      "9048080908476": {
-        "title": "Politics Vintage Wash Hoodie - Purple",
-        "handle": "politics-vintage-wash-hoodie-purple",
-        "in_stock": false
-      },
       "9048080154812": {
         "title": "Politics Vintage Wash Hoodie - Olive",
         "handle": "politics-vintage-wash-hoodie-olive",
@@ -4305,7 +4310,7 @@
       "9048029724860": {
         "title": "Politics Vintage Wash Hoodie - Black",
         "handle": "politics-vintage-wash-hoodie-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9028607508668": {
         "title": "Politics Rello Tee - Dolphin Blue",
@@ -4377,20 +4382,10 @@
         "handle": "politics-sp-skully-sage",
         "in_stock": true
       },
-      "8932942348476": {
-        "title": "Politics x New Era 59FIFTY Fitted - Candied Pecan/Brown",
-        "handle": "politics-x-new-era-59fifty-fitted-candied-pecan-brown",
-        "in_stock": false
-      },
       "8932940906684": {
         "title": "Politics x New Era 59FIFTY Fitted - Earthy Brown",
         "handle": "politics-x-new-era-59fifty-fitted-earthy-brown",
         "in_stock": true
-      },
-      "8932939595964": {
-        "title": "Politics x New Era 59FIFTY Fitted - Pink Glow",
-        "handle": "politics-x-new-era-59fifty-fitted-pink-glow",
-        "in_stock": false
       },
       "8920081858748": {
         "title": "Politics Mesh Cap - Cardinal",
@@ -4620,7 +4615,7 @@
       "8950758867132": {
         "title": "Politics Tailgate Tee - White",
         "handle": "politics-tailgate-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "8950711287996": {
         "title": "Politics Hell's Kitchen Tee - White",
@@ -4725,7 +4720,7 @@
       "8767690342588": {
         "title": "Fear Of God Essentials Classic Fit Fleece Crewneck - Abbey Stone",
         "handle": "fear-of-god-essentials-classic-fit-fleece-crewneck-abbey-stone",
-        "in_stock": true
+        "in_stock": false
       },
       "8952021582012": {
         "title": "Purple Brand Sharpened Wordmark Tank Top - Black",
@@ -4965,7 +4960,7 @@
       "9346472706236": {
         "title": "Nike Kobe V Protro 'Dodgers' - Hyper Royal/Wolf Grey",
         "handle": "nike-kobe-v-protro-dodgers-hyper-royal-wolf-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "9400878039228": {
         "title": "AFEW x Brooks Adrenaline GTS 10 'Today Was A Good Day' - Fig/Bridal Rose",
@@ -5005,6 +5000,11 @@
       "9497040781500": {
         "title": "Casio G-Shock 6900 Series Digital Watch - Gold/Camo",
         "handle": "casio-g-shock-6900-series-digital-watch-gold-camo",
+        "in_stock": true
+      },
+      "9497040126140": {
+        "title": "Casio G-Shock 6900 Series Digital Watch - Camo",
+        "handle": "casio-g-shock-6900-series-digital-watch-camo",
         "in_stock": true
       }
     },
@@ -8768,16 +8768,56 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: ASICS X  INVINCIBLE X MADNESS GEL-KAYANO 12.1 VANILLA\nhttps://undefeated.com/products/asics-x-invincible-x-madness-gel-kayano-12-1-vanilla",
-      "detected_at": "2026-08-29T13:22:53.475629+00:00"
+      "message": "🆕 **New drop** at Kith: adidas x Bad Bunny F50 Ghost Sprint - Core Black / Charcoal / Aurora Black\nhttps://kith.com/products/aahp4218",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: Adidas x Bad Bunny F50 Ghost Sprint\nhttps://www.asphaltgold.de/products/adidas-x-arte-antwerp-f50-core-black-charcoal-aurora-black",
-      "detected_at": "2026-08-29T13:22:53.475629+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN TD AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE\nhttps://undefeated.com/products/jordan-td-aj-8-retro-black-white-lt-graphite",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
     },
     {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals x Bad Bunny F50 Ghost Sprint\nhttps://www.afew-store.com/products/adidas-originals-x-bad-bunny-f50-ghost-sprint-black",
-      "detected_at": "2026-08-29T13:22:53.475629+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE\nhttps://undefeated.com/products/jordan-aj-8-retro-black-white-lt-graphite",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE\nhttps://undefeated.com/products/jordan-gs-aj-8-retro-black-white-lt-graphite",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X AWAKE NY TEE - WHITE/ LIGHT BLUE\nhttps://undefeated.com/products/jordan-x-awake-ny-tee-white-light-blue",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X AWAKE NY TRACK PANT - MIDNIGHT NAVY/ INFRARED 23\nhttps://undefeated.com/products/jordan-x-awake-ny-track-pant-midnight-navy-infrared-23",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN X AWAKE NY TRACK JACKET - MIDNIGHT NAVY/ INFRARED 23\nhttps://undefeated.com/products/jordan-x-awake-ny-track-jacket-midnight-navy-infrared-23",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Politics Chicago White Sox 59FIFTY Fitted - Chrome/Stone\nhttps://sneakerpolitics.com/products/new-era-x-politics-chicago-white-sox-59fifty-fitted-chrome-stone-1",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 8 Retro 'Chrome' (TD) - Black/White\nhttps://sneakerpolitics.com/products/jordan-8-retro-chrome-td-black-white",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 8 Retro 'Chrome' (PS) - Black/White\nhttps://sneakerpolitics.com/products/jordan-8-retro-chrome-ps-black-white",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro 'Chrome' (GS) - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-chrome-gs-black-white",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Sneaker Politics: Nike Vomero Plus 'Cow Print' - Sail/Sail\nhttps://sneakerpolitics.com/products/nike-vomero-plus-cow-print-sail-sail",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-camo",
+      "detected_at": "2026-08-29T17:19:14.212860+00:00"
     }
   ]
 }
