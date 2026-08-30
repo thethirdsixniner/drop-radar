@@ -2998,7 +2998,7 @@
       "10837512782091": {
         "title": "Nike\tWmns Air Rift Breathe",
         "handle": "nikewmns-air-rift-breathe-black-black-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10821657166091": {
         "title": "Birkenstock Highwood Lace Low",
@@ -3298,7 +3298,7 @@
       "10647879385355": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-supplier-color-off-white-orbital-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10721641169163": {
         "title": "Birkenstock Tokio Shearling",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9325806321852": {
+        "title": "Stussy Box Crown Tee - White",
+        "handle": "stussy-box-crown-tee-white",
+        "in_stock": true
+      },
       "9513523806396": {
         "title": "Awake NY x Jordan Track Jacket - Midnight Navy/Infrared 23",
         "handle": "awake-ny-x-jordan-track-jacket-midnight-navy-infrared-23",
@@ -5000,11 +5005,6 @@
       "9497040126140": {
         "title": "Casio G-Shock 6900 Series Digital Watch - Camo",
         "handle": "casio-g-shock-6900-series-digital-watch-camo",
-        "in_stock": true
-      },
-      "9341138239676": {
-        "title": "Nike Shox BB4 - Black/Metallic Silver",
-        "handle": "nike-shox-bb4-black-metallic-silver",
         "in_stock": true
       }
     },
@@ -8177,7 +8177,7 @@
       "9105657135309": {
         "title": "Men's MothTech T-Shirt Aged Black",
         "handle": "satisfy-clothing-mothtech-t-shirt-black-j355992",
-        "in_stock": true
+        "in_stock": false
       },
       "9115132592333": {
         "title": "Men's Bad Ass Mama Tour T-Shirt White",
@@ -8768,100 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Firebird Shorts\nhttps://www.asphaltgold.de/products/adidas-firebird-shorts-branch",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tWMS Graphic Sock 3 Pair Pack\nhttps://www.asphaltgold.de/products/adidaswms-graphic-sock-3-pair-pack-white-better-scarlet-black",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tFirebird Drop Needle Track Pants\nhttps://www.asphaltgold.de/products/adidasfirebird-drop-needle-track-pants-night-indigo",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Care Bears T-Shirt\nhttps://www.asphaltgold.de/products/adidasx-care-bears-tshirt-white",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tTerrex Xperior Climaproof Cap\nhttps://www.asphaltgold.de/products/adidasterrex-xperior-climaproof-cap-black",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Red Box Full-Zip Trousers\nhttps://www.asphaltgold.de/products/the-north-face-red-box-fullzip-trousers-obsidian",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: mfpen Reverse Rib Sweater\nhttps://www.asphaltgold.de/products/mfpen-reverse-rib-sweater-murkey-grey",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Adistar Control 5\nhttps://www.asphaltgold.de/products/adidas-adistar-control-5-footwear-white-orbit-grey-champagne-metallic",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Mizuno Wave Mustang 4 LS\nhttps://www.asphaltgold.de/products/mizuno-wave-mustang-4-ls-black-fuchsia-purple-blackberry",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba Bowling\nhttps://www.asphaltgold.de/products/adidas-samba-bowling-preloved-brown-core-black-shadow-brown",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans OTW Era 95 *Distressed*\nhttps://www.asphaltgold.de/products/vans-otw-era-95-distressed-black",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans OTW Era 95 *Distressed*\nhttps://www.asphaltgold.de/products/vans-otw-era-95-distressed-checkerboard",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Vans OTW Era 95 *Distressed*\nhttps://www.asphaltgold.de/products/vans-otw-era-95-distressed-navy-red",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: C.P. Company 30/2 Mercerized Jersey Lens Longsleeve T-Shirt\nhttps://www.asphaltgold.de/products/cp-company-302-mercerized-jersey-lens-longsleeve-tshirt-black",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: C.P. Company Brushed Emerized Diagonal Fleece Lens Sweatshirt\nhttps://www.asphaltgold.de/products/cp-company-brushed-emerized-diagonal-fleece-lens-sweatshirt-fallen-rock",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: thisisneverthat *Gore-Tex Windstopper* Gear Jacket\nhttps://www.asphaltgold.de/products/thisisneverthat-goretex-windstopper-gear-jacket-black",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Air Max 95 *Big Bubble* *Jewel Swoosh*\nhttps://www.asphaltgold.de/products/nike-wmns-air-max-95-big-bubble-jewel-swoosh-light-british-tan-flax",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Adistar Control 5\nhttps://www.asphaltgold.de/products/adidas-adistar-control-5-cloud-white-core-black-core-white",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Italia 70s W\nhttps://www.asphaltgold.de/products/adidas-italia-70s-w-aurora-ivy-cream-white-silver-metallic",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Sky High Farm Universe Flannel Lined Canvas Double Knee Pants Woven\nhttps://www.asphaltgold.de/products/sky-high-farm-universe-flannel-lined-canvas-double-knee-pants-woven-brown",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: CHITO International Mika Tee\nhttps://www.asphaltgold.de/products/chito-international-mika-tee-washed-black",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: The North Face Etip Recycled Glove\nhttps://www.asphaltgold.de/products/the-north-face-etip-recycled-glove-tnf-black",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-camo",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Shox BB4 - Black/Metallic Silver\nhttps://sneakerpolitics.com/products/nike-shox-bb4-black-metallic-silver",
-      "detected_at": "2026-08-29T22:30:57.245062+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Stussy Box Crown Tee - White\nhttps://sneakerpolitics.com/products/stussy-box-crown-tee-white",
+      "detected_at": "2026-08-30T00:44:02.371829+00:00"
     }
   ]
 }
