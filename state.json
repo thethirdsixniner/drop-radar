@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286723113088": {
+        "title": "Kith for adidas Originals Samba \"Denim\" - Denim / White - PH",
+        "handle": "aahp8179-ph",
+        "in_stock": false
+      },
       "8286722621568": {
         "title": "adidas x Bad Bunny F50 Ghost Sprint - Core Black / Charcoal / Aurora Black",
         "handle": "aahp4218",
@@ -1245,14 +1250,39 @@
         "title": "Kith & New Era for Needles Heavy Crepe 59FIFTY Low Profile Cap - Nocturnal",
         "handle": "khm051275-413",
         "in_stock": true
-      },
-      "8286690345088": {
-        "title": "Kith for Needles Clip Jacquard Dawson Bucket Hat - Black",
-        "handle": "khm051278-001",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702719533317": {
+        "title": "JORDAN ESSENTIALS OVERSIZED FLEECE PANTS - CAVE STONE",
+        "handle": "jordan-essentials-oversized-fleece-pants-cave-stone",
+        "in_stock": true
+      },
+      "6702719467781": {
+        "title": "JORDAN SS TEE - CAVE STONE",
+        "handle": "jordan-ss-tee-cave-stone",
+        "in_stock": true
+      },
+      "6702719435013": {
+        "title": "JORDAN ESSENTIALS TEE - CAVE STONE",
+        "handle": "jordan-essentials-tee-cave-stone",
+        "in_stock": true
+      },
+      "6702719598853": {
+        "title": "BAPE TIGER CAMO APE HEAD RELAXED FIT TEE - WHITE",
+        "handle": "bape-tiger-camo-ape-head-relaxed-fit-tee-white",
+        "in_stock": true
+      },
+      "6702719566085": {
+        "title": "BAPE APE HEAD PHOTO PRINT RELAXED FIT TEE - WHITE",
+        "handle": "bape-ape-head-photo-print-relaxed-fit-tee-white",
+        "in_stock": true
+      },
+      "6702719500549": {
+        "title": "BAPE COLOR CAMO COLLEGE ATS TEE - BLACK",
+        "handle": "bape-color-camo-college-ats-tee-black",
+        "in_stock": true
+      },
       "6702697709829": {
         "title": "JORDAN TD AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
         "handle": "jordan-td-aj-8-retro-black-white-lt-graphite",
@@ -2472,36 +2502,6 @@
         "title": "NIKE ZOOM SKYLON 11 - VOLT/ METALLIC SILVER",
         "handle": "nike-zoom-skylon-11-volt-metallic-silver",
         "in_stock": true
-      },
-      "6702658093317": {
-        "title": "NIKE WMNS FIRST SIGHT - METALLIC SILVER/ BLACK",
-        "handle": "nike-wmns-first-sight-metallic-silver-black",
-        "in_stock": true
-      },
-      "6702639743237": {
-        "title": "NIKE WMNS FIRST SIGHT - BLACK/ MULTI-COLOR",
-        "handle": "nike-wmns-first-sight-black-multi-color",
-        "in_stock": true
-      },
-      "6702658060549": {
-        "title": "NIKE AIR ZOOM HUARACHE - WHITE/ DEEP FOREST/ CANYON GOLD",
-        "handle": "nike-air-zoom-huarache-white-deep-forest-canyon-gold",
-        "in_stock": true
-      },
-      "6702411153669": {
-        "title": "NIKE NIGERIA 2026 STADIUM HOME JERSEY - PINE GREEN",
-        "handle": "nike-nigeria-2026-stadium-home-jersey-pine-green",
-        "in_stock": true
-      },
-      "6702652457221": {
-        "title": "NIKE AVA EDGE - BLACK/ NEWSPRINT",
-        "handle": "nike-ava-edge-black-newsprint",
-        "in_stock": true
-      },
-      "6702652522757": {
-        "title": "NIKE AVA EDGE - SUMMIT WHITE",
-        "handle": "nike-ava-edge-summit-white",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2543,7 +2543,7 @@
       "10875377287435": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-ecru-lemon-meringue",
-        "in_stock": true
+        "in_stock": false
       },
       "10540104515851": {
         "title": "Autry Reelwind Low W *Suede / Mesh*",
@@ -3213,7 +3213,7 @@
       "10880502432011": {
         "title": "Autry Hyperway  *Suede / Mesh*",
         "handle": "autry-hyperway-suede-mesh-spblue-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10862863024395": {
         "title": "Carhartt WIP Ride Your Dreams T-Shirt",
@@ -3228,7 +3228,7 @@
       "10892355141899": {
         "title": "Our Legacy\tLeisure Trouser",
         "handle": "our-legacy-leisure-trouser-soot-black-techflax",
-        "in_stock": true
+        "in_stock": false
       },
       "10870744285451": {
         "title": "Ugg Wmns Goldenstar Meadow Accent Clog",
@@ -3248,7 +3248,7 @@
       "10855618576651": {
         "title": "Adidas\tJamaica Away Anthem Jacket",
         "handle": "adidasjamaica-away-anthem-jacket-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10853392056587": {
         "title": "New Amsterdam Surf Association Chop Hoodie",
@@ -4030,7 +4030,7 @@
       "8244566720700": {
         "title": "Cazal 616 Sunglasses - Black",
         "handle": "cazal-616-sunglasses-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9410002485436": {
         "title": "Women's Samba OG - Brown Desert/Warm Vanilla",
@@ -4947,11 +4947,6 @@
         "handle": "jordan-4-retro-ps-pearl-pink-iced-carmine",
         "in_stock": false
       },
-      "9346472706236": {
-        "title": "Nike Kobe V Protro 'Dodgers' - Hyper Royal/Wolf Grey",
-        "handle": "nike-kobe-v-protro-dodgers-hyper-royal-wolf-grey",
-        "in_stock": false
-      },
       "9400878039228": {
         "title": "AFEW x Brooks Adrenaline GTS 10 'Today Was A Good Day' - Fig/Bridal Rose",
         "handle": "afew-x-brooks-adrenaline-gts-10-today-was-a-good-day-fig-bridal-rose-1",
@@ -5006,6 +5001,11 @@
         "title": "Brain Dead x Crocs Trailbreak 2 - Multi/Deep Green",
         "handle": "brain-dead-x-crocs-trailbreak-2-multi-deep-green",
         "in_stock": false
+      },
+      "9474071855292": {
+        "title": "Brain Dead x Crocs Echo II - Astro Blue",
+        "handle": "brain-dead-x-crocs-echo-ii-astro-blue",
+        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -8768,8 +8768,32 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Shox BB4 - Black/Metallic Silver\nhttps://sneakerpolitics.com/products/nike-shox-bb4-black-metallic-silver",
-      "detected_at": "2026-08-30T11:31:44.560266+00:00"
+      "message": "🆕 **New drop** at Undefeated: JORDAN ESSENTIALS OVERSIZED FLEECE PANTS - CAVE STONE\nhttps://undefeated.com/products/jordan-essentials-oversized-fleece-pants-cave-stone",
+      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN SS TEE - CAVE STONE\nhttps://undefeated.com/products/jordan-ss-tee-cave-stone",
+      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN ESSENTIALS TEE - CAVE STONE\nhttps://undefeated.com/products/jordan-essentials-tee-cave-stone",
+      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: BAPE TIGER CAMO APE HEAD RELAXED FIT TEE - WHITE\nhttps://undefeated.com/products/bape-tiger-camo-ape-head-relaxed-fit-tee-white",
+      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: BAPE APE HEAD PHOTO PRINT RELAXED FIT TEE - WHITE\nhttps://undefeated.com/products/bape-ape-head-photo-print-relaxed-fit-tee-white",
+      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: BAPE COLOR CAMO COLLEGE ATS TEE - BLACK\nhttps://undefeated.com/products/bape-color-camo-college-ats-tee-black",
+      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Brain Dead x Crocs Echo II - Astro Blue\nhttps://sneakerpolitics.com/products/brain-dead-x-crocs-echo-ii-astro-blue",
+      "detected_at": "2026-08-30T15:28:13.415554+00:00"
     }
   ]
 }
