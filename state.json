@@ -3068,7 +3068,7 @@
       "10176228163851": {
         "title": "New Balance 471",
         "handle": "new-balance-u471ac-great-plains",
-        "in_stock": true
+        "in_stock": false
       },
       "10122494443787": {
         "title": "Adidas Tobacco",
@@ -3760,7 +3760,7 @@
       "9325806321852": {
         "title": "Stussy Box Crown Tee - White",
         "handle": "stussy-box-crown-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9513523806396": {
         "title": "Awake NY x Jordan Track Jacket - Midnight Navy/Infrared 23",
@@ -4307,11 +4307,6 @@
         "handle": "politics-vintage-wash-hoodie-olive",
         "in_stock": true
       },
-      "9048029724860": {
-        "title": "Politics Vintage Wash Hoodie - Black",
-        "handle": "politics-vintage-wash-hoodie-black",
-        "in_stock": false
-      },
       "9028607508668": {
         "title": "Politics Rello Tee - Dolphin Blue",
         "handle": "politics-rello-tee-dolphin-blue",
@@ -4612,11 +4607,6 @@
         "handle": "politics-tag-tee-ice-grey",
         "in_stock": true
       },
-      "8950758867132": {
-        "title": "Politics Tailgate Tee - White",
-        "handle": "politics-tailgate-tee-white",
-        "in_stock": false
-      },
       "8950711287996": {
         "title": "Politics Hell's Kitchen Tee - White",
         "handle": "politics-hells-kitchen-tee-white",
@@ -4711,11 +4701,6 @@
         "title": "Anti Social Social Club Arctic Snowmobile Tee - Black",
         "handle": "anti-social-social-club-arctic-snowmobile-tee-black",
         "in_stock": true
-      },
-      "8767690342588": {
-        "title": "Fear Of God Essentials Classic Fit Fleece Crewneck - Abbey Stone",
-        "handle": "fear-of-god-essentials-classic-fit-fleece-crewneck-abbey-stone",
-        "in_stock": false
       },
       "8952021582012": {
         "title": "Purple Brand Sharpened Wordmark Tank Top - Black",
@@ -5005,6 +4990,21 @@
       "9474071855292": {
         "title": "Brain Dead x Crocs Echo II - Astro Blue",
         "handle": "brain-dead-x-crocs-echo-ii-astro-blue",
+        "in_stock": true
+      },
+      "9261906886844": {
+        "title": "Nike Air DT Max '96 Low (GS) - Black/Metallic Gold",
+        "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
+        "in_stock": true
+      },
+      "9081160695996": {
+        "title": "Casio Digital Ring Watch - Gold",
+        "handle": "casio-digital-ring-watch-gold",
+        "in_stock": true
+      },
+      "9469722198204": {
+        "title": "Homme Femme Les Anges Tee - Black",
+        "handle": "homme-femme-les-anges-tee-black",
         "in_stock": true
       }
     },
@@ -8359,76 +8359,6 @@
         "handle": "puma-footwear-a-ap-rocky-x-puma-straycat-black-j363733",
         "in_stock": true
       },
-      "9056203079885": {
-        "title": "Men's Carlson Cut Jeans Rodeo Wash",
-        "handle": "our-legacy-clothing-carlson-cut-blue-j322565",
-        "in_stock": false
-      },
-      "9100191170765": {
-        "title": "Pieck Bag Shungite Black",
-        "handle": "_j-l-a-l_-accessories-pieck-bag-black-j327504",
-        "in_stock": false
-      },
-      "9106787795149": {
-        "title": "Basic Stock Thermal Longsleeve T-Shirt Bone",
-        "handle": "stussy-clothing-raglan-thermal-basic-stock-white-j356091",
-        "in_stock": false
-      },
-      "9101847036109": {
-        "title": "Men's Ezra Pocket T-Shirt Black / Wax",
-        "handle": "carhartt-wip-clothing-ss-ezra-pocket-t-shirt-multicolor-j345651",
-        "in_stock": false
-      },
-      "9100456132813": {
-        "title": "Summit Series Verto SA GORE-TEX Boots Black",
-        "handle": "the-north-face-footwear-wmns-summit-verto-sa-gore-tex-blackout-black-j341036",
-        "in_stock": false
-      },
-      "9097995059405": {
-        "title": "Club Structured OG Flame Cap Black",
-        "handle": "nike-accessories-nike-club-structured-og-flame-cap-multicolor-j337154",
-        "in_stock": false
-      },
-      "9056437534925": {
-        "title": "Pegasus Premium Sneakers Black / White",
-        "handle": "nike-footwear-pegasus-premium-sp-black-j331308",
-        "in_stock": false
-      },
-      "9105070129357": {
-        "title": "Men's Sargo Long Sleeve Henley Seashore",
-        "handle": "kiko-kostadinov-clothing-sargo-long-sleeve-henley-blue-j339467",
-        "in_stock": false
-      },
-      "9103956738253": {
-        "title": "Men's ACG 'Wolf Tree' Fleece Crewneck Sweatshirt Black / Anthracite",
-        "handle": "nike-clothing-acg-wolf-tree-crew-multicolor-j337084",
-        "in_stock": false
-      },
-      "9096566538445": {
-        "title": "CRW-001G-9ER Ringwatch Gold",
-        "handle": "g-shock-accessories-crw-001g-9er-yellow-j350205",
-        "in_stock": false
-      },
-      "8998020874445": {
-        "title": "Kuumba International Jazzy Incense Sticks Natural",
-        "handle": "carhartt-wip-lifestyle-jazzy-incense-sticks-kuumba-international-for-carhartt-wip-beige-j309289",
-        "in_stock": false
-      },
-      "9104596533453": {
-        "title": "T.W.O. Boots-Folk Black",
-        "handle": "visvim-footwear-t-w-o-boots-folk-brown-j328769",
-        "in_stock": false
-      },
-      "9023678152909": {
-        "title": "Men's Teamgeist Adicolor Track Top Black / Signal Green",
-        "handle": "adidas-clothing-teamgeist-tt-black-j328173",
-        "in_stock": false
-      },
-      "9100191400141": {
-        "title": "Men's Triple Collar Shirt Lugano Green",
-        "handle": "_j-l-a-l_-clothing-triple-collar-shirt-green-j327947",
-        "in_stock": false
-      },
       "9127468695757": {
         "title": "Brain Dead Trailbreak 2 Sandals Multicolor",
         "handle": "crocs-footwear-braindead-x-trailbreak-multicolor-j368316",
@@ -8763,37 +8693,139 @@
         "title": "Wave Prophecy LS Sneakers Odyssey Gray / Black / Metallic Gray",
         "handle": "mizuno-footwear-wave-prophecy-ls-sport-grey-j338171",
         "in_stock": false
+      },
+      "9021047144653": {
+        "title": "Men's Space-O Singlet Chalk",
+        "handle": "satisfy-clothing-space-o-singlet-beige-j328858",
+        "in_stock": false
+      },
+      "9112091721933": {
+        "title": "Men's NOCTA Hoodie Alabaster",
+        "handle": "nike-clothing-nocta-fleece-cs-hoodie-2-multicolor-j356681",
+        "in_stock": true
+      },
+      "9108378845389": {
+        "title": "Women's Firebird Track Top Black",
+        "handle": "adidas-clothing-wmns-firebird-tt-black-j346795",
+        "in_stock": true
+      },
+      "9110402040013": {
+        "title": "Men's MD Corporate Entity T-Shirt White",
+        "handle": "cav-empt-clothing-md-corporate-entity-t-white-j355885",
+        "in_stock": false
+      },
+      "9108026654925": {
+        "title": "Women's Stretch Jacket Dark Green / Black",
+        "handle": "martine-rose-clothing-wmns-womens-stretch-jacket-green-j356142",
+        "in_stock": true
+      },
+      "9052445016269": {
+        "title": "Men's Polyester Trousers Black",
+        "handle": "undercover-clothing-pants-black-j333652",
+        "in_stock": true
+      },
+      "9127152615629": {
+        "title": "SAYSKY Deviate NITRO Elite 4 Sneakers Flat Dark Gray / Vivid Blue",
+        "handle": "puma-footwear-deviate-nitro-elite-4-saysky-grey-j363728",
+        "in_stock": true
+      },
+      "9127150485709": {
+        "title": "SAYSKY Storm Shield Fingered Gloves Black",
+        "handle": "puma-accessories-puma-x-saysky-storm-shield-gloves-black-j363724",
+        "in_stock": true
+      },
+      "9127150551245": {
+        "title": "Men's SAYSKY Ultraweave Singlet Cobalt Glaze",
+        "handle": "puma-clothing-m-puma-x-saysky-ultraweave-singlet-blue-j363797",
+        "in_stock": true
+      },
+      "9127150584013": {
+        "title": "Men's SAYSKY ULTRAWEAVE Performance Fit T-Shirt Cobalt Glaze",
+        "handle": "puma-clothing-m-puma-x-saysky-ultraweave-short-sleeve-blue-j363796",
+        "in_stock": true
+      },
+      "9127150518477": {
+        "title": "Men's SAYSKY 2-in-1 9in Shorts Flat Dark Gray",
+        "handle": "puma-clothing-m-puma-x-saysky-9-2in1-short-grey-j363794",
+        "in_stock": true
+      },
+      "9127150616781": {
+        "title": "Men's SAYSKY Half-Zip Longsleeve Top Cobalt Glaze",
+        "handle": "puma-clothing-m-puma-x-saysky-ls-1-2-zip-blue-j363795",
+        "in_stock": true
+      },
+      "9127150452941": {
+        "title": "SAYSKY Storm 5-Panel Cap Flat Dark Gray",
+        "handle": "puma-accessories-puma-x-saysky-storm-5-panel-cap-grey-j363788",
+        "in_stock": true
+      },
+      "9127150420173": {
+        "title": "SAYSKY ULTRAWEAVE 5 Panel Cap Cobalt Glaze / Lavender Alert / White",
+        "handle": "puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-blue-j363789",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN ESSENTIALS OVERSIZED FLEECE PANTS - CAVE STONE\nhttps://undefeated.com/products/jordan-essentials-oversized-fleece-pants-cave-stone",
-      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air DT Max '96 Low (GS) - Black/Metallic Gold\nhttps://sneakerpolitics.com/products/nike-air-dt-max-96-low-gs-black-metallic-gold",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN SS TEE - CAVE STONE\nhttps://undefeated.com/products/jordan-ss-tee-cave-stone",
-      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio Digital Ring Watch - Gold\nhttps://sneakerpolitics.com/products/casio-digital-ring-watch-gold",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: JORDAN ESSENTIALS TEE - CAVE STONE\nhttps://undefeated.com/products/jordan-essentials-tee-cave-stone",
-      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Les Anges Tee - Black\nhttps://sneakerpolitics.com/products/homme-femme-les-anges-tee-black",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: BAPE TIGER CAMO APE HEAD RELAXED FIT TEE - WHITE\nhttps://undefeated.com/products/bape-tiger-camo-ape-head-relaxed-fit-tee-white",
-      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's NOCTA Hoodie Alabaster\nhttps://www.slamjam.com/products/nike-clothing-nocta-fleece-cs-hoodie-2-multicolor-j356681",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: BAPE APE HEAD PHOTO PRINT RELAXED FIT TEE - WHITE\nhttps://undefeated.com/products/bape-ape-head-photo-print-relaxed-fit-tee-white",
-      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Firebird Track Top Black\nhttps://www.slamjam.com/products/adidas-clothing-wmns-firebird-tt-black-j346795",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: BAPE COLOR CAMO COLLEGE ATS TEE - BLACK\nhttps://undefeated.com/products/bape-color-camo-college-ats-tee-black",
-      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Women's Stretch Jacket Dark Green / Black\nhttps://www.slamjam.com/products/martine-rose-clothing-wmns-womens-stretch-jacket-green-j356142",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Brain Dead x Crocs Echo II - Astro Blue\nhttps://sneakerpolitics.com/products/brain-dead-x-crocs-echo-ii-astro-blue",
-      "detected_at": "2026-08-30T15:28:13.415554+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Polyester Trousers Black\nhttps://www.slamjam.com/products/undercover-clothing-pants-black-j333652",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY Deviate NITRO Elite 4 Sneakers Flat Dark Gray / Vivid Blue\nhttps://www.slamjam.com/products/puma-footwear-deviate-nitro-elite-4-saysky-grey-j363728",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY Storm Shield Fingered Gloves Black\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-storm-shield-gloves-black-j363724",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY Ultraweave Singlet Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ultraweave-singlet-blue-j363797",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY ULTRAWEAVE Performance Fit T-Shirt Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ultraweave-short-sleeve-blue-j363796",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY 2-in-1 9in Shorts Flat Dark Gray\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-9-2in1-short-grey-j363794",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY Half-Zip Longsleeve Top Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ls-1-2-zip-blue-j363795",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY Storm 5-Panel Cap Flat Dark Gray\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-storm-5-panel-cap-grey-j363788",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY ULTRAWEAVE 5 Panel Cap Cobalt Glaze / Lavender Alert / White\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-blue-j363789",
+      "detected_at": "2026-08-30T18:45:40.992837+00:00"
     }
   ]
 }
