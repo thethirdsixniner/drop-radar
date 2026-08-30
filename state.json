@@ -2146,7 +2146,7 @@
       "6700450283781": {
         "title": "UNDEFEATED REGIONAL STENCIL SNAPBACK - LA - BLACK",
         "handle": "undefeated-regional-stencil-snapback-la-black",
-        "in_stock": true
+        "in_stock": false
       },
       "6700436914437": {
         "title": "UNDEFEATED X BADFRIEND TOQUE BEANIE - BLACK",
@@ -2763,7 +2763,7 @@
       "9016979980555": {
         "title": "Nike Air Zoom Spiridon SP",
         "handle": "nike-air-zoom-spiridon-sp-metallic-silver-metallic-silver-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10744401723659": {
         "title": "Adidas Gazelle Bold W",
@@ -3088,7 +3088,7 @@
       "10209824309515": {
         "title": "Nike Project F.R.O.G. Woven Shorts",
         "handle": "nike-project-frog-woven-shorts-olive-aura-white-grey-strike",
-        "in_stock": true
+        "in_stock": false
       },
       "8666269810955": {
         "title": "Our Legacy Belt 2 CM",
@@ -3960,12 +3960,12 @@
       "9305465159868": {
         "title": "Bad Bunny x Adidas Ballerina 'Flamboyan' - Vivid Red/Chalk White",
         "handle": "bad-bunny-x-adidas-ballerina-flamboyan-vivid-red-chalk-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9126134513852": {
         "title": "Asics Gel-NYC 2.0 - Graphite Grey/Black",
         "handle": "asics-gel-nyc-2-0-graphite-grey-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9405673111740": {
         "title": "Bad Bunny x Adidas F50 Ghost Sprint - Core Black/Charcoal",
@@ -4450,7 +4450,7 @@
       "8748147900604": {
         "title": "Politics Flame Tee - Sage",
         "handle": "politics-flame-tee-sage",
-        "in_stock": true
+        "in_stock": false
       },
       "8711010877628": {
         "title": "Politics Track Jacket - Black",
@@ -4955,7 +4955,7 @@
       "9265251614908": {
         "title": "Jordan 4 Retro (PS) - Pearl Pink/Iced Carmine",
         "handle": "jordan-4-retro-ps-pearl-pink-iced-carmine",
-        "in_stock": true
+        "in_stock": false
       },
       "9346472706236": {
         "title": "Nike Kobe V Protro 'Dodgers' - Hyper Royal/Wolf Grey",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Stussy Box Crown Tee - White\nhttps://sneakerpolitics.com/products/stussy-box-crown-tee-white",
-      "detected_at": "2026-08-30T00:44:02.371829+00:00"
-    }
-  ]
+  "pending_free": []
 }
