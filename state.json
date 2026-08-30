@@ -19,7 +19,7 @@
       "8286705156224": {
         "title": "Kith & the NFL for the Baltimore Ravens Leon Shirt - Black",
         "handle": "khma030234-001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286705123456": {
         "title": "Kith & the NFL for the Seattle Seahawks Leon Shirt - Nocturnal",
@@ -2783,7 +2783,7 @@
       "10497889304843": {
         "title": "HOKA Mafate Speed 4 Lite",
         "handle": "hoka-mafate-speed-4-lite-truffle-salt-vintage-yellow",
-        "in_stock": true
+        "in_stock": false
       },
       "10696156971275": {
         "title": "Asics GEL-NYC RGD",
@@ -2833,12 +2833,12 @@
       "10731517313291": {
         "title": "Drole de Monsieur La Casquette Drôle Rose",
         "handle": "drole-de-monsieur-la-casquette-drle-rose-red",
-        "in_stock": true
+        "in_stock": false
       },
       "10660003643659": {
         "title": "Wilson Do All Tote Bag (Classic Navy)",
         "handle": "wilson-do-all-tote-bag-classic-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "11026192302347": {
         "title": "Adidas SL 72 OG W",
@@ -3263,7 +3263,7 @@
       "10860644368651": {
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-pelican",
-        "in_stock": true
+        "in_stock": false
       },
       "10855846215947": {
         "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
@@ -3483,7 +3483,7 @@
       "10080452509963": {
         "title": "Frama Escalier Hand Cream Tube 60 mL",
         "handle": "frama-escalier-hand-cream-tube-60-ml-uni",
-        "in_stock": true
+        "in_stock": false
       },
       "8898479423755": {
         "title": "Aesop Resurrection Rinse-Free Hand Wash 500mL",
@@ -3915,7 +3915,7 @@
       "9381359485116": {
         "title": "Nike Vomero Plus 'Cow Print' - Sail/Sail",
         "handle": "nike-vomero-plus-cow-print-sail-sail",
-        "in_stock": false
+        "in_stock": true
       },
       "9357570539708": {
         "title": "Nike Zoom Skylon 11 - Summit White/Metallic Silver",
@@ -4181,11 +4181,6 @@
         "title": "Politics Airpod Pro Case - Red",
         "handle": "politics-airpod-pro-case-red",
         "in_stock": true
-      },
-      "9028602921148": {
-        "title": "Politics Airpod Pro Case - Black",
-        "handle": "politics-airpod-pro-case-black",
-        "in_stock": false
       },
       "9117912531132": {
         "title": "Politics Division Tee - White",
@@ -5005,6 +5000,11 @@
       "9469722198204": {
         "title": "Homme Femme Les Anges Tee - Black",
         "handle": "homme-femme-les-anges-tee-black",
+        "in_stock": true
+      },
+      "9365966225596": {
+        "title": "Malbon Golf And Tackle Snapback - Steel Ripple",
+        "handle": "malbon-golf-and-tackle-snapback-steel-ripple",
         "in_stock": true
       }
     },
@@ -8434,11 +8434,6 @@
         "handle": "aries-clothing-metal-airtex-ls-tee-black-j333020",
         "in_stock": true
       },
-      "9112091623629": {
-        "title": "Men's NOCTA Woven Track Pants Alabaster",
-        "handle": "nike-clothing-nocta-northstar-nylon-track-pants-yellow-j356594",
-        "in_stock": false
-      },
       "9107034210509": {
         "title": "Men's Logo T-Shirt White",
         "handle": "and-wander-clothing-081-and-wander-big-logo-ss-t-white-j338551",
@@ -8763,69 +8758,26 @@
         "title": "SAYSKY ULTRAWEAVE 5 Panel Cap Cobalt Glaze / Lavender Alert / White",
         "handle": "puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-blue-j363789",
         "in_stock": true
+      },
+      "9127150387405": {
+        "title": "SAYSKY ULTRAWEAVE 5 Panel Cap Ultra Purple / Cobalt Glaze / White",
+        "handle": "puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-purple-j363790",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air DT Max '96 Low (GS) - Black/Metallic Gold\nhttps://sneakerpolitics.com/products/nike-air-dt-max-96-low-gs-black-metallic-gold",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+      "message": "🔥 **Restock** at Sneaker Politics: Nike Vomero Plus 'Cow Print' - Sail/Sail\nhttps://sneakerpolitics.com/products/nike-vomero-plus-cow-print-sail-sail",
+      "detected_at": "2026-08-30T21:50:54.674727+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Casio Digital Ring Watch - Gold\nhttps://sneakerpolitics.com/products/casio-digital-ring-watch-gold",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf And Tackle Snapback - Steel Ripple\nhttps://sneakerpolitics.com/products/malbon-golf-and-tackle-snapback-steel-ripple",
+      "detected_at": "2026-08-30T21:50:54.674727+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Les Anges Tee - Black\nhttps://sneakerpolitics.com/products/homme-femme-les-anges-tee-black",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's NOCTA Hoodie Alabaster\nhttps://www.slamjam.com/products/nike-clothing-nocta-fleece-cs-hoodie-2-multicolor-j356681",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Firebird Track Top Black\nhttps://www.slamjam.com/products/adidas-clothing-wmns-firebird-tt-black-j346795",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Stretch Jacket Dark Green / Black\nhttps://www.slamjam.com/products/martine-rose-clothing-wmns-womens-stretch-jacket-green-j356142",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Polyester Trousers Black\nhttps://www.slamjam.com/products/undercover-clothing-pants-black-j333652",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: SAYSKY Deviate NITRO Elite 4 Sneakers Flat Dark Gray / Vivid Blue\nhttps://www.slamjam.com/products/puma-footwear-deviate-nitro-elite-4-saysky-grey-j363728",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: SAYSKY Storm Shield Fingered Gloves Black\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-storm-shield-gloves-black-j363724",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY Ultraweave Singlet Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ultraweave-singlet-blue-j363797",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY ULTRAWEAVE Performance Fit T-Shirt Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ultraweave-short-sleeve-blue-j363796",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY 2-in-1 9in Shorts Flat Dark Gray\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-9-2in1-short-grey-j363794",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's SAYSKY Half-Zip Longsleeve Top Cobalt Glaze\nhttps://www.slamjam.com/products/puma-clothing-m-puma-x-saysky-ls-1-2-zip-blue-j363795",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: SAYSKY Storm 5-Panel Cap Flat Dark Gray\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-storm-5-panel-cap-grey-j363788",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: SAYSKY ULTRAWEAVE 5 Panel Cap Cobalt Glaze / Lavender Alert / White\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-blue-j363789",
-      "detected_at": "2026-08-30T18:45:40.992837+00:00"
+      "message": "🆕 **New drop** at Slam Jam: SAYSKY ULTRAWEAVE 5 Panel Cap Ultra Purple / Cobalt Glaze / White\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-purple-j363790",
+      "detected_at": "2026-08-30T21:50:54.674727+00:00"
     }
   ]
 }
