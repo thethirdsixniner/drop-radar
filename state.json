@@ -2513,12 +2513,12 @@
       "10567352090891": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-core-black-pure-teal-grey-four",
-        "in_stock": true
+        "in_stock": false
       },
       "10814326538507": {
         "title": "HOKA Tor Summit",
         "handle": "hoka-tor-summit-moss-green-spruce-green",
-        "in_stock": true
+        "in_stock": false
       },
       "10126075691275": {
         "title": "Asics JOG 100S",
@@ -2558,7 +2558,7 @@
       "10873199296779": {
         "title": "Sunflower Relaxed Boot Jeans",
         "handle": "sunflower-relaxed-boot-jeans-paint-worn",
-        "in_stock": true
+        "in_stock": false
       },
       "10862703345931": {
         "title": "Adidas\tOriginals Basketball Crest T-Shirt",
@@ -2583,7 +2583,7 @@
       "10882909831435": {
         "title": "Ami De Coeur Hoodie",
         "handle": "ami-parisami-de-coeur-hoodie-black-white-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "10723981328651": {
         "title": "Satisfy FuzzFleece AD Long Tee",
@@ -2818,7 +2818,7 @@
       "10817748107531": {
         "title": "Carhartt WIP Hooded Alda Sweat",
         "handle": "carhartt-wip-hooded-alda-sweat-grey-heather-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10817394016523": {
         "title": "Metalwood Woodlite Hooded Sweatshirt",
@@ -2968,7 +2968,7 @@
       "10876933603595": {
         "title": "Puma x _J.L-A.L_ Hobo Bag",
         "handle": "puma-x-jlal-hobo-bag-dark-umber",
-        "in_stock": true
+        "in_stock": false
       },
       "10857643835659": {
         "title": "Adidas Classic 3-Stripes Tee",
@@ -3932,11 +3932,6 @@
         "handle": "air-jordan-7-retro-tennis-day-phantom-anthracite",
         "in_stock": true
       },
-      "9088636125372": {
-        "title": "Women's On Cloudtilt - White/Ivory",
-        "handle": "womens-on-cloudtilt-white-ivory",
-        "in_stock": false
-      },
       "9472692846780": {
         "title": "Nike Air Force 1 Low 'Horse of a Different Color' - Campfire Orange/Sunset",
         "handle": "nike-air-force-1-low-horse-of-a-different-color-campfire-orange-sunset",
@@ -4046,11 +4041,6 @@
         "title": "Market 3D Have A Nice Day Tee - White",
         "handle": "market-3d-have-a-nice-day-tee-white",
         "in_stock": true
-      },
-      "9100799082684": {
-        "title": "Rhude Pit Stop Tee - Vintage Black/Red",
-        "handle": "rhude-pit-stop-tee-vintage-black-red",
-        "in_stock": false
       },
       "9405351198908": {
         "title": "Hoka Mafate 2 OG - Hoka Citrus/Black",
@@ -4420,7 +4410,7 @@
       "8900165828796": {
         "title": "Politics Toy Tee - Black",
         "handle": "politics-toy-tee-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8900162814140": {
         "title": "Politics Kart Tee - White",
@@ -5006,6 +4996,16 @@
         "title": "Casio G-Shock 6900 Series Digital Watch - Camo",
         "handle": "casio-g-shock-6900-series-digital-watch-camo",
         "in_stock": true
+      },
+      "9341138239676": {
+        "title": "Nike Shox BB4 - Black/Metallic Silver",
+        "handle": "nike-shox-bb4-black-metallic-silver",
+        "in_stock": true
+      },
+      "9505926611132": {
+        "title": "Brain Dead x Crocs Trailbreak 2 - Multi/Deep Green",
+        "handle": "brain-dead-x-crocs-trailbreak-2-multi-deep-green",
+        "in_stock": false
       }
     },
     "https://www.kickgame.co.uk": {
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Shox BB4 - Black/Metallic Silver\nhttps://sneakerpolitics.com/products/nike-shox-bb4-black-metallic-silver",
+      "detected_at": "2026-08-30T11:31:44.560266+00:00"
+    }
+  ]
 }
