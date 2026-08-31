@@ -1283,11 +1283,6 @@
         "handle": "bape-color-camo-college-ats-tee-black",
         "in_stock": true
       },
-      "6702697709829": {
-        "title": "JORDAN TD AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
-        "handle": "jordan-td-aj-8-retro-black-white-lt-graphite",
-        "in_stock": true
-      },
       "6702697840901": {
         "title": "JORDAN AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
         "handle": "jordan-aj-8-retro-black-white-lt-graphite",
@@ -1296,6 +1291,11 @@
       "6702697742597": {
         "title": "JORDAN GS AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
         "handle": "jordan-gs-aj-8-retro-black-white-lt-graphite",
+        "in_stock": true
+      },
+      "6702697709829": {
+        "title": "JORDAN TD AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
+        "handle": "jordan-td-aj-8-retro-black-white-lt-graphite",
         "in_stock": true
       },
       "6702722744581": {
@@ -2505,20 +2505,15 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "10148165222667": {
+        "title": "19-69 Christopher Eau de Parfum 30 mL",
+        "handle": "19-69-christopher-eau-de-parfum-30ml",
+        "in_stock": true
+      },
       "10534363955467": {
         "title": "New Balance 992 *Made in USA*",
         "handle": "new-balance-u992cc-made-in-usa-sweet-caramel-calcium",
         "in_stock": true
-      },
-      "10567352090891": {
-        "title": "Adidas adizero Evo SL M",
-        "handle": "adidas-adizero-evo-sl-m-core-black-pure-teal-grey-four",
-        "in_stock": false
-      },
-      "10814326538507": {
-        "title": "HOKA Tor Summit",
-        "handle": "hoka-tor-summit-moss-green-spruce-green",
-        "in_stock": false
       },
       "10126075691275": {
         "title": "Asics JOG 100S",
@@ -2540,11 +2535,6 @@
         "handle": "autry-reelwind-low-w-nylon-hairy-suede-cracked-leather-white-military",
         "in_stock": true
       },
-      "10875377287435": {
-        "title": "Autry Reelwind Low W *Suede / Net*",
-        "handle": "autry-reelwind-low-w-suede-net-ecru-lemon-meringue",
-        "in_stock": false
-      },
       "10540104515851": {
         "title": "Autry Reelwind Low W *Suede / Mesh*",
         "handle": "autry-reelwind-low-w-suede-mesh-purple-cel",
@@ -2554,11 +2544,6 @@
         "title": "Autry Medalist W",
         "handle": "autry-medalist-w-virgin-diamond-white-dmn",
         "in_stock": true
-      },
-      "10873199296779": {
-        "title": "Sunflower Relaxed Boot Jeans",
-        "handle": "sunflower-relaxed-boot-jeans-paint-worn",
-        "in_stock": false
       },
       "10862703345931": {
         "title": "Adidas\tOriginals Basketball Crest T-Shirt",
@@ -2579,11 +2564,6 @@
         "title": "Reebok x Botter Reverse Soccer Tee",
         "handle": "reebok-x-botter-reverse-soccer-tee-striped-navy-aqua",
         "in_stock": true
-      },
-      "10882909831435": {
-        "title": "Ami De Coeur Hoodie",
-        "handle": "ami-parisami-de-coeur-hoodie-black-white-cream",
-        "in_stock": false
       },
       "10723981328651": {
         "title": "Satisfy FuzzFleece AD Long Tee",
@@ -2760,11 +2740,6 @@
         "handle": "nike-pegasus-premium-light-loden-metallic-medium-ash",
         "in_stock": true
       },
-      "9016979980555": {
-        "title": "Nike Air Zoom Spiridon SP",
-        "handle": "nike-air-zoom-spiridon-sp-metallic-silver-metallic-silver-white",
-        "in_stock": false
-      },
       "10744401723659": {
         "title": "Adidas Gazelle Bold W",
         "handle": "adidas-gazelle-bold-w-wonder-mauve-off-white-gum-2",
@@ -2779,11 +2754,6 @@
         "title": "Gramicci Nylon Packable G-Short",
         "handle": "gramicci-nylon-packable-gshort-black",
         "in_stock": true
-      },
-      "10497889304843": {
-        "title": "HOKA Mafate Speed 4 Lite",
-        "handle": "hoka-mafate-speed-4-lite-truffle-salt-vintage-yellow",
-        "in_stock": false
       },
       "10696156971275": {
         "title": "Asics GEL-NYC RGD",
@@ -2815,11 +2785,6 @@
         "handle": "sporty-rich-nautical-tshirt-white",
         "in_stock": true
       },
-      "10817748107531": {
-        "title": "Carhartt WIP Hooded Alda Sweat",
-        "handle": "carhartt-wip-hooded-alda-sweat-grey-heather-white",
-        "in_stock": false
-      },
       "10817394016523": {
         "title": "Metalwood Woodlite Hooded Sweatshirt",
         "handle": "metalwood-woodlite-hooded-sweatshirt-brown",
@@ -2829,16 +2794,6 @@
         "title": "Tekla Guest Towel",
         "handle": "tekla-guest-towel-rust-stripes",
         "in_stock": true
-      },
-      "10731517313291": {
-        "title": "Drole de Monsieur La Casquette Drôle Rose",
-        "handle": "drole-de-monsieur-la-casquette-drle-rose-red",
-        "in_stock": false
-      },
-      "10660003643659": {
-        "title": "Wilson Do All Tote Bag (Classic Navy)",
-        "handle": "wilson-do-all-tote-bag-classic-navy",
-        "in_stock": false
       },
       "11026192302347": {
         "title": "Adidas SL 72 OG W",
@@ -2965,11 +2920,6 @@
         "handle": "ugg-wmns-ellis-loafer-chestnut",
         "in_stock": true
       },
-      "10876933603595": {
-        "title": "Puma x _J.L-A.L_ Hobo Bag",
-        "handle": "puma-x-jlal-hobo-bag-dark-umber",
-        "in_stock": false
-      },
       "10857643835659": {
         "title": "Adidas Classic 3-Stripes Tee",
         "handle": "adidas-classic-3stripes-tee-white",
@@ -2994,11 +2944,6 @@
         "title": "Carhartt WIP Prescott Backpack",
         "handle": "carhartt-wip-prescott-backpack-oxide-green",
         "in_stock": true
-      },
-      "10837512782091": {
-        "title": "Nike\tWmns Air Rift Breathe",
-        "handle": "nikewmns-air-rift-breathe-black-black-black",
-        "in_stock": false
       },
       "10821657166091": {
         "title": "Birkenstock Highwood Lace Low",
@@ -3065,11 +3010,6 @@
         "handle": "nike-acg-rufus-stadium-green-khaki-light-lemon-twist",
         "in_stock": true
       },
-      "10176228163851": {
-        "title": "New Balance 471",
-        "handle": "new-balance-u471ac-great-plains",
-        "in_stock": false
-      },
       "10122494443787": {
         "title": "Adidas Tobacco",
         "handle": "adidas-tobacco-team-victory-red-power-red-gum-4",
@@ -3084,11 +3024,6 @@
         "title": "Adidas Wmns Teamgeist Adicolor Oversized Woven Track Pant",
         "handle": "adidas-wmns-teamgeist-adicolor-oversized-woven-track-pant-black-signal-green",
         "in_stock": true
-      },
-      "10209824309515": {
-        "title": "Nike Project F.R.O.G. Woven Shorts",
-        "handle": "nike-project-frog-woven-shorts-olive-aura-white-grey-strike",
-        "in_stock": false
       },
       "8666269810955": {
         "title": "Our Legacy Belt 2 CM",
@@ -3210,11 +3145,6 @@
         "handle": "nikeacg-phantazma-stormfit-adv-rain-jackett-vivid-purple-black-safety-orange-summit-white",
         "in_stock": true
       },
-      "10880502432011": {
-        "title": "Autry Hyperway  *Suede / Mesh*",
-        "handle": "autry-hyperway-suede-mesh-spblue-silver",
-        "in_stock": false
-      },
       "10862863024395": {
         "title": "Carhartt WIP Ride Your Dreams T-Shirt",
         "handle": "carhartt-wip-ride-your-dreams-tshirt-natural",
@@ -3224,11 +3154,6 @@
         "title": "Arte Antwerp Circle Logo Pocket Pants",
         "handle": "arte-antwerp-circle-logo-pocket-pants-denim-bleach",
         "in_stock": true
-      },
-      "10892355141899": {
-        "title": "Our Legacy\tLeisure Trouser",
-        "handle": "our-legacy-leisure-trouser-soot-black-techflax",
-        "in_stock": false
       },
       "10870744285451": {
         "title": "Ugg Wmns Goldenstar Meadow Accent Clog",
@@ -3245,11 +3170,6 @@
         "handle": "sunflower-stable-shirt-light-blue-1",
         "in_stock": true
       },
-      "10855618576651": {
-        "title": "Adidas\tJamaica Away Anthem Jacket",
-        "handle": "adidasjamaica-away-anthem-jacket-black",
-        "in_stock": false
-      },
       "10853392056587": {
         "title": "New Amsterdam Surf Association Chop Hoodie",
         "handle": "new-amsterdam-surf-association-chop-hoodie-navy",
@@ -3259,11 +3179,6 @@
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-earth-strata-wonder-white-gum",
         "in_stock": true
-      },
-      "10860644368651": {
-        "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
-        "handle": "autry-reelwind-low-nylon-cracked-leather-white-pelican",
-        "in_stock": false
       },
       "10855846215947": {
         "title": "Sporty & Rich Heritage Yankees Serif Sweatpant",
@@ -3294,11 +3209,6 @@
         "title": "Adidas Gazelle Indoor Pro",
         "handle": "adidas-gazelle-indoor-pro-bliss-green-charcoal",
         "in_stock": true
-      },
-      "10647879385355": {
-        "title": "Adidas Handball Spezial",
-        "handle": "adidas-handball-spezial-supplier-color-off-white-orbital-grey",
-        "in_stock": false
       },
       "10721641169163": {
         "title": "Birkenstock Tokio Shearling",
@@ -3479,11 +3389,6 @@
         "title": "Byredo Desert Dawn Eau de Parfum 50ml",
         "handle": "byredo-desert-dawn-eau-de-parfum-50ml-uni",
         "in_stock": true
-      },
-      "10080452509963": {
-        "title": "Frama Escalier Hand Cream Tube 60 mL",
-        "handle": "frama-escalier-hand-cream-tube-60-ml-uni",
-        "in_stock": false
       },
       "8898479423755": {
         "title": "Aesop Resurrection Rinse-Free Hand Wash 500mL",
@@ -3754,6 +3659,101 @@
         "title": "The North Face Etip Recycled Glove",
         "handle": "the-north-face-etip-recycled-glove-tnf-black",
         "in_stock": true
+      },
+      "10731292360971": {
+        "title": "The North Face Urban Explore Beanie",
+        "handle": "the-north-face-urban-explore-beanie-flax-linen-vintage-white",
+        "in_stock": true
+      },
+      "10647872602379": {
+        "title": "C.P. Company Extra Fine Merino Wool Knit Logo Beanie",
+        "handle": "cp-company-extra-fine-merino-wool-knit-logo-beanie-black",
+        "in_stock": true
+      },
+      "11023465382155": {
+        "title": "Sunflower Relaxed Boot Selvedge Jeans",
+        "handle": "sunflower-relaxed-boot-selvedge-jeans-raw-indigo",
+        "in_stock": true
+      },
+      "11023464956171": {
+        "title": "Sunflower Loose Jeans",
+        "handle": "sunflower-loose-jeans-dirty-tint",
+        "in_stock": true
+      },
+      "11020734660875": {
+        "title": "Nike\tACG \"Aireez\" UV Protection Button-Up Long-Sleeve Graphic Top",
+        "handle": "nikeacg-aireez-uv-protection-buttonup-longsleeve-graphic-top-dark-smoke-grey-white",
+        "in_stock": true
+      },
+      "11020777586955": {
+        "title": "The North Face NSE Mask Fleece Jacket",
+        "handle": "the-north-face-nse-mask-fleece-jacket-tnf-black",
+        "in_stock": true
+      },
+      "11020775489803": {
+        "title": "The North Face Red Box Hoodie",
+        "handle": "the-north-face-red-box-hoodie-tnf-classic-grey-heather",
+        "in_stock": true
+      },
+      "11022971765003": {
+        "title": "Polo Ralph Lauren Custom Fit Plaid Flannel Shirt",
+        "handle": "polo-ralph-lauren-custom-fit-plaid-flannel-shirt-blue-purple-heather",
+        "in_stock": true
+      },
+      "11022967767307": {
+        "title": "Polo Ralph Lauren Duck-Print Brushed Fleece Pullover",
+        "handle": "polo-ralph-lauren-duckprint-brushed-fleece-pullover-duck-pond-scenic",
+        "in_stock": true
+      },
+      "11019730551051": {
+        "title": "Lacoste Zipped Cotton Fleece Sweatshirt",
+        "handle": "lacoste-zipped-cotton-fleece-sweatshirt-black",
+        "in_stock": true
+      },
+      "11019734778123": {
+        "title": "The North Face Urban Explore Beanie",
+        "handle": "the-north-face-urban-explore-beanie-evergreen-hunter-green",
+        "in_stock": true
+      },
+      "11019733565707": {
+        "title": "The North Face Urban Explore Beanie",
+        "handle": "the-north-face-urban-explore-beanie-dark-chestnut-smokey-brown-garne",
+        "in_stock": true
+      },
+      "11022971076875": {
+        "title": "Polo Ralph Lauren Polo Bear Brushed Fleece Pullover",
+        "handle": "polo-ralph-lauren-polo-bear-brushed-fleece-pullover-brown",
+        "in_stock": true
+      },
+      "11017748054283": {
+        "title": "New Balance Athletics Crafted Fleece Crew",
+        "handle": "new-balance-athletics-crafted-fleece-crew-grey-matter",
+        "in_stock": true
+      },
+      "11015592018187": {
+        "title": "UNNA Jogging Cap",
+        "handle": "unna-jogging-cap-black",
+        "in_stock": true
+      },
+      "11024508485899": {
+        "title": "New Amsterdam Surf Association Work Trousers",
+        "handle": "new-amsterdam-surf-association-work-trousers-falcon",
+        "in_stock": true
+      },
+      "11023419605259": {
+        "title": "Salomon XT-6 GTX",
+        "handle": "salomon-xt6-gtx-white-pepper-silver-sage",
+        "in_stock": true
+      },
+      "11023279358219": {
+        "title": "Mizuno Wave Mustang 4 LS",
+        "handle": "mizuno-wave-mustang-4-ls-foggy-dew-harbor-mist-silver",
+        "in_stock": true
+      },
+      "11020805046539": {
+        "title": "Adidas Adistar Control 5 W",
+        "handle": "adidas-adistar-control-5-w-warm-vanilla-clear-pink-silver-metallic",
+        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -3975,7 +3975,7 @@
       "9126570819772": {
         "title": "Asics Gel-NYC - Brown Storm/Black Coffee",
         "handle": "asics-gel-nyc-brown-storm-black-coffee",
-        "in_stock": true
+        "in_stock": false
       },
       "9295877931196": {
         "title": "Nike Air Force 1 Low Retro - Obsidian/White",
@@ -4892,11 +4892,6 @@
         "handle": "ice-cream-cashier-tee-black",
         "in_stock": true
       },
-      "8741521424572": {
-        "title": "Purple Brand Vintage Denim Shorts - Mid Indigo",
-        "handle": "purple-brand-vintage-denim-shorts-mid-indigo",
-        "in_stock": false
-      },
       "8654638940348": {
         "title": "Ray-Ban Meta Wayfarer - Shiny Black/G15 Green",
         "handle": "ray-ban-meta-wayfarer-shiny-black-g15-green",
@@ -5005,6 +5000,11 @@
       "9365966225596": {
         "title": "Malbon Golf And Tackle Snapback - Steel Ripple",
         "handle": "malbon-golf-and-tackle-snapback-steel-ripple",
+        "in_stock": true
+      },
+      "9365963178172": {
+        "title": "Malbon Golf Bermuda Bahiar Tee - White",
+        "handle": "malbon-golf-bermuda-bahiar-tee-white",
         "in_stock": true
       }
     },
@@ -8768,16 +8768,88 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Nike Vomero Plus 'Cow Print' - Sail/Sail\nhttps://sneakerpolitics.com/products/nike-vomero-plus-cow-print-sail-sail",
-      "detected_at": "2026-08-30T21:50:54.674727+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: 19-69 Christopher Eau de Parfum 30 mL\nhttps://www.asphaltgold.de/products/19-69-christopher-eau-de-parfum-30ml",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf And Tackle Snapback - Steel Ripple\nhttps://sneakerpolitics.com/products/malbon-golf-and-tackle-snapback-steel-ripple",
-      "detected_at": "2026-08-30T21:50:54.674727+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: The North Face Urban Explore Beanie\nhttps://www.asphaltgold.de/products/the-north-face-urban-explore-beanie-flax-linen-vintage-white",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: SAYSKY ULTRAWEAVE 5 Panel Cap Ultra Purple / Cobalt Glaze / White\nhttps://www.slamjam.com/products/puma-accessories-puma-x-saysky-ultraweave-5-panel-cap-purple-j363790",
-      "detected_at": "2026-08-30T21:50:54.674727+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: C.P. Company Extra Fine Merino Wool Knit Logo Beanie\nhttps://www.asphaltgold.de/products/cp-company-extra-fine-merino-wool-knit-logo-beanie-black",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Sunflower Relaxed Boot Selvedge Jeans\nhttps://www.asphaltgold.de/products/sunflower-relaxed-boot-selvedge-jeans-raw-indigo",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Sunflower Loose Jeans\nhttps://www.asphaltgold.de/products/sunflower-loose-jeans-dirty-tint",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Nike\tACG \"Aireez\" UV Protection Button-Up Long-Sleeve Graphic Top\nhttps://www.asphaltgold.de/products/nikeacg-aireez-uv-protection-buttonup-longsleeve-graphic-top-dark-smoke-grey-white",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: The North Face NSE Mask Fleece Jacket\nhttps://www.asphaltgold.de/products/the-north-face-nse-mask-fleece-jacket-tnf-black",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: The North Face Red Box Hoodie\nhttps://www.asphaltgold.de/products/the-north-face-red-box-hoodie-tnf-classic-grey-heather",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Custom Fit Plaid Flannel Shirt\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-custom-fit-plaid-flannel-shirt-blue-purple-heather",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Duck-Print Brushed Fleece Pullover\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-duckprint-brushed-fleece-pullover-duck-pond-scenic",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Lacoste Zipped Cotton Fleece Sweatshirt\nhttps://www.asphaltgold.de/products/lacoste-zipped-cotton-fleece-sweatshirt-black",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: The North Face Urban Explore Beanie\nhttps://www.asphaltgold.de/products/the-north-face-urban-explore-beanie-evergreen-hunter-green",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: The North Face Urban Explore Beanie\nhttps://www.asphaltgold.de/products/the-north-face-urban-explore-beanie-dark-chestnut-smokey-brown-garne",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Polo Ralph Lauren Polo Bear Brushed Fleece Pullover\nhttps://www.asphaltgold.de/products/polo-ralph-lauren-polo-bear-brushed-fleece-pullover-brown",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Balance Athletics Crafted Fleece Crew\nhttps://www.asphaltgold.de/products/new-balance-athletics-crafted-fleece-crew-grey-matter",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: UNNA Jogging Cap\nhttps://www.asphaltgold.de/products/unna-jogging-cap-black",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Work Trousers\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-work-trousers-falcon",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-6 GTX\nhttps://www.asphaltgold.de/products/salomon-xt6-gtx-white-pepper-silver-sage",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Mizuno Wave Mustang 4 LS\nhttps://www.asphaltgold.de/products/mizuno-wave-mustang-4-ls-foggy-dew-harbor-mist-silver",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Adidas Adistar Control 5 W\nhttps://www.asphaltgold.de/products/adidas-adistar-control-5-w-warm-vanilla-clear-pink-silver-metallic",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf Bermuda Bahiar Tee - White\nhttps://sneakerpolitics.com/products/malbon-golf-bermuda-bahiar-tee-white",
+      "detected_at": "2026-08-31T00:16:36.634883+00:00"
     }
   ]
 }
