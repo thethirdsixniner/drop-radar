@@ -2513,7 +2513,7 @@
       "10885817696523": {
         "title": "Gramicci Ultra-Light Tech Cap",
         "handle": "gramicci-ultralight-tech-cap-concrete",
-        "in_stock": true
+        "in_stock": false
       },
       "10885477269771": {
         "title": "Gramicci G-Pant Straight Fit",
@@ -2528,7 +2528,7 @@
       "10882924118283": {
         "title": "AMI Paris\tAmi De Coeur T-Shirt",
         "handle": "ami-parisami-de-coeur-tshirt-black-white-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "10839347364107": {
         "title": "Sporty & Rich NY Motion T-Shirt",
@@ -2658,7 +2658,7 @@
       "10677918630155": {
         "title": "Hiking Patrol Element Texture Down Vest",
         "handle": "hiking-patrol-element-texture-down-vest-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10148426088715": {
         "title": "Reebok x Botter Reverse Soccer Tee",
@@ -2898,7 +2898,7 @@
       "11024100688139": {
         "title": "Nike Wmns Air Rift",
         "handle": "nike-wmns-air-rift-dark-driftwood-black",
-        "in_stock": false
+        "in_stock": true
       },
       "11026631524619": {
         "title": "Sunflower Rib Zip Sweat",
@@ -4937,11 +4937,6 @@
         "handle": "nike-air-max-tl-2-5-pearl-grey-neon-yellow",
         "in_stock": true
       },
-      "8896888963260": {
-        "title": "New Balance 9060 - Slate Grey/Calcium",
-        "handle": "new-balance-9060-slate-grey-calcium",
-        "in_stock": false
-      },
       "8762211401916": {
         "title": "Ice Cream Six Pack Tee - White",
         "handle": "ice-cream-six-pack-tee-white",
@@ -5005,6 +5000,11 @@
       "9497056837820": {
         "title": "Casio G-Shock 6900 Series Digital Watch - Black/Camo",
         "handle": "casio-g-shock-6900-series-digital-watch-black-camo",
+        "in_stock": true
+      },
+      "9497041273020": {
+        "title": "Casio G-Shock GA-700 Series Analog-Digital Watch - Camo",
+        "handle": "casio-g-shock-ga-700-series-analog-digital-watch-camo",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,86 @@
       }
     },
     "https://www.afew-store.com": {
+      "10606394081546": {
+        "title": "Gramicci CORDUROY GRAMICCI PANT",
+        "handle": "gramicci-corduroy-gramicci-pant-toned-olive",
+        "in_stock": false
+      },
+      "10606388936970": {
+        "title": "Gramicci CORDUROY GRAMICCI PANT",
+        "handle": "gramicci-corduroy-gramicci-pant-dark-navy",
+        "in_stock": false
+      },
+      "10606380056842": {
+        "title": "Gramicci Pant",
+        "handle": "gramicci-pant-brown-pigment",
+        "in_stock": false
+      },
+      "10606377271562": {
+        "title": "Gramicci GADGET PANT",
+        "handle": "gramicci-gadget-pant-brown-pigment",
+        "in_stock": false
+      },
+      "10606370914570": {
+        "title": "Gramicci LOOSE TAPERED RIDGE PANT",
+        "handle": "gramicci-loose-tapered-ridge-pant-olive",
+        "in_stock": false
+      },
+      "10606366949642": {
+        "title": "Gramicci MOHAIR SPLATTER Cardigan",
+        "handle": "gramicci-mohair-splatter-cardigan-safron-splatter",
+        "in_stock": false
+      },
+      "10606365802762": {
+        "title": "Gramicci MOHAIR SPLATTER SWEATER",
+        "handle": "gramicci-mohair-splatter-sweater-slate-splatter",
+        "in_stock": false
+      },
+      "10606359871754": {
+        "title": "Gramicci PANT STRAIGHT FIT",
+        "handle": "gramicci-pant-streight-fit-haze-pigment",
+        "in_stock": false
+      },
+      "10606340014346": {
+        "title": "Oakley FLEECE-LINED GRAPHIC BEANIE",
+        "handle": "oakley-fleece-lined-graphic-beanie-rain-camo-olive",
+        "in_stock": false
+      },
+      "10606338703626": {
+        "title": "Oakley FLEECE-LINED GRAPHIC BEANIE",
+        "handle": "oakley-fleece-lined-graphic-beanie-rain-camo-black",
+        "in_stock": false
+      },
+      "10606338572554": {
+        "title": "Gramicci MOHAIR SPLATTER BEANIE",
+        "handle": "gramicci-mohair-splatter-beanie-slate-splatter",
+        "in_stock": false
+      },
+      "10606338375946": {
+        "title": "Gramicci MOHAIR SPLATTER BEANIE",
+        "handle": "gramicci-mohair-splatter-beanie-taupe-splatter",
+        "in_stock": false
+      },
+      "10606311899402": {
+        "title": "Nike Kobe (GS) 'Hyper Royal'",
+        "handle": "nike-kobe-gs-hyper-royal-wolf-grey-white",
+        "in_stock": false
+      },
+      "10606311768330": {
+        "title": "Nike Kobe 10",
+        "handle": "nike-kobe-10-white-multi-color-white",
+        "in_stock": false
+      },
+      "10606308884746": {
+        "title": "Nike GIANNIS FREAK 8",
+        "handle": "nike-giannis-freak-8-black-laser-orange-laser-crimson",
+        "in_stock": false
+      },
+      "10606307344650": {
+        "title": "Nike Giannis Freak 8",
+        "handle": "nike-giannis-freak-8-black-volt-lt-smoke-grey",
+        "in_stock": false
+      },
       "10605676986634": {
         "title": "Salomon XT-EVO",
         "handle": "salomon-xt-evo-black-fieryred-white",
@@ -6464,7 +6544,7 @@
       "10603822088458": {
         "title": "Nike Air Max Plus VII",
         "handle": "nike-air-max-plus-vii-raspberry-red-white-metallic-gold-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10603822022922": {
         "title": "Nike AIR BAKIN HIGH SP",
@@ -6509,7 +6589,7 @@
       "10602758537482": {
         "title": "Nike Kobe III Low Protro",
         "handle": "nike-kobe-low-electric-green-stadium-green",
-        "in_stock": false
+        "in_stock": true
       },
       "10602758177034": {
         "title": "Nike ACG Zegama Trail GORE-TEX",
@@ -6529,7 +6609,7 @@
       "10602593747210": {
         "title": "Nike WMNS Vomero Premium",
         "handle": "nike-wmns-vomero-premium-university-red-metallic-silver",
-        "in_stock": false
+        "in_stock": true
       },
       "10601858105610": {
         "title": "Asics x CECILIE BAHNSEN GEL-KINETIC FR",
@@ -6559,7 +6639,7 @@
       "10601843687690": {
         "title": "Nike WMNS GENERAL PURPOSE SHOE",
         "handle": "nike-wmns-general-purpose-shoe-black-white-team-royal-team-orange",
-        "in_stock": false
+        "in_stock": true
       },
       "10601841426698": {
         "title": "Mizuno WAVE MUSTANG LS OG",
@@ -6824,12 +6904,12 @@
       "10599349289226": {
         "title": "Nike WMNS Air Rift",
         "handle": "nike-wmns-air-rift-black-cool-grey1",
-        "in_stock": false
+        "in_stock": true
       },
       "10599349223690": {
         "title": "Nike WMNS Air Rift",
         "handle": "nike-wmns-air-rift-dk-driftwood-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10599349190922": {
         "title": "Nike Nike Air Force 1 '01",
@@ -7429,86 +7509,6 @@
       "10591787680010": {
         "title": "UGG LOWMEL",
         "handle": "ugg-lowmel-black",
-        "in_stock": true
-      },
-      "10591766970634": {
-        "title": "Nike ACG Tee",
-        "handle": "nike-acg-dk-smoke-grey",
-        "in_stock": true
-      },
-      "10591755927818": {
-        "title": "Nike ACG pant 'High Stakes'",
-        "handle": "nike-acg-black-summit-white",
-        "in_stock": true
-      },
-      "10591752716554": {
-        "title": "Carhartt WIP OG Santa Fe Jacket",
-        "handle": "carhartt-wip-og-santa-fe-jacket-wip-h-brown-tobacco",
-        "in_stock": true
-      },
-      "10591737250058": {
-        "title": "Carhartt WIP OG Cargo Pant",
-        "handle": "carhartt-wip-og-cargo-pant-cypress",
-        "in_stock": true
-      },
-      "10591735644426": {
-        "title": "Carhartt WIP OG Cargo Pant",
-        "handle": "carhartt-wip-og-cargo-pant-black",
-        "in_stock": true
-      },
-      "10591721488650": {
-        "title": "Obey LOVE IS BRUTAL T-Shirt",
-        "handle": "obey-love-is-brutal-vintage-white",
-        "in_stock": true
-      },
-      "10591720571146": {
-        "title": "Obey LUCKY CAT T-Shirt",
-        "handle": "obey-lucky-cat-red",
-        "in_stock": true
-      },
-      "10591719391498": {
-        "title": "Obey FLORES ROBUS T-Shirt",
-        "handle": "obey-flores-robus-black",
-        "in_stock": true
-      },
-      "10591717884170": {
-        "title": "Obey VHS T-Shirt",
-        "handle": "obey-vhs-black",
-        "in_stock": true
-      },
-      "10591711166730": {
-        "title": "Obey QUARTER EYE ICON T-Shirt",
-        "handle": "obey-quarter-eye-icon-sand",
-        "in_stock": true
-      },
-      "10591707595018": {
-        "title": "Obey ENJOY THE RIDE T-Shirt",
-        "handle": "obey-enjoy-the-ride-heather-grey",
-        "in_stock": true
-      },
-      "10591666340106": {
-        "title": "Stanley 1913 The IceFlow Flip Straw 2.0 Tumbler 30 oz / 0.89 L",
-        "handle": "stanley-1913-the-iceflow-flip-straw-2-0-tumbler-0-89-l-30-ozcoffee",
-        "in_stock": true
-      },
-      "10591655330058": {
-        "title": "adidas Originals adizero Evo SL",
-        "handle": "adidas-originals-adizero-evo-sl-cblack-carbon-whitin",
-        "in_stock": true
-      },
-      "10591652053258": {
-        "title": "Lacoste BERET",
-        "handle": "lacoste-beret-navy-blue",
-        "in_stock": true
-      },
-      "10591651823882": {
-        "title": "Lacoste BERET",
-        "handle": "lacoste-beret-black",
-        "in_stock": true
-      },
-      "10591648645386": {
-        "title": "adidas Originals X SONG FOR THE MUTE RUNNING CREW SOCK 1PP",
-        "handle": "adidas-originals-x-sftm-run-sock-carbon",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,36 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Black/Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-black-camo",
-      "detected_at": "2026-09-01T01:58:44.888996+00:00"
+      "message": "🔥 **Restock** at Asphaltgold: Nike Wmns Air Rift\nhttps://www.asphaltgold.de/products/nike-wmns-air-rift-dark-driftwood-black",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock GA-700 Series Analog-Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-ga-700-series-analog-digital-watch-camo",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Air Max Plus VII\nhttps://www.afew-store.com/products/nike-air-max-plus-vii-raspberry-red-white-metallic-gold-black",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike Kobe III Low Protro\nhttps://www.afew-store.com/products/nike-kobe-low-electric-green-stadium-green",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Vomero Premium\nhttps://www.afew-store.com/products/nike-wmns-vomero-premium-university-red-metallic-silver",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS GENERAL PURPOSE SHOE\nhttps://www.afew-store.com/products/nike-wmns-general-purpose-shoe-black-white-team-royal-team-orange",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Air Rift\nhttps://www.afew-store.com/products/nike-wmns-air-rift-black-cool-grey1",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike WMNS Air Rift\nhttps://www.afew-store.com/products/nike-wmns-air-rift-dk-driftwood-black",
+      "detected_at": "2026-09-01T07:41:20.963915+00:00"
     }
   ]
 }
