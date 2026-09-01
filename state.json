@@ -54,7 +54,7 @@
       "8286705680512": {
         "title": "Kith Micro Waffle Long Sleeve Colby Pullover - White",
         "handle": "khma030426-101",
-        "in_stock": false
+        "in_stock": true
       },
       "8286705156224": {
         "title": "Kith & the NFL for the Baltimore Ravens Leon Shirt - Black",
@@ -2653,7 +2653,7 @@
       "10790783779083": {
         "title": "IDEA Courtside Cap",
         "handle": "idea-courtside-cap-green-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10676117995787": {
         "title": "HAL Studios Practice Jersey L/S",
@@ -2933,7 +2933,7 @@
       "10744401723659": {
         "title": "Adidas Gazelle Bold W",
         "handle": "adidas-gazelle-bold-w-wonder-mauve-off-white-gum-2",
-        "in_stock": true
+        "in_stock": false
       },
       "10243161063691": {
         "title": "Adidas SL 72 PT",
@@ -3148,7 +3148,7 @@
       "10747409465611": {
         "title": "Arte Antwerp Corduroy Pants",
         "handle": "arte-antwerp-corduroy-pants-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "10676314997003": {
         "title": "New Balance 800",
@@ -3757,6 +3757,161 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9379278160060": {
+        "title": "Nike Book 2 'Iron Fist' - Metallic Silver/Black",
+        "handle": "nike-book-2-iron-fist-metallic-silver-black",
+        "in_stock": true
+      },
+      "8910666465468": {
+        "title": "Kody Phillips Did I Win? Tee - White",
+        "handle": "kody-phillips-did-i-win-tee-white",
+        "in_stock": true
+      },
+      "9343125946556": {
+        "title": "Jordan Brooklyn Realtree Jersey - White/Black",
+        "handle": "jordan-brooklyn-realtree-jersey-white-black",
+        "in_stock": true
+      },
+      "9343122866364": {
+        "title": "Jordan Raglan L/S Tee - Sail/Black",
+        "handle": "jordan-raglan-l-s-tee-sail-black",
+        "in_stock": true
+      },
+      "9343089115324": {
+        "title": "Jordan Flight Wings Hoodie - Light British Tan/Sail",
+        "handle": "jordan-flight-wings-hoodie-light-british-tan-sail",
+        "in_stock": true
+      },
+      "9343067062460": {
+        "title": "Jordan Flight Fleece Quarter Zip - Black",
+        "handle": "jordan-flight-fleece-quarter-zip-black",
+        "in_stock": true
+      },
+      "9343064768700": {
+        "title": "Jordan Brooklyn Tee - Shadow Brown",
+        "handle": "jordan-brooklyn-tee-shadow-brown",
+        "in_stock": true
+      },
+      "9343052513468": {
+        "title": "Jordan Flight Wings Hoodie - Black/University Red",
+        "handle": "jordan-flight-wings-hoodie-black-university-red",
+        "in_stock": true
+      },
+      "9410296905916": {
+        "title": "Air Jordan 12 Retro 'Bucks' - Summit White/Gorge Green",
+        "handle": "air-jordan-12-retro-bucks-summit-white-gorge-green",
+        "in_stock": true
+      },
+      "9342179410108": {
+        "title": "Air Jordan 7 Retro 'Tennis Day' (GS) - Phantom/Anthracite",
+        "handle": "air-jordan-7-retro-tennis-day-gs-phantom-anthracite",
+        "in_stock": true
+      },
+      "9342997889212": {
+        "title": "Women's Nike Vomero Plus 'Cow Print' - Sail/Sail",
+        "handle": "womens-nike-vomero-plus-cow-print-sail-sail",
+        "in_stock": true
+      },
+      "9342184161468": {
+        "title": "Jordan 4 Retro 'Rare Air' (TD) - White/Tour Yellow",
+        "handle": "jordan-4-retro-td-white-tour-yellow",
+        "in_stock": true
+      },
+      "9410251129020": {
+        "title": "Jordan 4 Retro 'Rare Air' (PS) - White/Tour Yellow",
+        "handle": "jordan-4-retro-rare-air-ps-white-tour-yellow",
+        "in_stock": true
+      },
+      "9410298871996": {
+        "title": "Air Jordan 4 Retro 'Rare Air' (GS) - White/Tour Yellow",
+        "handle": "air-jordan-4-retro-rare-air-gs-white-tour-yellow",
+        "in_stock": true
+      },
+      "9342110433468": {
+        "title": "Jordan 1 Retro High OG 'Nails & Grails' (TD) - University Red/Metallic Silver",
+        "handle": "jordan-1-retro-high-og-nails-grails-td-university-red-metallic-silver",
+        "in_stock": true
+      },
+      "9084333457596": {
+        "title": "Politics x '47 Flat Script Strapback - Khaki",
+        "handle": "politics-x-47-flat-script-strapback-khaki",
+        "in_stock": true
+      },
+      "9084333064380": {
+        "title": "Politics x '47 Flat Script Strapback - Burnt Orange",
+        "handle": "politics-x-47-flat-script-strapback-burnt-orange",
+        "in_stock": true
+      },
+      "9017752486076": {
+        "title": "Politics Script A-Frame Snapback - Cream/Red",
+        "handle": "politics-script-a-frame-snapback-cream-red",
+        "in_stock": true
+      },
+      "9015560437948": {
+        "title": "Politics Script A-Frame Snapback - Cream/Blue",
+        "handle": "politics-script-a-frame-snapback-cream-blue",
+        "in_stock": true
+      },
+      "9015560208572": {
+        "title": "Politics Script A-Frame Snapback - Cream/Burnt Orange",
+        "handle": "politics-script-a-frame-snapback-cream-burnt-orange",
+        "in_stock": true
+      },
+      "9015558963388": {
+        "title": "Politics Script A-Frame Snapback - Cream/Purple",
+        "handle": "politics-script-a-frame-snapback-cream-purple",
+        "in_stock": true
+      },
+      "9015558766780": {
+        "title": "Politics Script A-Frame Snapback - Cream/Green",
+        "handle": "politics-script-a-frame-snapback-cream-green",
+        "in_stock": true
+      },
+      "8710423478460": {
+        "title": "Honor The Gift x Politics Block Dad Hat - Black",
+        "handle": "honor-the-gift-x-politics-block-dad-hat-black",
+        "in_stock": true
+      },
+      "8478235820220": {
+        "title": "Politics x New Era City Series 59FIFTY Fitted Hat - Cream/Navy",
+        "handle": "politics-x-new-era-city-series-59fifty-fitted-hat-cream-navy",
+        "in_stock": true
+      },
+      "9342086971580": {
+        "title": "Jordan 1 Retro High OG 'Nails & Grails' (PS) - University Red/Metallic Silver",
+        "handle": "jordan-1-retro-high-og-nails-grails-ps-university-red-metallic-silver",
+        "in_stock": true
+      },
+      "9069590610108": {
+        "title": "New Era x Politics New York Jets 59FIFTY Fitted - Black/Kelly",
+        "handle": "new-era-x-politics-new-york-jets-59fifty-fitted-black-kelly",
+        "in_stock": true
+      },
+      "8696667898044": {
+        "title": "New Era x Politics Cincinnati Bengals 59FIFTY Fitted - Black",
+        "handle": "new-era-x-politics-cincinnati-bengals-59fifty-fitted-black",
+        "in_stock": true
+      },
+      "8696658755772": {
+        "title": "New Era x Politics Philadelphia Eagles 59FIFTY Fitted - Pine Green",
+        "handle": "new-era-x-politics-philadelphia-eagles-59fifty-fitted-pine-green",
+        "in_stock": true
+      },
+      "8696657608892": {
+        "title": "New Era x Politics Minnesota Vikings 59FIFTY Fitted - True Purple/Black",
+        "handle": "new-era-x-politics-minnesota-vikings-59fifty-fitted-true-purple-black",
+        "in_stock": true
+      },
+      "9028606394556": {
+        "title": "Politics Mug - Multi",
+        "handle": "politics-mug-multi",
+        "in_stock": true
+      },
+      "9028604133564": {
+        "title": "Politics Airpod Pro Case - Olive",
+        "handle": "politics-airpod-pro-case-olive",
+        "in_stock": true
+      },
       "9381314035900": {
         "title": "Women's Nike Air Force 1 '07 'Red Floral' - Multi Color/Off Noir",
         "handle": "womens-nike-air-force-1-07-red-floral-multi-color-off-noir",
@@ -3840,11 +3995,6 @@
       "9341118021820": {
         "title": "Nike ACG Smith Summit Cargo Shorts - Tattoo/Mystic Dates",
         "handle": "nike-acg-smith-summit-cargo-shorts-tattoo-mystic-dates",
-        "in_stock": true
-      },
-      "9226343252156": {
-        "title": "Politics Hawg Tee - Vintage Black",
-        "handle": "politics-hawg-tee-vintage-black",
         "in_stock": true
       },
       "9501225189564": {
@@ -3942,11 +4092,6 @@
         "handle": "air-jordan-8-retro-chrome-gs-black-white",
         "in_stock": true
       },
-      "9028606394556": {
-        "title": "Politics Mug - Multi",
-        "handle": "politics-mug-multi",
-        "in_stock": true
-      },
       "8998928318652": {
         "title": "Rhude Script Logo Sock - Black/Gold",
         "handle": "rhude-script-logo-sock-black-gold",
@@ -3955,11 +4100,6 @@
       "9100849414332": {
         "title": "Rhude Rossa Strapback - Blue/White",
         "handle": "rhude-rossa-strapback-blue-white",
-        "in_stock": true
-      },
-      "9228440993980": {
-        "title": "Politics Ritual L/S Tee -  Vintage Black",
-        "handle": "politics-ritual-l-s-tee-vintage-black",
         "in_stock": true
       },
       "9356451250364": {
@@ -4282,19 +4422,9 @@
         "handle": "politics-embroidered-crew-sock-black",
         "in_stock": true
       },
-      "9117905846460": {
-        "title": "Politics Ball Tee - Dark Red",
-        "handle": "politics-ball-tee-dark-red",
-        "in_stock": true
-      },
       "9028603314364": {
         "title": "Politics Airpod Pro Case - Creme",
         "handle": "politics-airpod-pro-case-creme",
-        "in_stock": true
-      },
-      "9028604133564": {
-        "title": "Politics Airpod Pro Case - Olive",
-        "handle": "politics-airpod-pro-case-olive",
         "in_stock": true
       },
       "9028603642044": {
@@ -4302,360 +4432,15 @@
         "handle": "politics-airpod-pro-case-red",
         "in_stock": true
       },
-      "9117912531132": {
-        "title": "Politics Division Tee - White",
-        "handle": "politics-division-tee-white",
-        "in_stock": true
-      },
       "9134910636220": {
         "title": "Politics Baseball Jersey - Black",
         "handle": "politics-baseball-jersey-black",
-        "in_stock": true
-      },
-      "9117903978684": {
-        "title": "Politics Athletics Tee - Navy",
-        "handle": "politics-athletics-tee-navy",
-        "in_stock": true
-      },
-      "9056602849468": {
-        "title": "Politics Kana Trucker Hat - Creme",
-        "handle": "politics-kana-trucker-hat-creme",
-        "in_stock": true
-      },
-      "9356408094908": {
-        "title": "Politics Soccer Jersey - Black",
-        "handle": "politics-soccer-jersey-black",
-        "in_stock": true
-      },
-      "9356406554812": {
-        "title": "Politics Soccer Jersey - Cream",
-        "handle": "politics-soccer-jersey-cream",
-        "in_stock": true
-      },
-      "9306892959932": {
-        "title": "Politics Stadium Snapback - Navy",
-        "handle": "politics-stadium-snapback-navy",
-        "in_stock": true
-      },
-      "9243675590844": {
-        "title": "Politics Busy Being Nice Sweatpants - Black",
-        "handle": "politics-busy-being-nice-sweatpants-black",
-        "in_stock": true
-      },
-      "9243657142460": {
-        "title": "Politics Busy Being Nice Hoodie - Black",
-        "handle": "politics-busy-being-nice-hoodie-black",
-        "in_stock": true
-      },
-      "9134939635900": {
-        "title": "Politics Windbreaker Pullover - Red",
-        "handle": "politics-windbreaker-pullover-red",
-        "in_stock": true
-      },
-      "9134939373756": {
-        "title": "Politics Windbreaker Pullover - Black",
-        "handle": "politics-windbreaker-pullover-black",
-        "in_stock": true
-      },
-      "9134938718396": {
-        "title": "Politics Fleece Rugby - Navy",
-        "handle": "politics-fleece-rugby-navy",
-        "in_stock": true
-      },
-      "9134938423484": {
-        "title": "Politics Fleece Rugby - Black",
-        "handle": "politics-fleece-rugby-black",
-        "in_stock": true
-      },
-      "9134911422652": {
-        "title": "Politics Mesh Shorts - Patchwork",
-        "handle": "politics-mesh-shorts-patchwork",
-        "in_stock": true
-      },
-      "9117916594364": {
-        "title": "Politics Star Tee - Charcoal",
-        "handle": "politics-star-tee-charcoal",
-        "in_stock": true
-      },
-      "9097177596092": {
-        "title": "Politics Swamp Tee - White",
-        "handle": "politics-swamp-tee-white",
-        "in_stock": true
-      },
-      "9048114823356": {
-        "title": "Politics Serif Outline Crewneck - Heather Grey",
-        "handle": "politics-serif-outline-crewneck-heather-grey",
-        "in_stock": true
-      },
-      "9048084578492": {
-        "title": "Politics Vintage Wash Sweatpants - Tan",
-        "handle": "politics-vintage-wash-sweatpants-tan",
-        "in_stock": true
-      },
-      "9048083824828": {
-        "title": "Politics Vintage Wash Sweatpants - Purple",
-        "handle": "politics-vintage-wash-sweatpants-purple",
-        "in_stock": true
-      },
-      "9048083038396": {
-        "title": "Politics Vintage Wash Sweatpants - Olive",
-        "handle": "politics-vintage-wash-sweatpants-olive",
-        "in_stock": true
-      },
-      "9048082743484": {
-        "title": "Politics Vintage Wash Sweatpants - Black",
-        "handle": "politics-vintage-wash-sweatpants-black",
-        "in_stock": true
-      },
-      "9048082055356": {
-        "title": "Politics Serif Outline Crewneck - Black",
-        "handle": "politics-serif-outline-crewneck-black",
-        "in_stock": true
-      },
-      "9048081268924": {
-        "title": "Politics Vintage Wash Hoodie - Tan",
-        "handle": "politics-vintage-wash-hoodie-tan",
-        "in_stock": true
-      },
-      "9048080154812": {
-        "title": "Politics Vintage Wash Hoodie - Olive",
-        "handle": "politics-vintage-wash-hoodie-olive",
-        "in_stock": true
-      },
-      "9028607508668": {
-        "title": "Politics Rello Tee - Dolphin Blue",
-        "handle": "politics-rello-tee-dolphin-blue",
-        "in_stock": true
-      },
-      "9023028658364": {
-        "title": "Politics Block Tee - Army Green",
-        "handle": "politics-block-tee-army-green",
-        "in_stock": true
-      },
-      "9023026954428": {
-        "title": "Politics Paradise Tee - White",
-        "handle": "politics-paradise-tee-white",
-        "in_stock": true
-      },
-      "9023025381564": {
-        "title": "Politics Attack Tee - Vintage Black",
-        "handle": "politics-attack-tee-vintage-black",
-        "in_stock": true
-      },
-      "9017752486076": {
-        "title": "Politics Script A-Frame Snapback - Cream/Red",
-        "handle": "politics-script-a-frame-snapback-cream-red",
-        "in_stock": true
-      },
-      "9015560437948": {
-        "title": "Politics Script A-Frame Snapback - Cream/Blue",
-        "handle": "politics-script-a-frame-snapback-cream-blue",
-        "in_stock": true
-      },
-      "9015560208572": {
-        "title": "Politics Script A-Frame Snapback - Cream/Burnt Orange",
-        "handle": "politics-script-a-frame-snapback-cream-burnt-orange",
-        "in_stock": true
-      },
-      "9015558963388": {
-        "title": "Politics Script A-Frame Snapback - Cream/Purple",
-        "handle": "politics-script-a-frame-snapback-cream-purple",
-        "in_stock": true
-      },
-      "9015558766780": {
-        "title": "Politics Script A-Frame Snapback - Cream/Green",
-        "handle": "politics-script-a-frame-snapback-cream-green",
-        "in_stock": true
-      },
-      "9004965920956": {
-        "title": "Politics Full Zip Ripstop Jacket - Black",
-        "handle": "politics-full-zip-ripstop-jacket-black",
-        "in_stock": true
-      },
-      "9004964708540": {
-        "title": "Politics Full Zip Ripstop Jacket - Camo",
-        "handle": "politics-full-zip-ripstop-jacket-camo",
-        "in_stock": true
-      },
-      "8988410478780": {
-        "title": "Politics Tag Tee - Arctic",
-        "handle": "politics-tag-tee-artic",
-        "in_stock": true
-      },
-      "8950717612220": {
-        "title": "Politics Hell's Kitchen Tee - Black",
-        "handle": "politics-hells-kitchen-tee-black",
-        "in_stock": true
-      },
-      "8943060451516": {
-        "title": "Politics SP Skully - Sage",
-        "handle": "politics-sp-skully-sage",
-        "in_stock": true
-      },
-      "8932940906684": {
-        "title": "Politics x New Era 59FIFTY Fitted - Earthy Brown",
-        "handle": "politics-x-new-era-59fifty-fitted-earthy-brown",
-        "in_stock": true
-      },
-      "8920081858748": {
-        "title": "Politics Mesh Cap - Cardinal",
-        "handle": "politics-mesh-cap-cardinal",
-        "in_stock": true
-      },
-      "8920074649788": {
-        "title": "Politics Wicked Tee - White",
-        "handle": "politics-wicked-tee-white",
-        "in_stock": true
-      },
-      "8920068522172": {
-        "title": "Politics Market Tee - Clear Blue",
-        "handle": "politics-market-tee-clear-blue",
-        "in_stock": true
-      },
-      "8911657730236": {
-        "title": "Politics x MLS All-Star Tee - White",
-        "handle": "politics-x-mls-all-star-tee-white",
-        "in_stock": true
-      },
-      "8900162814140": {
-        "title": "Politics Kart Tee - White",
-        "handle": "politics-kart-tee-white",
-        "in_stock": true
-      },
-      "8895034917052": {
-        "title": "Politics x New Era 59FIFTY Fitted - Old Gold",
-        "handle": "politics-x-new-era-59fifty-fitted-old-gold",
-        "in_stock": true
-      },
-      "8772807196860": {
-        "title": "Politics Drift Pant - Black",
-        "handle": "politics-drift-pant-black",
-        "in_stock": true
-      },
-      "8772805951676": {
-        "title": "Politics Drift Pant - Sand",
-        "handle": "politics-drift-pant-sand",
-        "in_stock": true
-      },
-      "8748153602236": {
-        "title": "Politics Racing Tee - White",
-        "handle": "politics-racing-tee-white",
-        "in_stock": true
-      },
-      "8711010877628": {
-        "title": "Politics Track Jacket - Black",
-        "handle": "politics-track-jacket-black",
-        "in_stock": true
-      },
-      "8671641960636": {
-        "title": "Politics Brick Logo Hoodie - Heather Grey",
-        "handle": "politics-brick-logo-hoodie-heather-grey",
-        "in_stock": true
-      },
-      "8588270796988": {
-        "title": "NFL Origins x Politics Wash Sweatpant - Onyx",
-        "handle": "nfl-origins-x-politics-wash-sweatpant-onyx",
-        "in_stock": true
-      },
-      "8512456196284": {
-        "title": "Politics Nylon Anorak - Black",
-        "handle": "politics-nylon-anorak-black",
-        "in_stock": true
-      },
-      "8478235820220": {
-        "title": "Politics x New Era City Series 59FIFTY Fitted Hat - Cream/Navy",
-        "handle": "politics-x-new-era-city-series-59fifty-fitted-hat-cream-navy",
-        "in_stock": true
-      },
-      "8453255037116": {
-        "title": "Politics Augustus Bomber Jacket - Black",
-        "handle": "politics-augustus-bomber-jacket-black",
-        "in_stock": true
-      },
-      "8453254021308": {
-        "title": "Politics Augustus Bomber Jacket - Khaki",
-        "handle": "politics-augustus-bomber-jacket-khaki",
-        "in_stock": true
-      },
-      "8420769693884": {
-        "title": "Politics Commerce Shirt - Black",
-        "handle": "politics-commerce-shirt-black",
-        "in_stock": true
-      },
-      "8110801289404": {
-        "title": "Politics Track Jacket - Navy/White",
-        "handle": "politics-track-jacket-navy-white",
-        "in_stock": true
-      },
-      "7755543281852": {
-        "title": "Politics Bucket Hat - Grey",
-        "handle": "politics-bucket-hat-grey",
-        "in_stock": true
-      },
-      "9144439636156": {
-        "title": "Politics Longhorn Hoodie - Grey",
-        "handle": "politics-longhorn-hoodie-grey",
-        "in_stock": true
-      },
-      "9117914398908": {
-        "title": "Politics Longhorn Tee - White",
-        "handle": "politics-longhorn-tee-white",
-        "in_stock": true
-      },
-      "9117908041916": {
-        "title": "Politics Desert Tee - White",
-        "handle": "politics-desert-tee-white",
-        "in_stock": true
-      },
-      "9117900079292": {
-        "title": "Politics Armadillo Tee - Vintage Black",
-        "handle": "politics-armadillo-tee-vintage-black",
-        "in_stock": true
-      },
-      "9117898604732": {
-        "title": "Politics Armadillo Tee - White",
-        "handle": "politics-armadillo-tee-white",
-        "in_stock": true
-      },
-      "9356425429180": {
-        "title": "Politics Baseball Jersey - Cream",
-        "handle": "politics-baseball-jersey-cream",
         "in_stock": true
       },
       "9356422185148": {
         "title": "Politics Soccer Stride Shorts - Navy",
         "handle": "politics-soccer-stride-shorts-navy",
         "in_stock": false
-      },
-      "9349956731068": {
-        "title": "Politics Viva Tee - White",
-        "handle": "politics-viva-tee-white",
-        "in_stock": true
-      },
-      "9349956305084": {
-        "title": "Politics Bicycle Tee - Black",
-        "handle": "politics-bicycle-tee-black",
-        "in_stock": true
-      },
-      "9349955911868": {
-        "title": "Politics Bicycle Tee - Ash",
-        "handle": "politics-bicycle-tee-ash",
-        "in_stock": true
-      },
-      "9349954535612": {
-        "title": "Politics Red Card Tee - White",
-        "handle": "politics-red-card-tee-white",
-        "in_stock": true
-      },
-      "9349952995516": {
-        "title": "Politics Hat Trick Tee - Black",
-        "handle": "politics-hat-trick-tee-black",
-        "in_stock": true
-      },
-      "9283097854140": {
-        "title": "Politics Bass Tee - Vintage Black",
-        "handle": "politics-bass-tee-vintage-black",
-        "in_stock": true
       },
       "9262351384764": {
         "title": "Politics LA Trainer P Logo Socks - White/Pink",
@@ -4666,136 +4451,6 @@
         "title": "Politics LA Trainer Serif Logo Socks - White/Purple",
         "handle": "politics-la-trainer-serif-logo-socks-white-purple",
         "in_stock": false
-      },
-      "9226042572988": {
-        "title": "Politics TX Plate Tee - White",
-        "handle": "politics-tx-plate-tee-white",
-        "in_stock": true
-      },
-      "9225934602428": {
-        "title": "Politics LA Plate Tee - Beige",
-        "handle": "politics-la-plate-tee-beige",
-        "in_stock": true
-      },
-      "9134911848636": {
-        "title": "Politics Mesh Shorts - Tombstone",
-        "handle": "politics-mesh-shorts-tombstone",
-        "in_stock": true
-      },
-      "9097174188220": {
-        "title": "Politics Sportsman's Paradise Tee - Black",
-        "handle": "politics-sportsmans-paradise-tee-black",
-        "in_stock": true
-      },
-      "9097170649276": {
-        "title": "Politics Sportsman's Paradise Tee - White",
-        "handle": "politics-sportsmans-paradise-tee-white",
-        "in_stock": true
-      },
-      "9069590610108": {
-        "title": "New Era x Politics New York Jets 59FIFTY Fitted - Black/Kelly",
-        "handle": "new-era-x-politics-new-york-jets-59fifty-fitted-black-kelly",
-        "in_stock": true
-      },
-      "9028610851004": {
-        "title": "Politics Shotgun Tee - Vintage Black",
-        "handle": "politics-shotgun-tee-vintage-black",
-        "in_stock": true
-      },
-      "9023022629052": {
-        "title": "Politics Thermal Tee - Black",
-        "handle": "politics-thermal-tee-black",
-        "in_stock": true
-      },
-      "8988412477628": {
-        "title": "Politics Tag Tee - Ice Grey",
-        "handle": "politics-tag-tee-ice-grey",
-        "in_stock": true
-      },
-      "8950711287996": {
-        "title": "Politics Hell's Kitchen Tee - White",
-        "handle": "politics-hells-kitchen-tee-white",
-        "in_stock": true
-      },
-      "8950710862012": {
-        "title": "Politics Blaze Tee - White",
-        "handle": "politics-blaze-tee-white",
-        "in_stock": true
-      },
-      "8950709518524": {
-        "title": "Politics Smash Tee - Vintage Black",
-        "handle": "politics-smash-tee-vintage-black",
-        "in_stock": true
-      },
-      "8901744328892": {
-        "title": "Politics Cactus Tee - White",
-        "handle": "politics-cactus-tee-white",
-        "in_stock": true
-      },
-      "8900170154172": {
-        "title": "Politics Static Tee - Black Edge",
-        "handle": "politics-static-tee-black-edge",
-        "in_stock": true
-      },
-      "8748161597628": {
-        "title": "Politics Alt Logo Pocket Tee - White",
-        "handle": "politics-alt-logo-pocket-tee-white",
-        "in_stock": true
-      },
-      "8748155961532": {
-        "title": "Politics Tire Shop Tee - White",
-        "handle": "politics-tire-shop-tee-white",
-        "in_stock": true
-      },
-      "8748152750268": {
-        "title": "Politics Decal Tee - Black",
-        "handle": "politics-decal-tee-black",
-        "in_stock": true
-      },
-      "8746479255740": {
-        "title": "Politics Pennant Tee - White",
-        "handle": "politics-pennant-tee-white",
-        "in_stock": true
-      },
-      "8710423478460": {
-        "title": "Honor The Gift x Politics Block Dad Hat - Black",
-        "handle": "honor-the-gift-x-politics-block-dad-hat-black",
-        "in_stock": true
-      },
-      "8710410404028": {
-        "title": "Honor The Gift x Politics Tailgate Hat - Blue",
-        "handle": "honor-the-gift-x-politics-tailgate-hat-blue",
-        "in_stock": true
-      },
-      "8708491215036": {
-        "title": "Politics x Market 5 Trucker Hat - Black/White",
-        "handle": "politics-x-market-5-panel-hat-black-white",
-        "in_stock": true
-      },
-      "8696657608892": {
-        "title": "New Era x Politics Minnesota Vikings 59FIFTY Fitted - True Purple/Black",
-        "handle": "new-era-x-politics-minnesota-vikings-59fifty-fitted-true-purple-black",
-        "in_stock": true
-      },
-      "8696511660220": {
-        "title": "Politics x New Era Mardi Gras 59FIFTY Fitted - Black",
-        "handle": "politics-x-new-era-mardi-gras-59fifty-fitted-black",
-        "in_stock": true
-      },
-      "8696511135932": {
-        "title": "Politics x New Era Mardi Gras 59FIFTY Fitted - Purple",
-        "handle": "politics-x-new-era-mardi-gras-59fifty-fitted-purple",
-        "in_stock": true
-      },
-      "8478239621308": {
-        "title": "Politics x New Era City Series 59FIFTY Fitted Hat - Cream/Rust",
-        "handle": "politics-x-new-era-city-series-59fifty-fitted-hat-cream-rust",
-        "in_stock": true
-      },
-      "8703529943228": {
-        "title": "Honor The Gift x Politics Rally Time Tee - Vintage White",
-        "handle": "honor-the-gift-x-politics-rally-time-tee-vintage-white",
-        "in_stock": true
       },
       "9366195273916": {
         "title": "Carhartt WIP Terrace Football Jersey - White",
@@ -4912,11 +4567,6 @@
         "handle": "hellstar-crochet-jesus-t-shirt-no-rhinestones-black",
         "in_stock": true
       },
-      "9072881139900": {
-        "title": "Timberland Textured Premium 6\" Lace Up Boot - Medium Beige Full Grain",
-        "handle": "timberland-textured-premium-6-lace-up-boot-medium-beige-full-grain",
-        "in_stock": false
-      },
       "8970815799484": {
         "title": "Honor The Gift 1998 Drive In Crewneck - Black",
         "handle": "honor-the-gift-1998-drive-in-crewneck-black",
@@ -4972,11 +4622,6 @@
         "handle": "nike-air-max-95-greedy-black-volt-1",
         "in_stock": false
       },
-      "8703503564988": {
-        "title": "Politics Rouler Tee - Tie Dye",
-        "handle": "politics-rouler-tee-tie-dye",
-        "in_stock": true
-      },
       "9101006667964": {
         "title": "Jordan 4 Retro (PS) - White/Medium Soft Pink",
         "handle": "jordan-4-retro-ps-white-medium-soft-pink",
@@ -5005,6 +4650,361 @@
       "8604135162044": {
         "title": "Purple Brand Studded Scratch Hoodie - Black",
         "handle": "purple-brand-studded-scratch-hoodie-black",
+        "in_stock": true
+      },
+      "8912919265468": {
+        "title": "Stussy Big Ol Jeans - Vintage Black",
+        "handle": "stussy-big-ol-jeans-vintage-black",
+        "in_stock": true
+      },
+      "9358547255484": {
+        "title": "Ryoko Rain Art Has No Rules Tee - Grey",
+        "handle": "ryoko-rain-art-has-no-rules-tee-grey",
+        "in_stock": true
+      },
+      "7781496094908": {
+        "title": "Oakley BXTR Metal - Matte Clear/Prizm Violet",
+        "handle": "oakley-bxtr-metal-matte-clear-prizm-violet",
+        "in_stock": true
+      },
+      "9400878039228": {
+        "title": "AFEW x Brooks Adrenaline GTS 10 'Today Was A Good Day' - Fig/Bridal Rose",
+        "handle": "afew-x-brooks-adrenaline-gts-10-today-was-a-good-day-fig-bridal-rose-1",
+        "in_stock": true
+      },
+      "9497060769980": {
+        "title": "Casio Digital Ring Watch - Silver",
+        "handle": "casio-digital-ring-watch-silver",
+        "in_stock": true
+      },
+      "9497059229884": {
+        "title": "Casio MTPB190 Analog Watch - Silver",
+        "handle": "casio-mtpb190-analog-watch-silver",
+        "in_stock": true
+      },
+      "9497058836668": {
+        "title": "Casio Stainless Steel Analog Watch - White",
+        "handle": "casio-stainless-steel-analog-watch-white",
+        "in_stock": true
+      },
+      "9497058246844": {
+        "title": "Casio Baby-G BG-169 Series Digital Watch - Grey Camo",
+        "handle": "casio-baby-g-bg-169-series-digital-watch-grey-camo",
+        "in_stock": true
+      },
+      "9497056837820": {
+        "title": "Casio G-Shock 6900 Series Digital Watch - Black/Camo",
+        "handle": "casio-g-shock-6900-series-digital-watch-black-camo",
+        "in_stock": true
+      },
+      "9497041273020": {
+        "title": "Casio G-Shock GA-700 Series Analog-Digital Watch - Camo",
+        "handle": "casio-g-shock-ga-700-series-analog-digital-watch-camo",
+        "in_stock": true
+      },
+      "9497040781500": {
+        "title": "Casio G-Shock 6900 Series Digital Watch - Gold/Camo",
+        "handle": "casio-g-shock-6900-series-digital-watch-gold-camo",
+        "in_stock": true
+      },
+      "9497040126140": {
+        "title": "Casio G-Shock 6900 Series Digital Watch - Camo",
+        "handle": "casio-g-shock-6900-series-digital-watch-camo",
+        "in_stock": true
+      },
+      "9341138239676": {
+        "title": "Nike Shox BB4 - Black/Metallic Silver",
+        "handle": "nike-shox-bb4-black-metallic-silver",
+        "in_stock": true
+      },
+      "9505926611132": {
+        "title": "Brain Dead x Crocs Trailbreak 2 - Multi/Deep Green",
+        "handle": "brain-dead-x-crocs-trailbreak-2-multi-deep-green",
+        "in_stock": true
+      },
+      "9474071855292": {
+        "title": "Brain Dead x Crocs Echo II - Astro Blue",
+        "handle": "brain-dead-x-crocs-echo-ii-astro-blue",
+        "in_stock": true
+      },
+      "9261906886844": {
+        "title": "Nike Air DT Max '96 Low (GS) - Black/Metallic Gold",
+        "handle": "nike-air-dt-max-96-low-gs-black-metallic-gold",
+        "in_stock": true
+      },
+      "9081160695996": {
+        "title": "Casio Digital Ring Watch - Gold",
+        "handle": "casio-digital-ring-watch-gold",
+        "in_stock": true
+      },
+      "9469722198204": {
+        "title": "Homme Femme Les Anges Tee - Black",
+        "handle": "homme-femme-les-anges-tee-black",
+        "in_stock": true
+      },
+      "9365966225596": {
+        "title": "Malbon Golf And Tackle Snapback - Steel Ripple",
+        "handle": "malbon-golf-and-tackle-snapback-steel-ripple",
+        "in_stock": true
+      },
+      "9365963178172": {
+        "title": "Malbon Golf Bermuda Bahiar Tee - White",
+        "handle": "malbon-golf-bermuda-bahiar-tee-white",
+        "in_stock": true
+      },
+      "9365960655036": {
+        "title": "Malbon Golf Bermuda Bahiar Tee - Seagrass",
+        "handle": "malbon-golf-bermuda-bahiar-tee-seagrass",
+        "in_stock": true
+      },
+      "9365956264124": {
+        "title": "Malbon Golf And Tackle Sunshirt - Steel Ripple",
+        "handle": "malbon-golf-and-tackle-sunshirt-steel-ripple",
+        "in_stock": true
+      },
+      "9365947449532": {
+        "title": "Malbon Golf Mesh Basket Pocket Short - Steel Ripple",
+        "handle": "malbon-golf-mesh-basket-pocket-short-steel-purple",
+        "in_stock": true
+      },
+      "8763215118524": {
+        "title": "Ksubi Spare Ekcess Tee - Militant Green",
+        "handle": "ksubi-spare-ekcess-tee-militant-green",
+        "in_stock": true
+      },
+      "9410245558460": {
+        "title": "Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow",
+        "handle": "air-jordan-4-retro-rare-air-white-tour-yellow",
+        "in_stock": true
+      },
+      "9397435269308": {
+        "title": "Rhude Striped Moonlight Sock - Black/White",
+        "handle": "rhude-striped-moonlight-sock-black-white",
+        "in_stock": true
+      },
+      "9397434319036": {
+        "title": "Rhude Rossa Logo Sock - White/Red",
+        "handle": "rhude-rossa-logo-sock-white-red",
+        "in_stock": true
+      },
+      "9397433663676": {
+        "title": "Rhude Rossa Structured Strapback - Black/Red",
+        "handle": "rhude-rossa-structured-strapback-black-red",
+        "in_stock": true
+      },
+      "9397433106620": {
+        "title": "Rhude 4x4 Spirit Trucker Hat - Black/White",
+        "handle": "rhude-4x4-spirit-trucker-hat-black-white",
+        "in_stock": true
+      },
+      "9397431992508": {
+        "title": "Rhude Racing Panel Trucker Hat - Black/Yellow",
+        "handle": "rhude-racing-panel-trucker-hat-black-yellow",
+        "in_stock": true
+      },
+      "9397429698748": {
+        "title": "Rhude The Desert Decides Tee - Vintage Black/Red",
+        "handle": "rhude-the-desert-decides-tee-vintage-black-red",
+        "in_stock": true
+      },
+      "9397428879548": {
+        "title": "Rhude Desert Crest Tee - Vintage Black/Silver",
+        "handle": "rhude-desert-crest-tee-vintage-black-silver",
+        "in_stock": true
+      },
+      "9397428650172": {
+        "title": "Rhude Automobile Club Tee - Vintage Black/Red",
+        "handle": "rhude-automobile-club-tee-vintage-black-red",
+        "in_stock": true
+      },
+      "9397425012924": {
+        "title": "Rhude American Spirit L/S Pocket Tee - Vintage Black/Red",
+        "handle": "rhude-american-spirit-l-s-pocket-tee-vintage-black-red",
+        "in_stock": true
+      },
+      "9397423505596": {
+        "title": "Rhude Stage Racing Hoodie - Heather Grey/Black",
+        "handle": "rhude-stage-racing-hoodie-heather-grey-black",
+        "in_stock": true
+      },
+      "9397422391484": {
+        "title": "Rhude The Desert Decides Hoodie - Heather Grey/Red",
+        "handle": "rhude-the-desert-decides-hoodie-heather-grey-red",
+        "in_stock": true
+      },
+      "8815868936380": {
+        "title": "Jungles Moto Jersey - Multi",
+        "handle": "jungles-moto-jersey-multi",
+        "in_stock": false
+      },
+      "9337978945724": {
+        "title": "Supervsn Studio Yung Viz Tee - White",
+        "handle": "supervsn-studio-3rd-eye-kid-ss-tee-white",
+        "in_stock": true
+      },
+      "9337939591356": {
+        "title": "Supervsn Studio Manifesto Tee - White",
+        "handle": "supervsn-studio-manifesto-tee-white",
+        "in_stock": true
+      },
+      "8762208157884": {
+        "title": "Ice Cream Worldwide Tee - White",
+        "handle": "ice-cream-worldwide-tee-white",
+        "in_stock": true
+      },
+      "8991041355964": {
+        "title": "Ice Cream Cones N Cash Tee - Black",
+        "handle": "ice-cream-cones-n-cash-tee-black",
+        "in_stock": true
+      },
+      "9469812310204": {
+        "title": "Godspeed New York OG Logo Slides V2 - Red",
+        "handle": "godspeed-new-york-og-logo-slides-v2-red",
+        "in_stock": true
+      },
+      "9501182132412": {
+        "title": "Air Jordan 3 Retro 'Laser' - Phantom/University Red",
+        "handle": "air-jordan-3-retro-laser-phantom-university-red",
+        "in_stock": true
+      },
+      "9286307381436": {
+        "title": "Godspeed New York Badges Of Honor Tee - Military Green",
+        "handle": "godspeed-new-york-badges-of-honor-tee-military-green",
+        "in_stock": true
+      },
+      "9346461434044": {
+        "title": "Nike Kobe 10 Protro 'Halo' - White/Multi",
+        "handle": "nike-kobe-10-protro-halo-white-multi",
+        "in_stock": true
+      },
+      "9349834932412": {
+        "title": "Nike Cryoshot Tiempo '94 OG - Black/White",
+        "handle": "nike-cryoshot-tiempo-94-og-black-white",
+        "in_stock": true
+      },
+      "9337993396412": {
+        "title": "Supervsn Studio CWW Trucker Hat - Black",
+        "handle": "supervsn-studio-cww-hat-black",
+        "in_stock": true
+      },
+      "9337991102652": {
+        "title": "Supervsn Studio Shorts - Royal Blue",
+        "handle": "supervsn-studio-shorts-royal-blue",
+        "in_stock": true
+      },
+      "9337988251836": {
+        "title": "Supervsn Studio Plaid Shorts - Blue Plaid",
+        "handle": "supervsn-studio-plaid-shorts-blue-plaid",
+        "in_stock": true
+      },
+      "9337982222524": {
+        "title": "Supervsn Studio World Tee - Vintage Black",
+        "handle": "supervsn-studio-world-tee-vintage-black",
+        "in_stock": true
+      },
+      "9337943851196": {
+        "title": "Supervsn Studio Map Tee - Moss",
+        "handle": "supervsn-studio-starlight-tee-moss",
+        "in_stock": true
+      },
+      "9337940508860": {
+        "title": "Supervsn Studio Truth Teller Tee - Vintage Black",
+        "handle": "supervsn-studio-truth-teller-tee-vintage-black",
+        "in_stock": true
+      },
+      "9337936642236": {
+        "title": "Supervsn Studio Spark Tee - Edamame",
+        "handle": "supervsn-studio-spark-tee-edamame",
+        "in_stock": true
+      },
+      "9337931432124": {
+        "title": "Supervsn Studio S Curl Tee - Dusty Purple",
+        "handle": "supervsn-studio-s-curl-tee-dusty-purple",
+        "in_stock": true
+      },
+      "9337929728188": {
+        "title": "Supervsn Studio Heat Jersey - Neon Orange",
+        "handle": "supervsn-studio-heat-jersey-neon-orange",
+        "in_stock": true
+      },
+      "9337928220860": {
+        "title": "Supervsn Studio Heat Jersey - Neon Green",
+        "handle": "supervsn-studio-heat-jersey-neon-green",
+        "in_stock": true
+      },
+      "9307700494524": {
+        "title": "Palm Angels Big Neck Logo Loose Tee - Off White",
+        "handle": "palm-angels-big-neck-logo-loose-tee-off-white",
+        "in_stock": true
+      },
+      "9307696365756": {
+        "title": "Palm Angels Surf Boy Tee - Anthracite",
+        "handle": "palm-angels-surf-boy-tee-anthracite",
+        "in_stock": true
+      },
+      "9307687157948": {
+        "title": "Palm Angels Big Waist Logo Sweatshorts - Brown",
+        "handle": "palm-angels-big-waist-logo-sweatshorts-brown",
+        "in_stock": true
+      },
+      "9307686863036": {
+        "title": "Palm Angels Classic Logo Over Tee - Black",
+        "handle": "palm-angels-classic-logo-over-tee-black",
+        "in_stock": true
+      },
+      "9307686142140": {
+        "title": "Palm Angels Vintage Box Logo Loose Tee - Black",
+        "handle": "palm-angels-vintage-box-logo-loose-tee-black",
+        "in_stock": true
+      },
+      "9307685978300": {
+        "title": "Palm Angels Devil Loose Tee - Off White",
+        "handle": "palm-angels-devil-loose-tee-off-white",
+        "in_stock": true
+      },
+      "9307685585084": {
+        "title": "Palm Angels Big Neck Logo Loose Tee - Black",
+        "handle": "palm-angels-big-neck-logo-loose-tee-black",
+        "in_stock": true
+      },
+      "9307685355708": {
+        "title": "Palm Angels Big Neck Logo Loose Tee - Brown",
+        "handle": "palm-angels-big-neck-logo-loose-tee-brown",
+        "in_stock": true
+      },
+      "9307684962492": {
+        "title": "Palm Angels Stamp Logo Tee - Black",
+        "handle": "palm-angels-stamp-logo-tee-black",
+        "in_stock": true
+      },
+      "9307684438204": {
+        "title": "Palm Angels Curved Logo Classic Swimshort - Black",
+        "handle": "palm-angels-curved-logo-classic-swimshort-black",
+        "in_stock": true
+      },
+      "9307682865340": {
+        "title": "Palm Angels Palm Type Loose Cargo Shorts - Black",
+        "handle": "palm-angels-palm-type-loose-cargo-shorts-black",
+        "in_stock": true
+      },
+      "9307674706108": {
+        "title": "Palm Angels Vintage Box Logo Loose Tee - Off White",
+        "handle": "palm-angels-vintage-box-logo-loose-tee-off-white",
+        "in_stock": true
+      },
+      "9346554822844": {
+        "title": "Nike Ja 4 'Nightmare' - Obsidian/Voltage Green",
+        "handle": "nike-ja-4-nightmare-obsidian-voltage-green",
+        "in_stock": true
+      },
+      "9410290516156": {
+        "title": "Air Jordan 8 Retro 'Chrome' - Black/White",
+        "handle": "air-jordan-8-retro-black-white-1",
+        "in_stock": true
+      },
+      "9342077141180": {
+        "title": "Air Jordan 1 Low OG 'Laser' (GS) - Black/Varsity Red",
+        "handle": "air-jordan-1-low-og-laser-gs-black-varsity-red",
         "in_stock": true
       }
     },
@@ -5952,7 +5952,7 @@
       "15034694861176": {
         "title": "On Cloudvista 2 'Black Black'",
         "handle": "on-cloudvista-2-black-black",
-        "in_stock": false
+        "in_stock": true
       },
       "15034694467960": {
         "title": "On Cloudsurfer Next 'Glacier Glacier'",
@@ -6142,7 +6142,7 @@
       "15031076716920": {
         "title": "Saucony Progrid Omni 9 OG 'Black White'",
         "handle": "saucony-progrid-omni-9-og-black-white",
-        "in_stock": false
+        "in_stock": true
       },
       "15031076422008": {
         "title": "Saucony Progrid Omni 9 OG 'Microchip'",
@@ -8768,264 +8768,376 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Top Turf Pitch - Green Velvet\nhttps://kith.com/products/hav4150808-2703",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🔥 **Restock** at Kith: Kith Micro Waffle Long Sleeve Colby Pullover - White\nhttps://kith.com/products/khma030426-101",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Studios Top Runner - Multi\nhttps://kith.com/products/hav4150694-2711",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Book 2 'Iron Fist' - Metallic Silver/Black\nhttps://sneakerpolitics.com/products/nike-book-2-iron-fist-metallic-silver-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Studios Top Futebol - Multi\nhttps://kith.com/products/hav4150713-0121",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Kody Phillips Did I Win? Tee - White\nhttps://sneakerpolitics.com/products/kody-phillips-did-i-win-tee-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Studios Top Camo - Pink / Red\nhttps://kith.com/products/hav4150807-3180",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Brooklyn Realtree Jersey - White/Black\nhttps://sneakerpolitics.com/products/jordan-brooklyn-realtree-jersey-white-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: adidas x JENNIE WMNS Superstar SQ Ballet - Off White / Core Black / Core White\nhttps://kith.com/products/aalb3786",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Raglan L/S Tee - Sail/Black\nhttps://sneakerpolitics.com/products/jordan-raglan-l-s-tee-sail-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: adidas x JENNIE WMNS Superstar SQ Ballet - Core Black / Core Black / Off White\nhttps://kith.com/products/aalb3787",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Flight Wings Hoodie - Light British Tan/Sail\nhttps://sneakerpolitics.com/products/jordan-flight-wings-hoodie-light-british-tan-sail",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike Baltoro High - Light British Tan / Geode Teal / Black / University Red\nhttps://kith.com/products/nkio4556-201",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Flight Fleece Quarter Zip - Black\nhttps://sneakerpolitics.com/products/jordan-flight-fleece-quarter-zip-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike Air Liquid Max - Black / Radiant Blue\nhttps://kith.com/products/nkiq7634-004",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Brooklyn Tee - Shadow Brown\nhttps://sneakerpolitics.com/products/jordan-brooklyn-tee-shadow-brown",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: SALOMON XT-WHISPER VOID - CHILI/ BLACK/ ACID LIME\nhttps://undefeated.com/products/salomon-xt-whisper-void-chili-black-acid-lime",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan Flight Wings Hoodie - Black/University Red\nhttps://sneakerpolitics.com/products/jordan-flight-wings-hoodie-black-university-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: SALOMON XT-EVO - BLACK/ ASPHALT\nhttps://undefeated.com/products/salomon-xt-evo-black-asphalt",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 12 Retro 'Bucks' - Summit White/Gorge Green\nhttps://sneakerpolitics.com/products/air-jordan-12-retro-bucks-summit-white-gorge-green",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 '07 LV8 - BLACK SPRUCE\nhttps://undefeated.com/products/nike-air-force-1-07-lv8-black-spruce",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 7 Retro 'Tennis Day' (GS) - Phantom/Anthracite\nhttps://sneakerpolitics.com/products/air-jordan-7-retro-tennis-day-gs-phantom-anthracite",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE ZOOM HYPERFLIGHT - VARSITY RED/ WHITE / BLACK\nhttps://undefeated.com/products/nike-zoom-hyperflight-varsity-red-white-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Vomero Plus 'Cow Print' - Sail/Sail\nhttps://sneakerpolitics.com/products/womens-nike-vomero-plus-cow-print-sail-sail",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE WMNS AIR RIFT - DARK DRIFTWOOD / BLACK\nhttps://undefeated.com/products/nike-wmns-air-rift-dark-driftwood-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 4 Retro 'Rare Air' (TD) - White/Tour Yellow\nhttps://sneakerpolitics.com/products/jordan-4-retro-td-white-tour-yellow",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 LOW PROTRO - WHITE / ARMORY BLUE\nhttps://undefeated.com/products/nike-air-force-1-low-protro-white-armory-blue",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 4 Retro 'Rare Air' (PS) - White/Tour Yellow\nhttps://sneakerpolitics.com/products/jordan-4-retro-rare-air-ps-white-tour-yellow",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE WMNS AIR RIFT - BLACK / COOL GREY\nhttps://undefeated.com/products/nike-wmns-air-rift-black-cool-grey",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Rare Air' (GS) - White/Tour Yellow\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-rare-air-gs-white-tour-yellow",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR LIQUID MAX - BLACK/ RADIANT BLUE / SAPPHIRE\nhttps://undefeated.com/products/nike-air-liquid-max-black-radiant-blue-sapphire",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Retro High OG 'Nails & Grails' (TD) - University Red/Metallic Silver\nhttps://sneakerpolitics.com/products/jordan-1-retro-high-og-nails-grails-td-university-red-metallic-silver",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Saucony Kinvara 1 S\nhttps://www.asphaltgold.de/products/saucony-kinvara-1-s-sage-1",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 Flat Script Strapback - Khaki\nhttps://sneakerpolitics.com/products/politics-x-47-flat-script-strapback-khaki",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Care Bears Superstar II W\nhttps://www.asphaltgold.de/products/adidas-x-care-bears-superstar-ii-w-clear-sky-footwear-white-blue-bird",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 Flat Script Strapback - Burnt Orange\nhttps://sneakerpolitics.com/products/politics-x-47-flat-script-strapback-burnt-orange",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Arte Antwerp F50\nhttps://www.asphaltgold.de/products/adidas-x-arte-antwerp-f50-core-black-core-black-core-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Jordan 1 Retro High OG 'Nails & Grails' (PS) - University Red/Metallic Silver\nhttps://sneakerpolitics.com/products/jordan-1-retro-high-og-nails-grails-ps-university-red-metallic-silver",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Liberty London Adimule W\nhttps://www.asphaltgold.de/products/adidas-x-liberty-london-adimule-w-wonder-beige-gold-metallic-gum-5",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Politics Cincinnati Bengals 59FIFTY Fitted - Black\nhttps://sneakerpolitics.com/products/new-era-x-politics-cincinnati-bengals-59fifty-fitted-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas x Liberty London Handball Spezial W\nhttps://www.asphaltgold.de/products/adidas-x-liberty-london-handball-spezial-w-aurora-coffee-magic-mauve-gum-5",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Politics Philadelphia Eagles 59FIFTY Fitted - Pine Green\nhttps://sneakerpolitics.com/products/new-era-x-politics-philadelphia-eagles-59fifty-fitted-pine-green",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Asphaltgold: 47 MLB New York Yankees *Base Runner* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-base-runner-cap-timber-blue",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Stussy Big Ol Jeans - Vintage Black\nhttps://sneakerpolitics.com/products/stussy-big-ol-jeans-vintage-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Air Force 1 '07 'Red Floral' - Multi Color/Off Noir\nhttps://sneakerpolitics.com/products/womens-nike-air-force-1-07-red-floral-multi-color-off-noir",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ryoko Rain Art Has No Rules Tee - Grey\nhttps://sneakerpolitics.com/products/ryoko-rain-art-has-no-rules-tee-grey",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Zoom Skylon 11 - University Red/Black\nhttps://sneakerpolitics.com/products/nike-zoom-skylon-11-university-red-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley BXTR Metal - Matte Clear/Prizm Violet\nhttps://sneakerpolitics.com/products/oakley-bxtr-metal-matte-clear-prizm-violet",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Anta Kai 3 'Triple Black' - Black/Black\nhttps://sneakerpolitics.com/products/anta-kai-3-triple-black-black-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: AFEW x Brooks Adrenaline GTS 10 'Today Was A Good Day' - Fig/Bridal Rose\nhttps://sneakerpolitics.com/products/afew-x-brooks-adrenaline-gts-10-today-was-a-good-day-fig-bridal-rose-1",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Represent Heavier Than The Heavens L/S Tee - Washed Black\nhttps://sneakerpolitics.com/products/represent-heavier-than-the-heavens-l-s-tee-washed-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio Digital Ring Watch - Silver\nhttps://sneakerpolitics.com/products/casio-digital-ring-watch-silver",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Represent Eagle Tee - Black\nhttps://sneakerpolitics.com/products/represent-eagle-tee-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio MTPB190 Analog Watch - Silver\nhttps://sneakerpolitics.com/products/casio-mtpb190-analog-watch-silver",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Adistar XLG 2.0 - Core Black/Iron Metallic\nhttps://sneakerpolitics.com/products/adidas-adistar-xlg-2-0-core-black-iron-metallic",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio Stainless Steel Analog Watch - White\nhttps://sneakerpolitics.com/products/casio-stainless-steel-analog-watch-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Adidas Adistar XLG 2.0 - Cloud White/Silver Metallic\nhttps://sneakerpolitics.com/products/adidas-adistar-xlg-2-0-cloud-white-silver-metallic",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio Baby-G BG-169 Series Digital Watch - Grey Camo\nhttps://sneakerpolitics.com/products/casio-baby-g-bg-169-series-digital-watch-grey-camo",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Liberty London x Adidas Handball Spezial - Aurora Coffee/Magic Mauve\nhttps://sneakerpolitics.com/products/womens-liberty-london-x-adidas-handball-spezial-aurora-coffee-magic-mauve",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Black/Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-black-camo",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Liberty London x Adidas Japan - Aurora Coffee/Magic Mauve\nhttps://sneakerpolitics.com/products/womens-liberty-london-x-adidas-japan-aurora-coffee-magic-mauve",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock GA-700 Series Analog-Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-ga-700-series-analog-digital-watch-camo",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike ACG Baltoro - Light British Tan/Geode Teal\nhttps://sneakerpolitics.com/products/nike-acg-baltoro-light-british-tan-geode-teal",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Gold/Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-gold-camo",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Liquid Max - Black/Black\nhttps://sneakerpolitics.com/products/nike-air-liquid-max-black-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio G-Shock 6900 Series Digital Watch - Camo\nhttps://sneakerpolitics.com/products/casio-g-shock-6900-series-digital-watch-camo",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Politics Mug - Multi\nhttps://sneakerpolitics.com/products/politics-mug-multi",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Shox BB4 - Black/Metallic Silver\nhttps://sneakerpolitics.com/products/nike-shox-bb4-black-metallic-silver",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Rhude Script Logo Sock - Black/Gold\nhttps://sneakerpolitics.com/products/rhude-script-logo-sock-black-gold",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Brain Dead x Crocs Trailbreak 2 - Multi/Deep Green\nhttps://sneakerpolitics.com/products/brain-dead-x-crocs-trailbreak-2-multi-deep-green",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Rhude Rossa Strapback - Blue/White\nhttps://sneakerpolitics.com/products/rhude-rossa-strapback-blue-white",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Brain Dead x Crocs Echo II - Astro Blue\nhttps://sneakerpolitics.com/products/brain-dead-x-crocs-echo-ii-astro-blue",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Politics Ritual L/S Tee -  Vintage Black\nhttps://sneakerpolitics.com/products/politics-ritual-l-s-tee-vintage-black",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air DT Max '96 Low (GS) - Black/Metallic Gold\nhttps://sneakerpolitics.com/products/nike-air-dt-max-96-low-gs-black-metallic-gold",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Nike Vomero Plus 'Cow Print' - Sail/Sail\nhttps://sneakerpolitics.com/products/nike-vomero-plus-cow-print-sail-sail",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Casio Digital Ring Watch - Gold\nhttps://sneakerpolitics.com/products/casio-digital-ring-watch-gold",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Crocs Ripple - Steel/Moonlight\nhttps://sneakerpolitics.com/products/crocs-ripple-steel-moonlight",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Homme Femme Les Anges Tee - Black\nhttps://sneakerpolitics.com/products/homme-femme-les-anges-tee-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 Matte 'Almond Cocoa'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-matte-almond-cocoa",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf And Tackle Snapback - Steel Ripple\nhttps://sneakerpolitics.com/products/malbon-golf-and-tackle-snapback-steel-ripple",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Club Collective Full Zip Hoodie Espresso\nhttps://www.slamjam.com/products/on-clothing-wmns-club-collective-full-zip-hoodie-fka-brown-j363126",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf Bermuda Bahiar Tee - White\nhttps://sneakerpolitics.com/products/malbon-golf-bermuda-bahiar-tee-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Club Collective Full Zip Hoodie Lurien\nhttps://www.slamjam.com/products/on-clothing-wmns-club-collective-full-zip-hoodie-fka-grey-j363125",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf Bermuda Bahiar Tee - Seagrass\nhttps://sneakerpolitics.com/products/malbon-golf-bermuda-bahiar-tee-seagrass",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Club Collective-T Espresso\nhttps://www.slamjam.com/products/on-clothing-wmns-club-collective-t-fka-brown-j363124",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf And Tackle Sunshirt - Steel Ripple\nhttps://sneakerpolitics.com/products/malbon-golf-and-tackle-sunshirt-steel-ripple",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Club Collective Pants Espresso\nhttps://www.slamjam.com/products/on-clothing-wmns-club-collective-pants-fka-brown-j363121",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Malbon Golf Mesh Basket Pocket Short - Steel Ripple\nhttps://sneakerpolitics.com/products/malbon-golf-mesh-basket-pocket-short-steel-purple",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Club Collective-T Lurien\nhttps://www.slamjam.com/products/on-clothing-wmns-club-collective-t-fka-grey-j363123",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ksubi Spare Ekcess Tee - Militant Green\nhttps://sneakerpolitics.com/products/ksubi-spare-ekcess-tee-militant-green",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Club Collective Pants Lurien\nhttps://www.slamjam.com/products/on-clothing-wmns-club-collective-pants-fka-grey-j363122",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-rare-air-white-tour-yellow",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Club Collective Shorts Espresso\nhttps://www.slamjam.com/products/on-clothing-wmns-club-collective-short-fka-brown-j363120",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Striped Moonlight Sock - Black/White\nhttps://sneakerpolitics.com/products/rhude-striped-moonlight-sock-black-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA twigs Studio Bra Espresso\nhttps://www.slamjam.com/products/on-clothing-wmns-studio-bra-fka-brown-j363119",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Rossa Logo Sock - White/Red\nhttps://sneakerpolitics.com/products/rhude-rossa-logo-sock-white-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's FKA Studio Long-T Lurien\nhttps://www.slamjam.com/products/on-clothing-wmns-studio-long-t-fka-grey-j363118",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Rossa Structured Strapback - Black/Red\nhttps://sneakerpolitics.com/products/rhude-rossa-structured-strapback-black-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: FKA twigs Headband Tonoko\nhttps://www.slamjam.com/products/on-lifestyle-headband-fka-beige-j363933",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude 4x4 Spirit Trucker Hat - Black/White\nhttps://sneakerpolitics.com/products/rhude-4x4-spirit-trucker-hat-black-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: FKA twigs Headband Espresso\nhttps://www.slamjam.com/products/on-lifestyle-headband-fka-brown-j363932",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Racing Panel Trucker Hat - Black/Yellow\nhttps://sneakerpolitics.com/products/rhude-racing-panel-trucker-hat-black-yellow",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: FKA twigs Slouchy Socks Espresso\nhttps://www.slamjam.com/products/on-clothing-slouchy-socks-fka-brown-j363117",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude The Desert Decides Tee - Vintage Black/Red\nhttps://sneakerpolitics.com/products/rhude-the-desert-decides-tee-vintage-black-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: FKA twigs Slouchy Socks Tonoko\nhttps://www.slamjam.com/products/on-clothing-slouchy-socks-fka-beige-j363116",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Desert Crest Tee - Vintage Black/Silver\nhttps://sneakerpolitics.com/products/rhude-desert-crest-tee-vintage-black-silver",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cloudmonster 3 Mules Cacao / Espresso\nhttps://www.slamjam.com/products/on-footwear-cloudmonster-3-mule-brown-j363113",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Automobile Club Tee - Vintage Black/Red\nhttps://sneakerpolitics.com/products/rhude-automobile-club-tee-vintage-black-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Cloudmonster 3 Mules Cacao / Espresso\nhttps://www.slamjam.com/products/on-footwear-wmns-cloudmonster-3-mule-brown-j363112",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude American Spirit L/S Pocket Tee - Vintage Black/Red\nhttps://sneakerpolitics.com/products/rhude-american-spirit-l-s-pocket-tee-vintage-black-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Cloudmonster 3 Mules Loess / Hare\nhttps://www.slamjam.com/products/on-footwear-cloudmonster-3-mule-beige-j363111",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Stage Racing Hoodie - Heather Grey/Black\nhttps://sneakerpolitics.com/products/rhude-stage-racing-hoodie-heather-grey-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Cloudmonster 3 Mules Loess / Hare\nhttps://www.slamjam.com/products/on-footwear-wmns-cloudmonster-3-mule-beige-j363110",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude The Desert Decides Hoodie - Heather Grey/Red\nhttps://sneakerpolitics.com/products/rhude-the-desert-decides-hoodie-heather-grey-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Nuna 800 Fill Power Hooded Down Jacket Burgundy\nhttps://www.slamjam.com/products/roa-clothing-nuna-800-fill-power-hooded-down-jacket-red-j339687",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Yung Viz Tee - White\nhttps://sneakerpolitics.com/products/supervsn-studio-3rd-eye-kid-ss-tee-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Nuna 800 Fill Power Hooded Down Vest Graphite\nhttps://www.slamjam.com/products/roa-clothing-nuna-800-fill-power-pinstriped-down-vest-black-j345772",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Manifesto Tee - White\nhttps://sneakerpolitics.com/products/supervsn-studio-manifesto-tee-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Nuna 800 Fill Power Hooded Down Vest Black\nhttps://www.slamjam.com/products/roa-clothing-nuna-800-fill-power-hooded-down-vest-black-j345771",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Worldwide Tee - White\nhttps://sneakerpolitics.com/products/ice-cream-worldwide-tee-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Twiya 600 Fill Power Down Liner Graphite\nhttps://www.slamjam.com/products/roa-clothing-twiya-600-fill-power-down-liner-black-j339697",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Cones N Cash Tee - Black\nhttps://sneakerpolitics.com/products/ice-cream-cones-n-cash-tee-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Tenna Compression Flared Leggings Petrol\nhttps://www.slamjam.com/products/roa-clothing-tenna-compression-flared-leggings-blue-j345782",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York OG Logo Slides V2 - Red\nhttps://sneakerpolitics.com/products/godspeed-new-york-og-logo-slides-v2-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Women's Shida Running Jacket Dark Green\nhttps://www.slamjam.com/products/roa-clothing-shida-running-jacket-green-j339698",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 3 Retro 'Laser' - Phantom/University Red\nhttps://sneakerpolitics.com/products/air-jordan-3-retro-laser-phantom-university-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Hoggar Boots Black\nhttps://www.slamjam.com/products/roa-footwear-hoggar-boot-black-j347366",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Godspeed New York Badges Of Honor Tee - Military Green\nhttps://sneakerpolitics.com/products/godspeed-new-york-badges-of-honor-tee-military-green",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Fair Isle Beanie Tan\nhttps://www.slamjam.com/products/polo-ralph-lauren-accessories-geo-rib-bni-hat-multicolor-j360767",
-      "detected_at": "2026-09-01T17:13:21.810389+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Kobe 10 Protro 'Halo' - White/Multi\nhttps://sneakerpolitics.com/products/nike-kobe-10-protro-halo-white-multi",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Cryoshot Tiempo '94 OG - Black/White\nhttps://sneakerpolitics.com/products/nike-cryoshot-tiempo-94-og-black-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio CWW Trucker Hat - Black\nhttps://sneakerpolitics.com/products/supervsn-studio-cww-hat-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Shorts - Royal Blue\nhttps://sneakerpolitics.com/products/supervsn-studio-shorts-royal-blue",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Plaid Shorts - Blue Plaid\nhttps://sneakerpolitics.com/products/supervsn-studio-plaid-shorts-blue-plaid",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio World Tee - Vintage Black\nhttps://sneakerpolitics.com/products/supervsn-studio-world-tee-vintage-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Map Tee - Moss\nhttps://sneakerpolitics.com/products/supervsn-studio-starlight-tee-moss",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Truth Teller Tee - Vintage Black\nhttps://sneakerpolitics.com/products/supervsn-studio-truth-teller-tee-vintage-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Spark Tee - Edamame\nhttps://sneakerpolitics.com/products/supervsn-studio-spark-tee-edamame",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio S Curl Tee - Dusty Purple\nhttps://sneakerpolitics.com/products/supervsn-studio-s-curl-tee-dusty-purple",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Heat Jersey - Neon Orange\nhttps://sneakerpolitics.com/products/supervsn-studio-heat-jersey-neon-orange",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Supervsn Studio Heat Jersey - Neon Green\nhttps://sneakerpolitics.com/products/supervsn-studio-heat-jersey-neon-green",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Big Neck Logo Loose Tee - Off White\nhttps://sneakerpolitics.com/products/palm-angels-big-neck-logo-loose-tee-off-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Surf Boy Tee - Anthracite\nhttps://sneakerpolitics.com/products/palm-angels-surf-boy-tee-anthracite",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Big Waist Logo Sweatshorts - Brown\nhttps://sneakerpolitics.com/products/palm-angels-big-waist-logo-sweatshorts-brown",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Classic Logo Over Tee - Black\nhttps://sneakerpolitics.com/products/palm-angels-classic-logo-over-tee-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Vintage Box Logo Loose Tee - Black\nhttps://sneakerpolitics.com/products/palm-angels-vintage-box-logo-loose-tee-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Devil Loose Tee - Off White\nhttps://sneakerpolitics.com/products/palm-angels-devil-loose-tee-off-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Big Neck Logo Loose Tee - Black\nhttps://sneakerpolitics.com/products/palm-angels-big-neck-logo-loose-tee-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Big Neck Logo Loose Tee - Brown\nhttps://sneakerpolitics.com/products/palm-angels-big-neck-logo-loose-tee-brown",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Stamp Logo Tee - Black\nhttps://sneakerpolitics.com/products/palm-angels-stamp-logo-tee-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Curved Logo Classic Swimshort - Black\nhttps://sneakerpolitics.com/products/palm-angels-curved-logo-classic-swimshort-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Palm Type Loose Cargo Shorts - Black\nhttps://sneakerpolitics.com/products/palm-angels-palm-type-loose-cargo-shorts-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Vintage Box Logo Loose Tee - Off White\nhttps://sneakerpolitics.com/products/palm-angels-vintage-box-logo-loose-tee-off-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Ja 4 'Nightmare' - Obsidian/Voltage Green\nhttps://sneakerpolitics.com/products/nike-ja-4-nightmare-obsidian-voltage-green",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro 'Chrome' - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low OG 'Laser' (GS) - Black/Varsity Red\nhttps://sneakerpolitics.com/products/air-jordan-1-low-og-laser-gs-black-varsity-red",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: On Cloudvista 2 'Black Black'\nhttps://www.kickgame.co.uk/products/on-cloudvista-2-black-black",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'Black White'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-black-white",
+      "detected_at": "2026-09-01T19:57:19.431008+00:00"
     }
   ]
 }
