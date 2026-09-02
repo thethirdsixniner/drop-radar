@@ -2286,7 +2286,7 @@
       "6686380392709": {
         "title": "UACTP SURPLUS 5-PANEL SLOUCHY SNAPBACK",
         "handle": "uactp-surplus-5-panel-slouchy-snapback",
-        "in_stock": true
+        "in_stock": false
       },
       "6685674963205": {
         "title": "UNDEFEATED X BCFC SNAPBACK - BLUE",
@@ -2538,7 +2538,7 @@
       "10845223846155": {
         "title": "Adidas BW Army",
         "handle": "adidas-bw-army-core-black-charcoal-solid-grey-gum-5",
-        "in_stock": true
+        "in_stock": false
       },
       "10839382294795": {
         "title": "New Balance 204L",
@@ -2783,7 +2783,7 @@
       "10655089361163": {
         "title": "47 MLB New York Yankees Base Runner Two Tone *Clean Up* Cap",
         "handle": "47-mlb-new-york-yankees-base-runner-two-tone-clean-up-cap-natural-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "8932106338571": {
         "title": "J.L.-A.L. Epid Jacket",
@@ -3228,7 +3228,7 @@
       "10676314997003": {
         "title": "New Balance 800",
         "handle": "new-balance-ff800-dark-olivine-garter-snake",
-        "in_stock": false
+        "in_stock": true
       },
       "10676925858059": {
         "title": "Nike Air Force 1 Low Retro Premium",
@@ -3253,7 +3253,7 @@
       "10122494443787": {
         "title": "Adidas Tobacco",
         "handle": "adidas-tobacco-team-victory-red-power-red-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "8310500196619": {
         "title": "Mizuno Wave Prophecy LS",
@@ -3443,7 +3443,7 @@
       "10644382875915": {
         "title": "Perplex Two-Way Zip Hoodie",
         "handle": "perplex-twoway-zip-hoodie-butter",
-        "in_stock": true
+        "in_stock": false
       },
       "8935510769931": {
         "title": "HAY Colour Crate Mini-Set of 2",
@@ -4280,7 +4280,7 @@
       "9472692846780": {
         "title": "Nike Air Force 1 Low 'Horse of a Different Color' - Campfire Orange/Sunset",
         "handle": "nike-air-force-1-low-horse-of-a-different-color-campfire-orange-sunset",
-        "in_stock": true
+        "in_stock": false
       },
       "9314520891580": {
         "title": "Adidas Adizero EVO SL EXO - Collegiate Navy/Core Black",
@@ -6261,6 +6261,21 @@
       }
     },
     "https://www.afew-store.com": {
+      "10607628910858": {
+        "title": "Nike Air Max Joga Bonito",
+        "handle": "nike-air-max-joga-bonito-black-neon-yellow-lt-graphite-anthracite",
+        "in_stock": false
+      },
+      "10607616360714": {
+        "title": "adidas Originals WMNS SAMBA OG",
+        "handle": "adidas-originals-wmns-samba-og-crewht-magbei-cardbo",
+        "in_stock": true
+      },
+      "10607532835082": {
+        "title": "Nike Book 2 Premium 'Eggplant Foamposite'",
+        "handle": "nike-book-2-premium-varsity-purple-black-varsity-purple",
+        "in_stock": false
+      },
       "10607040364810": {
         "title": "Salomon XT-EVO",
         "handle": "salomon-xt-evo-alloy-castlerock-ftwsilver",
@@ -6389,7 +6404,7 @@
       "10606307344650": {
         "title": "Nike Giannis Freak 8",
         "handle": "nike-giannis-freak-8-black-volt-lt-smoke-grey",
-        "in_stock": false
+        "in_stock": true
       },
       "10605676986634": {
         "title": "Salomon XT-EVO",
@@ -7495,25 +7510,20 @@
         "title": "Nike x Nocta T-Shirt",
         "handle": "nike-x-nocta-t-shirt-work-blue-polar",
         "in_stock": true
-      },
-      "10592818692362": {
-        "title": "Oakley URBANSLOPE SHIRT JACKET",
-        "handle": "oakley-urbanslope-shirt-jacket-blackout",
-        "in_stock": true
-      },
-      "10592816005386": {
-        "title": "Oakley EDGE FORCE QTR ZIP SWEATSHIRT",
-        "handle": "oakley-edge-force-qtr-zip-sweatshirt-pitch-black",
-        "in_stock": true
-      },
-      "10592813941002": {
-        "title": "Oakley METAL RISE TEE",
-        "handle": "oakley-metal-rise-tee-cement",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127712587981": {
+        "title": "Sling Bag Deep Blue",
+        "handle": "our-legacy-accessories-sling-bag-blue-j355600",
+        "in_stock": true
+      },
+      "9128127004877": {
+        "title": "Men's Performance Volt-T Espresso",
+        "handle": "on-clothing-performance-volt-t-brown-j363102",
+        "in_stock": true
+      },
       "9128023294157": {
         "title": "Women's FKA twigs Club Collective Full Zip Hoodie Espresso",
         "handle": "on-clothing-wmns-club-collective-full-zip-hoodie-fka-brown-j363126",
@@ -7662,7 +7672,7 @@
       "9128015397069": {
         "title": "Layered V-Neck Sweater Mustard / Violet",
         "handle": "mm6-maison-margiela-clothing-wmns-pullover-multicolor-j363174",
-        "in_stock": true
+        "in_stock": false
       },
       "9128012939469": {
         "title": "Men's Aerial Jacket Pigment Khaki",
@@ -7797,7 +7807,7 @@
       "9127923155149": {
         "title": "Key Chain Bracelet Silver",
         "handle": "mm6-maison-margiela-accessories-key-male-bracelet-grey-j363184",
-        "in_stock": true
+        "in_stock": false
       },
       "9127923122381": {
         "title": "Buckle Motif Clip Silver",
@@ -7842,7 +7852,7 @@
       "9127922630861": {
         "title": "Hybrid Camo Medium Boston Bag Multicolor",
         "handle": "a-bathing-ape-accessories-hybrid-camo-medium-boston-bag-multicolor-j364381",
-        "in_stock": true
+        "in_stock": false
       },
       "9127922467021": {
         "title": "Skye Tote Bag Small Cypress",
@@ -8092,7 +8102,7 @@
       "9127712555213": {
         "title": "Librarian Sunglasses Xypher Steel",
         "handle": "our-legacy-accessories-librarian-multicolor-j355598",
-        "in_stock": true
+        "in_stock": false
       },
       "9127712489677": {
         "title": "Drain Sunglasses Fools Gold",
@@ -8459,11 +8469,6 @@
         "handle": "nike-clothing-m-nk-tch-df-wvn-wr-fz-jkt-aop-multicolor-j368499",
         "in_stock": true
       },
-      "8990078042317": {
-        "title": "Men's Static Shorts Shungite Black",
-        "handle": "_j-l-a-l_-clothing-static-short-black-j304302",
-        "in_stock": false
-      },
       "9119469273293": {
         "title": "Women's Rift 2 Sandals Black / Tm Dark Green",
         "handle": "nike-footwear-wmns-nike-rift-2-black-j364932",
@@ -8758,26 +8763,29 @@
         "title": "Men's MD Temporal Distortion Mesh Shortsleeve Top Navy",
         "handle": "cav-empt-clothing-md-temporal-distortion-mesh-ss-top-navy-blue-j360738",
         "in_stock": true
-      },
-      "9127558316237": {
-        "title": "Men's MD Crossed Wires Big T-Shirt White",
-        "handle": "cav-empt-clothing-md-crossed-wires-big-t-white-j360753",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Devil Loose Tee - Off White\nhttps://sneakerpolitics.com/products/palm-angels-devil-loose-tee-off-white",
-      "detected_at": "2026-09-02T05:06:36.426480+00:00"
+      "message": "🔥 **Restock** at Asphaltgold: New Balance 800\nhttps://www.asphaltgold.de/products/new-balance-ff800-dark-olivine-garter-snake",
+      "detected_at": "2026-09-02T09:39:02.303879+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's MD Temporal Distortion Mesh Shortsleeve Top Navy\nhttps://www.slamjam.com/products/cav-empt-clothing-md-temporal-distortion-mesh-ss-top-navy-blue-j360738",
-      "detected_at": "2026-09-02T05:06:36.426480+00:00"
+      "message": "🆕 **New drop** at Afew Store: adidas Originals WMNS SAMBA OG\nhttps://www.afew-store.com/products/adidas-originals-wmns-samba-og-crewht-magbei-cardbo",
+      "detected_at": "2026-09-02T09:39:02.303879+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's MD Crossed Wires Big T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-md-crossed-wires-big-t-white-j360753",
-      "detected_at": "2026-09-02T05:06:36.426480+00:00"
+      "message": "🔥 **Restock** at Afew Store: Nike Giannis Freak 8\nhttps://www.afew-store.com/products/nike-giannis-freak-8-black-volt-lt-smoke-grey",
+      "detected_at": "2026-09-02T09:39:02.303879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Sling Bag Deep Blue\nhttps://www.slamjam.com/products/our-legacy-accessories-sling-bag-blue-j355600",
+      "detected_at": "2026-09-02T09:39:02.303879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Performance Volt-T Espresso\nhttps://www.slamjam.com/products/on-clothing-performance-volt-t-brown-j363102",
+      "detected_at": "2026-09-02T09:39:02.303879+00:00"
     }
   ]
 }
