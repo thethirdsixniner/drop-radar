@@ -4355,7 +4355,7 @@
       "9249552007356": {
         "title": "Market 3D Have A Nice Day Tee - White",
         "handle": "market-3d-have-a-nice-day-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9405351198908": {
         "title": "Hoka Mafate 2 OG - Hoka Citrus/Black",
@@ -4882,11 +4882,6 @@
         "handle": "rhude-the-desert-decides-hoodie-heather-grey-red",
         "in_stock": true
       },
-      "8815868936380": {
-        "title": "Jungles Moto Jersey - Multi",
-        "handle": "jungles-moto-jersey-multi",
-        "in_stock": false
-      },
       "9337978945724": {
         "title": "Supervsn Studio Yung Viz Tee - White",
         "handle": "supervsn-studio-3rd-eye-kid-ss-tee-white",
@@ -5005,6 +5000,11 @@
       "9307686142140": {
         "title": "Palm Angels Vintage Box Logo Loose Tee - Black",
         "handle": "palm-angels-vintage-box-logo-loose-tee-black",
+        "in_stock": true
+      },
+      "9307685978300": {
+        "title": "Palm Angels Devil Loose Tee - Off White",
+        "handle": "palm-angels-devil-loose-tee-off-white",
         "in_stock": true
       }
     },
@@ -8484,11 +8484,6 @@
         "handle": "oakley-accessories-tailend-ti-grey-j356884",
         "in_stock": true
       },
-      "9109112291533": {
-        "title": "MUZM Scar Sunglasses Polished Black / Prizm Black",
-        "handle": "oakley-accessories-muzm-scar-black-j356740",
-        "in_stock": false
-      },
       "9107035226317": {
         "title": "Men's College Pullover Hoodie Black",
         "handle": "a-bathing-ape-clothing-college-pullover-hoodie-black-j349412",
@@ -8593,11 +8588,6 @@
         "title": "Men's Metal Guid Polo Shirt Black",
         "handle": "hysteric-glamour-clothing-metal-guid-polo-shirt-black-j353933",
         "in_stock": true
-      },
-      "9109745631437": {
-        "title": "Men's MothTech T-Shirt Aged Black",
-        "handle": "satisfy-clothing-mothtech-t-shirt-black-j355986",
-        "in_stock": false
       },
       "9107453706445": {
         "title": "Men's Shark Full Zip Hoodie Black",
@@ -8763,109 +8753,31 @@
         "title": "Brain Dead Trailbreak 2 Sandals Multicolor",
         "handle": "crocs-footwear-braindead-x-trailbreak-multicolor-j368316",
         "in_stock": false
+      },
+      "9127558349005": {
+        "title": "Men's MD Temporal Distortion Mesh Shortsleeve Top Navy",
+        "handle": "cav-empt-clothing-md-temporal-distortion-mesh-ss-top-navy-blue-j360738",
+        "in_stock": true
+      },
+      "9127558316237": {
+        "title": "Men's MD Crossed Wires Big T-Shirt White",
+        "handle": "cav-empt-clothing-md-crossed-wires-big-t-white-j360753",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Karhu Fusion 2.0\nhttps://www.asphaltgold.de/products/karhu-fusion-20-lily-white-mole",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Devil Loose Tee - Off White\nhttps://sneakerpolitics.com/products/palm-angels-devil-loose-tee-off-white",
+      "detected_at": "2026-09-02T05:06:36.426480+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-pepper",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's MD Temporal Distortion Mesh Shortsleeve Top Navy\nhttps://www.slamjam.com/products/cav-empt-clothing-md-temporal-distortion-mesh-ss-top-navy-blue-j360738",
+      "detected_at": "2026-09-02T05:06:36.426480+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Montreal RM\nhttps://www.asphaltgold.de/products/adidas-montreal-rm-collegiate-green-footwear-white-core-black",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist Platform W\nhttps://www.asphaltgold.de/products/autry-medalist-platform-w-white-leopard",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba JP\nhttps://www.asphaltgold.de/products/adidas-samba-jp-off-white-magic-beige-core-black",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-4 OG\nhttps://www.asphaltgold.de/products/salomon-xt4-og-sharkskin-dawn-blue-metal",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas BW Army\nhttps://www.asphaltgold.de/products/adidas-bw-army-core-black-charcoal-solid-grey-gum-5",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 204L\nhttps://www.asphaltgold.de/products/new-balance-204l-black-magnet",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tSolo Swoosh Fleece Pullover Hoodie\nhttps://www.asphaltgold.de/products/nikesolo-swoosh-fleece-pullover-hoodie-black-spruce-white",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Levi's 578 Baggy\nhttps://www.asphaltgold.de/products/levis-578-baggy-cut-ties",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Reelwind Low W *Suede / Net*\nhttps://www.asphaltgold.de/products/autry-reelwind-low-w-suede-net-ecru-lemon-meringue",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Medalist *Solid Goat*\nhttps://www.asphaltgold.de/products/autry-medalist-solid-goat-white",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Firebird Track Top\nhttps://www.asphaltgold.de/products/adidas-firebird-track-top-charcoal-cream-white",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Washed Cap\nhttps://www.asphaltgold.de/products/nike-club-washed-cap-light-khaki-court-blue-court-blue",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Long Sleeve Jersey\nhttps://www.asphaltgold.de/products/adidas-long-sleeve-jersey-white",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Classics Firebird Track Pants\nhttps://www.asphaltgold.de/products/adidas-classics-firebird-track-pants-night-indigo",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP Audio Archives WIP L/S T-Shirt\nhttps://www.asphaltgold.de/products/carhartt-wip-audio-archives-wip-ls-tshirt-audio-archives-orange",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Levi's 537 Western Bootcut Jeans\nhttps://www.asphaltgold.de/products/levis-537-western-bootcut-jeans-back-inthe-saddle",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tACG *Wolf Tree* Crewneck\nhttps://www.asphaltgold.de/products/nikeacg-wolf-tree-crewneck-persian-violet-hyper-pink-summit-white",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: 47 MLB New York Yankees Weathered *Clean Up* Cap\nhttps://www.asphaltgold.de/products/47-mlb-new-york-yankees-weathered-clean-up-cap-mojave",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tClub Unstructured Cap\nhttps://www.asphaltgold.de/products/nikeclub-unstructured-cap-black-sail",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Cafe Swoosh Illustration T-Shirt\nhttps://www.asphaltgold.de/products/nike-cafe-swoosh-illustration-tshirt-light-lemon-twist",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Two-Tone Baseball Cap With Embroidered Logo\nhttps://www.asphaltgold.de/products/autry-twotone-baseball-cap-with-embroidered-logo-drone-beige",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: 47 New York Yankees Washed Chain Stitch *Hitch* Cap\nhttps://www.asphaltgold.de/products/47-new-york-yankees-washed-chain-stitch-hitch-cap-navy",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Vintage Box Logo Loose Tee - Black\nhttps://sneakerpolitics.com/products/palm-angels-vintage-box-logo-loose-tee-black",
-      "detected_at": "2026-09-02T00:33:02.797146+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's MD Crossed Wires Big T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-md-crossed-wires-big-t-white-j360753",
+      "detected_at": "2026-09-02T05:06:36.426480+00:00"
     }
   ]
 }
