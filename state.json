@@ -3623,7 +3623,7 @@
       "10122220830987": {
         "title": "Adidas Gazelle Indoor",
         "handle": "adidas-gazelle-indoor-power-yellow-royal-blue-footwear-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10124240486667": {
         "title": "Adidas Gazelle Indoor Pro",
@@ -3965,7 +3965,7 @@
       "9303653089468": {
         "title": "Nike Vomero Premium - Volt Tint/Black Spruce",
         "handle": "nike-vomero-premium-volt-tint-black-spruce",
-        "in_stock": true
+        "in_stock": false
       },
       "9396990836924": {
         "title": "Fear Of God Essentials Classic Fleece Sweatpants - Vanilla Heather",
@@ -4495,7 +4495,7 @@
       "8467551518908": {
         "title": "Asics Gel-NYC 2055 - Pale Oak/Truffle Grey",
         "handle": "asics-gel-nyc-2055-pale-oak-truffle-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "9295877931196": {
         "title": "Nike Air Force 1 Low Retro - Obsidian/White",
@@ -4546,11 +4546,6 @@
         "title": "Women's Samba OG - Brown Desert/Warm Vanilla",
         "handle": "womens-samba-og-brown-desert-warm-vanilla",
         "in_stock": true
-      },
-      "9249552007356": {
-        "title": "Market 3D Have A Nice Day Tee - White",
-        "handle": "market-3d-have-a-nice-day-tee-white",
-        "in_stock": false
       },
       "9405351198908": {
         "title": "Hoka Mafate 2 OG - Hoka Citrus/Black",
@@ -5005,6 +5000,11 @@
       "8763215118524": {
         "title": "Ksubi Spare Ekcess Tee - Militant Green",
         "handle": "ksubi-spare-ekcess-tee-militant-green",
+        "in_stock": true
+      },
+      "9410245558460": {
+        "title": "Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow",
+        "handle": "air-jordan-4-retro-rare-air-white-tour-yellow",
         "in_stock": true
       }
     },
@@ -8768,156 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130m-black-pure-silver",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-black-tornado",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 1906L\nhttps://www.asphaltgold.de/products/new-balance-u1906lar-black-cement-blue-gemstone",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Quantum™ 360 I AMP\nhttps://www.asphaltgold.de/products/asics-gelquantum-360-i-amp-white-midnight",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 530\nhttps://www.asphaltgold.de/products/new-balance-mr530jsb-sea-salt",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 2002DX *Protection Pack GORE-Tex*\nhttps://www.asphaltgold.de/products/new-balance-2002dx-slate-grey-castlerock",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Dr. Martens Temara\nhttps://www.asphaltgold.de/products/dr-martens-temara-black",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-u740bd2-black-black-cement-castlerock-gold-metallic",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: AMI Paris Embossed Ami De Coeur Hoodie\nhttps://www.asphaltgold.de/products/ami-paris-embossed-ami-de-coeur-hoodie-anthracite",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asphaltgold Summer Essential Track Pants\nhttps://www.asphaltgold.de/products/asphaltgold-summer-essential-track-pants-blue-light",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-6 Expanse\nhttps://www.asphaltgold.de/products/salomon-xt6-expanse-castlerock-asphalt-black",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-u9060orb-slate-grey",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 992 *Made in USA*\nhttps://www.asphaltgold.de/products/new-balance-u992mc-made-in-usa-calcium-raw-cashew",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 204L\nhttps://www.asphaltgold.de/products/new-balance-u204lswa-silver-metallic-flat-taupe",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Waffle Racer\nhttps://www.asphaltgold.de/products/nike-waffle-racer-mignight-navy-safety-orange-sail",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 992 *Made in USA*\nhttps://www.asphaltgold.de/products/new-balance-u992gb-made-in-usa-white-marsh-green",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-6\nhttps://www.asphaltgold.de/products/salomon-xt-6-white-white-lunar-rock",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 204L\nhttps://www.asphaltgold.de/products/new-balance-204l-dark-silver-metallic-slate-grey",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Vomero Plus\nhttps://www.asphaltgold.de/products/nike-vomero-plus-multicolor-black-volt-white",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance T500\nhttps://www.asphaltgold.de/products/new-balance-t500gc-pearl-grey-linen-ice-wine-sea-salt",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Samba OG\nhttps://www.asphaltgold.de/products/adidas-samba-og-cloud-white-collegiate-green-gum",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike P-6000\nhttps://www.asphaltgold.de/products/nike-p6000-flat-pewter-white-light-iron-ore",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance BB480LWA\nhttps://www.asphaltgold.de/products/new-balance-bb480lwa-white-varsity-gold",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 1906L\nhttps://www.asphaltgold.de/products/new-balance-1906l-silver-metallic-nb-navy-pink-heat",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 530\nhttps://www.asphaltgold.de/products/new-balance-u530tbb-mineral-mineral",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance U1906LAE\nhttps://www.asphaltgold.de/products/new-balance-u1906lae-magnet",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-6\nhttps://www.asphaltgold.de/products/salomon-xt6-nine-iron-excalibur-plum-perfect",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 90/60\nhttps://www.asphaltgold.de/products/new-balance-9060-cortado",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 530\nhttps://www.asphaltgold.de/products/new-balance-mr530sg-white",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance T500\nhttps://www.asphaltgold.de/products/new-balance-t500da-sea-salt-infield-clay-rain-cloud",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance T500\nhttps://www.asphaltgold.de/products/new-balance-t500snb-bisque",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Reebok Club C 85 Vintage\nhttps://www.asphaltgold.de/products/reebok-club-c-85-vintage-footwear-white-chalk-vector-blue",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Med-Way Mid *Leather / Crack*\nhttps://www.asphaltgold.de/products/autry-medway-mid-leather-crack-mountain",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Carhartt WIP OG Active Jacket\nhttps://www.asphaltgold.de/products/carhartt-wip-og-active-jacket-cozy-blue",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: C.P. Company\tPro-Tek Hooded Lens Jacket\nhttps://www.asphaltgold.de/products/cp-companyprotek-hooded-lens-jacket-dove",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Drawstring Nylon Backpack\nhttps://www.asphaltgold.de/products/arte-antwerp-drawstring-nylon-backpack-black",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Nike\tSolo Swoosh Hoodie\nhttps://www.asphaltgold.de/products/nikesolo-swoosh-hoodie-tattoo-white",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Perplex Two-Way Zip Hoodie\nhttps://www.asphaltgold.de/products/perplex-twoway-zip-hoodie-black",
-      "detected_at": "2026-09-03T00:42:48.053809+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-rare-air-white-tour-yellow",
+      "detected_at": "2026-09-03T05:10:58.231946+00:00"
     }
   ]
 }
