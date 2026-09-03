@@ -2505,6 +2505,26 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11027855081739": {
+        "title": "Autry Malga Mid W",
+        "handle": "autry-malga-mid-w-castagna-black",
+        "in_stock": true
+      },
+      "11027851739403": {
+        "title": "Autry Malga Mid",
+        "handle": "autry-malga-mid-grunge-peat",
+        "in_stock": true
+      },
+      "11027851411723": {
+        "title": "Autry Malga Mid",
+        "handle": "autry-malga-mid-paulde-peat",
+        "in_stock": true
+      },
+      "11023445950731": {
+        "title": "Saucony x Stan Birch Pro Grid Guide 7",
+        "handle": "saucony-x-stan-birch-pro-grid-guide-7-cream-mint-purple",
+        "in_stock": false
+      },
       "10857953263883": {
         "title": "Asics GEL-1130",
         "handle": "asics-gel1130m-black-pure-silver",
@@ -2528,7 +2548,7 @@
       "8989169123595": {
         "title": "New Balance 530",
         "handle": "new-balance-mr530jsb-sea-salt",
-        "in_stock": true
+        "in_stock": false
       },
       "10839375872267": {
         "title": "New Balance 2002DX *Protection Pack GORE-Tex*",
@@ -2573,7 +2593,7 @@
       "10731736367371": {
         "title": "New Balance 204L",
         "handle": "new-balance-u204lswa-silver-metallic-flat-taupe",
-        "in_stock": true
+        "in_stock": false
       },
       "10845253239051": {
         "title": "Nike Waffle Racer",
@@ -2588,7 +2608,7 @@
       "7169211400356": {
         "title": "Salomon XT-6",
         "handle": "salomon-xt-6-white-white-lunar-rock",
-        "in_stock": true
+        "in_stock": false
       },
       "10867374096651": {
         "title": "New Balance 204L",
@@ -2683,7 +2703,7 @@
       "10878777852171": {
         "title": "C.P. Company\tPro-Tek Hooded Lens Jacket",
         "handle": "cp-companyprotek-hooded-lens-jacket-dove",
-        "in_stock": true
+        "in_stock": false
       },
       "10871046078731": {
         "title": "Arte Antwerp Drawstring Nylon Backpack",
@@ -3734,26 +3754,6 @@
         "title": "New Era Fluffy Mohair Beanie",
         "handle": "new-era-fluffy-mohair-beanie-gray",
         "in_stock": true
-      },
-      "11024678224139": {
-        "title": "New Era Fluffy Mohair Beanie",
-        "handle": "new-era-fluffy-mohair-beanie-pastel-pink",
-        "in_stock": true
-      },
-      "11024675504395": {
-        "title": "New Era New York Yankees Chunky Knit Beanie",
-        "handle": "new-era-new-york-yankees-chunky-knit-beanie-cigar-novmber-green",
-        "in_stock": true
-      },
-      "11024667836683": {
-        "title": "New Era Detroit Tigers Wide Cuff Beanie",
-        "handle": "new-era-detroit-tigers-wide-cuff-beanie-navy",
-        "in_stock": true
-      },
-      "11024432464139": {
-        "title": "On x FKA twigs Cloudmonster 3 Mule W",
-        "handle": "on-x-fka-twigs-cloudmonster-3-mule-w-loess-hare",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -4472,11 +4472,6 @@
         "handle": "air-jordan-7-retro-tennis-day-phantom-anthracite",
         "in_stock": true
       },
-      "9472692846780": {
-        "title": "Nike Air Force 1 Low 'Horse of a Different Color' - Campfire Orange/Sunset",
-        "handle": "nike-air-force-1-low-horse-of-a-different-color-campfire-orange-sunset",
-        "in_stock": false
-      },
       "9314520891580": {
         "title": "Adidas Adizero EVO SL EXO - Collegiate Navy/Core Black",
         "handle": "adidas-adizero-evo-sl-exo-collegiate-navy-core-black",
@@ -5005,6 +5000,11 @@
       "9410245558460": {
         "title": "Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow",
         "handle": "air-jordan-4-retro-rare-air-white-tour-yellow",
+        "in_stock": true
+      },
+      "9397435269308": {
+        "title": "Rhude Striped Moonlight Sock - Black/White",
+        "handle": "rhude-striped-moonlight-sock-black-white",
         "in_stock": true
       }
     },
@@ -6261,6 +6261,21 @@
       }
     },
     "https://www.afew-store.com": {
+      "10608309731594": {
+        "title": "Clarks Originals Wallabee Gore-Tex",
+        "handle": "clarks-originals-wallabee-gore-tex-dark-olive-sde",
+        "in_stock": true
+      },
+      "10608301080842": {
+        "title": "On Running Cloud 6",
+        "handle": "on-running-cloud-6-thyme-espresso",
+        "in_stock": true
+      },
+      "10608300556554": {
+        "title": "On Running Cloud 6 Waterproof",
+        "handle": "on-running-cloud-6-wp-espresso-black",
+        "in_stock": true
+      },
       "10608196616458": {
         "title": "Karhu Fulcrum Star",
         "handle": "karhu-fulcrum-star-jet-black-campanula",
@@ -6849,7 +6864,7 @@
       "10602780852490": {
         "title": "Nike ACG Zegama Trail GORE-TEX",
         "handle": "nike-acg-zegama-trail-gore-tex-linen-black-lt-crimson-lt-orewood-brn",
-        "in_stock": false
+        "in_stock": true
       },
       "10602780754186": {
         "title": "Dr. Martens ALP Lace Up Boot",
@@ -6874,7 +6889,7 @@
       "10602758177034": {
         "title": "Nike ACG Zegama Trail GORE-TEX",
         "handle": "nike-acg-zegama-trail-gore-tex-black-anthracite",
-        "in_stock": false
+        "in_stock": true
       },
       "10602594042122": {
         "title": "Nike x FC Barcelona Kobe III Low Protro",
@@ -7495,25 +7510,15 @@
         "title": "adidas Originals BARRICADE V",
         "handle": "adidas-originals-barricade-v-msilve-silvmt-cblack",
         "in_stock": true
-      },
-      "10596259168522": {
-        "title": "adidas Originals WMNS ADIZERO ADIOS OG",
-        "handle": "adidas-originals-wmns-adizero-adios-og-alumin-cofmet-maroon",
-        "in_stock": true
-      },
-      "10595527885066": {
-        "title": "New Balance 880R",
-        "handle": "new-balance-880r-sea-salt-gr",
-        "in_stock": true
-      },
-      "10595525689610": {
-        "title": "Clarks Originals Wallabee",
-        "handle": "clarks-originals-wallabee-brown-cow-print1",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9127712424141": {
+        "title": "Consultant Boots Deep Black",
+        "handle": "our-legacy-footwear-consultant-boot-black-j355588",
+        "in_stock": true
+      },
       "9104743071949": {
         "title": "Andie Base Layer Gloves Anthracite / Blue",
         "handle": "roa-accessories-andie-base-layer-gloves-black-j325129",
@@ -8619,11 +8624,6 @@
         "handle": "a-bathing-ape-footwear-bape-sta-6-1-m2-brown-j349390",
         "in_stock": true
       },
-      "9115047952589": {
-        "title": "Wave Oval T-Shirt Black",
-        "handle": "stussy-clothing-wave-oval-tee-black-j356121",
-        "in_stock": false
-      },
       "9106787664077": {
         "title": "Surf Size Pigment Dyed T-Shirt Faded Black",
         "handle": "stussy-clothing-surf-size-pig-dyed-tee-black-j356118",
@@ -8768,8 +8768,44 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 4 Retro 'Rare Air' - White/Tour Yellow\nhttps://sneakerpolitics.com/products/air-jordan-4-retro-rare-air-white-tour-yellow",
-      "detected_at": "2026-09-03T05:10:58.231946+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Autry Malga Mid W\nhttps://www.asphaltgold.de/products/autry-malga-mid-w-castagna-black",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Malga Mid\nhttps://www.asphaltgold.de/products/autry-malga-mid-grunge-peat",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Malga Mid\nhttps://www.asphaltgold.de/products/autry-malga-mid-paulde-peat",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Rhude Striped Moonlight Sock - Black/White\nhttps://sneakerpolitics.com/products/rhude-striped-moonlight-sock-black-white",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Clarks Originals Wallabee Gore-Tex\nhttps://www.afew-store.com/products/clarks-originals-wallabee-gore-tex-dark-olive-sde",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: On Running Cloud 6\nhttps://www.afew-store.com/products/on-running-cloud-6-thyme-espresso",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: On Running Cloud 6 Waterproof\nhttps://www.afew-store.com/products/on-running-cloud-6-wp-espresso-black",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike ACG Zegama Trail GORE-TEX\nhttps://www.afew-store.com/products/nike-acg-zegama-trail-gore-tex-linen-black-lt-crimson-lt-orewood-brn",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike ACG Zegama Trail GORE-TEX\nhttps://www.afew-store.com/products/nike-acg-zegama-trail-gore-tex-black-anthracite",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Consultant Boots Deep Black\nhttps://www.slamjam.com/products/our-legacy-footwear-consultant-boot-black-j355588",
+      "detected_at": "2026-09-03T09:53:20.775879+00:00"
     }
   ]
 }
