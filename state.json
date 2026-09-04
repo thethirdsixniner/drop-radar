@@ -1,6 +1,386 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286737662080": {
+        "title": "Kith Kids Micro Plaid Pleated Skirt - Chest",
+        "handle": "khk060655-5010",
+        "in_stock": true
+      },
+      "8286737596544": {
+        "title": "Kith Kids Patchwork Textured Denim Gi Shirt - Indigo",
+        "handle": "khk010324-403",
+        "in_stock": true
+      },
+      "8286737563776": {
+        "title": "Kith Kids Patchwork Plaid Overall Dress - Chest",
+        "handle": "khk080109-5010",
+        "in_stock": true
+      },
+      "8286737465472": {
+        "title": "Kith Kids Logo Blocked Hunter Quarter Zip - Nocturnal",
+        "handle": "khk031394-413",
+        "in_stock": true
+      },
+      "8286737399936": {
+        "title": "Kith Kids Varsity Letter Nelson Sweatpant - Stadium",
+        "handle": "khk060659-302",
+        "in_stock": true
+      },
+      "8286737268864": {
+        "title": "Kith Kids for Matthew Langille Nelson Sweatpant - Sandrift",
+        "handle": "khk060660-104",
+        "in_stock": true
+      },
+      "8286737236096": {
+        "title": "Kith Kids Logo Blocked Nelson Sweatpant - Nocturnal",
+        "handle": "khk060662-413",
+        "in_stock": true
+      },
+      "8286737203328": {
+        "title": "Kith Kids Athletic Nelson Short - Medium Heather Grey",
+        "handle": "khk060656-154",
+        "in_stock": true
+      },
+      "8286737170560": {
+        "title": "Kith Kids Logo Blocked Nelson Sweatpant - Black",
+        "handle": "khk060662-001",
+        "in_stock": true
+      },
+      "8286737072256": {
+        "title": "Kith Kids Blurred Stripe Soccer Jersey - Cyanotype",
+        "handle": "khk031372-424",
+        "in_stock": true
+      },
+      "8286737006720": {
+        "title": "Kith Kids Micro Plaid Snap Harrison Hoodie - Chest",
+        "handle": "khk031383-5010",
+        "in_stock": true
+      },
+      "8286736973952": {
+        "title": "Kith Kids for Matthew Langille Printed Rye Pant - Durum",
+        "handle": "khk060649-957",
+        "in_stock": true
+      },
+      "8286736941184": {
+        "title": "Kith Kids Moto Mesh Long Sleeve Donovan Tee - Black",
+        "handle": "khk031376-001",
+        "in_stock": true
+      },
+      "8286736810112": {
+        "title": "Kith Kids New York Scenic Shacket - Roman Wash",
+        "handle": "khk010325-5100",
+        "in_stock": true
+      },
+      "8286736777344": {
+        "title": "Kith Kids Micro Plaid Cole Short - Chest",
+        "handle": "khk060654-5010",
+        "in_stock": true
+      },
+      "8286736744576": {
+        "title": "Kith Kids Textured Malik Jersey - Battleship",
+        "handle": "khk031375-501",
+        "in_stock": true
+      },
+      "8286736711808": {
+        "title": "Kith Kids Novelty Dawson Pant - Black",
+        "handle": "khk060657-001",
+        "in_stock": true
+      },
+      "8286736613504": {
+        "title": "Kith Kids for Matthew Langille Nelson Hoodie - Sandrift",
+        "handle": "khk031392-104",
+        "in_stock": true
+      },
+      "8286736515200": {
+        "title": "Kith Kids Patchwork Plaid Apollo Shirt - Chest",
+        "handle": "khk031384-5010",
+        "in_stock": true
+      },
+      "8286736449664": {
+        "title": "Kith Kids Varsity Letter Collared Nelson Dress - Stadium",
+        "handle": "khk080110-302",
+        "in_stock": true
+      },
+      "8286736416896": {
+        "title": "Kith Kids Novelty Beckett Pullover - Black",
+        "handle": "khk031388-001",
+        "in_stock": true
+      },
+      "8286736318592": {
+        "title": "Kith Kids Textured Denim Zane Cargo Pant - Indigo",
+        "handle": "khk060652-403",
+        "in_stock": true
+      },
+      "8286736285824": {
+        "title": "Kith Kids Varsity Nelson Knit Crewneck - Cyanotype",
+        "handle": "khk031374-424",
+        "in_stock": true
+      },
+      "8286736253056": {
+        "title": "Kith Kids Collegiate Nelson Sweatpant - Light Heather Grey",
+        "handle": "khk060658-002",
+        "in_stock": true
+      },
+      "8286736121984": {
+        "title": "Kith Kids Lady Liberty Nelson Hoodie - Dark Indigo",
+        "handle": "khka030001-416",
+        "in_stock": true
+      },
+      "8286736089216": {
+        "title": "Kith Kids Logo Blocked Hunter Quarter Zip - Black",
+        "handle": "khk031394-001",
+        "in_stock": true
+      },
+      "8286736023680": {
+        "title": "Kith Kids Varsity Letter Collared Nelson Sweatshirt - Stadium",
+        "handle": "khk031391-302",
+        "in_stock": true
+      },
+      "8286735990912": {
+        "title": "Kith Kids Collegiate Nelson Crewneck - Light Heather Grey",
+        "handle": "khk031390-002",
+        "in_stock": true
+      },
+      "8286735958144": {
+        "title": "Kith Kids Textured V-Neck Collar Nelson Sweatshirt - Black",
+        "handle": "khk031389-001",
+        "in_stock": true
+      },
+      "8286735827072": {
+        "title": "Kith Kids Printed Leonard Tee - Virtue",
+        "handle": "khk031397-323",
+        "in_stock": true
+      },
+      "8286735794304": {
+        "title": "Kith Kids Sketched Classic Logo Tee - Nocturnal",
+        "handle": "khk031398-413",
+        "in_stock": true
+      },
+      "8286735630464": {
+        "title": "Kith Kids Moto Mesh Cropped Long Sleeve Mika Tee - White",
+        "handle": "khk031378-101",
+        "in_stock": true
+      },
+      "8286735564928": {
+        "title": "Kith Kids for Matthew Langille Puffer Vest - Polar",
+        "handle": "khk010328-5029",
+        "in_stock": true
+      },
+      "8286735499392": {
+        "title": "Kith Kids Cropped Varsity Jacket - Noir",
+        "handle": "khk010333-7059",
+        "in_stock": true
+      },
+      "8286735466624": {
+        "title": "Kith Kids Patchwork Plaid Ellis Jacket - Kindling",
+        "handle": "khk010326-211",
+        "in_stock": true
+      },
+      "8286735401088": {
+        "title": "Kith Kids Textured Chauncey Cargo Pant - Battleship",
+        "handle": "khk060650-501",
+        "in_stock": true
+      },
+      "8286735368320": {
+        "title": "Kith Kids Varsity Jacket - Stadium",
+        "handle": "khk010329-302",
+        "in_stock": true
+      },
+      "8286735335552": {
+        "title": "Kith Kids Champions Tee - Silk",
+        "handle": "khk031396-116",
+        "in_stock": true
+      },
+      "8286735171712": {
+        "title": "Kith Kids Leopard Serif Leonard Tee - Sandrift",
+        "handle": "khk031405-104",
+        "in_stock": true
+      },
+      "8286735138944": {
+        "title": "Kith Kids Sketched Classic Logo Mulberry II Tee - Iolite",
+        "handle": "khk031399-6022",
+        "in_stock": true
+      },
+      "8286735106176": {
+        "title": "Kith Kids Velour Paneled Linden Quarter Zip - Stadium",
+        "handle": "khk031395-302",
+        "in_stock": true
+      },
+      "8286735007872": {
+        "title": "Kith Kids Velour Paneled Short - Stadium",
+        "handle": "khk060663-302",
+        "in_stock": true
+      },
+      "8286734942336": {
+        "title": "Kith Kids Athletic Mesh Combo Hoodie - Medium Heather Grey",
+        "handle": "khk031387-154",
+        "in_stock": true
+      },
+      "8286734844032": {
+        "title": "Kith Kids for Matthew Langille Graphic Tee - White",
+        "handle": "khk031402-101",
+        "in_stock": true
+      },
+      "8286734778496": {
+        "title": "Kith Kids & '47 for the New York Yankees Snapback Cap - Storm Mid Wash",
+        "handle": "khka050071-428",
+        "in_stock": true
+      },
+      "8286734712960": {
+        "title": "Kith Kids 2-Pack Big Claw Clips - Multi",
+        "handle": "khla150110-906",
+        "in_stock": true
+      },
+      "8286734647424": {
+        "title": "Kith Kids for Matthew Langille Supplies Box Set - Multi",
+        "handle": "khla150111-906",
+        "in_stock": true
+      },
+      "8286734614656": {
+        "title": "Kith Kids Varsity Snapback Cap - Stadium",
+        "handle": "khka050070-302",
+        "in_stock": true
+      },
+      "8286734516352": {
+        "title": "Kith Kids Chunky Knit Rugby Shirt - Sandrift",
+        "handle": "khk031381-104",
+        "in_stock": true
+      },
+      "8286734483584": {
+        "title": "Kith Kids Chunky Knit Nelson Crewneck - Essence",
+        "handle": "khk031380-624",
+        "in_stock": true
+      },
+      "8286734450816": {
+        "title": "Kith Kids & '47 for the Los Angeles Dodgers Denim Snapback Cap - Indigo",
+        "handle": "khka050072-403",
+        "in_stock": true
+      },
+      "8286734352512": {
+        "title": "Kith Kids Leopard Alonzo Denim Jacket - Incognito",
+        "handle": "khk010331-244",
+        "in_stock": true
+      },
+      "8286734286976": {
+        "title": "Kith Kids Leopard Mulberry Tee - Incognito",
+        "handle": "khk031401-244",
+        "in_stock": true
+      },
+      "8286734221440": {
+        "title": "Kith Kids Leopard Bishop Tee - Incognito",
+        "handle": "khk031373-244",
+        "in_stock": true
+      },
+      "8286734155904": {
+        "title": "Kith Kids for Matthew Langille Backpack - Polar",
+        "handle": "khka040072-5029",
+        "in_stock": true
+      },
+      "8286734123136": {
+        "title": "Kith Kids Leopard Heston Wide Leg Jean - Incognito",
+        "handle": "khk060653-244",
+        "in_stock": true
+      },
+      "8286733992064": {
+        "title": "Kith Kids for Matthew Langille Denim Classic Cap - Polar",
+        "handle": "khka050073-5029",
+        "in_stock": true
+      },
+      "8286733959296": {
+        "title": "Kith Kids for Matthew Langille Soft Pencil Case - Polar",
+        "handle": "khka040073-5029",
+        "in_stock": true
+      },
+      "8286733893760": {
+        "title": "Kith Kids for Matthew Langille Tote Bag - Polar",
+        "handle": "khka040070-5029",
+        "in_stock": true
+      },
+      "8286733566080": {
+        "title": "Kith Baby for Matthew Langille Puffer Vest - Polar",
+        "handle": "khb010082-5029",
+        "in_stock": true
+      },
+      "8286733467776": {
+        "title": "Kith Baby Leopard Alonzo Denim Jacket - Incognito",
+        "handle": "khb010084-244",
+        "in_stock": true
+      },
+      "8286733435008": {
+        "title": "Kith Baby Leopard Heston Wide Leg Jean - Incognito",
+        "handle": "khb060227-244",
+        "in_stock": true
+      },
+      "8286733303936": {
+        "title": "Kith Baby Varsity Snapback Cap - Stadium",
+        "handle": "khba050070-302",
+        "in_stock": true
+      },
+      "8286733238400": {
+        "title": "Kith Baby Leopard Kith Serif Leonard Tee - Sandrift",
+        "handle": "khb030407-104",
+        "in_stock": true
+      },
+      "8286733205632": {
+        "title": "Kith Baby Varsity Nelson Knit Crewneck - Cyanotype",
+        "handle": "khb030403-424",
+        "in_stock": true
+      },
+      "8286733140096": {
+        "title": "Kith Baby Chunky Knit Rugby Shirt - Sandrift",
+        "handle": "khb030402-104",
+        "in_stock": true
+      },
+      "8286733041792": {
+        "title": "Kith Baby Textured Denim Chauncey Pant - Indigo",
+        "handle": "khb060226-403",
+        "in_stock": true
+      },
+      "8286733009024": {
+        "title": "Kith Baby Collegiate Nelson Sweatpant - Light Heather Grey",
+        "handle": "khb060228-002",
+        "in_stock": true
+      },
+      "8286732976256": {
+        "title": "Kith Baby for Matthew Langille Nelson Sweatpant - Sandrift",
+        "handle": "khb060229-104",
+        "in_stock": true
+      },
+      "8286732910720": {
+        "title": "Kith Baby for Matthew Langille Graphic Bodysuit - White",
+        "handle": "khbbo0036-101",
+        "in_stock": true
+      },
+      "8286732877952": {
+        "title": "Kith Baby for Matthew Langille Nelson Hoodie - Sandrift",
+        "handle": "khb030406-104",
+        "in_stock": true
+      },
+      "8286732845184": {
+        "title": "Kith Baby Varsity Jacket - Stadium",
+        "handle": "khb010081-302",
+        "in_stock": true
+      },
+      "8286732779648": {
+        "title": "Kith Baby Patchwork Plaid Overall Dress - Chest",
+        "handle": "khb080040-5010",
+        "in_stock": true
+      },
+      "8286732681344": {
+        "title": "Kith Baby Collegiate Snap Hunter Crewneck - Light Heather Grey",
+        "handle": "khb030405-002",
+        "in_stock": true
+      },
+      "8286732648576": {
+        "title": "Kith Baby Varsity Letter Nelson Coverall - Stadium",
+        "handle": "khb110099-302",
+        "in_stock": true
+      },
+      "8286732583040": {
+        "title": "Kith Baby Patchwork Plaid Apollo Shirt - Chest",
+        "handle": "khb030404-5010",
+        "in_stock": true
+      },
       "8286749458560": {
         "title": "Saucony ProGrid Omni 9 - Blue Glow",
         "handle": "sas101275-1005",
@@ -870,402 +1250,17 @@
         "title": "Jordan x Free The Youth Short - Black / Crimson",
         "handle": "joriq6232-010",
         "in_stock": true
-      },
-      "8286726258816": {
-        "title": "Jordan x Free The Youth Football Scarf - Multi",
-        "handle": "joriq6260-100",
-        "in_stock": true
-      },
-      "8286731501696": {
-        "title": "Jil Sander Denim Blouson - Ink Blue",
-        "handle": "jilj22sw0105-420",
-        "in_stock": true
-      },
-      "8286729994368": {
-        "title": "Heaven Mayhem Whimsey Ring - Gold",
-        "handle": "hmam-024120-01n",
-        "in_stock": true
-      },
-      "8286730223744": {
-        "title": "Heaven Mayhem Vivi Ring - Gold / White",
-        "handle": "hmam-024118-01n",
-        "in_stock": true
-      },
-      "8286730092672": {
-        "title": "Heaven Mayhem Stella Choker - Silver",
-        "handle": "hmam-23104-02n",
-        "in_stock": true
-      },
-      "8286730158208": {
-        "title": "Heaven Mayhem Stella Choker - Gold",
-        "handle": "hmam-23104-01n",
-        "in_stock": true
-      },
-      "8286730125440": {
-        "title": "Heaven Mayhem Baby Julia Charm - Silver",
-        "handle": "hmam-02129-02n",
-        "in_stock": true
-      },
-      "8286730289280": {
-        "title": "Heaven Mayhem Baby Julia Charm - Gold",
-        "handle": "hmam-02129-01n",
-        "in_stock": true
-      },
-      "8286730256512": {
-        "title": "Heaven Mayhem Baby Julia Charm - Black",
-        "handle": "hmam-02129-04n",
-        "in_stock": true
-      },
-      "8286731468928": {
-        "title": "Gucci GG2074S Geometric Sunglasses - Ruthenium / Havana / Blue",
-        "handle": "gg2074s-002",
-        "in_stock": true
-      },
-      "8286738120832": {
-        "title": "GOOD ART HLYWD Poplock Necklace 2A Goosebumps - Sterling Silver",
-        "handle": "ch-2-ss-sop-gb-a",
-        "in_stock": true
-      },
-      "8286738153600": {
-        "title": "GOOD ART HLYWD Poplock A Bracelet Rosette - Sterling Silver",
-        "handle": "br-2-ss-sop-rs-a",
-        "in_stock": true
-      },
-      "8286738088064": {
-        "title": "GOOD ART HLYWD Poplock Bracelet 2A Goosebumps - Sterling Silver",
-        "handle": "br-2-ss-sop-gb-a",
-        "in_stock": true
-      },
-      "8286738219136": {
-        "title": "GOOD ART HLYWD Pequeño A Mano Bracelet - Sterling Silver",
-        "handle": "1310-peq-1ga",
-        "in_stock": true
-      },
-      "8286738186368": {
-        "title": "GOOD ART HLYWD Model 28 A Ring Medium - Sterling Silver",
-        "handle": "2110-mte-3",
-        "in_stock": true
-      },
-      "8286738251904": {
-        "title": "GOOD ART HLYWD Model 25 A Ring - Sterling Silver",
-        "handle": "2110-mtf-1",
-        "in_stock": true
-      },
-      "8286738284672": {
-        "title": "GOOD ART HLYWD Model 25 2A Ring Small - Sterling Silver",
-        "handle": "2110-mtf-2",
-        "in_stock": true
-      },
-      "8286738317440": {
-        "title": "GOOD ART HLYWD Model 18 A Ring Medium - Sterling Silver",
-        "handle": "2110-met-3",
-        "in_stock": true
-      },
-      "8286730846336": {
-        "title": "Flatlist Theo Sunglasses - Solid Black / Light Grey",
-        "handle": "fla01-074-018-01",
-        "in_stock": true
-      },
-      "8286730911872": {
-        "title": "Flatlist Theo Sunglasses - Crystal Warm Grey / Light Brown Gradient",
-        "handle": "fla01-074-169-01",
-        "in_stock": true
-      },
-      "8286731141248": {
-        "title": "Flatlist Theo Sunglasses - Crystal Olive / Smoked Olive",
-        "handle": "fla01-074-566-01",
-        "in_stock": true
-      },
-      "8286731108480": {
-        "title": "Flatlist Olympia Sunglasses - Crystal Warm Grey / Light Grey",
-        "handle": "fla01-027-168-01",
-        "in_stock": true
-      },
-      "8286731272320": {
-        "title": "Flatlist Olympia Sunglasses - Crystal Pink / Dust Pink",
-        "handle": "fla01-027-655-01",
-        "in_stock": true
-      },
-      "8286731206784": {
-        "title": "Flatlist Olympia Sunglasses - Crystal Olive / Smoked Olive",
-        "handle": "fla01-027-566-01",
-        "in_stock": true
-      },
-      "8286731042944": {
-        "title": "Flatlist Milo Sunglasses - Brushed Silver Crystal Blue Grey / Light Grey",
-        "handle": "fla01-073-m01-01",
-        "in_stock": true
-      },
-      "8286730813568": {
-        "title": "Flatlist Milo Sunglasses - Brushed Matte Black Solid Black / Smoke Gradient",
-        "handle": "fla01-073-m10-01",
-        "in_stock": true
-      },
-      "8286730879104": {
-        "title": "Flatlist Milo Sunglasses - Brushed Gold Dark Tortoise / Yellow",
-        "handle": "fla01-073-m22-01",
-        "in_stock": true
-      },
-      "8286731305088": {
-        "title": "Flatlist Hanky Sunglasses - Solid Black / Light Blue Gradient",
-        "handle": "fla01-005-019-01",
-        "in_stock": true
-      },
-      "8286731239552": {
-        "title": "Flatlist Hanky Sunglasses - Crystal Pink / Dust Pink",
-        "handle": "fla01-005-655-01",
-        "in_stock": true
-      },
-      "8286731337856": {
-        "title": "Flatlist Hanky Sunglasses - Crystal Olive / Light Grey",
-        "handle": "fla01-005-565-01",
-        "in_stock": true
-      },
-      "8286731403392": {
-        "title": "Flatlist Hanky Sunglasses - Crystal Blue Grey / Brown",
-        "handle": "fla01-005-604-01",
-        "in_stock": true
-      },
-      "8286731075712": {
-        "title": "Flatlist Hanky Sunglasses - Clear Crystal Olive Horn / Peach",
-        "handle": "fla01-005-126-01",
-        "in_stock": true
-      },
-      "8286731010176": {
-        "title": "Flatlist Frankie Sunglasses - Solid Black / Light Grey",
-        "handle": "fla01-011-018-01",
-        "in_stock": true
-      },
-      "8286730977408": {
-        "title": "Flatlist Frankie Sunglasses - Clear Crystal Olive Horn / Peach",
-        "handle": "fla01-011-126-01",
-        "in_stock": true
-      },
-      "8286730944640": {
-        "title": "Flatlist Frankie Sunglasses - Classic Havana / Smoked Olive",
-        "handle": "fla01-011-705-01",
-        "in_stock": true
-      },
-      "8286731174016": {
-        "title": "Flatlist Clint Sunglasses - Mahogany Horn / Peach",
-        "handle": "fla01-041-707-01",
-        "in_stock": true
-      },
-      "8286738022528": {
-        "title": "Entire Studios Slim Zip Up Hoodie - Sunstone",
-        "handle": "esfw26ho03012-sun",
-        "in_stock": true
-      },
-      "8286737858688": {
-        "title": "Entire Studios Slim Zip Up Hoodie - Salted Navy",
-        "handle": "esfw26ho03012-nav",
-        "in_stock": true
-      },
-      "8286737924224": {
-        "title": "Entire Studios Slim Zip Up Hoodie - Plum",
-        "handle": "esfw26ho03012-plu",
-        "in_stock": true
-      },
-      "8286737825920": {
-        "title": "Entire Studios Full Sweatpant - Salted Navy",
-        "handle": "esfw26pa03012-nav",
-        "in_stock": true
-      },
-      "8286737793152": {
-        "title": "Entire Studios Shell Fleece Sweater - Cream",
-        "handle": "esfw26st01016-cre",
-        "in_stock": true
-      },
-      "8286738055296": {
-        "title": "Entire Studios Drape Top - Stone",
-        "handle": "esfw26ta01635-sto",
-        "in_stock": true
-      },
-      "8286737891456": {
-        "title": "Entire Studios Drape Top - Black",
-        "handle": "esfw26ta01635-bla",
-        "in_stock": true
-      },
-      "8286737956992": {
-        "title": "Entire Studios Drape Skirt - Black",
-        "handle": "esfw26lk01635-bla",
-        "in_stock": true
-      },
-      "8286737989760": {
-        "title": "Entire Studios Drape Dress - Stone",
-        "handle": "esfw26dr01635-sto",
-        "in_stock": true
-      },
-      "8286738448512": {
-        "title": "Elisa Johnson Remy Sunglasses - Gold",
-        "handle": "ej-rm-101-m",
-        "in_stock": true
-      },
-      "8286738350208": {
-        "title": "Edie Parker Burn Shoulder Bag - Pink Python / Silver",
-        "handle": "ep-burn-shdr-pnk",
-        "in_stock": true
-      },
-      "8286738415744": {
-        "title": "Edie Parker Burn Shoulder Bag - Green Python / Gold",
-        "handle": "ep-burn-shdr-pygd",
-        "in_stock": true
-      },
-      "8286738481280": {
-        "title": "Edie Parker Burn Clutch with Chain Strap - Yellow Python / Silver",
-        "handle": "ep-burn-clut-ylw",
-        "in_stock": true
-      },
-      "8286738382976": {
-        "title": "Edie Parker Burn Clutch with Chain Strap - Silver Crinkle / Silver",
-        "handle": "ep-burn-clut-slvr",
-        "in_stock": true
-      },
-      "8286731665536": {
-        "title": "EB Denim Rory Layered Long Sleeve Tee - Black / White",
-        "handle": "ebw2608rylsv",
-        "in_stock": true
-      },
-      "8286727635072": {
-        "title": "EB Denim Juniper Cropped Cardigan - Yellow Moss",
-        "handle": "ebw0406jnpcc-moss",
-        "in_stock": true
-      },
-      "8286727012480": {
-        "title": "DMY Studios Tove Sunglasses - Grey",
-        "handle": "dmysun22dgl",
-        "in_stock": true
-      },
-      "8286726946944": {
-        "title": "DMY Studios Tove Sunglasses - Brown",
-        "handle": "dmysun22bl",
-        "in_stock": true
-      },
-      "8286726652032": {
-        "title": "DMY Studios Romi Transparent Sunglasses - Olive",
-        "handle": "dmysun11to",
-        "in_stock": true
-      },
-      "8286726848640": {
-        "title": "DMY Studios Ines Sunglasses - Milky Grey",
-        "handle": "dmysun23mg",
-        "in_stock": true
-      },
-      "8286726914176": {
-        "title": "DMY Studios Ines Sunglasses - Black",
-        "handle": "dmysun23sb",
-        "in_stock": true
-      },
-      "8286726717568": {
-        "title": "DMY Studios Camille Sunglasses - Mottled Brown",
-        "handle": "dmysun24mbr",
-        "in_stock": true
-      },
-      "8286726881408": {
-        "title": "DMY Studios Camille Sunglasses - Black",
-        "handle": "dmysun24sb2",
-        "in_stock": true
-      },
-      "8286726619264": {
-        "title": "DMY Studios Bibi Transparent Sunglasses - Brown",
-        "handle": "dmysun12tbr",
-        "in_stock": true
-      },
-      "8286738710656": {
-        "title": "Diesel W-Idney Jacket - Off White",
-        "handle": "dia221620efab",
-        "in_stock": true
-      },
-      "8286738645120": {
-        "title": "Diesel Rib Knit and Plush Trims Bomber Jacket - Beige",
-        "handle": "dia221330cjch",
-        "in_stock": true
-      },
-      "8286738612352": {
-        "title": "Diesel Regular Waist 1978 D-Akemi Flare Jean - Beige",
-        "handle": "dia2346209p53",
-        "in_stock": true
-      },
-      "8286738677888": {
-        "title": "Diesel Ice Blue Satin Denim Cropped Jacket - Blue",
-        "handle": "dia23295007ef",
-        "in_stock": true
-      },
-      "8286738579584": {
-        "title": "Diesel Double Breasted Aviator Biker Coat - Brown",
-        "handle": "dia221540webj",
-        "in_stock": true
-      },
-      "8286739431552": {
-        "title": "Anderson's Leather Belt - Brown",
-        "handle": "a3747af3252pl132-m1",
-        "in_stock": true
-      },
-      "8286739366016": {
-        "title": "Anderson's Leather Belt - Black",
-        "handle": "a3747af3252pl132-n1",
-        "in_stock": true
-      },
-      "8286739398784": {
-        "title": "Anderson's Calf Leather 25mm Engraved Western Belt - Brown",
-        "handle": "a3630af3952pl100-m1",
-        "in_stock": true
-      },
-      "8286739333248": {
-        "title": "Anderson's Calf Leather 25mm Engraved Western Belt - Black",
-        "handle": "a3630af3952pl100-n1",
-        "in_stock": true
-      },
-      "8286727667840": {
-        "title": "Alexander Wang Textured Logo Sleeve Crewneck Dress - Black",
-        "handle": "aw1kc4266040-001",
-        "in_stock": true
-      },
-      "8286727766144": {
-        "title": "Alexander Wang Silk Mid Rise Track Pant - Ivory",
-        "handle": "aw1wc4264053-106",
-        "in_stock": true
-      },
-      "8286727602304": {
-        "title": "Alexander Wang Mid-Rise Track Pant - Black",
-        "handle": "aw1wc4264053-001",
-        "in_stock": true
-      },
-      "8286727700608": {
-        "title": "Alexander Wang Mid-Rise Layered Boxer Tailored Pant Short - Black / White Pinstripe",
-        "handle": "aw1wc4264059-011a",
-        "in_stock": true
-      },
-      "8286727733376": {
-        "title": "Alexander Wang Cherry Graphic With Contrast Trim Tee - White",
-        "handle": "aw1cc4261381-100",
-        "in_stock": true
-      },
-      "8286730190976": {
-        "title": "Agolde Low Curve Jean - Cerise",
-        "handle": "aga9259-1840",
-        "in_stock": true
-      },
-      "8286730059904": {
-        "title": "Agolde Arc Criss Cross Jean - Mauvine",
-        "handle": "aga317b-1183",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
-      "6702726775045": {
-        "title": "NIKE WMNS RIFT 2 - METALLIC SILVER/ BLACK",
-        "handle": "nike-wmns-rift-2-metallic-silver-black",
-        "in_stock": true
-      },
       "6702727364869": {
         "title": "NIKE AIR DIAMOND TURF II - BLACK/ WHITE/ FIRE RED",
         "handle": "nike-air-diamond-turf-ii-black-white-fire-red",
         "in_stock": true
       },
-      "6702727495941": {
-        "title": "ASICS GEL-DS TRAINER SP - CREAM/ VANILLA",
-        "handle": "asics-gel-ds-trainer-sp-cream-vanilla",
+      "6702726775045": {
+        "title": "NIKE WMNS RIFT 2 - METALLIC SILVER/ BLACK",
+        "handle": "nike-wmns-rift-2-metallic-silver-black",
         "in_stock": true
       },
       "6702727430405": {
@@ -1273,10 +1268,15 @@
         "handle": "asics-gel-ds-trainer-sp-glacier-grey-pure-silver",
         "in_stock": true
       },
+      "6702727495941": {
+        "title": "ASICS GEL-DS TRAINER SP - CREAM/ VANILLA",
+        "handle": "asics-gel-ds-trainer-sp-cream-vanilla",
+        "in_stock": true
+      },
       "6702727332101": {
         "title": "ASICS GEL-DS TRAINER SP - BLACK/ GUNMETAL",
         "handle": "asics-gel-ds-trainer-sp-black-gunmetal",
-        "in_stock": true
+        "in_stock": false
       },
       "6702724972805": {
         "title": "SALOMON XT-EVO - BLACK/ FIERY ROAD",
@@ -1291,6 +1291,266 @@
       "6702724907269": {
         "title": "SALOMON XT-EVO - BLACK/ ASPHALT",
         "handle": "salomon-xt-evo-black-asphalt",
+        "in_stock": true
+      },
+      "6702664810757": {
+        "title": "UNDEFEATED STRIPED L/S RUGBY",
+        "handle": "undefeated-striped-l-s-rugby",
+        "in_stock": true
+      },
+      "6702664745221": {
+        "title": "UNDEFEATED RACING L/S TEE",
+        "handle": "undefeated-racing-l-s-tee",
+        "in_stock": true
+      },
+      "6702665302277": {
+        "title": "UNDEFEATED FISHTAIL PARKA",
+        "handle": "undefeated-fishtail-parka-1",
+        "in_stock": true
+      },
+      "6702665040133": {
+        "title": "UNDEFEATED WASHED ZIP HOOD",
+        "handle": "undefeated-washed-zip-hood",
+        "in_stock": true
+      },
+      "6702664974597": {
+        "title": "UNDEFEATED APPLIQUE PULLOVER HOOD",
+        "handle": "undefeated-applique-pullover-hood",
+        "in_stock": true
+      },
+      "6702665138437": {
+        "title": "UNDEFEATED HALF ZIP POLAR FLEECE",
+        "handle": "undefeated-half-zip-polar-fleece",
+        "in_stock": true
+      },
+      "6702665007365": {
+        "title": "UNDEFEATED WASHED L/S WORKSHIRT",
+        "handle": "undefeated-washed-l-s-workshirt",
+        "in_stock": true
+      },
+      "6702665564421": {
+        "title": "UNDEFEATED WASHED SWEATPANT",
+        "handle": "undefeated-washed-sweatpant",
+        "in_stock": true
+      },
+      "6702665400581": {
+        "title": "UNDEFEATED TEAM FLEECE PANT",
+        "handle": "undefeated-team-fleece-pant",
+        "in_stock": true
+      },
+      "6702665531653": {
+        "title": "UNDEFEATED RACING SHORT",
+        "handle": "undefeated-racing-short",
+        "in_stock": true
+      },
+      "6702665892101": {
+        "title": "UNDEFEATED NATION S/S TEE",
+        "handle": "undefeated-nation-s-s-tee",
+        "in_stock": true
+      },
+      "6702665924869": {
+        "title": "UNDEFEATED PETROL S/S TEE",
+        "handle": "undefeated-petrol-s-s-tee",
+        "in_stock": true
+      },
+      "6702665859333": {
+        "title": "UNDEFEATED REALTREE ICON S/S TEE",
+        "handle": "undefeated-realtree-icon-s-s-tee",
+        "in_stock": true
+      },
+      "6702665761029": {
+        "title": "UNDEFEATED SAXON S/S TEE",
+        "handle": "undefeated-saxon-s-s-tee",
+        "in_stock": true
+      },
+      "6702666121477": {
+        "title": "UNDEFEATED X NE ICON HAPPY FITTED",
+        "handle": "undefeated-x-ne-icon-happy-fitted",
+        "in_stock": true
+      },
+      "6702666187013": {
+        "title": "UNDEFEATED RACING STRAPBACK",
+        "handle": "undefeated-racing-strapback",
+        "in_stock": true
+      },
+      "6702666219781": {
+        "title": "UNDEFEATED WASHED STRAPBACK",
+        "handle": "undefeated-washed-strapback",
+        "in_stock": true
+      },
+      "6702666612997": {
+        "title": "UNDEFEATED CAMO RUBIK'S CUBE - CAMO",
+        "handle": "undefeated-camo-rubiks-cube-camo",
+        "in_stock": true
+      },
+      "6702666580229": {
+        "title": "UNDEFEATED PACKING MODULE SET - OLIVE",
+        "handle": "undefeated-packing-module-set-olive",
+        "in_stock": true
+      },
+      "6702666645765": {
+        "title": "UNDEFEATED PASSPORT WALLET - BLACK",
+        "handle": "undefeated-passport-wallet-black",
+        "in_stock": true
+      },
+      "6702666547461": {
+        "title": "UNDEFEATED TIGER CAMO BANDANA",
+        "handle": "undefeated-tiger-camo-bandana",
+        "in_stock": true
+      },
+      "6702665105669": {
+        "title": "UNDEFEATED REVERSIBLE TRUCKER JACKET",
+        "handle": "undefeated-reversible-trucker-jacket",
+        "in_stock": true
+      },
+      "6702665171205": {
+        "title": "UNDEFEATED PIGMENT DYE PULLOVER HOOD",
+        "handle": "undefeated-pigment-dye-pullover-hood",
+        "in_stock": true
+      },
+      "6702664876293": {
+        "title": "UNDEFEATED PIGMENT DYE S/S TEE",
+        "handle": "undefeated-pigment-dye-s-s-tee",
+        "in_stock": true
+      },
+      "6702664909061": {
+        "title": "UNDEFEATED THERMAL S/S TEE",
+        "handle": "undefeated-thermal-s-s-tee",
+        "in_stock": true
+      },
+      "6702665367813": {
+        "title": "UNDEFEATED CHAMBRAY S/S SHIRT",
+        "handle": "undefeated-chambray-s-s-shirt",
+        "in_stock": true
+      },
+      "6702664941829": {
+        "title": "UNDEFEATED OMBRE PLAID L/S",
+        "handle": "undefeated-ombre-plaid-l-s",
+        "in_stock": true
+      },
+      "6702665236741": {
+        "title": "UNDEFEATED SELVEDGE CARPENTER PANT",
+        "handle": "undefeated-selvedge-carpenter-pant",
+        "in_stock": true
+      },
+      "6702665335045": {
+        "title": "UNDEFEATED SELVEDGE CARPENTER SHORT",
+        "handle": "undefeated-selvedge-carpenter-short",
+        "in_stock": true
+      },
+      "6702665498885": {
+        "title": "UNDEFEATED WASHED SWEATSHORT",
+        "handle": "undefeated-washed-sweatshort",
+        "in_stock": true
+      },
+      "6702665629957": {
+        "title": "UNDEFEATED PIGMENT DYE SWEATPANT",
+        "handle": "undefeated-pigment-dye-sweatpant",
+        "in_stock": true
+      },
+      "6702665466117": {
+        "title": "UNDEFEATED DON'T PLAY S/S TEE",
+        "handle": "undefeated-dont-play-s-s-tee",
+        "in_stock": true
+      },
+      "6702665597189": {
+        "title": "UNDEFEATED UND SCRIPT S/S TEE",
+        "handle": "undefeated-und-script-s-s-tee",
+        "in_stock": true
+      },
+      "6702665695493": {
+        "title": "UNDEFEATED CHROME S/S TEE",
+        "handle": "undefeated-chrome-s-s-tee",
+        "in_stock": true
+      },
+      "6702665433349": {
+        "title": "UNDEFEATED FLYER S/S TEE",
+        "handle": "undefeated-flyer-s-s-tee",
+        "in_stock": true
+      },
+      "6702665957637": {
+        "title": "UNDEFEATED FIEND S/S TEE",
+        "handle": "undefeated-fiend-s-s-tee",
+        "in_stock": true
+      },
+      "6702665793797": {
+        "title": "UNDEFEATED SHIELD S/S TEE",
+        "handle": "undefeated-shield-s-s-tee",
+        "in_stock": true
+      },
+      "6702666055941": {
+        "title": "UNDEFEATED X NE ICON CORD FITTED",
+        "handle": "undefeated-x-ne-icon-cord-fitted",
+        "in_stock": true
+      },
+      "6702666481925": {
+        "title": "UNDEFEATED ATHLETICS SNAPBACK - BLACK",
+        "handle": "undefeated-athletics-snapback-black-1",
+        "in_stock": true
+      },
+      "6702666318085": {
+        "title": "UNDEFEATED GRADIENT SNAPBACK",
+        "handle": "undefeated-gradient-snapback",
+        "in_stock": true
+      },
+      "6702666252549": {
+        "title": "UNDEFEATED ICON MELTON STRAPBACK",
+        "handle": "undefeated-icon-melton-strapback",
+        "in_stock": true
+      },
+      "6702665826565": {
+        "title": "UNDEFEATED MILITARY CUFF BEANIE",
+        "handle": "undefeated-military-cuff-beanie",
+        "in_stock": true
+      },
+      "6702666416389": {
+        "title": "UNDEFEATED FIELD BACKPACK - BLACK",
+        "handle": "undefeated-field-backpack-black",
+        "in_stock": true
+      },
+      "6702666449157": {
+        "title": "UNDEFEATED FIELD DUFFLE - BLACK",
+        "handle": "undefeated-field-duffle-black",
+        "in_stock": true
+      },
+      "6702666383621": {
+        "title": "UNDEFEATED STRIKE SLING PACK - BLACK",
+        "handle": "undefeated-strike-sling-pack-black",
+        "in_stock": true
+      },
+      "6702666350853": {
+        "title": "UNDEFEATED MOD-PAC - BLACK",
+        "handle": "undefeated-mod-pac-black",
+        "in_stock": true
+      },
+      "6702666744069": {
+        "title": "UNDEFEATED DISMOUNT KEY-CLIP - BLACK",
+        "handle": "undefeated-dismount-key-clip-black",
+        "in_stock": true
+      },
+      "6572396544073": {
+        "title": "UNDEFEATED ICON CREW SOCK, 3-PACK",
+        "handle": "undefeated-icon-crew-sock-3-pack",
+        "in_stock": true
+      },
+      "6701189759237": {
+        "title": "UNDEFEATED PREMIUM ICON CREW SOCK",
+        "handle": "undefeated-premium-icon-crew-sock",
+        "in_stock": true
+      },
+      "6677490303237": {
+        "title": "UACTP BELT",
+        "handle": "uactp-belt",
+        "in_stock": true
+      },
+      "6702546977029": {
+        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - BLACK",
+        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-black",
+        "in_stock": true
+      },
+      "6702546911493": {
+        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - MEDIUM OLIVE",
+        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-medium-olive",
         "in_stock": true
       },
       "6702258422021": {
@@ -1923,21 +2183,6 @@
         "handle": "uactp-stencil-crew-sock-black",
         "in_stock": true
       },
-      "6677490303237": {
-        "title": "UACTP BELT",
-        "handle": "uactp-belt",
-        "in_stock": true
-      },
-      "6702546977029": {
-        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - BLACK",
-        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-black",
-        "in_stock": true
-      },
-      "6702546911493": {
-        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - MEDIUM OLIVE",
-        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-medium-olive",
-        "in_stock": true
-      },
       "6701189792005": {
         "title": "UNDEFEATED INSULATED DOG BOWL",
         "handle": "undefeated-insulated-dog-bowl",
@@ -2063,109 +2308,9 @@
         "handle": "nike-uruguay-2026-stadium-home-jersey-royal-tint-obsidian",
         "in_stock": true
       },
-      "6702664745221": {
-        "title": "UNDEFEATED RACING L/S TEE",
-        "handle": "undefeated-racing-l-s-tee",
-        "in_stock": true
-      },
-      "6702664810757": {
-        "title": "UNDEFEATED STRIPED L/S RUGBY",
-        "handle": "undefeated-striped-l-s-rugby",
-        "in_stock": true
-      },
       "6702722646277": {
         "title": "JORDAN X AWAKE NY TRACK JACKET - MIDNIGHT NAVY/ INFRARED 23",
         "handle": "jordan-x-awake-ny-track-jacket-midnight-navy-infrared-23",
-        "in_stock": true
-      },
-      "6702665040133": {
-        "title": "UNDEFEATED WASHED ZIP HOOD",
-        "handle": "undefeated-washed-zip-hood",
-        "in_stock": true
-      },
-      "6702664974597": {
-        "title": "UNDEFEATED APPLIQUE PULLOVER HOOD",
-        "handle": "undefeated-applique-pullover-hood",
-        "in_stock": true
-      },
-      "6702665138437": {
-        "title": "UNDEFEATED HALF ZIP POLAR FLEECE",
-        "handle": "undefeated-half-zip-polar-fleece",
-        "in_stock": true
-      },
-      "6702665007365": {
-        "title": "UNDEFEATED WASHED L/S WORKSHIRT",
-        "handle": "undefeated-washed-l-s-workshirt",
-        "in_stock": true
-      },
-      "6702665564421": {
-        "title": "UNDEFEATED WASHED SWEATPANT",
-        "handle": "undefeated-washed-sweatpant",
-        "in_stock": true
-      },
-      "6702665302277": {
-        "title": "UNDEFEATED FISHTAIL PARKA",
-        "handle": "undefeated-fishtail-parka-1",
-        "in_stock": true
-      },
-      "6702665400581": {
-        "title": "UNDEFEATED TEAM FLEECE PANT",
-        "handle": "undefeated-team-fleece-pant",
-        "in_stock": true
-      },
-      "6702665531653": {
-        "title": "UNDEFEATED RACING SHORT",
-        "handle": "undefeated-racing-short",
-        "in_stock": true
-      },
-      "6702665892101": {
-        "title": "UNDEFEATED NATION S/S TEE",
-        "handle": "undefeated-nation-s-s-tee",
-        "in_stock": true
-      },
-      "6702665924869": {
-        "title": "UNDEFEATED PETROL S/S TEE",
-        "handle": "undefeated-petrol-s-s-tee",
-        "in_stock": true
-      },
-      "6702665859333": {
-        "title": "UNDEFEATED REALTREE ICON S/S TEE",
-        "handle": "undefeated-realtree-icon-s-s-tee",
-        "in_stock": true
-      },
-      "6702665761029": {
-        "title": "UNDEFEATED SAXON S/S TEE",
-        "handle": "undefeated-saxon-s-s-tee",
-        "in_stock": true
-      },
-      "6702666121477": {
-        "title": "UNDEFEATED X NE ICON HAPPY FITTED",
-        "handle": "undefeated-x-ne-icon-happy-fitted",
-        "in_stock": true
-      },
-      "6702666187013": {
-        "title": "UNDEFEATED RACING STRAPBACK",
-        "handle": "undefeated-racing-strapback",
-        "in_stock": true
-      },
-      "6702666219781": {
-        "title": "UNDEFEATED WASHED STRAPBACK",
-        "handle": "undefeated-washed-strapback",
-        "in_stock": true
-      },
-      "6702666580229": {
-        "title": "UNDEFEATED PACKING MODULE SET - OLIVE",
-        "handle": "undefeated-packing-module-set-olive",
-        "in_stock": true
-      },
-      "6702666645765": {
-        "title": "UNDEFEATED PASSPORT WALLET - BLACK",
-        "handle": "undefeated-passport-wallet-black",
-        "in_stock": true
-      },
-      "6702666547461": {
-        "title": "UNDEFEATED TIGER CAMO BANDANA",
-        "handle": "undefeated-tiger-camo-bandana",
         "in_stock": true
       },
       "6702719533317": {
@@ -2213,11 +2358,6 @@
         "handle": "jordan-aj-8-retro-black-white-lt-graphite",
         "in_stock": true
       },
-      "6702697742597": {
-        "title": "JORDAN GS AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
-        "handle": "jordan-gs-aj-8-retro-black-white-lt-graphite",
-        "in_stock": true
-      },
       "6702697808133": {
         "title": "JORDAN PS AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
         "handle": "jordan-ps-aj-8-retro-black-white-lt-graphite",
@@ -2236,11 +2376,6 @@
       "6702722711813": {
         "title": "JORDAN X AWAKE NY TEE - WHITE/ LIGHT BLUE",
         "handle": "jordan-x-awake-ny-tee-white-light-blue",
-        "in_stock": true
-      },
-      "6702666612997": {
-        "title": "UNDEFEATED CAMO RUBIK'S CUBE - CAMO",
-        "handle": "undefeated-camo-rubiks-cube-camo",
         "in_stock": true
       },
       "6702706622725": {
@@ -2308,11 +2443,6 @@
         "handle": "salomon-xt-quest-2-falcon-cement",
         "in_stock": true
       },
-      "6688560742661": {
-        "title": "SALOMON XT-4 OG - AURORABOREALIS",
-        "handle": "salomon-xt-4-og-auroraborealis",
-        "in_stock": false
-      },
       "6700095799557": {
         "title": "SALOMON SNOWCLOG - DEEPLICHENGREEN",
         "handle": "salomon-snowclog-deeplichengreen",
@@ -2333,146 +2463,6 @@
         "handle": "salomon-xt-whisper-void-alloy-castlerock",
         "in_stock": true
       },
-      "6702665105669": {
-        "title": "UNDEFEATED REVERSIBLE TRUCKER JACKET",
-        "handle": "undefeated-reversible-trucker-jacket",
-        "in_stock": true
-      },
-      "6702665171205": {
-        "title": "UNDEFEATED PIGMENT DYE PULLOVER HOOD",
-        "handle": "undefeated-pigment-dye-pullover-hood",
-        "in_stock": true
-      },
-      "6702665367813": {
-        "title": "UNDEFEATED CHAMBRAY S/S SHIRT",
-        "handle": "undefeated-chambray-s-s-shirt",
-        "in_stock": true
-      },
-      "6702664941829": {
-        "title": "UNDEFEATED OMBRE PLAID L/S",
-        "handle": "undefeated-ombre-plaid-l-s",
-        "in_stock": true
-      },
-      "6702664876293": {
-        "title": "UNDEFEATED PIGMENT DYE S/S TEE",
-        "handle": "undefeated-pigment-dye-s-s-tee",
-        "in_stock": true
-      },
-      "6702664909061": {
-        "title": "UNDEFEATED THERMAL S/S TEE",
-        "handle": "undefeated-thermal-s-s-tee",
-        "in_stock": true
-      },
-      "6702665236741": {
-        "title": "UNDEFEATED SELVEDGE CARPENTER PANT",
-        "handle": "undefeated-selvedge-carpenter-pant",
-        "in_stock": true
-      },
-      "6702665629957": {
-        "title": "UNDEFEATED PIGMENT DYE SWEATPANT",
-        "handle": "undefeated-pigment-dye-sweatpant",
-        "in_stock": true
-      },
-      "6702665335045": {
-        "title": "UNDEFEATED SELVEDGE CARPENTER SHORT",
-        "handle": "undefeated-selvedge-carpenter-short",
-        "in_stock": true
-      },
-      "6702665498885": {
-        "title": "UNDEFEATED WASHED SWEATSHORT",
-        "handle": "undefeated-washed-sweatshort",
-        "in_stock": true
-      },
-      "6702665466117": {
-        "title": "UNDEFEATED DON'T PLAY S/S TEE",
-        "handle": "undefeated-dont-play-s-s-tee",
-        "in_stock": true
-      },
-      "6702665597189": {
-        "title": "UNDEFEATED UND SCRIPT S/S TEE",
-        "handle": "undefeated-und-script-s-s-tee",
-        "in_stock": true
-      },
-      "6702665695493": {
-        "title": "UNDEFEATED CHROME S/S TEE",
-        "handle": "undefeated-chrome-s-s-tee",
-        "in_stock": true
-      },
-      "6702665433349": {
-        "title": "UNDEFEATED FLYER S/S TEE",
-        "handle": "undefeated-flyer-s-s-tee",
-        "in_stock": true
-      },
-      "6702665957637": {
-        "title": "UNDEFEATED FIEND S/S TEE",
-        "handle": "undefeated-fiend-s-s-tee",
-        "in_stock": true
-      },
-      "6702665793797": {
-        "title": "UNDEFEATED SHIELD S/S TEE",
-        "handle": "undefeated-shield-s-s-tee",
-        "in_stock": true
-      },
-      "6702666055941": {
-        "title": "UNDEFEATED X NE ICON CORD FITTED",
-        "handle": "undefeated-x-ne-icon-cord-fitted",
-        "in_stock": true
-      },
-      "6702666481925": {
-        "title": "UNDEFEATED ATHLETICS SNAPBACK - BLACK",
-        "handle": "undefeated-athletics-snapback-black-1",
-        "in_stock": true
-      },
-      "6702666318085": {
-        "title": "UNDEFEATED GRADIENT SNAPBACK",
-        "handle": "undefeated-gradient-snapback",
-        "in_stock": true
-      },
-      "6702666252549": {
-        "title": "UNDEFEATED ICON MELTON STRAPBACK",
-        "handle": "undefeated-icon-melton-strapback",
-        "in_stock": true
-      },
-      "6702665826565": {
-        "title": "UNDEFEATED MILITARY CUFF BEANIE",
-        "handle": "undefeated-military-cuff-beanie",
-        "in_stock": true
-      },
-      "6702666416389": {
-        "title": "UNDEFEATED FIELD BACKPACK - BLACK",
-        "handle": "undefeated-field-backpack-black",
-        "in_stock": true
-      },
-      "6702666449157": {
-        "title": "UNDEFEATED FIELD DUFFLE - BLACK",
-        "handle": "undefeated-field-duffle-black",
-        "in_stock": true
-      },
-      "6702666383621": {
-        "title": "UNDEFEATED STRIKE SLING PACK - BLACK",
-        "handle": "undefeated-strike-sling-pack-black",
-        "in_stock": true
-      },
-      "6702666350853": {
-        "title": "UNDEFEATED MOD-PAC - BLACK",
-        "handle": "undefeated-mod-pac-black",
-        "in_stock": true
-      },
-      "6702666744069": {
-        "title": "UNDEFEATED DISMOUNT KEY-CLIP - BLACK",
-        "handle": "undefeated-dismount-key-clip-black",
-        "in_stock": true
-      },
-      "6572396544073": {
-        "title": "UNDEFEATED ICON CREW SOCK, 3-PACK",
-        "handle": "undefeated-icon-crew-sock-3-pack",
-        "in_stock": true
-      },
-      "6701189759237": {
-        "title": "UNDEFEATED PREMIUM ICON CREW SOCK",
-        "handle": "undefeated-premium-icon-crew-sock",
-        "in_stock": true
-      },
       "6702689059077": {
         "title": "VANS PREMIUM ERA 95 'RELIC PACK' -  BLACK",
         "handle": "vans-premium-era-95-relic-pack-black",
@@ -2491,7 +2481,7 @@
       "6701487227141": {
         "title": "NIKE X LA RAMS AIR MAX 90 - WHITE/ HYPERROYAL",
         "handle": "nike-x-la-rams-air-max-90-white-hyperroyal",
-        "in_stock": true
+        "in_stock": false
       },
       "6702439858437": {
         "title": "JORDAN AJ 11 RETRO LOW - WHITE/ UNIVERSITY BLUE/ BLACK",
@@ -2502,9 +2492,89 @@
         "title": "JORDAN AJ 3 RETRO 'LASER' - PHANTOM/ UNIVERSITY RED",
         "handle": "jordan-aj-3-retro-laser-phantom-university-red",
         "in_stock": true
+      },
+      "6702706524421": {
+        "title": "NIKE KOBE 10 - WHITE/ MULTI-COLOR",
+        "handle": "nike-kobe-10-white-multi-color",
+        "in_stock": true
+      },
+      "6702706655493": {
+        "title": "NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE",
+        "handle": "nike-air-more-uptempo-96-black-white",
+        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "11028477018379": {
+        "title": "Autry Multicolor Embroidered Logo Socks",
+        "handle": "autry-multicolor-embroidered-logo-socks-ivory",
+        "in_stock": true
+      },
+      "11028476461323": {
+        "title": "Autry Ribbed Embroidered Logo Socks",
+        "handle": "autry-ribbed-embroidered-logo-socks-dark-grey-melange",
+        "in_stock": true
+      },
+      "11028200358155": {
+        "title": "Autry Logo and Stripes Socks",
+        "handle": "autry-logo-and-stripes-socks-green-cream-blue",
+        "in_stock": true
+      },
+      "11028199571723": {
+        "title": "Autry Jacquard Striped Socks",
+        "handle": "autry-jacquard-striped-socks-silver-alabaster",
+        "in_stock": true
+      },
+      "11028199178507": {
+        "title": "Autry Jacquard Striped Socks",
+        "handle": "autry-jacquard-striped-socks-fiber-bordeaux",
+        "in_stock": true
+      },
+      "11028197867787": {
+        "title": "Autry Stars Socks",
+        "handle": "autry-stars-socks-ivory-black",
+        "in_stock": true
+      },
+      "11028187971851": {
+        "title": "Autry Multicolor Logo Baseball Cap",
+        "handle": "autry-multicolor-logo-baseball-cap-board",
+        "in_stock": true
+      },
+      "11028186431755": {
+        "title": "Autry College Logo Baseball Cap",
+        "handle": "autry-college-logo-baseball-cap-blue",
+        "in_stock": true
+      },
+      "11028182696203": {
+        "title": "Autry Corduroy Baseball Cap with Logo",
+        "handle": "autry-corduroy-baseball-cap-with-logo-alabaster",
+        "in_stock": true
+      },
+      "11028664221963": {
+        "title": "Comme des Garcons Homme\tPants P003",
+        "handle": "comme-des-garcons-hommepants-p003-brown",
+        "in_stock": true
+      },
+      "11027968033035": {
+        "title": "Asics GEL-1130",
+        "handle": "asics-gel1130-white-rusted-rock",
+        "in_stock": true
+      },
+      "11027966230795": {
+        "title": "Asics GEL-1130",
+        "handle": "asics-gel1130-dusty-fern-black",
+        "in_stock": true
+      },
+      "11027945914635": {
+        "title": "Asics GEL-NYC",
+        "handle": "asics-gelnyc-twilight-blue-gravel",
+        "in_stock": true
+      },
+      "11029986083083": {
+        "title": "Salomon XT-4 OG GTX",
+        "handle": "salomon-xt4-og-gtx-black-black-black",
+        "in_stock": true
+      },
       "11028089340171": {
         "title": "Satisfy FliteSilk 5‑Panel Pinch *Off Road* Cap",
         "handle": "satisfy-flitesilk-5panel-pinch-off-road-cap-black-off-road-enbroidery",
@@ -3053,7 +3123,7 @@
       "10875377287435": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-ecru-lemon-meringue",
-        "in_stock": true
+        "in_stock": false
       },
       "8311683186955": {
         "title": "Autry Medalist *Solid Goat*",
@@ -3684,79 +3754,14 @@
         "title": "New Balance 800",
         "handle": "new-balance-ff800-dark-olivine-garter-snake",
         "in_stock": true
-      },
-      "10676925858059": {
-        "title": "Nike Air Force 1 Low Retro Premium",
-        "handle": "nike-air-force-1-low-retro-premium-white-white-black",
-        "in_stock": true
-      },
-      "10672217063691": {
-        "title": "The North Face Red Box Short Sleeve Tee",
-        "handle": "the-north-face-red-box-short-sleeve-tee-white-dune",
-        "in_stock": true
-      },
-      "10676316438795": {
-        "title": "New Balance 1906R",
-        "handle": "new-balance-u1906rnb-black-dark-silver-metallic-black-cement",
-        "in_stock": true
-      },
-      "10676842463499": {
-        "title": "HAL Studios Tank Top",
-        "handle": "hal-studios-tank-top-white",
-        "in_stock": true
-      },
-      "8310500196619": {
-        "title": "Mizuno Wave Prophecy LS",
-        "handle": "mizuno-wave-prophecy-ls-black-black-black",
-        "in_stock": true
-      },
-      "8466418139403": {
-        "title": "47 MLB New York Yankees *Base Runner* Cap",
-        "handle": "47-mlb-new-york-yankees-base-runner-cap-timber-blue",
-        "in_stock": true
-      },
-      "8301167935755": {
-        "title": "Frama 1917 Eau de Parfum 50 mL",
-        "handle": "frama-1917-eau-de-parfum-50-ml",
-        "in_stock": true
-      },
-      "11027006718219": {
-        "title": "Hoka Clifton 11 GORE-TEX®",
-        "handle": "hoka-clifton-11-goretex-black-black",
-        "in_stock": true
-      },
-      "11027204931851": {
-        "title": "Hoka Bondi 9 W GLM",
-        "handle": "hoka-bondi-9-w-glm-alabaster-mineral-blue",
-        "in_stock": true
-      },
-      "11026673729803": {
-        "title": "Hoka Clifton 11",
-        "handle": "hoka-clifton-11-boulder-grey-pebble-grey",
-        "in_stock": true
-      },
-      "11026675138827": {
-        "title": "HOKA Tor Summit FLD",
-        "handle": "hoka-tor-summit-fld-black-black",
-        "in_stock": true
-      },
-      "11023337160971": {
-        "title": "Adidas\tOriginals Varsity Crewneck",
-        "handle": "adidasoriginals-varsity-crewneck-light-grey-heather",
-        "in_stock": true
-      },
-      "11023323824395": {
-        "title": "Adidas\tMunich 93 Tracktop",
-        "handle": "adidasmunich-93-tracktop-warm-vanilla",
-        "in_stock": true
-      },
-      "11027084706059": {
-        "title": "Adidas 3-Stripes Rugby Longsleeve Polo Shirt",
-        "handle": "adidas-3stripes-rugby-longsleeve-polo-shirt-aurora-coffee",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
+      "8950776004796": {
+        "title": "Diet Starts Monday Checkered Beanie - Yellow/Black",
+        "handle": "diet-starts-monday-checkered-beanie-yellow-black",
+        "in_stock": true
+      },
       "9372519170236": {
         "title": "Malbon Golf Block Placket Polo - Military Green",
         "handle": "malbon-golf-block-placket-polo-military-green",
@@ -4847,11 +4852,6 @@
         "handle": "carhartt-wip-s-s-terrace-football-t-shirt-white",
         "in_stock": true
       },
-      "8951772545212": {
-        "title": "Anti Social Social Club Arctic Snowmobile Tee - Black",
-        "handle": "anti-social-social-club-arctic-snowmobile-tee-black",
-        "in_stock": false
-      },
       "8952021582012": {
         "title": "Purple Brand Sharpened Wordmark Tank Top - Black",
         "handle": "purple-brand-sharpened-wordmark-tank-top-black",
@@ -4876,11 +4876,6 @@
         "title": "A Bathing Ape City Camo Rhinestone Bape Logo Tee - White",
         "handle": "a-bathing-ape-city-camo-rhinestone-bape-logo-tee-white",
         "in_stock": true
-      },
-      "9002206101692": {
-        "title": "Fear Of God Essentials Classic Sweatpant - Charcoal Heather",
-        "handle": "fear-of-god-essentials-classic-sweatpant-charcoal-heather",
-        "in_stock": false
       },
       "8796258205884": {
         "title": "Market Speaker Knocker Tee - White",
@@ -5006,6 +5001,11 @@
         "title": "Anti Social Social Club Abstract Applique Mind Games Hoodie - Black",
         "handle": "anti-social-social-club-abstract-applique-mind-games-hoodie-black",
         "in_stock": true
+      },
+      "9513816457404": {
+        "title": "Nike Air Max 95 'Greedy' - Black/Volt",
+        "handle": "nike-air-max-95-greedy-black-volt-1",
+        "in_stock": false
       }
     },
     "https://www.kickgame.co.uk": {
@@ -7514,6 +7514,121 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9128419262669": {
+        "title": "Men's Oversized Wool Tweed Jacket Black",
+        "handle": "dries-van-noten-clothing-vince-4053-mwjacket-black-black-j363817",
+        "in_stock": true
+      },
+      "9128419033293": {
+        "title": "Men's Draped Cotton Pants Red",
+        "handle": "dries-van-noten-clothing-paroni-4131-mwpants-red-red-j363822",
+        "in_stock": true
+      },
+      "9128418934989": {
+        "title": "Patchwork Jacquard Scarf Green",
+        "handle": "dries-van-noten-accessories-fidelke-4504-mwscarf-gre-green-j363831",
+        "in_stock": true
+      },
+      "9128418869453": {
+        "title": "Air Max 95 Big Bubble \"Mr. Greedy\" Sneakers White / Medium Ash",
+        "handle": "nike-footwear-nike-air-max-95-big-bubble-premium-black-j370052",
+        "in_stock": false
+      },
+      "9128417460429": {
+        "title": "Men's Leather-Yoke Down Waistcoat Stem",
+        "handle": "polo-ralph-lauren-clothing-woven-vest-green-j360779",
+        "in_stock": false
+      },
+      "9128417296589": {
+        "title": "Men's Hooded Feather Tree Sweatshirt Khaki / Shungite (Garment Dyed)",
+        "handle": "carhartt-wip-clothing-hooded-feather-tree-sweat-multicolor-j359221",
+        "in_stock": true
+      },
+      "9128417362125": {
+        "title": "Men's OG Santa Fe Jacket Hamilton Brown / Tobacco (Stone Canvas)",
+        "handle": "carhartt-wip-clothing-og-santa-fe-jacket-brown-j359207",
+        "in_stock": true
+      },
+      "9128417427661": {
+        "title": "Men's Relaxed Fit Big Pony Rugby Sweatshirt Black",
+        "handle": "polo-ralph-lauren-clothing-knit-rugby-sweatshirt-black-j360776",
+        "in_stock": true
+      },
+      "9128417067213": {
+        "title": "Plaid Western Longsleeve Shirt Red",
+        "handle": "aries-clothing-plaid-western-ls-shirt-red-j354723",
+        "in_stock": true
+      },
+      "9128417034445": {
+        "title": "Men's 1955 501 Jeans Dark Wash",
+        "handle": "levis-clothing-1955-501-jeans-dark-indigo-flat-finish-black-j360076",
+        "in_stock": true
+      },
+      "9128417001677": {
+        "title": "90000 Replicated 2L Water Resistant Bag Black",
+        "handle": "gr10k-accessories-90000-replicated-bag-black-j349072",
+        "in_stock": true
+      },
+      "9128416968909": {
+        "title": "90000 Replicated 2L Water Resistant Bag White",
+        "handle": "gr10k-accessories-90000-replicated-bag-white-j349073",
+        "in_stock": true
+      },
+      "9128416608461": {
+        "title": "Men's ACG \"Rope De Dope\" Therma-FIT ADV PrimaLoft Jacket Black",
+        "handle": "nike-clothing-nike-acg-rope-de-dope-black-j369791",
+        "in_stock": true
+      },
+      "9128416477389": {
+        "title": "Men's Club Rules Sun Pants Obsidian / Black",
+        "handle": "nike-clothing-m-nk-club-rules-sun-pant-aop-blue-j364312",
+        "in_stock": true
+      },
+      "9128416542925": {
+        "title": "Men's Club Rules Helios Blazer Obsidian / Black",
+        "handle": "nike-clothing-m-nk-club-rules-sun-blazer-aop-blue-j364310",
+        "in_stock": true
+      },
+      "9128416575693": {
+        "title": "Men's Club Rules Helios Blazer White / Light Orewood Brown",
+        "handle": "nike-clothing-m-nk-club-rules-sun-blazer-aop-white-j364309",
+        "in_stock": true
+      },
+      "9128416280781": {
+        "title": "Men's Jordan Flight Varsity Jacket Black",
+        "handle": "nike-jordan-clothing-jordan-flight-black-j368340",
+        "in_stock": true
+      },
+      "9128416215245": {
+        "title": "Men's Jordan Flight Cat Scratch Shorts Red / Black / Sail",
+        "handle": "nike-jordan-clothing-m-j-flt-ssnl-catscrtch-shrt-red-j364286",
+        "in_stock": true
+      },
+      "9128415920333": {
+        "title": "Brosh Comb Brown",
+        "handle": "wacko-maria-lifestyle-brosh-comb-brown-j356340",
+        "in_stock": true
+      },
+      "9128416051405": {
+        "title": "Men's Washed Heavy Weight T-Shirt (Type-14) Black",
+        "handle": "wacko-maria-clothing-washed-heavy-weight-crew-neck-t-shirt-type-14-black-j356339",
+        "in_stock": true
+      },
+      "9128415985869": {
+        "title": "Men's 50's Shorts (Type-2) Black",
+        "handle": "wacko-maria-clothing-50s-shorts-type-2-black-j356333",
+        "in_stock": true
+      },
+      "9128416084173": {
+        "title": "Men's Tim Lehi Washed Heavy Weight T-Shirt White",
+        "handle": "wacko-maria-clothing-tim-lehi-washed-heavy-weight-crew-neck-t-shirt-white-j356337",
+        "in_stock": true
+      },
+      "9112096669901": {
+        "title": "Low Bridge Fit Headliner Gen 2 Sunglasses Shiny Black / G-15 Green",
+        "handle": "ray-ban-accessories-rw-ai-glasses-black-j356908",
+        "in_stock": true
+      },
       "9110406398157": {
         "title": "Men's Minimal Bomber Jacket Bark",
         "handle": "oamc-peacemaker-clothing-minimal-bomber-multicolor-j333397",
@@ -8067,7 +8182,7 @@
       "9128012939469": {
         "title": "Men's Aerial Jacket Pigment Khaki",
         "handle": "our-legacy-clothing-aerial-jacket-green-j355609",
-        "in_stock": true
+        "in_stock": false
       },
       "9128012906701": {
         "title": "Men's Ultra Zip Funnel Sweater Charcoal",
@@ -8648,328 +8763,465 @@
         "title": "Men's Centipede Buckle Chino Pants Black",
         "handle": "roa-clothing-centipede-buckle-chino-pants-black-j345776",
         "in_stock": true
-      },
-      "9127715864781": {
-        "title": "Men's Crimp Shaped Cotton Pants Black",
-        "handle": "roa-clothing-crimp-shaped-cotton-pants-black-j345774",
-        "in_stock": true
-      },
-      "9127715897549": {
-        "title": "Men's Crimp Shaped Cotton Pants Dark Brown",
-        "handle": "roa-clothing-crimp-shaped-waxed-cotton-pants-brown-j345775",
-        "in_stock": true
-      },
-      "9127715733709": {
-        "title": "Women's Simi Skort Pants Graphite",
-        "handle": "roa-clothing-simi-skort-pants-black-j345783",
-        "in_stock": true
-      },
-      "9127713571021": {
-        "title": "Men's Full Zip Jacket Smoky Black",
-        "handle": "our-legacy-clothing-full-zip-jacket-black-j355623",
-        "in_stock": true
-      },
-      "9127713472717": {
-        "title": "Men's Line Zip Cardigan Mud Spray Dye",
-        "handle": "our-legacy-clothing-line-zip-cardigan-grey-j355615",
-        "in_stock": true
-      },
-      "9127713505485": {
-        "title": "Men's Pitch Cardigan Black",
-        "handle": "our-legacy-clothing-pitch-cardigan-black-j355616",
-        "in_stock": true
-      },
-      "9127713407181": {
-        "title": "Men's Above Shirt Faded Nocturne Check",
-        "handle": "our-legacy-clothing-above-shirt-multicolor-j355611",
-        "in_stock": true
-      },
-      "9127713374413": {
-        "title": "Men's Whoppin Shirt Bison Check",
-        "handle": "our-legacy-clothing-whoppin-shirt-multicolor-j355613",
-        "in_stock": true
-      },
-      "9127713276109": {
-        "title": "Men's Cruise Longsleeve T-Shirt Sprouting Ocean Print",
-        "handle": "our-legacy-clothing-cruise-longsleeve-red-j355648",
-        "in_stock": true
-      },
-      "9127713177805": {
-        "title": "Men's Slate Cut Jeans Garage Wash",
-        "handle": "our-legacy-clothing-slate-cut-blue-j355645",
-        "in_stock": true
-      },
-      "9127713341645": {
-        "title": "Men's Rift Zip Sweatshirt Relic Plum",
-        "handle": "our-legacy-clothing-rift-zip-sweatshirt-grey-j355622",
-        "in_stock": true
-      },
-      "9127713308877": {
-        "title": "Men's Perfect Sweatshirt Black Bear",
-        "handle": "our-legacy-clothing-perfect-sweatshirt-black-j355608",
-        "in_stock": true
-      },
-      "9127713210573": {
-        "title": "Men's Slack Trousers Black",
-        "handle": "our-legacy-clothing-slack-trouser-black-j355607",
-        "in_stock": true
-      },
-      "9127713243341": {
-        "title": "Men's Box T-Shirt Worn Olive",
-        "handle": "our-legacy-clothing-box-t-shirt-green-j355605",
-        "in_stock": true
-      },
-      "9127713046733": {
-        "title": "Women's Favourite Shirt Pointillism Allegory Print",
-        "handle": "our-legacy-clothing-wmns-favourite-shirt-white-j355650",
-        "in_stock": true
-      },
-      "9127712981197": {
-        "title": "Women's Heat Longsleeve Top Black",
-        "handle": "our-legacy-clothing-wmns-heat-longsleeve-black-j355630",
-        "in_stock": true
-      },
-      "9127713079501": {
-        "title": "Women's Flight Zip Cardigan Stately Low Twist Merino",
-        "handle": "our-legacy-clothing-wmns-flight-zip-cardigan-grey-j355625",
-        "in_stock": true
-      },
-      "9127713013965": {
-        "title": "Women's Cheer V Neck Top Black",
-        "handle": "our-legacy-clothing-wmns-cheer-v-neck-black-j355629",
-        "in_stock": true
-      },
-      "9127712882893": {
-        "title": "Women's Wata Cut Jeans River Blue Wash",
-        "handle": "our-legacy-clothing-wmns-wata-cut-blue-j355628",
-        "in_stock": true
-      },
-      "9127712915661": {
-        "title": "Women's Origami Skirt Black",
-        "handle": "our-legacy-clothing-wmns-origami-skirt-black-j355627",
-        "in_stock": true
-      },
-      "9127712129229": {
-        "title": "Awake NY Air Jordan 6 Sneakers Midnight Navy",
-        "handle": "nike-jordan-footwear-air-jordan-6-retro-sp-blue-j368897",
-        "in_stock": false
-      },
-      "9127712063693": {
-        "title": "Air Max Goadome Low Holey Sneakers Light Orewood Brown / Black",
-        "handle": "nike-footwear-nike-air-max-goadome-low-sp-black-j369217",
-        "in_stock": true
-      },
-      "9127625851085": {
-        "title": "Men's Hysteric Days 50's XX Straight Denim Pants Indigo",
-        "handle": "hysteric-glamour-clothing-hysteric-days-50s-xx-straight-denim-pants-blue-j353932",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Saucony ProGrid Omni 9 - Blue Glow\nhttps://kith.com/products/sas101275-1005",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Micro Plaid Pleated Skirt - Chest\nhttps://kith.com/products/khk060655-5010",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Top Turf Pitch - Green Velvet\nhttps://kith.com/products/hav4150808-2703",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Textured Denim Gi Shirt - Indigo\nhttps://kith.com/products/khk010324-403",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Studios Top Runner - Multi\nhttps://kith.com/products/hav4150694-2711",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Plaid Overall Dress - Chest\nhttps://kith.com/products/khk080109-5010",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Studios Top Futebol - Multi\nhttps://kith.com/products/hav4150713-0121",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Hunter Quarter Zip - Nocturnal\nhttps://kith.com/products/khk031394-413",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Havaianas x KidSuper Studios Top Camo - Pink / Red\nhttps://kith.com/products/hav4150807-3180",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Letter Nelson Sweatpant - Stadium\nhttps://kith.com/products/khk060659-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE WMNS RIFT 2 - METALLIC SILVER/ BLACK\nhttps://undefeated.com/products/nike-wmns-rift-2-metallic-silver-black",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Nelson Sweatpant - Sandrift\nhttps://kith.com/products/khk060660-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR DIAMOND TURF II - BLACK/ WHITE/ FIRE RED\nhttps://undefeated.com/products/nike-air-diamond-turf-ii-black-white-fire-red",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Nelson Sweatpant - Nocturnal\nhttps://kith.com/products/khk060662-413",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: ASICS GEL-DS TRAINER SP - CREAM/ VANILLA\nhttps://undefeated.com/products/asics-gel-ds-trainer-sp-cream-vanilla",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Athletic Nelson Short - Medium Heather Grey\nhttps://kith.com/products/khk060656-154",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: ASICS GEL-DS TRAINER SP - GLACIER GREY/ PURE SILVER\nhttps://undefeated.com/products/asics-gel-ds-trainer-sp-glacier-grey-pure-silver",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Nelson Sweatpant - Black\nhttps://kith.com/products/khk060662-001",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: ASICS GEL-DS TRAINER SP - BLACK/ GUNMETAL\nhttps://undefeated.com/products/asics-gel-ds-trainer-sp-black-gunmetal",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Blurred Stripe Soccer Jersey - Cyanotype\nhttps://kith.com/products/khk031372-424",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Satisfy FliteSilk 5‑Panel Pinch *Off Road* Cap\nhttps://www.asphaltgold.de/products/satisfy-flitesilk-5panel-pinch-off-road-cap-black-off-road-enbroidery",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Micro Plaid Snap Harrison Hoodie - Chest\nhttps://kith.com/products/khk031383-5010",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Satisfy FliteSilk 5‑Panel Pinch *Eagle* Cap\nhttps://www.asphaltgold.de/products/satisfy-flitesilk-5panel-pinch-eagle-cap-black-eagle",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Printed Rye Pant - Durum\nhttps://kith.com/products/khk060649-957",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Satisfy Space-O 5 Shorts\nhttps://www.asphaltgold.de/products/satisfy-spaceo-5-shorts-overland-trek-camo",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Moto Mesh Long Sleeve Donovan Tee - Black\nhttps://kith.com/products/khk031376-001",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Satisfy MothTech T-Shirt *Eagle*\nhttps://www.asphaltgold.de/products/satisfy-mothtech-tshirt-eagle-aged-black-airbrush-glitt",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids New York Scenic Shacket - Roman Wash\nhttps://kith.com/products/khk010325-5100",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Dr. Martens Wayborne Boot *Old Harness*\nhttps://www.asphaltgold.de/products/dr-martens-wayborne-boot-old-harness-black",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Micro Plaid Cole Short - Chest\nhttps://kith.com/products/khk060654-5010",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Vomero Premium QS *Oreo*\nhttps://www.asphaltgold.de/products/nike-wmns-vomero-premium-qs-oreo-black-white-metallic-silver",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Textured Malik Jersey - Battleship\nhttps://kith.com/products/khk031375-501",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Nike Wmns Vomero Premium QS\nhttps://www.asphaltgold.de/products/nike-wmns-vomero-premium-qs-university-red-metallic-silver",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Novelty Dawson Pant - Black\nhttps://kith.com/products/khk060657-001",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Bella Mina Croc W\nhttps://www.asphaltgold.de/products/puma-bella-mina-croc-w-chocolate-fondue-gum",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Nelson Hoodie - Sandrift\nhttps://kith.com/products/khk031392-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Brooks Adrenaline GTS 4\nhttps://www.asphaltgold.de/products/brooks-adrenaline-gts-4-coconut-milk-silver-eggnog",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Plaid Apollo Shirt - Chest\nhttps://kith.com/products/khk031384-5010",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Crocs Tembo II RO\nhttps://www.asphaltgold.de/products/crocs-tembo-ii-ro-elephant-carbon",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Letter Collared Nelson Dress - Stadium\nhttps://kith.com/products/khk080110-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-cream-pink-cloud-1",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Novelty Beckett Pullover - Black\nhttps://kith.com/products/khk031388-001",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-storm-cloud-1",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Textured Denim Zane Cargo Pant - Indigo\nhttps://kith.com/products/khk060652-403",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Brooks Adrenaline GTS 4\nhttps://www.asphaltgold.de/products/brooks-adrenaline-gts-4-micro-chip-alloy-coconut-milk",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Nelson Knit Crewneck - Cyanotype\nhttps://kith.com/products/khk031374-424",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Brooks Adrenaline GTS 4\nhttps://www.asphaltgold.de/products/brooks-adrenaline-gts-4-black-sand-dark-shadow",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Collegiate Nelson Sweatpant - Light Heather Grey\nhttps://kith.com/products/khk060658-002",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Brooks Adrenaline GTS 4\nhttps://www.asphaltgold.de/products/brooks-adrenaline-gts-4-vanilla-ice-paule-mauve-sunny-lime",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Lady Liberty Nelson Hoodie - Dark Indigo\nhttps://kith.com/products/khka030001-416",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Crocs Axle Low\nhttps://www.asphaltgold.de/products/crocs-axle-low-army-green-espresso",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Hunter Quarter Zip - Black\nhttps://kith.com/products/khk031394-001",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Brooks Ghost Trail\nhttps://www.asphaltgold.de/products/brooks-ghost-trail-brown-black-nightlife",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Letter Collared Nelson Sweatshirt - Stadium\nhttps://kith.com/products/khk031391-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Crocs Axle Low\nhttps://www.asphaltgold.de/products/crocs-axle-low-black-black",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Collegiate Nelson Crewneck - Light Heather Grey\nhttps://kith.com/products/khk031390-002",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-lavender-field",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Textured V-Neck Collar Nelson Sweatshirt - Black\nhttps://kith.com/products/khk031389-001",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: New Balance Premium Puffer Jacket\nhttps://www.afew-store.com/products/new-balance-premium-puffer-jacket-dnt",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Printed Leonard Tee - Virtue\nhttps://kith.com/products/khk031397-323",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: C.P. Company BRUSHED & EMERIZED DIAGONAL FLEECE BOXY Crewneck 21CMSS019A-006372M\nhttps://www.afew-store.com/products/c-p-company-brushed-and-emerized-diagonal-fleece-mixed-boxy-crewneck-lens-sweatshirt-21cmss019a-006372mfallen-rock",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Sketched Classic Logo Tee - Nocturnal\nhttps://kith.com/products/khk031398-413",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: C.P. Company BRUSHED & EMERIZED DIAGONAL FLEECE BOXY Half Zip\nhttps://www.afew-store.com/products/c-p-company-brushed-and-emerized-diagonal-fleece-mixed-boxy-half-zip-lens-sweatshirt-silver-birch",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Moto Mesh Cropped Long Sleeve Mika Tee - White\nhttps://kith.com/products/khk031378-101",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Beams Wide Taper Fade Twill\nhttps://www.afew-store.com/products/beams-wide-taper-fade-twill-navy",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Puffer Vest - Polar\nhttps://kith.com/products/khk010328-5029",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Beams Wide Taper Fade Twill\nhttps://www.afew-store.com/products/beams-wide-taper-fade-twill-beige",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Cropped Varsity Jacket - Noir\nhttps://kith.com/products/khk010333-7059",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Beams Stripe Zip Shirt\nhttps://www.afew-store.com/products/beams-stripe-zip-shirt-sax",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Plaid Ellis Jacket - Kindling\nhttps://kith.com/products/khk010326-211",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: The North Face BETA UTILITY Belted Pant\nhttps://www.afew-store.com/products/the-north-face-m-beta-utlty-bltd-pnt-tn-tnf-black",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Textured Chauncey Cargo Pant - Battleship\nhttps://kith.com/products/khk060650-501",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Dime Rib Fold Beanie\nhttps://www.afew-store.com/products/dime-rib-fold-beanie-oak",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Jacket - Stadium\nhttps://kith.com/products/khk010329-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Dime Rib Fold Beanie\nhttps://www.afew-store.com/products/dime-rib-fold-beanie-dark-gray",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Champions Tee - Silk\nhttps://kith.com/products/khk031396-116",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: MAMMUT Reversible Logo Beanie\nhttps://www.afew-store.com/products/mammut-reversible-logo-beanie-mammut-red-dark-mammut-red",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Serif Leonard Tee - Sandrift\nhttps://kith.com/products/khk031405-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Nike AIR FORCE 1 '07 LE 'Air Soul'\nhttps://www.afew-store.com/products/nike-air-force-1-07-le-black-black-black-cinnamon",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Sketched Classic Logo Mulberry II Tee - Iolite\nhttps://kith.com/products/khk031399-6022",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Minimal Bomber Jacket Bark\nhttps://www.slamjam.com/products/oamc-peacemaker-clothing-minimal-bomber-multicolor-j333397",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Velour Paneled Linden Quarter Zip - Stadium\nhttps://kith.com/products/khk031395-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Lack of Guidance Reversible Jacket Woodland\nhttps://www.slamjam.com/products/new-balance-clothing-reversible-jacket-lack-of-guidance-multicolor-j353246",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Velour Paneled Short - Stadium\nhttps://kith.com/products/khk060663-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Beisser Waxed Sneakers Aged Copper / Authentic Gold\nhttps://www.slamjam.com/products/puma-footwear-beisser-waxed-brown-j349868",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Athletic Mesh Combo Hoodie - Medium Heather Grey\nhttps://kith.com/products/khk031387-154",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Men's Leaf T-Shirt Snow White\nhttps://www.slamjam.com/products/oamc-peacemaker-clothing-peacemaker-leaf-s-s-tshirt-white-j305781",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Graphic Tee - White\nhttps://kith.com/products/khk031402-101",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Waterproof Daypack Black\nhttps://www.slamjam.com/products/and-wander-accessories-143-waterproof-daypack-black-j355982",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids & '47 for the New York Yankees Snapback Cap - Storm Mid Wash\nhttps://kith.com/products/khka050071-428",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Ecopak 30L 3Way Tote Bag Black\nhttps://www.slamjam.com/products/and-wander-accessories-121-ecopak-30l-3way-tote-bag-black-j355981",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids 2-Pack Big Claw Clips - Multi\nhttps://kith.com/products/khla150110-906",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Layered V-Neck Sweater Mustard / Violet\nhttps://www.slamjam.com/products/mm6-maison-margiela-clothing-wmns-pullover-multicolor-j363174",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Supplies Box Set - Multi\nhttps://kith.com/products/khla150111-906",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Men's Aerial Jacket Pigment Khaki\nhttps://www.slamjam.com/products/our-legacy-clothing-aerial-jacket-green-j355609",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Snapback Cap - Stadium\nhttps://kith.com/products/khka050070-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Key Chain Bracelet Silver\nhttps://www.slamjam.com/products/mm6-maison-margiela-accessories-key-male-bracelet-grey-j363184",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Chunky Knit Rugby Shirt - Sandrift\nhttps://kith.com/products/khk031381-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: 2cm Bullet Chain Belt Black\nhttps://www.slamjam.com/products/our-legacy-accessories-2-cm-bullet-chain-belt-black-j355593",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids Chunky Knit Nelson Crewneck - Essence\nhttps://kith.com/products/khk031380-624",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     },
     {
-      "message": "🔥 **Restock** at Slam Jam: Librarian Sunglasses Xypher Steel\nhttps://www.slamjam.com/products/our-legacy-accessories-librarian-multicolor-j355598",
-      "detected_at": "2026-09-04T14:11:10.925878+00:00"
+      "message": "🆕 **New drop** at Kith: Kith Kids & '47 for the Los Angeles Dodgers Denim Snapback Cap - Indigo\nhttps://kith.com/products/khka050072-403",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Alonzo Denim Jacket - Incognito\nhttps://kith.com/products/khk010331-244",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Mulberry Tee - Incognito\nhttps://kith.com/products/khk031401-244",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Bishop Tee - Incognito\nhttps://kith.com/products/khk031373-244",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Backpack - Polar\nhttps://kith.com/products/khka040072-5029",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Heston Wide Leg Jean - Incognito\nhttps://kith.com/products/khk060653-244",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Denim Classic Cap - Polar\nhttps://kith.com/products/khka050073-5029",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Soft Pencil Case - Polar\nhttps://kith.com/products/khka040073-5029",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Tote Bag - Polar\nhttps://kith.com/products/khka040070-5029",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Puffer Vest - Polar\nhttps://kith.com/products/khb010082-5029",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Leopard Alonzo Denim Jacket - Incognito\nhttps://kith.com/products/khb010084-244",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Leopard Heston Wide Leg Jean - Incognito\nhttps://kith.com/products/khb060227-244",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Snapback Cap - Stadium\nhttps://kith.com/products/khba050070-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Leopard Kith Serif Leonard Tee - Sandrift\nhttps://kith.com/products/khb030407-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Nelson Knit Crewneck - Cyanotype\nhttps://kith.com/products/khb030403-424",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Chunky Knit Rugby Shirt - Sandrift\nhttps://kith.com/products/khb030402-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Textured Denim Chauncey Pant - Indigo\nhttps://kith.com/products/khb060226-403",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Collegiate Nelson Sweatpant - Light Heather Grey\nhttps://kith.com/products/khb060228-002",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Nelson Sweatpant - Sandrift\nhttps://kith.com/products/khb060229-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Graphic Bodysuit - White\nhttps://kith.com/products/khbbo0036-101",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Nelson Hoodie - Sandrift\nhttps://kith.com/products/khb030406-104",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Jacket - Stadium\nhttps://kith.com/products/khb010081-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Patchwork Plaid Overall Dress - Chest\nhttps://kith.com/products/khb080040-5010",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Collegiate Snap Hunter Crewneck - Light Heather Grey\nhttps://kith.com/products/khb030405-002",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Letter Nelson Coverall - Stadium\nhttps://kith.com/products/khb110099-302",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Kith Baby Patchwork Plaid Apollo Shirt - Chest\nhttps://kith.com/products/khb030404-5010",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE KOBE 10 - WHITE/ MULTI-COLOR\nhttps://undefeated.com/products/nike-kobe-10-white-multi-color",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE\nhttps://undefeated.com/products/nike-air-more-uptempo-96-black-white",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Multicolor Embroidered Logo Socks\nhttps://www.asphaltgold.de/products/autry-multicolor-embroidered-logo-socks-ivory",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Ribbed Embroidered Logo Socks\nhttps://www.asphaltgold.de/products/autry-ribbed-embroidered-logo-socks-dark-grey-melange",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Logo and Stripes Socks\nhttps://www.asphaltgold.de/products/autry-logo-and-stripes-socks-green-cream-blue",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Jacquard Striped Socks\nhttps://www.asphaltgold.de/products/autry-jacquard-striped-socks-silver-alabaster",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Jacquard Striped Socks\nhttps://www.asphaltgold.de/products/autry-jacquard-striped-socks-fiber-bordeaux",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Stars Socks\nhttps://www.asphaltgold.de/products/autry-stars-socks-ivory-black",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Multicolor Logo Baseball Cap\nhttps://www.asphaltgold.de/products/autry-multicolor-logo-baseball-cap-board",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry College Logo Baseball Cap\nhttps://www.asphaltgold.de/products/autry-college-logo-baseball-cap-blue",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Corduroy Baseball Cap with Logo\nhttps://www.asphaltgold.de/products/autry-corduroy-baseball-cap-with-logo-alabaster",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Comme des Garcons Homme\tPants P003\nhttps://www.asphaltgold.de/products/comme-des-garcons-hommepants-p003-brown",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-rusted-rock",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-dusty-fern-black",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gelnyc-twilight-blue-gravel",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-4 OG GTX\nhttps://www.asphaltgold.de/products/salomon-xt4-og-gtx-black-black-black",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Diet Starts Monday Checkered Beanie - Yellow/Black\nhttps://sneakerpolitics.com/products/diet-starts-monday-checkered-beanie-yellow-black",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Oversized Wool Tweed Jacket Black\nhttps://www.slamjam.com/products/dries-van-noten-clothing-vince-4053-mwjacket-black-black-j363817",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Draped Cotton Pants Red\nhttps://www.slamjam.com/products/dries-van-noten-clothing-paroni-4131-mwpants-red-red-j363822",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Patchwork Jacquard Scarf Green\nhttps://www.slamjam.com/products/dries-van-noten-accessories-fidelke-4504-mwscarf-gre-green-j363831",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Hooded Feather Tree Sweatshirt Khaki / Shungite (Garment Dyed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-hooded-feather-tree-sweat-multicolor-j359221",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's OG Santa Fe Jacket Hamilton Brown / Tobacco (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-santa-fe-jacket-brown-j359207",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Relaxed Fit Big Pony Rugby Sweatshirt Black\nhttps://www.slamjam.com/products/polo-ralph-lauren-clothing-knit-rugby-sweatshirt-black-j360776",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Plaid Western Longsleeve Shirt Red\nhttps://www.slamjam.com/products/aries-clothing-plaid-western-ls-shirt-red-j354723",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 1955 501 Jeans Dark Wash\nhttps://www.slamjam.com/products/levis-clothing-1955-501-jeans-dark-indigo-flat-finish-black-j360076",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: 90000 Replicated 2L Water Resistant Bag Black\nhttps://www.slamjam.com/products/gr10k-accessories-90000-replicated-bag-black-j349072",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: 90000 Replicated 2L Water Resistant Bag White\nhttps://www.slamjam.com/products/gr10k-accessories-90000-replicated-bag-white-j349073",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's ACG \"Rope De Dope\" Therma-FIT ADV PrimaLoft Jacket Black\nhttps://www.slamjam.com/products/nike-clothing-nike-acg-rope-de-dope-black-j369791",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Club Rules Sun Pants Obsidian / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-club-rules-sun-pant-aop-blue-j364312",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Club Rules Helios Blazer Obsidian / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-club-rules-sun-blazer-aop-blue-j364310",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Club Rules Helios Blazer White / Light Orewood Brown\nhttps://www.slamjam.com/products/nike-clothing-m-nk-club-rules-sun-blazer-aop-white-j364309",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Jordan Flight Varsity Jacket Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-jordan-flight-black-j368340",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Jordan Flight Cat Scratch Shorts Red / Black / Sail\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-flt-ssnl-catscrtch-shrt-red-j364286",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Brosh Comb Brown\nhttps://www.slamjam.com/products/wacko-maria-lifestyle-brosh-comb-brown-j356340",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Washed Heavy Weight T-Shirt (Type-14) Black\nhttps://www.slamjam.com/products/wacko-maria-clothing-washed-heavy-weight-crew-neck-t-shirt-type-14-black-j356339",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 50's Shorts (Type-2) Black\nhttps://www.slamjam.com/products/wacko-maria-clothing-50s-shorts-type-2-black-j356333",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Tim Lehi Washed Heavy Weight T-Shirt White\nhttps://www.slamjam.com/products/wacko-maria-clothing-tim-lehi-washed-heavy-weight-crew-neck-t-shirt-white-j356337",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Low Bridge Fit Headliner Gen 2 Sunglasses Shiny Black / G-15 Green\nhttps://www.slamjam.com/products/ray-ban-accessories-rw-ai-glasses-black-j356908",
+      "detected_at": "2026-09-04T17:37:24.949573+00:00"
     }
   ]
 }
