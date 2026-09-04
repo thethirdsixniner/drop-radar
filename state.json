@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286750048384": {
+        "title": "Salomon XT-EVO - Black / Black / Asphalt",
+        "handle": "sall45404200",
+        "in_stock": true
+      },
+      "8286750015616": {
+        "title": "Salomon XT-EVO - Black / Fiery Red / White",
+        "handle": "sall49177900",
+        "in_stock": true
+      },
       "8286737662080": {
         "title": "Kith Kids Micro Plaid Pleated Skirt - Chest",
         "handle": "khk060655-5010",
@@ -1240,16 +1250,6 @@
         "title": "Jordan x Free The Youth Track Pant - Black / Crimson",
         "handle": "joriq6227-010",
         "in_stock": true
-      },
-      "8286728323200": {
-        "title": "Jordan x Free The Youth Track Jacket - Black",
-        "handle": "joriq6223-010",
-        "in_stock": true
-      },
-      "8286726291584": {
-        "title": "Jordan x Free The Youth Short - Black / Crimson",
-        "handle": "joriq6232-010",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
@@ -1276,6 +1276,11 @@
       "6702727332101": {
         "title": "ASICS GEL-DS TRAINER SP - BLACK/ GUNMETAL",
         "handle": "asics-gel-ds-trainer-sp-black-gunmetal",
+        "in_stock": false
+      },
+      "6702727463173": {
+        "title": "NIKE MIND 002 FK QS - SAND DRIFT/ FOSSIL ROSE",
+        "handle": "nike-mind-002-fk-qs-sand-drift-fossil-rose",
         "in_stock": false
       },
       "6702724972805": {
@@ -1536,21 +1541,6 @@
       "6701189759237": {
         "title": "UNDEFEATED PREMIUM ICON CREW SOCK",
         "handle": "undefeated-premium-icon-crew-sock",
-        "in_stock": true
-      },
-      "6677490303237": {
-        "title": "UACTP BELT",
-        "handle": "uactp-belt",
-        "in_stock": true
-      },
-      "6702546977029": {
-        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - BLACK",
-        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-black",
-        "in_stock": true
-      },
-      "6702546911493": {
-        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - MEDIUM OLIVE",
-        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-medium-olive",
         "in_stock": true
       },
       "6702258422021": {
@@ -1893,11 +1883,6 @@
         "handle": "uactp-lightweight-training-kimono-armygreen",
         "in_stock": true
       },
-      "6702727463173": {
-        "title": "NIKE MIND 002 FK QS - SAND DRIFT/ FOSSIL ROSE",
-        "handle": "nike-mind-002-fk-qs-sand-drift-fossil-rose",
-        "in_stock": false
-      },
       "6702546387205": {
         "title": "UACTP X NIKE NRG HOODIE - BLACK",
         "handle": "uactp-x-nike-nrg-hoodie-black",
@@ -2063,9 +2048,9 @@
         "handle": "uactp-uniform-s-s-tee",
         "in_stock": true
       },
-      "6702546518277": {
-        "title": "UACTP X NIKE NRG DF SLIM SS TOP - MEDIUM OLIVE",
-        "handle": "uactp-x-nike-nrg-df-slim-ss-top-medium-olive",
+      "6686380261637": {
+        "title": "UACTP DAZZLE SHORTS",
+        "handle": "uactp-dazzle-shorts",
         "in_stock": true
       },
       "6701584613637": {
@@ -2081,6 +2066,11 @@
       "6701584482565": {
         "title": "UACTP STENCIL TRAINING SWEATPANT",
         "handle": "uactp-stencil-training-sweatpant",
+        "in_stock": true
+      },
+      "6702546518277": {
+        "title": "UACTP X NIKE NRG DF SLIM SS TOP - MEDIUM OLIVE",
+        "handle": "uactp-x-nike-nrg-df-slim-ss-top-medium-olive",
         "in_stock": true
       },
       "6702546649349": {
@@ -2143,9 +2133,14 @@
         "handle": "uactp-x-nike-nrg-unlmtd-5in-short-midnight-navy",
         "in_stock": true
       },
-      "6686380261637": {
-        "title": "UACTP DAZZLE SHORTS",
-        "handle": "uactp-dazzle-shorts",
+      "6702546977029": {
+        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - BLACK",
+        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-black",
+        "in_stock": true
+      },
+      "6702546911493": {
+        "title": "UACTP X NIKE WMNS NRG 365 3IN SHORT - MEDIUM OLIVE",
+        "handle": "uactp-x-nike-wmns-nrg-365-3in-short-medium-olive",
         "in_stock": true
       },
       "6702546616581": {
@@ -2183,14 +2178,34 @@
         "handle": "uactp-stencil-crew-sock-black",
         "in_stock": true
       },
-      "6701189792005": {
-        "title": "UNDEFEATED INSULATED DOG BOWL",
-        "handle": "undefeated-insulated-dog-bowl",
+      "6677490303237": {
+        "title": "UACTP BELT",
+        "handle": "uactp-belt",
         "in_stock": true
       },
       "6561549189193": {
         "title": "UACTP OLYMPIC DUMBBELL SET",
         "handle": "uactp-olympic-dumbbell-set",
+        "in_stock": true
+      },
+      "6688118276357": {
+        "title": "UNDEFEATED x BUNBUKU TAPERED TRASH CAN",
+        "handle": "undefeated-x-bunbuku-tapered-trash-can",
+        "in_stock": true
+      },
+      "6701189792005": {
+        "title": "UNDEFEATED INSULATED DOG BOWL",
+        "handle": "undefeated-insulated-dog-bowl",
+        "in_stock": true
+      },
+      "6681516179717": {
+        "title": "UNDEFEATED HOUSE SLIPPER",
+        "handle": "undefeated-house-slipper",
+        "in_stock": true
+      },
+      "6676601766149": {
+        "title": "UNDEFEATED ICON CLASSIC SLIDE",
+        "handle": "undefeated-icon-classic-slide",
         "in_stock": true
       },
       "6701487915269": {
@@ -2246,16 +2261,6 @@
       "6697934782725": {
         "title": "UNDEFEATED X PADMORE & BARNES P404 ORIGINAL BOOT - BROWN",
         "handle": "undefeated-x-padmore-barnes-p404-original-boot-brown",
-        "in_stock": true
-      },
-      "6681516179717": {
-        "title": "UNDEFEATED HOUSE SLIPPER",
-        "handle": "undefeated-house-slipper",
-        "in_stock": true
-      },
-      "6676601766149": {
-        "title": "UNDEFEATED ICON CLASSIC SLIDE",
-        "handle": "undefeated-icon-classic-slide",
         "in_stock": true
       },
       "6702724841733": {
@@ -2496,11 +2501,6 @@
       "6702706524421": {
         "title": "NIKE KOBE 10 - WHITE/ MULTI-COLOR",
         "handle": "nike-kobe-10-white-multi-color",
-        "in_stock": true
-      },
-      "6702706655493": {
-        "title": "NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE",
-        "handle": "nike-air-more-uptempo-96-black-white",
         "in_stock": true
       }
     },
@@ -2873,7 +2873,7 @@
       "10672065544459": {
         "title": "New Balance 1906L",
         "handle": "new-balance-u1906lar-black-cement-blue-gemstone",
-        "in_stock": true
+        "in_stock": false
       },
       "10838715924747": {
         "title": "Asics GEL-Quantum™ 360 I AMP",
@@ -2958,7 +2958,7 @@
       "10088896758027": {
         "title": "New Balance 530",
         "handle": "new-balance-u530tbb-mineral-mineral",
-        "in_stock": true
+        "in_stock": false
       },
       "8812816924939": {
         "title": "New Balance U1906LAE",
@@ -2988,7 +2988,7 @@
       "10649004343563": {
         "title": "New Balance T500",
         "handle": "new-balance-t500snb-bisque",
-        "in_stock": true
+        "in_stock": false
       },
       "8542244995339": {
         "title": "Reebok Club C 85 Vintage",
@@ -3757,6 +3757,16 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "8762277167292": {
+        "title": "Billionaire Boys Club Knit Tee - Black",
+        "handle": "billionaire-boys-club-knit-tee-black-1",
+        "in_stock": true
+      },
+      "9063757971644": {
+        "title": "Women's Nike Rejuven8 Run SP - Black/Black",
+        "handle": "womens-nike-rejuven8-run-sp-black-black",
+        "in_stock": true
+      },
       "8950776004796": {
         "title": "Diet Starts Monday Checkered Beanie - Yellow/Black",
         "handle": "diet-starts-monday-checkered-beanie-yellow-black",
@@ -3840,11 +3850,6 @@
       "9363160531132": {
         "title": "Virgil Abloh Archive x USA x Nike Woven Staff Jacket - White/Deep Royal Blue",
         "handle": "nike-usa-x-vaa-woven-staff-jacket-white-deep-royal",
-        "in_stock": false
-      },
-      "9373321527484": {
-        "title": "Nike NFL Rivalry Air Max 90 Texans - White/Italy Blue",
-        "handle": "nike-nfl-rivalry-air-max-90-texans-white-italy-blue",
         "in_stock": false
       },
       "9410300608700": {
@@ -4300,7 +4305,7 @@
       "9015560437948": {
         "title": "Politics Script A-Frame Snapback - Cream/Blue",
         "handle": "politics-script-a-frame-snapback-cream-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "9015560208572": {
         "title": "Politics Script A-Frame Snapback - Cream/Burnt Orange",
@@ -5001,11 +5006,6 @@
         "title": "Anti Social Social Club Abstract Applique Mind Games Hoodie - Black",
         "handle": "anti-social-social-club-abstract-applique-mind-games-hoodie-black",
         "in_stock": true
-      },
-      "9513816457404": {
-        "title": "Nike Air Max 95 'Greedy' - Black/Volt",
-        "handle": "nike-air-max-95-greedy-black-volt-1",
-        "in_stock": false
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5272,7 +5272,7 @@
       "15038388175224": {
         "title": "Formes Luxe Washbag Magna",
         "handle": "luxe-washbag-magna",
-        "in_stock": true
+        "in_stock": false
       },
       "15038388109688": {
         "title": "Formes Dayfold Verdal",
@@ -7802,7 +7802,7 @@
       "9118677598413": {
         "title": "Netherlands x Patta Anthem Jacket Deep Royal Blue / White",
         "handle": "nike-clothing-knvx-m-nk-df-kmd-x2-ant-jkt-blue-j364582",
-        "in_stock": true
+        "in_stock": false
       },
       "9101852508365": {
         "title": "Men's Puke T-Shirt Blue",
@@ -8768,460 +8768,24 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith Kids Micro Plaid Pleated Skirt - Chest\nhttps://kith.com/products/khk060655-5010",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+      "message": "🆕 **New drop** at Kith: Salomon XT-EVO - Black / Black / Asphalt\nhttps://kith.com/products/sall45404200",
+      "detected_at": "2026-09-04T19:53:32.388672+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Textured Denim Gi Shirt - Indigo\nhttps://kith.com/products/khk010324-403",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+      "message": "🆕 **New drop** at Kith: Salomon XT-EVO - Black / Fiery Red / White\nhttps://kith.com/products/sall49177900",
+      "detected_at": "2026-09-04T19:53:32.388672+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Plaid Overall Dress - Chest\nhttps://kith.com/products/khk080109-5010",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+      "message": "🆕 **New drop** at Undefeated: UNDEFEATED x BUNBUKU TAPERED TRASH CAN\nhttps://undefeated.com/products/undefeated-x-bunbuku-tapered-trash-can",
+      "detected_at": "2026-09-04T19:53:32.388672+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Hunter Quarter Zip - Nocturnal\nhttps://kith.com/products/khk031394-413",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Billionaire Boys Club Knit Tee - Black\nhttps://sneakerpolitics.com/products/billionaire-boys-club-knit-tee-black-1",
+      "detected_at": "2026-09-04T19:53:32.388672+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Letter Nelson Sweatpant - Stadium\nhttps://kith.com/products/khk060659-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Nelson Sweatpant - Sandrift\nhttps://kith.com/products/khk060660-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Nelson Sweatpant - Nocturnal\nhttps://kith.com/products/khk060662-413",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Athletic Nelson Short - Medium Heather Grey\nhttps://kith.com/products/khk060656-154",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Nelson Sweatpant - Black\nhttps://kith.com/products/khk060662-001",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Blurred Stripe Soccer Jersey - Cyanotype\nhttps://kith.com/products/khk031372-424",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Micro Plaid Snap Harrison Hoodie - Chest\nhttps://kith.com/products/khk031383-5010",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Printed Rye Pant - Durum\nhttps://kith.com/products/khk060649-957",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Moto Mesh Long Sleeve Donovan Tee - Black\nhttps://kith.com/products/khk031376-001",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids New York Scenic Shacket - Roman Wash\nhttps://kith.com/products/khk010325-5100",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Micro Plaid Cole Short - Chest\nhttps://kith.com/products/khk060654-5010",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Textured Malik Jersey - Battleship\nhttps://kith.com/products/khk031375-501",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Novelty Dawson Pant - Black\nhttps://kith.com/products/khk060657-001",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Nelson Hoodie - Sandrift\nhttps://kith.com/products/khk031392-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Plaid Apollo Shirt - Chest\nhttps://kith.com/products/khk031384-5010",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Letter Collared Nelson Dress - Stadium\nhttps://kith.com/products/khk080110-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Novelty Beckett Pullover - Black\nhttps://kith.com/products/khk031388-001",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Textured Denim Zane Cargo Pant - Indigo\nhttps://kith.com/products/khk060652-403",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Nelson Knit Crewneck - Cyanotype\nhttps://kith.com/products/khk031374-424",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Collegiate Nelson Sweatpant - Light Heather Grey\nhttps://kith.com/products/khk060658-002",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Lady Liberty Nelson Hoodie - Dark Indigo\nhttps://kith.com/products/khka030001-416",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Logo Blocked Hunter Quarter Zip - Black\nhttps://kith.com/products/khk031394-001",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Letter Collared Nelson Sweatshirt - Stadium\nhttps://kith.com/products/khk031391-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Collegiate Nelson Crewneck - Light Heather Grey\nhttps://kith.com/products/khk031390-002",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Textured V-Neck Collar Nelson Sweatshirt - Black\nhttps://kith.com/products/khk031389-001",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Printed Leonard Tee - Virtue\nhttps://kith.com/products/khk031397-323",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Sketched Classic Logo Tee - Nocturnal\nhttps://kith.com/products/khk031398-413",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Moto Mesh Cropped Long Sleeve Mika Tee - White\nhttps://kith.com/products/khk031378-101",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Puffer Vest - Polar\nhttps://kith.com/products/khk010328-5029",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Cropped Varsity Jacket - Noir\nhttps://kith.com/products/khk010333-7059",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Patchwork Plaid Ellis Jacket - Kindling\nhttps://kith.com/products/khk010326-211",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Textured Chauncey Cargo Pant - Battleship\nhttps://kith.com/products/khk060650-501",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Jacket - Stadium\nhttps://kith.com/products/khk010329-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Champions Tee - Silk\nhttps://kith.com/products/khk031396-116",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Serif Leonard Tee - Sandrift\nhttps://kith.com/products/khk031405-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Sketched Classic Logo Mulberry II Tee - Iolite\nhttps://kith.com/products/khk031399-6022",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Velour Paneled Linden Quarter Zip - Stadium\nhttps://kith.com/products/khk031395-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Velour Paneled Short - Stadium\nhttps://kith.com/products/khk060663-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Athletic Mesh Combo Hoodie - Medium Heather Grey\nhttps://kith.com/products/khk031387-154",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Graphic Tee - White\nhttps://kith.com/products/khk031402-101",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids & '47 for the New York Yankees Snapback Cap - Storm Mid Wash\nhttps://kith.com/products/khka050071-428",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids 2-Pack Big Claw Clips - Multi\nhttps://kith.com/products/khla150110-906",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Supplies Box Set - Multi\nhttps://kith.com/products/khla150111-906",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Varsity Snapback Cap - Stadium\nhttps://kith.com/products/khka050070-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Chunky Knit Rugby Shirt - Sandrift\nhttps://kith.com/products/khk031381-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Chunky Knit Nelson Crewneck - Essence\nhttps://kith.com/products/khk031380-624",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids & '47 for the Los Angeles Dodgers Denim Snapback Cap - Indigo\nhttps://kith.com/products/khka050072-403",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Alonzo Denim Jacket - Incognito\nhttps://kith.com/products/khk010331-244",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Mulberry Tee - Incognito\nhttps://kith.com/products/khk031401-244",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Bishop Tee - Incognito\nhttps://kith.com/products/khk031373-244",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Backpack - Polar\nhttps://kith.com/products/khka040072-5029",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids Leopard Heston Wide Leg Jean - Incognito\nhttps://kith.com/products/khk060653-244",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Denim Classic Cap - Polar\nhttps://kith.com/products/khka050073-5029",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Soft Pencil Case - Polar\nhttps://kith.com/products/khka040073-5029",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for Matthew Langille Tote Bag - Polar\nhttps://kith.com/products/khka040070-5029",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Puffer Vest - Polar\nhttps://kith.com/products/khb010082-5029",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Leopard Alonzo Denim Jacket - Incognito\nhttps://kith.com/products/khb010084-244",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Leopard Heston Wide Leg Jean - Incognito\nhttps://kith.com/products/khb060227-244",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Snapback Cap - Stadium\nhttps://kith.com/products/khba050070-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Leopard Kith Serif Leonard Tee - Sandrift\nhttps://kith.com/products/khb030407-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Nelson Knit Crewneck - Cyanotype\nhttps://kith.com/products/khb030403-424",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Chunky Knit Rugby Shirt - Sandrift\nhttps://kith.com/products/khb030402-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Textured Denim Chauncey Pant - Indigo\nhttps://kith.com/products/khb060226-403",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Collegiate Nelson Sweatpant - Light Heather Grey\nhttps://kith.com/products/khb060228-002",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Nelson Sweatpant - Sandrift\nhttps://kith.com/products/khb060229-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Graphic Bodysuit - White\nhttps://kith.com/products/khbbo0036-101",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby for Matthew Langille Nelson Hoodie - Sandrift\nhttps://kith.com/products/khb030406-104",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Jacket - Stadium\nhttps://kith.com/products/khb010081-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Patchwork Plaid Overall Dress - Chest\nhttps://kith.com/products/khb080040-5010",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Collegiate Snap Hunter Crewneck - Light Heather Grey\nhttps://kith.com/products/khb030405-002",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Varsity Letter Nelson Coverall - Stadium\nhttps://kith.com/products/khb110099-302",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Baby Patchwork Plaid Apollo Shirt - Chest\nhttps://kith.com/products/khb030404-5010",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE KOBE 10 - WHITE/ MULTI-COLOR\nhttps://undefeated.com/products/nike-kobe-10-white-multi-color",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR MORE UPTEMPO '96 - BLACK/ WHITE\nhttps://undefeated.com/products/nike-air-more-uptempo-96-black-white",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Multicolor Embroidered Logo Socks\nhttps://www.asphaltgold.de/products/autry-multicolor-embroidered-logo-socks-ivory",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Ribbed Embroidered Logo Socks\nhttps://www.asphaltgold.de/products/autry-ribbed-embroidered-logo-socks-dark-grey-melange",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Logo and Stripes Socks\nhttps://www.asphaltgold.de/products/autry-logo-and-stripes-socks-green-cream-blue",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Jacquard Striped Socks\nhttps://www.asphaltgold.de/products/autry-jacquard-striped-socks-silver-alabaster",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Jacquard Striped Socks\nhttps://www.asphaltgold.de/products/autry-jacquard-striped-socks-fiber-bordeaux",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Stars Socks\nhttps://www.asphaltgold.de/products/autry-stars-socks-ivory-black",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Multicolor Logo Baseball Cap\nhttps://www.asphaltgold.de/products/autry-multicolor-logo-baseball-cap-board",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry College Logo Baseball Cap\nhttps://www.asphaltgold.de/products/autry-college-logo-baseball-cap-blue",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Autry Corduroy Baseball Cap with Logo\nhttps://www.asphaltgold.de/products/autry-corduroy-baseball-cap-with-logo-alabaster",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Comme des Garcons Homme\tPants P003\nhttps://www.asphaltgold.de/products/comme-des-garcons-hommepants-p003-brown",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-rusted-rock",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-dusty-fern-black",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gelnyc-twilight-blue-gravel",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Salomon XT-4 OG GTX\nhttps://www.asphaltgold.de/products/salomon-xt4-og-gtx-black-black-black",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Diet Starts Monday Checkered Beanie - Yellow/Black\nhttps://sneakerpolitics.com/products/diet-starts-monday-checkered-beanie-yellow-black",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Oversized Wool Tweed Jacket Black\nhttps://www.slamjam.com/products/dries-van-noten-clothing-vince-4053-mwjacket-black-black-j363817",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Draped Cotton Pants Red\nhttps://www.slamjam.com/products/dries-van-noten-clothing-paroni-4131-mwpants-red-red-j363822",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Patchwork Jacquard Scarf Green\nhttps://www.slamjam.com/products/dries-van-noten-accessories-fidelke-4504-mwscarf-gre-green-j363831",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Hooded Feather Tree Sweatshirt Khaki / Shungite (Garment Dyed)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-hooded-feather-tree-sweat-multicolor-j359221",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Santa Fe Jacket Hamilton Brown / Tobacco (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-santa-fe-jacket-brown-j359207",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Relaxed Fit Big Pony Rugby Sweatshirt Black\nhttps://www.slamjam.com/products/polo-ralph-lauren-clothing-knit-rugby-sweatshirt-black-j360776",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Plaid Western Longsleeve Shirt Red\nhttps://www.slamjam.com/products/aries-clothing-plaid-western-ls-shirt-red-j354723",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 1955 501 Jeans Dark Wash\nhttps://www.slamjam.com/products/levis-clothing-1955-501-jeans-dark-indigo-flat-finish-black-j360076",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: 90000 Replicated 2L Water Resistant Bag Black\nhttps://www.slamjam.com/products/gr10k-accessories-90000-replicated-bag-black-j349072",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: 90000 Replicated 2L Water Resistant Bag White\nhttps://www.slamjam.com/products/gr10k-accessories-90000-replicated-bag-white-j349073",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's ACG \"Rope De Dope\" Therma-FIT ADV PrimaLoft Jacket Black\nhttps://www.slamjam.com/products/nike-clothing-nike-acg-rope-de-dope-black-j369791",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Club Rules Sun Pants Obsidian / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-club-rules-sun-pant-aop-blue-j364312",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Club Rules Helios Blazer Obsidian / Black\nhttps://www.slamjam.com/products/nike-clothing-m-nk-club-rules-sun-blazer-aop-blue-j364310",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Club Rules Helios Blazer White / Light Orewood Brown\nhttps://www.slamjam.com/products/nike-clothing-m-nk-club-rules-sun-blazer-aop-white-j364309",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Jordan Flight Varsity Jacket Black\nhttps://www.slamjam.com/products/nike-jordan-clothing-jordan-flight-black-j368340",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Jordan Flight Cat Scratch Shorts Red / Black / Sail\nhttps://www.slamjam.com/products/nike-jordan-clothing-m-j-flt-ssnl-catscrtch-shrt-red-j364286",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Brosh Comb Brown\nhttps://www.slamjam.com/products/wacko-maria-lifestyle-brosh-comb-brown-j356340",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Washed Heavy Weight T-Shirt (Type-14) Black\nhttps://www.slamjam.com/products/wacko-maria-clothing-washed-heavy-weight-crew-neck-t-shirt-type-14-black-j356339",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 50's Shorts (Type-2) Black\nhttps://www.slamjam.com/products/wacko-maria-clothing-50s-shorts-type-2-black-j356333",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Tim Lehi Washed Heavy Weight T-Shirt White\nhttps://www.slamjam.com/products/wacko-maria-clothing-tim-lehi-washed-heavy-weight-crew-neck-t-shirt-white-j356337",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Low Bridge Fit Headliner Gen 2 Sunglasses Shiny Black / G-15 Green\nhttps://www.slamjam.com/products/ray-ban-accessories-rw-ai-glasses-black-j356908",
-      "detected_at": "2026-09-04T17:37:24.949573+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Rejuven8 Run SP - Black/Black\nhttps://sneakerpolitics.com/products/womens-nike-rejuven8-run-sp-black-black",
+      "detected_at": "2026-09-04T19:53:32.388672+00:00"
     }
   ]
 }
