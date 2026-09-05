@@ -3428,17 +3428,17 @@
       "11024057336075": {
         "title": "Adidas x Pharrell Williams Water Moc *Starfish*",
         "handle": "adidas-x-pharrell-williams-water-moc-yellow-core-black-metallic-silver",
-        "in_stock": false
+        "in_stock": true
       },
       "11022289371403": {
         "title": "Adidas x Pharrell Williams Water Moc *Starfish*",
         "handle": "adidas-x-pharrell-williams-water-moc-lucid-ray-blue-silver-metallic-aurora-onix",
-        "in_stock": false
+        "in_stock": true
       },
       "11024062513419": {
         "title": "Adidas x Pharrell Williams Water Moc *Starfish*",
         "handle": "adidas-x-pharrell-williams-water-moc-core-black-iron-metallic-silver-metallic",
-        "in_stock": false
+        "in_stock": true
       },
       "10148165222667": {
         "title": "19-69 Christopher Eau de Parfum 30 mL",
@@ -3628,7 +3628,7 @@
       "10243161063691": {
         "title": "Adidas SL 72 PT",
         "handle": "adidas-sl-72-pt-blue-royal-wonder-white-off-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10885773033739": {
         "title": "Gramicci Nylon Packable G-Short",
@@ -6954,7 +6954,7 @@
       "10603822186762": {
         "title": "Air Jordan 4 Retro",
         "handle": "air-jordan-4-retro-white-tour-yellow-dark-blue-grey-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10603822088458": {
         "title": "Nike Air Max Plus VII",
@@ -6964,7 +6964,7 @@
       "10603822022922": {
         "title": "Nike AIR BAKIN HIGH SP",
         "handle": "nike-air-bakin-high-sp-varsity-red-white-varsity-maize-black",
-        "in_stock": false
+        "in_stock": true
       },
       "10602782884106": {
         "title": "Hoka One One TOR SUMMIT FLD",
@@ -8766,5 +8766,26 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Water Moc *Starfish*\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-water-moc-yellow-core-black-metallic-silver",
+      "detected_at": "2026-09-05T08:37:25.373447+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Water Moc *Starfish*\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-water-moc-lucid-ray-blue-silver-metallic-aurora-onix",
+      "detected_at": "2026-09-05T08:37:25.373447+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Asphaltgold: Adidas x Pharrell Williams Water Moc *Starfish*\nhttps://www.asphaltgold.de/products/adidas-x-pharrell-williams-water-moc-core-black-iron-metallic-silver-metallic",
+      "detected_at": "2026-09-05T08:37:25.373447+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Air Jordan 4 Retro\nhttps://www.afew-store.com/products/air-jordan-4-retro-white-tour-yellow-dark-blue-grey-black",
+      "detected_at": "2026-09-05T08:37:25.373447+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike AIR BAKIN HIGH SP\nhttps://www.afew-store.com/products/nike-air-bakin-high-sp-varsity-red-white-varsity-maize-black",
+      "detected_at": "2026-09-05T08:37:25.373447+00:00"
+    }
+  ]
 }
