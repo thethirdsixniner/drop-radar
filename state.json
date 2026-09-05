@@ -2578,7 +2578,7 @@
       "10666576642315": {
         "title": "Asics JOG 100S",
         "handle": "asics-jog-100s-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10631996342539": {
         "title": "Nike Total 90 PRM",
@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9134286864572": {
+        "title": "Nike Air Force 1 Low QS 'Camo' - Asparagus/Wheat Grass",
+        "handle": "nike-air-force-1-low-qs-camo-asparagus-wheat-grass",
+        "in_stock": true
+      },
       "9413092343996": {
         "title": "Pharrell Williams x Adidas Water Moc - Yellow/Core Black",
         "handle": "pharrell-williams-x-adidas-water-moc-yellow-core-black",
@@ -5000,11 +5005,6 @@
       "9495519789244": {
         "title": "Hellstar Stars Shine Graffiti Sweatpants - Black",
         "handle": "hellstar-stars-shine-graffiti-sweatpants-black",
-        "in_stock": true
-      },
-      "9495519428796": {
-        "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
-        "handle": "hellstar-snap-sweatpants-w-flame-blue",
         "in_stock": true
       }
     },
@@ -8768,36 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: adidas x Pharrell Williams Water Moc - Lucid Ray Blue / Silver Metallic / Aurora Onix\nhttps://kith.com/products/aalb2845",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN  AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW\nhttps://undefeated.com/products/jordan-aj-4-retro-rare-air-white-tour-yellow",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN  PS AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW\nhttps://undefeated.com/products/jordan-ps-aj-4-retro-rare-air-white-tour-yellow",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN TD AJ 4 RETRO - WHITE/ TOUR YELLOW/ DARK BLUE GREY/ BLACK\nhttps://undefeated.com/products/jordan-td-aj-4-retro-white-tour-yellow-dark-blue-grey-black",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW\nhttps://undefeated.com/products/jordan-gs-aj-4-retro-rare-air-white-tour-yellow",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Water Moc - Yellow/Core Black\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-water-moc-yellow-core-black",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Water Moc - Lucid Ray Blue/Silver Metallic\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-water-moc-lucid-ray-blue-silver-metallic",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Water Moc - Core Black/Iron Metallic\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-water-moc-core-black-iron-metallic",
-      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 Low QS 'Camo' - Asparagus/Wheat Grass\nhttps://sneakerpolitics.com/products/nike-air-force-1-low-qs-camo-asparagus-wheat-grass",
+      "detected_at": "2026-09-05T17:28:45.745376+00:00"
     }
   ]
 }
