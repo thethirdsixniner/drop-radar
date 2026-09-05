@@ -4372,11 +4372,6 @@
         "handle": "politics-script-a-frame-snapback-cream-red",
         "in_stock": true
       },
-      "9015560437948": {
-        "title": "Politics Script A-Frame Snapback - Cream/Blue",
-        "handle": "politics-script-a-frame-snapback-cream-blue",
-        "in_stock": false
-      },
       "9015560208572": {
         "title": "Politics Script A-Frame Snapback - Cream/Burnt Orange",
         "handle": "politics-script-a-frame-snapback-cream-burnt-orange",
@@ -5005,6 +5000,11 @@
       "9495519789244": {
         "title": "Hellstar Stars Shine Graffiti Sweatpants - Black",
         "handle": "hellstar-stars-shine-graffiti-sweatpants-black",
+        "in_stock": true
+      },
+      "9495519428796": {
+        "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
+        "handle": "hellstar-snap-sweatpants-w-flame-blue",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 Low QS 'Camo' - Asparagus/Wheat Grass\nhttps://sneakerpolitics.com/products/nike-air-force-1-low-qs-camo-asparagus-wheat-grass",
-      "detected_at": "2026-09-05T17:28:45.745376+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Sweatpants w/ Flame - Blue\nhttps://sneakerpolitics.com/products/hellstar-snap-sweatpants-w-flame-blue",
+      "detected_at": "2026-09-05T19:23:01.367256+00:00"
     }
   ]
 }
