@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286750244992": {
+        "title": "adidas x Pharrell Williams Water Moc - Lucid Ray Blue / Silver Metallic / Aurora Onix",
+        "handle": "aalb2845",
+        "in_stock": true
+      },
       "8286750048384": {
         "title": "Salomon XT-EVO - Black / Black / Asphalt",
         "handle": "sall45404200",
@@ -1245,17 +1250,32 @@
         "title": "Junya Watanabe MAN Plaid Jacquard Stand Collar Shirt - White / Black",
         "handle": "wp-b021-051-1-blk",
         "in_stock": false
-      },
-      "8286728814720": {
-        "title": "Jordan x Free The Youth Track Pant - Black / Crimson",
-        "handle": "joriq6227-010",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702697611525": {
+        "title": "JORDAN  AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW",
+        "handle": "jordan-aj-4-retro-rare-air-white-tour-yellow",
+        "in_stock": true
+      },
+      "6702697644293": {
+        "title": "JORDAN  PS AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW",
+        "handle": "jordan-ps-aj-4-retro-rare-air-white-tour-yellow",
+        "in_stock": true
+      },
+      "6702697775365": {
+        "title": "JORDAN TD AJ 4 RETRO - WHITE/ TOUR YELLOW/ DARK BLUE GREY/ BLACK",
+        "handle": "jordan-td-aj-4-retro-white-tour-yellow-dark-blue-grey-black",
+        "in_stock": true
+      },
       "6702727364869": {
         "title": "NIKE AIR DIAMOND TURF II - BLACK/ WHITE/ FIRE RED",
         "handle": "nike-air-diamond-turf-ii-black-white-fire-red",
+        "in_stock": true
+      },
+      "6702697677061": {
+        "title": "JORDAN GS AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW",
+        "handle": "jordan-gs-aj-4-retro-rare-air-white-tour-yellow",
         "in_stock": true
       },
       "6702726775045": {
@@ -2482,26 +2502,6 @@
         "title": "NIKE TD LITTLE MAX '95 - BLACK/PINK FOAM/ WHITE",
         "handle": "nike-td-little-max-95-black-pink-foam-white",
         "in_stock": true
-      },
-      "6701487227141": {
-        "title": "NIKE X LA RAMS AIR MAX 90 - WHITE/ HYPERROYAL",
-        "handle": "nike-x-la-rams-air-max-90-white-hyperroyal",
-        "in_stock": false
-      },
-      "6702439858437": {
-        "title": "JORDAN AJ 11 RETRO LOW - WHITE/ UNIVERSITY BLUE/ BLACK",
-        "handle": "jordan-aj-11-retro-low-white-university-blue-black",
-        "in_stock": true
-      },
-      "6702713700613": {
-        "title": "JORDAN AJ 3 RETRO 'LASER' - PHANTOM/ UNIVERSITY RED",
-        "handle": "jordan-aj-3-retro-laser-phantom-university-red",
-        "in_stock": true
-      },
-      "6702706524421": {
-        "title": "NIKE KOBE 10 - WHITE/ MULTI-COLOR",
-        "handle": "nike-kobe-10-white-multi-color",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2543,7 +2543,7 @@
       "10899567673611": {
         "title": "New Balance 740",
         "handle": "new-balance-740-shipyard-timberwolf-cortado",
-        "in_stock": true
+        "in_stock": false
       },
       "10893413843211": {
         "title": "Asics x Circular Economy Neotide™",
@@ -3757,6 +3757,21 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9413092343996": {
+        "title": "Pharrell Williams x Adidas Water Moc - Yellow/Core Black",
+        "handle": "pharrell-williams-x-adidas-water-moc-yellow-core-black",
+        "in_stock": true
+      },
+      "9409252098236": {
+        "title": "Pharrell Williams x Adidas Water Moc - Lucid Ray Blue/Silver Metallic",
+        "handle": "pharrell-williams-x-adidas-water-moc-lucid-ray-blue-silver-metallic",
+        "in_stock": true
+      },
+      "9413079564476": {
+        "title": "Pharrell Williams x Adidas Water Moc - Core Black/Iron Metallic",
+        "handle": "pharrell-williams-x-adidas-water-moc-core-black-iron-metallic",
+        "in_stock": true
+      },
       "9359524167868": {
         "title": "Big Kids Off-White Arrow Acrylic Tee - Black",
         "handle": "big-kids-off-white-arrow-acrylic-tee-black",
@@ -4991,21 +5006,6 @@
         "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
         "handle": "hellstar-snap-sweatpants-w-flame-blue",
         "in_stock": true
-      },
-      "9495514316988": {
-        "title": "Hellstar Snap Shorts - Grey",
-        "handle": "hellstar-snap-shorts-grey",
-        "in_stock": true
-      },
-      "9495508975804": {
-        "title": "Hellstar Crochet Jesus Tee - Black",
-        "handle": "hellstar-crochet-jesus-t-shirt-no-rhinestones-black",
-        "in_stock": true
-      },
-      "8970815799484": {
-        "title": "Honor The Gift 1998 Drive In Crewneck - Black",
-        "handle": "honor-the-gift-1998-drive-in-crewneck-black",
-        "in_stock": true
       }
     },
     "https://www.kickgame.co.uk": {
@@ -5967,7 +5967,7 @@
       "15034695745912": {
         "title": "On Cloudrunner 3 'Black Ivory'",
         "handle": "on-cloudrunner-3-black-ivory",
-        "in_stock": true
+        "in_stock": false
       },
       "15034695254392": {
         "title": "On Cloudrunner 3 'White Glacier'",
@@ -7822,7 +7822,7 @@
       "9128253358285": {
         "title": "Air Bakin High SP Sneakers Black / Varsity Red",
         "handle": "nike-footwear-nike-air-bakin-high-sp-red-j369603",
-        "in_stock": true
+        "in_stock": false
       },
       "9128253161677": {
         "title": "Air Jordan 4 'Rare Air' Sneakers Tour Yellow",
@@ -8766,5 +8766,38 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Kith: adidas x Pharrell Williams Water Moc - Lucid Ray Blue / Silver Metallic / Aurora Onix\nhttps://kith.com/products/aalb2845",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN  AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW\nhttps://undefeated.com/products/jordan-aj-4-retro-rare-air-white-tour-yellow",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN  PS AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW\nhttps://undefeated.com/products/jordan-ps-aj-4-retro-rare-air-white-tour-yellow",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN TD AJ 4 RETRO - WHITE/ TOUR YELLOW/ DARK BLUE GREY/ BLACK\nhttps://undefeated.com/products/jordan-td-aj-4-retro-white-tour-yellow-dark-blue-grey-black",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ 4 RETRO 'RARE AIR' - WHITE/ TOUR YELLOW\nhttps://undefeated.com/products/jordan-gs-aj-4-retro-rare-air-white-tour-yellow",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Water Moc - Yellow/Core Black\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-water-moc-yellow-core-black",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Water Moc - Lucid Ray Blue/Silver Metallic\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-water-moc-lucid-ray-blue-silver-metallic",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Pharrell Williams x Adidas Water Moc - Core Black/Iron Metallic\nhttps://sneakerpolitics.com/products/pharrell-williams-x-adidas-water-moc-core-black-iron-metallic",
+      "detected_at": "2026-09-05T15:15:40.561697+00:00"
+    }
+  ]
 }
