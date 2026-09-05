@@ -489,7 +489,7 @@
       "8286747099264": {
         "title": "Converse First String Jack Purcell - Mountain View / Marshmallow / Chestnut",
         "handle": "cna24015c",
-        "in_stock": true
+        "in_stock": false
       },
       "8286746902656": {
         "title": "On Running x Post Archive Faction WMNS Cloudsoma - Haze / Linen",
@@ -2528,7 +2528,7 @@
       "10216687173899": {
         "title": "Adidas SL 72 RS",
         "handle": "adidas-sl-72-rs-cloud-white-aurora-ivy-crystal-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10856368898315": {
         "title": "Autry Two-Tone Baseball Cap With Embroidered Logo",
@@ -3043,7 +3043,7 @@
       "10867374096651": {
         "title": "New Balance 204L",
         "handle": "new-balance-204l-dark-silver-metallic-slate-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10834334712075": {
         "title": "Nike Vomero Plus",
@@ -4762,11 +4762,6 @@
         "handle": "nike-dunk-low-ps-midnight-navy-speed-red",
         "in_stock": true
       },
-      "8912850780348": {
-        "title": "Stussy Hooded Coaches Jacket - Black",
-        "handle": "stussy-hooded-coaches-jacket-black",
-        "in_stock": false
-      },
       "9410002485436": {
         "title": "Women's Samba OG - Brown Desert/Warm Vanilla",
         "handle": "womens-samba-og-brown-desert-warm-vanilla",
@@ -5005,6 +5000,11 @@
       "9495519428796": {
         "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
         "handle": "hellstar-snap-sweatpants-w-flame-blue",
+        "in_stock": true
+      },
+      "9495514316988": {
+        "title": "Hellstar Snap Shorts - Grey",
+        "handle": "hellstar-snap-shorts-grey",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Sweatpants w/ Flame - Blue\nhttps://sneakerpolitics.com/products/hellstar-snap-sweatpants-w-flame-blue",
-      "detected_at": "2026-09-05T19:23:01.367256+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Shorts - Grey\nhttps://sneakerpolitics.com/products/hellstar-snap-shorts-grey",
+      "detected_at": "2026-09-05T21:33:23.289072+00:00"
     }
   ]
 }
