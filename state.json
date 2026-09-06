@@ -2543,7 +2543,7 @@
       "10781206446347": {
         "title": "Nike Wmns Pegasus Premium *Forest Gump*",
         "handle": "nike-wmns-pegasus-premium-forest-gump-white-white-sail-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10104440029451": {
         "title": "New Balance 2002R",
@@ -2553,7 +2553,7 @@
       "10736893985035": {
         "title": "Autry Medalist W",
         "handle": "autry-medalist-w-beige",
-        "in_stock": true
+        "in_stock": false
       },
       "10631996342539": {
         "title": "Nike Total 90 PRM",
@@ -2563,7 +2563,7 @@
       "9768651489547": {
         "title": "Clarks Straven Edge",
         "handle": "clarks-originals-straven-edge-black-combi-leather",
-        "in_stock": true
+        "in_stock": false
       },
       "10866596577547": {
         "title": "Autry Medalist W *Leather / Suede*",
@@ -2613,7 +2613,7 @@
       "10889079456011": {
         "title": "Patta Duffle Bag",
         "handle": "patta-duffle-bag-kombu-green",
-        "in_stock": true
+        "in_stock": false
       },
       "10866062655755": {
         "title": "Carhartt WIP Prescott Tote",
@@ -3143,7 +3143,7 @@
       "10866627379467": {
         "title": "Autry Medalist Platform W",
         "handle": "autry-medalist-platform-w-white-leopard",
-        "in_stock": true
+        "in_stock": false
       },
       "10744350146827": {
         "title": "Adidas Samba JP",
@@ -3188,7 +3188,7 @@
       "10837120254219": {
         "title": "Nike\tClub Unstructured Cap",
         "handle": "nikeclub-unstructured-cap-black-sail",
-        "in_stock": true
+        "in_stock": false
       },
       "10857918529803": {
         "title": "Nike Cafe Swoosh Illustration T-Shirt",
@@ -3323,7 +3323,7 @@
       "10885477269771": {
         "title": "Gramicci G-Pant Straight Fit",
         "handle": "gramicci-gpant-straight-fit-smokey-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10883570893067": {
         "title": "Stockholm Surfboard Club Ulf Logo Hoodie",
@@ -5012,7 +5012,7 @@
       "15051790909816": {
         "title": "Saucony Grid Legacy 'Saddle White'",
         "handle": "saucony-grid-legacy-saddle-white",
-        "in_stock": false
+        "in_stock": true
       },
       "15051414602104": {
         "title": "Summit Seeker® Nero",
@@ -5937,7 +5937,7 @@
       "15035590017400": {
         "title": "Saucony Progrid Omni 9 OG 'White Cadet'",
         "handle": "saucony-progrid-omni-9-og-white-cadet",
-        "in_stock": false
+        "in_stock": true
       },
       "15035431518584": {
         "title": "Saucony Progrid Omni 9 OG 'Carbon Cadet'",
@@ -6167,7 +6167,7 @@
       "15031076716920": {
         "title": "Saucony Progrid Omni 9 OG 'Black White'",
         "handle": "saucony-progrid-omni-9-og-black-white",
-        "in_stock": false
+        "in_stock": true
       },
       "15031076422008": {
         "title": "Saucony Progrid Omni 9 OG 'Microchip'",
@@ -6182,7 +6182,7 @@
       "15030847046008": {
         "title": "ASICS Gel NYC 'Cream Cloud Grey'",
         "handle": "asics-gel-nyc-cream-cloud-grey",
-        "in_stock": false
+        "in_stock": true
       },
       "15030846685560": {
         "title": "ASICS Gel NYC 2.0 'Umeboshi Moonrock'",
@@ -8766,5 +8766,22 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🔥 **Restock** at Kick Game: Saucony Grid Legacy 'Saddle White'\nhttps://www.kickgame.co.uk/products/saucony-grid-legacy-saddle-white",
+      "detected_at": "2026-09-06T11:15:23.736229+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'White Cadet'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-white-cadet",
+      "detected_at": "2026-09-06T11:15:23.736229+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Saucony Progrid Omni 9 OG 'Black White'\nhttps://www.kickgame.co.uk/products/saucony-progrid-omni-9-og-black-white",
+      "detected_at": "2026-09-06T11:15:23.736229+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: ASICS Gel NYC 'Cream Cloud Grey'\nhttps://www.kickgame.co.uk/products/asics-gel-nyc-cream-cloud-grey",
+      "detected_at": "2026-09-06T11:15:23.736229+00:00"
+    }
+  ]
 }
