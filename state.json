@@ -3757,6 +3757,11 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9550189199548": {
+        "title": "Politics Chassis 5 Panel Hat - Khaki",
+        "handle": "politics-chassis-5-panel-hat-khaki",
+        "in_stock": true
+      },
       "9472692846780": {
         "title": "Nike Air Force 1 Low 'Horse of a Different Color' - Campfire Orange/Sunset",
         "handle": "nike-air-force-1-low-horse-of-a-different-color-campfire-orange-sunset",
@@ -5000,11 +5005,6 @@
       "9495519428796": {
         "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
         "handle": "hellstar-snap-sweatpants-w-flame-blue",
-        "in_stock": true
-      },
-      "9495514316988": {
-        "title": "Hellstar Snap Shorts - Grey",
-        "handle": "hellstar-snap-shorts-grey",
         "in_stock": true
       }
     },
@@ -8766,5 +8766,10 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Chassis 5 Panel Hat - Khaki\nhttps://sneakerpolitics.com/products/politics-chassis-5-panel-hat-khaki",
+      "detected_at": "2026-09-06T21:34:40.348084+00:00"
+    }
+  ]
 }
