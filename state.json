@@ -739,7 +739,7 @@
       "8286730485888": {
         "title": "SIR Sona Pant - Geo Scape",
         "handle": "sir326-5001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286730387584": {
         "title": "SIR Sona Maxi Dress - Geo Scape",
@@ -749,7 +749,7 @@
       "8286730453120": {
         "title": "SIR Sona Halter Tie Top - Geo Scape",
         "handle": "sir326-2001",
-        "in_stock": true
+        "in_stock": false
       },
       "8286730354816": {
         "title": "SIR Mireli String Triangle Top - Rose Parquet Plum",
@@ -4587,11 +4587,6 @@
         "handle": "rhude-script-logo-sock-black-gold",
         "in_stock": true
       },
-      "9100849414332": {
-        "title": "Rhude Rossa Strapback - Blue/White",
-        "handle": "rhude-rossa-strapback-blue-white",
-        "in_stock": false
-      },
       "9356451250364": {
         "title": "Politics Houston Blueprint Tee - Off White",
         "handle": "politics-houston-blueprint-tee-off-white",
@@ -5005,6 +5000,11 @@
       "9495514316988": {
         "title": "Hellstar Snap Shorts - Grey",
         "handle": "hellstar-snap-shorts-grey",
+        "in_stock": true
+      },
+      "9495508975804": {
+        "title": "Hellstar Crochet Jesus Tee - Black",
+        "handle": "hellstar-crochet-jesus-t-shirt-no-rhinestones-black",
         "in_stock": true
       }
     },
@@ -7812,7 +7812,7 @@
       "9101852508365": {
         "title": "Men's Puke T-Shirt Blue",
         "handle": "erl-clothing-unisex-puke-t-shirt-knit-blue-j353854",
-        "in_stock": true
+        "in_stock": false
       },
       "9128265973965": {
         "title": "Men's Dense Oxford Nylon-TC Jacket Cactus",
@@ -8768,44 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: mfpen Round Neck Sweater\nhttps://www.asphaltgold.de/products/mfpen-round-neck-sweater-ecru-inverted-ajour-stripe",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Balance 740\nhttps://www.asphaltgold.de/products/new-balance-740-stone-pink-rosewood-sea-salt",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas LA Trainer OG\nhttps://www.asphaltgold.de/products/adidas-la-trainer-og-preloved-blue-semi-solar-yellow-ice-blue",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Classic 3-Stripes Tee\nhttps://www.asphaltgold.de/products/adidas-classic-3stripes-tee-white",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Our Legacy\tBallcap\nhttps://www.asphaltgold.de/products/our-legacy-ballcap-octo-wash",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-Kinetic Fluent\nhttps://www.asphaltgold.de/products/asics-gelkinetic-fluent-graphite-grey-pure-silver",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: ERL Heathered Hoodie Knit\nhttps://www.asphaltgold.de/products/erl-heathered-hoodie-knit-blue",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Birkenstock Highwood Lace Low\nhttps://www.asphaltgold.de/products/birkenstock-highwood-lace-low-habana",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Lacoste *Lacoste on Tennis* T-Shirt\nhttps://www.asphaltgold.de/products/lacoste-lacoste-on-tennis-tshirt-white",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Ghost Sprint W\nhttps://www.asphaltgold.de/products/adidas-ghost-sprint-w-carbon-carbon-core-black",
-      "detected_at": "2026-09-05T23:21:16.352799+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Crochet Jesus Tee - Black\nhttps://sneakerpolitics.com/products/hellstar-crochet-jesus-t-shirt-no-rhinestones-black",
+      "detected_at": "2026-09-06T01:15:15.219714+00:00"
     }
   ]
 }
