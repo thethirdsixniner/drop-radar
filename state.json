@@ -2505,6 +2505,26 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11028199801099": {
+        "title": "Autry Jacquard Striped Socks",
+        "handle": "autry-jacquard-striped-socks-bordeaux",
+        "in_stock": true
+      },
+      "11028199997707": {
+        "title": "Autry Jacquard Striped Socks",
+        "handle": "autry-jacquard-striped-socks-fiber-pink",
+        "in_stock": true
+      },
+      "11028200489227": {
+        "title": "Autry Logo and Stripes Socks",
+        "handle": "autry-logo-and-stripes-socks-board-cream-ivory",
+        "in_stock": true
+      },
+      "11028476559627": {
+        "title": "Autry Ribbed Embroidered Logo Socks",
+        "handle": "autry-ribbed-embroidered-logo-socks-ivory",
+        "in_stock": true
+      },
       "10896775479563": {
         "title": "Asics GEL-Kayano 14",
         "handle": "asics-gelkayano-14-white-ivory",
@@ -2988,7 +3008,7 @@
       "10834334712075": {
         "title": "Nike Vomero Plus",
         "handle": "nike-vomero-plus-multicolor-black-volt-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10140021162251": {
         "title": "New Balance T500",
@@ -2998,7 +3018,7 @@
       "8891354087691": {
         "title": "Nike P-6000",
         "handle": "nike-p6000-flat-pewter-white-light-iron-ore",
-        "in_stock": true
+        "in_stock": false
       },
       "10855206551819": {
         "title": "New Balance 1906L",
@@ -3734,26 +3754,6 @@
         "title": "Hoka Clifton 11",
         "handle": "hoka-clifton-11-boulder-grey-pebble-grey",
         "in_stock": true
-      },
-      "11026675138827": {
-        "title": "HOKA Tor Summit FLD",
-        "handle": "hoka-tor-summit-fld-black-black",
-        "in_stock": true
-      },
-      "11023337160971": {
-        "title": "Adidas\tOriginals Varsity Crewneck",
-        "handle": "adidasoriginals-varsity-crewneck-light-grey-heather",
-        "in_stock": true
-      },
-      "11023323824395": {
-        "title": "Adidas\tMunich 93 Tracktop",
-        "handle": "adidasmunich-93-tracktop-warm-vanilla",
-        "in_stock": true
-      },
-      "11027084706059": {
-        "title": "Adidas 3-Stripes Rugby Longsleeve Polo Shirt",
-        "handle": "adidas-3stripes-rugby-longsleeve-polo-shirt-aurora-coffee",
-        "in_stock": true
       }
     },
     "https://sneakerpolitics.com": {
@@ -4215,11 +4215,6 @@
       "9217515487420": {
         "title": "A Bathing Ape Bape Sta #1 M2 - Black/White",
         "handle": "a-bathing-ape-bape-sta-1-m2-black-white-1",
-        "in_stock": true
-      },
-      "9403733672124": {
-        "title": "Birkenstock Amsterdam Wrapped - Taupe",
-        "handle": "birkenstock-amsterdam-wrapped-taupe",
         "in_stock": true
       },
       "9413664637116": {
@@ -4975,7 +4970,7 @@
       "9002298572988": {
         "title": "Fear Of God Essentials Heavy Waffle 90's Hoodie - Vintage Black",
         "handle": "fear-of-god-essentials-heavy-waffle-90s-hoodie-vintage-black",
-        "in_stock": true
+        "in_stock": false
       },
       "9505203060924": {
         "title": "Hellstar No Guts No Glory Tee - White",
@@ -5005,6 +5000,11 @@
       "9495519428796": {
         "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
         "handle": "hellstar-snap-sweatpants-w-flame-blue",
+        "in_stock": true
+      },
+      "9495514316988": {
+        "title": "Hellstar Snap Shorts - Grey",
+        "handle": "hellstar-snap-shorts-grey",
         "in_stock": true
       }
     },
@@ -6167,7 +6167,7 @@
       "15031076716920": {
         "title": "Saucony Progrid Omni 9 OG 'Black White'",
         "handle": "saucony-progrid-omni-9-og-black-white",
-        "in_stock": true
+        "in_stock": false
       },
       "15031076422008": {
         "title": "Saucony Progrid Omni 9 OG 'Microchip'",
@@ -6261,6 +6261,196 @@
       }
     },
     "https://www.afew-store.com": {
+      "10613000798474": {
+        "title": "Salomon ACS WAIST PACK LARGE",
+        "handle": "salomon-acs-waist-pack-large-black",
+        "in_stock": false
+      },
+      "10612997619978": {
+        "title": "C.P. Company EXTRAFINE MERINO WOOL GOGGLE BEANIE",
+        "handle": "c-p-company-extrafine-merino-wool-goggle-beanie-andorra-red",
+        "in_stock": false
+      },
+      "10612993589514": {
+        "title": "Dime Dime Tray",
+        "handle": "dime-dime-tray-black",
+        "in_stock": false
+      },
+      "10612988215562": {
+        "title": "Carhartt WIP Penco Boxed Tape Dispenser",
+        "handle": "carhartt-wip-penco-boxed-tape-dispenser-black-grey",
+        "in_stock": false
+      },
+      "10612987953418": {
+        "title": "Carhartt WIP Canvas Table Set",
+        "handle": "carhartt-wip-canvas-table-set-hamilton-brown",
+        "in_stock": false
+      },
+      "10612979073290": {
+        "title": "Carhartt WIP WIP Chopsticks",
+        "handle": "carhartt-wip-wip-chopsticks-silver",
+        "in_stock": true
+      },
+      "10612976419082": {
+        "title": "Carhartt WIP Limn C Beanie",
+        "handle": "carhartt-wip-limn-c-beanie-black",
+        "in_stock": true
+      },
+      "10612976124170": {
+        "title": "Carhartt WIP Limn C Beanie",
+        "handle": "carhartt-wip-limn-c-beanie-tobacco",
+        "in_stock": true
+      },
+      "10612972519690": {
+        "title": "ROA NUNA  Packable Bag",
+        "handle": "roa-nuna-packable-bag-black",
+        "in_stock": true
+      },
+      "10612971274506": {
+        "title": "ROA NUNA  Packable Bag",
+        "handle": "roa-nuna-packable-bag-sage-green",
+        "in_stock": true
+      },
+      "10612966883594": {
+        "title": "ROA LAKI Packable Knot Bag",
+        "handle": "roa-laki-packable-knot-bag-black1",
+        "in_stock": true
+      },
+      "10612965835018": {
+        "title": "ROA LAKI Small Packable Knot Bag",
+        "handle": "roa-laki-small-packable-knot-bag-sage-green",
+        "in_stock": true
+      },
+      "10612965474570": {
+        "title": "ROA LAKI Small Packable Knot Bag",
+        "handle": "roa-laki-small-packable-knot-bag-black",
+        "in_stock": true
+      },
+      "10612960624906": {
+        "title": "ROA LAKI Packable Knot Bag",
+        "handle": "roa-laki-packable-knot-bag-taupe-brown",
+        "in_stock": true
+      },
+      "10612924875018": {
+        "title": "ROA Logo Wool Beanie",
+        "handle": "roa-logo-wool-beanie-dark-green",
+        "in_stock": true
+      },
+      "10612924317962": {
+        "title": "ROA Logo Wool Beanie",
+        "handle": "roa-logo-wool-beanie-deep-black",
+        "in_stock": true
+      },
+      "10612922548490": {
+        "title": "ROA Vortex Mohair Beanie",
+        "handle": "roa-vortex-mohair-beanie-white-grey",
+        "in_stock": true
+      },
+      "10612921630986": {
+        "title": "ROA Vortex Mohair Beanie",
+        "handle": "roa-vortex-mohair-beanie-black-white",
+        "in_stock": true
+      },
+      "10612912914698": {
+        "title": "Dime Pleated Baggy Denim Shorts",
+        "handle": "dime-pleated-baggy-denim-shorts-indigo",
+        "in_stock": true
+      },
+      "10612912259338": {
+        "title": "Dime Relaxed Denim Pants",
+        "handle": "dime-relaxed-denim-pants-blue-washed",
+        "in_stock": true
+      },
+      "10612911866122": {
+        "title": "Dime Baggy Wink Denim Pants",
+        "handle": "dime-baggy-wink-denim-pants-faded-black",
+        "in_stock": true
+      },
+      "10612887945482": {
+        "title": "Dime Pleated Denim Jacket",
+        "handle": "dime-pleated-denim-jacket-indigo",
+        "in_stock": true
+      },
+      "10612864975114": {
+        "title": "Dime Reversible Vest",
+        "handle": "dime-reversible-vest-black",
+        "in_stock": true
+      },
+      "10612860387594": {
+        "title": "Dime Mohair Double Zip Knit",
+        "handle": "dime-mohair-double-zip-knit-black-charcoal",
+        "in_stock": true
+      },
+      "10612838105354": {
+        "title": "Dime Distressed Terry Zip Hoodie",
+        "handle": "dime-distressed-terry-zip-hoodie-acid-black",
+        "in_stock": true
+      },
+      "10612832993546": {
+        "title": "Dime Finger Print Hoodie",
+        "handle": "dime-finger-print-hoodie-dark-brown",
+        "in_stock": true
+      },
+      "10612811890954": {
+        "title": "Dime Year Of The Horse Jersey",
+        "handle": "dime-year-of-the-horse-jersey-black",
+        "in_stock": true
+      },
+      "10612802552074": {
+        "title": "Dime Year Of The Horse Jersey",
+        "handle": "dime-year-of-the-horse-jersey-lilac",
+        "in_stock": true
+      },
+      "10612773650698": {
+        "title": "Dime Classic Future T-Shirt",
+        "handle": "dime-classic-future-t-shirt-black",
+        "in_stock": true
+      },
+      "10612773290250": {
+        "title": "Dime Ville T-Shirt",
+        "handle": "dime-ville-t-shirt-dark-brown",
+        "in_stock": true
+      },
+      "10612771651850": {
+        "title": "Dime Classic Dime Mtl T-Shirt",
+        "handle": "dime-classic-dime-mtl-t-shirt-ash",
+        "in_stock": true
+      },
+      "10612771324170": {
+        "title": "Dime Classic Dime Mtl T-Shirt",
+        "handle": "dime-classic-dime-mtl-t-shirt-black",
+        "in_stock": true
+      },
+      "10612619444490": {
+        "title": "Alpha Industries CWU-36/P Leather UV Bomber Jacket",
+        "handle": "alpha-industries-cwu-36-p-leather-uv-black",
+        "in_stock": true
+      },
+      "10612619215114": {
+        "title": "Alpha Industries CWU-9/P Quilted UV Field Jacket",
+        "handle": "alpha-industries-cwu-9-p-quilted-jacket-uv-black",
+        "in_stock": true
+      },
+      "10612608172298": {
+        "title": "Asics GEL-DS TRAINER SP",
+        "handle": "asics-gel-ds-trainer-sp-black-gunmetal",
+        "in_stock": true
+      },
+      "10612605321482": {
+        "title": "adidas Originals WMNS PARIS",
+        "handle": "adidas-originals-wmns-paris-cblack-warvan-goldmt",
+        "in_stock": true
+      },
+      "10612604305674": {
+        "title": "On Running WMNS Cloudtilt Arc",
+        "handle": "on-running-wmns-cloudtilt-arc-grain-ivory",
+        "in_stock": false
+      },
+      "10612594245898": {
+        "title": "New Balance 1890A",
+        "handle": "new-balance-1890a-angora-rich-earth",
+        "in_stock": false
+      },
       "10610096734474": {
         "title": "New Balance Premium Puffer Jacket",
         "handle": "new-balance-premium-puffer-jacket-dnt",
@@ -6754,7 +6944,7 @@
       "10606308884746": {
         "title": "Nike GIANNIS FREAK 8",
         "handle": "nike-giannis-freak-8-black-laser-orange-laser-crimson",
-        "in_stock": false
+        "in_stock": true
       },
       "10606307344650": {
         "title": "Nike Giannis Freak 8",
@@ -7320,200 +7510,130 @@
         "title": "Nike WMNS Air Rift",
         "handle": "nike-wmns-air-rift-dk-driftwood-black",
         "in_stock": true
-      },
-      "10599349190922": {
-        "title": "Nike Nike Air Force 1 '01",
-        "handle": "nike-nike-air-force-1-01-light-army-black-sail",
-        "in_stock": true
-      },
-      "10598931923210": {
-        "title": "MAMMUT Reversible Logo Beanie",
-        "handle": "mammut-reversible-logo-beanie-black-strata",
-        "in_stock": true
-      },
-      "10598910492938": {
-        "title": "Carhartt WIP Shortsleeve Cutout T-Shirt",
-        "handle": "carhartt-wip-shortsleeve-cutout-t-shirt-white",
-        "in_stock": true
-      },
-      "10598905577738": {
-        "title": "Columbia Rugged Ridge High Pile Full Zip",
-        "handle": "columbia-rugged-ridge-high-pile-full-zip-black",
-        "in_stock": true
-      },
-      "10598904299786": {
-        "title": "Columbia Rugged Ridge High Pile Full Zip",
-        "handle": "columbia-rugged-ridge-high-pile-full-zip-delta",
-        "in_stock": true
-      },
-      "10598868680970": {
-        "title": "MAMMUT Crater Light HS Hooded Gore-Tex Jacket",
-        "handle": "mammut-crater-light-hs-hooded-gore-tex-jacket-black",
-        "in_stock": true
-      },
-      "10598863503626": {
-        "title": "MAMMUT Rime IN Hooded Jacket",
-        "handle": "mammut-rime-in-hooded-jacket-black",
-        "in_stock": true
-      },
-      "10598672564490": {
-        "title": "Nike Air Max Goadome Low SP",
-        "handle": "nike-air-max-goadome-low-sp-black-black-black",
-        "in_stock": true
-      },
-      "10598672040202": {
-        "title": "Nike Ja 3 \"Black Label\"",
-        "handle": "nike-ja-3-sail-metallic-silver-cobalt-bliss",
-        "in_stock": false
-      },
-      "10597571166474": {
-        "title": "Nike Air Max Goadome Low SP",
-        "handle": "nike-air-max-goadome-low-sp-lt-orewood-brn-black-black",
-        "in_stock": true
-      },
-      "10597402181898": {
-        "title": "Lacoste OVERSHIRT",
-        "handle": "lacoste-overshirt-dark-navy-blue",
-        "in_stock": true
-      },
-      "10597401067786": {
-        "title": "Carhartt WIP Shortsleeve Vista T-Shirt",
-        "handle": "carhartt-wip-shortsleeve-vista-t-shirt-tobacco",
-        "in_stock": true
-      },
-      "10597398937866": {
-        "title": "Carhartt WIP Brandon Pant",
-        "handle": "carhartt-wip-brandon-pant-palisander",
-        "in_stock": true
-      },
-      "10597397266698": {
-        "title": "Carhartt WIP Brandon Pant",
-        "handle": "carhartt-wip-brandon-pant-styx",
-        "in_stock": true
-      },
-      "10597149966602": {
-        "title": "Air Jordan 1 Low OG",
-        "handle": "air-jordan-1-low-og-black-varsity-red-summit-white",
-        "in_stock": true
-      },
-      "10597148492042": {
-        "title": "Asics GEL-1130",
-        "handle": "asics-gel-1130-white-storm-cloud1",
-        "in_stock": true
-      },
-      "10597138432266": {
-        "title": "Hoka One One STINSON BREEZE",
-        "handle": "hoka-one-one-stinson-breeze-frost-grout",
-        "in_stock": false
-      },
-      "10597137907978": {
-        "title": "Hoka One One SPEEDGOAT 7 Gore-Tex",
-        "handle": "hoka-one-one-speedgoat-7-gore-tex-black-carbon-black",
-        "in_stock": true
-      },
-      "10597131223306": {
-        "title": "adidas Originals WMNS SAMBA OG",
-        "handle": "adidas-originals-wmns-samba-og-brown-warvan-maroon",
-        "in_stock": true
-      },
-      "10597130862858": {
-        "title": "New Balance 740",
-        "handle": "new-balance-740-horizon-grey-truffle-metallic",
-        "in_stock": true
-      },
-      "10597130043658": {
-        "title": "Hoka One One CLIFTON 11 Gore-Tex",
-        "handle": "hoka-one-one-clifton-11-gore-tex-varsity-burgundy-carbon-black",
-        "in_stock": true
-      },
-      "10597128896778": {
-        "title": "Lacoste POLO",
-        "handle": "lacoste-polo-silver-chine",
-        "in_stock": true
-      },
-      "10597128241418": {
-        "title": "adidas Originals FIREBIRD Track Top",
-        "handle": "adidas-originals-firebird-track-top-nindigblue",
-        "in_stock": false
-      },
-      "10597127684362": {
-        "title": "Carhartt WIP Hooded Vista Sweat",
-        "handle": "carhartt-wip-hooded-vista-sweat-black",
-        "in_stock": true
-      },
-      "10597126603018": {
-        "title": "Carhartt WIP Vista Sweat",
-        "handle": "carhartt-wip-vista-sweat-tobacco",
-        "in_stock": true
-      },
-      "10597126111498": {
-        "title": "Carhartt WIP Hooded Vista Jacket",
-        "handle": "carhartt-wip-hooded-vista-jacket-black",
-        "in_stock": true
-      },
-      "10597121982730": {
-        "title": "Carhartt WIP Payson Pant",
-        "handle": "carhartt-wip-payson-pant-blue",
-        "in_stock": true
-      },
-      "10597121753354": {
-        "title": "Carhartt WIP Double Knee Pant",
-        "handle": "carhartt-wip-double-knee-pant-camo-feather-tree-black",
-        "in_stock": true
-      },
-      "10597120901386": {
-        "title": "Carhartt WIP Shortsleeve Entrance T-Shirt",
-        "handle": "carhartt-wip-shortsleeve-entrance-t-shirt-black",
-        "in_stock": true
-      },
-      "10597120704778": {
-        "title": "Carhartt WIP Brady Pant",
-        "handle": "carhartt-wip-brady-pant-wall",
-        "in_stock": true
-      },
-      "10597120442634": {
-        "title": "Carhartt WIP Longsleeve Parson Shirt",
-        "handle": "carhartt-wip-longsleeve-parson-shirt-parson-check-wip-dusty-h",
-        "in_stock": true
-      },
-      "10597119688970": {
-        "title": "Carhartt WIP Longsleeve Feather Tree T-Shirt",
-        "handle": "carhartt-wip-longsleeve-feather-tree-t-shirt-camo-feather-tree-khaki-shungite",
-        "in_stock": true
-      },
-      "10597118542090": {
-        "title": "Carhartt WIP Landon Pant",
-        "handle": "carhartt-wip-landon-pant-black-48081",
-        "in_stock": true
-      },
-      "10596926128394": {
-        "title": "Nike AIR FORCE 1 '07 LV8",
-        "handle": "nike-nike-air-force-1-07-lv8-white-lt-orewood-brn-marakesh",
-        "in_stock": true
-      },
-      "10596353573130": {
-        "title": "G-SHOCK GA-2100LXB-1AER",
-        "handle": "g-shock-ga-2100lxb-1aer-black",
-        "in_stock": true
-      },
-      "10596351541514": {
-        "title": "G-SHOCK GM-2100LXB-1AER",
-        "handle": "g-shock-gm-2100lxb-1aer-black",
-        "in_stock": true
-      },
-      "10596344725770": {
-        "title": "Keen Jasper III",
-        "handle": "keen-jasper-iii-black-black",
-        "in_stock": true
-      },
-      "10596336140554": {
-        "title": "Oakley Remix dad hat",
-        "handle": "oakley-remix-dad-hat-dark-umber",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9131504861389": {
+        "title": "XT-Whisper GORE-TEX Sneakers Black / Silver",
+        "handle": "salomon-footwear-shoes-xt-whisper-gtx-black-j366219",
+        "in_stock": true
+      },
+      "9131505025229": {
+        "title": "XT-Whisper GORE-TEX Sneakers Delicioso / Asphalt / Castlerock",
+        "handle": "salomon-footwear-shoes-xt-whisper-gtx-beige-j366220",
+        "in_stock": true
+      },
+      "9131535696077": {
+        "title": "Air Force 1 LX Sneakers Black / Metallic Silver",
+        "handle": "nike-footwear-air-force-1-luxe-black-j364347",
+        "in_stock": true
+      },
+      "9131524948173": {
+        "title": "Women's Vomero Premium Sneakers University Red / Metallic Silver",
+        "handle": "nike-footwear-wmns-nike-vomero-premium-red-j369606",
+        "in_stock": true
+      },
+      "9131518394573": {
+        "title": "Women's First Sight Shadow Low Sneakers Light Crimson / Metallic Silver",
+        "handle": "nike-footwear-wmns-nike-first-sight-shadow-red-j370030",
+        "in_stock": true
+      },
+      "9131515150541": {
+        "title": "KidSuper Top Flip Flops Turf Pitch",
+        "handle": "havaianas-footwear-hav-top-kidsuper-turf-pitch-green-j369920",
+        "in_stock": false
+      },
+      "9131515117773": {
+        "title": "KidSuper Top Flip Flops Camo",
+        "handle": "havaianas-footwear-hav-top-kidsuper-camo-red-j369919",
+        "in_stock": false
+      },
+      "9131515085005": {
+        "title": "KidSuper Top Flip Flops Futebol",
+        "handle": "havaianas-footwear-hav-top-kidsuper-soccer-beige-j369918",
+        "in_stock": false
+      },
+      "9131515052237": {
+        "title": "KidSuper Top Flip Flops Runner",
+        "handle": "havaianas-footwear-hav-top-kidsuper-runner-blue-j369917",
+        "in_stock": false
+      },
+      "9131505516749": {
+        "title": "XT-4 OG Sneakers Vanilla Ice / Acid Lime / Pink Frosting",
+        "handle": "salomon-footwear-shoes-xt-4-og-yellow-j366224",
+        "in_stock": true
+      },
+      "9131504074957": {
+        "title": "Snowclog OG Sneakers Black",
+        "handle": "salomon-footwear-shoes-snowclog-og-black-j366218",
+        "in_stock": true
+      },
+      "9131503681741": {
+        "title": "Women's Suede Bloom Dress-Up Sneakers Matte Bronze / Frosted Ivory",
+        "handle": "puma-footwear-wmns-suede-bloom-dress-up-wns-brown-j363780",
+        "in_stock": true
+      },
+      "9131503648973": {
+        "title": "Women's Speedcat Wedge Tonal Sneakers Sand Dune / Alpine Snow",
+        "handle": "puma-footwear-wmns-speedcat-wedge-tonal-wns-brown-j363777",
+        "in_stock": true
+      },
+      "9131503714509": {
+        "title": "Achillium Sneakers White / Vapor Gray",
+        "handle": "puma-footwear-achillium-white-j363739",
+        "in_stock": true
+      },
+      "9131502108877": {
+        "title": "GEL-DS Trainer SP Sneakers Cream / Vanilla",
+        "handle": "asics-footwear-gel-ds-trainer-sp-beige-j359661",
+        "in_stock": true
+      },
+      "9131503943885": {
+        "title": "Crosspath XC GORE-TEX Sneakers Black",
+        "handle": "vans-footwear-crosspath-xc-gore-tex-mte-black-j361934",
+        "in_stock": true
+      },
+      "9131501289677": {
+        "title": "GEL-1130 Sneakers White / Lavender",
+        "handle": "asics-footwear-gel-1130-white-j359649",
+        "in_stock": true
+      },
+      "9131501256909": {
+        "title": "GEL-1130 Sneakers White / Midnight",
+        "handle": "asics-footwear-gel-1130-white-j359647",
+        "in_stock": true
+      },
+      "9108412498125": {
+        "title": "Men's McLAREN RACING Replica Hoodie Papaya",
+        "handle": "puma-clothing-mclaren-replica-hoodie-orange-j349930",
+        "in_stock": true
+      },
+      "9106453168333": {
+        "title": "Speedcat Metallic Sneakers Black / Warm White",
+        "handle": "puma-footwear-speedcat-metallic-black-j349831",
+        "in_stock": true
+      },
+      "9109492039885": {
+        "title": "Scuderia Ferrari Baseball Cap Black",
+        "handle": "puma-accessories-ferrari-bb-cap-black-j349829",
+        "in_stock": true
+      },
+      "9106453004493": {
+        "title": "Women's Speedcat Ballet Snake Print Shoes Black / Vapor Gray",
+        "handle": "puma-footwear-wmns-speedcat-ballet-snake-wns-black-j349825",
+        "in_stock": true
+      },
+      "9117148577997": {
+        "title": "Tall Dice Zip Hoodie Black",
+        "handle": "stussy-clothing-tall-dice-zip-hood-black-j361917",
+        "in_stock": true
+      },
+      "9128415985869": {
+        "title": "Men's 50's Shorts (Type-2) Black",
+        "handle": "wacko-maria-clothing-50s-shorts-type-2-black-j356333",
+        "in_stock": true
+      },
       "9128253325517": {
         "title": "Air Jordan 4 'Rare Air' (GS) Sneakers Tour Yellow",
         "handle": "nike-jordan-footwear-air-jordan-4-retro-tour-yellow-white-j369602",
@@ -7535,7 +7655,7 @@
         "in_stock": true
       },
       "9128418869453": {
-        "title": "Air Max 95 Big Bubble \"Mr. Greedy\" Sneakers White / Medium Ash",
+        "title": "Air Max 95 Big Bubble \"Greedy\" Sneakers White / Medium Ash",
         "handle": "nike-footwear-nike-air-max-95-big-bubble-premium-black-j370052",
         "in_stock": false
       },
@@ -7552,12 +7672,12 @@
       "9128417362125": {
         "title": "Men's OG Santa Fe Jacket Hamilton Brown / Tobacco (Stone Canvas)",
         "handle": "carhartt-wip-clothing-og-santa-fe-jacket-brown-j359207",
-        "in_stock": true
+        "in_stock": false
       },
       "9128417427661": {
         "title": "Men's Relaxed Fit Big Pony Rugby Sweatshirt Black",
         "handle": "polo-ralph-lauren-clothing-knit-rugby-sweatshirt-black-j360776",
-        "in_stock": true
+        "in_stock": false
       },
       "9128417067213": {
         "title": "Plaid Western Longsleeve Shirt Red",
@@ -7617,11 +7737,6 @@
       "9128416051405": {
         "title": "Men's Washed Heavy Weight T-Shirt (Type-14) Black",
         "handle": "wacko-maria-clothing-washed-heavy-weight-crew-neck-t-shirt-type-14-black-j356339",
-        "in_stock": true
-      },
-      "9128415985869": {
-        "title": "Men's 50's Shorts (Type-2) Black",
-        "handle": "wacko-maria-clothing-50s-shorts-type-2-black-j356333",
         "in_stock": true
       },
       "9128416084173": {
@@ -7922,7 +8037,7 @@
       "9127712424141": {
         "title": "Consultant Boots Deep Black",
         "handle": "our-legacy-footwear-consultant-boot-black-j355588",
-        "in_stock": true
+        "in_stock": false
       },
       "9104743071949": {
         "title": "Andie Base Layer Gloves Anthracite / Blue",
@@ -8627,7 +8742,7 @@
       "9127774519501": {
         "title": "Men's Sueded Cotton Jacket Brown",
         "handle": "sacai-clothing-sueded-cotton-jacket-brown-j360308",
-        "in_stock": true
+        "in_stock": false
       },
       "9127774290125": {
         "title": "Men's Organic Cotton Fleece Hoodie Shadow Brown",
@@ -8648,123 +8763,233 @@
         "title": "Men's Dyneema Polo Shirt Stone Grey",
         "handle": "gr10k-clothing-light-dyneema-polo-grey-j355087",
         "in_stock": true
-      },
-      "9127772717261": {
-        "title": "Men's 40000 Replicated Blouson Jacket Charcoal",
-        "handle": "gr10k-clothing-40000-replicated-blouson-jacket-black-j349038",
-        "in_stock": true
-      },
-      "9127772750029": {
-        "title": "Men's 40000 Replicated Blouson Jacket Orange Bishop",
-        "handle": "gr10k-clothing-40000-replicated-blouson-jacket-seasonal-orange-j349040",
-        "in_stock": true
-      },
-      "9127771898061": {
-        "title": "Clubmaster Classic Sunglasses Polished Black / Gold / G-15 Green",
-        "handle": "ray-ban-accessories-clubmaster-multicolor-j369012",
-        "in_stock": true
-      },
-      "9127771930829": {
-        "title": "Caravan Sunglasses Polished Arista Gold / G-15 Green",
-        "handle": "ray-ban-accessories-ray-ban-caravan-multicolor-j369013",
-        "in_stock": true
-      },
-      "9127771865293": {
-        "title": "Men's Bill Sunglasses Polished Black / Yellow",
-        "handle": "ray-ban-accessories-ray-ban-bill-yellow-j369008",
-        "in_stock": true
-      },
-      "9127771963597": {
-        "title": "Wayfarer Sunglasses Polished Black / G-15 Green",
-        "handle": "ray-ban-accessories-wayfarer-multicolor-j369011",
-        "in_stock": true
-      },
-      "9127771832525": {
-        "title": "Aviator Sunglasses Polished Silver / Orange Photocromic",
-        "handle": "ray-ban-accessories-ray-ban-aviator-orange-j369010",
-        "in_stock": true
-      },
-      "9058347417805": {
-        "title": "Men's Faust Wool Sweater Off White",
-        "handle": "undercover-clothing-knit-white-j333973",
-        "in_stock": true
-      },
-      "9127722418381": {
-        "title": "Tor Ultra Lo Sneakers Black",
-        "handle": "hoka-one-one-footwear-u-tor-ultra-lo-black-j362618",
-        "in_stock": false
-      },
-      "9127722287309": {
-        "title": "GEL-NYC Sneakers Cream / Antique Red",
-        "handle": "asics-footwear-gel-nyc-beige-j359691",
-        "in_stock": true
-      },
-      "9127722352845": {
-        "title": "Tor Ultra Lo Sneakers Antique Olive",
-        "handle": "hoka-one-one-footwear-u-tor-ultra-lo-green-j362617",
-        "in_stock": false
-      },
-      "9127722320077": {
-        "title": "GEL-NYC Sneakers Smoke Grey / Black",
-        "handle": "asics-footwear-gel-nyc-grey-j359690",
-        "in_stock": true
-      },
-      "9127722221773": {
-        "title": "GEL-NYC 2.0 Sneakers Graphite Grey / Black",
-        "handle": "asics-footwear-gel-nyc-2-0-grey-j359692",
-        "in_stock": true
-      },
-      "9127722189005": {
-        "title": "GEL-Cumulus 16 Sneakers Black",
-        "handle": "asics-footwear-gel-cumulus-16-black-j359650",
-        "in_stock": true
-      },
-      "8750307967181": {
-        "title": "874 Work Pants Black",
-        "handle": "dickies-clothing-874-work-pant-rec-black-j283587",
-        "in_stock": true
-      },
-      "9050663911629": {
-        "title": "Men's Cloudsurfer Max Sneakers Black / Eclipse",
-        "handle": "on-footwear-cloudsurfer-max-black-j334949",
-        "in_stock": true
-      },
-      "9127712391373": {
-        "title": "Women's 4cm Belt Sandals True Dye Black",
-        "handle": "our-legacy-footwear-wmns-4-cm-belt-sandal-black-j355591",
-        "in_stock": true
-      },
-      "9127719043277": {
-        "title": "Men's Naroda Insulated Jacket Black",
-        "handle": "arcteryx-veilance-clothing-naroda-insulated-jacket-black-j364244",
-        "in_stock": true
-      },
-      "9127712456909": {
-        "title": "Tanker Boots Liquid Brown",
-        "handle": "our-legacy-footwear-tanker-boot-brown-j355592",
-        "in_stock": true
-      },
-      "9127715700941": {
-        "title": "Katharina Waterproof Sympatex Boots Black",
-        "handle": "roa-footwear-katharina-waterproof-sympatex-black-j346902",
-        "in_stock": true
-      },
-      "9127620313293": {
-        "title": "Nuna 800 Fill Power Hooded Down Jacket Black",
-        "handle": "roa-clothing-nuna-800-fill-power-hooded-down-jacket-black-j339685",
-        "in_stock": true
-      },
-      "9127715799245": {
-        "title": "Women's Tenna Zip-Up Jacket Petrol",
-        "handle": "roa-clothing-tenna-zip-up-jacket-blue-j345781",
-        "in_stock": true
-      },
-      "9127715766477": {
-        "title": "Women's Awi Thermal Zip-Up Baby Hoodie Dirty White",
-        "handle": "roa-clothing-awi-thermal-zip-up-baby-hoodie-white-j345780",
-        "in_stock": true
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Jacquard Striped Socks\nhttps://www.asphaltgold.de/products/autry-jacquard-striped-socks-bordeaux",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Jacquard Striped Socks\nhttps://www.asphaltgold.de/products/autry-jacquard-striped-socks-fiber-pink",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Logo and Stripes Socks\nhttps://www.asphaltgold.de/products/autry-logo-and-stripes-socks-board-cream-ivory",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Autry Ribbed Embroidered Logo Socks\nhttps://www.asphaltgold.de/products/autry-ribbed-embroidered-logo-socks-ivory",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Shorts - Grey\nhttps://sneakerpolitics.com/products/hellstar-snap-shorts-grey",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP WIP Chopsticks\nhttps://www.afew-store.com/products/carhartt-wip-wip-chopsticks-silver",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Limn C Beanie\nhttps://www.afew-store.com/products/carhartt-wip-limn-c-beanie-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Limn C Beanie\nhttps://www.afew-store.com/products/carhartt-wip-limn-c-beanie-tobacco",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA NUNA  Packable Bag\nhttps://www.afew-store.com/products/roa-nuna-packable-bag-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA NUNA  Packable Bag\nhttps://www.afew-store.com/products/roa-nuna-packable-bag-sage-green",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA LAKI Packable Knot Bag\nhttps://www.afew-store.com/products/roa-laki-packable-knot-bag-black1",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA LAKI Small Packable Knot Bag\nhttps://www.afew-store.com/products/roa-laki-small-packable-knot-bag-sage-green",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA LAKI Small Packable Knot Bag\nhttps://www.afew-store.com/products/roa-laki-small-packable-knot-bag-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA LAKI Packable Knot Bag\nhttps://www.afew-store.com/products/roa-laki-packable-knot-bag-taupe-brown",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA Logo Wool Beanie\nhttps://www.afew-store.com/products/roa-logo-wool-beanie-dark-green",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA Logo Wool Beanie\nhttps://www.afew-store.com/products/roa-logo-wool-beanie-deep-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA Vortex Mohair Beanie\nhttps://www.afew-store.com/products/roa-vortex-mohair-beanie-white-grey",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: ROA Vortex Mohair Beanie\nhttps://www.afew-store.com/products/roa-vortex-mohair-beanie-black-white",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Pleated Baggy Denim Shorts\nhttps://www.afew-store.com/products/dime-pleated-baggy-denim-shorts-indigo",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Relaxed Denim Pants\nhttps://www.afew-store.com/products/dime-relaxed-denim-pants-blue-washed",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Baggy Wink Denim Pants\nhttps://www.afew-store.com/products/dime-baggy-wink-denim-pants-faded-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Pleated Denim Jacket\nhttps://www.afew-store.com/products/dime-pleated-denim-jacket-indigo",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Reversible Vest\nhttps://www.afew-store.com/products/dime-reversible-vest-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Mohair Double Zip Knit\nhttps://www.afew-store.com/products/dime-mohair-double-zip-knit-black-charcoal",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Distressed Terry Zip Hoodie\nhttps://www.afew-store.com/products/dime-distressed-terry-zip-hoodie-acid-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Finger Print Hoodie\nhttps://www.afew-store.com/products/dime-finger-print-hoodie-dark-brown",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Year Of The Horse Jersey\nhttps://www.afew-store.com/products/dime-year-of-the-horse-jersey-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Year Of The Horse Jersey\nhttps://www.afew-store.com/products/dime-year-of-the-horse-jersey-lilac",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Classic Future T-Shirt\nhttps://www.afew-store.com/products/dime-classic-future-t-shirt-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Ville T-Shirt\nhttps://www.afew-store.com/products/dime-ville-t-shirt-dark-brown",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Classic Dime Mtl T-Shirt\nhttps://www.afew-store.com/products/dime-classic-dime-mtl-t-shirt-ash",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Dime Classic Dime Mtl T-Shirt\nhttps://www.afew-store.com/products/dime-classic-dime-mtl-t-shirt-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Alpha Industries CWU-36/P Leather UV Bomber Jacket\nhttps://www.afew-store.com/products/alpha-industries-cwu-36-p-leather-uv-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Alpha Industries CWU-9/P Quilted UV Field Jacket\nhttps://www.afew-store.com/products/alpha-industries-cwu-9-p-quilted-jacket-uv-black",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Asics GEL-DS TRAINER SP\nhttps://www.afew-store.com/products/asics-gel-ds-trainer-sp-black-gunmetal",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals WMNS PARIS\nhttps://www.afew-store.com/products/adidas-originals-wmns-paris-cblack-warvan-goldmt",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Afew Store: Nike GIANNIS FREAK 8\nhttps://www.afew-store.com/products/nike-giannis-freak-8-black-laser-orange-laser-crimson",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: XT-Whisper GORE-TEX Sneakers Black / Silver\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-whisper-gtx-black-j366219",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: XT-Whisper GORE-TEX Sneakers Delicioso / Asphalt / Castlerock\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-whisper-gtx-beige-j366220",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Air Force 1 LX Sneakers Black / Metallic Silver\nhttps://www.slamjam.com/products/nike-footwear-air-force-1-luxe-black-j364347",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Vomero Premium Sneakers University Red / Metallic Silver\nhttps://www.slamjam.com/products/nike-footwear-wmns-nike-vomero-premium-red-j369606",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's First Sight Shadow Low Sneakers Light Crimson / Metallic Silver\nhttps://www.slamjam.com/products/nike-footwear-wmns-nike-first-sight-shadow-red-j370030",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: XT-4 OG Sneakers Vanilla Ice / Acid Lime / Pink Frosting\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-4-og-yellow-j366224",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Snowclog OG Sneakers Black\nhttps://www.slamjam.com/products/salomon-footwear-shoes-snowclog-og-black-j366218",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Suede Bloom Dress-Up Sneakers Matte Bronze / Frosted Ivory\nhttps://www.slamjam.com/products/puma-footwear-wmns-suede-bloom-dress-up-wns-brown-j363780",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Speedcat Wedge Tonal Sneakers Sand Dune / Alpine Snow\nhttps://www.slamjam.com/products/puma-footwear-wmns-speedcat-wedge-tonal-wns-brown-j363777",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Achillium Sneakers White / Vapor Gray\nhttps://www.slamjam.com/products/puma-footwear-achillium-white-j363739",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: GEL-DS Trainer SP Sneakers Cream / Vanilla\nhttps://www.slamjam.com/products/asics-footwear-gel-ds-trainer-sp-beige-j359661",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Crosspath XC GORE-TEX Sneakers Black\nhttps://www.slamjam.com/products/vans-footwear-crosspath-xc-gore-tex-mte-black-j361934",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: GEL-1130 Sneakers White / Lavender\nhttps://www.slamjam.com/products/asics-footwear-gel-1130-white-j359649",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: GEL-1130 Sneakers White / Midnight\nhttps://www.slamjam.com/products/asics-footwear-gel-1130-white-j359647",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's McLAREN RACING Replica Hoodie Papaya\nhttps://www.slamjam.com/products/puma-clothing-mclaren-replica-hoodie-orange-j349930",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Speedcat Metallic Sneakers Black / Warm White\nhttps://www.slamjam.com/products/puma-footwear-speedcat-metallic-black-j349831",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Scuderia Ferrari Baseball Cap Black\nhttps://www.slamjam.com/products/puma-accessories-ferrari-bb-cap-black-j349829",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Speedcat Ballet Snake Print Shoes Black / Vapor Gray\nhttps://www.slamjam.com/products/puma-footwear-wmns-speedcat-ballet-snake-wns-black-j349825",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Tall Dice Zip Hoodie Black\nhttps://www.slamjam.com/products/stussy-clothing-tall-dice-zip-hood-black-j361917",
+      "detected_at": "2026-09-07T12:35:46.277249+00:00"
+    }
+  ]
 }
