@@ -159,7 +159,7 @@
       "8286745690240": {
         "title": "Kith for the New York Yankees Slim Zippo Lighter - Silver",
         "handle": "khla150127-910",
-        "in_stock": true
+        "in_stock": false
       },
       "8286745657472": {
         "title": "Kith for the New York Yankees Wall Clock - Sandrift",
@@ -2386,7 +2386,7 @@
       "6702697840901": {
         "title": "JORDAN AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
         "handle": "jordan-aj-8-retro-black-white-lt-graphite",
-        "in_stock": true
+        "in_stock": false
       },
       "6702697808133": {
         "title": "JORDAN PS AJ 8 RETRO - BLACK/ WHITE/ LT GRAPHITE",
@@ -2501,7 +2501,7 @@
       "6702685356293": {
         "title": "NIKE KOBE V PROTRO - HYPERROYAL/ WOLFGREY / WHITE",
         "handle": "nike-kobe-5-lad-hyper-royal-wolf-grey-white",
-        "in_stock": true
+        "in_stock": false
       }
     },
     "https://www.asphaltgold.de": {
@@ -3188,7 +3188,7 @@
       "10867374784779": {
         "title": "Karhu Fusion 2.0",
         "handle": "karhu-fusion-20-lily-white-mole",
-        "in_stock": true
+        "in_stock": false
       },
       "10691398598923": {
         "title": "Asics GEL-1130",
@@ -3865,7 +3865,7 @@
       "8762277167292": {
         "title": "Billionaire Boys Club Knit Tee - Black",
         "handle": "billionaire-boys-club-knit-tee-black-1",
-        "in_stock": true
+        "in_stock": false
       },
       "9063757971644": {
         "title": "Women's Nike Rejuven8 Run SP - Black/Black",
@@ -4080,7 +4080,7 @@
       "9325698220220": {
         "title": "Stussy Boxer Briefs (3 Pack) - White",
         "handle": "stussy-boxer-briefs-3-pack-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9336137384124": {
         "title": "Women's Saucony Progrid Triumph 4 - Seafoam/Seafoam",
@@ -4305,7 +4305,7 @@
       "8910666465468": {
         "title": "Kody Phillips Did I Win? Tee - White",
         "handle": "kody-phillips-did-i-win-tee-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9343125946556": {
         "title": "Jordan Brooklyn Realtree Jersey - White/Black",
@@ -6261,6 +6261,16 @@
       }
     },
     "https://www.afew-store.com": {
+      "10614563701002": {
+        "title": "adidas Originals x Tyrell Winston College Jacket",
+        "handle": "adidas-originals-x-tyrell-winston-college-jacket-black",
+        "in_stock": true
+      },
+      "10614563307786": {
+        "title": "adidas Originals x Tyrell Winston Long Shorts",
+        "handle": "adidas-originals-x-tyrell-winston-long-shorts-black",
+        "in_stock": true
+      },
       "10613000798474": {
         "title": "Salomon ACS WAIST PACK LARGE",
         "handle": "salomon-acs-waist-pack-large-black",
@@ -7499,16 +7509,6 @@
       "10599349289226": {
         "title": "Nike WMNS Air Rift",
         "handle": "nike-wmns-air-rift-black-cool-grey1",
-        "in_stock": true
-      },
-      "10599349223690": {
-        "title": "Nike WMNS Air Rift",
-        "handle": "nike-wmns-air-rift-dk-driftwood-black",
-        "in_stock": true
-      },
-      "10599349190922": {
-        "title": "Nike Nike Air Force 1 '01",
-        "handle": "nike-nike-air-force-1-01-light-army-black-sail",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Willy Chavarria x Adidas Superstar - Core Black/Off White\nhttps://sneakerpolitics.com/products/willy-chavarria-x-adidas-superstar-core-black-off-white",
-      "detected_at": "2026-09-08T01:25:02.628519+00:00"
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston College Jacket\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-college-jacket-black",
+      "detected_at": "2026-09-08T06:22:31.862327+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston Long Shorts\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-long-shorts-black",
+      "detected_at": "2026-09-08T06:22:31.862327+00:00"
     }
   ]
 }
