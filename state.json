@@ -1144,7 +1144,7 @@
       "8286729437312": {
         "title": "Rhude Racing Panel Trucker Hat - Black / Yellow",
         "handle": "rhufw26ha01742-3116",
-        "in_stock": false
+        "in_stock": true
       },
       "8286729207936": {
         "title": "Rhude Logo Track Short - Red / White",
@@ -3158,7 +3158,7 @@
       "10537640788235": {
         "title": "Autry Med-Way Mid *Leather / Crack*",
         "handle": "autry-medway-mid-leather-crack-mountain",
-        "in_stock": true
+        "in_stock": false
       },
       "10644376944907": {
         "title": "Perplex Two-Way Zip Hoodie",
@@ -3757,6 +3757,36 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9410290516156": {
+        "title": "Air Jordan 8 Retro 'Chrome' - Black/White",
+        "handle": "air-jordan-8-retro-black-white-1",
+        "in_stock": true
+      },
+      "9340389228732": {
+        "title": "Nike T90 Premium SE - Black/Volt",
+        "handle": "nike-t90-premium-se-black-volt",
+        "in_stock": true
+      },
+      "9372535226556": {
+        "title": "Nike T90 'Brazil' - Metallic Silver/Racer Blue",
+        "handle": "nike-t90-brazil-metallic-silver-racer-blue",
+        "in_stock": true
+      },
+      "9392039231676": {
+        "title": "Air Jordan 1 Low SE - Lime Blast/Anthracite",
+        "handle": "air-jordan-1-low-se-lime-black-anthracite",
+        "in_stock": true
+      },
+      "9303428432060": {
+        "title": "Nike Air Zoom Huarache 2K4 OT - Black/Black",
+        "handle": "nike-air-zoom-huarache-2k4-ot-black-black",
+        "in_stock": true
+      },
+      "9405410902204": {
+        "title": "Hoka Huaka Pro - Cream/Archival Taupe",
+        "handle": "hoka-huaka-pro-cream-archival-taupe",
+        "in_stock": true
+      },
       "9403733672124": {
         "title": "Birkenstock Amsterdam Wrapped - Taupe",
         "handle": "birkenstock-amsterdam-wrapped-taupe",
@@ -3772,19 +3802,9 @@
         "handle": "nike-air-max-95-greedy-black-volt",
         "in_stock": true
       },
-      "9554178212028": {
-        "title": "Crocs Classic EXP Clog - Koi Fish",
-        "handle": "crocs-classic-exp-clog-koi-fish",
-        "in_stock": true
-      },
       "9431897768124": {
         "title": "Politics x Adidas Handball Spezial 'Rhythm & Blues' - Cream White/Cloud White",
         "handle": "politics-x-adidas-handball-spezial-rhythm-blues-cream-white-cloud-white",
-        "in_stock": true
-      },
-      "9550189199548": {
-        "title": "Politics Chassis 5 Panel Hat - Khaki",
-        "handle": "politics-chassis-5-panel-hat-khaki",
         "in_stock": true
       },
       "9472692846780": {
@@ -4010,7 +4030,7 @@
       "9007404384444": {
         "title": "Fear Of God Essentials Embossed Classic Hoodie - Oatmeal Heather",
         "handle": "fear-of-god-essentials-embossed-classic-hoodie-oatmeal-heather",
-        "in_stock": true
+        "in_stock": false
       },
       "9356150833340": {
         "title": "Rhude Slip Tee - Vintage White/Black",
@@ -4417,11 +4437,6 @@
         "handle": "new-era-x-politics-new-york-jets-59fifty-fitted-black-kelly",
         "in_stock": true
       },
-      "8696667898044": {
-        "title": "New Era x Politics Cincinnati Bengals 59FIFTY Fitted - Black",
-        "handle": "new-era-x-politics-cincinnati-bengals-59fifty-fitted-black",
-        "in_stock": false
-      },
       "8696657608892": {
         "title": "New Era x Politics Minnesota Vikings 59FIFTY Fitted - True Purple/Black",
         "handle": "new-era-x-politics-minnesota-vikings-59fifty-fitted-true-purple-black",
@@ -4581,11 +4596,6 @@
         "title": "Air Jordan 8 Retro 'Chrome' (GS) - Black/White",
         "handle": "air-jordan-8-retro-chrome-gs-black-white",
         "in_stock": true
-      },
-      "8998928318652": {
-        "title": "Rhude Script Logo Sock - Black/Gold",
-        "handle": "rhude-script-logo-sock-black-gold",
-        "in_stock": false
       },
       "9356451250364": {
         "title": "Politics Houston Blueprint Tee - Off White",
@@ -4766,11 +4776,6 @@
         "title": "Nike Air Zoom Huarache 2K4 'Knicks' - Black/Varsity Royal",
         "handle": "nike-air-zoom-huarache-2k4-knicks-black-varsity-royal",
         "in_stock": true
-      },
-      "9176911872188": {
-        "title": "Pleasures Girl Is A Gun Tee - White",
-        "handle": "pleasures-girl-is-a-gun-tee-white-1",
-        "in_stock": false
       },
       "9364578304188": {
         "title": "Parra Lowercase Script Logo Crew Socks - Black",
@@ -5000,11 +5005,6 @@
       "8797216932028": {
         "title": "Babylon American Chaos L/S Tee - Pure White",
         "handle": "babylon-american-chaos-l-s-tee-pure-white",
-        "in_stock": true
-      },
-      "9369276874940": {
-        "title": "Anti Social Social Club Embroidered Rose Kkotch Tee - White",
-        "handle": "anti-social-social-club-embroidered-rose-kkotch-tee-white",
         "in_stock": true
       }
     },
@@ -5977,7 +5977,7 @@
       "15034695254392": {
         "title": "On Cloudrunner 3 'White Glacier'",
         "handle": "on-cloudrunner-3-white-glacier",
-        "in_stock": true
+        "in_stock": false
       },
       "15034694861176": {
         "title": "On Cloudvista 2 'Black Black'",
@@ -7514,6 +7514,56 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9108018790605": {
+        "title": "Klim Sneakers Granola / Black",
+        "handle": "puma-footwear-klim-beige-j349859",
+        "in_stock": true
+      },
+      "9124491198669": {
+        "title": "Men's Mineral Dyed Zip-Up Cardigan Grey",
+        "handle": "stone-island-clothing-cardigan-grey-j362170",
+        "in_stock": true
+      },
+      "9124490019021": {
+        "title": "Men's Mineral Dyed Organic Cotton Fleece Crewneck Sweatshirt Grey",
+        "handle": "stone-island-clothing-sweatshirt-grey-j362177",
+        "in_stock": true
+      },
+      "9133834830029": {
+        "title": "Men's Reversible Crewneck T-Shirt Black",
+        "handle": "neighborhood-clothing-reversible-crewneck-ss-black-j366328",
+        "in_stock": true
+      },
+      "9133834862797": {
+        "title": "Men's Typographic Longsleeve Shirt White",
+        "handle": "neighborhood-clothing-typographic-shirt-ls-white-j366320",
+        "in_stock": true
+      },
+      "9133834895565": {
+        "title": "Men's Savage Denim Type-1 Jacket Indigo",
+        "handle": "neighborhood-clothing-savage-denim-type-1-jacket-blue-j366315",
+        "in_stock": true
+      },
+      "9133834698957": {
+        "title": "Men's Savage Denim DP Basic Pants Indigo",
+        "handle": "neighborhood-clothing-savage-denim-dp-basic-pants-blue-j366351",
+        "in_stock": true
+      },
+      "9133834731725": {
+        "title": "Men's Savage Denim DP Basic Pants Black",
+        "handle": "neighborhood-clothing-savage-denim-dp-basic-pants-black-j366350",
+        "in_stock": true
+      },
+      "9133834764493": {
+        "title": "Men's Savage Chino Pants Beige",
+        "handle": "neighborhood-clothing-savage-chino-pants-beige-j366346",
+        "in_stock": true
+      },
+      "9133834797261": {
+        "title": "Men's LS-3 Longsleeve T-Shirt Grey",
+        "handle": "neighborhood-clothing-nh-tee-ls-3-grey-j366334",
+        "in_stock": true
+      },
       "9133834567885": {
         "title": "Mesh Cap Black",
         "handle": "neighborhood-accessories-mesh-cap-black-j366356",
@@ -7522,31 +7572,6 @@
       "9133834502349": {
         "title": "Leather Book Cover Black",
         "handle": "neighborhood-lifestyle-leather-book-cover-black-j366370",
-        "in_stock": true
-      },
-      "9133834436813": {
-        "title": "Hair-On Leather Belt White",
-        "handle": "neighborhood-accessories-hair-on-leather-belt-white-j366369",
-        "in_stock": true
-      },
-      "9133834469581": {
-        "title": "Hair-On Leather Belt Black",
-        "handle": "neighborhood-accessories-hair-on-leather-belt-black-j366368",
-        "in_stock": true
-      },
-      "9133834305741": {
-        "title": "Gimme Five x Phonon SMB-02G Stick Black",
-        "handle": "neighborhood-lifestyle-nh-x-gimme-five-x-phonon-smb-02g-stick-black-j366937",
-        "in_stock": false
-      },
-      "9133834404045": {
-        "title": "HBT Newspaper Bag Olive Drab",
-        "handle": "neighborhood-accessories-hbt-newspaper-bag-green-j366360",
-        "in_stock": true
-      },
-      "9133834338509": {
-        "title": "HBT Newspaper Bag Black",
-        "handle": "neighborhood-accessories-hbt-newspaper-bag-black-j366359",
         "in_stock": true
       },
       "9133754515661": {
@@ -8738,226 +8763,77 @@
         "title": "Premium Era 59 Sneakers Marshmallow",
         "handle": "vans-footwear-otw-era-59-white-j361925",
         "in_stock": true
-      },
-      "9127918272717": {
-        "title": "Premium Era 59 Sneakers Black",
-        "handle": "vans-footwear-otw-era-59-black-j361921",
-        "in_stock": true
-      },
-      "9127918207181": {
-        "title": "Premium Classic Slip-On 98 Sneakers Faded Black",
-        "handle": "vans-footwear-lx-classic-slip-on-98-black-j361949",
-        "in_stock": true
-      },
-      "9127918239949": {
-        "title": "Premium Classic Slip-On Demitasse Brown",
-        "handle": "vans-footwear-lx-classic-slip-on-98-brown-j361950",
-        "in_stock": true
-      },
-      "9127917027533": {
-        "title": "Tennis Classic CS PRM Sneakers White / Black",
-        "handle": "nike-footwear-tennis-classic-cs-prm-chew-dog-white-j364349",
-        "in_stock": true
-      },
-      "9127916994765": {
-        "title": "Air Force 1 '07 LV8 Sneakers White / Marrakesh",
-        "handle": "nike-footwear-nike-air-force-1-07-lv8-white-j364329",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas München W\nhttps://www.asphaltgold.de/products/adidas-mnchen-w-core-black-cloud-white-gum-3",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🔥 **Restock** at Kith: Rhude Racing Panel Trucker Hat - Black / Yellow\nhttps://kith.com/products/rhufw26ha01742-3116",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Asics GEL-1130\nhttps://www.asphaltgold.de/products/asics-gel1130-white-midnight",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro 'Chrome' - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Tyrrell Winston T-Shirt\nhttps://www.asphaltgold.de/products/adidasx-tyrrell-winston-tshirt-better-scarlet",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike T90 Premium SE - Black/Volt\nhttps://sneakerpolitics.com/products/nike-t90-premium-se-black-volt",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Tyrrell Winston Long Shorts\nhttps://www.asphaltgold.de/products/adidasx-tyrrell-winston-long-shorts-black",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike T90 'Brazil' - Metallic Silver/Racer Blue\nhttps://sneakerpolitics.com/products/nike-t90-brazil-metallic-silver-racer-blue",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Tyrrell Winston Cap\nhttps://www.asphaltgold.de/products/adidasx-tyrrell-winston-cap-black-better-scarlet",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low SE - Lime Blast/Anthracite\nhttps://sneakerpolitics.com/products/air-jordan-1-low-se-lime-black-anthracite",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Tyrrell Winston College Jacket\nhttps://www.asphaltgold.de/products/adidasx-tyrrell-winston-college-jacket-black-better-scarlet",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Zoom Huarache 2K4 OT - Black/Black\nhttps://sneakerpolitics.com/products/nike-air-zoom-huarache-2k4-ot-black-black",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Tyrrell Winston Stadium Tracktop\nhttps://www.asphaltgold.de/products/adidasx-tyrrell-winston-stadium-tracktop-wonder-white",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Hoka Huaka Pro - Cream/Archival Taupe\nhttps://sneakerpolitics.com/products/hoka-huaka-pro-cream-archival-taupe",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tx Tyrrell Winston Stadium Trackpant\nhttps://www.asphaltgold.de/products/adidasx-tyrrell-winston-stadium-trackpant-wonder-white",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Klim Sneakers Granola / Black\nhttps://www.slamjam.com/products/puma-footwear-klim-beige-j349859",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Birkenstock Amsterdam Wrapped - Taupe\nhttps://sneakerpolitics.com/products/birkenstock-amsterdam-wrapped-taupe",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Zip-Up Cardigan Grey\nhttps://www.slamjam.com/products/stone-island-clothing-cardigan-grey-j362170",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Shorts - Grey\nhttps://sneakerpolitics.com/products/hellstar-snap-shorts-grey",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Organic Cotton Fleece Crewneck Sweatshirt Grey\nhttps://www.slamjam.com/products/stone-island-clothing-sweatshirt-grey-j362177",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Crochet Jesus Tee - Black\nhttps://sneakerpolitics.com/products/hellstar-crochet-jesus-t-shirt-no-rhinestones-black",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Reversible Crewneck T-Shirt Black\nhttps://www.slamjam.com/products/neighborhood-clothing-reversible-crewneck-ss-black-j366328",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift 1998 Drive In Crewneck - Black\nhttps://sneakerpolitics.com/products/honor-the-gift-1998-drive-in-crewneck-black",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Typographic Longsleeve Shirt White\nhttps://www.slamjam.com/products/neighborhood-clothing-typographic-shirt-ls-white-j366320",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Babylon American Chaos L/S Tee - Pure White\nhttps://sneakerpolitics.com/products/babylon-american-chaos-l-s-tee-pure-white",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Savage Denim Type-1 Jacket Indigo\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-denim-type-1-jacket-blue-j366315",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Anti Social Social Club Embroidered Rose Kkotch Tee - White\nhttps://sneakerpolitics.com/products/anti-social-social-club-embroidered-rose-kkotch-tee-white",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Savage Denim DP Basic Pants Indigo\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-denim-dp-basic-pants-blue-j366351",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Hooded Limn C Fleece Sweatshirt\nhttps://www.afew-store.com/products/carhartt-wip-hooded-limn-c-fleece-sweat-tobacco",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Savage Denim DP Basic Pants Black\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-denim-dp-basic-pants-black-j366350",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Arizona Jacket\nhttps://www.afew-store.com/products/carhartt-wip-arizona-jacket-black",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's Savage Chino Pants Beige\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-chino-pants-beige-j366346",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Landon Pant\nhttps://www.afew-store.com/products/carhartt-wip-landon-pant-black-i032297-8902",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Mack Sweatshirt\nhttps://www.afew-store.com/products/carhartt-wip-mack-sweater-black-wax",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Carhartt WIP Longsleeve Waffle Rugby Shirt\nhttps://www.afew-store.com/products/carhartt-wip-longsleeve-waffle-rugby-shirt-palisander",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: C.P. Company DIAGONAL RAISED FLEECE CREWNECK LENS SWEATSHIRT\nhttps://www.afew-store.com/products/c-p-company-diagonal-raised-fleece-crewneck-lens-sweatshirt-fallen-rock",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: C.P. Company DIAGONAL RAISED FLEECE CREWNECK LENS SWEATSHIRT\nhttps://www.afew-store.com/products/c-p-company-diagonal-raised-fleece-crewneck-lens-sweatshirt-andorra-red",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Salomon XT-WHISPER Gore-Tex\nhttps://www.afew-store.com/products/salomon-xt-whisper-gtx-asparg-dlicgr-grape",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Salomon XT-4 OG Gore-Tex\nhttps://www.afew-store.com/products/salomon-xt-4-og-gtx-black-black-black",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: ROA LAKI Packable Knot Bag\nhttps://www.afew-store.com/products/roa-laki-packable-knot-bag-black1",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Mesh Cap Black\nhttps://www.slamjam.com/products/neighborhood-accessories-mesh-cap-black-j366356",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Leather Book Cover Black\nhttps://www.slamjam.com/products/neighborhood-lifestyle-leather-book-cover-black-j366370",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Hair-On Leather Belt White\nhttps://www.slamjam.com/products/neighborhood-accessories-hair-on-leather-belt-white-j366369",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Hair-On Leather Belt Black\nhttps://www.slamjam.com/products/neighborhood-accessories-hair-on-leather-belt-black-j366368",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: HBT Newspaper Bag Olive Drab\nhttps://www.slamjam.com/products/neighborhood-accessories-hbt-newspaper-bag-green-j366360",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: HBT Newspaper Bag Black\nhttps://www.slamjam.com/products/neighborhood-accessories-hbt-newspaper-bag-black-j366359",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Barlow P.O. Jacket Olive\nhttps://www.slamjam.com/products/visvim-clothing-barlow-p-o-green-j353127",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Brigadier Hi-Folk Boots Black\nhttps://www.slamjam.com/products/visvim-footwear-brigadier-hi-folk-black-j353110",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Eclair Coverall Grey\nhttps://www.slamjam.com/products/visvim-clothing-eclair-coverall-grey-j353128",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Baker UT Jacket Olive\nhttps://www.slamjam.com/products/visvim-clothing-baker-ut-jkt-green-j353129",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 1933 501 Jeans Blue\nhttps://www.slamjam.com/products/levis-clothing-1933-501-jeans-med-indigo-worn-in-blue-j360074",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-EVO Sneakers Black / Fiery Red / White\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-evo-black-j366223",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-EVO Sneakers Alloy / Castlerock / Silver\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-evo-grey-j366222",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: XT-EVO Sneakers Black / Black / Asphalt\nhttps://www.slamjam.com/products/salomon-footwear-shoes-xt-evo-black-j366221",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's SST Premium Track Top Black\nhttps://www.slamjam.com/products/adidas-clothing-sst-tt-black-j362413",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's OG Trucker Jacket Black (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-trucker-jacket-black-j359208",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Draped Cotton Pants Red\nhttps://www.slamjam.com/products/dries-van-noten-clothing-paroni-4131-mwpants-red-red-j363822",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Leather-Yoke Down Waistcoat Stem\nhttps://www.slamjam.com/products/polo-ralph-lauren-clothing-woven-vest-green-j360779",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's OG Santa Fe Jacket Hamilton Brown / Tobacco (Stone Canvas)\nhttps://www.slamjam.com/products/carhartt-wip-clothing-og-santa-fe-jacket-brown-j359207",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Relaxed Fit Big Pony Rugby Sweatshirt Black\nhttps://www.slamjam.com/products/polo-ralph-lauren-clothing-knit-rugby-sweatshirt-black-j360776",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Consultant Boots Deep Black\nhttps://www.slamjam.com/products/our-legacy-footwear-consultant-boot-black-j355588",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: FKA twigs Headband Espresso\nhttps://www.slamjam.com/products/on-lifestyle-headband-fka-brown-j363932",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Big Fit Striped Jersey Rugby Shirt Kona Orange / Dark Cobalt\nhttps://www.slamjam.com/products/polo-ralph-lauren-clothing-knit-rugby-pullover-orange-j360771",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Men's Aerial Jacket Pigment Khaki\nhttps://www.slamjam.com/products/our-legacy-clothing-aerial-jacket-green-j355609",
-      "detected_at": "2026-09-08T15:20:04.338598+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Men's LS-3 Longsleeve T-Shirt Grey\nhttps://www.slamjam.com/products/neighborhood-clothing-nh-tee-ls-3-grey-j366334",
+      "detected_at": "2026-09-08T18:53:34.598375+00:00"
     }
   ]
 }
