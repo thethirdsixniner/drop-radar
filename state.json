@@ -2441,7 +2441,7 @@
       "6701502955781": {
         "title": "TIMBERLAND PREMIUM TALL LACE-UP BOOT - DARKGREY",
         "handle": "timberland-premium-tall-lace-up-boot-darkgrey",
-        "in_stock": true
+        "in_stock": false
       },
       "6702614184197": {
         "title": "OAKLEY SPEED CAT EYE JACKET REDUX - DARK AMBER BENGAL",
@@ -3413,7 +3413,7 @@
       "8968456175883": {
         "title": "Autry Overshirt Jacket",
         "handle": "autry-overshirt-jacket-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "8943346483467": {
         "title": "Adidas Y-3 Y-3 Dad Cap",
@@ -3757,10 +3757,30 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9560550703292": {
+        "title": "Larry June x Adidas Adistar Control 5 'Watermelon Smoothie' - Semi Lucid Red/Semi Solar Slime",
+        "handle": "larry-june-x-adidas-adistar-control-5-watermelon-smoothie-semi-lucid-red-semi-solar-slime",
+        "in_stock": false
+      },
+      "9560542019772": {
+        "title": "Vans LX Old Skool 36 'Yacht Club' - Pearlized Green/Multi",
+        "handle": "vans-lx-old-skool-36-yacht-club-pearlized-green-multi",
+        "in_stock": false
+      },
+      "9402854277308": {
+        "title": "Air Jordan 9 Retro 'Space Jam' - White/True Red",
+        "handle": "air-jordan-9-retro-space-jam-white-true-red",
+        "in_stock": true
+      },
+      "9324772327612": {
+        "title": "Asics Gel-Kayano 20 - Glacier Grey/White",
+        "handle": "asics-gel-kayano-20-glacier-grey-white",
+        "in_stock": false
+      },
       "9410290516156": {
         "title": "Air Jordan 8 Retro 'Chrome' - Black/White",
         "handle": "air-jordan-8-retro-black-white-1",
-        "in_stock": true
+        "in_stock": false
       },
       "9340389228732": {
         "title": "Nike T90 Premium SE - Black/Volt",
@@ -3936,11 +3956,6 @@
         "title": "Malbon Golf Pine Inkwash Windshirt - Olive",
         "handle": "malbon-golf-pine-inkwash-windshirt-olive",
         "in_stock": true
-      },
-      "9354244161724": {
-        "title": "Salehe Bembury x Puma Portugal KING Tee - Alpine Snow",
-        "handle": "salehe-bembury-x-puma-portugal-king-tee-alpine-snow",
-        "in_stock": false
       },
       "9381365678268": {
         "title": "Women's Nike Pegasus Premium - White/Mystic Navy",
@@ -4191,11 +4206,6 @@
         "title": "Asics Gel-NYC Utility - Black/Carbon",
         "handle": "asics-gel-nyc-utility-black-carbon",
         "in_stock": true
-      },
-      "9283357638844": {
-        "title": "Nike ACG Solar Chase UV Protection Hooded Top - Ironstone",
-        "handle": "nike-acg-solar-chase-uv-protection-hooded-top-ironstone",
-        "in_stock": false
       },
       "9217797587132": {
         "title": "A Bathing Ape Bape Sta Icon #2 M2 - White/Multi",
@@ -4717,11 +4727,6 @@
         "handle": "bad-bunny-x-adidas-f50-ghost-sprint-core-black-charcoal",
         "in_stock": true
       },
-      "9295877931196": {
-        "title": "Nike Air Force 1 Low Retro - Obsidian/White",
-        "handle": "nike-air-force-1-low-retro-multi-color-obsidian",
-        "in_stock": false
-      },
       "9358288289980": {
         "title": "Adidas Terra Mono Lightstrike - Core White/Off White",
         "handle": "adidas-terra-mono-lightstrike-core-white-off-white",
@@ -4885,7 +4890,7 @@
       "9028603642044": {
         "title": "Politics Airpod Pro Case - Red",
         "handle": "politics-airpod-pro-case-red",
-        "in_stock": true
+        "in_stock": false
       },
       "9134910636220": {
         "title": "Politics Baseball Jersey - Black",
@@ -5000,11 +5005,6 @@
       "8970815799484": {
         "title": "Honor The Gift 1998 Drive In Crewneck - Black",
         "handle": "honor-the-gift-1998-drive-in-crewneck-black",
-        "in_stock": true
-      },
-      "8797216932028": {
-        "title": "Babylon American Chaos L/S Tee - Pure White",
-        "handle": "babylon-american-chaos-l-s-tee-pure-white",
         "in_stock": true
       }
     },
@@ -7647,7 +7647,7 @@
       "9131999854797": {
         "title": "Men's AmbientWarp River Shirt Check Green",
         "handle": "satisfy-clothing-peaceshell-river-shirt-green-j367868",
-        "in_stock": true
+        "in_stock": false
       },
       "9131997528269": {
         "title": "Men's MothTech Waffle Long T-Shirt Aged Black",
@@ -8768,72 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Kith: Rhude Racing Panel Trucker Hat - Black / Yellow\nhttps://kith.com/products/rhufw26ha01742-3116",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 8 Retro 'Chrome' - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike T90 Premium SE - Black/Volt\nhttps://sneakerpolitics.com/products/nike-t90-premium-se-black-volt",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike T90 'Brazil' - Metallic Silver/Racer Blue\nhttps://sneakerpolitics.com/products/nike-t90-brazil-metallic-silver-racer-blue",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 1 Low SE - Lime Blast/Anthracite\nhttps://sneakerpolitics.com/products/air-jordan-1-low-se-lime-black-anthracite",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Zoom Huarache 2K4 OT - Black/Black\nhttps://sneakerpolitics.com/products/nike-air-zoom-huarache-2k4-ot-black-black",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Hoka Huaka Pro - Cream/Archival Taupe\nhttps://sneakerpolitics.com/products/hoka-huaka-pro-cream-archival-taupe",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Klim Sneakers Granola / Black\nhttps://www.slamjam.com/products/puma-footwear-klim-beige-j349859",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Zip-Up Cardigan Grey\nhttps://www.slamjam.com/products/stone-island-clothing-cardigan-grey-j362170",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Mineral Dyed Organic Cotton Fleece Crewneck Sweatshirt Grey\nhttps://www.slamjam.com/products/stone-island-clothing-sweatshirt-grey-j362177",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Reversible Crewneck T-Shirt Black\nhttps://www.slamjam.com/products/neighborhood-clothing-reversible-crewneck-ss-black-j366328",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Typographic Longsleeve Shirt White\nhttps://www.slamjam.com/products/neighborhood-clothing-typographic-shirt-ls-white-j366320",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Savage Denim Type-1 Jacket Indigo\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-denim-type-1-jacket-blue-j366315",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Savage Denim DP Basic Pants Indigo\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-denim-dp-basic-pants-blue-j366351",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Savage Denim DP Basic Pants Black\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-denim-dp-basic-pants-black-j366350",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Savage Chino Pants Beige\nhttps://www.slamjam.com/products/neighborhood-clothing-savage-chino-pants-beige-j366346",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's LS-3 Longsleeve T-Shirt Grey\nhttps://www.slamjam.com/products/neighborhood-clothing-nh-tee-ls-3-grey-j366334",
-      "detected_at": "2026-09-08T18:53:34.598375+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Air Jordan 9 Retro 'Space Jam' - White/True Red\nhttps://sneakerpolitics.com/products/air-jordan-9-retro-space-jam-white-true-red",
+      "detected_at": "2026-09-08T21:40:59.708238+00:00"
     }
   ]
 }
