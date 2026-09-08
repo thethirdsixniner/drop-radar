@@ -2683,7 +2683,7 @@
       "10880502432011": {
         "title": "Autry Hyperway  *Suede / Mesh*",
         "handle": "autry-hyperway-suede-mesh-spblue-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10882912092427": {
         "title": "AMI Paris Embossed Ami De Coeur Sweatshirt",
@@ -3078,7 +3078,7 @@
       "10845253239051": {
         "title": "Nike Waffle Racer",
         "handle": "nike-waffle-racer-mignight-navy-safety-orange-sail",
-        "in_stock": true
+        "in_stock": false
       },
       "10677703672075": {
         "title": "New Balance 992 *Made in USA*",
@@ -3088,7 +3088,7 @@
       "10140021162251": {
         "title": "New Balance T500",
         "handle": "new-balance-t500gc-pearl-grey-linen-ice-wine-sea-salt",
-        "in_stock": true
+        "in_stock": false
       },
       "10855206551819": {
         "title": "New Balance 1906L",
@@ -3438,7 +3438,7 @@
       "10534363955467": {
         "title": "New Balance 992 *Made in USA*",
         "handle": "new-balance-u992cc-made-in-usa-sweet-caramel-calcium",
-        "in_stock": true
+        "in_stock": false
       },
       "10126075691275": {
         "title": "Asics JOG 100S",
@@ -3568,7 +3568,7 @@
       "11026670190859": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gelnyc-white-midnight",
-        "in_stock": false
+        "in_stock": true
       },
       "11026670321931": {
         "title": "The North Face Summit High Trail Expedition T-Shirt",
@@ -4977,11 +4977,6 @@
         "handle": "anti-social-social-club-core-tee-white",
         "in_stock": true
       },
-      "9002298572988": {
-        "title": "Fear Of God Essentials Heavy Waffle 90's Hoodie - Vintage Black",
-        "handle": "fear-of-god-essentials-heavy-waffle-90s-hoodie-vintage-black",
-        "in_stock": false
-      },
       "9505203060924": {
         "title": "Hellstar No Guts No Glory Tee - White",
         "handle": "hellstar-no-guts-no-glory-tee-white",
@@ -5005,6 +5000,11 @@
       "9495519789244": {
         "title": "Hellstar Stars Shine Graffiti Sweatpants - Black",
         "handle": "hellstar-stars-shine-graffiti-sweatpants-black",
+        "in_stock": true
+      },
+      "9495519428796": {
+        "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
+        "handle": "hellstar-snap-sweatpants-w-flame-blue",
         "in_stock": true
       }
     },
@@ -5272,7 +5272,7 @@
       "15038388175224": {
         "title": "Formes Luxe Washbag Magna",
         "handle": "luxe-washbag-magna",
-        "in_stock": false
+        "in_stock": true
       },
       "15038388109688": {
         "title": "Formes Dayfold Verdal",
@@ -6261,6 +6261,96 @@
       }
     },
     "https://www.afew-store.com": {
+      "10614781280522": {
+        "title": "Nike Air Max Joga Bonito 'R9'",
+        "handle": "nike-nike-air-max-joga-bonito-r9-metallic-silver-varsity-maize",
+        "in_stock": false
+      },
+      "10614770172170": {
+        "title": "Nike AIR FORCE 1 '07 LX 'Icon'",
+        "handle": "nike-air-force-1-07-lx-green-apple-green-apple-chlorophyll",
+        "in_stock": false
+      },
+      "10614746841354": {
+        "title": "Nike STRUCTURE PLUS SP",
+        "handle": "nike-structure-plus-sp-grey-fog-varsity-maize-black",
+        "in_stock": true
+      },
+      "10614739960074": {
+        "title": "On Running WMNS Cloudtilt Arc",
+        "handle": "on-running-wmns-cloudtilt-arc-alloy-ivory",
+        "in_stock": true
+      },
+      "10614729408778": {
+        "title": "Alpha Industries MA-1 Heritage Bomber Jacket",
+        "handle": "alpha-industries-ma-1-heritage-hunter-brown",
+        "in_stock": true
+      },
+      "10614726525194": {
+        "title": "Alpha Industries CWU-9/P Quilted UV Field Jacket",
+        "handle": "alpha-industries-cwu-9-p-quilted-jacket-uv-silverblue",
+        "in_stock": true
+      },
+      "10614722756874": {
+        "title": "Alpha Industries G-8 WEP 1973 MODify Bomber Jacket",
+        "handle": "alpha-industries-g-8-wep-1973-modify-black",
+        "in_stock": true
+      },
+      "10614719906058": {
+        "title": "Alpha Industries B-15 Reversible II UV Winter Jacket",
+        "handle": "alpha-industries-b-15-reversible-ii-uv-black",
+        "in_stock": true
+      },
+      "10614714728714": {
+        "title": "On Running x PAF Cloudsoma",
+        "handle": "on-running-x-paf-cloudsoma-cobble-raven",
+        "in_stock": true
+      },
+      "10614713876746": {
+        "title": "On Running x PAF Cloudsoma",
+        "handle": "on-running-x-paf-cloudsoma-black-black",
+        "in_stock": true
+      },
+      "10614708633866": {
+        "title": "On Running x PAF WMNS Cloudsoma",
+        "handle": "on-running-x-paf-wmns-cloudsoma-black-black",
+        "in_stock": true
+      },
+      "10614570877194": {
+        "title": "adidas Originals MEGARIDE AG",
+        "handle": "adidas-originals-megaride-ag-aerpnk-sttrbl-cblack",
+        "in_stock": false
+      },
+      "10614570385674": {
+        "title": "adidas Originals x Tyrell Winston ClimaCool 4D",
+        "handle": "adidas-originals-x-tyrell-winston-climacool-4d-red",
+        "in_stock": true
+      },
+      "10614569992458": {
+        "title": "adidas Originals x Tyrell Winston CAP",
+        "handle": "adidas-originals-x-tyrell-winston-cap-black",
+        "in_stock": true
+      },
+      "10614569795850": {
+        "title": "adidas Originals x Tyrell Winston T-Shirt",
+        "handle": "adidas-originals-x-tyrell-winston-t-shirt-red",
+        "in_stock": true
+      },
+      "10614569566474": {
+        "title": "adidas Originals x Tyrell Winston Stadium Pant",
+        "handle": "adidas-originals-x-tyrell-winston-stadium-pant-beige",
+        "in_stock": true
+      },
+      "10614569107722": {
+        "title": "adidas Originals x Tyrell Winston Jersey",
+        "handle": "adidas-originals-x-tyrell-winston-jersey-black",
+        "in_stock": true
+      },
+      "10614568878346": {
+        "title": "adidas Originals x Tyrell Winston Stadium Top",
+        "handle": "adidas-originals-x-tyrell-winston-stadium-top-beige",
+        "in_stock": true
+      },
       "10614563701002": {
         "title": "adidas Originals x Tyrell Winston College Jacket",
         "handle": "adidas-originals-x-tyrell-winston-college-jacket-black",
@@ -7420,100 +7510,25 @@
         "title": "NEW AMSTERDAM SURF ASSOCIATION BEACH SHIRT",
         "handle": "new-amsterdam-surf-association-beach-shirt-white-red-stripe",
         "in_stock": true
-      },
-      "10599812464906": {
-        "title": "NEW AMSTERDAM SURF ASSOCIATION BEACH SHIRT",
-        "handle": "new-amsterdam-surf-association-beach-shirt-check-night-grey-check",
-        "in_stock": true
-      },
-      "10599810171146": {
-        "title": "NEW AMSTERDAM SURF ASSOCIATION LOGO CREWNECK",
-        "handle": "new-amsterdam-surf-association-logo-crewneck-falcon-white",
-        "in_stock": true
-      },
-      "10599805354250": {
-        "title": "Columbia Helvetia II Half Snap Fleece",
-        "handle": "columbia-helvetia-ii-half-snap-fleece-black",
-        "in_stock": true
-      },
-      "10599800537354": {
-        "title": "Columbia Helvetia II Printed Half Snap Fleece",
-        "handle": "columbia-helvetia-ii-printed-half-snap-fleece-iron-dyeflow",
-        "in_stock": true
-      },
-      "10599799062794": {
-        "title": "Columbia Helvetia II Printed Half Snap Fleece",
-        "handle": "columbia-helvetia-ii-printed-half-snap-fleece-sedona-sage-summits",
-        "in_stock": true
-      },
-      "10599798178058": {
-        "title": "Columbia Helvetia II Printed Half Snap Fleece",
-        "handle": "columbia-helvetia-ii-printed-half-snap-fleece-stone-green-soarin",
-        "in_stock": true
-      },
-      "10599794213130": {
-        "title": "Columbia Helvetia II Printed Half Snap Fleece",
-        "handle": "columbia-helvetia-ii-printed-half-snap-fleece-iron-topoglitch",
-        "in_stock": true
-      },
-      "10599781859594": {
-        "title": "adidas Originals x Song For The Mute T-Shirt",
-        "handle": "adidas-originals-x-sftm-t-uf-utigre",
-        "in_stock": true
-      },
-      "10599777927434": {
-        "title": "by Parra Balloon logo cross-grain crewneck",
-        "handle": "by-parra-balloon-logo-cross-grain-crewneck-heather-grey",
-        "in_stock": true
-      },
-      "10599777730826": {
-        "title": "by Parra Purple darwin camo fleece",
-        "handle": "by-parra-purple-darwin-camo-fleece-blue",
-        "in_stock": true
-      },
-      "10599765639434": {
-        "title": "adidas Originals x Bad Bunny F50 Ghost Sprint",
-        "handle": "adidas-originals-x-bad-bunny-f50-ghost-sprint-black",
-        "in_stock": true
-      },
-      "10599757512970": {
-        "title": "Keen Uneek Loafer 'NOCTURNAL PACK'",
-        "handle": "keen-uneek-loafer-nocturnal-black",
-        "in_stock": false
-      },
-      "10599726317834": {
-        "title": "Crocs x Brain Dead Echo Clog 2",
-        "handle": "crocs-x-brain-dead-multi",
-        "in_stock": true
-      },
-      "10599698563338": {
-        "title": "NEW AMSTERDAM SURF ASSOCIATION KNITTED HALF ZIP",
-        "handle": "new-amsterdam-surf-association-knitted-half-zip-night",
-        "in_stock": true
-      },
-      "10599689191690": {
-        "title": "Sorel DAYSTORM HORIZON Gore-Tex",
-        "handle": "sorel-daystorm-horizon-gore-tex-black-black",
-        "in_stock": true
-      },
-      "10599349420298": {
-        "title": "adidas Originals CLIMACOOL",
-        "handle": "adidas-originals-climacool-wontau-ironmt-cblack",
-        "in_stock": true
-      },
-      "10599349354762": {
-        "title": "adidas Originals HANDBALL SPEZIAL",
-        "handle": "adidas-originals-handball-spezial-khathr-crewht-brndes",
-        "in_stock": true
-      },
-      "10599349289226": {
-        "title": "Nike WMNS Air Rift",
-        "handle": "nike-wmns-air-rift-black-cool-grey1",
-        "in_stock": true
       }
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9133388366029": {
+        "title": "Act of Disagreement LX Classic Slip-On 98 Sneakers Black / Checkerboard",
+        "handle": "vans-footwear-lx-classic-slip-on-98-black-j361952",
+        "in_stock": false
+      },
+      "9107613286605": {
+        "title": "Men's 252MV Longsleeve T-Shirt Black",
+        "handle": "wtaps-clothing-252mv-ls-cotton-black-j356050",
+        "in_stock": true
+      },
+      "9104743334093": {
+        "title": "Paws Fishnet Five Fingers Socks Black",
+        "handle": "roa-clothing-paws-fishnet-five-fingers-socks-black-j325771",
+        "in_stock": true
+      },
       "9109112291533": {
         "title": "MUZM Scar Sunglasses Polished Black / Prizm Black",
         "handle": "oakley-accessories-muzm-scar-black-j356740",
@@ -8032,7 +8047,7 @@
       "9128265973965": {
         "title": "Men's Dense Oxford Nylon-TC Jacket Cactus",
         "handle": "stone-island-clothing-jacket-green-j362161",
-        "in_stock": true
+        "in_stock": false
       },
       "9128253358285": {
         "title": "Air Bakin High SP Sneakers Black / Varsity Red",
@@ -8152,7 +8167,7 @@
       "9100190417101": {
         "title": "Men's Pleated Jeans Light Blue",
         "handle": "dries-van-noten-clothing-penning-den-mwpants-blue-j341139",
-        "in_stock": true
+        "in_stock": false
       },
       "9100189597901": {
         "title": "Men's Linen-Ramie Blend Cotton Easy Pants Black",
@@ -8748,32 +8763,89 @@
         "title": "Big Fit Striped Jersey Rugby Shirt Solar Sky Multi",
         "handle": "polo-ralph-lauren-clothing-knit-rugby-pullover-multicolor-j360772",
         "in_stock": false
-      },
-      "9127915684045": {
-        "title": "Connection T-Shirt White",
-        "handle": "syo-clothing-connection-tee-white-j368495",
-        "in_stock": true
-      },
-      "9116574875853": {
-        "title": "Brasil Twist Flip Flops Chiffon Rose",
-        "handle": "havaianas-footwear-wmns-hav-brasil-twist-pink-j356356",
-        "in_stock": true
-      },
-      "9127779631309": {
-        "title": "Men's 101 Z Regular Jeans Ocean Storm",
-        "handle": "lee-101-clothing-101-z-ocean-storm-blue-j354587",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston College Jacket\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-college-jacket-black",
-      "detected_at": "2026-09-08T06:22:31.862327+00:00"
+      "message": "🔥 **Restock** at Asphaltgold: Asics GEL-NYC\nhttps://www.asphaltgold.de/products/asics-gelnyc-white-midnight",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
     },
     {
-      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston Long Shorts\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-long-shorts-black",
-      "detected_at": "2026-09-08T06:22:31.862327+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Sweatpants w/ Flame - Blue\nhttps://sneakerpolitics.com/products/hellstar-snap-sweatpants-w-flame-blue",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Kick Game: Formes Luxe Washbag Magna\nhttps://www.kickgame.co.uk/products/luxe-washbag-magna",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Nike STRUCTURE PLUS SP\nhttps://www.afew-store.com/products/nike-structure-plus-sp-grey-fog-varsity-maize-black",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: On Running WMNS Cloudtilt Arc\nhttps://www.afew-store.com/products/on-running-wmns-cloudtilt-arc-alloy-ivory",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Alpha Industries MA-1 Heritage Bomber Jacket\nhttps://www.afew-store.com/products/alpha-industries-ma-1-heritage-hunter-brown",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Alpha Industries CWU-9/P Quilted UV Field Jacket\nhttps://www.afew-store.com/products/alpha-industries-cwu-9-p-quilted-jacket-uv-silverblue",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Alpha Industries G-8 WEP 1973 MODify Bomber Jacket\nhttps://www.afew-store.com/products/alpha-industries-g-8-wep-1973-modify-black",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: Alpha Industries B-15 Reversible II UV Winter Jacket\nhttps://www.afew-store.com/products/alpha-industries-b-15-reversible-ii-uv-black",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: On Running x PAF Cloudsoma\nhttps://www.afew-store.com/products/on-running-x-paf-cloudsoma-cobble-raven",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: On Running x PAF Cloudsoma\nhttps://www.afew-store.com/products/on-running-x-paf-cloudsoma-black-black",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: On Running x PAF WMNS Cloudsoma\nhttps://www.afew-store.com/products/on-running-x-paf-wmns-cloudsoma-black-black",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston ClimaCool 4D\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-climacool-4d-red",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston CAP\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-cap-black",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston T-Shirt\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-t-shirt-red",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston Stadium Pant\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-stadium-pant-beige",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston Jersey\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-jersey-black",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Afew Store: adidas Originals x Tyrell Winston Stadium Top\nhttps://www.afew-store.com/products/adidas-originals-x-tyrell-winston-stadium-top-beige",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 252MV Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/wtaps-clothing-252mv-ls-cotton-black-j356050",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Paws Fishnet Five Fingers Socks Black\nhttps://www.slamjam.com/products/roa-clothing-paws-fishnet-five-fingers-socks-black-j325771",
+      "detected_at": "2026-09-08T11:37:39.311908+00:00"
     }
   ]
 }
