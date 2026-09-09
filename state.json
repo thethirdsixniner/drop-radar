@@ -286,11 +286,6 @@
         "handle": "aakj5016",
         "in_stock": true
       },
-      "8286763548800": {
-        "title": "VANS Old Skool 36 Pearlized - Multi",
-        "handle": "vn000e8vbgk",
-        "in_stock": false
-      },
       "8286763516032": {
         "title": "adidas BW Army - Shadow Navy / Charcoal",
         "handle": "aakk5028",
@@ -922,7 +917,7 @@
         "in_stock": true
       },
       "8286760272000": {
-        "title": "BRU EYEWEAR Stella Sunglasses - Cedar",
+        "title": "BRU EYEWEAR Stella Sunglasses - Ash",
         "handle": "be089bru",
         "in_stock": true
       },
@@ -1249,6 +1244,11 @@
       "8286761451648": {
         "title": "Kith for the New York Yankees Derek Jeter Leon Shirt - Nocturnal - PH",
         "handle": "khma030206-413-ph",
+        "in_stock": false
+      },
+      "8286761418880": {
+        "title": "Kith for the New York Yankees American League Vintage Alex Tee - White - PH",
+        "handle": "khmg030082-101-ph",
         "in_stock": false
       }
     },
@@ -2703,7 +2703,7 @@
       "10748105654539": {
         "title": "Arte Antwerp Ripped Arte Side Beanie",
         "handle": "arte-antwerp-ripped-arte-side-beanie-bordeaux",
-        "in_stock": true
+        "in_stock": false
       },
       "10793529245963": {
         "title": "Adidas x Thug Club Superstar Luxe Boot",
@@ -2748,7 +2748,7 @@
       "10883596943627": {
         "title": "Stockholm Surfboard Club Pocket Tee Stockholm",
         "handle": "stockholm-surfboard-club-pocket-tee-stockholm-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10860086493451": {
         "title": "Asics GEL-NYC",
@@ -2863,7 +2863,7 @@
       "10567412023563": {
         "title": "Adidas Gazelle Indoor W",
         "handle": "adidas-gazelle-indoor-w-sand-strata-preloved-brown-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10542555201803": {
         "title": "Adidas Gazelle Indoor W",
@@ -2878,7 +2878,7 @@
       "10756612718859": {
         "title": "New Balance 204L",
         "handle": "new-balance-u204lnpb-raincloud-baroque-gold",
-        "in_stock": true
+        "in_stock": false
       },
       "10778878935307": {
         "title": "Puma H-Street OG",
@@ -3043,7 +3043,7 @@
       "10865841176843": {
         "title": "Polo Ralph Lauren Crest-Embroidered Twill Ball Cap",
         "handle": "polo-ralph-lauren-crestembroidered-twill-ball-cap-newport-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "10856459763979": {
         "title": "Salomon XT-6",
@@ -3078,7 +3078,7 @@
       "8466315739403": {
         "title": "47 MLB Los Angeles Dodgers *Base Runner* Cap",
         "handle": "47-mlb-los-angeles-dodgers-base-runner-cap-royal",
-        "in_stock": true
+        "in_stock": false
       },
       "8301169672459": {
         "title": "Frama St. Pauls Eau de Parfum 50 mL",
@@ -3183,7 +3183,7 @@
       "10853392056587": {
         "title": "New Amsterdam Surf Association Chop Hoodie",
         "handle": "new-amsterdam-surf-association-chop-hoodie-navy",
-        "in_stock": true
+        "in_stock": false
       },
       "10839097508107": {
         "title": "New Amsterdam Surf Association Work Trousers",
@@ -3757,6 +3757,41 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9512825847996": {
+        "title": "Nike Mind 002 Flyknit - Light Bone/Saturn Gold",
+        "handle": "nike-mind-002-flyknit-light-bone-saturn-gold",
+        "in_stock": true
+      },
+      "9507871162556": {
+        "title": "Nike Mind 002 Flyknit - Sanddrift/Fossil Rose",
+        "handle": "nike-mind-002-flyknit-sanddrift-fossil-rose",
+        "in_stock": true
+      },
+      "9134977941692": {
+        "title": "Adidas Denim Graphic Track Jacket - White/Dark Blue",
+        "handle": "adidas-denim-graphic-track-jacket-white-dark-blue",
+        "in_stock": false
+      },
+      "7873559232700": {
+        "title": "Oakley Jawbreaker - Red Tiger/Prizm Black",
+        "handle": "oakley-jawbreaker-red-tiger-prizm-black",
+        "in_stock": true
+      },
+      "9501235413180": {
+        "title": "Oakley FGL Static Tee 6.0 - White",
+        "handle": "oakley-fgl-static-tee-6-0-white",
+        "in_stock": true
+      },
+      "8194713878716": {
+        "title": "A Bathing Ape Bape Sta #4 M1 - Sax/White",
+        "handle": "a-bathing-ape-bape-sta-4-m1-sax-white",
+        "in_stock": false
+      },
+      "9126089130172": {
+        "title": "Asics Gel-Kayano 14 - Cream/Raw Indigo",
+        "handle": "asics-gel-kayano-14-cream-raw-indigo",
+        "in_stock": false
+      },
       "9294181793980": {
         "title": "Jordan 4 Retro 'Toro Bravo' (TD) - Fire Red/White",
         "handle": "jordan-4-retro-toro-bravo-td-fire-red-white",
@@ -3840,11 +3875,6 @@
       "9560542019772": {
         "title": "Vans LX Old Skool 36 'Yacht Club' - Pearlized Green/Multi",
         "handle": "vans-lx-old-skool-36-yacht-club-pearlized-green-multi",
-        "in_stock": false
-      },
-      "9324772327612": {
-        "title": "Asics Gel-Kayano 20 - Glacier Grey/White",
-        "handle": "asics-gel-kayano-20-glacier-grey-white",
         "in_stock": false
       },
       "9410290516156": {
@@ -4570,7 +4600,7 @@
       "9002211606716": {
         "title": "Fear Of God Essentials Classic Sweatpant - Oatmeal Heather",
         "handle": "fear-of-god-essentials-classic-sweatpant-oatmeal-heather",
-        "in_stock": true
+        "in_stock": false
       },
       "9341118021820": {
         "title": "Nike ACG Smith Summit Cargo Shorts - Tattoo/Mystic Dates",
@@ -4922,11 +4952,6 @@
         "handle": "politics-airpod-pro-case-creme",
         "in_stock": true
       },
-      "9028603642044": {
-        "title": "Politics Airpod Pro Case - Red",
-        "handle": "politics-airpod-pro-case-red",
-        "in_stock": false
-      },
       "9134910636220": {
         "title": "Politics Baseball Jersey - Black",
         "handle": "politics-baseball-jersey-black",
@@ -4980,31 +5005,6 @@
       "9391969337532": {
         "title": "Anti Social Social Club Core Sweatpants - Grey",
         "handle": "anti-social-social-club-core-sweatpants-grey",
-        "in_stock": true
-      },
-      "9391967633596": {
-        "title": "Anti Social Social Club Core Hoodie - Grey",
-        "handle": "anti-social-social-club-core-hoodie-grey",
-        "in_stock": true
-      },
-      "9391965044924": {
-        "title": "Anti Social Social Club Core Tee - White",
-        "handle": "anti-social-social-club-core-tee-white",
-        "in_stock": true
-      },
-      "9505203060924": {
-        "title": "Hellstar No Guts No Glory Tee - White",
-        "handle": "hellstar-no-guts-no-glory-tee-white",
-        "in_stock": true
-      },
-      "9495521231036": {
-        "title": "Hellstar Not Of This Earth Tee - Black",
-        "handle": "hellstar-not-of-this-earth-tee-black",
-        "in_stock": true
-      },
-      "9495520805052": {
-        "title": "Hellstar Metal Logo Tee - Blue",
-        "handle": "hellstar-metal-logo-tee-blue",
         "in_stock": true
       }
     },
@@ -8279,11 +8279,6 @@
         "handle": "c-p-company-accessories-cotton-goggle-beanie-green-j352847",
         "in_stock": false
       },
-      "9118677598413": {
-        "title": "Netherlands x Patta Anthem Jacket Deep Royal Blue / White",
-        "handle": "nike-clothing-knvx-m-nk-df-kmd-x2-ant-jkt-blue-j364582",
-        "in_stock": false
-      },
       "9101852508365": {
         "title": "Men's Puke T-Shirt Blue",
         "handle": "erl-clothing-unisex-puke-t-shirt-knit-blue-j353854",
@@ -8763,257 +8758,34 @@
         "title": "Fair Isle Scarf Natural",
         "handle": "polo-ralph-lauren-accessories-txt-geo-scf-scarf-multicolor-j360782",
         "in_stock": true
+      },
+      "9127923384525": {
+        "title": "New York Yankees MLB Suede 9TWENTY Adjustable Cap Navy",
+        "handle": "new-era-accessories-img-suede-9twenty-blue-j356257",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Kith Baby & '47 for the New York Yankees Acrylic Beanie - Nocturnal\nhttps://kith.com/products/khba050075-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Mind 002 Flyknit - Light Bone/Saturn Gold\nhttps://sneakerpolitics.com/products/nike-mind-002-flyknit-light-bone-saturn-gold",
+      "detected_at": "2026-09-09T21:51:40.803179+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Baby for the New York Yankees Nelson Crewneck - Light Heather Grey\nhttps://kith.com/products/khba030094-002",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Mind 002 Flyknit - Sanddrift/Fossil Rose\nhttps://sneakerpolitics.com/products/nike-mind-002-flyknit-sanddrift-fossil-rose",
+      "detected_at": "2026-09-09T21:51:40.803179+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Baby for the New York Yankees Retro Tee - White\nhttps://kith.com/products/khbg030002-101",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley Jawbreaker - Red Tiger/Prizm Black\nhttps://sneakerpolitics.com/products/oakley-jawbreaker-red-tiger-prizm-black",
+      "detected_at": "2026-09-09T21:51:40.803179+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Baby for the New York Yankees Legacy Bodysuit - Nocturnal\nhttps://kith.com/products/khbg200004-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Oakley FGL Static Tee 6.0 - White\nhttps://sneakerpolitics.com/products/oakley-fgl-static-tee-6-0-white",
+      "detected_at": "2026-09-09T21:51:40.803179+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Kith Kids & '47 for the New York Yankees Wool Clean Up Cap - Nocturnal\nhttps://kith.com/products/khka050077-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids & '47 for the New York Yankees Sun Faded Clean Up Cap - Skylight\nhttps://kith.com/products/khka050076-5148",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids & '47 for the New York Yankees Acrylic Beanie - Nocturnal\nhttps://kith.com/products/khka050078-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Retro Tee - White\nhttps://kith.com/products/khkg030003-101",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Nelson Crewneck - Nocturnal\nhttps://kith.com/products/khka030136-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Mulberry II Tee - Nocturnal\nhttps://kith.com/products/khkg030004-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Legacy Tee - Nocturnal\nhttps://kith.com/products/khkg030005-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Varsity Lewis Sweater - Nocturnal\nhttps://kith.com/products/khka030137-104",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Monogram Malik Jersey - Nocturnal\nhttps://kith.com/products/khka030134-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Reversible Gorman Jacket - Nocturnal\nhttps://kith.com/products/khka010094-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Nylon Raffi Pullover - Sandrift\nhttps://kith.com/products/khma030202-104",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith Kids for the New York Yankees Nelson Zip Hoodie - Light Heather Grey\nhttps://kith.com/products/khka030135-002",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Percy Jacket - Skyscraper\nhttps://kith.com/products/khma010156-2033",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Leather Ames Jacket - Black\nhttps://kith.com/products/khma010154-001",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Double Weave Shiloh Jacket - Nocturnal\nhttps://kith.com/products/khma010150-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Reversible Hugo Jacket - Nocturnal\nhttps://kith.com/products/khma010153-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Reversible Perry Jacket - Wake\nhttps://kith.com/products/khma010158-2008",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Nylon Dante Pullover Jacket - Skyscraper\nhttps://kith.com/products/khma010151-2033",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Script Vintage Alex Tee - Sandrift\nhttps://kith.com/products/khmg030083-104",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Cupro Ferris Jacket - Nocturnal\nhttps://kith.com/products/khma010155-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Reversible Brooks Jacket - Nocturnal\nhttps://kith.com/products/khma030205-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Nylon Shiloh Jacket - Skyscraper\nhttps://kith.com/products/khma010149-2033",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Nelson Hoodie - Solitaire\nhttps://kith.com/products/khmg030100-6025",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Nelson Hoodie - Kelly\nhttps://kith.com/products/khmg030100-4041",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oliver Parka - Nocturnal\nhttps://kith.com/products/khma010159-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oliver Parka - Skylight\nhttps://kith.com/products/khma010159-5148",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oliver Parka - Dusk\nhttps://kith.com/products/khma010159-857",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Braxton Hoodie - Sandrift\nhttps://kith.com/products/khmg030105-104",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oliver Parka - Garnet\nhttps://kith.com/products/khma010159-7068",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oliver Parka - Marquee\nhttps://kith.com/products/khma010159-7067",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees American League Vintage Alex Tee - White\nhttps://kith.com/products/khmg030082-101",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Champions Vintage Tee - Black\nhttps://kith.com/products/khmg030090-001",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees New York to the World Vintage Alex Tee - Nocturnal\nhttps://kith.com/products/khmg030084-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Derek Jeter Leon Shirt - Nocturnal\nhttps://kith.com/products/khma030206-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oxford Deon Overshirt - Equilibrium\nhttps://kith.com/products/khma030370-483",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Nelson Quarter Zip - Skylight\nhttps://kith.com/products/khmg030097-5148",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Braxton Zip Hoodie - Light Heather Grey\nhttps://kith.com/products/khmg030104-002",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Lawson Tee - Black\nhttps://kith.com/products/khmg030096-001",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oliver Parka - Solitaire\nhttps://kith.com/products/khma010159-6025",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Derek Jeter At Bat Vintage Tee - White\nhttps://kith.com/products/khmg030094-101",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Derek Jeter Vintage Tee - Black\nhttps://kith.com/products/khmg030093-001",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Oliver Parka - Kelly\nhttps://kith.com/products/khma010159-4041",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees World Series Vintage Tee - Black\nhttps://kith.com/products/khmg030091-001",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Nelson Quarter Zip - Dusk\nhttps://kith.com/products/khmg030097-857",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Legacy Vintage Tee - Black\nhttps://kith.com/products/khmg030089-001",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Nelson Hoodie - Marquee\nhttps://kith.com/products/khmg030100-7067",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Nelson Hoodie - Nocturnal\nhttps://kith.com/products/khmg030100-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Vintage Nelson Quarter Zip - Garnet\nhttps://kith.com/products/khmg030097-7068",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Flannel Deon Overshirt - Nocturnal\nhttps://kith.com/products/khma030204-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Tropical Wool Raffi Pullover - Nocturnal\nhttps://kith.com/products/khma030203-413",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Crest Pocket Tee - White\nhttps://kith.com/products/khmg030088-101",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Kith for the New York Yankees Retro Vintage Tee - Black\nhttps://kith.com/products/khmg030087-001",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Jordan 4 Retro 'Toro Bravo' (TD) - Fire Red/White\nhttps://sneakerpolitics.com/products/jordan-4-retro-toro-bravo-td-fire-red-white",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 'Air Soul' - Black/Cinnamon\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-air-soul-black-cinnamon",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 'Beef & Broccoli' - Black Spruce/Black\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-beef-broccoli-black-spruce-black",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Song for the Mute x Adidas Supernova Rise 3 - Cream White/Carbon\nhttps://sneakerpolitics.com/products/song-for-the-mute-x-adidas-supernova-rise-3-cream-white-carbon",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Timberland Heritage Tall Waterproof Boot - Black Full Grain\nhttps://sneakerpolitics.com/products/timberland-heritage-tall-waterproof-boot-black-full-grain",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Awake NY x Jordan Polo - Light Blue/Game Royal\nhttps://sneakerpolitics.com/products/jordan-x-awake-ny-polo-light-blue-game-royal",
-      "detected_at": "2026-09-09T19:25:20.190711+00:00"
+      "message": "🆕 **New drop** at Slam Jam: New York Yankees MLB Suede 9TWENTY Adjustable Cap Navy\nhttps://www.slamjam.com/products/new-era-accessories-img-suede-9twenty-blue-j356257",
+      "detected_at": "2026-09-09T21:51:40.803179+00:00"
     }
   ]
 }
