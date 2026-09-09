@@ -2703,7 +2703,7 @@
       "6844795945124": {
         "title": "Autry Medalist W",
         "handle": "autry-medalist-w-white-red-2",
-        "in_stock": true
+        "in_stock": false
       },
       "10537644687627": {
         "title": "Autry Hyperway W *Suede / Mesh*",
@@ -3363,7 +3363,7 @@
       "10632165720331": {
         "title": "New Balance 992 *Made in USA*",
         "handle": "new-balance-u992mc-made-in-usa-calcium-raw-cashew",
-        "in_stock": true
+        "in_stock": false
       },
       "10677703672075": {
         "title": "New Balance 992 *Made in USA*",
@@ -3942,11 +3942,6 @@
         "handle": "pdf-channel-rich-kid-jeans-black",
         "in_stock": true
       },
-      "8762277167292": {
-        "title": "Billionaire Boys Club Knit Tee - Black",
-        "handle": "billionaire-boys-club-knit-tee-black-1",
-        "in_stock": false
-      },
       "9063757971644": {
         "title": "Women's Nike Rejuven8 Run SP - Black/Black",
         "handle": "womens-nike-rejuven8-run-sp-black-black",
@@ -4152,11 +4147,6 @@
         "handle": "purple-brand-jagged-wordmark-tee-black",
         "in_stock": true
       },
-      "9325698220220": {
-        "title": "Stussy Boxer Briefs (3 Pack) - White",
-        "handle": "stussy-boxer-briefs-3-pack-white",
-        "in_stock": false
-      },
       "9336137384124": {
         "title": "Women's Saucony Progrid Triumph 4 - Seafoam/Seafoam",
         "handle": "womens-saucony-progrid-triumph-4-seafoam-seafoam",
@@ -4361,11 +4351,6 @@
         "title": "Nike Book 2 'Iron Fist' - Metallic Silver/Black",
         "handle": "nike-book-2-iron-fist-metallic-silver-black",
         "in_stock": true
-      },
-      "8910666465468": {
-        "title": "Kody Phillips Did I Win? Tee - White",
-        "handle": "kody-phillips-did-i-win-tee-white",
-        "in_stock": false
       },
       "9343125946556": {
         "title": "Jordan Brooklyn Realtree Jersey - White/Black",
@@ -5005,6 +4990,21 @@
       "9495519789244": {
         "title": "Hellstar Stars Shine Graffiti Sweatpants - Black",
         "handle": "hellstar-stars-shine-graffiti-sweatpants-black",
+        "in_stock": true
+      },
+      "9495519428796": {
+        "title": "Hellstar Snap Sweatpants w/ Flame - Blue",
+        "handle": "hellstar-snap-sweatpants-w-flame-blue",
+        "in_stock": true
+      },
+      "9495514316988": {
+        "title": "Hellstar Snap Shorts - Grey",
+        "handle": "hellstar-snap-shorts-grey",
+        "in_stock": true
+      },
+      "9495508975804": {
+        "title": "Hellstar Crochet Jesus Tee - Black",
+        "handle": "hellstar-crochet-jesus-t-shirt-no-rhinestones-black",
         "in_stock": true
       }
     },
@@ -8264,11 +8264,6 @@
         "handle": "our-legacy-footwear-consultant-boot-black-j355588",
         "in_stock": true
       },
-      "9104743071949": {
-        "title": "Andie Base Layer Gloves Anthracite / Blue",
-        "handle": "roa-accessories-andie-base-layer-gloves-black-j325129",
-        "in_stock": false
-      },
       "9108018036941": {
         "title": "Men's Scanner Knit Cardigan Black",
         "handle": "xlarge-clothing-scanner-knit-cardigan-black-j333112",
@@ -8527,7 +8522,7 @@
       "9128012939469": {
         "title": "Men's Aerial Jacket Pigment Khaki",
         "handle": "our-legacy-clothing-aerial-jacket-green-j355609",
-        "in_stock": true
+        "in_stock": false
       },
       "9128012906701": {
         "title": "Men's Ultra Zip Funnel Sweater Charcoal",
@@ -8763,17 +8758,30 @@
         "title": "Premium Era 59 Sneakers Marshmallow",
         "handle": "vans-footwear-otw-era-59-white-j361925",
         "in_stock": true
+      },
+      "9127918272717": {
+        "title": "Premium Era 59 Sneakers Black",
+        "handle": "vans-footwear-otw-era-59-black-j361921",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Vomero Plus 'Cow Print' - Sail/Sail\nhttps://sneakerpolitics.com/products/nike-vomero-plus-cow-print-sail-sail",
-      "detected_at": "2026-09-09T01:35:00.188879+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Sweatpants w/ Flame - Blue\nhttps://sneakerpolitics.com/products/hellstar-snap-sweatpants-w-flame-blue",
+      "detected_at": "2026-09-09T06:43:40.086537+00:00"
     },
     {
-      "message": "🔥 **Restock** at Sneaker Politics: Air Jordan 8 Retro 'Chrome' - Black/White\nhttps://sneakerpolitics.com/products/air-jordan-8-retro-black-white-1",
-      "detected_at": "2026-09-09T01:35:00.188879+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Snap Shorts - Grey\nhttps://sneakerpolitics.com/products/hellstar-snap-shorts-grey",
+      "detected_at": "2026-09-09T06:43:40.086537+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Hellstar Crochet Jesus Tee - Black\nhttps://sneakerpolitics.com/products/hellstar-crochet-jesus-t-shirt-no-rhinestones-black",
+      "detected_at": "2026-09-09T06:43:40.086537+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Premium Era 59 Sneakers Black\nhttps://www.slamjam.com/products/vans-footwear-otw-era-59-black-j361921",
+      "detected_at": "2026-09-09T06:43:40.086537+00:00"
     }
   ]
 }
