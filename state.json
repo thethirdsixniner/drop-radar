@@ -1,6 +1,11 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286304239744": {
+        "title": "Maison Margiela Tabi New Ballerina - Black",
+        "handle": "s58wz0128p3753t8013",
+        "in_stock": true
+      },
       "8286765514880": {
         "title": "Converse One Star Pro Suede - Black / Black / White",
         "handle": "cn159574c",
@@ -89,7 +94,7 @@
       "8286764040320": {
         "title": "adidas x Simone Rocha Tulle Jacket - Black",
         "handle": "kz2056",
-        "in_stock": true
+        "in_stock": false
       },
       "8286763712640": {
         "title": "adidas x Simone Rocha Top - Icey Pink",
@@ -1244,11 +1249,6 @@
       "8286746181760": {
         "title": "Kith & '47 for the New York Yankees Wool K Clean Up Cap - Nocturnal",
         "handle": "khma050115-413",
-        "in_stock": true
-      },
-      "8286746148992": {
-        "title": "Kith & '47 for the New York Yankees Sun Faded Franchise LS Cap - Kelly",
-        "handle": "khma050113-4041",
         "in_stock": true
       }
     },
@@ -2648,7 +2648,7 @@
       "10874665730315": {
         "title": "Lacoste 3-Pack Long Socks",
         "handle": "lacoste-3pack-long-socks-navy-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "10838577774859": {
         "title": "Adidas Gazelle Indoor",
@@ -2968,7 +2968,7 @@
       "10686589763851": {
         "title": "Salomon XT-Slate",
         "handle": "salomon-xtslate-gray-violet-monument-lime-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "10793529245963": {
         "title": "Adidas x Thug Club Superstar Luxe Boot",
@@ -3093,7 +3093,7 @@
       "10796186403083": {
         "title": "Salomon ACS Pro 20Y",
         "handle": "salomon-acs-pro-20y-rich-gold-old-silver-cloud-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10694598033675": {
         "title": "Nike Air Force 1 '07",
@@ -3603,7 +3603,7 @@
       "10691421602059": {
         "title": "Duke + Dexter Wilde Pony Loafer W",
         "handle": "duke-dexter-wilde-pony-loafer-w-brown-cow",
-        "in_stock": true
+        "in_stock": false
       },
       "10860642533643": {
         "title": "Autry Reelwind Low *Suede / Net*",
@@ -8768,92 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: Converse One Star Pro Suede - Black / Black / White\nhttps://kith.com/products/cn159574c",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance PS 740 - Sea Salt / Silver Metallic\nhttps://kith.com/products/nbp7404dn",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 1 Mid SE - Black / Lough Red\nhttps://kith.com/products/jbix3527-010",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Femme LA Marina Mule- Sea Oat\nhttps://kith.com/products/fepadded-bei",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance 880R - Sea Salt / Slate Grey\nhttps://kith.com/products/nwbu880r2qr",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Femme LA Hali Mule - Cherry Sorbet\nhttps://kith.com/products/fefloral-red",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Femme LA Maeve Slipper - Nocturnal Blue Satin\nhttps://kith.com/products/femaeve-nvy",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Salomon XT-QUEST - Tapioca / Walnut / Black Coffee\nhttps://kith.com/products/sall49195400",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Salomon XT-Whisper Void - Asphalt / Castlerock / Black\nhttps://kith.com/products/sall49236500",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Salomon XT-6 GTX - Pearl Blue / Asphalt / Black\nhttps://kith.com/products/sall49240200",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Salomon XT-6 GTX - Vanilla Ice / Bog / Shadow Green\nhttps://kith.com/products/sall49215700",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: adidas WMNS Samba OG - Maroon / Blue Dawn / Gold Met\nhttps://kith.com/products/aakk2474",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike Zoom Skylon 11 - Summit White / Black / Light Smoke Grey / Metallic Silver\nhttps://kith.com/products/nkiu1869-101",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Nike GS Air Force 1 Low - White / Armoury Blue / White\nhttps://kith.com/products/nkio4610-100",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Crocs x Brain Dead Trailbreak 2 - Multi / Deep Green\nhttps://kith.com/products/cro212689-90h",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: Crocs x Brain Dead Echo 2 - Astro Blue\nhttps://kith.com/products/cro213557-5ep",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: New Balance 204V - Turtledove / Timberwolf\nhttps://kith.com/products/nwbu204v2w0",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Criminal Damage x Street Fighter Vega Tee - Black\nhttps://sneakerpolitics.com/products/criminal-damage-x-street-fighter-vega-tee-black",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Criminal Damage x Street Fighter Ryu Tee - White\nhttps://sneakerpolitics.com/products/criminal-damage-x-street-fighter-ryu-tee-white",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Criminal Damage x Street Fighter Ryu Hadouken Hoodie - Black\nhttps://sneakerpolitics.com/products/criminal-damage-x-street-fighter-ryu-hadouken-hoodie-black",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Criminal Damage x Street Fighter M. Bison Mesh Football Jersey - Multi\nhttps://sneakerpolitics.com/products/criminal-damage-x-street-fighter-m-bison-mesh-football-jersey-multi",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Criminal Damage x Street Fighter Insert Coin Sports Jersey - Black\nhttps://sneakerpolitics.com/products/criminal-damage-x-street-fighter-insert-coin-sports-jersey-black",
-      "detected_at": "2026-09-10T19:42:34.106490+00:00"
+      "message": "🆕 **New drop** at Kith: Maison Margiela Tabi New Ballerina - Black\nhttps://kith.com/products/s58wz0128p3753t8013",
+      "detected_at": "2026-09-10T21:56:56.174409+00:00"
     }
   ]
 }
