@@ -1261,7 +1261,7 @@
       "6702736507141": {
         "title": "SALOMON X DOMINGO XT-4 OG - LEMON/ GOLD",
         "handle": "salomon-x-domingo-xt-4-og-lemon-gold",
-        "in_stock": false
+        "in_stock": true
       },
       "6702736343301": {
         "title": "SAUCONY PROGRID GUIDE 7 - OWL/ AUREATE",
@@ -2505,6 +2505,36 @@
       }
     },
     "https://www.asphaltgold.de": {
+      "11013315592459": {
+        "title": "Stockholm Surfboard Club Pac Logo Cap",
+        "handle": "stockholm-surfboard-club-pac-logo-cap-washed-black",
+        "in_stock": true
+      },
+      "11034429030667": {
+        "title": "Gramicci x thisisneverthat Reversible Fleece Vest",
+        "handle": "gramicci-x-thisisneverthat-reversible-fleece-vest-dark-navy",
+        "in_stock": true
+      },
+      "11034444562699": {
+        "title": "Gramicci x thisisneverthat Pattern Knit Beanie",
+        "handle": "gramicci-x-thisisneverthat-pattern-knit-beanie-light-navy",
+        "in_stock": true
+      },
+      "11034459963659": {
+        "title": "Gramicci x thisisneverthat Pattern Knit Crew",
+        "handle": "gramicci-x-thisisneverthat-pattern-knit-crew-sage",
+        "in_stock": true
+      },
+      "11034468057355": {
+        "title": "Gramicci x thisisneverthat Original Freedom Tee",
+        "handle": "gramicci-x-thisisneverthat-original-freedom-tee-dark-olive",
+        "in_stock": true
+      },
+      "11034515177739": {
+        "title": "Gramicci x thisisneverthat Pertex Insulated Jacket",
+        "handle": "gramicci-x-thisisneverthat-pertex-insulated-jacket-mint",
+        "in_stock": true
+      },
       "8994874720523": {
         "title": "Adidas Campus 00s W",
         "handle": "adidas-campus-00s-w-footwear-white-shadow-brown-chalk-white",
@@ -2593,7 +2623,7 @@
       "10866588221707": {
         "title": "Autry Medalist W *HP*",
         "handle": "autry-medalist-w-hp-white-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10861287014667": {
         "title": "New Balance Vortex Long Sleeve",
@@ -2708,7 +2738,7 @@
       "10763156586763": {
         "title": "Autry Reelwind Low W *Suede / Net*",
         "handle": "autry-reelwind-low-w-suede-net-hide-chipmunk",
-        "in_stock": true
+        "in_stock": false
       },
       "10736886317323": {
         "title": "Autry Dallas W *Suede / Leather*",
@@ -2923,7 +2953,7 @@
       "10537639248139": {
         "title": "Autry Hyperway *Suede / Mesh*",
         "handle": "autry-hyperway-suede-mesh-black-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10870722724107": {
         "title": "Ugg Wmns Classic Micro",
@@ -3558,7 +3588,7 @@
       "10839097508107": {
         "title": "New Amsterdam Surf Association Work Trousers",
         "handle": "new-amsterdam-surf-association-work-trousers-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10833255563531": {
         "title": "Adidas\tx Hermanos Koumori Adi365 Running Hoodie",
@@ -3723,36 +3753,6 @@
       "11026046714123": {
         "title": "Crocs Axle Low",
         "handle": "crocs-axle-low-army-green-espresso",
-        "in_stock": true
-      },
-      "11032353669387": {
-        "title": "Brooks Ghost Trail",
-        "handle": "brooks-ghost-trail-brown-black-nightlife",
-        "in_stock": true
-      },
-      "11026045108491": {
-        "title": "Crocs Axle Low",
-        "handle": "crocs-axle-low-black-black",
-        "in_stock": true
-      },
-      "11027969573131": {
-        "title": "Asics GEL-1130",
-        "handle": "asics-gel1130-white-lavender-field",
-        "in_stock": true
-      },
-      "11030614114571": {
-        "title": "Nike Air Jordan 12 Retro *Bucks*",
-        "handle": "nike-air-jordan-12-retro-bucks-summit-white-gorge-green-black-fierce-purple",
-        "in_stock": false
-      },
-      "11027948568843": {
-        "title": "Asics GEL-DS Trainer SP",
-        "handle": "asics-gelds-trainer-sp-glacier-grey-pure-silver",
-        "in_stock": true
-      },
-      "11027947618571": {
-        "title": "Asics GEL-DS Trainer SP",
-        "handle": "asics-gelds-trainer-sp-cream-vanilla",
         "in_stock": true
       }
     },
@@ -7514,6 +7514,211 @@
     },
     "https://www.hanon-shop.com": {},
     "https://www.slamjam.com": {
+      "9137612619981": {
+        "title": "_J.L-A.L_ Longsleeve T-Shirt Inky Gray",
+        "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-longsleeve-tee-grey-j363800",
+        "in_stock": false
+      },
+      "9137612652749": {
+        "title": "J.L-A.L_ Knitted Top Inky Gray",
+        "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-knitted-top-grey-j363799",
+        "in_stock": false
+      },
+      "9137612587213": {
+        "title": "_J.L-A.L_ Pants Inky Gray",
+        "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-pants-grey-j363723",
+        "in_stock": false
+      },
+      "9137612685517": {
+        "title": "_J.L-A.L_ Jacket Inky Gray",
+        "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-jacket-grey-j363798",
+        "in_stock": false
+      },
+      "9137612521677": {
+        "title": "_J.L-A.L_ Lattice Bucket Bag Slate Sky",
+        "handle": "puma-accessories-puma-x-_j-l-a-l_-lattice-bucket-bag-blue-j363784",
+        "in_stock": false
+      },
+      "9137612554445": {
+        "title": "_J.L-A.L_ Skull Beanie Black",
+        "handle": "puma-accessories-puma-x-_j-l-a-l_-skull-beanie-black-j363785",
+        "in_stock": false
+      },
+      "9137566843085": {
+        "title": "_J.L-A.L_ CELL GEO 1 Cage Sneakers Bitter Chocolate",
+        "handle": "puma-footwear-cell-geo-1-cage-_j-l-a-l_-brown-j363742",
+        "in_stock": false
+      },
+      "9137485054157": {
+        "title": "_J.L-A.L_ CELL GEO 1 Cage Sneakers Warm White",
+        "handle": "puma-footwear-cell-geo-1-cage-_j-l-a-l_-white-j363741",
+        "in_stock": false
+      },
+      "9118678745293": {
+        "title": "England x Palace Track Pants Pewter Grey / Bright Crimson",
+        "handle": "nike-clothing-enx-m-nk-solo-swsh-trk-pnt-grey-j364592",
+        "in_stock": false
+      },
+      "9118677598413": {
+        "title": "Netherlands x Patta Anthem Jacket Deep Royal Blue / White",
+        "handle": "nike-clothing-knvx-m-nk-df-kmd-x2-ant-jkt-blue-j364582",
+        "in_stock": false
+      },
+      "9118677369037": {
+        "title": "USA x V.A.A. Longsleeve Rugby Top White / Challenge Red / Deep Royal Blue",
+        "handle": "nike-clothing-usx-m-ls-rugby-top-white-j364597",
+        "in_stock": false
+      },
+      "9118678712525": {
+        "title": "England x Palace Strike Drill Top Pewter Grey / Bright Crimson",
+        "handle": "nike-clothing-enx-m-df-strk-dril-top-grey-j364598",
+        "in_stock": false
+      },
+      "9118677860557": {
+        "title": "Canada x NOCTA T-Shirt Black",
+        "handle": "nike-clothing-can-m-nk-prem-tee-black-j364588",
+        "in_stock": false
+      },
+      "9118678450381": {
+        "title": "England x Palace T-Shirt Light Crimson",
+        "handle": "nike-clothing-ent-m-nk-prem-tee-red-j364605",
+        "in_stock": false
+      },
+      "9118678778061": {
+        "title": "England x Palace Track Jacket Pewter Grey / Bright Crimson",
+        "handle": "nike-clothing-enx-m-nk-solo-swsh-trk-jkt-grey-j364591",
+        "in_stock": false
+      },
+      "9106784878797": {
+        "title": "Nylon Track Pants Black",
+        "handle": "stussy-clothing-nylon-track-pant-black-j356100",
+        "in_stock": true
+      },
+      "9106787467469": {
+        "title": "Lazy T-Shirt Vintage Black",
+        "handle": "stussy-clothing-lazy-ss-tee-black-j356087",
+        "in_stock": true
+      },
+      "9106758467789": {
+        "title": "Work Canvas Short Safari",
+        "handle": "stussy-clothing-work-short-canvas-multicolor-j356105",
+        "in_stock": true
+      },
+      "9106756206797": {
+        "title": "Pile Shorts Leopard",
+        "handle": "stussy-clothing-pile-leopard-short-multicolor-j356103",
+        "in_stock": true
+      },
+      "9106794479821": {
+        "title": "Lightweight Hooded Jacket Cheetah",
+        "handle": "stussy-clothing-lightweight-hooded-jacket-multicolor-j356076",
+        "in_stock": true
+      },
+      "9106792349901": {
+        "title": "Basic Diamond Zip Hoodie Ash Heather",
+        "handle": "stussy-clothing-basic-diamond-zip-hood-grey-j356096",
+        "in_stock": true
+      },
+      "9106788024525": {
+        "title": "Basic Stock Thermal Longsleeve T-Shirt Washed Black",
+        "handle": "stussy-clothing-raglan-thermal-basic-stock-black-j356090",
+        "in_stock": false
+      },
+      "9106775507149": {
+        "title": "Men's Water Stock Shorts Black",
+        "handle": "stussy-clothing-water-short-stock-black-j356106",
+        "in_stock": true
+      },
+      "9106794807501": {
+        "title": "Lightweight Hooded Jacket Black",
+        "handle": "stussy-clothing-lightweight-hooded-jacket-black-j356075",
+        "in_stock": true
+      },
+      "9106787795149": {
+        "title": "Basic Stock Thermal Longsleeve T-Shirt Bone",
+        "handle": "stussy-clothing-raglan-thermal-basic-stock-white-j356091",
+        "in_stock": false
+      },
+      "9106786320589": {
+        "title": "Cargo Pants Woodland Camo",
+        "handle": "stussy-clothing-cargo-pant-multicolor-j356102",
+        "in_stock": false
+      },
+      "9106785992909": {
+        "title": "Cotton Twill Beach Pants Black",
+        "handle": "stussy-clothing-beach-pant-cotton-twill-black-j356098",
+        "in_stock": true
+      },
+      "9106757517517": {
+        "title": "Plaid Beach Short Black",
+        "handle": "stussy-clothing-plaid-beach-short-black-j356104",
+        "in_stock": true
+      },
+      "9108125417677": {
+        "title": "Men's MothTech Baseball Tee Aged Black",
+        "handle": "satisfy-clothing-mothtech-baseball-tee-white-j356009",
+        "in_stock": false
+      },
+      "9108125057229": {
+        "title": "Men's Space‑O 5\" Shorts Black",
+        "handle": "satisfy-clothing-space-o-5-shorts-black-j356016",
+        "in_stock": true
+      },
+      "9108125450445": {
+        "title": "Men's SoftCell Hoodie Sun Bleached Rocky Road",
+        "handle": "satisfy-clothing-softcell-hoodie-multicolor-j356022",
+        "in_stock": true
+      },
+      "9106802737357": {
+        "title": "Men's Camo Pattern Chambray Longsleeve Shirt Black",
+        "handle": "neighborhood-clothing-camo-pattern-chambray-shirt-ls-black-j353332",
+        "in_stock": true
+      },
+      "9101852541133": {
+        "title": "Men's Polo T-Shirt Brown",
+        "handle": "erl-clothing-unisex-polo-tee-knit-brown-j353855",
+        "in_stock": true
+      },
+      "9118678581453": {
+        "title": "England x Palace Academy Pro Shortsleeve Soccer Top Pewter Grey / Bright Crimson",
+        "handle": "nike-clothing-enx-m-nk-df-acdpr-ss-pm-top-black-j352031",
+        "in_stock": false
+      },
+      "9111645716685": {
+        "title": "Women's Shox Woven Shorts Wolf Grey / Pearl Pink",
+        "handle": "nike-clothing-w-shox-wvn-short-black-j352473",
+        "in_stock": true
+      },
+      "9108130627789": {
+        "title": "Men's Striped Viscose Shirt Fuchsia",
+        "handle": "dries-van-noten-clothing-cael-bis-mwshirt-pink-j341137",
+        "in_stock": true
+      },
+      "9108023541965": {
+        "title": "Men's Andras Formal Trousers Taupe Check",
+        "handle": "kiko-kostadinov-clothing-andras-formal-trousers-beige-j339452",
+        "in_stock": true
+      },
+      "9107033096397": {
+        "title": "Men's Advanced Vee Longsleeve T-Shirt Black",
+        "handle": "vans-clothing-advanced-vee-ls-tee-black-j345123",
+        "in_stock": true
+      },
+      "9082109984973": {
+        "title": "Dover Street Market Ginza Logo Box T-Shirt Black",
+        "handle": "mental-athletic-clothing-mental-athletic-logo-box-tshirt-black-j338857",
+        "in_stock": true
+      },
+      "9087919325389": {
+        "title": "Men's Paneled Hybrid Denim Pants Indigo / Leather",
+        "handle": "protocol-index-clothing-paneled-hybrid-denim-pants-blue-j338881",
+        "in_stock": true
+      },
+      "9104492888269": {
+        "title": "Men's 50000 Replicated T-Shirt Black",
+        "handle": "gr10k-clothing-5000-replicated-s-s-t-shirt-black-j330875",
+        "in_stock": true
+      },
       "9107038273741": {
         "title": "Boxy French Terry Sweatshirt Heather Grey",
         "handle": "brain-dead-clothing-boxy-french-terry-sweatshirt-grey-j356175",
@@ -7627,7 +7832,7 @@
       "9134532067533": {
         "title": "Men's Two-Tone Vanisé Cashmere Hooded Zip Sweater Biscuit",
         "handle": "stone-island-clothing-hoodie-beige-j362174",
-        "in_stock": true
+        "in_stock": false
       },
       "9134532100301": {
         "title": "Men's Garment Dyed Down Jacket Shadow Brown",
@@ -8558,262 +8763,121 @@
         "title": "Tor Summit FLD Sneakers Black",
         "handle": "hoka-one-one-footwear-u-tor-summit-fld-black-j362621",
         "in_stock": true
-      },
-      "9128245133517": {
-        "title": "Clifton 11 GTX Sneakers Black",
-        "handle": "hoka-one-one-footwear-m-clifton-11-gtx-black-j362619",
-        "in_stock": true
-      },
-      "9128245100749": {
-        "title": "Clifton 11 GTX Sneakers Varsity Burgundy / Carbon Black",
-        "handle": "hoka-one-one-footwear-m-clifton-11-gtx-red-j362620",
-        "in_stock": true
-      },
-      "9127712424141": {
-        "title": "Consultant Boots Deep Black",
-        "handle": "our-legacy-footwear-consultant-boot-black-j355588",
-        "in_stock": true
-      },
-      "9100190417101": {
-        "title": "Men's Pleated Jeans Light Blue",
-        "handle": "dries-van-noten-clothing-penning-den-mwpants-blue-j341139",
-        "in_stock": false
-      },
-      "9100189597901": {
-        "title": "Men's Linen-Ramie Blend Cotton Easy Pants Black",
-        "handle": "undercover-clothing-pants-black-j347663",
-        "in_stock": true
-      },
-      "9128150597837": {
-        "title": "Salehe Bembury Velum 2 SB NITRO Sneakers Cool Light Gray / Silver",
-        "handle": "puma-footwear-velum-2-sb-nitro-grey-j363767",
-        "in_stock": true
-      },
-      "9128150565069": {
-        "title": "Salehe Bembury Velum 2 SB NITRO Sneakers Red Clay / Nasturtium",
-        "handle": "puma-footwear-velum-2-sb-nitro-red-j363766",
-        "in_stock": true
-      },
-      "9128141848781": {
-        "title": "Men's 1942 501 Original Jeans Dark Wash",
-        "handle": "levis-clothing-lvc-1942-501-jeans-med-indigo-worn-in-grey-j360077",
-        "in_stock": false
-      },
-      "9128141390029": {
-        "title": "Key Hook Grey",
-        "handle": "and-wander-accessories-173-key-hook-grey-j355980",
-        "in_stock": true
-      },
-      "9128141226189": {
-        "title": "Ocean Rip Wallet Black",
-        "handle": "and-wander-accessories-127-ocean-rip-wallet-black-j355978",
-        "in_stock": true
-      },
-      "9128141422797": {
-        "title": "Key Hook Black",
-        "handle": "and-wander-accessories-173-key-hook-black-j355979",
-        "in_stock": true
-      },
-      "9128141160653": {
-        "title": "Crispy Rip Grocery Pocket Bag Khaki",
-        "handle": "and-wander-accessories-151-crispy-rip-grocery-pocket-bag-brown-j355977",
-        "in_stock": true
-      },
-      "9128141291725": {
-        "title": "Sil Sacoche Pink",
-        "handle": "and-wander-accessories-137-sil-sacoche-pink-j355973",
-        "in_stock": true
-      },
-      "9128141193421": {
-        "title": "Crispy Rip Grocery Pocket Bag Black",
-        "handle": "and-wander-accessories-151-crispy-rip-grocery-pocket-bag-black-j355976",
-        "in_stock": true
-      },
-      "9128141258957": {
-        "title": "Sil Sacoche White",
-        "handle": "and-wander-accessories-137-sil-sacoche-white-j355972",
-        "in_stock": true
-      },
-      "9128141324493": {
-        "title": "Sil Sacoche Black",
-        "handle": "and-wander-accessories-137-sil-sacoche-black-j355971",
-        "in_stock": true
-      },
-      "9128141029581": {
-        "title": "Ecopak 30L Backpack Black",
-        "handle": "and-wander-accessories-118-ecopak-30l-backpack-black-j355969",
-        "in_stock": true
-      },
-      "9128141062349": {
-        "title": "Ecopak 30L Backpack Off White",
-        "handle": "and-wander-accessories-118-ecopak-30l-backpack-white-j355970",
-        "in_stock": true
-      },
-      "9128131494093": {
-        "title": "POST ARCHIVE FACTION (PAF) Cloudsoma Sneakers Black / Black",
-        "handle": "on-footwear-cloudsoma-paf-black-j363128",
-        "in_stock": true
-      },
-      "9128131395789": {
-        "title": "POST ARCHIVE FACTION (PAF) Cloudsoma Sneakers Haze / Linen",
-        "handle": "on-footwear-cloudsoma-paf-green-j363127",
-        "in_stock": true
-      },
-      "9128131428557": {
-        "title": "POST ARCHIVE FACTION (PAF) Cloudsoma Sneakers Cobble / Raven",
-        "handle": "on-footwear-cloudsoma-paf-green-j363129",
-        "in_stock": true
-      },
-      "9127712587981": {
-        "title": "Sling Bag Deep Blue",
-        "handle": "our-legacy-accessories-sling-bag-blue-j355600",
-        "in_stock": true
-      },
-      "9128127004877": {
-        "title": "Men's Performance Volt-T Espresso",
-        "handle": "on-clothing-performance-volt-t-brown-j363102",
-        "in_stock": true
-      },
-      "9128023294157": {
-        "title": "Women's FKA twigs Club Collective Full Zip Hoodie Espresso",
-        "handle": "on-clothing-wmns-club-collective-full-zip-hoodie-fka-brown-j363126",
-        "in_stock": true
-      },
-      "9128023261389": {
-        "title": "Women's FKA twigs Club Collective Full Zip Hoodie Lurien",
-        "handle": "on-clothing-wmns-club-collective-full-zip-hoodie-fka-grey-j363125",
-        "in_stock": true
-      },
-      "9128023195853": {
-        "title": "Women's FKA twigs Club Collective-T Espresso",
-        "handle": "on-clothing-wmns-club-collective-t-fka-brown-j363124",
-        "in_stock": true
-      },
-      "9128023032013": {
-        "title": "Women's FKA twigs Club Collective Pants Espresso",
-        "handle": "on-clothing-wmns-club-collective-pants-fka-brown-j363121",
-        "in_stock": true
-      },
-      "9128023163085": {
-        "title": "Women's FKA twigs Club Collective-T Lurien",
-        "handle": "on-clothing-wmns-club-collective-t-fka-grey-j363123",
-        "in_stock": true
-      },
-      "9128022999245": {
-        "title": "Women's FKA twigs Club Collective Pants Lurien",
-        "handle": "on-clothing-wmns-club-collective-pants-fka-grey-j363122",
-        "in_stock": true
-      },
-      "9128022966477": {
-        "title": "Women's FKA twigs Club Collective Shorts Espresso",
-        "handle": "on-clothing-wmns-club-collective-short-fka-brown-j363120",
-        "in_stock": true
-      },
-      "9128023130317": {
-        "title": "Women's FKA twigs Studio Bra Espresso",
-        "handle": "on-clothing-wmns-studio-bra-fka-brown-j363119",
-        "in_stock": true
-      },
-      "9128023097549": {
-        "title": "Women's FKA twigs Studio Long-T Lurien",
-        "handle": "on-clothing-wmns-studio-long-t-fka-grey-j363118",
-        "in_stock": true
-      },
-      "9128022900941": {
-        "title": "FKA twigs Headband Tonoko",
-        "handle": "on-lifestyle-headband-fka-beige-j363933",
-        "in_stock": true
-      },
-      "9128022933709": {
-        "title": "FKA twigs Headband Espresso",
-        "handle": "on-lifestyle-headband-fka-brown-j363932",
-        "in_stock": true
-      },
-      "9128022835405": {
-        "title": "FKA twigs Slouchy Socks Espresso",
-        "handle": "on-clothing-slouchy-socks-fka-brown-j363117",
-        "in_stock": true
-      },
-      "9128022802637": {
-        "title": "FKA twigs Slouchy Socks Tonoko",
-        "handle": "on-clothing-slouchy-socks-fka-beige-j363116",
-        "in_stock": true
-      },
-      "9128022737101": {
-        "title": "Men's Cloudmonster 3 Mules Cacao / Espresso",
-        "handle": "on-footwear-cloudmonster-3-mule-brown-j363113",
-        "in_stock": true
-      },
-      "9128022638797": {
-        "title": "Women's Cloudmonster 3 Mules Cacao / Espresso",
-        "handle": "on-footwear-wmns-cloudmonster-3-mule-brown-j363112",
-        "in_stock": true
-      },
-      "9128022704333": {
-        "title": "Men's Cloudmonster 3 Mules Loess / Hare",
-        "handle": "on-footwear-cloudmonster-3-mule-beige-j363111",
-        "in_stock": true
-      },
-      "9128022573261": {
-        "title": "Women's Cloudmonster 3 Mules Loess / Hare",
-        "handle": "on-footwear-wmns-cloudmonster-3-mule-beige-j363110",
-        "in_stock": true
-      },
-      "9128019689677": {
-        "title": "Nuna 800 Fill Power Hooded Down Jacket Burgundy",
-        "handle": "roa-clothing-nuna-800-fill-power-hooded-down-jacket-red-j339687",
-        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: PUMA x A$AP Rocky Straycat - PUMA Black / Formula Red\nhttps://kith.com/products/pu40850901",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🔥 **Restock** at Undefeated: SALOMON X DOMINGO XT-4 OG - LEMON/ GOLD\nhttps://undefeated.com/products/salomon-x-domingo-xt-4-og-lemon-gold",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike Mind 002 - Sand Drift / Fossil Rose / Plum Eclipse / Light Orewood Brown\nhttps://kith.com/products/nkir2176-101",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Stockholm Surfboard Club Pac Logo Cap\nhttps://www.asphaltgold.de/products/stockholm-surfboard-club-pac-logo-cap-washed-black",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike Mind 002 - Light Bone / Saturn Gold / Infinite Gold / Wheat / Sail\nhttps://kith.com/products/nkir2176-003",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Gramicci x thisisneverthat Reversible Fleece Vest\nhttps://www.asphaltgold.de/products/gramicci-x-thisisneverthat-reversible-fleece-vest-dark-navy",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Nike Kobe Air Force 1 Low - White / Armory Blue\nhttps://kith.com/products/nkib0018-103",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Gramicci x thisisneverthat Pattern Knit Beanie\nhttps://www.asphaltgold.de/products/gramicci-x-thisisneverthat-pattern-knit-beanie-light-navy",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan WMNS Air Jordan 1 High OG - University Red / Metallic Silver / Light Soft Pink\nhttps://kith.com/products/jbfd2596-601",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Gramicci x thisisneverthat Pattern Knit Crew\nhttps://www.asphaltgold.de/products/gramicci-x-thisisneverthat-pattern-knit-crew-sage",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 4 Retro - White / Tour Yellow / Dark Blue Grey / Black\nhttps://kith.com/products/jbbq7670-102",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Gramicci x thisisneverthat Original Freedom Tee\nhttps://www.asphaltgold.de/products/gramicci-x-thisisneverthat-original-freedom-tee-dark-olive",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 4 Retro - White / Tour Yellow / Dark Blue Grey / Black\nhttps://kith.com/products/jbbq7669-102",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Asphaltgold: Gramicci x thisisneverthat Pertex Insulated Jacket\nhttps://www.asphaltgold.de/products/gramicci-x-thisisneverthat-pertex-insulated-jacket-mint",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 4 Retro - White / Dark Blue Grey / Black / Tour Yellow\nhttps://kith.com/products/jb408452-102",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Nylon Track Pants Black\nhttps://www.slamjam.com/products/stussy-clothing-nylon-track-pant-black-j356100",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 4 - White / Dark Blue Grey / Black / Tour Yellow\nhttps://kith.com/products/jbio2463-102",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Lazy T-Shirt Vintage Black\nhttps://www.slamjam.com/products/stussy-clothing-lazy-ss-tee-black-j356087",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: adidas x Pharrell Williams Water Moc - Yellow / Silver Metallic / Core Black\nhttps://kith.com/products/aalb2842",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Work Canvas Short Safari\nhttps://www.slamjam.com/products/stussy-clothing-work-short-canvas-multicolor-j356105",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Kith: adidas x Pharrell Williams Water Moc - Core Black / Silver Metallic\nhttps://kith.com/products/aalb2841",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Pile Shorts Leopard\nhttps://www.slamjam.com/products/stussy-clothing-pile-leopard-short-multicolor-j356103",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     },
     {
-      "message": "🆕 **New drop** at Slam Jam: Nuna 800 Fill Power Hooded Down Jacket Burgundy\nhttps://www.slamjam.com/products/roa-clothing-nuna-800-fill-power-hooded-down-jacket-red-j339687",
-      "detected_at": "2026-09-11T04:25:15.589710+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Lightweight Hooded Jacket Cheetah\nhttps://www.slamjam.com/products/stussy-clothing-lightweight-hooded-jacket-multicolor-j356076",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Basic Diamond Zip Hoodie Ash Heather\nhttps://www.slamjam.com/products/stussy-clothing-basic-diamond-zip-hood-grey-j356096",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Water Stock Shorts Black\nhttps://www.slamjam.com/products/stussy-clothing-water-short-stock-black-j356106",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Lightweight Hooded Jacket Black\nhttps://www.slamjam.com/products/stussy-clothing-lightweight-hooded-jacket-black-j356075",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Cotton Twill Beach Pants Black\nhttps://www.slamjam.com/products/stussy-clothing-beach-pant-cotton-twill-black-j356098",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Plaid Beach Short Black\nhttps://www.slamjam.com/products/stussy-clothing-plaid-beach-short-black-j356104",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Space‑O 5\" Shorts Black\nhttps://www.slamjam.com/products/satisfy-clothing-space-o-5-shorts-black-j356016",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's SoftCell Hoodie Sun Bleached Rocky Road\nhttps://www.slamjam.com/products/satisfy-clothing-softcell-hoodie-multicolor-j356022",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Camo Pattern Chambray Longsleeve Shirt Black\nhttps://www.slamjam.com/products/neighborhood-clothing-camo-pattern-chambray-shirt-ls-black-j353332",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Polo T-Shirt Brown\nhttps://www.slamjam.com/products/erl-clothing-unisex-polo-tee-knit-brown-j353855",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Women's Shox Woven Shorts Wolf Grey / Pearl Pink\nhttps://www.slamjam.com/products/nike-clothing-w-shox-wvn-short-black-j352473",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Striped Viscose Shirt Fuchsia\nhttps://www.slamjam.com/products/dries-van-noten-clothing-cael-bis-mwshirt-pink-j341137",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Andras Formal Trousers Taupe Check\nhttps://www.slamjam.com/products/kiko-kostadinov-clothing-andras-formal-trousers-beige-j339452",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Advanced Vee Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/vans-clothing-advanced-vee-ls-tee-black-j345123",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Dover Street Market Ginza Logo Box T-Shirt Black\nhttps://www.slamjam.com/products/mental-athletic-clothing-mental-athletic-logo-box-tshirt-black-j338857",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's Paneled Hybrid Denim Pants Indigo / Leather\nhttps://www.slamjam.com/products/protocol-index-clothing-paneled-hybrid-denim-pants-blue-j338881",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Slam Jam: Men's 50000 Replicated T-Shirt Black\nhttps://www.slamjam.com/products/gr10k-clothing-5000-replicated-s-s-t-shirt-black-j330875",
+      "detected_at": "2026-09-11T09:02:22.029603+00:00"
     }
   ]
 }
