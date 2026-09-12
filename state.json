@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702690730245": {
+        "title": "ADIDAS X METALWOOD PREDATOR SALA - CORE BLACK",
+        "handle": "adidas-x-metalwood-predator-sala-core-black",
+        "in_stock": true
+      },
       "6702740701445": {
         "title": "NIKE AIR MAX 95 BB PRM - BLACK/ VOLT / WHITE",
         "handle": "nike-air-max-95-bb-prm-black-volt-white",
@@ -2497,14 +2502,14 @@
         "title": "NIKE AIR MAX UPTEMPO - WHITE / COURT PURPLE / WHITE / WHITE",
         "handle": "nike-air-max-uptempo-white-court-purple-white-white",
         "in_stock": true
-      },
-      "6681512083717": {
-        "title": "SALOMON ACS PRO - PEWTER/ MONUMENT/ AEGEANBLUE",
-        "handle": "salomon-acs-pro-pewter-monument-aegeanblue",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
+      "6770036441252": {
+        "title": "Converse Chuck Taylor All Star '70 Ox",
+        "handle": "converse-chuck-taylor-all-star-70-ox-black-black-egret",
+        "in_stock": true
+      },
       "8264334803211": {
         "title": "Adidas Country OG",
         "handle": "adidas-country-og-matte-silver-bright-blue-footwear-white",
@@ -2553,7 +2558,7 @@
       "8932937400587": {
         "title": "Adidas Campus 00s W",
         "handle": "adidas-campus-00s-w-linen-green-core-black-footwear-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10860741755147": {
         "title": "Karhu Fusion 2.0",
@@ -2588,7 +2593,7 @@
       "10676136608011": {
         "title": "Veja Volley W *O.T. Leather*",
         "handle": "veja-volley-w-ot-leather-guimauve-pekin-eagle",
-        "in_stock": true
+        "in_stock": false
       },
       "10901242773771": {
         "title": "Diemme Cornaro Due Gomma",
@@ -2628,7 +2633,7 @@
       "10882909831435": {
         "title": "Ami De Coeur Hoodie",
         "handle": "ami-parisami-de-coeur-hoodie-black-white-cream",
-        "in_stock": true
+        "in_stock": false
       },
       "10883345613067": {
         "title": "AMI Paris\tEmbossed Ami De Coeur Windbreaker",
@@ -2963,7 +2968,7 @@
       "10216687173899": {
         "title": "Adidas SL 72 RS",
         "handle": "adidas-sl-72-rs-cloud-white-aurora-ivy-crystal-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10901243560203": {
         "title": "Diemme Cornaro Due Gomma",
@@ -3038,7 +3043,7 @@
       "10744491049227": {
         "title": "Nike Wmns Field General",
         "handle": "nike-wmns-field-general-college-grey-dark-storm",
-        "in_stock": true
+        "in_stock": false
       },
       "10744390222091": {
         "title": "Adidas SL 72 RS",
@@ -3108,7 +3113,7 @@
       "10539549851915": {
         "title": "Autry Reelwind Low *Nylon / Cracked Leather*",
         "handle": "autry-reelwind-low-nylon-cracked-leather-white-brnsug",
-        "in_stock": true
+        "in_stock": false
       },
       "10540104515851": {
         "title": "Autry Reelwind Low W *Suede / Mesh*",
@@ -3283,7 +3288,7 @@
       "10793708847371": {
         "title": "Adidas Adistar Control 5",
         "handle": "adidas-adistar-control-5-cloud-white-core-black-core-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10578470764811": {
         "title": "Asics GEL-Quantum™ 360 I AMP",
@@ -3628,7 +3633,7 @@
       "10855618576651": {
         "title": "Adidas\tJamaica Away Anthem Jacket",
         "handle": "adidasjamaica-away-anthem-jacket-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10859905483019": {
         "title": "Arte Antwerp Baggy Pants",
@@ -3748,11 +3753,6 @@
       "11020770312459": {
         "title": "Adidas\tx Tyrrell Winston Stadium Trackpant",
         "handle": "adidasx-tyrrell-winston-stadium-trackpant-wonder-white",
-        "in_stock": true
-      },
-      "8399358951691": {
-        "title": "Salomon XT-6 GTX",
-        "handle": "salomon-xt-6-gtx-safari-safari-black",
         "in_stock": true
       }
     },
@@ -8768,8 +8768,12 @@
   },
   "pending_free": [
     {
-      "message": "🔥 **Restock** at Afew Store: Air Jordan 12 Retro\nhttps://www.afew-store.com/products/air-jordan-12-retro-summit-white-gorge-green-fierce-purple",
-      "detected_at": "2026-09-12T09:10:24.515127+00:00"
+      "message": "🆕 **New drop** at Undefeated: ADIDAS X METALWOOD PREDATOR SALA - CORE BLACK\nhttps://undefeated.com/products/adidas-x-metalwood-predator-sala-core-black",
+      "detected_at": "2026-09-12T12:52:29.938883+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Asphaltgold: Converse Chuck Taylor All Star '70 Ox\nhttps://www.asphaltgold.de/products/converse-chuck-taylor-all-star-70-ox-black-black-egret",
+      "detected_at": "2026-09-12T12:52:29.938883+00:00"
     }
   ]
 }
