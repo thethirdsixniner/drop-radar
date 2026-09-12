@@ -1,6 +1,46 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286766465152": {
+        "title": "Jordan PS Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple",
+        "handle": "jb151186-103",
+        "in_stock": true
+      },
+      "8286766432384": {
+        "title": "Nike x Wagyu Air Max 90 - Black / Multi Color / Anthracite / Sail",
+        "handle": "nkir1979-010",
+        "in_stock": false
+      },
+      "8286766497920": {
+        "title": "Jordan TD Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple",
+        "handle": "jb850000-103",
+        "in_stock": true
+      },
+      "8286767710336": {
+        "title": "Jordan GS Air Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple",
+        "handle": "jb153265-103",
+        "in_stock": true
+      },
+      "8286767743104": {
+        "title": "Jordan Air Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple",
+        "handle": "jbct8013-103",
+        "in_stock": true
+      },
+      "8286767677568": {
+        "title": "ASICS x Cecilie Bahnsen GEL-KINETIC FR - Grey",
+        "handle": "asi1203b171-020",
+        "in_stock": true
+      },
+      "8286767775872": {
+        "title": "ASICS x Cecilie Bahnsen GEL-KINETIC FR - Black Coffee",
+        "handle": "asi1203b171-001",
+        "in_stock": true
+      },
+      "8286625267840": {
+        "title": "adidas x CLOT Samba Espadrille - Pearl Amethyst / Pink",
+        "handle": "aaki4328",
+        "in_stock": true
+      },
       "8286527651968": {
         "title": "New Balance FuelCell Rebel v5 - Electric Indigo / Truffle Salt / Silver Metallic",
         "handle": "nbmfcx4ku",
@@ -1210,49 +1250,54 @@
         "title": "Essentials Cropped Relaxed Paneled Hoodie - Iron Grey Heather / Seal Heather",
         "handle": "essrw00283-0120",
         "in_stock": true
-      },
-      "8286756208768": {
-        "title": "Essentials Cropped Paneled Polo - Iron Grey / Seal Heather",
-        "handle": "essrw00284-0120",
-        "in_stock": true
-      },
-      "8286755750016": {
-        "title": "Essentials Cotton Twill Work Jacket - Iron Grey",
-        "handle": "essrw00303-0032",
-        "in_stock": true
-      },
-      "8286756601984": {
-        "title": "Essentials Cotton Twill Relaxed Drawstring Short - Iron Grey",
-        "handle": "essrw00305-0032",
-        "in_stock": true
-      },
-      "8286755061888": {
-        "title": "Essentials Cotton Twill Pleat Front Drawstring Pant - Iron Grey",
-        "handle": "essrw00304-0032",
-        "in_stock": true
-      },
-      "8286756798592": {
-        "title": "Essentials Classic Sweatshort - Washed Iron Grey",
-        "handle": "essrw00350-0146",
-        "in_stock": true
-      },
-      "8286757552256": {
-        "title": "Essentials Classic Fleece Sweatpant - Vanilla Heather",
-        "handle": "essrw00348-0134",
-        "in_stock": true
-      },
-      "8286757257344": {
-        "title": "Essentials Classic Fleece Sweatpant - Seal Heather",
-        "handle": "essrw00348-0135",
-        "in_stock": true
-      },
-      "8286756634752": {
-        "title": "Essentials Classic Fleece Sweatpant - Iron Grey Heather",
-        "handle": "essrw00348-0120",
-        "in_stock": true
       }
     },
     "https://undefeated.com": {
+      "6702733984005": {
+        "title": "NIKE SB X YUTO SS SKATE JERSEY - THUNDER BLUE/ SUMMIT WHITE",
+        "handle": "nike-sb-x-yuto-ss-skate-jersey-thunder-blue-summit-white",
+        "in_stock": true
+      },
+      "6702733754629": {
+        "title": "NIKE SB X YUTO AIR FORCE 1 - WHITE/ IRON GREY",
+        "handle": "nike-sb-x-yuto-air-force-1-white-iron-grey",
+        "in_stock": true
+      },
+      "6702733885701": {
+        "title": "NIKE SB X YUTO SS SKATE JERSEY - SUMMIT WHITE",
+        "handle": "nike-sb-x-yuto-ss-skate-jersey-summit-white",
+        "in_stock": true
+      },
+      "6702733590789": {
+        "title": "JORDAN GS AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN",
+        "handle": "jordan-gs-aj-retro-12-summit-white-gorge-green",
+        "in_stock": true
+      },
+      "6702733558021": {
+        "title": "JORDAN TD AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN",
+        "handle": "jordan-td-aj-retro-12-summit-white-gorge-green",
+        "in_stock": true
+      },
+      "6702733525253": {
+        "title": "JORDAN PS AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN",
+        "handle": "jordan-ps-aj-retro-12-summit-white-gorge-green",
+        "in_stock": true
+      },
+      "6702733721861": {
+        "title": "JORDAN AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN",
+        "handle": "jordan-aj-retro-12-summit-white-gorge-green",
+        "in_stock": true
+      },
+      "6702733787397": {
+        "title": "NIKE AIR ZOOM HUARACHE 2K4 PH - BLACK/ VARSITY ROYAL",
+        "handle": "nike-air-zoom-huarache-2k4-ph-black-varsity-royal",
+        "in_stock": true
+      },
+      "6702719369477": {
+        "title": "ADIDAS X LARRY JUNE CONTROL 5 NM - SELURE/ SESOSL",
+        "handle": "adidas-x-larry-june-control-5-nm-selure-sesosl",
+        "in_stock": false
+      },
       "6702690730245": {
         "title": "ADIDAS X METALWOOD PREDATOR SALA - CORE BLACK",
         "handle": "adidas-x-metalwood-predator-sala-core-black",
@@ -1261,11 +1306,6 @@
       "6702740701445": {
         "title": "NIKE AIR MAX 95 BB PRM - BLACK/ VOLT / WHITE",
         "handle": "nike-air-max-95-bb-prm-black-volt-white",
-        "in_stock": true
-      },
-      "6702733787397": {
-        "title": "NIKE AIR ZOOM HUARACHE 2K4 PH - BLACK/ VARSITY ROYAL",
-        "handle": "nike-air-zoom-huarache-2k4-ph-black-varsity-royal",
         "in_stock": true
       },
       "6702736572677": {
@@ -2462,46 +2502,6 @@
         "title": "NIKE AIR FORCE 1 LUXE - BLACK/METALLIC SILVER / ANTHRACITE",
         "handle": "nike-air-force-1-luxe-black-metallic-silver-anthracite",
         "in_stock": true
-      },
-      "6702706557189": {
-        "title": "ADIDAS X HART COPY BW ARMY DECON - YELLOW",
-        "handle": "adidas-x-hart-copy-bw-army-decon-yellow",
-        "in_stock": true
-      },
-      "6702614216965": {
-        "title": "OAKLEY SPEED CAT EYE JACKET REDUX - YELLOW BENGAL",
-        "handle": "oakley-speed-cat-eye-jacket-redux-yellow-bengal",
-        "in_stock": true
-      },
-      "6702265860357": {
-        "title": "VANS PREMUIM AUTHENTIC 'GEMSTONE' - MARSHMALLOW",
-        "handle": "vans-premuim-authentic-gemstone-marshmallow",
-        "in_stock": true
-      },
-      "6702241382661": {
-        "title": "VANS PREMUIM AUTHENTIC 'GEMSTONE' - BLACK",
-        "handle": "vans-premuim-authentic-gemstone-black",
-        "in_stock": true
-      },
-      "6702614184197": {
-        "title": "OAKLEY SPEED CAT EYE JACKET REDUX - DARK AMBER BENGAL",
-        "handle": "oakley-speed-cat-eye-jacket-redux-dark-amber-bengal",
-        "in_stock": true
-      },
-      "6702716813573": {
-        "title": "NEW BALANCE 991 v2 ' MADE IN UK ' - WALNUT/ SHITAKE",
-        "handle": "new-balance-991-v2-made-in-uk-walnut-shitake",
-        "in_stock": true
-      },
-      "6702715994373": {
-        "title": "NIKE CRYO SHOT TIEMPO 94 OG - BLACK/ WHITE",
-        "handle": "nike-cryo-shot-tiempo-94-og-black-white",
-        "in_stock": true
-      },
-      "6702477279493": {
-        "title": "NIKE AIR MAX UPTEMPO - WHITE / COURT PURPLE / WHITE / WHITE",
-        "handle": "nike-air-max-uptempo-white-court-purple-white-white",
-        "in_stock": true
       }
     },
     "https://www.asphaltgold.de": {
@@ -2578,7 +2578,7 @@
       "10541065896203": {
         "title": "Autry Windspin W *Suede / Leather*",
         "handle": "autry-windspin-w-suede-leather-peanut",
-        "in_stock": true
+        "in_stock": false
       },
       "10839928045835": {
         "title": "Saucony Pro Grid Paramount",
@@ -2603,7 +2603,7 @@
       "10886528762123": {
         "title": "New Balance 740",
         "handle": "new-balance-740-cortado-thunder-brown-red-rock",
-        "in_stock": true
+        "in_stock": false
       },
       "10747457962251": {
         "title": "Adidas Megaride",
@@ -2688,7 +2688,7 @@
       "10497888190731": {
         "title": "HOKA Mafate Speed 4 Lite TS",
         "handle": "hoka-mafate-speed-4-lite-ts-white-black",
-        "in_stock": true
+        "in_stock": false
       },
       "8931895410955": {
         "title": "Adidas adizero Evo SL M",
@@ -3583,7 +3583,7 @@
       "10886298665227": {
         "title": "Puma Speedcat Ballet Venus",
         "handle": "puma-speedcat-ballet-venus-jasmine-flower-warm-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10900673757451": {
         "title": "Carhartt WIP Hooded Benton Sweat Jacket",
@@ -3757,6 +3757,41 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9363821723836": {
+        "title": "Politics x '47 Polka Dot Hitch Snapback - Royal",
+        "handle": "politics-x-47-polka-dot-hitch-snapback-royal",
+        "in_stock": true
+      },
+      "9363822379196": {
+        "title": "Politics x '47 Polka Dot Hitch Snapback - Black",
+        "handle": "politics-x-47-polka-dot-hitch-snapback-black",
+        "in_stock": true
+      },
+      "9483071586492": {
+        "title": "Politics Polka Dot Tee - White",
+        "handle": "politics-polka-dot-tee-white",
+        "in_stock": true
+      },
+      "9363822903484": {
+        "title": "Politics x '47 Polka Dot Hitch Snapback - Creme",
+        "handle": "politics-x-47-polka-dot-hitch-snapback-creme",
+        "in_stock": true
+      },
+      "9553874944188": {
+        "title": "Anta Kai 3 'The Alchemist' - Green/Gold",
+        "handle": "anta-kai-3-the-alchemist-green-gold",
+        "in_stock": true
+      },
+      "9351385514172": {
+        "title": "CLOT x Adidas Samba Espadrille - Core Black/Cloud White",
+        "handle": "clot-x-adidas-samba-espadrille-core-black-cloud-white",
+        "in_stock": true
+      },
+      "9351395868860": {
+        "title": "CLOT x Adidas Samba Espadrille - Court Green/Warm Vanilla",
+        "handle": "clot-x-adidas-samba-espadrille-court-green-warm-vanilla",
+        "in_stock": true
+      },
       "9490413420732": {
         "title": "Free The Youth x Jordan Football Jersey - Multi",
         "handle": "free-the-youth-x-jordan-football-jersey-multi",
@@ -4970,41 +5005,6 @@
       "9364285391036": {
         "title": "Ice Cream Citrus Cargo Pants - Camo",
         "handle": "ice-cream-citrus-cargo-pants-camo",
-        "in_stock": true
-      },
-      "9364283293884": {
-        "title": "Ice Cream Lavender Jeans - Faded Ash",
-        "handle": "ice-cream-lavender-jeans-faded-ash",
-        "in_stock": true
-      },
-      "9364281098428": {
-        "title": "Ice Cream Milk Jeans - Lemon Tart",
-        "handle": "ice-cream-milk-jeans-lemon-tart",
-        "in_stock": true
-      },
-      "9364278640828": {
-        "title": "Ice Cream Cola Jeans - Pistachio",
-        "handle": "ice-cream-cola-jeans-pistachio",
-        "in_stock": true
-      },
-      "9364271890620": {
-        "title": "Ice Cream Baja Shorts - Black",
-        "handle": "ice-cream-baja-shorts-black",
-        "in_stock": true
-      },
-      "9357570539708": {
-        "title": "Nike Zoom Skylon 11 - Summit White/Metallic Silver",
-        "handle": "nike-zoom-skylon-11-summit-white-metallic-silver",
-        "in_stock": true
-      },
-      "9391902982332": {
-        "title": "Crocs Ripple - Steel/Moonlight",
-        "handle": "crocs-ripple-steel-moonlight",
-        "in_stock": true
-      },
-      "9410254110908": {
-        "title": "Air Jordan 7 Retro 'Tennis Day' - Phantom/Anthracite",
-        "handle": "air-jordan-7-retro-tennis-day-phantom-anthracite",
         "in_stock": true
       }
     },
@@ -7632,42 +7632,42 @@
       "9137612619981": {
         "title": "_J.L-A.L_ Longsleeve T-Shirt Inky Gray",
         "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-longsleeve-tee-grey-j363800",
-        "in_stock": false
+        "in_stock": true
       },
       "9137612652749": {
         "title": "J.L-A.L_ Knitted Top Inky Gray",
         "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-knitted-top-grey-j363799",
-        "in_stock": false
+        "in_stock": true
       },
       "9137612587213": {
         "title": "_J.L-A.L_ Pants Inky Gray",
         "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-pants-grey-j363723",
-        "in_stock": false
+        "in_stock": true
       },
       "9137612685517": {
         "title": "_J.L-A.L_ Jacket Inky Gray",
         "handle": "puma-clothing-puma-x-_j-l-a-l_-clrt-jacket-grey-j363798",
-        "in_stock": false
+        "in_stock": true
       },
       "9137612521677": {
         "title": "_J.L-A.L_ Lattice Bucket Bag Slate Sky",
         "handle": "puma-accessories-puma-x-_j-l-a-l_-lattice-bucket-bag-blue-j363784",
-        "in_stock": false
+        "in_stock": true
       },
       "9137612554445": {
         "title": "_J.L-A.L_ Skull Beanie Black",
         "handle": "puma-accessories-puma-x-_j-l-a-l_-skull-beanie-black-j363785",
-        "in_stock": false
+        "in_stock": true
       },
       "9137566843085": {
         "title": "_J.L-A.L_ CELL GEO 1 Cage Sneakers Bitter Chocolate",
         "handle": "puma-footwear-cell-geo-1-cage-_j-l-a-l_-brown-j363742",
-        "in_stock": false
+        "in_stock": true
       },
       "9137485054157": {
         "title": "_J.L-A.L_ CELL GEO 1 Cage Sneakers Warm White",
         "handle": "puma-footwear-cell-geo-1-cage-_j-l-a-l_-white-j363741",
-        "in_stock": false
+        "in_stock": true
       },
       "9118678745293": {
         "title": "England x Palace Track Pants Pewter Grey / Bright Crimson",
@@ -7867,7 +7867,7 @@
       "9134534099149": {
         "title": "Cecilie Bahnsen GEL-Kinetic FR Sneakers Piedmont Grey / Pure Silver",
         "handle": "asics-footwear-gel-kinetic-fr-grey-j359683",
-        "in_stock": true
+        "in_stock": false
       },
       "9134533869773": {
         "title": "Men's D.D. Shell Hooded Medium Down Jacket Black",
@@ -8768,12 +8768,120 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: ADIDAS X METALWOOD PREDATOR SALA - CORE BLACK\nhttps://undefeated.com/products/adidas-x-metalwood-predator-sala-core-black",
-      "detected_at": "2026-09-12T12:52:29.938883+00:00"
+      "message": "🆕 **New drop** at Kith: Jordan PS Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple\nhttps://kith.com/products/jb151186-103",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Converse Chuck Taylor All Star '70 Ox\nhttps://www.asphaltgold.de/products/converse-chuck-taylor-all-star-70-ox-black-black-egret",
-      "detected_at": "2026-09-12T12:52:29.938883+00:00"
+      "message": "🆕 **New drop** at Kith: Jordan TD Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple\nhttps://kith.com/products/jb850000-103",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan GS Air Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple\nhttps://kith.com/products/jb153265-103",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: Jordan Air Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple\nhttps://kith.com/products/jbct8013-103",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: ASICS x Cecilie Bahnsen GEL-KINETIC FR - Grey\nhttps://kith.com/products/asi1203b171-020",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: ASICS x Cecilie Bahnsen GEL-KINETIC FR - Black Coffee\nhttps://kith.com/products/asi1203b171-001",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: adidas x CLOT Samba Espadrille - Pearl Amethyst / Pink\nhttps://kith.com/products/aaki4328",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE SB X YUTO SS SKATE JERSEY - THUNDER BLUE/ SUMMIT WHITE\nhttps://undefeated.com/products/nike-sb-x-yuto-ss-skate-jersey-thunder-blue-summit-white",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE SB X YUTO AIR FORCE 1 - WHITE/ IRON GREY\nhttps://undefeated.com/products/nike-sb-x-yuto-air-force-1-white-iron-grey",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: NIKE SB X YUTO SS SKATE JERSEY - SUMMIT WHITE\nhttps://undefeated.com/products/nike-sb-x-yuto-ss-skate-jersey-summit-white",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN GS AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN\nhttps://undefeated.com/products/jordan-gs-aj-retro-12-summit-white-gorge-green",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN TD AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN\nhttps://undefeated.com/products/jordan-td-aj-retro-12-summit-white-gorge-green",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN PS AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN\nhttps://undefeated.com/products/jordan-ps-aj-retro-12-summit-white-gorge-green",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Undefeated: JORDAN AJ RETRO 12 - SUMMIT WHITE/ GORGE GREEN\nhttps://undefeated.com/products/jordan-aj-retro-12-summit-white-gorge-green",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 Polka Dot Hitch Snapback - Royal\nhttps://sneakerpolitics.com/products/politics-x-47-polka-dot-hitch-snapback-royal",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 Polka Dot Hitch Snapback - Black\nhttps://sneakerpolitics.com/products/politics-x-47-polka-dot-hitch-snapback-black",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Polka Dot Tee - White\nhttps://sneakerpolitics.com/products/politics-polka-dot-tee-white",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x '47 Polka Dot Hitch Snapback - Creme\nhttps://sneakerpolitics.com/products/politics-x-47-polka-dot-hitch-snapback-creme",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: Anta Kai 3 'The Alchemist' - Green/Gold\nhttps://sneakerpolitics.com/products/anta-kai-3-the-alchemist-green-gold",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: CLOT x Adidas Samba Espadrille - Core Black/Cloud White\nhttps://sneakerpolitics.com/products/clot-x-adidas-samba-espadrille-core-black-cloud-white",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Sneaker Politics: CLOT x Adidas Samba Espadrille - Court Green/Warm Vanilla\nhttps://sneakerpolitics.com/products/clot-x-adidas-samba-espadrille-court-green-warm-vanilla",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: _J.L-A.L_ Longsleeve T-Shirt Inky Gray\nhttps://www.slamjam.com/products/puma-clothing-puma-x-_j-l-a-l_-clrt-longsleeve-tee-grey-j363800",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: J.L-A.L_ Knitted Top Inky Gray\nhttps://www.slamjam.com/products/puma-clothing-puma-x-_j-l-a-l_-clrt-knitted-top-grey-j363799",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: _J.L-A.L_ Pants Inky Gray\nhttps://www.slamjam.com/products/puma-clothing-puma-x-_j-l-a-l_-clrt-pants-grey-j363723",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: _J.L-A.L_ Jacket Inky Gray\nhttps://www.slamjam.com/products/puma-clothing-puma-x-_j-l-a-l_-clrt-jacket-grey-j363798",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: _J.L-A.L_ Lattice Bucket Bag Slate Sky\nhttps://www.slamjam.com/products/puma-accessories-puma-x-_j-l-a-l_-lattice-bucket-bag-blue-j363784",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: _J.L-A.L_ Skull Beanie Black\nhttps://www.slamjam.com/products/puma-accessories-puma-x-_j-l-a-l_-skull-beanie-black-j363785",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: _J.L-A.L_ CELL GEO 1 Cage Sneakers Bitter Chocolate\nhttps://www.slamjam.com/products/puma-footwear-cell-geo-1-cage-_j-l-a-l_-brown-j363742",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
+    },
+    {
+      "message": "🔥 **Restock** at Slam Jam: _J.L-A.L_ CELL GEO 1 Cage Sneakers Warm White\nhttps://www.slamjam.com/products/puma-footwear-cell-geo-1-cage-_j-l-a-l_-white-j363741",
+      "detected_at": "2026-09-12T16:05:06.410585+00:00"
     }
   ]
 }
