@@ -1426,7 +1426,7 @@
       "6702664745221": {
         "title": "UNDEFEATED RACING L/S TEE",
         "handle": "undefeated-racing-l-s-tee",
-        "in_stock": true
+        "in_stock": false
       },
       "6702665302277": {
         "title": "UNDEFEATED FISHTAIL PARKA",
@@ -2518,7 +2518,7 @@
       "10887365820683": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-clay-wonder-aluminium-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "10716185297163": {
         "title": "Asics GEL-DS Trainer 14",
@@ -2563,7 +2563,7 @@
       "10783596216587": {
         "title": "Adidas x Hal Studios Intimidation",
         "handle": "adidas-x-hal-studios-intimidation-wonder-white-core-black-beta-scarlet",
-        "in_stock": true
+        "in_stock": false
       },
       "10839928045835": {
         "title": "Saucony Pro Grid Paramount",
@@ -2703,7 +2703,7 @@
       "10218519232779": {
         "title": "Veja Volley *O.T. Leather*",
         "handle": "veja-volley-ot-leather-white-tent-bark",
-        "in_stock": true
+        "in_stock": false
       },
       "8990357946635": {
         "title": "Autry Medalist W Metal / Leather *Super Vintage*",
@@ -2873,7 +2873,7 @@
       "10878770970891": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-silver-green-core-black-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10901243560203": {
         "title": "Diemme Cornaro Due Gomma",
@@ -2898,7 +2898,7 @@
       "10791609893131": {
         "title": "Nike Wmns Shox Z",
         "handle": "nike-wmns-shox-z-pinksicle-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10875349500171": {
         "title": "Autry Medalist *Leather / Suede*",
@@ -2968,7 +2968,7 @@
       "10746805092619": {
         "title": "Adidas Samba OG",
         "handle": "adidas-samba-og-fox-brown-off-white-gum-4",
-        "in_stock": true
+        "in_stock": false
       },
       "10660668473611": {
         "title": "Asics GEL-Nunobiki",
@@ -3413,7 +3413,7 @@
       "10861917470987": {
         "title": "Salomon XT-Whisper",
         "handle": "salomon-xtwhisper-almond-milk-footwear-silver-lava-falls",
-        "in_stock": true
+        "in_stock": false
       },
       "10899567673611": {
         "title": "New Balance 740",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Lavender Jeans - Faded Ash\nhttps://sneakerpolitics.com/products/ice-cream-lavender-jeans-faded-ash",
-      "detected_at": "2026-09-13T17:42:33.478697+00:00"
-    }
-  ]
+  "pending_free": []
 }
