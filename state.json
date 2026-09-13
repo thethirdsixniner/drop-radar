@@ -1,6 +1,16 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286767841408": {
+        "title": "PUMA Suede Charles F. Stead VI - PUMA Black / Alpine Snow",
+        "handle": "pu40846403",
+        "in_stock": true
+      },
+      "8286767808640": {
+        "title": "PUMA Suede Charles F. Stead VI - Aged Copper / Alpine Snow",
+        "handle": "pu40846404",
+        "in_stock": true
+      },
       "8286766465152": {
         "title": "Jordan PS Jordan 12 Retro - Summit White / Gorge Green / Black / Fierce Purple",
         "handle": "jb151186-103",
@@ -969,7 +979,7 @@
       "8286755553408": {
         "title": "Essentials Yankees Gym Short - Dark Sapphire",
         "handle": "essrw00261-0131",
-        "in_stock": true
+        "in_stock": false
       },
       "8286755487872": {
         "title": "Essentials Yankees American League Merch Tee - Homestead Heather",
@@ -984,7 +994,7 @@
       "8286754865280": {
         "title": "Essentials Yankees 90's Sweatshort - Oatmeal Heather / Dark Sapphire Pinstripes",
         "handle": "essrw00222-0137",
-        "in_stock": true
+        "in_stock": false
       },
       "8286754832512": {
         "title": "Essentials Yankees 3/4 Sleeve Pullover - Dark Sapphire",
@@ -1239,16 +1249,6 @@
       "8286755422336": {
         "title": "Essentials Cropped Relaxed Paneled Hoodie - Vanilla Heather / Seal",
         "handle": "essrw00283-0134",
-        "in_stock": true
-      },
-      "8286756470912": {
-        "title": "Essentials Cropped Relaxed Paneled Hoodie - Seal Heather / Iron Grey",
-        "handle": "essrw00283-0135",
-        "in_stock": true
-      },
-      "8286755979392": {
-        "title": "Essentials Cropped Relaxed Paneled Hoodie - Iron Grey Heather / Seal Heather",
-        "handle": "essrw00283-0120",
         "in_stock": true
       }
     },
@@ -2568,12 +2568,12 @@
       "10839928045835": {
         "title": "Saucony Pro Grid Paramount",
         "handle": "saucony-pro-grid-paramount-white-gold",
-        "in_stock": true
+        "in_stock": false
       },
       "10809185370379": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-charcoal-cofmetallic-aurora-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10901242773771": {
         "title": "Diemme Cornaro Due Gomma",
@@ -2638,7 +2638,7 @@
       "8931895410955": {
         "title": "Adidas adizero Evo SL M",
         "handle": "adidas-adizero-evo-sl-m-core-black-footwear-white-core-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10205582786827": {
         "title": "Adidas Sambae W",
@@ -2678,7 +2678,7 @@
       "10135062577419": {
         "title": "Asics GEL-NYC 2055",
         "handle": "asics-gelnyc-2055-clay-grey-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10188197331211": {
         "title": "Asics GEL-DS Trainer 14",
@@ -2708,7 +2708,7 @@
       "8990357946635": {
         "title": "Autry Medalist W Metal / Leather *Super Vintage*",
         "handle": "autry-medalist-w-metal-leather-super-vintage-platinum-violet",
-        "in_stock": true
+        "in_stock": false
       },
       "8408821006603": {
         "title": "Autry Medalist W",
@@ -2893,7 +2893,7 @@
       "10881543340299": {
         "title": "Ugg Wmns Classic Micro",
         "handle": "ugg-wmns-classic-micro-pink-diamond",
-        "in_stock": true
+        "in_stock": false
       },
       "10791609893131": {
         "title": "Nike Wmns Shox Z",
@@ -3013,7 +3013,7 @@
       "10829392150795": {
         "title": "Adidas\tF50 Graphic T-Shirt",
         "handle": "adidas-f50-graphic-tshirt-white",
-        "in_stock": true
+        "in_stock": false
       },
       "10676847345931": {
         "title": "AMI Paris\tAmi De Coeur Wool Sweater",
@@ -3113,7 +3113,7 @@
       "10883535143179": {
         "title": "AMI Paris\tParis Cloche Keyring",
         "handle": "ami-parisparis-cloche-keyring-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10902702063883": {
         "title": "The North Face NSE Belted Trousers",
@@ -3138,7 +3138,7 @@
       "10883325165835": {
         "title": "AMI Paris\tAlexandre Mattiussi Embroidery Boxy Polo",
         "handle": "ami-parisalexandre-mattiussi-embroidery-boxy-polo-white-cream-ink",
-        "in_stock": true
+        "in_stock": false
       },
       "10838577774859": {
         "title": "Adidas Gazelle Indoor",
@@ -3168,7 +3168,7 @@
       "10870722724107": {
         "title": "Ugg Wmns Classic Micro",
         "handle": "ugg-wmns-classic-micro-sand",
-        "in_stock": true
+        "in_stock": false
       },
       "10539911971083": {
         "title": "Autry Reelwind Low W *Suede / Net*",
@@ -8766,5 +8766,14 @@
       }
     }
   },
-  "pending_free": []
+  "pending_free": [
+    {
+      "message": "🆕 **New drop** at Kith: PUMA Suede Charles F. Stead VI - PUMA Black / Alpine Snow\nhttps://kith.com/products/pu40846403",
+      "detected_at": "2026-09-13T14:42:07.999205+00:00"
+    },
+    {
+      "message": "🆕 **New drop** at Kith: PUMA Suede Charles F. Stead VI - Aged Copper / Alpine Snow\nhttps://kith.com/products/pu40846404",
+      "detected_at": "2026-09-13T14:42:07.999205+00:00"
+    }
+  ]
 }
