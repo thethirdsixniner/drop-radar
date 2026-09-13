@@ -1,6 +1,46 @@
 {
   "stores": {
     "https://kith.com": {
+      "8286768595072": {
+        "title": "Kith Wrinkle Nylon Pieced Classic Cap - Hickory - PH",
+        "handle": "khm051556-260-ph",
+        "in_stock": false
+      },
+      "8286768267392": {
+        "title": "Kith Poly Balaclava - Black - PH",
+        "handle": "khma130070-001-ph",
+        "in_stock": false
+      },
+      "8286768201856": {
+        "title": "Kith Nylon Ripstop Sling Backpack - Black - PH",
+        "handle": "khma040096-001-ph",
+        "in_stock": false
+      },
+      "8286768529536": {
+        "title": "Kith Nylon Ripstop Marathon Cap - Black - PH",
+        "handle": "khm051449-001-ph",
+        "in_stock": false
+      },
+      "8286768431232": {
+        "title": "Kith Nylon Mesh Paneled Griffey Camper Hat - Black - PH",
+        "handle": "khm051555-001-ph",
+        "in_stock": false
+      },
+      "8286768332928": {
+        "title": "Kith for Corkcicle Classic Sport Canteen - Black - PH",
+        "handle": "khla150118-001-ph",
+        "in_stock": false
+      },
+      "8286768660608": {
+        "title": "Kith Boucle Cuffless Beanie - Rhone - PH",
+        "handle": "khma050108-912-ph",
+        "in_stock": false
+      },
+      "8286768300160": {
+        "title": "Kith Boucle Cuffless Beanie - Black - PH",
+        "handle": "khma050108-001-ph",
+        "in_stock": false
+      },
       "8286767841408": {
         "title": "PUMA Suede Charles F. Stead VI - PUMA Black / Alpine Snow",
         "handle": "pu40846403",
@@ -1209,46 +1249,6 @@
       "8286756012160": {
         "title": "Essentials Dodgers Raglan Half Zip Sport Hoodie - Estate Blue / Seal",
         "handle": "essrw00213-0063",
-        "in_stock": true
-      },
-      "8286756274304": {
-        "title": "Essentials Dodgers Merch Tee - Concrete Heather",
-        "handle": "essrw00190-0110",
-        "in_stock": true
-      },
-      "8286755160192": {
-        "title": "Essentials Denim 5-Pocket Jeans - Overdyed Black",
-        "handle": "essrw00310-0142",
-        "in_stock": true
-      },
-      "8286757486720": {
-        "title": "Essentials Cut Off 90's Tee - Chalk",
-        "handle": "essrw00271-0037",
-        "in_stock": true
-      },
-      "8286754635904": {
-        "title": "Essentials Cut Off 90's Tee - Chalk",
-        "handle": "essrw00271-0225",
-        "in_stock": true
-      },
-      "8286757060736": {
-        "title": "Essentials Cropped Relaxed Paneled Sweatshirt - Vanilla Heather / Seal",
-        "handle": "essrw00282-0134",
-        "in_stock": true
-      },
-      "8286757716096": {
-        "title": "Essentials Cropped Relaxed Paneled Sweatshirt - Seal Heather / Iron Grey",
-        "handle": "essrw00282-0135",
-        "in_stock": true
-      },
-      "8286756438144": {
-        "title": "Essentials Cropped Relaxed Paneled Sweatshirt - Iron Grey Heather / Seal Heather",
-        "handle": "essrw00282-0120",
-        "in_stock": true
-      },
-      "8286755422336": {
-        "title": "Essentials Cropped Relaxed Paneled Hoodie - Vanilla Heather / Seal",
-        "handle": "essrw00283-0134",
         "in_stock": true
       }
     },
@@ -2648,7 +2648,7 @@
       "10659436626187": {
         "title": "Adidas Handball Spezial",
         "handle": "adidas-handball-spezial-core-white-wonder-white-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10140088467723": {
         "title": "New Balance 471",
@@ -2658,7 +2658,7 @@
       "10568812101899": {
         "title": "Adidas Samba OG W",
         "handle": "adidas-samba-og-w-off-white-earth-strata-gum",
-        "in_stock": true
+        "in_stock": false
       },
       "10716181430539": {
         "title": "Asics GEL-DS Trainer 14",
@@ -2673,7 +2673,7 @@
       "8280182653195": {
         "title": "New Balance U990GR4 *Made in USA*",
         "handle": "new-balance-u990gr4-made-in-usa-grey-silver",
-        "in_stock": true
+        "in_stock": false
       },
       "10135062577419": {
         "title": "Asics GEL-NYC 2055",
@@ -3178,7 +3178,7 @@
       "8381336453387": {
         "title": "Autry Reelwind Low",
         "handle": "autry-reelwind-low-amazon",
-        "in_stock": true
+        "in_stock": false
       },
       "10882911240459": {
         "title": "AMI Paris\tRed Ami De Coeur Sweatshirt",
@@ -3423,7 +3423,7 @@
       "10860086493451": {
         "title": "Asics GEL-NYC",
         "handle": "asics-gelnyc-obsidian-grey-obsidian-grey",
-        "in_stock": true
+        "in_stock": false
       },
       "10880040337675": {
         "title": "Carhartt WIP Wip Label Polo Sweat",
@@ -3688,7 +3688,7 @@
       "10862754234635": {
         "title": "Nike Vomero Plus",
         "handle": "nike-vomero-plus-platinum-tint-reflect-silver-grey-fog",
-        "in_stock": true
+        "in_stock": false
       },
       "8951671226635": {
         "title": "Ferm Living Mist Box 7,5 x 10",
@@ -4131,11 +4131,6 @@
         "title": "Casio Baby-G BG-169 Series Digital Watch - Grey Camo",
         "handle": "casio-baby-g-bg-169-series-digital-watch-grey-camo",
         "in_stock": true
-      },
-      "9560550703292": {
-        "title": "Larry June x Adidas Adistar Control 5 'Watermelon Smoothie' - Semi Lucid Red/Semi Solar Slime",
-        "handle": "larry-june-x-adidas-adistar-control-5-watermelon-smoothie-semi-lucid-red-semi-solar-slime",
-        "in_stock": false
       },
       "9410290516156": {
         "title": "Air Jordan 8 Retro 'Chrome' - Black/White",
@@ -5005,6 +5000,11 @@
       "9364285391036": {
         "title": "Ice Cream Citrus Cargo Pants - Camo",
         "handle": "ice-cream-citrus-cargo-pants-camo",
+        "in_stock": true
+      },
+      "9364283293884": {
+        "title": "Ice Cream Lavender Jeans - Faded Ash",
+        "handle": "ice-cream-lavender-jeans-faded-ash",
         "in_stock": true
       }
     },
@@ -8768,12 +8768,8 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Kith: PUMA Suede Charles F. Stead VI - PUMA Black / Alpine Snow\nhttps://kith.com/products/pu40846403",
-      "detected_at": "2026-09-13T14:42:07.999205+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Kith: PUMA Suede Charles F. Stead VI - Aged Copper / Alpine Snow\nhttps://kith.com/products/pu40846404",
-      "detected_at": "2026-09-13T14:42:07.999205+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Ice Cream Lavender Jeans - Faded Ash\nhttps://sneakerpolitics.com/products/ice-cream-lavender-jeans-faded-ash",
+      "detected_at": "2026-09-13T17:42:33.478697+00:00"
     }
   ]
 }
