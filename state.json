@@ -1253,6 +1253,11 @@
       }
     },
     "https://undefeated.com": {
+      "6702727299333": {
+        "title": "VANS PREMIUM OLD SKOOL 36 'PEARLIZED' - GREEN/ MULTI",
+        "handle": "vans-premium-old-skool-36-pearlized-green-multi",
+        "in_stock": false
+      },
       "6702733984005": {
         "title": "NIKE SB X YUTO SS SKATE JERSEY - THUNDER BLUE/ SUMMIT WHITE",
         "handle": "nike-sb-x-yuto-ss-skate-jersey-thunder-blue-summit-white",
@@ -2496,11 +2501,6 @@
       "6702706622725": {
         "title": "NIKE SHOX BB4 - BLACK/ METALLIC SILVER / LAPIS",
         "handle": "nike-shox-bb4-black-metallic-silver-lapis",
-        "in_stock": true
-      },
-      "6702706491653": {
-        "title": "NIKE AIR FORCE 1 LUXE - BLACK/METALLIC SILVER / ANTHRACITE",
-        "handle": "nike-air-force-1-luxe-black-metallic-silver-anthracite",
         "in_stock": true
       }
     },
@@ -8292,7 +8292,7 @@
       "9109112291533": {
         "title": "MUZM Scar Sunglasses Polished Black / Prizm Black",
         "handle": "oakley-accessories-muzm-scar-black-j356740",
-        "in_stock": true
+        "in_stock": false
       },
       "9131999854797": {
         "title": "Men's AmbientWarp River Shirt Check Green",
@@ -8766,10 +8766,5 @@
       }
     }
   },
-  "pending_free": [
-    {
-      "message": "🔥 **Restock** at Undefeated: SALOMON X DOMINGO XT-4 OG - LEMON/ GOLD\nhttps://undefeated.com/products/salomon-x-domingo-xt-4-og-lemon-gold",
-      "detected_at": "2026-09-14T00:15:22.641385+00:00"
-    }
-  ]
+  "pending_free": []
 }
