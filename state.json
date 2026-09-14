@@ -1306,7 +1306,7 @@
       "6702723268869": {
         "title": "CONVERSE JACK PURCELL FS OX - WHITE",
         "handle": "converse-jack-purcell-fs-ox-white",
-        "in_stock": true
+        "in_stock": false
       },
       "6702723301637": {
         "title": "CONVERSE JACK PURCELL FS OX - MOUNTAIN VIEW",
@@ -2678,7 +2678,7 @@
       "10857176400139": {
         "title": "Nike\tAura Backpack 24 L",
         "handle": "nikeaura-backpack-24-l-black-black-gunmetal",
-        "in_stock": true
+        "in_stock": false
       },
       "10818548826379": {
         "title": "Adidas Adicolor Baggy Fit Firebird Trackpants",
@@ -3757,6 +3757,36 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9088636125372": {
+        "title": "Women's On Cloudtilt - White/Ivory",
+        "handle": "womens-on-cloudtilt-white-ivory",
+        "in_stock": true
+      },
+      "9187894132924": {
+        "title": "New Era x Timberland Houston Astros Pre Curve 19TWENTY Snapback - Wheat",
+        "handle": "new-era-x-timberland-houston-astros-pre-curve-19twenty-snapback-wheat",
+        "in_stock": true
+      },
+      "9502530404540": {
+        "title": "Palm Angels Neck Logo Tee - Black/Off White",
+        "handle": "palm-angels-neck-logo-tee-black-off-white",
+        "in_stock": true
+      },
+      "9586130747580": {
+        "title": "Nike Air Foamposite Pro Premium 'Green Camo' - Black/Black",
+        "handle": "nike-air-foamposite-pro-premium-green-camo-black-black-1",
+        "in_stock": false
+      },
+      "9586082676924": {
+        "title": "Politics x Timberland 6\" Waterproof Boot 'Rodeo' - Brown",
+        "handle": "politics-x-timberland-6-waterproof-boot-rodeo-brown",
+        "in_stock": false
+      },
+      "9586089885884": {
+        "title": "Politics x Timberland 6\" Waterproof Boot 'Outlaw' - Black",
+        "handle": "politics-x-timberland-6-waterproof-boot-outlaw-black",
+        "in_stock": false
+      },
       "9100853510332": {
         "title": "Rhude Fumar 91 Trucker Hat - Black/Red",
         "handle": "rhude-fumar-91-trucker-hat-black-red",
@@ -4975,36 +5005,6 @@
       "9364297941180": {
         "title": "Ice Cream Violet Tee - White",
         "handle": "ice-cream-violet-tee-white",
-        "in_stock": true
-      },
-      "9364297711804": {
-        "title": "Ice Cream Violet Tee - Black",
-        "handle": "ice-cream-violet-tee-black",
-        "in_stock": true
-      },
-      "9364294238396": {
-        "title": "Ice Cream Rose Tee - Black",
-        "handle": "ice-cream-rose-tee-black",
-        "in_stock": true
-      },
-      "9364292894908": {
-        "title": "Ice Cream Marshmallow Tee - White",
-        "handle": "ice-cream-marshmallow-tee-white",
-        "in_stock": true
-      },
-      "9364289323196": {
-        "title": "Ice Cream Root Beer Tee - Heather Grey",
-        "handle": "ice-cream-root-beer-tee-heather-grey",
-        "in_stock": true
-      },
-      "9364287193276": {
-        "title": "Ice Cream Choco Shorts - Jet Set",
-        "handle": "ice-cream-choco-shorts-jet-set",
-        "in_stock": true
-      },
-      "9364285391036": {
-        "title": "Ice Cream Citrus Cargo Pants - Camo",
-        "handle": "ice-cream-citrus-cargo-pants-camo",
         "in_stock": true
       }
     },
@@ -8304,11 +8304,6 @@
         "handle": "vans-footwear-lx-classic-slip-on-98-black-j361952",
         "in_stock": true
       },
-      "9107613286605": {
-        "title": "Men's 252MV Longsleeve T-Shirt Black",
-        "handle": "wtaps-clothing-252mv-ls-cotton-black-j356050",
-        "in_stock": false
-      },
       "9104743334093": {
         "title": "Paws Fishnet Five Fingers Socks Black",
         "handle": "roa-clothing-paws-fishnet-five-fingers-socks-black-j325771",
@@ -8763,173 +8758,30 @@
         "title": "Men's Rippy Cordura 8in Shorts Subterranean",
         "handle": "satisfy-clothing-rippy-cordura-8-shorts-grey-j367888",
         "in_stock": true
+      },
+      "9127722647757": {
+        "title": "Rippy Air Trail Cap Moonstruck",
+        "handle": "satisfy-accessories-rippy-air-trail-cap-grey-j367886",
+        "in_stock": true
       }
     }
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NIKE AIR FORCE 1 LUXE - BLACK/METALLIC SILVER / ANTHRACITE\nhttps://undefeated.com/products/nike-air-force-1-luxe-black-metallic-silver-anthracite",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's On Cloudtilt - White/Ivory\nhttps://sneakerpolitics.com/products/womens-on-cloudtilt-white-ivory",
+      "detected_at": "2026-09-14T20:46:50.621438+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: ADIDAS X HART COPY BW ARMY DECON - YELLOW\nhttps://undefeated.com/products/adidas-x-hart-copy-bw-army-decon-yellow",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Timberland Houston Astros Pre Curve 19TWENTY Snapback - Wheat\nhttps://sneakerpolitics.com/products/new-era-x-timberland-houston-astros-pre-curve-19twenty-snapback-wheat",
+      "detected_at": "2026-09-14T20:46:50.621438+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: OAKLEY SPEED CAT EYE JACKET REDUX - YELLOW BENGAL\nhttps://undefeated.com/products/oakley-speed-cat-eye-jacket-redux-yellow-bengal",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Palm Angels Neck Logo Tee - Black/Off White\nhttps://sneakerpolitics.com/products/palm-angels-neck-logo-tee-black-off-white",
+      "detected_at": "2026-09-14T20:46:50.621438+00:00"
     },
     {
-      "message": "🆕 **New drop** at Undefeated: VANS PREMUIM AUTHENTIC 'GEMSTONE' - MARSHMALLOW\nhttps://undefeated.com/products/vans-premuim-authentic-gemstone-marshmallow",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\t3-Stripes Fluffy Knit Crew Sweatshirt\nhttps://www.asphaltgold.de/products/adidas3stripes-fluffy-knit-crew-sweatshirt-medium-grey-heather",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Reversible Logo Beanie\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-reversible-logo-beanie-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Name Scarf\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-name-scarf-black-white",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Oyster Beanie\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-oyster-beanie-black-caviar",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Oyster Beanie\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-oyster-beanie-ecru-sand",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Reversible Logo Beanie\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-reversible-logo-beanie-burgundy",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Waffle Zip Up\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-waffle-zip-up-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Fleece Crewneck\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-fleece-crewneck-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association Wool Work Trousers\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-wool-work-trousers-navy-blue-pinstripe",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association NASA Track Pants\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-nasa-track-pants-night",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: New Amsterdam Surf Association NASA Track Jacket\nhttps://www.asphaltgold.de/products/new-amsterdam-surf-association-nasa-track-jacket-night",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Y-3 Y-3 Graphic Logo Beanie\nhttps://www.asphaltgold.de/products/adidas-y3-y3-graphic-logo-beanie-black-cream-white",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas Y-3 Y-3 Graphic Logo Beanie\nhttps://www.asphaltgold.de/products/adidas-y3-y3-graphic-logo-beanie-red-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Arte Antwerp Sunfade Atelier Jacket\nhttps://www.asphaltgold.de/products/arte-antwerp-sunfade-atelier-jacket-navy",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tFC Bayern Muenchen EQT Track Top\nhttps://www.asphaltgold.de/products/adidasfc-bayern-muenchen-eqt-track-top-red-white-semi-lucid-blue",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tManchester United EQT Track Top\nhttps://www.asphaltgold.de/products/adidasmanchester-united-eqt-track-top-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Rhude Fumar 91 Trucker Hat - Black/Red\nhttps://sneakerpolitics.com/products/rhude-fumar-91-trucker-hat-black-red",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Obey SPRAY EFFECT SWEATER\nhttps://www.afew-store.com/products/obey-spray-effect-sweater-dark-black-multi",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Obey DEAN STRIPE PLEATED PANT\nhttps://www.afew-store.com/products/obey-dean-stripe-pleated-pant-navy-pinstripe",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro WASHED ZIP THROUGH HOODIE\nhttps://www.afew-store.com/products/umbro-washed-zip-through-hoodie-black-sedona-sage",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro PINSTRIPE RELAXED PANT\nhttps://www.afew-store.com/products/umbro-pinstripe-relaxed-pant-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro WASHED DRILL JACKET\nhttps://www.afew-store.com/products/umbro-washed-drill-jacket-demitasse-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro RELAXED TRACK PANT\nhttps://www.afew-store.com/products/umbro-relaxed-track-pant-black-neutral-gray-brilliant-white",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro TAPED JERSEY\nhttps://www.afew-store.com/products/umbro-taped-ls-jersey-black-sedona-sage",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro TAPED JERSEY\nhttps://www.afew-store.com/products/umbro-taped-ls-jersey-cabernet-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro WASHED BOXY TEE\nhttps://www.afew-store.com/products/umbro-washed-boxy-tee-demitasse-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Afew Store: Umbro WASHED BOXY TEE\nhttps://www.afew-store.com/products/umbro-washed-boxy-tee-pelican-plaza-taupe",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Asics HYPERSYNC\nhttps://www.afew-store.com/products/asics-hypersync-carrier-grey-pure-silver",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: adidas Originals FIREBIRD Track Top\nhttps://www.afew-store.com/products/adidas-originals-firebird-track-top-auco",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Lacoste Water-Repellent Track Jacket\nhttps://www.afew-store.com/products/lacoste-track-jacket-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Lacoste Knit CREWNECK\nhttps://www.afew-store.com/products/lacoste-crewnecks-honey",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Afew Store: Lacoste Loose Fit Corduroy Pant\nhttps://www.afew-store.com/products/lacoste-trousers-black",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Air Max Dolce Sneakers Metallic Silver\nhttps://www.slamjam.com/products/nike-footwear-wmns-w-air-max-dolce-grey-j370349",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Wayborne Boots Black\nhttps://www.slamjam.com/products/dr-martens-footwear-alp-boot-black-j367930",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Rejena Loafers Spiced Brown / Black\nhttps://www.slamjam.com/products/dr-martens-footwear-wmns-rejena-loafer-brown-j367928",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Women's Avocet Leather Boots Espresso Brown\nhttps://www.slamjam.com/products/kiko-kostadinov-footwear-wmns-avocet-leather-boots-brown-j359637",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
-    },
-    {
-      "message": "🔥 **Restock** at Slam Jam: Cecilie Bahnsen GEL-Kinetic FR Sneakers Piedmont Grey / Pure Silver\nhttps://www.slamjam.com/products/asics-footwear-gel-kinetic-fr-grey-j359683",
-      "detected_at": "2026-09-14T16:50:29.403373+00:00"
+      "message": "🆕 **New drop** at Slam Jam: Rippy Air Trail Cap Moonstruck\nhttps://www.slamjam.com/products/satisfy-accessories-rippy-air-trail-cap-grey-j367886",
+      "detected_at": "2026-09-14T20:46:50.621438+00:00"
     }
   ]
 }
