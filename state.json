@@ -2738,7 +2738,7 @@
       "10883508142347": {
         "title": "AMI Paris\tNylon Marcel Small Shopping Bag",
         "handle": "ami-parisnylon-marcel-small-shopping-bag-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10883331457291": {
         "title": "AMI Paris\tAmi De Coeur Knitted Patch Polo",
@@ -2808,7 +2808,7 @@
       "10793526984971": {
         "title": "Adidas x Wales Bonner Wmns Knit Track Top",
         "handle": "adidas-x-wales-bonner-wmns-knit-track-top-better-scarlet",
-        "in_stock": true
+        "in_stock": false
       },
       "10675183517963": {
         "title": "C.P. Company Extra Fine Merino Wool Knit Goggle Beanie",
@@ -2988,7 +2988,7 @@
       "10818548826379": {
         "title": "Adidas Adicolor Baggy Fit Firebird Trackpants",
         "handle": "adidas-adicolor-baggy-fit-firebird-trackpants-grey-strata-black",
-        "in_stock": true
+        "in_stock": false
       },
       "10855645643019": {
         "title": "Levi's 578 Baggy",
@@ -3198,7 +3198,7 @@
       "10866440569099": {
         "title": "Clarks Originals Walla Yukoner",
         "handle": "clarks-originals-walla-yukoner-brown",
-        "in_stock": true
+        "in_stock": false
       },
       "10901243560203": {
         "title": "Diemme Cornaro Due Gomma",
@@ -3757,6 +3757,106 @@
       }
     },
     "https://sneakerpolitics.com": {
+      "9303428432060": {
+        "title": "Nike Air Zoom Huarache 2K4 OT - Black/Black",
+        "handle": "nike-air-zoom-huarache-2k4-ot-black-black",
+        "in_stock": true
+      },
+      "9262354235580": {
+        "title": "Politics Workout Graffiti Logo Socks - Pink",
+        "handle": "politics-workout-graffiti-logo-socks-pink",
+        "in_stock": true
+      },
+      "7731842744508": {
+        "title": "Politics Script Logo Socks - Green",
+        "handle": "politics-script-logo-socks-green",
+        "in_stock": false
+      },
+      "9590852157628": {
+        "title": "Nike Kobe III Protro 'Orca' - Black/White",
+        "handle": "nike-kobe-iii-protro-orca-black-white",
+        "in_stock": false
+      },
+      "9590786064572": {
+        "title": "Air Jordan 1 Low OG 'Last Dance At The Garden' - Black/Varsity Red",
+        "handle": "air-jordan-1-low-og-last-dance-at-the-garden-black-varsity-red",
+        "in_stock": false
+      },
+      "9397664678076": {
+        "title": "Fear Of God Essentials Cut Off 90's Tee - Chalk",
+        "handle": "fear-of-god-essentials-cut-off-90s-tee-chalk",
+        "in_stock": true
+      },
+      "9164350521532": {
+        "title": "Vans LX Old Skool 36 'Souvenir' - Navy",
+        "handle": "vans-lx-old-skool-36-souvenir-navy",
+        "in_stock": false
+      },
+      "9097356673212": {
+        "title": "Vans LX Old Skool 36 'Souvenir' - Faded Black",
+        "handle": "vans-lx-old-skool-36-souvenir-faded-black",
+        "in_stock": true
+      },
+      "9069589921980": {
+        "title": "New Era x Politics Chicago White Sox 59FIFTY Fitted - Chrome/Stone",
+        "handle": "new-era-x-politics-chicago-white-sox-59fifty-fitted-chrome-stone-1",
+        "in_stock": true
+      },
+      "8949226995900": {
+        "title": "Politics x Adidas LA 'Festival' Trainer OG - Semi Pulse Lilac/Shock Pink",
+        "handle": "adidas-la-trainer-og-semi-pulse-lilac-shock-pink",
+        "in_stock": true
+      },
+      "9356500566204": {
+        "title": "Nike Air Zoom Flight 'The Glove' - Black/White",
+        "handle": "nike-air-zoom-flight-the-glove-black-white",
+        "in_stock": true
+      },
+      "8687700836540": {
+        "title": "A Bathing Ape Bape Sta Logo Cap - Black",
+        "handle": "a-bathing-ape-bape-sta-logo-cap-black",
+        "in_stock": true
+      },
+      "8244566720700": {
+        "title": "Cazal 616 Sunglasses - Black",
+        "handle": "cazal-616-sunglasses-black",
+        "in_stock": true
+      },
+      "8715509137596": {
+        "title": "Eastside Golf Embroidered Woven Short - Pumice",
+        "handle": "eastside-golf-embroidered-woven-short-pumice",
+        "in_stock": true
+      },
+      "8796258762940": {
+        "title": "Market Skelly Knit Sweater - Black/White",
+        "handle": "market-skelly-knit-sweater-black-white",
+        "in_stock": true
+      },
+      "8913503748284": {
+        "title": "Honor The Gift Like That Tee - Black",
+        "handle": "honor-the-gift-like-that-tee-black",
+        "in_stock": true
+      },
+      "8950703947964": {
+        "title": "Diet Starts Monday Hopkins Pant - Checkered Grey",
+        "handle": "diet-starts-monday-hopkins-pant-checkered-grey",
+        "in_stock": true
+      },
+      "9103627911356": {
+        "title": "Saucony Progrid Omni 9 - Citron",
+        "handle": "saucony-progrid-omni-9-citron",
+        "in_stock": true
+      },
+      "9106342412476": {
+        "title": "Women's Nike Vomero Plus - Summit White/Chalk",
+        "handle": "womens-nike-vomero-plus-summit-white-chalk",
+        "in_stock": true
+      },
+      "9118587551932": {
+        "title": "Women's Nike Vomero Premium - Particle Rose/Burgundy Crush",
+        "handle": "womens-nike-vomero-premium-particle-rose-burgundy-crush",
+        "in_stock": false
+      },
       "9154689794236": {
         "title": "Purple Brand Hickory Denim Shorts - Light Indigo",
         "handle": "purple-brand-hickory-denim-shorts-light-indigo",
@@ -3900,7 +4000,7 @@
       "9100853510332": {
         "title": "Rhude Fumar 91 Trucker Hat - Black/Red",
         "handle": "rhude-fumar-91-trucker-hat-black-red",
-        "in_stock": true
+        "in_stock": false
       },
       "9363821723836": {
         "title": "Politics x '47 Polka Dot Hitch Snapback - Royal",
@@ -4460,7 +4560,7 @@
       "9354210541756": {
         "title": "Nike Air Diamond Turf II '49ers' (GS) - Black/White",
         "handle": "nike-air-diamond-turf-ii-49ers-gs-black-white",
-        "in_stock": true
+        "in_stock": false
       },
       "9356309266620": {
         "title": "Nike Air Diamond Turf II '49ers' - Black/White",
@@ -4685,7 +4785,7 @@
       "9283267199164": {
         "title": "Nike ACG LDV - Dark Sulfur/Photo Blue",
         "handle": "nike-acg-ldv-dark-sulfur-photo-blue",
-        "in_stock": true
+        "in_stock": false
       },
       "9243409383612": {
         "title": "A Bathing Ape Bape Sta #4 M2 - Red/White",
@@ -4905,106 +5005,6 @@
       "9358341734588": {
         "title": "Adidas Adistar XLG 2.0 - Core Black/Iron Metallic",
         "handle": "adidas-adistar-xlg-2-0-core-black-iron-metallic",
-        "in_stock": true
-      },
-      "9358351892668": {
-        "title": "Adidas Adistar XLG 2.0 - Cloud White/Silver Metallic",
-        "handle": "adidas-adistar-xlg-2-0-cloud-white-silver-metallic",
-        "in_stock": true
-      },
-      "9409985642684": {
-        "title": "Women's Liberty London x Adidas Handball Spezial - Aurora Coffee/Magic Mauve",
-        "handle": "womens-liberty-london-x-adidas-handball-spezial-aurora-coffee-magic-mauve",
-        "in_stock": true
-      },
-      "9409996718268": {
-        "title": "Women's Liberty London x Adidas Japan - Aurora Coffee/Magic Mauve",
-        "handle": "womens-liberty-london-x-adidas-japan-aurora-coffee-magic-mauve",
-        "in_stock": true
-      },
-      "9507988340924": {
-        "title": "Nike ACG Baltoro - Light British Tan/Geode Teal",
-        "handle": "nike-acg-baltoro-light-british-tan-geode-teal",
-        "in_stock": true
-      },
-      "9357569589436": {
-        "title": "Nike Air Liquid Max - Black/Black",
-        "handle": "nike-air-liquid-max-black-black",
-        "in_stock": true
-      },
-      "9365288747196": {
-        "title": "Malbon Golf Bermuda Benchmark Tee - Black",
-        "handle": "malbon-golf-bermuda-benchmark-tee-black",
-        "in_stock": true
-      },
-      "9459028754620": {
-        "title": "Levi's 568 Loose Straight Corduroy Carpenter Pants - Perfect Storm",
-        "handle": "levis-568-loose-straight-corduroy-carpenter-pants-perfect-storm",
-        "in_stock": true
-      },
-      "9459145113788": {
-        "title": "Levi's Relaxed L/S Worker Shirt - Tex Forest Camo",
-        "handle": "levis-relaxed-l-s-worker-shirt-tex-forest-camo",
-        "in_stock": true
-      },
-      "9341118021820": {
-        "title": "Nike ACG Smith Summit Cargo Shorts - Tattoo/Mystic Dates",
-        "handle": "nike-acg-smith-summit-cargo-shorts-tattoo-mystic-dates",
-        "in_stock": true
-      },
-      "9501225189564": {
-        "title": "Oakley FGL Factor Shorts 6.0 - Phantom",
-        "handle": "oakley-fgl-factor-shorts-6-0-phantom",
-        "in_stock": true
-      },
-      "9370379583676": {
-        "title": "Ryoko Rain Vintage Patch Work Jacket - Multi",
-        "handle": "ryoko-rain-vintage-patch-work-jacket-multi",
-        "in_stock": true
-      },
-      "9370378141884": {
-        "title": "Ryoko Rain Distressed Plaid Rhinestone Flannel - Black/White",
-        "handle": "ryoko-rain-distressed-plaid-rhinestone-flannel-black-white",
-        "in_stock": true
-      },
-      "9370374471868": {
-        "title": "Ryoko Rain Butterfly Jersey - Blue",
-        "handle": "ryoko-rain-butterfly-jersey-blue",
-        "in_stock": true
-      },
-      "9370369884348": {
-        "title": "Ryoko Rain Reversible Bomber Jacket - Black/Green",
-        "handle": "ryoko-rain-reversible-bomber-jacket-black-green",
-        "in_stock": true
-      },
-      "9217435762876": {
-        "title": "A Bathing Ape Bape Sta Fake Print Shorts - Light Indigo",
-        "handle": "a-bathing-ape-bape-sta-fake-print-shorts-light-indigo",
-        "in_stock": true
-      },
-      "9297353375932": {
-        "title": "Nike Air Force 1 Low Retro (GS) - Dark Obsidian/White",
-        "handle": "nike-air-force-1-low-retro-gs-dark-obsidian-white",
-        "in_stock": true
-      },
-      "9356144705724": {
-        "title": "Rhude Tiger Camo Double-Layered Tee - Camo/White",
-        "handle": "rhude-tiger-camo-double-layered-tee-camo-white",
-        "in_stock": true
-      },
-      "9043721322684": {
-        "title": "Adidas Predator 94 ST - Iron Metallic/Matte Silver",
-        "handle": "adidas-predator-94-st-iron-metallic-matte-silver",
-        "in_stock": true
-      },
-      "9513523806396": {
-        "title": "Awake NY x Jordan Track Jacket - Midnight Navy/Infrared 23",
-        "handle": "awake-ny-x-jordan-track-jacket-midnight-navy-infrared-23",
-        "in_stock": true
-      },
-      "9513560932540": {
-        "title": "Awake NY x Jordan Tee - White/Light Blue",
-        "handle": "awake-ny-x-jordan-tee-white-light-blue",
         "in_stock": true
       }
     },
@@ -8768,172 +8768,64 @@
   },
   "pending_free": [
     {
-      "message": "🆕 **New drop** at Undefeated: NEW BALANCE 2010 - ARIDSTONE\nhttps://undefeated.com/products/new-balance-2010-aridstone",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Zoom Huarache 2K4 OT - Black/Black\nhttps://sneakerpolitics.com/products/nike-air-zoom-huarache-2k4-ot-black-black",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Adidas\tOregon Ultra Tech\nhttps://www.asphaltgold.de/products/adidasoregon-ultra-tech-iron-metallic-frozen-puple-utility-black",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics Workout Graffiti Logo Socks - Pink\nhttps://sneakerpolitics.com/products/politics-workout-graffiti-logo-socks-pink",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma K-Steet MA Suede\nhttps://www.asphaltgold.de/products/puma-ksteet-ma-suede-frosted-ivory-puma-black",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Fear Of God Essentials Cut Off 90's Tee - Chalk\nhttps://sneakerpolitics.com/products/fear-of-god-essentials-cut-off-90s-tee-chalk",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma K-Steet MA Suede\nhttps://www.asphaltgold.de/products/puma-ksteet-ma-suede-puma-black-warm-white",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Vans LX Old Skool 36 'Souvenir' - Faded Black\nhttps://sneakerpolitics.com/products/vans-lx-old-skool-36-souvenir-faded-black",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Suede Bloom Wmns\nhttps://www.asphaltgold.de/products/puma-suede-bloom-wmns-rich-cocoa-chocolate-fondue",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: New Era x Politics Chicago White Sox 59FIFTY Fitted - Chrome/Stone\nhttps://sneakerpolitics.com/products/new-era-x-politics-chicago-white-sox-59fifty-fitted-chrome-stone-1",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: Puma Suede Hike\nhttps://www.asphaltgold.de/products/puma-suede-hike-cashew-gum",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Politics x Adidas LA 'Festival' Trainer OG - Semi Pulse Lilac/Shock Pink\nhttps://sneakerpolitics.com/products/adidas-la-trainer-og-semi-pulse-lilac-shock-pink",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Asphaltgold: C.P. Company Down Shield Lens Hooded Puffer\nhttps://www.asphaltgold.de/products/cp-company-down-shield-lens-hooded-puffer-black",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Zoom Flight 'The Glove' - Black/White\nhttps://sneakerpolitics.com/products/nike-air-zoom-flight-the-glove-black-white",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Purple Brand Hickory Denim Shorts - Light Indigo\nhttps://sneakerpolitics.com/products/purple-brand-hickory-denim-shorts-light-indigo",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: A Bathing Ape Bape Sta Logo Cap - Black\nhttps://sneakerpolitics.com/products/a-bathing-ape-bape-sta-logo-cap-black",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Foamposite Pro - Black/Voltage Yellow\nhttps://sneakerpolitics.com/products/nike-air-foamposite-pro-black-voltage-yellow",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Cazal 616 Sunglasses - Black\nhttps://sneakerpolitics.com/products/cazal-616-sunglasses-black",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air Force 1 '07 LV8 - Phantom/Fir\nhttps://sneakerpolitics.com/products/nike-air-force-1-07-lv8-phantom-fir",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Eastside Golf Embroidered Woven Short - Pumice\nhttps://sneakerpolitics.com/products/eastside-golf-embroidered-woven-short-pumice",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nothing Grows Overnight Arched Pullover Hoodie - Red\nhttps://sneakerpolitics.com/products/nothing-grows-overnight-arched-pullover-hoodie-red",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Market Skelly Knit Sweater - Black/White\nhttps://sneakerpolitics.com/products/market-skelly-knit-sweater-black-white",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Stussy Surplus Shorts - Olive\nhttps://sneakerpolitics.com/products/stussy-surplus-shorts-olive",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Honor The Gift Like That Tee - Black\nhttps://sneakerpolitics.com/products/honor-the-gift-like-that-tee-black",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Vomero Premium QS 'Fleur De Lis' - Geyser Grey/Peony\nhttps://sneakerpolitics.com/products/womens-nike-vomero-premium-qs-fleur-de-lis-geyser-grey-peony",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Diet Starts Monday Hopkins Pant - Checkered Grey\nhttps://sneakerpolitics.com/products/diet-starts-monday-hopkins-pant-checkered-grey",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Oakley MUZM Fatcat - Matte Black/Prizm Grey\nhttps://sneakerpolitics.com/products/oakley-muzm-fatcat-matte-black-prizm-grey",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Saucony Progrid Omni 9 - Citron\nhttps://sneakerpolitics.com/products/saucony-progrid-omni-9-citron",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     },
     {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Pegasus Premium SP - Caldera Brown/Pecan\nhttps://sneakerpolitics.com/products/nike-pegasus-premium-sp-caldera-brown-pecan",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Dunk Low Retro - Phantom/Team Red\nhttps://sneakerpolitics.com/products/nike-dunk-low-retro-phantom-team-red",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Nike Air More Uptempo '96 - Black/White\nhttps://sneakerpolitics.com/products/nike-air-more-uptempo-96-black-white",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Asics Gel-Kayano 14 - Cream/Blue Coast\nhttps://sneakerpolitics.com/products/asics-gel-kayano-14-cream-blue-coast",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Barriers Worldwide x Aaliyah One In A Million Tee - Black\nhttps://sneakerpolitics.com/products/barriers-worldwide-x-aaliyah-one-in-a-million-tee-black",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Barriers Worldwide x Aaliyah Live Free Hoodie - Black\nhttps://sneakerpolitics.com/products/barriers-woldwide-x-aaliyah-live-free-hoodie-black",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Barriers Worldwide x Aaliyah Live Free Tee - Black\nhttps://sneakerpolitics.com/products/barriers-worldwide-x-aaliyah-live-free-tee-black",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Sneaker Politics: Domingo x Salomon XT-4 OG - Lemon/Gold\nhttps://sneakerpolitics.com/products/domingo-x-salomon-xt-4-og-lemon-gold",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's MD Branch Manager Shortsleeve Shirt Multicolor\nhttps://www.slamjam.com/products/cav-empt-clothing-md-branch-manager-short-sleeve-shirt-multicolor-j360719",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Half Button Up Shortsleeve Knit Red\nhttps://www.slamjam.com/products/cav-empt-clothing-half-button-up-short-sleeve-knit-red-j360743",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Light Nylon BDU Jacket Grey\nhttps://www.slamjam.com/products/cav-empt-clothing-light-nylon-bdu-grey-j360714",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Nylon Cardigan Green\nhttps://www.slamjam.com/products/cav-empt-clothing-nylon-cardigan-green-j360713",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Digi8 Combat Shorts Grey\nhttps://www.slamjam.com/products/cav-empt-clothing-digi8-combat-shorts-grey-j360725",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Overdye Consumer Desire Heavy T-Shirt Charcoal\nhttps://www.slamjam.com/products/cav-empt-clothing-overdye-consumer-desire-heavy-t-grey-j360755",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's AS 2D3Pursuit T-Shirt Black\nhttps://www.slamjam.com/products/cav-empt-clothing-as-2d3pursuit-t-black-j360750",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Washed AS Mere Reality Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/cav-empt-clothing-washed-as-mere-reality-long-sleeve-t-black-j360756",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's MD Arena 7 T-Shirt Beige\nhttps://www.slamjam.com/products/cav-empt-clothing-md-arena-7-t-beige-j360749",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Portray #4 T-Shirt White\nhttps://www.slamjam.com/products/cav-empt-clothing-portray-4-t-white-j360745",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 1st Camo Shark Full Zip Hoodie Green\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-1st-camo-shark-full-zip-hoodie-green-j364380",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's College Longsleeve T-Shirt Black\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-college-ls-tee-black-j364379",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's 1st Camo College T-Shirt Green\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-1st-camo-college-tee-green-j364374",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Bape Sticker Set Multicolor\nhttps://www.slamjam.com/products/a-bathing-ape-lifestyle-bape-sticker-set-multicolor-j364378",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: ABC Camo Compact Bath Towel Green\nhttps://www.slamjam.com/products/a-bathing-ape-lifestyle-abc-camo-compact-bath-towel-green-j364387",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Mad Face Ashtray Black\nhttps://www.slamjam.com/products/a-bathing-ape-lifestyle-mad-face-ashtray-black-j364376",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's College T-Shirt Black\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-college-tee-black-j364368",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Ape Head One Point Knit Cap Black\nhttps://www.slamjam.com/products/a-bathing-ape-accessories-ape-head-one-point-knit-cap-black-j364364",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Big Baby Milo T-Shirt Black\nhttps://www.slamjam.com/products/a-bathing-ape-clothing-big-baby-milo-tee-black-j364372",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
-    },
-    {
-      "message": "🆕 **New drop** at Slam Jam: Men's Selvedge Indigo Denim-Raw Regular Fit Jeans Blue Raw\nhttps://www.slamjam.com/products/stone-island-clothing-denim-research-indigo-denim-straight-jeans-blue-j345658",
-      "detected_at": "2026-09-15T17:32:38.681910+00:00"
+      "message": "🆕 **New drop** at Sneaker Politics: Women's Nike Vomero Plus - Summit White/Chalk\nhttps://sneakerpolitics.com/products/womens-nike-vomero-plus-summit-white-chalk",
+      "detected_at": "2026-09-15T20:27:39.672982+00:00"
     }
   ]
 }
